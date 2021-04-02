@@ -7,11 +7,11 @@ media_folder: "src/static/img"
 public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-# local_backend: true
+local_backend: true
 # publish_mode: editorial_workflow
 collections:
   - label: "exhibits with primary video"
-    name: "exhibits"
+    name: "exhibits-video"
     folder: "src/exhibits"
     format: frontmatter
     create: true
@@ -26,6 +26,36 @@ collections:
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Primary Video", name: "video", widget: "string" }
       - { label: "Primary Video Caption", name: "caption", widget: "string" }
+      - { label: "Author Bio", name: "authorbio", widget: "text" }
+      - { label: "Author Image", name: "authorimage", widget: "image" }
+      - label: "Process images"
+        name: "tertiaryfiles"
+        widget: "list"
+        fields:
+        - { label: "Process Image", name: "tervis", widget: "image"}
+        - { label: "Process Image Caption", name: "tertxt", widget: "string"}
+        required: false        
+  - label: "exhibits with primary images"
+    name: "exhibits-images"
+    folder: "src/exhibits"
+    format: frontmatter
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-images" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "SubTitle", name: "subtitle", widget: "string" }
+      - { label: "Medium", name: "medium", widget: "string" }
+      - { label: "Year", name: "year", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - label: "Primary Images"
+        name: "exhibitimages"
+        widget: "list"
+        fields:
+        - { label: "Primary Image", name: "privis", widget: "image"}
+        - { label: "Primary Image Caption", name: "pritxt", widget: "string"}
+     
       - { label: "Author Bio", name: "authorbio", widget: "text" }
       - { label: "Author Image", name: "authorimage", widget: "image" }
       - label: "Process images"

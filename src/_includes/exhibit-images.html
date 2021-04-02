@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="flex min-h-screen ml-20 overflow-x-auto items-center" onwheel="handleScroll()"> 
+<div class="flex min-h-screen ml-20"> 
 
-	<section class="flex flex-col">
+	<section>
 		<h1>{{title}}</h1>
 		<h2>{{subtitle}}</h2>
 		<h3>{{medium}} , {{year}} </h3>
@@ -12,20 +12,20 @@ layout: default
 		{{description | safe}}
 		</p>
 	</section>
-	<section class="flex flex-col">
-		<iframe src={{video}}></iframe>	
-		<p>{{caption}}</p>
+	{%- for images in exhibitimages -%}
+	<section>
+		<img src={{images.privis}}>	
+		<p>{{images.pritxt}}</p>
 	</section>
-	<section class="flex flex-col">
+	{%- endfor -%}	
+	<section>
 		<img src={{authorimage}}>
 		<p>{{authorbio | safe}}</p>
 	</section>
-	<section class="flex">
+	<section>
 	{%- for images in tertiaryfiles -%}
-	<div class="flex flex-col">
 		<img src={{images.tervis}}>
 		<p>{{images.tertxt}}</p>
-	</div>	
 	{%- endfor -%}	
 	</section>
 

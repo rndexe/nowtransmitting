@@ -5,7 +5,7 @@ subtitle: sdfsfd
 medium: dsfsfdsdf
 year: sdfsdfsdfsdf
 description: sdfsdf
-video: sdfsdfsfs
+video: https://www.youtube.com/embed/jp0dPMpJ0bI 
 caption: dfsfsdfsdf
 authorbio: sfsdfsdfsdfsfsdfsdfs
 authorimage: /static/img/download.jpeg
