@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="flex min-h-screen ml-20 overflow-x-auto"> 
+
+	<section>
+		<h1>{{title}}</h1>
+		<h2>{{subtitle}}</h2>
+		<h3>{{medium}} , {{year}} </h3>
+		<p>
+		{{description | safe}}
+		</p>
+	</section>
+	<section>
+		<iframe src={{video}}></iframe>	
+		<p>{{caption}}</p>
+	</section>
+	<section>
+		<img src={{authorimage}}>
+		<p>{{authorbio | safe}}</p>
+	</section>
+	<section>
+	{%- for images in tertiaryfiles -%}
+		<img src={{images.tervis}}>
+		<p>{{images.tertxt}}</p>
+	{%- endfor -%}	
+	</section>
+
+</div>
+

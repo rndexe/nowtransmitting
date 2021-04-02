@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neat Starter
+title: Contagion
 path: home
 ---
 
@@ -12,11 +12,14 @@ path: home
     </strong>
   </h1>
 
+
   <p>
-    <abbr title="netlify cms, eleventy, alpine js & tailwind css">NEAT</abbr>
-    Starter Template. Get Started by editing.
-    <code class="bg-gray-100 text-blue-800 p-1">/index.njk</code>
+<ul>
+{%- for post in collections.exhibit -%}
+<li><a href = {{post.url}}>{{ post.data.title }}</a></li>
+{%- endfor -%}
+</ul>
+
   </p>
 
-  {% include "./_includes/partials/content.html" %}
 </div>

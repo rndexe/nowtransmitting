@@ -3,66 +3,37 @@ backend:
   name: git-gateway
   branch: master
   ### enable below lines for github integration ###
-  # name: github
-  # repo: surjithctly/neat-starter
+   name: github
+   repo: rndexe/eleventy-demo
 media_folder: "src/static/img"
 public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: true
+# local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Blog"
-    name: "blog"
-    folder: "src/posts"
+  - label: "exhibits with primary video"
+    name: "exhibits"
+    folder: "src/exhibits"
+    format: frontmatter
     create: true
     editor:
       preview: false
     fields:
+      - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
-        name: "tags"
-        multiple: true
-        create: true
-        options: ["Tags", "created", "from", "config.yml"]
-  - label: "Settings"
-    name: "settings"
-    editor:
-      preview: false
-    files:
-      - label: "Navigation"
-        name: "items"
-        file: "src/_data/navigation.yaml"
+      - { label: "SubTitle", name: "subtitle", widget: "string" }
+      - { label: "Medium", name: "medium", widget: "string" }
+      - { label: "Year", name: "year", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Primary Video", name: "video", widget: "string" }
+      - { label: "Primary Video Caption", name: "caption", widget: "string" }
+      - { label: "Author Bio", name: "authorbio", widget: "text" }
+      - { label: "Author Image", name: "authorimage", widget: "image" }
+      - label: "Process images"
+        name: "tertiaryfiles"
+        widget: "list"
         fields:
-          - label: Nav Items
-            name: items
-            widget: list
-            allow_add: false
-            collapsed: false
-            fields:
-              - { label: Title, name: text, widget: string }
-              - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
-        name: "links"
-        file: "src/_data/quicklinks.yaml"
-        fields:
-          - label: Nav Items
-            name: links
-            widget: list
-            collapsed: false
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
-      - label: "Meta Settings"
-        name: "settings"
-        file: "src/_data/settings.yaml"
-        fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
-          - { label: URL, name: url, widget: string }
+        - { label: "Process Image", name: "tervis", widget: "image"}
+        - { label: "Process Image Caption", name: "tertxt", widget: "string"}
+        required: false        
