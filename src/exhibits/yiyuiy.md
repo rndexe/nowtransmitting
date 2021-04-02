@@ -10,6 +10,8 @@ exhibitimages:
     pritxt: dghfgiouiouiouiou
   - privis: /static/img/download.jpeg
     pritxt: uiououiouiou
+  - privis: /static/img/download.jpeg
+    pritxt: dfgdfg
 authorbio: yuiyuiyiyiyuiyuiyi
 authorimage: /static/img/download.jpeg
 ---
