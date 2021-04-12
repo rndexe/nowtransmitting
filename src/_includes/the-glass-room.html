@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div> 
+
+	<section>
+		<h1>{{title}}</h1>
+		<h2>{{subtitle}}</h2>
+		<h3>{{medium}} , {{year}} </h3>
+		<p>
+		{{description | safe}}
+		</p>
+	</section>
+
+	<section>
+		<p>{{essay}}</p>
+	</section>
+	<section>
+		<a href={{exhibitembed1.pritxt}}>
+			<img src={{exhibitembed1.privis}}></a>
+	</section>
+	<section>
+		<a href={{exhibitembed2.pritxt}}>
+			<img src={{exhibitembed2.privis}}></a>
+	</section>
+
+	<section>
+	{%- for images in exhibitimages -%}
+	<div>
+		<img src={{images.privis}}>
+		<p>{{images.pritxt}}</p>
+	</div>	
+	</section>
+	{%- endfor -%}	
+	<section>
+	{%- for author in exhibitauthor -%}
+	<div>
+		<img src={{author.authorimage}}>
+		<p>{{author.authorbio}}</p>
+	</div>	
+	</section>
+	{%- endfor -%}	
+</div>

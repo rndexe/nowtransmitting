@@ -6,14 +6,9 @@ layout: default
 
 	{% include "./partials/exhibit_title.html" %}
 	<section>
-		<p>{{essay | safe}}</p>
+		<iframe src={{exhibitvideo.privis}}></iframe>	
+		<p>{{exhibitvideo.pritxt}}</p>
 	</section>
-	{%- for images in exhibitimages -%}
-	<section>
-		<img src={{images.privis}}>	
-		<p>{{images.pritxt}}</p>
-	</section>
-	{%- endfor -%}	
 	<section>
 		<img src={{authorimage}}>
 		<p>{{authorbio | safe}}</p>

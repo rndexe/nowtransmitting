@@ -7,61 +7,1000 @@ media_folder: "src/static/img"
 public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-#local_backend: true
-# publish_mode: editorial_workflow
+local_backend: true
+publish_mode: editorial_workflow
 collections:
-  - label: "exhibits with primary video"
-    name: "exhibits-video"
-    folder: "src/exhibits"
-    format: frontmatter
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "SubTitle", name: "subtitle", widget: "string" }
-      - { label: "Medium", name: "medium", widget: "string" }
-      - { label: "Year", name: "year", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Primary Video", name: "video", widget: "string" }
-      - { label: "Primary Video Caption", name: "caption", widget: "string" }
-      - { label: "Author Bio", name: "authorbio", widget: "text" }
-      - { label: "Author Image", name: "authorimage", widget: "image" }
-      - label: "Process images"
-        name: "tertiaryfiles"
-        widget: "list"
-        fields:
-        - { label: "Process Image", name: "tervis", widget: "image"}
-        - { label: "Process Image Caption", name: "tertxt", widget: "string"}
-        required: false        
-  - label: "exhibits with primary images"
-    name: "exhibits-images"
-    folder: "src/exhibits"
-    format: frontmatter
-    create: true
-    editor:
-      preview: false
-    fields:
-      - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-images" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "SubTitle", name: "subtitle", widget: "string" }
-      - { label: "Medium", name: "medium", widget: "string" }
-      - { label: "Year", name: "year", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
-      - label: "Primary Images"
-        name: "exhibitimages"
-        widget: "list"
-        fields:
-        - { label: "Primary Image", name: "privis", widget: "image"}
-        - { label: "Primary Image Caption", name: "pritxt", widget: "string"}
-     
-      - { label: "Author Bio", name: "authorbio", widget: "text" }
-      - { label: "Author Image", name: "authorimage", widget: "image" }
-      - label: "Process images"
-        name: "tertiaryfiles"
-        widget: "list"
-        fields:
-        - { label: "Process Image", name: "tervis", widget: "image"}
-        - { label: "Process Image Caption", name: "tertxt", widget: "string"}
-        required: false        
+  - label: "Exhibits"
+    name : "exhibits"
+    files : 
+          - label: "Controlling the Plague in British India"
+            name: "plague-british-india"
+            file: "src/exhibits/plague-british-india.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "plague-british-india" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Essay", name: "essay", widget: "text" , required: false }
+              - label: "Primary Images"
+                name: "exhibitimages"
+                widget: "list"
+                fields:
+                - { label: "Primary Image", name: "privis", widget: "image", required: false }
+                - { label: "Primary Image Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+              - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+              - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+
+          - label: "2020 vision"
+            name: "2020-vision"
+            file: "src/exhibits/2020-vision.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "2020-vision" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - label: "Primary Videos"
+                name: "exhibitimages"
+                fields:
+                - { label: "Primary Video", name: "privis", widget: "string", required: false }
+                - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+              - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+              - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
+              - label: "Process Images"
+                name: "processimages"
+                widget: "list"
+                fields:
+                - { label: "Process Image", name: "tervis", widget: "image", required: false }
+                - { label: "Process Image Caption", name: "tertxt", widget: "string", required: false }
+                required: false  
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Play Link"
+                name: "play"
+                fields:
+                - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
+                - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
+                - { label: "Play Link Thumbnail", name: "quadplayvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+          - label: "Drawing the Bombay Plague"
+            name: "bombay-plague"
+            file: "src/exhibits/bombay-plague.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "bombay-plague" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+              - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
+              - label: "Process Images"
+                name: "processimages"
+                fields:
+                - { label: "Process Video", name: "tervis", widget: "string", required: false }
+                - { label: "Process Image Caption", name: "tertxt", widget: "string", required: false }
+                required: false  
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+         
+          - label: "Theriak | Disease Map"
+            name: "theriak"
+            file: "src/exhibits/theriak.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "theriak" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - label: "Primary Video"
+                name: "exhibitvideo"
+                fields:
+                - { label: "Primary Video", name: "privis", widget: "string", required: false }
+                - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+
+              - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+              - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+          - label: "Putting the Ant in Antibiotics"
+            name: "ant-antibiotics"
+            file: "src/exhibits/ant-antibiotics.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "ant-antibiotics" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Essay", name: "essay", widget: "text" , required: false }
+              - label: "Primary stream"
+                name: "exhibitstream"
+                fields:
+                - { label: "Primary stream", name: "privis1", widget: "string", required: false }
+                - { label: "Primary stream Caption", name: "pritxt1", widget: "string", required: false }
+                required: false  
+
+              - label: "Primary Images"
+                name: "exhibitimages"
+                widget: "list"
+                fields:
+                - { label: "Primary Image", name: "privis", widget: "image", required: false }
+                - { label: "Primary Image Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+              
+              - label: "Author section"
+                name: "exhibitauthor"
+                widget: "list"
+                fields:
+                - { label: "Author Image", name: "authorimage", widget: "image", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                required: false  
+              
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+          - label: "The Glass Room: Misinformation Edition"
+            name: "the-glass-room"
+            file: "src/exhibits/the-glass-room.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "the-glass-room" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Essay", name: "essay", widget: "text" , required: false }
+              
+              - label: "Embed website 1"
+                name: "exhibitembed1"
+                fields:
+                - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
+                - { label: "Embed Link Image", name: "privis", widget: "image", required: false }
+                required: false  
+              - label: "Embed website 2"
+                name: "exhibitembed2"
+                fields:
+                - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
+                - { label: "Embed Link Image", name: "privis", widget: "image", required: false }
+                required: false  
+
+              - label: "Primary Images"
+                name: "exhibitimages"
+                widget: "list"
+                fields:
+                - { label: "Primary Image", name: "privis", widget: "image", required: false }
+                - { label: "Primary Image Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+              
+              - label: "Author section"
+                name: "exhibitauthor"
+                widget: "list"
+                fields:
+                - { label: "Author Image", name: "authorimage", widget: "image", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                required: false  
+              
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Play Link"
+                name: "play"
+                fields:
+                - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
+                - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
+                - { label: "Play Link Thumbnail", name: "quadplayvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+          - label: "COVID-19 Indoor Safety Guidelines"
+            name: "indoor-safety-guidelines"
+            file: "src/exhibits/indoor-safety-guidelines.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "indoor-safety-guidelines" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Essay", name: "essay", widget: "text" , required: false }
+              
+              - label: "Embed website 1"
+                name: "exhibitembed1"
+                fields:
+                - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
+                - { label: "Embed Link Image", name: "privis", widget: "image", required: false }
+                required: false  
+              
+              - label: "Author section"
+                name: "exhibitauthor"
+                widget: "list"
+                fields:
+                - { label: "Author Image", name: "authorimage", widget: "image", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                required: false  
+              
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+          - label: "Malware Museum"
+            name: "malware-museum"
+            file: "src/exhibits/malware-museum.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "malware-museum" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Essay", name: "essay", widget: "text" , required: false }
+              - label: "Primary Embeds"
+                name: "exhibitembeds"
+                widget: "list"
+                fields:
+                - { label: "Primary Embed", name: "privis", widget: "string", required: false }
+                - { label: "Primary Embed Caption", name: "pritxt", widget: "text", required: false }
+                required: false  
+              - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+              - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Play Link"
+                name: "play"
+                fields:
+                - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
+                - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
+                - { label: "Play Link Thumbnail", name: "quadplayvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+          - label: "Mapping Cholera: A Tale of Two cities"
+            name: "mapping-cholera"
+            file: "src/exhibits/mapping-cholera.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Essay", name: "essay", widget: "text" , required: false }
+              
+              - label: "Embed website"
+                name: "exhibitembed"
+                fields:
+                - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
+                required: false  
+              
+              - label: "Author section"
+                name: "exhibitauthor"
+                widget: "list"
+                fields:
+                - { label: "Author Image", name: "authorimage", widget: "image", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                required: false  
+
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+
+          - label: "The Chameleon Project"
+            name: "chameleon-project"
+            file: "src/exhibits/chameleon-project.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "chameleon-project" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+              - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
+              - label: "Process Images"
+                name: "processimages"
+                fields:
+                - { label: "Process Video", name: "tervis", widget: "string", required: false }
+                - { label: "Process Image Caption", name: "tertxt", widget: "string", required: false }
+                required: false  
+
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Play Link"
+                name: "play"
+                fields:
+                - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
+                - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
+                - { label: "Play Link Thumbnail", name: "quadplayvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+          - label: "Fluid Dialogues"
+            name: "fluid-dialogues"
+            file: "src/exhibits/fluid-dialogues.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+              - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
+ 
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+          - label: "Penning Fleming's Discovery"
+            name: "flemings-discovery"
+            file: "src/exhibits/flemings-discovery.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              
+              - { label: "Primary Audio", name: "priaudio", widget: "string" , required: false }
+              - label: "Primary Images"
+                name: "exhibitimages"
+                widget: "list"
+                fields:
+                - { label: "Primary Image", name: "privis", widget: "image", required: false }
+                - { label: "Primary Image Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+              
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+
+          
+          - label: "Contagion in the 21st Century"
+            name: "contagion-21st-century"
+            file: "src/exhibits/contagion-21st-century.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Essay", name: "essay", widget: "text" , required: false }
+              - label: "Primary Images 1-8"
+                name: "exhibitimages1"
+                widget: "list"
+                fields:
+                - { label: "Primary Image", name: "privis", widget: "image", required: false }
+                - { label: "Primary Image Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+              
+              - label: "Primary Videos 9-10"
+                name: "exhibitvideos"
+                widget: "list"
+                fields:
+                - { label: "Primary Video", name: "privis", widget: "string", required: false }
+                - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+
+              - label: "Primary Images 11-13"
+                name: "exhibitimages2"
+                widget: "list"
+                fields:
+                - { label: "Primary Image", name: "privis", widget: "image", required: false }
+                - { label: "Primary Image Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+           
+              - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+              - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
+              - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+              - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+              - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+
+          
+          - label: "Wendell Stanley: Crystallizing Viral History"
+            name: "wendell-stanley"
+            file: "src/exhibits/wendell-stanley.md"
+            format: frontmatter
+            editor:
+              preview: false
+            fields:
+              - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" , required: false }
+              - { label: "Title", name: "title", widget: "string" , required: false }
+              - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
+              - { label: "Medium", name: "medium", widget: "string" , required: false }
+              - { label: "Year", name: "year", widget: "string" , required: false }
+              - { label: "Description", name: "description", widget: "text" , required: false }
+              - label: "Primary Images"
+                name: "exhibitimages"
+                widget: "list"
+                fields:
+                - { label: "Primary Image", name: "privis", widget: "image", required: false }
+                - { label: "Primary Image Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+              
+              - label: "Primary Video"
+                name: "exhibitvideo"
+                fields:
+                - { label: "Primary Video", name: "privis", widget: "string", required: false }
+                - { label: "Primary Video Caption", name: "pritxt", widget: "text", required: false }
+                required: false  
+              
+              - label: "Author section"
+                name: "exhibitauthor"
+                widget: "list"
+                fields:
+                - { label: "Author Image", name: "authorimage", widget: "image", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                required: false  
+
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+              - label: "Listening List"
+                name: "listeninglist"
+                widget: "list"
+                fields:
+                - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+                - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+                - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+                required: false  
+              - label: "Watching List"
+                name: "watchinglist"
+                widget: "list"
+                fields:
+                - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+                - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+                - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+                required: false  
+              - label: "Event List"
+                name: "eventlist"
+                widget: "list"
+                fields:
+                - { label: "Eventbrite Link", name: "quadeventlink", widget: "string", required: false }
+                - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+                - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+                required: false  
+              - label: "Related Exhibits"
+                name: "relatedlist"
+                widget: "list"
+                fields:
+                - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+                - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+                - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+                required: false  
+                    
+

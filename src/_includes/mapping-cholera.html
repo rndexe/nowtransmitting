@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div> 
+
+	{% include "./partials/exhibit_title.html" %}
+	
+	<section>
+		<iframe src={{exhibitembed.pritxt}}></iframe>
+	</section>
+	{%- for author in exhibitauthor -%}
+	<div>
+		<img src={{author.authorimage}}>
+		<p>{{author.authorbio}}</p>
+	</div>	
+	</section>
+	{%- endfor -%}	
+
+</div>

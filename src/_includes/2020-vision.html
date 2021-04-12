@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div> 
+
+	{% include "./partials/exhibit_title.html" %}
+	<section>
+		<img src={{authorimage}}>
+		<p>{{authorbio | safe}}</p>
+	</section>
+	<section>
+	{%- for images in processimages -%}
+	<div>
+		<iframe src={{images.tervis}}></iframe>
+		<p>{{images.tertxt}}</p>
+	</div>	
+	{%- endfor -%}	
+	</section>
+
+</div>
+
