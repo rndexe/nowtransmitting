@@ -42,6 +42,11 @@
 				e.preventDefault();
 
 			});
+
+			document.getElementById('exhibit-content').addEventListener('wheel', (e) => {
+				document.getElementById('exhibit-content').scrollLeft += e.deltaY;
+				e.preventDefault();
+			});
 			
 			document.addEventListener('DOMContentLoaded', function() {
 				const ele = document.getElementById('main');
@@ -60,8 +65,8 @@
 						y: e.clientY,
 					};
 			
-					document.addEventListener('mousemove', mouseMoveHandler);
-					document.addEventListener('mouseup', mouseUpHandler);
+					ele.addEventListener('mousemove', mouseMoveHandler);
+					ele.addEventListener('mouseup', mouseUpHandler);
 				};
 			
 				const mouseMoveHandler = function(e) {
@@ -78,8 +83,8 @@
 					ele.style.cursor = 'default';
 					ele.style.removeProperty('user-select');
 			
-					document.removeEventListener('mousemove', mouseMoveHandler);
-					document.removeEventListener('mouseup', mouseUpHandler);
+					ele.removeEventListener('mousemove', mouseMoveHandler);
+					ele.removeEventListener('mouseup', mouseUpHandler);
 				};
 			
 				// Attach the handler
