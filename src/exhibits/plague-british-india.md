@@ -1,5 +1,6 @@
 ---
-title: "Controlling Plague in British India "
+layout: "plague-british-india"
+title: "Controlling the Plague in British India "
 subtitle: "A Visual History of the Plague "
 medium: Photographs
 year: 2013-2017

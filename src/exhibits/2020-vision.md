@@ -1,4 +1,5 @@
 ---
+layout: "2020-vision"
 title: "2020 Vision "
 subtitle: Disentangling the Web of Information
 medium: Google News headlines, Google email alerts, Python code

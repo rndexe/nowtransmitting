@@ -2,22 +2,25 @@
 layout: default
 ---
 
-<div> 
+
+<div class="flex overflow-x-hidden h-screen right-0" id="main"> 
 
 	{% include "./partials/exhibit_title.html" %}
-	<section>
+	<section class="w-full flex-none" >
+		<p>{{description | safe}}</p>
+	</section>
+	<section class="w-full flex-none">
 		<p>{{essay | safe}}</p>
 	</section>
 	{%- for images in exhibitimages -%}
-	<section>
-		<img src={{images.privis}}>	
+	<section  class="w-full flex-none">
+		<img src={{images.privis}} style="height:500px" oncontextmenu="return false" ondragstart="return false">	
 		<p>{{images.pritxt}}</p>
 	</section>
 	{%- endfor -%}	
-	<section>
+	<section  class="w-full flex-none">
 		<img src={{authorimage}}>
 		<p>{{authorbio | safe}}</p>
 	</section>
 
 </div>
-
