@@ -36,10 +36,12 @@
 		{% endif %}
 
 		<script>
-			document.addEventListener('wheel', (e) => {
+			document.getElementById('main').addEventListener('wheel', (e) => {
 				document.getElementById('main').scrollLeft += e.deltaY;
-			});
 
+				e.preventDefault();
+
+			});
 			
 			document.addEventListener('DOMContentLoaded', function() {
 				const ele = document.getElementById('main');

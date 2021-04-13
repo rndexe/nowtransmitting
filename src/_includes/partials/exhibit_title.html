@@ -1,6 +1,6 @@
-<section class="w-full flex-none flex-col">
+<section class="w-screen flex-none flex-col pl-20 pt-5">
 	
-	<div class="float-left ml-40  mt-48">
+	<div class="float-left">
 		<button>
 			<svg class="mr-2" width="24" height="30" viewBox="0 0 24 24" fill="none"
 			xmlns="http://www.w3.org/2000/svg">
@@ -8,12 +8,18 @@
 				d="M1.02698 11.9929L5.26242 16.2426L6.67902 14.8308L4.85766 13.0033L22.9731 13.0012L22.9728 11.0012L4.85309 11.0033L6.6886 9.17398L5.27677 7.75739L1.02698 11.9929Z"
 				fill="currentColor" /></svg>
 		</button>
-		
-		<h1	style="font-size:70px; font-weight:700; width:746px; text-align:left;">{{title}}</h1>
-		<h3 style="font-size:20px; font-weight:400; margin-top:80px;">{{subtitle}}</h3>
-		<h3 style="font-size:20px; font-weight:400; margin-top:100px;">Medium : {{medium}}</h3>
-		<h3 style="font-size:20px; font-weight:400; margin-top:20px;">Year : {{year}}</h3>
+		<div class="pl-16">
+			<h1	style="font-size:70px; font-weight:700; width:746px; text-align:left; margin-top:150px;">{{title}}</h1>
+			<h3 style="font-size:20px; font-weight:400; margin-top:80px;">{{subtitle}}</h3>
+			<h3 style="font-size:20px; font-weight:400; margin-top:100px;">Medium : {{medium}}</h3>
+			<h3 style="font-size:20px; font-weight:400; margin-top:20px;">Year : {{year}}</h3>
+		</div>
+		<h3 style="font-size:24px; font-weight:400; margin-top:207px;">Scroll/Drag to enter Exhibit</h3>
 	</div>
+	<div class="float-left">
+		<img src={{exhibitimages[0].privis}}   style="width: 600px; margin-top:50px; margin-left:50px;" alt="" oncontextmenu="return false" ondragstart="return false">
+	</div>
+
 
 		
 </section>
