@@ -36,21 +36,22 @@
 		{% endif %}
 
 		<script>
-			document.getElementById('main').addEventListener('wheel', (e) => {
-				document.getElementById('main').scrollLeft += e.deltaY;
 
-				e.preventDefault();
+			var main = document.getElementById('main')
+			var exhibit = document.getElementById('exhibit-content')
 
+			//For converting mousewheel scroll into horizontal scroll
+			main.addEventListener('wheel', (e) => {
+				main.scrollLeft += e.deltaY;
 			});
 
-			document.getElementById('exhibit-content').addEventListener('wheel', (e) => {
-				document.getElementById('exhibit-content').scrollLeft += e.deltaY;
-				e.preventDefault();
+			exhibit.addEventListener('wheel', (e) => {
+				exhibit.scrollLeft += e.deltaY;
 			});
 			
+			//For navigation by clicking and dragging
 			document.addEventListener('DOMContentLoaded', function() {
 				const ele = document.getElementById('main');
-			
 				let pos = { top: 0, left: 0, x: 0, y: 0 };
 			
 				const mouseDownHandler = function(e) {
