@@ -2,22 +2,41 @@
 layout: default
 ---
 
-<div> 
+
+<div class="flex overflow-x-hidden h-screen w-screen right-0" id="main" > 
 
 	{% include "./partials/exhibit_title.html" %}
-	<section>
-		<p>{{essay | safe}}</p>
+	
+	<section class="w-screen">
+		<div>
+			<ul class="list-style-none h-30 text-3xl">
+				<li class="inline">About</li>
+				<li class="inline">Scholar</li>
+				<li class="inline">Process</li>
+				<li class="inline">Take it further</li>
+			</ul>
+		</div>
+		<div class="flex flex-row overflow-x-scroll w-11/12 overscroll-contain" id="exhibit-content">
+			<section class="w-screen flex-none">
+				<p>{{description | safe}}</p>
+			</section>
+			<section class="w-screen flex-none">
+				<p>{{essay | safe}}</p>
+			</section>
+			{%- for images in exhibitimages -%}
+			<section  class="w-screen flex-none">
+				<img src={{images.privis}} style="height:500px" oncontextmenu="return false" ondragstart="return false">	
+				<p>{{images.pritxt}}</p>
+			</section>
+			{%- endfor -%}	
+			<section  class="w-screen flex-none">
+				<img src={{authorimage}}>
+				<p>{{authorbio | safe}}</p>
+			</section>
+		</div>
+		
 	</section>
-	{%- for images in exhibitimages -%}
-	<section>
-		<img src={{images.privis}}>	
-		<p>{{images.pritxt}}</p>
-	</section>
-	{%- endfor -%}	
-	<section>
-		<img src={{authorimage}}>
-		<p>{{authorbio | safe}}</p>
-	</section>
+	
+		
 
 </div>
-
