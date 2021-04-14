@@ -11,8 +11,8 @@ layout: default
 		<div class="fixed mt-20 ml-32">
 			<ul class="list-style-none h-30 text-3xl">
 				<li class="inline m-5"><a href="#about">About</a></li>
-				<li class="inline m-5"><a href="#scholar">Scholar</a></li>
 				<li class="inline m-5"><a href="#process">Process</a></li>
+				<li class="inline m-5"><a href="#scholar">Scholar</a></li>
 				<li class="inline m-5">Take it further</li>
 			</ul>
 		</div>
@@ -29,13 +29,11 @@ layout: default
 		</section>
 		{%- endfor -%}
 		{%- for images in exhibitimages -%}
-		<section id="process" class="w-screen flex flex-none">
-			<div class="float-left mt-40 bottom-0 w-1/3">
-				<p style="font-size:20px; font-weight:400; margin-left:150px;">{{images.pritxt}}</p>
-			</div>
-			<div class="float-right">
-				<img src={{images.privis}} style="width:40%; height:auto; margin-top:140px; margin-left:400px;" oncontextmenu="return false" ondragstart="return false">	
-			</div>
+		<section id="process" class=" flex flex-none flex-col mt-40 mr-40">
+			
+			<img src={{images.privis}} class=" bottom-0" width="500px" height="auto" oncontextmenu="return false" ondragstart="return false">	
+			<p style="font-size:20px; font-weight:400;  width:500px;">{{images.pritxt}}</p>
+			
 		</section>
 		{%- endfor -%}	
 		<section id="scholar" class="w-screen flex flex-none" style="background-color: #ec4646;">
@@ -44,7 +42,7 @@ layout: default
 			</div>
 			<div class="float-right w-3/5">
 				<p class="mt-40" style="font-size: 20px; color:#333; ">About the artist</p>
-				<p style="font-weight: 700; font-size:40px; color:#333;">Christos Lynteris</p>
+				<p style="font-weight: 700; font-size:52px; color:#333;">Christos Lynteris</p>
 				<p class="mt-10 w-2/3" style="font-size: 24px; font-weight: 400; text-align:justify; color:white;">{{authorbio | safe}}</p>
 			</div>
 		</section>
