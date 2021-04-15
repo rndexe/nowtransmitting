@@ -4,21 +4,13 @@ layout: default
 
 <div> 
 
-	<section>
-		<h1>{{title}}</h1>
-		<h2>{{subtitle}}</h2>
-		<h3>{{medium}} , {{year}} </h3>
-		<p>
-		{{description | safe}}
-		</p>
-	</section>
+	{% include "./partials/exhibit_title.html" %}
 
 	<section>
 		<p>{{essay}}</p>
 	</section>
 	<section>
-		<iframe src={{exhibitstream.privis1}}></iframe>
-		<p>{{exhibitstream.pritxt1}}</p>
+		<p>{{pritxt1}}</p>
 	</section>
 
 	<section>
