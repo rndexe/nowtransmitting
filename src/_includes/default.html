@@ -15,6 +15,11 @@
 		{% if prism == true %}
 		<link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
 		{% endif %}
+		<style>
+			.nav-item-active {
+				background-color:red;
+			}
+		</style>
 	</head>
 	<body>
 		<main class="flex">
@@ -37,37 +42,80 @@
 
 		<script>
 
-			var main = document.getElementById('main')
-			var exhibit = document.getElementById('exhibit-content')
+			//var processElements = document.getElementById("process")
+			//console.log(processElements);
+			//processElements.id = "process-begin"
+			//var main = document.getElementById('main')
+			//var exhibit = document.getElementById('exhibit-content')
 
 			//For converting mousewheel scroll into horizontal scroll
 			main.addEventListener('wheel', (e) => {
 				main.scrollLeft += e.deltaY;
 			});
 
-			exhibit.addEventListener('wheel', (e) => {
-				exhibit.scrollLeft += e.deltaY;
-			});
+			//var about = document.querySelector('#about');
+			//var process = document.querySelector('#process');
+			//var scholar = document.querySelector('#scholar');
+			//var further = document.querySelector('#further');
+
+			//var aboutnav = document.querySelector('#nav-item-about');
+			//var processnav = document.querySelector('#nav-item-process');
+			//var scholarnav = document.querySelector('#nav-item-scholar');
+			//var furthernav = document.querySelector('#nav-item-further')
+			//processnav.addEventListener("click",function() {
+			//	document.querySelector('#process').scrollIntoView({behavior: 'smooth'});
+			//});
+			//function resetNavbar(){
+			//	aboutnav.style.color = "#a3a3a3";
+			//	aboutnav.style.textDecoration = "none";
+			//	processnav.style.color = "#a3a3a3";
+			//	processnav.style.textDecoration = "none";
+			//	scholarnav.style.color = "#a3a3a3";
+			//	scholarnav.style.textDecoration = "none";
+			//	furthernav.style.color = "#a3a3a3";
+			//	furthernav.style.textDecoration = "none";
+			//}
+
+			//document.addEventListener('wheel', () => {
+			//	if ((window.scrollX >= about.getBoundingClientRect().left)) {
+			//		resetNavbar()
+			//		aboutnav.style.color = 'black'
+			//		aboutnav.style.textDecoration = 'underline'
+			//	}else if ((window.scrollX >= process.getBoundingClientRect().left)) {
+			//		resetNavbar()
+			//		processnav.style.color = 'red'
+			//		processnav.style.textDecoration = 'underline'
+			//	}else if ((window.scrollX >= scholar.getBoundingClientRect().left) ) {
+			//		resetNavbar()
+			//		scholarnav.style.color = 'white'
+			//		scholarnav.style.textDecoration = 'underline'
+			//	}else if ((window.scrollX >= further.getBoundingClientRect().left) ) {
+			//		resetNavbar()
+			//		furthernav.style.color = 'black'
+			//		furthernav.style.textDecoration = 'underline'
+			//	}
+			//	
+			//})
+
 			
 			//For navigation by clicking and dragging
 			document.addEventListener('DOMContentLoaded', function() {
-				const ele = document.getElementById('main');
 				let pos = { top: 0, left: 0, x: 0, y: 0 };
 			
 				const mouseDownHandler = function(e) {
-					ele.style.cursor = 'grabbing';
-					ele.style.userSelect = 'none';
+					main.style.cursor = 'grabbing';
+					main.style.userSelect = 'none';
 			
 					pos = {
-						left: ele.scrollLeft,
-						top: ele.scrollTop,
+						left: main.scrollLeft,
+						top: main.scrollTop,
 						// Get the current mouse position
 						x: e.clientX,
 						y: e.clientY,
 					};
 			
-					ele.addEventListener('mousemove', mouseMoveHandler);
-					ele.addEventListener('mouseup', mouseUpHandler);
+					main.addEventListener('mousemove', mouseMoveHandler);
+					main.addEventListener('mouseup', mouseUpHandler);
 				};
 			
 				const mouseMoveHandler = function(e) {
@@ -76,20 +124,20 @@
 					const dy = e.clientY - pos.y;
 			
 					// Scroll the element
-					ele.scrollTop = pos.top - dy;
-					ele.scrollLeft = pos.left - dx;
+					main.scrollTop = pos.top - dy;
+					main.scrollLeft = pos.left - dx;
 				};
 			
 				const mouseUpHandler = function() {
-					ele.style.cursor = 'default';
-					ele.style.removeProperty('user-select');
+					main.style.cursor = 'default';
+					main.style.removeProperty('user-select');
 			
-					ele.removeEventListener('mousemove', mouseMoveHandler);
-					ele.removeEventListener('mouseup', mouseUpHandler);
+					main.removeEventListener('mousemove', mouseMoveHandler);
+					main.removeEventListener('mouseup', mouseUpHandler);
 				};
 			
 				// Attach the handler
-				ele.addEventListener('mousedown', mouseDownHandler);
+				main.addEventListener('mousedown', mouseDownHandler);
 			});
 		</script>
 	</body>

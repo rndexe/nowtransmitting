@@ -45,8 +45,6 @@ essay: >
 
 
   Acknowledgment: 
-
-
   This exhibit is an output of the Visual Representations of the Third Plague Pandemic research project led by social anthropologist, Dr Christos Lynteris (University of St Andrews). The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/ERC grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo: https://www.repository.cam.ac.uk/handle/1810/280684
 exhibitimages:
   - privis: /static/img/A_EXHIBIT_PRI_VIS_1.jpg
@@ -91,7 +89,7 @@ exhibitimages:
   - privis: /static/img/A_EXHIBIT_PRI_VIS_10.jpg
     pritxt: “Plague Camp”, 1901/1902, Fullerton Collection, Centre for South Asia
       Studies Archive, University of Cambridge.
-authorimage: /static/img/a_exhibit_sec_vis_1.jpg
+authorimage: /static/img/A_EXHIBIT_SEC_VIS_1.jpg
 authorname: Christos Lynteris
 authorbio: >
   Christos Lynteris is a medical anthropologist. His research focuses on the
