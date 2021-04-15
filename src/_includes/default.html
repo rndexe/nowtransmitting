@@ -15,6 +15,11 @@
 		{% if prism == true %}
 		<link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
 		{% endif %}
+		<style>
+			.nav-item-active {
+				background-color:red;
+			}
+		</style>
 	</head>
 	<body>
 		<main class="flex">
@@ -37,14 +42,62 @@
 
 		<script>
 
-			var main = document.getElementById('main')
-			var exhibit = document.getElementById('exhibit-content')
+			//var processElements = document.getElementById("process")
+			//console.log(processElements);
+			//processElements.id = "process-begin"
+			//var main = document.getElementById('main')
+			//var exhibit = document.getElementById('exhibit-content')
 
 			//For converting mousewheel scroll into horizontal scroll
 			main.addEventListener('wheel', (e) => {
 				main.scrollLeft += e.deltaY;
 			});
 
+			//var about = document.querySelector('#about');
+			//var process = document.querySelector('#process');
+			//var scholar = document.querySelector('#scholar');
+			//var further = document.querySelector('#further');
+
+			//var aboutnav = document.querySelector('#nav-item-about');
+			//var processnav = document.querySelector('#nav-item-process');
+			//var scholarnav = document.querySelector('#nav-item-scholar');
+			//var furthernav = document.querySelector('#nav-item-further')
+			//processnav.addEventListener("click",function() {
+			//	document.querySelector('#process').scrollIntoView({behavior: 'smooth'});
+			//});
+			//function resetNavbar(){
+			//	aboutnav.style.color = "#a3a3a3";
+			//	aboutnav.style.textDecoration = "none";
+			//	processnav.style.color = "#a3a3a3";
+			//	processnav.style.textDecoration = "none";
+			//	scholarnav.style.color = "#a3a3a3";
+			//	scholarnav.style.textDecoration = "none";
+			//	furthernav.style.color = "#a3a3a3";
+			//	furthernav.style.textDecoration = "none";
+			//}
+
+			//document.addEventListener('wheel', () => {
+			//	if ((window.scrollX >= about.getBoundingClientRect().left)) {
+			//		resetNavbar()
+			//		aboutnav.style.color = 'black'
+			//		aboutnav.style.textDecoration = 'underline'
+			//	}else if ((window.scrollX >= process.getBoundingClientRect().left)) {
+			//		resetNavbar()
+			//		processnav.style.color = 'red'
+			//		processnav.style.textDecoration = 'underline'
+			//	}else if ((window.scrollX >= scholar.getBoundingClientRect().left) ) {
+			//		resetNavbar()
+			//		scholarnav.style.color = 'white'
+			//		scholarnav.style.textDecoration = 'underline'
+			//	}else if ((window.scrollX >= further.getBoundingClientRect().left) ) {
+			//		resetNavbar()
+			//		furthernav.style.color = 'black'
+			//		furthernav.style.textDecoration = 'underline'
+			//	}
+			//	
+			//})
+
+			
 			//For navigation by clicking and dragging
 			document.addEventListener('DOMContentLoaded', function() {
 				let pos = { top: 0, left: 0, x: 0, y: 0 };
