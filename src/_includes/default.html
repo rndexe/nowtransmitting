@@ -42,29 +42,23 @@
 
 		<script>
 
-			//var processElements = document.getElementById("process")
-			//console.log(processElements);
-			//processElements.id = "process-begin"
-			//var main = document.getElementById('main')
-			//var exhibit = document.getElementById('exhibit-content')
+			var processElements = document.getElementById("process")
+			var main = document.getElementById('main')
+			var exhibit = document.getElementById('exhibit-content')
 
 			//For converting mousewheel scroll into horizontal scroll
 			main.addEventListener('wheel', (e) => {
 				main.scrollLeft += e.deltaY;
 			});
 
-			//var about = document.querySelector('#about');
-			//var process = document.querySelector('#process');
-			//var scholar = document.querySelector('#scholar');
-			//var further = document.querySelector('#further');
-
-			//var aboutnav = document.querySelector('#nav-item-about');
-			//var processnav = document.querySelector('#nav-item-process');
-			//var scholarnav = document.querySelector('#nav-item-scholar');
-			//var furthernav = document.querySelector('#nav-item-further')
-			//processnav.addEventListener("click",function() {
-			//	document.querySelector('#process').scrollIntoView({behavior: 'smooth'});
-			//});
+			var about = document.querySelector('#about');
+			var process = document.querySelector('#process');
+			var scholar = document.querySelector('#scholar');
+			var further = document.querySelector('#further')
+			var aboutnav = document.querySelector('#nav-item-about');
+			var processnav = document.querySelector('#nav-item-process');
+			var scholarnav = document.querySelector('#nav-item-scholar');
+			var furthernav = document.querySelector('#nav-item-further')
 			//function resetNavbar(){
 			//	aboutnav.style.color = "#a3a3a3";
 			//	aboutnav.style.textDecoration = "none";
