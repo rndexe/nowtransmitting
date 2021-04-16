@@ -20,16 +20,18 @@
 				background-color:red;
 			}
 		</style>
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet">
+<link href="http://fonts.cdnfonts.com/css/trade-gothic-lt-std" rel="stylesheet">
 	</head>
 	<body>
-		<main class="flex">
-			<div>
+		<main class="block md:flex md:flex-col">
+			
 				{% include "./partials/navbar.html" %}
-			</div>
-			<div class="w-auto fixed ml-20">
+			
+			<div class="w-screen fixed md:ml-20">
 				{{ content | safe }}
 			</div>
-
 		</main>
 		<script src="/static/js/alpine.js"></script>
 		<script src="/static/js/scroll.js"></script>
