@@ -1,6 +1,6 @@
-<div class="w-full h-16 md:w-20 md:fixed md:h-full md:flex" >
-	<nav class="flex my-auto md:my-px flex-row-reverse md:flex-col">
-		<div class="relative py-auto w-20 mx-auto">
+<div class="w-full h-16 md:w-20 inline md:fixed md:h-full md:flex" >
+	<nav class="flex my-5 md:my-0 px-3 md:px-0 md:my-px flex-row-reverse md:flex-col">
+		<div id="menu-button" class="relative py-auto w-20 mx-auto">
 			<nav x-data="{ open: false }">
 				<button class="text-gray-500 w-10 relative focus:outline-none bg-white" @click="open = !open">
 					<span class="sr-only">Open main menu</span>
@@ -13,12 +13,11 @@
 				<p class="hidden md:contents" style="font-family: 'Literata';">Menu</p>
 			</nav>
 		</div>
-		<p class="md:transform md:-rotate-90 w-full text-center md:my-auto" style="font-family: 'Literata';">{{title}}</p>
-		
-	<div class="h-auto w-20 md:bottom-0 md:fixed"  >
-		<a href="/" >
-		<img class="w-16" src="/static/img/SGLogo_Black_Transparent.png"></img>
-		</a>
-	</div>
+		<p class="md:transform md:-rotate-90 w-full text-center md:my-auto text-xl" style="font-family: 'Literata';">{{title}}</p>
+		<div class="h-auto w-20 md:bottom-0 md:fixed">
+			<a href="/" >
+			<img class="w-20" src="/static/img/SGLogo_Black_Transparent.png"></img>
+			</a>
+		</div>
 	</nav>
 </div>
