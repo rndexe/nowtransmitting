@@ -7,7 +7,7 @@ media_folder: "src/static/img"
 public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-#local_backend: true
+local_backend: true
 publish_mode: editorial_workflow
 collections:
   - label: "Exhibits"
@@ -20,7 +20,7 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "plague-british-india" , required: false }
+              - { label: "layout", name: "layout", widget: "hidden", default: "plague-british-india"}
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -93,12 +93,8 @@ collections:
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
-              - label: "Primary Videos"
-                name: "exhibitimages"
-                fields:
-                - { label: "Primary Video", name: "privis", widget: "string", required: false }
-                - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
-                required: false  
+              - { label: "Primary Video", name: "privis", widget: "string", required: false }
+              - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
               - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
               - { label: "Author Name", name: "authorname", widget: "string" , required: false }
               - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
@@ -234,15 +230,11 @@ collections:
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
-              - label: "Primary Video"
-                name: "exhibitvideo"
-                fields:
-                - { label: "Primary Video", name: "privis", widget: "string", required: false }
-                - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
-                required: false  
+              - { label: "Primary Video Link", name: "privis", widget: "string", required: false }
+              - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
 
               - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
-              - { label: "Author Name", name: "authorname", widget: "text" , required: false }
+              - { label: "Author Name", name: "authorname", widget: "string" , required: false }
               - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
               - label: "Reading List"
                 name: "readinglist"
@@ -320,9 +312,11 @@ collections:
                 widget: "list"
                 fields:
                 - { label: "Author Image", name: "authorimage", widget: "image", required: false }
-                - { label: "Author name", name: "authorname", widget: "string", required: false }
-                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                - { label: "Author Name", name: "authorname", widget: "string", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "text", required: false }
                 required: false  
+              - { label: "Process Image", name: "tervis", widget: "image", required: false }
+              - { label: "Process Image Caption", name: "tertxt", widget: "string", required: false }
               
               - label: "Reading List"
                 name: "readinglist"
@@ -407,8 +401,8 @@ collections:
                 widget: "list"
                 fields:
                 - { label: "Author Image", name: "authorimage", widget: "image", required: false }
-                - { label: "Author name", name: "authorname", widget: "string", required: false }
-                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                - { label: "Author Name", name: "authorname", widget: "string", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "text", required: false }
                 required: false  
               
               - label: "Reading List"
@@ -467,28 +461,22 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "indoor-safety-guidelines" , required: false }
+              - { label: "layout", name: "layout", widget: "hidden", default: "indoor-safety-guidelines"}
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
-              - { label: "Essay", name: "essay", widget: "text" , required: false }
-              
-              - label: "Embed website 1"
-                name: "exhibitembed1"
-                fields:
-                - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
-                - { label: "Embed Link Image", name: "privis", widget: "image", required: false }
-                required: false  
+              - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
+              - { label: "Embed Link Image", name: "privis", widget: "image", required: false }
               
               - label: "Author section"
                 name: "exhibitauthor"
                 widget: "list"
                 fields:
                 - { label: "Author Image", name: "authorimage", widget: "image", required: false }
-                - { label: "Author name", name: "authorname", widget: "string", required: false }
-                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                - { label: "Author Name", name: "authorname", widget: "string", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "text", required: false }
                 required: false  
               
               - label: "Reading List"
@@ -540,13 +528,12 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "malware-museum" , required: false }
+              - { label: "layout", name: "layout", widget: "hidden", default: "malware-museum" }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
-              - { label: "Essay", name: "essay", widget: "text" , required: false }
               - label: "Primary Embeds"
                 name: "exhibitembeds"
                 widget: "list"
@@ -555,7 +542,7 @@ collections:
                 - { label: "Primary Embed Caption", name: "pritxt", widget: "text", required: false }
                 required: false  
               - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
-              - { label: "Author name", name: "authorname", widget: "text" , required: false }
+              - { label: "Author Name", name: "authorname", widget: "string" , required: false }
               - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
               - label: "Reading List"
                 name: "readinglist"
@@ -613,27 +600,22 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" , required: false }
+              - { label: "layout", name: "layout", widget: "hidden", default: "mapping-cholera" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
-              - { label: "Essay", name: "essay", widget: "text" , required: false }
               
-              - label: "Embed website"
-                name: "exhibitembed"
-                fields:
-                - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
-                required: false  
+              - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
               
               - label: "Author section"
                 name: "exhibitauthor"
                 widget: "list"
                 fields:
                 - { label: "Author Image", name: "authorimage", widget: "image", required: false }
-                - { label: "Author name", name: "authorname", widget: "string", required: false }
-                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                - { label: "Author Name", name: "authorname", widget: "string", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "text", required: false }
                 required: false  
 
               - label: "Reading List"
@@ -825,12 +807,22 @@ collections:
               - { label: "Description", name: "description", widget: "text" , required: false }
               
               - { label: "Primary Audio", name: "priaudio", widget: "string" , required: false }
+              - { label: "Primary Audio Caption", name: "priaudtxt", widget: "text" , required: false }
               - label: "Primary Images"
                 name: "exhibitimages"
                 widget: "list"
                 fields:
                 - { label: "Primary Image", name: "privis", widget: "image", required: false }
-                - { label: "Primary Image Caption", name: "pritxt", widget: "string", required: false }
+                - { label: "Primary Image Caption", name: "pritxt", widget: "text", required: false }
+                required: false  
+              
+              - label: "Author section"
+                name: "exhibitauthor"
+                widget: "list"
+                fields:
+                - { label: "Author Image", name: "authorimage", widget: "image", required: false }
+                - { label: "Author Name", name: "authorname", widget: "string", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "text", required: false }
                 required: false  
               
               - label: "Reading List"
@@ -889,7 +881,7 @@ collections:
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
-              - { label: "Essay", name: "essay", widget: "text" , required: false }
+              - { label: "Essay", name: "essay", widget: "markdown" , required: false }
               - label: "Primary Images 1-8"
                 name: "exhibitimages1"
                 widget: "list"
@@ -915,7 +907,7 @@ collections:
                 required: false  
            
               - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
-              - { label: "Author name", name: "authorname", widget: "text" , required: false }
+              - { label: "Author name", name: "authorname", widget: "string" , required: false }
               - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
               - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
               - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
@@ -956,15 +948,11 @@ collections:
                 widget: "list"
                 fields:
                 - { label: "Primary Image", name: "privis", widget: "image", required: false }
-                - { label: "Primary Image Caption", name: "pritxt", widget: "string", required: false }
+                - { label: "Primary Image Caption", name: "pritxt", widget: "text", required: false }
                 required: false  
               
-              - label: "Primary Video"
-                name: "exhibitvideo"
-                fields:
-                - { label: "Primary Video", name: "privis", widget: "string", required: false }
-                - { label: "Primary Video Caption", name: "pritxt", widget: "text", required: false }
-                required: false  
+              - { label: "Primary Video", name: "privis", widget: "string", required: false }
+              - { label: "Primary Video Caption", name: "pritxt", widget: "text", required: false }
               
               - label: "Author section"
                 name: "exhibitauthor"
@@ -972,7 +960,7 @@ collections:
                 fields:
                 - { label: "Author Image", name: "authorimage", widget: "image", required: false }
                 - { label: "Author name", name: "authorname", widget: "string", required: false }
-                - { label: "Author Bio", name: "authorbio", widget: "string", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "text", required: false }
                 required: false  
 
               - label: "Reading List"

@@ -4,17 +4,18 @@ layout: default
 
 <div> 
 
-	{% include "./partials/exhibit_title.html" %}
 	<section>
-		<p>{{essay | safe}}</p>
-	</section>
-	<section>
-		<a href={{exhibitembed1.pritxt}}></a>
-		<img src={{exhibitembed1.privis}}>
+		{% if exhibitembed1.privis %}
+		<a href={{exhibitembed1.pritxt}}>
+			<img src={{exhibitembed1.privis}}></a>
+		{% endif %}
 	</section>
 	{%- for author in exhibitauthor -%}
 	<div>
+		{% if author.authorimage %}
 		<img src={{author.authorimage}}>
+		{% endif %}
+
 		<p>{{author.authorbio}}</p>
 	</div>	
 	</section>
