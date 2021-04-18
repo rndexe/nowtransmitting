@@ -59,9 +59,12 @@
 					<li>Take it further</li>
 				</ul>
 			</div>
-			{% include "./partials/navbar.html" %}
-			<div class="w-screen fixed lg:ml-20">
-				{{ content | safe }}
+
+			<div class="w-screen fixed">
+				{% include "./partials/navbar.html" %}
+				<div class="lg:ml-20">
+					{{ content | safe }}
+				</div>
 			</div>
 		</main>
 		<script src="/static/js/alpine.js"></script>
