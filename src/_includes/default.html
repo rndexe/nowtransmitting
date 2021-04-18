@@ -16,11 +16,50 @@
 		<link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
 		{% endif %}
 		<style>
+			@media (max-height: 768px){
+				#title{
+					margin-top:120px;
+				}
+				#subtitle{
+					margin-top:10px;
+				}
+				#medium{
+					margin-top:10px;	
+				}
+				#year{
+					margin-top:10px;
+				}
+				#scrollordrag{
+					margin-top:120px;
+				}
+				#authorbio{
+					font-size:20px;
+					width:90%;
+				}
+				#description{
+					font-size:20px;
+					width:90%;
+				}
+				.processimg{
+					width: 500px;
+				}
+			
+			}
+			@media (max-width: 768px){
+				#scrollordrag{
+					margin-top:60px;
+				}
+				
+			}
 			@media (min-width: 768px) { 
 				.main-stuff{
 					width: 100%;
 					height: auto;
 				}
+				#process{
+					margin-right:60px;
+				}
+				
 			}
 			@media (min-width: 1024px) { 
 				.iframes{
