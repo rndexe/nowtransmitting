@@ -4,9 +4,10 @@ layout: default
 
 <div> 
 
-	{% include "./partials/exhibit_title.html" %}
 	<section>
+		{%if exhibitvideo.privis %}	
 		<iframe src={{exhibitvideo.privis}}></iframe>	
+		{% endif %}
 		<p>{{exhibitvideo.pritxt}}</p>
 	</section>
 	<section>
