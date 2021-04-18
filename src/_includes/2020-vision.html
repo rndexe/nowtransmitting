@@ -58,7 +58,7 @@ layout: default
 	<div class="flex flex-col lg:flex-row flex-none w-auto overflow-x-hidden overflow-y-hidden pb-40 lg:pb-0" id="process">
 	{%- for images in processimages -%}
 	<section class="w-screen pt-12 pl-12 pr-12 lg:p-0 lg:w-auto flex-initial lg:mt-40 lg:ml-40" style="background-color: #2d2d2d;">
-		<img class="processimg pr-10" src={{images.tervis}} width="800px" height="auto" style="min-width:200px;" oncontextmenu="return false" ondragstart="return false">	
+		<img class="processimg" src={{images.tervis}} width="800px" height="auto" style="min-width:200px;" oncontextmenu="return false" ondragstart="return false">	
 		<p class=" text-sm lg:text-2xl pb-0 lg:pb-20 lg:w-full" style="text-align:justify; font-weight:200; color:#fff; margin-top:30px; font-family: 'Trade Gothic LT Std';">{{images.tertxt}}</p>
 	</section>
 	{%- endfor -%}	
