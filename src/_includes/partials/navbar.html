@@ -1,20 +1,18 @@
-<div class="w-full h-16 md:w-20 inline md:fixed md:h-full md:flex" >
-	<nav class="flex my-5 md:my-0 px-3 md:px-0 md:my-px flex-row-reverse md:flex-col">
-		<div id="menu-button" class="relative py-auto w-20 mx-auto">
+<div class="w-full h-16 lg:w-20 inline lg:fixed lg:h-full lg:flex" >
+	<nav class="flex my-5 lg:my-0 px-3 lg:px-0 lg:my-px flex-row-reverse lg:flex-col">
+		<div id="menu-button" class="relative py-auto w-10 mx-auto">
 			<nav x-data="{ open: false }">
-				<button class="text-gray-500 w-10 relative focus:outline-none bg-white" @click="open = !open">
-					<span class="sr-only">Open main menu</span>
+				<button class="text-gray-500 w-5 relative focus:outline-none bg-white">
 					<div class="block w-5 absolute left-1/2 top-1/2   transform  -translate-x-1/2 -translate-y-1/2">
 						<span aria-hidden="true" class="block absolute h-0.5 w-5 bg-current transform transition duration-500 ease-in-out" :class="{'rotate-45': open,' -translate-y-1.5': !open }"></span>
 						<span aria-hidden="true" class="block absolute  h-0.5 w-5 bg-current   transform transition duration-500 ease-in-out" :class="{'opacity-0': open } "></span>
 						<span aria-hidden="true" class="block absolute  h-0.5 w-5 bg-current transform  transition duration-500 ease-in-out" :class="{'-rotate-45': open, ' translate-y-1.5': !open}"></span>
 					</div>
 				</button>
-				<p class="hidden md:contents" style="font-family: 'Literata';">Menu</p>
 			</nav>
 		</div>
-		<p class="md:transform md:-rotate-90 w-full text-center md:my-auto text-xl" style="font-family: 'Literata';">{{title}}</p>
-		<div class="h-auto w-20 md:bottom-0 md:fixed">
+		<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl" style="font-family: 'Literata';">{{title}}</p>
+		<div class="h-auto w-20 lg:bottom-0 lg:fixed">
 			<a href="/" >
 			<img class="w-20" src="/static/img/SGLogo_Black_Transparent.png"></img>
 			</a>

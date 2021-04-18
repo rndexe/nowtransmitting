@@ -16,20 +16,51 @@
 		<link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
 		{% endif %}
 		<style>
-			.nav-item-active {
-				background-color:red;
+			@media (min-width: 768px) { 
+				.main-stuff{
+					width: 100%;
+					height: auto;
+				}
+			}
+			@media (min-width: 1024px) { 
+				.iframes{
+					width:320px;
+					height:160px;
+				}
+			}
+			@media (min-width: 1280px) { 
+				.iframes{
+					width:640px;
+					height:320px;
+				}
 			}
 		</style>
 		<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet">
-<link href="http://fonts.cdnfonts.com/css/trade-gothic-lt-std" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet">
+		<link href="http://fonts.cdnfonts.com/css/trade-gothic-lt-std" rel="stylesheet">
 	</head>
 	<body>
-		<main class="block md:flex md:flex-col">
-			
-				{% include "./partials/navbar.html" %}
-			
-			<div class="w-screen fixed md:ml-20">
+		<main class="main-stuff block lg:flex lg:flex-col">
+			<div id="mobile-menu" class="invisible absolute top-0 left-0 w-screen h-screen " style="z-index:1000; background-color:rgb(248, 210, 216);">
+				<div class="w-full h-20 flex flex-row" style="border: 2px solid #333;">
+					<div class="h-auto w-20 md:bottom-0 md:fixed">
+						<a href="/" >
+						<img class="w-20" src="/static/img/SGLogo_Black_Transparent.png"></img>
+						</a>
+					</div>
+					<p class="flex-grow text-center leading-20" style="font-family: 'Literata';">Menu</p>
+					<button id='menu-close-button' class="w-10 text-2xl">X</button>
+				</div>
+				
+				<ul>
+					<li>About</li>
+					<li>Scholar</li>
+					<li>Process</li>
+					<li>Take it further</li>
+				</ul>
+			</div>
+			{% include "./partials/navbar.html" %}
+			<div class="w-screen fixed lg:ml-20">
 				{{ content | safe }}
 			</div>
 		</main>
@@ -134,6 +165,18 @@
 			
 				// Attach the handler
 				main.addEventListener('mousedown', mouseDownHandler);
+			});
+
+			var mobilemenu = document.getElementById("mobile-menu");
+			var menubutton = document.getElementById("menu-button");
+			var menuclosebutton = document.getElementById("menu-close-button");
+
+			menubutton.addEventListener('click',function(){
+				mobilemenu.style.visibility = 'visible'
+			});
+
+			menuclosebutton.addEventListener('click',function(){
+				mobilemenu.style.visibility = 'hidden'
 			});
 		</script>
 	</body>
