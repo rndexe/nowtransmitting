@@ -129,6 +129,8 @@
 			backbutton.addEventListener("click",function() {
 				window.location = "#home";
 				backbutton.style.visibility = 'hidden'
+				navitems.style.visibility = 'hidden';
+
 				
 			})
 			//For converting mousewheel scroll into horizontal scroll
@@ -136,10 +138,11 @@
 				main.scrollLeft += e.deltaY;
 
 				if (main.scrollLeft >= window.innerWidth-30) { // Just an example
-					console.log("Hello")
+					backbutton.style.visibility = 'visible';
 					navitems.style.visibility = 'visible';
 				} else {
 					navitems.style.visibility = 'hidden';
+					backbutton.style.visibility = 'hidden';
 				}
 			});
 
