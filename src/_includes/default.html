@@ -63,14 +63,16 @@
 			}
 			@media (min-width: 1024px) { 
 				.iframes{
-					width:320px;
-					height:160px;
+					width:640px;
+					height:320px;
+					margin-top:20%;
 				}
 			}
 			@media (min-width: 1280px) { 
 				.iframes{
-					width:640px;
-					height:320px;
+					width:1000px;
+					height:500px;
+					margin-top: 10%;
 				}
 			}
 		</style>
@@ -123,7 +125,7 @@
 			var main = document.getElementById('main')
 			var exhibit = document.getElementById('exhibit-content')
 			var backbutton = document.getElementById("backbutton")
-
+			var navitems = document.getElementById("nav-items-container")
 			backbutton.addEventListener("click",function() {
 				window.location = "#home";
 				backbutton.style.visibility = 'hidden'
@@ -133,11 +135,11 @@
 			main.addEventListener('wheel', (e) => {
 				main.scrollLeft += e.deltaY;
 
-				if (main.scrollLeft >= screen.availWidth/2) { // Just an example
+				if (main.scrollLeft >= window.innerWidth-30) { // Just an example
 					console.log("Hello")
-					backbutton.style.visibility = 'visible';
+					navitems.style.visibility = 'visible';
 				} else {
-					backbutton.style.visibility = 'hidden';
+					navitems.style.visibility = 'hidden';
 				}
 			});
 
@@ -183,46 +185,7 @@
 
 			
 			//For navigation by clicking and dragging
-			document.addEventListener('DOMContentLoaded', function() {
-				let pos = { top: 0, left: 0, x: 0, y: 0 };
 			
-				const mouseDownHandler = function(e) {
-					main.style.cursor = 'grabbing';
-					main.style.userSelect = 'none';
-			
-					pos = {
-						left: main.scrollLeft,
-						top: main.scrollTop,
-						// Get the current mouse position
-						x: e.clientX,
-						y: e.clientY,
-					};
-			
-					main.addEventListener('mousemove', mouseMoveHandler);
-					main.addEventListener('mouseup', mouseUpHandler);
-				};
-			
-				const mouseMoveHandler = function(e) {
-					// How far the mouse has been moved
-					const dx = e.clientX - pos.x;
-					const dy = e.clientY - pos.y;
-			
-					// Scroll the element
-					main.scrollTop = pos.top - dy;
-					main.scrollLeft = pos.left - dx;
-				};
-			
-				const mouseUpHandler = function() {
-					main.style.cursor = 'default';
-					main.style.removeProperty('user-select');
-			
-					main.removeEventListener('mousemove', mouseMoveHandler);
-					main.removeEventListener('mouseup', mouseUpHandler);
-				};
-			
-				// Attach the handler
-				main.addEventListener('mousedown', mouseDownHandler);
-			});
 
 			var mobilemenu = document.getElementById("mobile-menu");
 			var menubutton = document.getElementById("menu-button");
