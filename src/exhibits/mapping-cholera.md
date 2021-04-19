@@ -1,4 +1,5 @@
 ---
+layout: mapping-cholera
 title: "Mapping Cholera: A Tale of Two Cities"
 subtitle: Charting through histories of cholera
 medium: Interactive Maps

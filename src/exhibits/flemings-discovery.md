@@ -1,4 +1,5 @@
 ---
+layout: flemings-discovery
 title: Penning Fleming’s Discovery
 subtitle: Bacterial Stories--The Resistance is Here
 medium: Sound, images
