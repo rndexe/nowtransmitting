@@ -4,7 +4,15 @@ layout: default
 
 <div class="flex flex-col lg:flex-row overflow-x-hidden h-screen w-screen right-0" id="main" style="background-color: #2d2d2d; scroll-snap-type:proximity"> 
 
-	<div id="nav-items-container" class="hidden lg:block lg:fixed lg:mt-20 lg:ml-32">
+	<div id="nav-items-container" class="hidden lg:flex lg:fixed lg:mt-20 lg:ml-32">
+		<button id="backbutton" style="visibility:hidden;">
+			
+			<svg width="24" height="30" viewBox="0 0 24 24" fill="none"
+			xmlns="http://www.w3.org/2000/svg">
+			<path
+				d="M1.02698 11.9929L5.26242 16.2426L6.67902 14.8308L4.85766 13.0033L22.9731 13.0012L22.9728 11.0012L4.85309 11.0033L6.6886 9.17398L5.27677 7.75739L1.02698 11.9929Z"
+				fill="#a3a3a3" /></svg>
+		</button>
 		<ul id="nav-items" class="list-style-none h-30 text-3xl">
 			<li  class="inline lg:m-5 xl:m-10 lg:text-md xl:text-3xl"><a id="nav-item-about"   style="color:#a3a3a3; font-family: 'Playfair Display';" href="#about">About</a></li>
 			<li  class="inline lg:m-5 xl:m-10 lg:text-md xl:text-3xl"><a id="nav-item-scholar" style="color:#a3a3a3; font-family: 'Playfair Display';" href="#scholar">Artist</a></li>
@@ -14,15 +22,8 @@ layout: default
 	 </div>
 
 
-	<section class="w-full lg:w-screen block lg:flex-none lg:flex-col lg:flex-nowrap px-auto lg:pl-20 pt-5" style="background-color: #2d2d2d;">
-		<div class="float-left">
-			<button class="hidden lg:contents">
-				<svg class="mr-2" width="24" height="30" viewBox="0 0 24 24" fill="none"
-				xmlns="http://www.w3.org/2000/svg">
-				<path
-					d="M1.02698 11.9929L5.26242 16.2426L6.67902 14.8308L4.85766 13.0033L22.9731 13.0012L22.9728 11.0012L4.85309 11.0033L6.6886 9.17398L5.27677 7.75739L1.02698 11.9929Z"
-					fill="#fff" /></svg>
-			</button>
+	<section id="home"  class="w-full lg:w-screen block lg:flex-none lg:flex-col lg:flex-nowrap px-auto lg-ml-20 lg:pl-40 pt-5" style="background-color: #2d2d2d;">
+		<div  class="float-left">
 			<div class="pl-px">
 				<h1 id="title" class="text-4xl ml-5 mt-10 w-auto lg:text-4xl xl:text-7xl mt-10 lg:mt-40 text-white text-left tracking-normal" style="font-weight:700; font-family: 'Trade Gothic LT Std';">{{title}}</h1>
 				<h3 id="subtitle" class="text-xl  ml-5 w-auto lg:text-xl md:text-xl xl:text-xl mt-5 lg:mt-10  w-10 xl:w-full" style="font-weight:400; color:#a3a3a3; font-family: 'Trade Gothic LT Std';">{{subtitle}}</h3>
@@ -45,12 +46,12 @@ layout: default
 		</div>
 	</section>
 
-	<section id="scholar" class="block w-screen h-screen lg:flex lg:flex-none" style="background-color: #ec4646;">
+	<section id="scholar" class="block w-screen h-screen lg:flex lg:flex-none" style="background-color: #D62B2B;">
 		<div class=" mt-10 mx-auto lg:mt-52 w-3/5">
 			<img class="mx-auto" src={{authorimage}} width="70%" style="border-radius:10px;" oncontextmenu="return false" ondragstart="return false">
 		</div>
 		<div class=" w-11/12 lg:w-3/5 mx-auto">
-			<p class="mt-10 text-center lg:text-left lg:mt-48" style="font-weight: 700; font-size:52px; color:#333; font-family: 'Trade Gothic LT Std';">Robert Good</p>
+			<p class="mt-10 text-center lg:text-left lg:mt-48" style="font-weight: 700; font-size:52px; color:#fff; font-family: 'Trade Gothic LT Std';">Robert Good</p>
 			<pre id="authorbio" class="mb-20 lg:mb-0 mx-auto lg:mx-px text-sm 2xl:text-2xl mt-px 2xl:mt-10 w-11/12 xl:w-2/3" style="font-size: 20px; font-weight: 400; white-space:pre-wrap; text-align:justify; color:white; font-family: 'Trade Gothic LT Std';">{{authorbio | safe}}</pre>
 		</div>
 	</section>

@@ -101,8 +101,9 @@
 			</div>
 
 			<div class="w-screen fixed overflow-hidden">
-				{% include "./partials/navbar.html" %}
-				<div class="lg:ml-20">
+				<div >
+					{% include "./partials/navbar.html" %}
+
 					{{ content | safe }}
 				</div>
 			</div>
@@ -121,10 +122,23 @@
 			var processElements = document.getElementById("process")
 			var main = document.getElementById('main')
 			var exhibit = document.getElementById('exhibit-content')
+			var backbutton = document.getElementById("backbutton")
 
+			backbutton.addEventListener("click",function() {
+				window.location = "#home";
+				backbutton.style.visibility = 'hidden'
+				
+			})
 			//For converting mousewheel scroll into horizontal scroll
 			main.addEventListener('wheel', (e) => {
 				main.scrollLeft += e.deltaY;
+
+				if (main.scrollLeft >= screen.availWidth/2) { // Just an example
+					console.log("Hello")
+					backbutton.style.visibility = 'visible';
+				} else {
+					backbutton.style.visibility = 'hidden';
+				}
 			});
 
 			var about = document.querySelector('#about');
@@ -221,6 +235,10 @@
 			menuclosebutton.addEventListener('click',function(){
 				mobilemenu.style.visibility = 'hidden'
 			});
+
+
+
+			
 		</script>
 	</body>
 </html>
