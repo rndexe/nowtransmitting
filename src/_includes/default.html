@@ -81,9 +81,9 @@
 		<link href="https://fonts.cdnfonts.com/css/trade-gothic-lt-std" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
 	</head>
-	<body>
-		<main class="main-stuff block lg:flex lg:flex-col overflow-hidden">
-			<div id="mobile-menu" class="invisible absolute top-0 left-0 w-screen h-screen " style="z-index:1000; background-color:rgb(248, 210, 216);">
+	<body style="overflow:hidden">
+		<main class="main-stuff block lg:flex lg:flex-col">
+			<div id="mobile-menu" class="invisible absolute top-0 left-0 w-screen h-screen" style="z-index:1000; background-color:rgb(248, 210, 216);">
 				<div class="w-full h-20 flex flex-row" style="border: 2px solid #333;">
 					<div class="h-auto w-20 md:bottom-0 md:fixed">
 						<a href="/" >
@@ -102,7 +102,7 @@
 				</ul>
 			</div>
 
-			<div class="w-screen fixed overflow-hidden">
+			<div class="w-screen fixed">
 				<div >
 					{% include "./partials/navbar.html" %}
 
@@ -137,7 +137,7 @@
 			main.addEventListener('wheel', (e) => {
 				main.scrollLeft += e.deltaY;
 
-				if (main.scrollLeft >= window.innerWidth-30) { // Just an example
+				if (main.scrollLeft >= window.innerWidth-50) { // Just an example
 					backbutton.style.visibility = 'visible';
 					navitems.style.visibility = 'visible';
 				} else {
