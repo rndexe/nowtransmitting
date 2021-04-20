@@ -27,14 +27,17 @@ exhibitauthor:
       now focuses on surface tension-driven phenomena, their applications in
       biology, and hydrodynamic quantum analogues.
     authorname: John W. Bush
+    authorimage: /static/img/I_EXHIBIT_SEC_VIS_1.jpg
   - authorbio: "Martin Bazant is a Professor of Mathematics at MIT. His research is
       at the intersection of engineering, physics, and mathematics, motivated by
       societal needs in energy, the environment, and sustainability. "
     authorname: Martin Bazant
+    authorimage: /static/img/I_EXHIBIT_SEC_VIS_2.jpg
   - authorbio: Kasim Khan is a recent Cornell graduate with a background in chemical
       engineering and business, looking to accelerate the adoption of renewable
       energy.
     authorname: Kasim Khan
+    authorimage: /static/img/I_EXHIBIT_SEC_VIS_3.jpg
 readinglist:
   - quadreadtxt: "A Room, A Bar And A Classroom: How The Coronavirus Is Spread
       Through The Air"

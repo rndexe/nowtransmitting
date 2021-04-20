@@ -13,6 +13,8 @@ description: >
 
   In 2020 Vision, the artist attempts to externalise some of this information using animations of various headlines, which reflect back a sense of anxiety as we are bombarded with questions, some trivial and some vitally important. These animations grow on the screen like a virus in a Petri dish before gradually receding again. 
 privis: https://player.vimeo.com/video/537188834
+pritxt: "What does the future hold? Our anxieties are interrogated through an
+  array of Google News headlines. 2019. Text animation, 2'07\". "
 authorimage: /static/img/B_EXHIBIT_SEC_VIS_1.jpg
 authorname: Robert Good
 authorbio: >

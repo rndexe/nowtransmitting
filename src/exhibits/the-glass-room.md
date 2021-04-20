@@ -18,6 +18,13 @@ exhibitembed:
     privis: /static/img/SGLogo_Black_Transparent.png
   - pritxt: https://doublecheck.theglassroom.org/
     privis: /static/img/SGLogo_Black_Transparent.png
+exhibitimages:
+  - privis: /static/img/G_EXHIBIT_PRI_VIS_3.jpg
+  - privis: /static/img/G_EXHIBIT_PRI_VIS_4.jpg
+  - privis: /static/img/G_EXHIBIT_PRI_VIS_5.jpg
+  - privis: /static/img/G_EXHIBIT_PRI_VIS_6.jpg
+  - privis: /static/img/G_EXHIBIT_PRI_VIS_7.jpg
+  - privis: /static/img/G_EXHIBIT_PRI_VIS_8.jpg
 exhibitauthor:
   - authorbio: DensityDesign is a Research Lab in the Design Department of the
       Politecnico di Milano. It focuses on the visual representation of complex
@@ -46,6 +53,17 @@ readinglist:
     quadreadtxt: "Trapped: The Secret Ways Social Media is Built to be Addictive "
   - quadreadlink: https://www.theguardian.com/technology/2019/aug/23/social-media-addiction-gambling
     quadreadtxt: "The Machine Always Wins: What Drives Our Addiction to Social Media"
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=hz6GULbowAk&ab_channel=TED-Ed
+    quadwatchtxt: "Why People Fall for Misinformation "
+  - quadwatchtxt: How We Can Protect Truth in the Age of Misinformation
+    quadwatchlink: https://www.youtube.com/watch?v=-7ORAKULel4
+  - quadwatchlink: https://www.youtube.com/watch?v=T4YkpPXKDRM&t=172s
+    quadwatchtxt: My Brain on Information Overload
+relatedlist:
+  - quadrelatedtxt: 2020 Vision by Robert Good
+exhibitembed1: https://deepfakelab.theglassroom.org/
+exhibitembed2: https://doublecheck.theglassroom.org/
 listeninglist:
   - quadlistlink: https://podcasts.apple.com/us/podcast/social-media-addiction/id1258539903?i=1000408978370
     quadlisttxt: "In Your Right Mind: Social Media Addiction "
@@ -54,17 +72,6 @@ listeninglist:
   - quadlistlink: https://www.npr.org/2020/06/02/868001948/trust-fall
     quadlisttxt: Trust Fall
 play: https://www.goviralgame.com/en/
-relatedlist:
-  - quadrelatedtxt: 2020 Vision by Robert Good
-exhibitembed1: https://deepfakelab.theglassroom.org/
-watchinglist:
-  - quadwatchlink: https://www.youtube.com/watch?v=hz6GULbowAk&ab_channel=TED-Ed
-    quadwatchtxt: "Why People Fall for Misinformation "
-  - quadwatchtxt: How We Can Protect Truth in the Age of Misinformation
-    quadwatchlink: https://www.youtube.com/watch?v=-7ORAKULel4
-  - quadwatchlink: https://www.youtube.com/watch?v=T4YkpPXKDRM&t=172s
-    quadwatchtxt: My Brain on Information Overload
-exhibitembed2: https://doublecheck.theglassroom.org/
 eventlist:
   - quadeventtxt: "Information…It’s Complicated | Workshop by Muhammad Radwan "
   - quadeventtxt: "Keep Calm and Spot the Design Tricks | Workshop by Louise Hisayasu "
