@@ -1,7 +1,4 @@
 @media (max-height: 768px){
-	#title{
-		margin-top:120px;
-	}
 	#subtitle{
 		margin-top:10px;
 	}
@@ -41,19 +38,31 @@
 	#process{
 		margin-right:60px;
 	}
+	#home{
+		margin-top:5%;
+	}
 
+}
+@media (max-width: 1023px){
+	.iframes{
+		height:320px;
+		width:95%;
+		margin:25% auto;
+	}
 }
 @media (min-width: 1024px) { 
 	.iframes{
 		width:640px;
 		height:320px;
-		margin-top:20%;
 	}
 }
 @media (min-width: 1280px) { 
 	.iframes{
-		width:900px;
-		height:450px;
-		margin-top: 10%;
+		width:800px;
+		height:400px;
+		margin:0 auto;
 	}
+	#home{
+		margin-top:10%;
+ 	}
 }
