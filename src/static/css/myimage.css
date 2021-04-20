@@ -22,13 +22,14 @@
 	.processimg{
 		width: 500px;
 	}
-
 }
+
 @media (max-width: 768px){
 	#scrollordrag{
-		margin-top:60px;
+		margin-top:50px;
 	}
 
+	
 }
 @media (min-width: 768px) { 
 	.main-stuff{
@@ -41,6 +42,7 @@
 	#home{
 		margin-top:5%;
 	}
+	
 
 }
 @media (max-width: 1023px){
@@ -49,11 +51,18 @@
 		width:95%;
 		margin:25% auto;
 	}
+	
+	#quote{
+		font-size:20px;
+	}
 }
 @media (min-width: 1024px) { 
 	.iframes{
 		width:640px;
 		height:320px;
+	}
+	#quote{
+		font-size:40px;
 	}
 }
 @media (min-width: 1280px) { 
@@ -65,4 +74,17 @@
 	#home{
 		margin-top:10%;
  	}
+	#authorbio{
+		font-size:20px;
+		width:90%;
+	}
+	#description{
+		font-size:20px;
+		width:80%;
+	}
+	#quote{
+		font-size:60px;
+
+	}
 }
+

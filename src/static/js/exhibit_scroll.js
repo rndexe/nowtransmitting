@@ -14,7 +14,7 @@ backbutton.addEventListener("click",function() {
 main.addEventListener('wheel', (e) => {
 	main.scrollLeft += e.deltaY;
 
-	if (main.scrollLeft >= window.innerWidth-50) { // Just an example
+	if (main.scrollLeft >= window.innerWidth/1.125) { // Just an example
 		backbutton.style.visibility = 'visible';
 		navitems.style.visibility = 'visible';
 	} else {
