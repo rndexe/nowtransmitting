@@ -4,6 +4,18 @@ title: When the World Was A Laugh
 subtitle: "Decoding the mechanics of a universal experience "
 medium: Speculative fiction, participative collection, video installation
 year: "2021"
+description: >
+  Laughter is a uniquely human and collective activity. What we find funny might
+  vary by culture, but its contagious nature cannot be ignored. In When the
+  World Was A Laugh, the artist invites us to perceive in our own body the
+  mechanics of laughter, its physiological components, its quality as a gesture,
+  as well as its social significance. 
+
+
+  Through an international Call for Laughs, she began documenting the sounds of laughter from across the world in an attempt to track down the origins of the most contagious of these laughs. This investigation is presented as an evolutive video of laughs, which keeps growing as we contribute our laughter to this work. Inspired by the role of laughter in myths regarding the origin of the universe, this work invites us to share a laugh during a time when a global pandemic has disrupted our ways of connecting and being together.
+privis: https://player.vimeo.com/video/538982297?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
+exhibitimages: []
+exhibitaudios: []
 exhibitauthor:
   - authorname: Anaïs Tondeur
     authorbio: >-
@@ -30,16 +42,6 @@ exhibitauthor:
 
       writings with Alain Damasio for the sound arts studio Tarabust. Since 2016, she has also developed virtual reality audio sites between Montreal and France, with Eric Chahi, for Paper Beast.
 authorname: Anaïs Tondeur
-description: >
-  Laughter is a uniquely human and collective activity. What we find funny might
-  vary by culture, but its contagious nature cannot be ignored. In When the
-  World Was A Laugh, the artist invites us to perceive in our own body the
-  mechanics of laughter, its physiological components, its quality as a gesture,
-  as well as its social significance. 
-
-
-  Through an international Call for Laughs, she began documenting the sounds of laughter from across the world in an attempt to track down the origins of the most contagious of these laughs. This investigation is presented as an evolutive video of laughs, which keeps growing as we contribute our laughter to this work. Inspired by the role of laughter in myths regarding the origin of the universe, this work invites us to share a laugh during a time when a global pandemic has disrupted our ways of connecting and being together.
-privis: https://player.vimeo.com/video/538982297?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
 authorbio: >-
   Merging natural sciences and anthropology, myth-making, and new media, visual
   artist Anaïs Tondeur’s practice is anchored in ecology thought. Creating
