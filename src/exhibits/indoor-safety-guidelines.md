@@ -1,5 +1,5 @@
 ---
-layout: "indoor-safety-guidelines"
+layout: indoor-safety-guidelines
 title: COVID-19 Indoor Safety Guidelines
 subtitle: The inner life of a virus
 medium: Interactive
@@ -19,6 +19,7 @@ description: >
 
   This tool brings data, computing, and research into a user-friendly and comprehensible format, making us better informed about the risk of infection in these uncertain times.
 pritxt: https://indoor-covid-safety.herokuapp.com/
+privis: /static/img/SGLogo_Black_Transparent.png
 exhibitauthor:
   - authorbio: John W. Bush is a Professor of Applied Mathematics in the Department
       of Mathematics at Massachusetts Institute of Technology (MIT). A fluid

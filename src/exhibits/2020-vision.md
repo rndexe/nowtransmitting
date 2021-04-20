@@ -1,5 +1,5 @@
 ---
-layout: "2020-vision"
+layout: 2020-vision
 title: "2020 Vision "
 subtitle: Disentangling the Web of Information
 medium: Google News headlines, Google email alerts, Python code
@@ -12,6 +12,7 @@ description: >
 
 
   In 2020 Vision, the artist attempts to externalise some of this information using animations of various headlines, which reflect back a sense of anxiety as we are bombarded with questions, some trivial and some vitally important. These animations grow on the screen like a virus in a Petri dish before gradually receding again. 
+privis: https://player.vimeo.com/video/537188834
 authorimage: /static/img/B_EXHIBIT_SEC_VIS_1.jpg
 authorname: Robert Good
 authorbio: >
@@ -34,7 +35,24 @@ processimages:
   - tervis: /static/img/B_EXHIBIT_TER_VIS_5.jpg
     tertxt: "Internet schema. Courtesy of Robert Good. "
 readinglist:
-  - {}
+  - quadreadtxt: Artists Explore New Ways of Knowing in a Time of Information Overload
+    quadreadlink: https://www.nature.com/articles/d41586-020-01605-0
+  - quadreadtxt: "Art Installation: Cacophony"
+    quadreadlink: https://www.studio-nomad.com/in_between/cacophony
+  - quadreadlink: https://www.scientificamerican.com/article/how-do-internet-search-en/
+    quadreadtxt: How Do Internet Search Engines Work?
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/63tmp1kBFxuo1Se5aEQ7hn
+    quadlisttxt: "You’re Being Watched: Pandemic Capitalism"
+  - quadlistlink: https://www.leadinglearning.com/podcast-episode-51-jonah-berger/
+    quadlisttxt: Getting Contagious-And Curious
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=Q4mTlRUbWwM
+    quadwatchtxt: COVID-19 Information Overload
+  - quadwatchtxt: Is Social Media Hurting Your Mental Health
+    quadwatchlink: https://www.youtube.com/watch?v=Czg_9C7gw0o&pbjreload=101
+  - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
+    quadwatchtxt: Breaking the News Cycle
 play: https://www.goviralgame.com/en/
 eventlist:
   - quadeventtxt: Infodemics | Lecture by Sylvie Briand

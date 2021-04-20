@@ -2,32 +2,4 @@
 layout: default
 ---
 
-<div> 
-
-	<section>
-		<h1>{{title}}</h1>
-		<h2>{{subtitle}}</h2>
-		<h3>{{medium}} , {{year}} </h3>
-		<p>
-		{{description | safe}}
-		</p>
-	</section>
-	<section>
-		<iframe src={{exhibitimages.privis}}></iframe>	
-		<p>{{exhibitimages.pritxt}}</p>
-	</section>
-	<section>
-		<img src={{authorimage}}>
-		<p>{{authorbio | safe}}</p>
-	</section>
-	<section>
-	{%- for images in processimages -%}
-	<div>
-		<iframe src={{images.tervis}}>
-		<p>{{images.tertxt}}</p>
-	</div>	
-	{%- endfor -%}	
-	</section>
-
-</div>
 
