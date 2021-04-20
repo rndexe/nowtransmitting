@@ -1,4 +1,5 @@
 ---
+layout: contagion-21st-century
 title: Contagion in the 21st Century
 subtitle: Tracing the movement of microbes over the years
 medium: Text, Images, and Simulation
@@ -145,9 +146,11 @@ exhibitimages1:
 exhibitvideos:
   - pritxt: "Worldwide air traffic. Mobility promotes the spread of infectious
       diseases. Courtesy of Prof. Dirk Brockmann. "
+    privis: https://player.vimeo.com/video/537577400
   - pritxt: Illustration of the possible spread of Ebola virus disease through
       airports. This map shows how Ebola could have spread from West Africa to
       Europe. Courtesy of Prof. Dirk Brockmann.
+    privis: https://player.vimeo.com/video/537596118
 exhibitimages2:
   - pritxt: "Right from the beginning of the COVID-19- pandemic, the Robert Koch
       Institute has pursued the strategy: Containment, Protection and
