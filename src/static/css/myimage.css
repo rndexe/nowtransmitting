@@ -42,7 +42,15 @@
 	#home{
 		margin-top:5%;
 	}
-	
+	#about-content{
+		margin-top:5%;
+	}
+	.scholar-content{
+		margin-top:5%;
+ 	}
+	 .process-images{
+		margin-top:5%;
+ 	}
 
 }
 @media (max-width: 1023px){
@@ -74,17 +82,26 @@
 	#home{
 		margin-top:10%;
  	}
+	#about-content{
+		margin-top:10%;
+ 	}
+	 .scholar-content{
+		margin-top:10%;
+ 	}
+	 .process-images{
+		margin-top:10%;
+ 	}
 	#authorbio{
 		font-size:20px;
 		width:90%;
 	}
 	#description{
 		font-size:20px;
-		width:80%;
+		width:60%;
 	}
 	#quote{
 		font-size:60px;
-
+		letter-spacing:normal;
 	}
 }
 

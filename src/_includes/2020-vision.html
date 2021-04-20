@@ -21,27 +21,29 @@ layout: exhibit_common
 	
 
 	<section id="about" class="w-screen h-full flex-none" style="background-color: white;">
-		<div class="w-screen float-left lg:mt-44 lg:w-1/2">
-			<pre id="description" class="text-sm ml-10 mr-10 text-justify mt-32 lg:mt-0 2xl:text-2xl w-auto xl:w-3/5 lg:ml-20 " style="font-family: 'Trade Gothic LT Std'; font-weight:400; white-space:pre-wrap;">{{description | safe}}</pre>
-		</div>
-		<div class="invisible lg:visible w-screen float-right lg:mt-44 lg:w-1/2">
-			<h1 id="quote" class="w-3/5  pl-10 text-left mx-auto" style="color:#d62b2b; font-family:'Playfair Display'; border-left: 5px solid #d62b2b;">How can we make sense of the digital world as information multiplies exponentially?</h1>
+		<div id="about-content">
+			<div class="w-screen float-left lg:w-1/2">
+				<pre id="description" class="text-sm ml-10 mr-10 mt-32 lg:mt-0 2xl:text-2xl w-auto xl:w-3/5 lg:ml-20 " style="font-family: 'Trade Gothic LT Std'; font-weight:400; white-space:pre-wrap;">{{description | safe}}</pre>
+			</div>
+			<div class="invisible lg:visible w-screen float-right lg:w-1/2">
+				<h1 id="quote" class="w-4/5  pl-10 text-left" style="color:#d62b2b; font-family:'Playfair Display'; border-left: 5px solid #d62b2b;">How can we make sense of the digital world as information multiplies exponentially?</h1>
+			</div>
 		</div>
 	</section>
 
 	<section id="scholar" class="block w-screen h-screen lg:flex lg:flex-none" style="background-color: #D62B2B;">
-		<div class=" mt-10 mx-auto lg:mt-52 w-3/5">
+		<div class="scholar-content mt-10 mx-auto  w-3/5">
 			<img class="mx-auto" src={{authorimage}} width="70%" oncontextmenu="return false" ondragstart="return false">
 		</div>
-		<div class=" w-11/12 lg:w-3/5 mx-auto">
-			<p class="mt-10 text-center lg:text-left lg:mt-48" style="font-weight: 700; font-size:52px; color:#fff; font-family: 'Trade Gothic LT Std';">Robert Good</p>
+		<div class="scholar-content w-11/12 lg:w-3/5 mx-auto">
+			<p class="mt-10 md:mt-0 text-center lg:text-left" style="font-weight: 700; font-size:52px; color:#fff; font-family: 'Trade Gothic LT Std';">Robert Good</p>
 			<pre id="authorbio" class="mb-20 lg:mb-0 mx-auto lg:mx-px text-sm 2xl:text-2xl mt-px 2xl:mt-10 w-11/12 xl:w-2/3" style="font-size: 20px; font-weight: 400; white-space:pre-wrap; text-align:justify; color:white; font-family: 'Trade Gothic LT Std';">{{authorbio | safe}}</pre>
 		</div>
 	</section>
 
-	<div class="flex flex-col lg:flex-row flex-none w-auto overflow-x-hidden overflow-y-hidden pb-40 lg:pb-0" id="process">
+	<div class="process-images flex flex-col lg:flex-row flex-none w-auto overflow-x-hidden overflow-y-hidden pb-40 lg:pb-0" id="process">
 	{%- for images in processimages -%}
-	<section class="w-full pt-12 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto flex-initial lg:mt-52 lg:ml-40" style="background-color: #2d2d2d;">
+	<section class=" w-full pt-12 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto flex-initial lg:ml-40" style="background-color: #2d2d2d;">
 		<img class="processimg mx-auto" src={{images.tervis}} width="600px" height="auto" style="min-width:200px;" oncontextmenu="return false" ondragstart="return false">	
 		<p class=" text-sm lg:text-2xl pb-0 lg:pb-20 lg:w-full" style="width:600px; text-align:justify; font-weight:200; color:#fff; margin-top:30px; font-family: 'Trade Gothic LT Std';">{{images.tertxt}}</p>
 	</section>
