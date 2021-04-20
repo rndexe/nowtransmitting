@@ -40,16 +40,16 @@
 		margin-right:60px;
 	}
 	#home{
-		margin-top:15%;
+		margin-top:10%;
 	}
 	#about-content{
-		margin-top:15%;
+		margin-top:10%;
 	}
 	.scholar-content{
-		margin-top:15%;
+		margin-top:10%;
  	}
 	 .process-images{
-		margin-top:15%;
+		margin-top:10%;
  	}
 
 }
@@ -88,25 +88,25 @@
 }
 @media (min-width: 1280px) { 
 	.iframes{
-		width:800px;
-		height:400px;
+		width:750px;
+		height:375px;
 		margin:0 auto;
 	}
 	.iframe-text{
-		width:800px;
+		width:750px;
 		margin:0 auto;
 	}
 	#home{
-		margin-top:10%;
+		margin-top:7%;
  	}
 	#about-content{
-		margin-top:10%;
+		margin-top:7%;
  	}
 	 .scholar-content{
-		margin-top:10%;
+		margin-top:7%;
  	}
 	 .process-images{
-		margin-top:10%;
+		margin-top:7%;
  	}
 	#authorbio{
 		font-size:20px;
@@ -117,7 +117,7 @@
 		width:60%;
 	}
 	#quote{
-		font-size:60px;
+		font-size:50px;
 		letter-spacing:normal;
 	}
 }
