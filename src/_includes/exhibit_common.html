@@ -3,8 +3,8 @@ layout: default
 ---
 
 <link rel="stylesheet" type="text/css" href="/static/css/myimage.css">
-<body style="overflow:hidden">
-	<main class="main-stuff block lg:flex lg:flex-col">
+<body style="overflow:hidden;">
+	<main class="main-stuff block lg:flex lg:flex-col;">
 		<div id="mobile-menu" class="invisible absolute top-0 left-0 w-screen h-screen" style="z-index:1000; background-color:rgb(248, 210, 216);">
 			<div class="w-full h-20 flex flex-row" style="border: 2px solid #333;">
 				<div class="h-auto w-20 md:bottom-0 md:fixed">
@@ -27,9 +27,7 @@ layout: default
 		<div class="w-screen fixed">
 			<div >
 				{% include "./partials/navbar.html" %}
-				<div class="flex flex-col lg:flex-row overflow-x-hidden h-screen w-screen right-0" id="main" style="background-color: #2d2d2d; scroll-snap-type:proximity"> 
-					
-
+				<div class="flex flex-col lg:flex-row overflow-x-hidden h-screen w-full" id="main" style="background-color: #2d2d2d; scroll-snap-type:proximity;"> 
 					{{ content | safe }}
 				</div>
 			</div>
