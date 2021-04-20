@@ -1,5 +1,6 @@
 ---
 exhibitvideo: ""
+layout: wendell-stanley
 title: "Wendell Stanley: Crystallizing Viral History"
 subtitle: Between the living and dead--The curious nature of viruses
 medium: Images, Audio, Text
@@ -43,6 +44,17 @@ exhibitimages:
       Public Domain
       An image of the TMV, magnified x160,000 times.
     privis: /static/img/P_EXHIBIT_PRI_VIS_4.jpg
+privis: https://www.mediatheque.lindau-nobel.org/embed/31538
+pritxt: >
+  Credits: 
+
+  Anders Bárány
+
+
+
+  When the biochemist and virologist Wendell Stanley lectured at a Lindau meeting for the first time, he started by expressing his concern about speaking before such a mixed audience, ranging from young students to experts of Nobel calibre. Listening to his talk today, one can only admire the way that Stanley (almost like the explorer looking for Dr. Livingstone) finds his way through a subject area so difficult as viruses. He gives the historical background from the discovery of viruses up to the 1930’s, when he managed to crystallize the first virus to be discovered, the tobacco mosaic virus TMV. From Stanley’s work it is known that viruses contain both protein and nucleic acid, but since viruses cannot multiply outside of living cells, there is still today a question if they should be looked upon as being alive or not. Stanley refers to Aristotle’s hypothesis that a clear boundary between living matter and dead matter maybe even is non-existent, but for the TMV he declares that his research shows that the whole virus activity is a pure molecular property. It may be of some interest, in this connection, to know that Alfred Nobel wrote in the margin of one of his books “Are atoms in living matter alive and atoms in inert matter dead?”. Life and death also enters Stanley’s lecture in another way. This is through the story of the poliomyelitis virus and the attempts to find a safe vaccine. There had been some horrible outbursts of polio in the US and the western world in the 1940’s and early 1950’s. This led some researchers, among them Jonas Salk, to bypass the normal scientific procedure of publishing even small step advances, for other scientists to look critically into. As Stanley puts it, Credits: 
+
+  Anders Bárány
 exhibitauthor:
   - authorbio: Hubert Howe Bancroft, was an American historian born in 1832,
       accumulated an immense collection of manuscripts on the history of
@@ -52,11 +64,13 @@ exhibitauthor:
       California, Berkeley. It now houses rare books, manuscripts, and other
       unique collections, including the Wendell Stanley papers.
     authorname: The Bancroft Library
+    authorimage: /static/img/P_EXHIBIT_SEC_VIS_1.jpg
   - authorname: Lindau Nobel Laureate Meetings
     authorbio: Started in 1951, the Lindau Meetings are a series of annual
       conferences during which various Nobel laureates interact with
       undergraduate and graduate students who will go on to form the next
       generation of scientists.
+    authorimage: /static/img/P_EXHIBIT_SEC_VIS_2.jpg
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/science-nature/what-are-viruses-history-tobacco-mosaic-disease-180974480/
     quadreadtxt: How Scientists Figured Out What Viruses Are

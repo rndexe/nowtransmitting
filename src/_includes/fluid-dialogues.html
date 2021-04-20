@@ -13,6 +13,10 @@ layout: exhibit_common
 			<h3 id="scrollordrag" class="hidden text-lg lg:block 2xl:text-2xl mt-5 2xl:mt-64" style="font-weight:400; color:#a3a3a3; font-family: 'Trade Gothic LT Std';">Scroll to enter Exhibit</h3>
 		</div>
 		<div class="float-right w-screen md:w-full my-80 lg:h-full lg:my-auto lg:w-2/3">
+			{%if exhibitvideos%}
+			<iframe class="iframes w-full h-full mx-auto"  src="{{exhibitvideos[0].privis}}?autoplay=1&loop=1"
+			frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>
+			{% endif %}
 		</div>
 	</section>
 
