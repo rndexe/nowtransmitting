@@ -97,11 +97,11 @@
 	}
 	#description{
 		font-size:20px;
-		width:80%;
+		width:60%;
 	}
 	#quote{
 		font-size:60px;
-
+		letter-spacing:normal;
 	}
 }
 
