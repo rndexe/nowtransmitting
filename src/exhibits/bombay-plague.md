@@ -1,4 +1,5 @@
 ---
+layout: bombay-plague
 title: "Drawing the Bombay Plague "
 subtitle: An alternate imagination of the Bombay Plague
 medium: Drawing and digital work

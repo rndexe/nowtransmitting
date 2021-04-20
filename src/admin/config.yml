@@ -7,7 +7,7 @@ media_folder: "src/static/img"
 public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: true
+#local_backend: true
 publish_mode: editorial_workflow
 collections:
   - label: "Exhibits"
@@ -158,7 +158,7 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "bombay-plague" , required: false }
+              - { label: "layout", name: "layout", default: "bombay-plague" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -167,12 +167,8 @@ collections:
               - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
               - { label: "Author Name", name: "authorname", widget: "string" , required: false }
               - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
-              - label: "Process Images"
-                name: "processimages"
-                fields:
-                - { label: "Process Video", name: "tervis", widget: "string", required: false }
-                - { label: "Process Image Caption", name: "tertxt", widget: "string", required: false }
-                required: false  
+              - { label: "Process Video", name: "tervis", widget: "string", required: false }
+              - { label: "Process Image Caption", name: "tertxt", widget: "string", required: false }
               - label: "Reading List"
                 name: "readinglist"
                 widget: "list"
@@ -227,11 +223,18 @@ collections:
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
+              
               - { label: "Primary Video", name: "privis", widget: "string", required: false }
               - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
-              - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
-              - { label: "Author Name", name: "authorname", widget: "string" , required: false }
-              - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+              
+              - label: "Author section"
+                name: "exhibitauthor"
+                widget: "list"
+                fields:
+                - { label: "Author Image", name: "authorimage", widget: "image", required: false }
+                - { label: "Author Name", name: "authorname", widget: "string", required: false }
+                - { label: "Author Bio", name: "authorbio", widget: "text", required: false }
+
               - label: "Process Images"
                 name: "processimages"
                 widget: "list"
@@ -449,22 +452,16 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "the-glass-room" , required: false }
+              - { label: "layout", name: "layout", default: "the-glass-room" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
-              - { label: "Essay", name: "essay", widget: "text" , required: false }
               
-              - label: "Embed website 1"
-                name: "exhibitembed1"
-                fields:
-                - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
-                - { label: "Embed Link Image", name: "privis", widget: "image", required: false }
-                required: false  
-              - label: "Embed website 2"
-                name: "exhibitembed2"
+              - label: "Embed websites"
+                name: "exhibitembed"
+                widget: "list"
                 fields:
                 - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
                 - { label: "Embed Link Image", name: "privis", widget: "image", required: false }
@@ -837,22 +834,36 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "chameleon-project" , required: false }
+              - { label: "layout", name: "layout", default: "chameleon-project" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
+              - label: "Primary Videos"
+                name: "exhibitvideos"
+                widget: "list"
+                fields:
+                - { label: "Primary Video", name: "privis", widget: "string", required: false }
+                - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
+                required: false  
+
               - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
-              - { label: "Author name", name: "authorname", widget: "text" , required: false }
+              - { label: "Author name", name: "authorname", widget: "string" , required: false }
               - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
+
+              - { label: "Process Video", name: "tervis", widget: "string", required: false }
+              - { label: "Process Video Caption", name: "tertxt", widget: "string", required: false }
               - label: "Process Images"
                 name: "processimages"
+                widget: "list"
                 fields:
-                - { label: "Process Video", name: "tervis", widget: "string", required: false }
+                - { label: "Process Image", name: "tervis", widget: "image", required: false }
                 - { label: "Process Image Caption", name: "tertxt", widget: "string", required: false }
                 required: false  
 
+              - { label: "Process pdf", name: "tervispdf", widget: "string", required: false }
+              
               - label: "Reading List"
                 name: "readinglist"
                 widget: "list"
@@ -909,12 +920,13 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" , required: false }
+              - { label: "layout", name: "layout", default: "fluid-dialogues" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
+ 
               - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
               - { label: "Author name", name: "authorname", widget: "text" , required: false }
               - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
@@ -1044,7 +1056,7 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" , required: false }
+              - { label: "layout", name: "layout", default: "contagion-21st-century" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -1106,7 +1118,7 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "exhibit-video" , required: false }
+              - { label: "layout", name: "layout", default: wendell-stanley , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
