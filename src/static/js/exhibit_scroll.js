@@ -18,6 +18,7 @@ backbutton.addEventListener("click",function() {
 	window.location = "#home";
 	backbutton.style.visibility = 'hidden'
 	navitems.style.visibility = 'hidden';
+	aboutnav.children[1].style.visibility = 'hidden'
 })
 
 aboutnav.addEventListener("click",function() {
