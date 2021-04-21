@@ -27,7 +27,7 @@ layout: default
 		<div class="w-screen fixed">
 			<div >
 				{% include "./partials/navbar.html" %}
-				<div class="flex flex-col lg:flex-row overflow-x-hidden h-screen w-full" id="main" style="background-color: #2d2d2d; scroll-snap-type:proximity;"> 
+				<div class="flex flex-col lg:flex-row overflow-x-hidden h-screen w-auto " id="main" style="background-color: #2d2d2d; scroll-snap-type:proximity;"> 
 					{{ content | safe }}
 				</div>
 			</div>

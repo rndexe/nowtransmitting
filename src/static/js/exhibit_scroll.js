@@ -22,31 +22,32 @@ backbutton.addEventListener("click",function() {
 
 aboutnav.addEventListener("click",function() {
 	resetNavbar()
-	aboutnav.style.color = 'black'
-	aboutnav.style.textDecoration = 'underline'
+	aboutnav.children[0].style.color = 'black'
+	aboutnav.children[1].style.visibility = 'visible'
 
 });
 scholarnav.addEventListener("click",function() {
 	resetNavbar()
-	scholarnav.style.color = 'white'
-	scholarnav.style.textDecoration = 'underline'
+	scholarnav.children[0].style.color = 'white'
+	scholarnav.children[1].style.visibility = 'visible'
 
 });
 processnav.addEventListener("click",function() {
 	resetNavbar()
-	processnav.style.color = 'red'
-	processnav.style.textDecoration = 'underline'
+	processnav.children[0].style.color = 'red'
+	processnav.children[1].style.visibility = 'visible'
+
 
 });
 furthernav.addEventListener("click",function() {
 	resetNavbar()
-	furthernav.style.color = 'black'
-	furthernav.style.textDecoration = 'underline'
+	furthernav.children[0].style.color = 'black'
+	furthernav.children[1].style.visibility = 'visible'
 
 });
 
-aboutnav.style.color = 'black'
-aboutnav.style.textDecoration = 'underline'
+aboutnav.children[0].style.color = 'black'
+
 //For converting mousewheel scroll into horizontal scroll
 main.addEventListener('wheel', (e) => {
 	main.scrollLeft += e.deltaY;
@@ -54,27 +55,38 @@ main.addEventListener('wheel', (e) => {
 	if (main.scrollLeft >= window.innerWidth/1.125) { // Just an example
 		backbutton.style.visibility = 'visible';
 		navitems.style.visibility = 'visible';
+		aboutnav.children[1].style.visibility = 'visible'
+
 	} else {
 		navitems.style.visibility = 'hidden';
 		backbutton.style.visibility = 'hidden';
+		aboutnav.children[1].style.visibility = 'hidden'
+		processnav.children[1].style.visibility = 'hidden'
+		scholarnav.children[1].style.visibility = 'hidden'
+		furthernav.children[1].style.visibility = 'hidden'
+
+
+
 	}
 
-	if ((window.scrollX >= about.getBoundingClientRect().left) && (window.scrollX <= about.getBoundingClientRect().right)) {
+	if ((window.scrollX >= about.getBoundingClientRect().left-80) && (window.scrollX <= about.getBoundingClientRect().right-80)) {
 			resetNavbar()
-			aboutnav.style.color = 'black'
-			aboutnav.style.textDecoration = 'underline'
-	}else if ((window.scrollX >= scholar.getBoundingClientRect().left) && (window.scrollX <= scholar.getBoundingClientRect().right) ) {
+			aboutnav.children[0].style.color = 'black'
+			aboutnav.children[1].style.visibility = 'visible'
+	}else if ((window.scrollX >= scholar.getBoundingClientRect().left-80) && (window.scrollX <= scholar.getBoundingClientRect().right-80) ) {
 		resetNavbar()
-		scholarnav.style.color = 'white'
-		scholarnav.style.textDecoration = 'underline'
-	}else if ((window.scrollX >= process.getBoundingClientRect().left) && (window.scrollX <= process.getBoundingClientRect().right)) {
+		scholarnav.children[0].style.color = 'white'
+		scholarnav.children[1].style.visibility = 'visible'
+
+	}else if ((window.scrollX >= process.getBoundingClientRect().left-80) && (window.scrollX <= process.getBoundingClientRect().right-80)) {
 			resetNavbar()
-			processnav.style.color = 'red'
-			processnav.style.textDecoration = 'underline'
-	}else if ((window.scrollX >= further.getBoundingClientRect().left) && (window.scrollX <= further.getBoundingClientRect().right)) {
+			processnav.children[0].style.color = 'red'
+			processnav.children[1].style.visibility = 'visible'
+
+	}else if ((window.scrollX >= further.getBoundingClientRect().left-80) && (window.scrollX <= further.getBoundingClientRect().right-80 )) {
 			resetNavbar()
-			furthernav.style.color = 'black'
-			furthernav.style.textDecoration = 'underline'
+			furthernav.children[0].style.color = 'black'
+			furthernav.children[1].style.visibility = 'visible'
 	}
 		
 });
@@ -82,14 +94,15 @@ main.addEventListener('wheel', (e) => {
 
 
 function resetNavbar(){
-		aboutnav.style.color = "#a3a3a3";
-		aboutnav.style.textDecoration = "none";
-		processnav.style.color = "#a3a3a3";
-		processnav.style.textDecoration = "none";
-		scholarnav.style.color = "#a3a3a3";
-		scholarnav.style.textDecoration = "none";
-		furthernav.style.color = "#a3a3a3";
-		furthernav.style.textDecoration = "none";
+		aboutnav.children[0].style.color = "#a3a3a3";
+		processnav.children[0].style.color = "#a3a3a3";
+		scholarnav.children[0].style.color = "#a3a3a3";
+		furthernav.children[0].style.color = "#a3a3a3";
+		aboutnav.children[1].style.visibility =   'hidden'
+		processnav.children[1].style.visibility = 'hidden'
+		scholarnav.children[1].style.visibility = 'hidden'
+		furthernav.children[1].style.visibility = 'hidden'
+
 }
 
 //document.addEventListener('wheel', () => {
