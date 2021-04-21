@@ -41,17 +41,5 @@ exhibitauthor:
       sounds on the web 24 hours a day. Since 2014, she has been crossing sound and literary
 
       writings with Alain Damasio for the sound arts studio Tarabust. Since 2016, she has also developed virtual reality audio sites between Montreal and France, with Eric Chahi, for Paper Beast.
-authorname: Anaïs Tondeur
-authorbio: >-
-  Merging natural sciences and anthropology, myth-making, and new media, visual
-  artist Anaïs Tondeur’s practice is anchored in ecology thought. Creating
-  installations, photographs, or videos, she seeks a new aesthetic, in the sense
-  of a renewal of our modes of perception, to find other conditions of being in
-  the world. 
 
-
-  She has been an artist-in-residence in several art centers and scientific laboratories, which include LeCentQuatre-Grand Paris Express (2018-19), Artlink (Ireland, 2019), the Museum of Arts et Métiers (Paris, 2018-17), and the National Centre for Space Studies (CNES, Paris, 2016).
-
-
-  She has presented and exhibited her work in international institutions such as the Center Pompidou (Paris), La Gaîté Lyrique (Paris), Serpentines Galleries (London), Bozar (Brussels), and Biennale Di Venezia, (Lieux Infinis).
 ---
