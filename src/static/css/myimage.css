@@ -88,25 +88,25 @@
 }
 @media (min-width: 1280px) { 
 	.iframes{
-		width:750px;
-		height:375px;
+		width:700px;
+		height:350px;
 		margin:0 auto;
 	}
 	.iframe-text{
-		width:750px;
+		width:700px;
 		margin:0 auto;
 	}
 	#home{
-		margin-top:7%;
+		margin-top:5%;
  	}
 	#about-content{
-		margin-top:7%;
+		margin-top:5%;
  	}
 	 .scholar-content{
-		margin-top:7%;
+		margin-top:5%;
  	}
 	 .process-images{
-		margin-top:7%;
+		margin-top:5%;
  	}
 	#authorbio{
 		font-size:20px;
