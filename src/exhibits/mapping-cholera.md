@@ -32,6 +32,8 @@ exhibitauthor:
     authorbio: Dan McCreary is an information designer in Washington. He is an
       alumnus of the Pulitzer Center, and has designed and built the Mapping
       Cholera website.
+    authorimage: /static/img/K_EXHIBIT_SEC_VIS_1.jpg
+
 readinglist:
   - quadreadlink: https://m.dailyhunt.in/news/bangladesh/english/the+federal+english-epaper-thefeden/contact+tracing+hotspots+and+plodding+through+sewers+cholera+in+bangalore+1895-newsid-n179325830
     quadreadtxt: "Contact Tracing, Hotspots And Plodding Through Sewers: Cholera In

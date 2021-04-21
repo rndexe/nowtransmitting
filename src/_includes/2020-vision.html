@@ -56,7 +56,7 @@ layout: exhibit_common
 
 	<section id="scholar" class="block w-screen h-screen lg:flex lg:flex-none" style="background-color: #D62B2B;">
 		<div class="scholar-content mt-10 mx-auto  w-3/5">
-			<img class="mx-auto" src={{authorimage}} width="70%" oncontextmenu="return false" ondragstart="return false">
+			<img class="authorimg mx-auto" src={{authorimage}} width="70%" oncontextmenu="return false" ondragstart="return false">
 		</div>
 		<div class="scholar-content w-11/12 lg:w-3/5 mx-auto">
 			<p class="mt-10 md:mt-0 text-center lg:text-left" style="font-weight: 700; font-size:52px; color:#fff; font-family: 'Trade Gothic LT Std';">Robert Good</p>
@@ -64,7 +64,7 @@ layout: exhibit_common
 		</div>
 	</section>
 
-	<div id="process-images" class="process-images flex flex-col lg:flex-row flex-none w-auto overflow-x-hidden overflow-y-hidden pb-40 lg:pb-0" id="process">
+	<div id="process-images" class="process-images flex flex-col lg:flex-row flex-none w-auto overflow-x-hidden overflow-y-hidden pb-40 lg:pb-0">
 	{%- for images in processimages -%}
 	<section class=" w-full pt-12 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto flex-initial lg:ml-40" style="background-color: #2d2d2d;">
 		<img class="processimg mx-auto" src={{images.tervis}} width="600px" height="auto" style="min-width:200px;" oncontextmenu="return false" ondragstart="return false">	

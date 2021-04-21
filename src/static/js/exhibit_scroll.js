@@ -18,6 +18,11 @@ backbutton.addEventListener("click",function() {
 	window.location = "#home";
 	backbutton.style.visibility = 'hidden'
 	navitems.style.visibility = 'hidden';
+	aboutnav.children[1].style.visibility = 'hidden'
+	processnav.children[1].style.visibility = 'hidden'
+	scholarnav.children[1].style.visibility = 'hidden'
+	furthernav.children[1].style.visibility = 'hidden'
+
 })
 
 aboutnav.addEventListener("click",function() {
@@ -64,9 +69,6 @@ main.addEventListener('wheel', (e) => {
 		processnav.children[1].style.visibility = 'hidden'
 		scholarnav.children[1].style.visibility = 'hidden'
 		furthernav.children[1].style.visibility = 'hidden'
-
-
-
 	}
 
 	if ((window.scrollX >= about.getBoundingClientRect().left-80) && (window.scrollX <= about.getBoundingClientRect().right-80)) {
