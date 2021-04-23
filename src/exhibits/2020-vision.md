@@ -41,6 +41,7 @@ processimages:
 readinglist:
   - quadreadtxt: Artists Explore New Ways of Knowing in a Time of Information Overload
     quadreadlink: https://www.nature.com/articles/d41586-020-01605-0
+    quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadtxt: "Art Installation: Cacophony"
     quadreadlink: https://www.studio-nomad.com/in_between/cacophony
   - quadreadlink: https://www.scientificamerican.com/article/how-do-internet-search-en/
@@ -57,6 +58,7 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=Czg_9C7gw0o&pbjreload=101
   - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
     quadwatchtxt: Breaking the News Cycle
+play: https://www.goviralgame.com/en/
 eventlist:
   - quadeventtxt: Infodemics | Lecture by Sylvie Briand
   - quadeventtxt: Information...It’s Complicated | Workshop by Muhammad Radwan
