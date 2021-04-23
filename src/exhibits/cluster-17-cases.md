@@ -1,5 +1,7 @@
 ---
 layout: cluster-17-cases
+authortype: Team
+thumb: /static/img/H_Exhibit_Thumbnail.jpg
 title: A Cluster of 17 Cases
 subtitle: The corridor of uncertainty
 medium: Interactive website
@@ -26,6 +28,17 @@ exhibitauthor:
 
       Internationally, Blast Theory’s work has been shown at the Tribeca Film Festival, Sundance Film Festival, Walker Arts Center in Minneapolis, the Venice Biennale, ICC in Tokyo, the Chicago Museum of Contemporary Art, Sydney Biennale, National Museum in Taiwan, Hebbel Theatre in Berlin, Basel Art Fair, Dutch Electronic Arts Festival, Sonar Festival in Barcelona and the Palestine International Video Festival.
     authorimage: /static/img/H_EXHIBIT_SEC_VIS_1.png
+processimages:
+  - tervis: /static/img/H_EXHIBIT_TER_VIS_1.jpg
+    tertxt: An image of the whole model of the 9th floor of the Metropole hotel.
+  - tervis: /static/img/H_EXHIBIT_TER_VIS_2.jpg
+    tertxt: "An isometric view of the 3D model of a single hotel room that was used
+      for the creation of the aluminium model. "
+  - tervis: /static/img/H_EXHIBIT_TER_VIS_3.jpg
+    tertxt: A test shot from the VFX studio as they film the aluminium model with a
+      miniature camera.
+terpdf: //e.issuu.com/embed.html?d=a_cluster_info_pack&hideIssuuLogo=true&u=sciencegallerybengaluru
+terpdftxt: "Info pack about A Cluster of 17 Cases. "
 readinglist:
   - quadreadlink: https://wellcomecollection.org/articles/Xl0YSxIAACEAQiBn
     quadreadtxt: The Science of Why Things Spread

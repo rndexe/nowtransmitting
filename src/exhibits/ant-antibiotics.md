@@ -1,6 +1,8 @@
 ---
-layout: "ant-antibiotics"
-title: "Putting the Ant into Antibiotics"
+layout: ant-antibiotics
+authortype: Team
+thumb: /static/img/F_Exhibit_Thumbnail.jpg
+title: Putting the Ant into Antibiotics
 subtitle: Microbes to the rescue
 medium: Photographs and video
 year: "2019"
@@ -16,8 +18,10 @@ description: >
 essay: >
   Researchers at the John Innes Centre and University of East Anglia (UEA) have
   investigated the chemical arsenal employed by species such as South American
-  leafcutter ants in defending colonies against rivals and pathogens.
-  The microbiome found on the cuticles of leafcutter ants is a rich source of actinomycete bacteria. This family of bacteria produce diverse natural products from which half of all antibiotics already in clinical use originate.
+  leafcutter ants in defending colonies against rivals and pathogens. The
+  microbiome found on the cuticles of leafcutter ants is a rich source of
+  actinomycete bacteria. This family of bacteria produce diverse natural
+  products from which half of all antibiotics already in clinical use originate.
 
 
   The ants are born sterile and get inoculated soon after birth with an actinomycete species that blooms over their body. Other microbes which encounter this niche must have strong genetic resistance to the antibiotics produced on the cuticle and be able to kill the native strain to invade.
@@ -25,24 +29,20 @@ essay: >
   Consequently, the ant microbiome is a dynamic, transitory place that offers a pre-screened source of novel chemistry for biotechnology.
 
 
-  From a range of ants, including leafcutters and African Tetraponera species, the team at the John Innes Centre and UEA have assembled a library of more than 400 strains of actinomycetes. Nearly 100 of these have been genome sequenced and researchers are continuing to mine this resource for new antibacterial molecules. It is a search aided by new tools which identify more rapidly the clusters of genes responsible for the biosynthesis of molecules.
-  Interest in exploiting plant ant chemistry led to an increasing fascination with the phenomenon of colony collapse, where the normally meticulous leafcutter ants down tools and desert their nest. The secret, according to a study published in 2018, lies in a behaviour-modifying chemical weapon produced by Escovopsis, a fungal parasite that has co-evolved with the leafcutter ants over the past 50 million years. At times of stress, compounds produced by the parasite overpower the colony by manipulating the behaviour of ants, ultimately resulting in nest abandonment.
+  From a range of ants, including leafcutters and African Tetraponera species, the team at the John Innes Centre and UEA have assembled a library of more than 400 strains of actinomycetes. Nearly 100 of these have been genome sequenced and researchers are continuing to mine this resource for new antibacterial molecules. It is a search aided by new tools which identify more rapidly the clusters of genes responsible for the biosynthesis of molecules. Interest in exploiting plant ant chemistry led to an increasing fascination with the phenomenon of colony collapse, where the normally meticulous leafcutter ants down tools and desert their nest. The secret, according to a study published in 2018, lies in a behaviour-modifying chemical weapon produced by Escovopsis, a fungal parasite that has co-evolved with the leafcutter ants over the past 50 million years. At times of stress, compounds produced by the parasite overpower the colony by manipulating the behaviour of ants, ultimately resulting in nest abandonment.
 
 
-  It’s an example of how curiosity-driven science leads to unexpected new avenues of exploration says Professor Wilkinson,“We became fascinated with the ecology of the whole nest system – not so much due to antibiotic discovery but to understand the chemical ecology. We don’t yet know if the compounds we discovered have any value commercially, but maybe they can tell us something about how you might control ants. We will continue to investigate the ant microbiome, but we are also looking at plant roots and plant endophytes – the bacteria from inside plants.”
-  Another area of focus for the group lies in identifying the molecular targets of antibiotics. The penicillin group of antibiotics, for example, work by targeting bacterial cell walls; another antibiotic, azithromycin, works by stopping the bacterial cell from making proteins.
+  It’s an example of how curiosity-driven science leads to unexpected new avenues of exploration says Professor Wilkinson,“We became fascinated with the ecology of the whole nest system – not so much due to antibiotic discovery but to understand the chemical ecology. We don’t yet know if the compounds we discovered have any value commercially, but maybe they can tell us something about how you might control ants. We will continue to investigate the ant microbiome, but we are also looking at plant roots and plant endophytes – the bacteria from inside plants.” Another area of focus for the group lies in identifying the molecular targets of antibiotics. The penicillin group of antibiotics, for example, work by targeting bacterial cell walls; another antibiotic, azithromycin, works by stopping the bacterial cell from making proteins.
 
 
-  Explains Professor Wilkinson. “That can be anything, an enzyme, a receptor – something that is essential for the organism to survive. If you disrupt that then it dies or stops growing. Highlighting new targets is potentially just as valuable as finding new antibiotics in the fight against antimicrobial resistance. By understanding how natural products work we can start to design new molecules for those targets.”
-  The backdrop to this is a global crisis caused by antimicrobial resistance (AMR), the emergence of so-called superbugs that are resistant to antibiotics.
+  Explains Professor Wilkinson. “That can be anything, an enzyme, a receptor – something that is essential for the organism to survive. If you disrupt that then it dies or stops growing. Highlighting new targets is potentially just as valuable as finding new antibiotics in the fight against antimicrobial resistance. By understanding how natural products work we can start to design new molecules for those targets.” The backdrop to this is a global crisis caused by antimicrobial resistance (AMR), the emergence of so-called superbugs that are resistant to antibiotics.
 
 
-  The discovery of penicillin by Alexander Fleming in 1928 heralded a new era of drug discovery with research particularly successful in harnessing molecules from soil bacteria. By the 1960s, bacterial infections which had been the leading global killer in 1900 could be treated swiftly and inexpensively.
-  With the emergence of bacteria resistant to antibiotics, partly due to overuse and misuse, it is estimated that bacterial infections could move ahead of cancer as a cause of death by 2050. So where does the fundamental work carried out by the John Innes Centre and the UEA figure in this global health race?
-  “We are very early in the process, if we find a new molecule we have to find its target and whether that would be useful in the clinical sense. Then once you have found your target you must figure out how to design compounds to inhibit them. So, any of our projects are 10-15 years away from something ending up in the clinic,” says Professor Wilkinson.
+  The discovery of penicillin by Alexander Fleming in 1928 heralded a new era of drug discovery with research particularly successful in harnessing molecules from soil bacteria. By the 1960s, bacterial infections which had been the leading global killer in 1900 could be treated swiftly and inexpensively. With the emergence of bacteria resistant to antibiotics, partly due to overuse and misuse, it is estimated that bacterial infections could move ahead of cancer as a cause of death by 2050. So where does the fundamental work carried out by the John Innes Centre and the UEA figure in this global health race? “We are very early in the process, if we find a new molecule we have to find its target and whether that would be useful in the clinical sense. Then once you have found your target you must figure out how to design compounds to inhibit them. So, any of our projects are 10-15 years away from something ending up in the clinic,” says Professor Wilkinson.
 
 
   Professor Wilkinson spent 16 years in drug discovery biotechnology before joining the John Innes Centre. “One of the reasons for coming back to academia is that I don’t want to be constrained with thinking about the end product. In industry you are always looking towards a therapeutic output, ultimately to make money. We had to let go of all kinds of interesting science that might lead to even more interesting outcomes. Here we are driven by scientific curiosity to understand how microbes make molecules.”
+exhibitstream: http://antcam.nbi.ac.uk/view/view.shtml?id=612982&imagepath=%2Fmjpg%2Fvideo.mjpg%3Fcamera%3D1&size=1
 exhibitimages:
   - privis: /static/img/F_EXHIBIT_PRI_VIS_1.jpg
     pritxt: "Ant fungus garden. Courtesy of the John Innes Centre. "

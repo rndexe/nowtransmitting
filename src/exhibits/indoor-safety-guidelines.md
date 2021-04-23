@@ -1,5 +1,7 @@
 ---
 layout: indoor-safety-guidelines
+authortype: Team
+thumb: /static/img/I_Exhibit_Thumbnail.jpg
 title: COVID-19 Indoor Safety Guidelines
 subtitle: The inner life of a virus
 medium: Interactive
@@ -19,7 +21,7 @@ description: >
 
   This tool brings data, computing, and research into a user-friendly and comprehensible format, making us better informed about the risk of infection in these uncertain times.
 pritxt: https://indoor-covid-safety.herokuapp.com/
-privis: /static/img/SGLogo_Black_Transparent.png
+privis: ""
 exhibitauthor:
   - authorbio: John W. Bush is a Professor of Applied Mathematics in the Department
       of Mathematics at Massachusetts Institute of Technology (MIT). A fluid
@@ -46,10 +48,6 @@ readinglist:
     quadreadlink: https://www.nature.com/articles/s41562-020-0884-z
   - quadreadtxt: The Stranger Who Started An Epidemic
     quadreadlink: https://wellcomecollection.org/articles/WsT4Ex8AAHruGfXH
-relatedlist:
-  - quadrelatedtxt: Fluid Dialogues by Basse Stittgen
-  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
-exhibitembed1: https://indoor-covid-safety.herokuapp.com/
 listeninglist:
   - quadlistlink: https://www.nature.com/articles/d41586-021-00523-z
     quadlisttxt: Google-backed Database Could Help Answer Big Covid Questions
@@ -58,6 +56,10 @@ listeninglist:
 watchinglist:
   - quadwatchtxt: The History and Uses of Vaccine Passports and COVID Status Apps
     quadwatchlink: https://www.adalovelaceinstitute.org/event/history-uses-vaccine-passports-covid-status-apps/
+relatedlist:
+  - quadrelatedtxt: Fluid Dialogues by Basse Stittgen
+  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
+exhibitembed1: https://indoor-covid-safety.herokuapp.com/
 eventlist:
   - quadeventtxt: Why And How Should We Model Infectious Diseases? | Lecture by Dr.
       Gautam Menon

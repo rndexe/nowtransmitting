@@ -1,0 +1,20 @@
+---
+layout : default
+---
+
+<div class="my-36 mx-72 flex flex-wrap">
+
+	{%- for post in collections.exhibit -%}
+	<div class="w-4/12 h-auto">
+		<a href= {{post.url}}>
+			<div class="flex">
+				<img class="w-1/2 h-full" src={{post.data.thumb}}>
+				<div class="w-1/2 flex-none">
+					<div>{{post.data.title}}</div>
+					<div>{{post.data.subtitle}}</div>
+				</div>
+			</div>
+		</a>
+	</div>
+	{%- endfor -%}
+</div>

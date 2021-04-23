@@ -1,7 +1,9 @@
 ---
 layout: fluid-dialogues
-title: "Fluid Dialogues "
-subtitle: "The burden of stigma "
+authortype: Team
+thumb: /static/img/M_Exhibit_Thumbnail.jpg
+title: Fluid Dialogues
+subtitle: The burden of stigma
 medium: Film
 year: "2021"
 description: >-
@@ -12,12 +14,6 @@ description: >-
 
 
   Fluid Dialogues juxtaposes interviews of people living with HIV along with microscopic footage of their blood to create an intimate moment of reflection on the social implications of living with a contagious disease. Through this work, the artist provokes us to reflect on how social ties, and relationships can be damaged through our impulse to blame, and irrational fears of contamination.
-authorname: Basse Stittgen
-authorbio: The work of Basse Stittgen is positioned at the intersection of
-  design, art and material research. It stems from a fascination for matter, how
-  it can be created, applied, used, reused and questioned. This approach might
-  lead to investigations into production cycles, or become a tool to unfold
-  hidden narratives and potentials embedded in matter.
 readinglist:
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/13548506.2019.1705991
     quadreadtxt: Artistic Representation of Infectious Disease
@@ -41,4 +37,10 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
   - quadrelatedtxt: COVID-19 Indoor Safety Guideline by Martin Bazant, John Bush, Kasim Khan
+authorname: Basse Stittgen
+authorbio: The work of Basse Stittgen is positioned at the intersection of
+  design, art and material research. It stems from a fascination for matter, how
+  it can be created, applied, used, reused and questioned. This approach might
+  lead to investigations into production cycles, or become a tool to unfold
+  hidden narratives and potentials embedded in matter.
 ---

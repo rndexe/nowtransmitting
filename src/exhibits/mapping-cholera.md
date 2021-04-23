@@ -1,5 +1,7 @@
 ---
 layout: mapping-cholera
+authortype: Team
+thumb: /static/img/K_Exhibit_Thumbnail.jpg
 title: "Mapping Cholera: A Tale of Two Cities"
 subtitle: Charting through histories of cholera
 medium: Interactive Maps
@@ -18,6 +20,7 @@ description: >
 
   This project maps the two cholera outbreaks, allowing us to visualise the spread of the disease, the differences and similarities between the two epidemics, and renders visible the magnitude and scale of this disease.
 pritxt: http://choleramap.pulitzercenter.org#embed
+privis: /static/img/K_EXHIBIT_PRI_VIS_1.mp4
 exhibitauthor:
   - authorbio: Sonia Shah is an investigative journalist, science historian, and
       award-winning author. She has published numerous books on human rights,
@@ -33,7 +36,6 @@ exhibitauthor:
       alumnus of the Pulitzer Center, and has designed and built the Mapping
       Cholera website.
     authorimage: /static/img/K_EXHIBIT_SEC_VIS_1.jpg
-
 readinglist:
   - quadreadlink: https://m.dailyhunt.in/news/bangladesh/english/the+federal+english-epaper-thefeden/contact+tracing+hotspots+and+plodding+through+sewers+cholera+in+bangalore+1895-newsid-n179325830
     quadreadtxt: "Contact Tracing, Hotspots And Plodding Through Sewers: Cholera In

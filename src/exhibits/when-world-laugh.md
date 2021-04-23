@@ -1,7 +1,9 @@
 ---
 layout: when-world-laugh
+authortype: Team
+thumb: /static/img/D_Exhibit_Thumbnail.jpg
 title: When the World Was A Laugh
-subtitle: "Decoding the mechanics of a universal experience "
+subtitle: "Decoding the mechanics of a universal experience"
 medium: Speculative fiction, participative collection, video installation
 year: "2021"
 description: >
@@ -41,5 +43,4 @@ exhibitauthor:
       sounds on the web 24 hours a day. Since 2014, she has been crossing sound and literary
 
       writings with Alain Damasio for the sound arts studio Tarabust. Since 2016, she has also developed virtual reality audio sites between Montreal and France, with Eric Chahi, for Paper Beast.
-
 ---

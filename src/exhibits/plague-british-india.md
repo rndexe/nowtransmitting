@@ -1,5 +1,8 @@
 ---
-layout: "plague-british-india"
+layout: plague-british-india
+featured: false
+authortype: Scholar
+thumb: /static/img/A_Exhibit_Thumbnail.jpg
 title: "Controlling the Plague in British India "
 subtitle: "A Visual History of the Plague "
 medium: Photographs
@@ -14,38 +17,6 @@ description: >
 
 
   This exhibit contains an essay by Christos Lynteris that explores the drastic measures taken by colonial authorities who were attempting to control the spread of the third plague pandemic in India. We also have here photographs courtesy of Christos Lynteris and the team at the Visual Representations of the Third Plague project.  
-essay: >
-  The third plague pandemic lasted from c.1855 to 1959 and was the first time
-  that bubonic plague reached all inhabited continents, establishing long-term
-  endemic foci in Sub-Saharan Africa, North and South America. The pandemic
-  struck successively at major cities such as Hong Kong (1894), Bombay (1896),
-  Karachi (1897), Porto (1899), Honolulu (1899), Alexandria (1899), Santos
-  (1899), Asuncion (1899), Sydney (1900), Cape Town (1900), Buenos Aires (1900),
-  Rio de Janeiro (1900), San Francisco (1900), Glasgow (1900), Harbin (1910),
-  Havana (1912), Paris (1920), Antananarivo (1924), Los Angeles (1924), and
-  Dakar (1944). This was the first time that plague was examined
-  bacteriologically, with the bacillus causing the disease being isolated in
-  Hong Kong in the summer of 1894. However the discovery of the bacillus did not
-  mean that the mode of transmission was immediately understood. It would take
-  another decade before the role of the rat and the flea was properly
-  acknowledged and only in 1911 was the airborne human-to-human transmission of
-  the pneumonic form of plague universally accepted. 
-
-
-  The pandemic would lead to an estimated 12 million dead. Plague-affected locations witnessed the implementation of extraordinary measures for its containments. These were often met with resistance by affected populations, whilst also splitting the medical community in rival camps. It was only with the discovery of antibiotics and the use of effective anti-flea insecticides, after the Second World War, that the pandemic was brought under comprehensive control.
-
-
-  The third plague pandemic was the first epidemic to be photographed. This extensive photographic record did not simply depict individual outbreaks across the globe. It also played a role in the public negotiation of what caused these epidemics, and how they should be best handled. Issues like the impact of epidemic control on free trade, state and local sovereignty and civil liberties, as well as the efficacy of quarantine, imagined class and race aspects of plague transmission, and the use of segregation as a public health measure, urban planning and the pathogenic potential of native forms of habitation, the role of modern technology in the spread of plague, and the implication of rats and other animals in the spread of the disease were visually commented and negotiated through the unprecedented use of photography in documenting a global pandemic. Plague photography thus contributed not just to a vision of plague as a global scourge, but also to the emergence of a broader pandemic imaginary. 
-
-
-  These photographs were carried not simply in medical publications but across the lay daily and illustrated press, creating a spectacle of epidemic destruction and technoscientific salvation. Plague photography connected different outbreaks of the disease across the globe in a common aetiological and epidemic control narrative, mobilising visual tropes of the “Black Death” and fostering for the first time a medical and lay experience of the “pandemic”. 
-
-
-  Plague arrived in Mumbai (Bombay) in September 1896, probably carried there by steamships from Hong Kong. The existence of plague in Bombay – one of the major commercial centres of the British Empire at the time – caused immediate panic in London, where it was felt that the Indian Government were being too slow to respond to an outbreak that had potentially major geopolitical significance. Colonial officials responded in a draconian and largely incoherent manner as plague began to spread from Bombay to other major cities across British India. In February 1897, the government of India promulgated the Epidemic Diseases Act, which effectively created a state of emergency around anti-plague measures. In major cities, far-reaching campaigns were unleashed that involved house-to-house searches by soldiers, forced hospitalisation, and the compulsory disinfection of houses. Disinfection involved a range of measures including deroofing and burning down houses or hosing them with highly acidic solutions, and was based upon the false idea that plague was a disease of ‘locality’. At the same time, colonial authorities implemented the evacuation of cities, towns and villages and the segregation of their inhabitants in a range of plague camps, also based on a false idea that bubonic plague was contagious (i.e. directly transmissible between humans). These invasive measures were, unsurprisingly, deeply unpopular among the affected population, and resulted in sustained resistance and a political crisis for the colonial government. Eventually, the colonial government decided to pursue a more moderate path, and placed an emphasis upon the voluntary nature of anti-plague work. Plague remained in India for several more decades, and between 1896 and 1921 killed an estimated 10 million people. It was, however, also in India that major scientific breakthroughs took place. Most importantly, in 1898 the Pasteurian doctor Paul-Louis Simond established that rats’ fleas were the plague's principal vector. Indeed, scientific work undertaken in the subcontinent in the first two decades of the twentieth century was instrumental in creating new understandings of bubonic plague.
-
-
-  Acknowledgment: 
-  This exhibit is an output of the Visual Representations of the Third Plague Pandemic research project led by social anthropologist, Dr Christos Lynteris (University of St Andrews). The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/ERC grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo: https://www.repository.cam.ac.uk/handle/1810/280684
 exhibitimages:
   - privis: /static/img/A_EXHIBIT_PRI_VIS_1.jpg
     pritxt: “Barber at work in one of the camps”, 1897, Karachi Plague Committee
@@ -89,6 +60,42 @@ exhibitimages:
   - privis: /static/img/A_EXHIBIT_PRI_VIS_10.jpg
     pritxt: “Plague Camp”, 1901/1902, Fullerton Collection, Centre for South Asia
       Studies Archive, University of Cambridge.
+readinglist:
+  - quadreadlink: https://www.theatlantic.com/international/archive/2021/02/where-are-iconic-images-covid-19-pandemic/618036/?utm_source=pocket-newtab-global-en-GB
+    quadreadtxt: Where are the iconic images of the COVID-19 pandemic?
+    quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_1.jpg
+author: Artist
+essay: >
+  The third plague pandemic lasted from c.1855 to 1959 and was the first time
+  that bubonic plague reached all inhabited continents, establishing long-term
+  endemic foci in Sub-Saharan Africa, North and South America. The pandemic
+  struck successively at major cities such as Hong Kong (1894), Bombay (1896),
+  Karachi (1897), Porto (1899), Honolulu (1899), Alexandria (1899), Santos
+  (1899), Asuncion (1899), Sydney (1900), Cape Town (1900), Buenos Aires (1900),
+  Rio de Janeiro (1900), San Francisco (1900), Glasgow (1900), Harbin (1910),
+  Havana (1912), Paris (1920), Antananarivo (1924), Los Angeles (1924), and
+  Dakar (1944). This was the first time that plague was examined
+  bacteriologically, with the bacillus causing the disease being isolated in
+  Hong Kong in the summer of 1894. However the discovery of the bacillus did not
+  mean that the mode of transmission was immediately understood. It would take
+  another decade before the role of the rat and the flea was properly
+  acknowledged and only in 1911 was the airborne human-to-human transmission of
+  the pneumonic form of plague universally accepted. 
+
+
+  The pandemic would lead to an estimated 12 million dead. Plague-affected locations witnessed the implementation of extraordinary measures for its containments. These were often met with resistance by affected populations, whilst also splitting the medical community in rival camps. It was only with the discovery of antibiotics and the use of effective anti-flea insecticides, after the Second World War, that the pandemic was brought under comprehensive control.
+
+
+  The third plague pandemic was the first epidemic to be photographed. This extensive photographic record did not simply depict individual outbreaks across the globe. It also played a role in the public negotiation of what caused these epidemics, and how they should be best handled. Issues like the impact of epidemic control on free trade, state and local sovereignty and civil liberties, as well as the efficacy of quarantine, imagined class and race aspects of plague transmission, and the use of segregation as a public health measure, urban planning and the pathogenic potential of native forms of habitation, the role of modern technology in the spread of plague, and the implication of rats and other animals in the spread of the disease were visually commented and negotiated through the unprecedented use of photography in documenting a global pandemic. Plague photography thus contributed not just to a vision of plague as a global scourge, but also to the emergence of a broader pandemic imaginary. 
+
+
+  These photographs were carried not simply in medical publications but across the lay daily and illustrated press, creating a spectacle of epidemic destruction and technoscientific salvation. Plague photography connected different outbreaks of the disease across the globe in a common aetiological and epidemic control narrative, mobilising visual tropes of the “Black Death” and fostering for the first time a medical and lay experience of the “pandemic”. 
+
+
+  Plague arrived in Mumbai (Bombay) in September 1896, probably carried there by steamships from Hong Kong. The existence of plague in Bombay – one of the major commercial centres of the British Empire at the time – caused immediate panic in London, where it was felt that the Indian Government were being too slow to respond to an outbreak that had potentially major geopolitical significance. Colonial officials responded in a draconian and largely incoherent manner as plague began to spread from Bombay to other major cities across British India. In February 1897, the government of India promulgated the Epidemic Diseases Act, which effectively created a state of emergency around anti-plague measures. In major cities, far-reaching campaigns were unleashed that involved house-to-house searches by soldiers, forced hospitalisation, and the compulsory disinfection of houses. Disinfection involved a range of measures including deroofing and burning down houses or hosing them with highly acidic solutions, and was based upon the false idea that plague was a disease of ‘locality’. At the same time, colonial authorities implemented the evacuation of cities, towns and villages and the segregation of their inhabitants in a range of plague camps, also based on a false idea that bubonic plague was contagious (i.e. directly transmissible between humans). These invasive measures were, unsurprisingly, deeply unpopular among the affected population, and resulted in sustained resistance and a political crisis for the colonial government. Eventually, the colonial government decided to pursue a more moderate path, and placed an emphasis upon the voluntary nature of anti-plague work. Plague remained in India for several more decades, and between 1896 and 1921 killed an estimated 10 million people. It was, however, also in India that major scientific breakthroughs took place. Most importantly, in 1898 the Pasteurian doctor Paul-Louis Simond established that rats’ fleas were the plague's principal vector. Indeed, scientific work undertaken in the subcontinent in the first two decades of the twentieth century was instrumental in creating new understandings of bubonic plague.
+
+
+  Acknowledgment:  This exhibit is an output of the Visual Representations of the Third Plague Pandemic research project led by social anthropologist, Dr Christos Lynteris (University of St Andrews). The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/ERC grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo: https://www.repository.cam.ac.uk/handle/1810/280684
 authorimage: /static/img/A_EXHIBIT_SEC_VIS_1.jpg
 authorname: Christos Lynteris
 authorbio: >
@@ -99,10 +106,6 @@ authorbio: >
 
 
   Funded by the Wellcome Trust with an Investigator Award in the Humanities and Social Sciences, Christos’s new project, The Global War Against the Rat and the Epistemic Emergence of Zoonosis (2019-2024), will examine the global history of a foundational but historically neglected process in the development of scientific approaches to zoonosis: the global war against the rat (1898-1948).
-readinglist:
-  - quadreadlink: https://www.theatlantic.com/international/archive/2021/02/where-are-iconic-images-covid-19-pandemic/618036/?utm_source=pocket-newtab-global-en-GB
-    quadreadtxt: Where are the iconic images of the COVID-19 pandemic?
-    quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_1.jpg
 listeninglist:
   - quadlistlink: https://soundcloud.com/user-37146541-886167096/christos-lynteris-march-2018
     quadlisttxt: Visual Representations of the Third Plague Pandemic

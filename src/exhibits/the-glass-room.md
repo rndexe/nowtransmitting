@@ -1,5 +1,7 @@
 ---
 layout: the-glass-room
+authortype: Team
+thumb: /static/img/G_Exhibit_Thumbnail.jpg
 title: "The Glass Room: Misinformation Edition "
 subtitle: Beyond the black mirror
 medium: "Explorables "
@@ -15,9 +17,9 @@ description: >
   Learn why finding “fake news” is not as easy as it sounds, and how the term “fake news” is as much a problem as the news itself. Dive into the world of deep fakes, which are now so realistic that they are virtually impossible to detect. Uncover how social media platforms are designed to keep us hooked and how they can be used to change our minds. These apps were created by Density Design; They are part of the project, "The Glass Room Misinformation Edition", created by Tactical Tech.
 exhibitembed:
   - pritxt: https://deepfakelab.theglassroom.org/
-    privis: /static/img/SGLogo_Black_Transparent.png
+    privis: /static/img/G_EXHIBIT_PRI_VIS_1.mp4
   - pritxt: https://doublecheck.theglassroom.org/
-    privis: /static/img/SGLogo_Black_Transparent.png
+    privis: /static/img/G_EXHIBIT_PRI_VIS_2.mp4
 exhibitimages:
   - privis: /static/img/G_EXHIBIT_PRI_VIS_3.jpg
   - privis: /static/img/G_EXHIBIT_PRI_VIS_4.jpg
@@ -30,6 +32,7 @@ exhibitauthor:
       Politecnico di Milano. It focuses on the visual representation of complex
       social, organizational and urban phenomena.
     authorname: "DensityDesign "
+    authorimage: /static/img/G_EXHIBIT_SEC_VIS_1.png
   - authorbio: >
       The Glass Room is a public intervention that provides an interactive, fun,
       and challenging experience that brings to life the most pressing
@@ -41,10 +44,12 @@ exhibitauthor:
 
       The Glass Room was originally conceived and produced in the context of the exhibition Nervous Systems with support from Haus der Kulturen der Welt in the framework of “100 Years of Now”, and is based on an original concept developed by Stephanie Hankey and Marek Tuszynski shown in March-May 2016 at the HKW in Berlin, Germany.
     authorname: The Glass Room
+    authorimage: /static/img/G_EXHIBIT_SEC_VIS_2.png
   - authorbio: Tactical Tech is an international NGO that engages with citizens and
       civil-society organisations to explore and mitigate the impacts of
       technology on society.
     authorname: Tactical Tech
+    authorimage: /static/img/G_EXHIBIT_SEC_VIS_3.png
 readinglist:
   - quadreadlink: https://science.thewire.in/the-sciences/misinformation-online-virality-liberals-conservatives-older-people-epidemiology/
     quadreadtxt: "Misinformation Spreads Like a Virus, Scientists Should Study It

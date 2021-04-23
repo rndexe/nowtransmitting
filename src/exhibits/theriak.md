@@ -1,5 +1,7 @@
 ---
 layout: theriak
+authortype: Team
+thumb: /static/img/E_Exhibit_Thumbnail.jpg
 title: THERIAK | The Disease Map
 subtitle: Mapping the ebb and flow of diseases
 medium: Film
@@ -56,9 +58,33 @@ exhibitauthor:
 processimages:
   - tervis: /static/img/E_EXHIBIT_TER_VIS_1.jpg
     tertxt: "Disease Map installation. Courtesy of Sarah Craske. "
+terpdf: //e.issuu.com/embed.html?d=2018theriak_biofactionresidencyreport_-_studio_sar&u=sciencegallerybengaluru
+terpdftxt: "THERIAK: An Artist in Residence in the Bioprocess Laboratory (BPL),
+  ETH Zürich in Basel, Switzerland. Courtesy of Sarah Craske"
 readinglist:
   - quadreadtxt: "The Topography of Disease "
     quadreadlink: https://blogs.scientificamerican.com/observations/the-topography-of-disease/
+  - quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)60846-0/fulltext
+    quadreadtxt: The Theriac in Antiquity
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/5ULLBlutrCdopu2eFic4qV
+    quadlisttxt: "Pandemics and Borders "
+  - quadlistlink: https://thispodcastwillkillyou.com/2018/02/10/episode-4-the-st-show/
+    quadlisttxt: The Poop Show
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=VJ86D_DtyWg&ab_channel=Vox
+    quadwatchtxt: The 1850s Map that Changed How We Fight Outbreaks
+  - quadwatchlink: https://www.youtube.com/watch?v=KvHL0dHj3RM
+    quadwatchtxt: " A Guided Tour of the Ghost Map "
+  - quadwatchlink: https://www.youtube.com/watch?v=YSytf6CJjXg
+    quadwatchtxt: Mapping the Spread of Infectious Diseases
+eventlist:
+  - quadeventtxt: "THERIAK: Behind the Scenes in a Lab | Workshop by Sarah Craske"
+  - quadeventtxt: After the End of Epidemics | Lecture by Dora Vargha
+relatedlist:
+  - quadrelatedlink: ""
+    quadrelatedtxt: Mapping Cholera by Sonal Shah
+  - quadrelatedtxt: "Contagion in the 21st Century by Museum at Robert Koch Institute "
 authorimage: /static/img/E_EXHIBIT_SEC_VIS_1.jpg
 authorname: Sarah Craske
 authorbio: >-

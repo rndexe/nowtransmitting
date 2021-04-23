@@ -7,11 +7,10 @@ layout: exhibit_common
 <div id="nav-items-container" class="hidden lg:flex lg:fixed lg:mt-10 lg:ml-32" style="visibility: hidden;">
 	<button id="backbutton">
 
-		<svg width="24" height="30" viewBox="0 0 24 24" fill="none"
-								xmlns="http://www.w3.org/2000/svg">
-			<path
-				d="M1.02698 11.9929L5.26242 16.2426L6.67902 14.8308L4.85766 13.0033L22.9731 13.0012L22.9728 11.0012L4.85309 11.0033L6.6886 9.17398L5.27677 7.75739L1.02698 11.9929Z"
-				fill="#a3a3a3" /></svg>
+		<svg width="24" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M1.02698 11.9929L5.26242 16.2426L6.67902 14.8308L4.85766 13.0033L22.9731 13.0012L22.9728 11.0012L4.85309 11.0033L6.6886 9.17398L5.27677 7.75739L1.02698 11.9929Z" 
+		fill="#a3a3a3" />
+		</svg>
 	</button>
 	<ul id="nav-items" class="list-style-none h-30 text-3xl flex flex-none">
 		<li id="nav-item-about" class="inline lg:m-5 xl:m-10 lg:text-md xl:text-4xl"><a style="color:#a3a3a3; font-weight:700; letter-spacing:1px; font-family: 'Playfair Display';" href="#about">About</a><div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div></li>
@@ -43,7 +42,7 @@ layout: exhibit_common
 </section>
 
 	<section id="about" class="w-screen h-full flex-none" style="background-color: white;">
-		<div id="about-content">
+		<div class="mt-56">
 			<div class="w-screen float-left lg:w-1/2">
 				<pre id="description" class="text-sm ml-10 mr-10 mt-32 lg:mt-0 2xl:text-2xl w-auto xl:w-3/5 lg:ml-32 " style="font-family: 'Trade Gothic LT Std'; font-weight:400; white-space:pre-wrap;">{{description | safe}}</pre>
 			</div>
@@ -54,15 +53,11 @@ layout: exhibit_common
 	</section>
 
 
-	{%- for item in essay.split("\n\n") -%}
-	<section class="w-screen flex-none" style="background-color: white;">
-		<div id="about-content">
-			<div class="w-screen float-left lg:w-full">
-				<pre id="description" class="text-sm ml-10 mr-10 mt-32 lg:mt-0 2xl:text-2xl w-auto xl:w-3/5 lg:ml-32 " style="font-family: 'Trade Gothic LT Std'; font-weight:400; white-space:pre-wrap;">{{item | safe}}</pre>
-			</div>
+	<section class="h-screen flex-none bg-white" style="width :3096px;">
+		<div class="max-h-screen mt-56">
+			<pre class="ml-10 mr-10 whitespace-pre-wrap font-normal" style="font-family: 'Trade Gothic LT Std'; column-width: 400px; column-gap: 40px; column-fill: auto;">{{essay | safe}}</pre>
 		</div>
 	</section>
-	{%- endfor -%}
 
 	<section id="scholar" class="block w-screen h-screen lg:flex lg:flex-none" style="background-color: #D62B2B;">
 		<div class="scholar-content mt-10 mx-auto  w-3/5">

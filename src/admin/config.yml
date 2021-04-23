@@ -20,7 +20,10 @@ collections:
             editor:
               preview: false
             fields:
-              - { label: "layout", name: "layout", widget: "hidden", default: "plague-british-india"}
+              - { label: "layout", name: "layout", widget: "hidden", default: "plague-british-india" }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -86,6 +89,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", widget: "hidden", default: "2020-vision" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -159,6 +165,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", default: "bombay-plague" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -218,6 +227,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", default: "when-world-laugh" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -315,6 +327,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", widget: "hidden", default: "theriak" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -390,6 +405,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", widget: "hidden", default: "ant-antibiotics" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -472,6 +490,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", default: "the-glass-room" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -483,7 +504,7 @@ collections:
                 widget: "list"
                 fields:
                 - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
-                - { label: "Embed Link Image", name: "privis", widget: "image", required: false }
+                - { label: "Embed Link Video", name: "privis", widget: "string", required: false }
                 required: false  
 
               - label: "Primary Images"
@@ -559,6 +580,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", default: "cluster-17-cases", required: false}
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -649,13 +673,16 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", widget: "hidden", default: "indoor-safety-guidelines"}
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
               - { label: "Description", name: "description", widget: "text" , required: false }
               - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
-              - { label: "Embed Link Image", name: "privis", widget: "image", required: false }
+              - { label: "Embed Link Video", name: "privis", widget: "string", required: false }
               
               - label: "Author section"
                 name: "exhibitauthor"
@@ -716,6 +743,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", widget: "hidden", default: "malware-museum" }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -788,6 +818,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", widget: "string", default: "mapping-cholera" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -795,6 +828,7 @@ collections:
               - { label: "Description", name: "description", widget: "text" , required: false }
               
               - { label: "Embed Link", name: "pritxt", widget: "string", required: false }
+              - { label: "Embed Link Video", name: "privis", widget: "string", required: false }
               
               - label: "Author section"
                 name: "exhibitauthor"
@@ -856,6 +890,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", default: "chameleon-project" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -943,6 +980,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", default: "fluid-dialogues" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -1018,6 +1058,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", default: "moulding-modern-medicine" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -1094,6 +1137,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", default: "contagion-21st-century" , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -1156,6 +1202,9 @@ collections:
               preview: false
             fields:
               - { label: "layout", name: "layout", default: wendell-stanley , required: false }
+              - { label: "Featured", name: "featured", widget: "boolean", required: false }
+              - { label: "Artist/Contributor/Scholar", name: "authortype", widget: "string" , required: false }
+              - { label: "Thumbnail for LP", name: "thumb", widget: "image" , required: false }
               - { label: "Title", name: "title", widget: "string" , required: false }
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
@@ -1221,5 +1270,233 @@ collections:
                 - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
                 - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
                 required: false  
-                    
 
+  - label: "Lectures"
+    name : "lectures"
+    folder : "programmes/lectures"
+    format: frontmatter
+    create : true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Condition", name: "condition", widget: "string", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
+      - label: "Reading List"
+        name: "readinglist"
+        widget: "list"
+        fields:
+        - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+        - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+        - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+        required: false  
+      - label: "Listening List"
+        name: "listeninglist"
+        widget: "list"
+        fields:
+        - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+        - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+        - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+        required: false  
+      - label: "Watching List"
+        name: "watchinglist"
+        widget: "list"
+        fields:
+        - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+        - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+        - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+      - label: "Event List"
+        name: "eventlist"
+        widget: "list"
+        fields:
+        - { label: "Event Link", name: "quadeventlink", widget: "string", required: false }
+        - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+        - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+        required: false  
+      - label: "Related Exhibits"
+        name: "relatedlist"
+        widget: "list"
+        fields:
+        - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+        - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+        - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+
+
+  - label: "Workshops"
+    name : "workshops"
+    folder : "programmes/workshops"
+    format: frontmatter
+    create : true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Condition", name: "condition", widget: "string", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
+      - label: "Reading List"
+        name: "readinglist"
+        widget: "list"
+        fields:
+        - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+        - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+        - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+        required: false  
+      - label: "Listening List"
+        name: "listeninglist"
+        widget: "list"
+        fields:
+        - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+        - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+        - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+        required: false  
+      - label: "Watching List"
+        name: "watchinglist"
+        widget: "list"
+        fields:
+        - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+        - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+        - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+      - label: "Event List"
+        name: "eventlist"
+        widget: "list"
+        fields:
+        - { label: "Event Link", name: "quadeventlink", widget: "string", required: false }
+        - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+        - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+        required: false  
+      - label: "Related Exhibits"
+        name: "relatedlist"
+        widget: "list"
+        fields:
+        - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+        - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+        - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+
+  - label: "Events"
+    name : "events"
+    folder : "programmes/events"
+    format: frontmatter
+    create : true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Condition", name: "condition", widget: "string", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
+      - label: "Reading List"
+        name: "readinglist"
+        widget: "list"
+        fields:
+        - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+        - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+        - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+        required: false  
+      - label: "Listening List"
+        name: "listeninglist"
+        widget: "list"
+        fields:
+        - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+        - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+        - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+        required: false  
+      - label: "Watching List"
+        name: "watchinglist"
+        widget: "list"
+        fields:
+        - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+        - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+        - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+  
+      - label: "Event List"
+        name: "eventlist"
+        widget: "list"
+        fields:
+        - { label: "Event Link", name: "quadeventlink", widget: "string", required: false }
+        - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+        - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+        required: false  
+      - label: "Related Exhibits"
+        name: "relatedlist"
+        widget: "list"
+        fields:
+        - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+        - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+        - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+
+
+  - label: "Film Screenings"
+    name : "filmscreenings"
+    folder : "programmes/filmscreenings"
+    format: frontmatter
+    create : true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Programme Graphic", name: "privis", widget: "image", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Condition", name: "condition", widget: "string", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
+      - label: "Process Images"
+        name: "processimages"
+        widget: "list"
+        fields:
+        - { label: "Tertiary Image", name: "tervis", widget: "image", required: false }
+        - { label: "Tertiary Caption", name: "tertxt", widget: "string", required: false }
+                    
+  
+      - label: "Reading List"
+        name: "readinglist"
+        widget: "list"
+        fields:
+        - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+        - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+        - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+        required: false  
+      - label: "Listening List"
+        name: "listeninglist"
+        widget: "list"
+        fields:
+        - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+        - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+        - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+        required: false  
+      - label: "Watching List"
+        name: "watchinglist"
+        widget: "list"
+        fields:
+        - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+        - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+        - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+  
+      - label: "Event List"
+        name: "eventlist"
+        widget: "list"
+        fields:
+        - { label: "Event Link", name: "quadeventlink", widget: "string", required: false }
+        - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+        - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+        required: false  
+      - label: "Related Exhibits"
+        name: "relatedlist"
+        widget: "list"
+        fields:
+        - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+        - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+        - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+ 

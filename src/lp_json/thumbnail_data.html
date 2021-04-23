@@ -1,0 +1,14 @@
+---
+permalink: lp_json/exhibit_thumbnail.json
+---
+[
+  {% for post in collections.exhibit  %}
+    {% set data = post.data %}
+    {
+      "title": "{{ data.title }}",
+      "subtitle": "{{ data.subtitle }}",
+      "url": "{{ post.url }}",
+      "thumbnail": "{{ post.thumb }}"
+    }{{ '' if loop.last else ',' }}
+  {% endfor  %}
+]

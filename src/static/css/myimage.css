@@ -1,4 +1,4 @@
-/* @font-face {
+@font-face {
 	font-family: tradeGothic;
 	src: url('../fonts/trade_gothic_sv/TradeGothicLT.ttf') format('truetype');
 }
@@ -7,7 +7,7 @@
 	font-family: tradeGothic;
 	src: url('../fonts/trade_gothic_sv/Trade\ Gothic\ LT\ Bold.ttf') format('truetype'); 
 	font-weight: bold;
-} */
+}
 
 
 @media (max-height: 768px){

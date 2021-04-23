@@ -1,5 +1,7 @@
 ---
 layout: contagion-21st-century
+authortype: Team
+thumb: /static/img/O_Exhibit_Thumbnail.jpg
 title: Contagion in the 21st Century
 subtitle: Tracing the movement of microbes over the years
 medium: Text, Images, and Simulation
@@ -15,8 +17,12 @@ description: >
   This exhibit contains photographs and simulations courtesy of the Museum at the Robert Koch Institute. It takes us through the various places around the world where Robert Koch made his pioneering discoveries, and provokes us to reflect on how our responses to infectious diseases continue to evolve through time.
 essay: >-
   **Wolsztyn**. Almost 14000 people live in this little town in modern day
-  Poland. A beautiful baroque church catches the eye when one walks down the street, where Robert Koch once lived. It isn’t entirely clear why he was drawn to this town hidden away in the Province of Posen, part of the Prussian empire between 1848 and 1919. Perhaps it was his chance to get closer to nature, his childhood fascination. 
-  
+  Poland. A beautiful baroque church catches the eye when one walks down the
+  street, where Robert Koch once lived. It isn’t entirely clear why he was drawn
+  to this town hidden away in the Province of Posen, part of the Prussian empire
+  between 1848 and 1919. Perhaps it was his chance to get closer to nature, his
+  childhood fascination. 
+
   An epidemic that leaves many animals dead gets him involved as district physician. It was here that Koch, in 1876, provides first evidence of a link between a bacterium and an infectious disease: Anthrax.
 
 
