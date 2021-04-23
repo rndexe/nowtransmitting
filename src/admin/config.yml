@@ -1173,9 +1173,15 @@ collections:
               - { label: "Author Image", name: "authorimage", widget: "image" , required: false }
               - { label: "Author name", name: "authorname", widget: "string" , required: false }
               - { label: "Author Bio", name: "authorbio", widget: "text" , required: false }
-              - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
-              - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
-              - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+              - label: "Reading List"
+                name: "readinglist"
+                widget: "list"
+                fields:
+                - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+                - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+                - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+                required: false  
+
               - label: "Event List"
                 name: "eventlist"
                 widget: "list"
@@ -1287,6 +1293,7 @@ collections:
       - { label: "Link", name: "link", widget: "string", required: false }
       - { label: "Recorded Link", name: "reclink", widget: "string", required: false }
       - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Bio", name: "expertbio", widget: "string", required: false }
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
       - label: "Reading List"
         name: "readinglist"
@@ -1344,6 +1351,7 @@ collections:
       - { label: "Link", name: "link", widget: "string", required: false }
       - { label: "Recorded Link", name: "reclink", widget: "string", required: false }
       - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Bio", name: "expertbio", widget: "text", required: false }
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
       - label: "Reading List"
         name: "readinglist"
@@ -1400,6 +1408,7 @@ collections:
       - { label: "Link", name: "link", widget: "string", required: false }
       - { label: "Recorded Link", name: "reclink", widget: "string", required: false }
       - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Bio", name: "expertbio", widget: "text", required: false }
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
       - label: "Reading List"
         name: "readinglist"
@@ -1458,9 +1467,11 @@ collections:
       - { label: "Link", name: "link", widget: "string", required: false }
       - { label: "Recorded link", name: "reclink", widget: "string", required: false }
       - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Bio", name: "expertbio", widget: "text", required: false }
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
       - { label: "Discussant Name", name: "disname", widget: "string", required: false }
-      - { label: "Discussantt Image", name: "dispic", widget: "image", required: false }
+      - { label: "Discussant Image", name: "dispic", widget: "image", required: false }
+      - { label: "Discussant Bio", name: "expertbio", widget: "text", required: false }
       - label: "Process Images"
         name: "processimages"
         widget: "list"
