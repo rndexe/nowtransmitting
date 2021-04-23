@@ -110,7 +110,7 @@ essay: >-
 
 
   The Robert Koch Institute, as a National Public Health Institute, faces many new challenges but remains a pillar of knowledge, evidence-based research,  communication and surveillance of public health. We connect with international  players in a quest to find solutions for global health problems.
-exhibitimages:
+exhibitimages1:
   - pritxt: "The Koch family house in Wolsztyn, 1930. Koch’s practice and the living
       quarters were on the first floor. Since 1996, there has been a Robert Koch
       Museum on the ground floor of the house in the street named after him:
@@ -173,6 +173,7 @@ authorbio: Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute
   strongly on antibiotic resistance communication in the recent past.
 quadreadlink: https://www.historians.org/publications-and-directories/perspectives-on-history/october-2020/fearing-a-fear-of-germs-how-did-the-surgical-mask-transform-from-a-sign-of-bigotry-to-a-sign-of-care
 quadreadtxt: Fearing a Fear of Germs
+quadreadvis: /static/img/N_EXHIBIT_QUA_READVIS_1.jpg
 eventlist:
   - quadeventtxt: Robert Koch Institute Museum Walkthrough | Event
   - quadeventtxt: Science and Seeing | Lecture by Dr. David Arnold
