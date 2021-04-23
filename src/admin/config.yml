@@ -1280,10 +1280,12 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }
       - { label: "Condition", name: "condition", widget: "string", required: false }
       - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Recorded Link", name: "reclink", widget: "string", required: false }
       - { label: "Expert Name", name: "expertname", widget: "string", required: false }
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
       - label: "Reading List"
@@ -1335,10 +1337,12 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }
       - { label: "Condition", name: "condition", widget: "string", required: false }
       - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Recorded Link", name: "reclink", widget: "string", required: false }
       - { label: "Expert Name", name: "expertname", widget: "string", required: false }
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
       - label: "Reading List"
@@ -1389,10 +1393,12 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }
       - { label: "Condition", name: "condition", widget: "string", required: false }
       - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Recorded Link", name: "reclink", widget: "string", required: false }
       - { label: "Expert Name", name: "expertname", widget: "string", required: false }
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
       - label: "Reading List"
@@ -1445,13 +1451,16 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
-      - { label: "Programme Graphic", name: "privis", widget: "image", required: false }
+      - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }
       - { label: "Condition", name: "condition", widget: "string", required: false }
       - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Recorded link", name: "reclink", widget: "string", required: false }
       - { label: "Expert Name", name: "expertname", widget: "string", required: false }
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
+      - { label: "Discussant Name", name: "disname", widget: "string", required: false }
+      - { label: "Discussantt Image", name: "dispic", widget: "image", required: false }
       - label: "Process Images"
         name: "processimages"
         widget: "list"
