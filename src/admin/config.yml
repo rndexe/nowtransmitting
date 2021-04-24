@@ -1471,7 +1471,7 @@ collections:
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
       - { label: "Discussant Name", name: "disname", widget: "string", required: false }
       - { label: "Discussant Image", name: "dispic", widget: "image", required: false }
-      - { label: "Discussant Bio", name: "expertbio", widget: "text", required: false }
+      - { label: "Discussant Bio", name: "disbio", widget: "text", required: false }
       - label: "Process Images"
         name: "processimages"
         widget: "list"
