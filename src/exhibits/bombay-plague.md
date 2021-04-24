@@ -19,7 +19,6 @@ description: >
 
 
   The work aims to highlight how misconceptions or myths about disease persist in the public’s experience of it through fear, fantasy, paranoia, and rumours. Interspersed are misplaced technological know-how and statistical data on plague measures produced by the authorities to shock subjects into submission, albeit with varying results. Hence, the artist imagines the drawing as a record that can be accessed to view the plague through a new lens, and studied in years to come by researchers as a validation of some of the lesser known aspects of the plague years. 
-privis: /static/img/C_EXHIBIT_COVER.mp4
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
 authorname: Ranjit Kandalgaonkar
 authorbio: >
@@ -38,18 +37,24 @@ authorbio: >
 readinglist:
   - quadreadlink: https://www.atlasobscura.com/articles/how-bombay-plague-changed-mumbai
     quadreadtxt: "How the Bombay Plague Changed Mumbai Forever "
+    quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadtxt: "Waldemar Haffkine: The Vaccine Pioneer the World Forgot "
     quadreadlink: https://www.bbc.com/news/world-asia-india-55050012
+    quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadtxt: How Humans Have Reacted To Pandemics Through History – A Visual Guide
     quadreadlink: https://www.theguardian.com/society/ng-interactive/2020/apr/29/how-humans-have-reacted-to-pandemics-through-history-a-visual-guide
+    quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlisttxt: "When Plague Hit Bombay "
     quadlistlink: https://open.spotify.com/episode/5HjxQ9PO2RzMvUaIKrcq9A
+    quadlistvis: /static/img/C_EXHIBIT_QUA_LISTVIS_1.jpg
   - quadlisttxt: Parallels Between the Plague and COVID-19 Pandemics feat. Prashant Kidambi
     quadlistlink: https://podcasts.adorilabs.com/s/e?eid=IAUASrTk2esBNlB6
+    quadlistvis: /static/img/C_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchtxt: Plague 101
     quadwatchlink: https://www.youtube.com/watch?v=MYnMXEcHI7U&pbjreload=101
+    quadwatchvis: /static/img/C_EXHIBIT_QUA_WATCH_VIS_1.jpg
 eventlist:
   - quadeventtxt: "Workshop by Ranjit Kandalgaonkar "
   - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
