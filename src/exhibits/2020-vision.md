@@ -44,16 +44,21 @@ readinglist:
     quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadtxt: "Art Installation: Cacophony"
     quadreadlink: https://www.studio-nomad.com/in_between/cacophony
+    quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadlink: https://www.scientificamerican.com/article/how-do-internet-search-en/
     quadreadtxt: How Do Internet Search Engines Work?
+    quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/63tmp1kBFxuo1Se5aEQ7hn
     quadlisttxt: "You’re Being Watched: Pandemic Capitalism"
+    quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.leadinglearning.com/podcast-episode-51-jonah-berger/
     quadlisttxt: Getting Contagious-And Curious
+    quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Q4mTlRUbWwM
     quadwatchtxt: COVID-19 Information Overload
+    quadwatchvis: ""
   - quadwatchtxt: Is Social Media Hurting Your Mental Health
     quadwatchlink: https://www.youtube.com/watch?v=Czg_9C7gw0o&pbjreload=101
   - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
