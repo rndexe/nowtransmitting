@@ -110,7 +110,7 @@ essay: >-
 
 
   The Robert Koch Institute, as a National Public Health Institute, faces many new challenges but remains a pillar of knowledge, evidence-based research,  communication and surveillance of public health. We connect with international  players in a quest to find solutions for global health problems.
-exhibitimages1:
+exhibitimages:
   - pritxt: "The Koch family house in Wolsztyn, 1930. Koch’s practice and the living
       quarters were on the first floor. Since 1996, there has been a Robert Koch
       Museum on the ground floor of the house in the street named after him:

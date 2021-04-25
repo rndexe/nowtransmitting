@@ -1,20 +1,23 @@
 @tailwind base;
 @tailwind components;
+
+@font-face {
+	font-family: 'Trade Gothic';
+	src: url('../fonts/trade_gothic_sv/TradeGothicLTStd.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Trade Gothic';
+	src: url('../fonts/trade_gothic_sv/TradeGothicLTStd-Bd2.otf') format('opentype'); 
+	font-weight: bold;
+}
+
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
-
-h1 {
-  @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
+@layer utilities {
+  .scroll-snap {
+    scroll-snap-type: proximity;
+  }  
 }
 
-h3 {
-  @apply text-2xl font-bold mb-3;
-}
-
-/* Syntax Highlighting*/
-
-body :not(pre) > code[class*="language-"],
-body pre[class*="language-"] {
-  @apply bg-gray-800;
-}

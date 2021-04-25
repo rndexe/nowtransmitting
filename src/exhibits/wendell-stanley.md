@@ -46,7 +46,7 @@ exhibitimages:
       Public Domain
       An image of the TMV, magnified x160,000 times.
     privis: /static/img/P_EXHIBIT_PRI_VIS_4.jpg
-privis: https://www.mediatheque.lindau-nobel.org/embed/31538
+privisafter: https://www.mediatheque.lindau-nobel.org/embed/31538
 pritxt: >
   Credits: 
 

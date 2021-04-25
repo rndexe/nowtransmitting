@@ -15,7 +15,7 @@ description: >
 
 
   Through an international Call for Laughs, she began documenting the sounds of laughter from across the world in an attempt to track down the origins of the most contagious of these laughs. This investigation is presented as an evolutive video of laughs, which keeps growing as we contribute our laughter to this work. Inspired by the role of laughter in myths regarding the origin of the universe, this work invites us to share a laugh during a time when a global pandemic has disrupted our ways of connecting and being together.
-privis: https://player.vimeo.com/video/538982297?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
+privis: https://player.vimeo.com/video/538982297
 exhibitimages: []
 exhibitaudios: []
 exhibitauthor:

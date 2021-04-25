@@ -104,7 +104,6 @@ function resetNavbar(){
 		processnav.children[1].style.visibility = 'hidden'
 		scholarnav.children[1].style.visibility = 'hidden'
 		furthernav.children[1].style.visibility = 'hidden'
-
 }
 
 //document.addEventListener('wheel', () => {

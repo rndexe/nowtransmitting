@@ -19,6 +19,7 @@ description: >
 
 
   The work aims to highlight how misconceptions or myths about disease persist in the public’s experience of it through fear, fantasy, paranoia, and rumours. Interspersed are misplaced technological know-how and statistical data on plague measures produced by the authorities to shock subjects into submission, albeit with varying results. Hence, the artist imagines the drawing as a record that can be accessed to view the plague through a new lens, and studied in years to come by researchers as a validation of some of the lesser known aspects of the plague years. 
+privis: /static/img/C_EXHIBIT_COVER.mp4
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
 authorname: Ranjit Kandalgaonkar
 authorbio: >

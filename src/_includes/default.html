@@ -12,14 +12,10 @@
 		{% endif %}
 		{% block head %}{% endblock %}
 		<link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
-		{% if prism == true %}
-		<link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
-		{% endif %}
 		<link rel="preconnect" href="https://fonts.gstatic.com">
 		<link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet">
-		<link href="https://fonts.cdnfonts.com/css/trade-gothic-lt-std" rel="stylesheet">
-		<link rel="preconnect" href="https://fonts.gstatic.com">
-		<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap" rel="stylesheet">	</head>
+		<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap" rel="stylesheet">
+	</head>
 
 	{{content | safe }}
 </html>

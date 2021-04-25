@@ -2,49 +2,8 @@
 layout: exhibit_common
 ---
 
-
 	
-
-
-	<div id="nav-items-container" class="hidden lg:flex lg:fixed lg:mt-10 lg:ml-32" style="visibility: hidden;">
-		<button id="backbutton">
-	
-			<svg width="24" height="30" viewBox="0 0 24 24" fill="none"
-									xmlns="http://www.w3.org/2000/svg">
-				<path
-					d="M1.02698 11.9929L5.26242 16.2426L6.67902 14.8308L4.85766 13.0033L22.9731 13.0012L22.9728 11.0012L4.85309 11.0033L6.6886 9.17398L5.27677 7.75739L1.02698 11.9929Z"
-					fill="#a3a3a3" /></svg>
-		</button>
-		<ul id="nav-items" class="list-style-none h-30 text-3xl flex flex-none">
-			<li id="nav-item-about" class="inline lg:m-5 xl:m-10 lg:text-md xl:text-4xl"><a style="color:#a3a3a3; font-weight:700; letter-spacing:1px; font-family: 'Playfair Display';" href="#about">About</a><div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div></li>
-			<li id="nav-item-scholar" class="inline lg:m-5 xl:m-10 lg:text-md xl:text-4xl"><a style="color:#a3a3a3; font-weight:700; letter-spacing:1px; font-family: 'Playfair Display';" href="#scholar">Artist</a><div class=" mb-3" style=" width: 60px; border: 1px solid #fff; height:0;"></div></li>
-			<li id="nav-item-process" class="inline lg:m-5 xl:m-10 lg:text-md xl:text-4xl"><a style="color:#a3a3a3; font-weight:700; letter-spacing:1px; font-family: 'Playfair Display';" href="#process-images">Process</a><div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div></li>
-			<li id="nav-item-further" class="inline lg:m-5 xl:m-10 lg:text-md xl:text-4xl"><a style="color:#a3a3a3; font-weight:700; letter-spacing:1px; font-family: 'Playfair Display';" href="#takeitfurther">Take it further</a><div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div></li>
-		</ul>
-	</div>
-	
-		<section id="home"  class="w-full lg:w-screen block lg:flex-none lg:flex-col lg:flex-nowrap px-auto lg-ml-20 lg:pl-40 pt-5" style="background-color: #2d2d2d;">
-			<div  class="float-left lg:w-1/3 lg:h-full lg:my-auto">
-				<div class="pl-px">
-					<h1 id="title" class="text-4xl ml-5 w-auto lg:text-4xl xl:text-7xl text-white text-left tracking-normal" style="font-weight:700; font-family: 'Trade Gothic LT Std';">{{title}}</h1>
-					<h3 id="subtitle" class="text-xl  ml-5 w-auto lg:text-xl md:text-xl xl:text-xl mt-5 lg:mt-10  w-10 xl:w-full" style="font-weight:400; color:#a3a3a3; font-family: 'Trade Gothic LT Std'; line-height:24px;">{{subtitle}}</h3>
-					<h3 id="medium" class="text-sm  ml-5 mt-10 w-auto lg:text-base xl:text-xl mt-5 2xl:mt-20 lg:mt-10 lg:w-44 2xl:w-full text-white" style="font-weight:400; font-family: 'Trade Gothic LT Std'; line-height:24px;">Medium : {{medium}}</h3>
-					<h3 id="year" class="text-sm  ml-5 mt-5 w-auto  xl:text-xl mt-5 lg:mt-10 text-white" style="font-weight:400; font-family: 'Trade Gothic LT Std';">Year : {{year}}</h3>
-				</div>
-				<h3 id="scrollordrag" class="hidden ml-5 text-lg lg:block 2xl:text-2xl mt-5 md:mt-20 2xl:mt-52" style="font-weight:400; color:#a3a3a3; font-family: 'Trade Gothic LT Std';">Scroll to enter Exhibit</h3>
-			</div>
-			<div class="float-right w-screen md:w-full lg:h-full lg:w-2/3">
-				<iframe class="iframes w-full h-full mx-auto"  src="{{privis}}?autoplay=1&loop=1"
-			frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>
-				<div class="iframe-text  lg:mt-5">
-				<h3 class="text-sm ml-5 md:text-xl lg:ml-0 lg:mt-10 mb-0" style="color: #fff; font-weight:800; font-family:'Trade Gothic LT Std'">ABOUT THE VIDEO</h3>
-				<div class="ml-5 lg:ml-0 mb-3" style="width: 30px; border: 1px solid #d62b2b; height:0;"></div>
-				<p class="text-sm ml-5  w-auto lg:w-72 xl:w-96 lg:ml-0" style="color: #a3a3a3; font-family:'Trade Gothic LT Std'">{{pritxt}}
-				</p>
-				</div>
-			</div>
-		</section>
-	
+	{% include "./partials/coverpage.html" %}
 		
 		<section id="about" class="w-screen h-full flex-none" style="background-color: white;">
 			<div id="about-content">
