@@ -90,14 +90,19 @@ readinglist:
 listeninglist:
   - quadlistlink: https://www.wnycstudios.org/podcasts/radiolab/segments/91593-how-does-laughing-affect-us
     quadlisttxt: How does Laughing Affect Us?
+    quadlistvis: /static/img/D_EXHIBIT_LISTVIS_1.jpg
   - quadlisttxt: "Podcast: Contagious Behaviour"
+    quadlistvis: /static/img/D_EXHIBIT_LISTVIS_2.jpg
 watchinglist:
   - quadwatchtxt: How Psychology Can Explain the Deadly Medieval Dancing Plague
     quadwatchlink: https://www.youtube.com/watch?v=yHVTgZw7geY
+    quadwatchvis: /static/img/D_EXHIBIT_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=ayYqRM_SdcA
     quadwatchtxt: Can’t Live With Them, Can’t Live Without Them
+    quadwatchvis: /static/img/D_EXHIBIT_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=hhlHx5ivGGk&t=39s
     quadwatchtxt: Making A Chimp Laugh
+    quadwatchvis: /static/img/D_EXHIBIT_WATCHVIS_3.jpg
 eventlist:
   - quadeventtxt: How Ideas and Behaviours Spread through a Crowd | Event by Daniel
       Richardson
