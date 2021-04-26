@@ -14,14 +14,14 @@ description: >
   across the world.  
 
 
-  In this interactive artwork, we virtually enter the Metropole Hotel on that fateful night, and we explore the events that took place in the 17 rooms where the first cluster of SARS cases were detected. We go on a  journey with epidemiologists to understand how they studied the movements of the guests between each room. This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences. In the end, we come away with a renewed appreciation for how public health experts grapple with fear and uncertainty in the face of an unknown disease. 
+  In this interactive exhibit, we virtually enter the Metropole Hotel on that fateful night, and explore the events that took place in the 17 rooms where the first cluster of SARS cases were detected. We go on a journey with epidemiologists to understand how they studied the movements of the guests between each room. This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences. In the end, we come away with a renewed appreciation for how public health experts grapple with fear and uncertainty in the face of an unknown disease. 
 privis: /static/img/H_EXHIBIT_PRI_VIS_1.mp4
 pritxt: https://www.17cases.com/
 exhibitauthor:
   - authorname: Blast Theory
-    authorbio: >
+    authorbio: >-
       Blast Theory are known internationally as one of the most adventurous
-      artists’ groups using interactive media, creating groundbreaking new forms
+      artists’ group using interactive media, creating groundbreaking new forms
       of performance and interactive art that mixes audiences across the
       internet, live performance and digital broadcasting. The group’s work
       explores interactivity and the social and political aspects of technology.
@@ -43,10 +43,13 @@ terpdftxt: "Info pack about A Cluster of 17 Cases. "
 readinglist:
   - quadreadlink: https://wellcomecollection.org/articles/Xl0YSxIAACEAQiBn
     quadreadtxt: The Science of Why Things Spread
+    quadreadvis: /static/img/h_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://wellcomecollection.org/articles/WsT4Ex8AAHruGfW_
     quadreadtxt: The Cook Who Became a Pariah
+    quadreadvis: /static/img/h_exhibit_qua_readvis_2.jpg
   - quadreadlink: https://vis.sciencemag.org/covid-clusters/
     quadreadtxt: The Science of Superspreading
+    quadreadvis: /static/img/h_exhibit_qua_readvis_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
     quadlisttxt: "Disease Detectives: How to Track Epidemics"
