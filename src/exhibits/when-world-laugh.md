@@ -52,11 +52,20 @@ exhibitauthor:
     authorimage: /static/img/d_exhibit_sec_vis_2.jpg
 processimages:
   - tervis: /static/img/d_exhibit_ter_vis_1.jpg
+    tertxt: Mind Map, Work in progress. Courtesy of Anaïs Tondeur.
   - tervis: /static/img/d_exhibit_ter_vis_2.jpg
+    tertxt: Mind Map, Work in progress.  Courtesy of Anaïs Tondeur.
   - tervis: /static/img/d_exhibit_ter_vis_3.jpg
+    tertxt: View from the Studio, Work in progress. Courtesy of Anaïs Tondeur.
   - tervis: /static/img/d_exhibit_ter_vis_4.jpg
+    tertxt: "Shapes of laughs: Sketch for attempt of typology, Work in progress.
+      Courtesy of Anaïs Tondeur."
   - tervis: /static/img/d_exhibit_ter_vis_5.jpg
+    tertxt: Formation of a landscape under the vibrations of a laugh, Experiment 4.
+      Courtesy of Anaïs Tondeur.
   - tervis: /static/img/d_exhibit_ter_vis_6.jpg
+    tertxt: "Moving grains of soil under the vibrations of a laugh, #Expérimentation
+      15. Courtesy of Anaïs Tondeur."
   - tervis: /static/img/d_exhibit_ter_vis_7.jpg
   - tervis: /static/img/d_exhibit_ter_vis_8.jpg
   - tervis: /static/img/d_exhibit_ter_vis_9.jpg
