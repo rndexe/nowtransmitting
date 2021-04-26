@@ -129,10 +129,13 @@ readinglist:
 listeninglist:
   - quadlisttxt: "What Research on Ants Can Teach Us About Ourselves "
     quadlistlink: https://www.findinggeniuspodcast.com/podcasts/ants-ants-and-more-ants-what-research-on-ants-can-teach-us-about-ourselves-and-our-future-as-a-species/
+    quadlistvis: /static/img/f_exhibit_qua_listvis_1.jpg
   - quadlisttxt: "The Path of Most (Antibiotic) Resistance "
     quadlistlink: https://open.spotify.com/episode/3J7mDz163YhLHiWCW87b9X
+    quadlistvis: /static/img/f_exhibit_qua_listvis_2.jpg
   - quadlisttxt: "Antman: The Biology of Ants"
     quadlistlink: https://open.spotify.com/episode/1GsYvPa98REzDaK1CYJP55
+    quadlistvis: /static/img/f_exhibit_qua_listvis_3.jpg
 watchinglist:
   - quadwatchtxt: "Antimicrobial Resistance beyond COVID "
     quadwatchlink: https://lshtm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9b68d250-2c98-43f0-a642-ac3f0136480d
