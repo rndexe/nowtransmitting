@@ -21,71 +21,91 @@ function loadJSON(callback) {
 //</div>
 
 
-function createPopup(title,subtitle,thumbnail){
+function createPopup(title,subtitle,thumbnail,url){
+    const popupcard = document.createElement('a')
     const popup = document.createElement("div")
-    popup.style = "width:600px; height:150px; display:flex; flex-direction:row; min-width:100%;"
-    
+    popup.style = "width:500px; height:250px; border:2px solid #000; border-radius:10px; position:fixed; background-color:white; z-index:10000; top:40%; left:35%; display:flex; flex-direction:row;"
+    popup.className = "flex flex-row w-max h-46 p-0"
+    popup.id = "popup"
+    popup.href = url;
     var image = document.createElement('img')
     image.src = thumbnail;
-    image.style.position = 'absolute'
-    image.style.height = '100%'
-    image.style.opacity = '0.3'
-    image.style.width = '100%'
-    image.style.margin = '0px'
-    image.style.top = '0'
-    image.style.left = '0'
-    image.style.objectFit = 'cover'
-    image.className = "w-1/3 h-auto"
+    image.style = 'width:33%; border-top-left-radius:10px; border-bottom-left-radius:10px; object-fit: cover;'
+    
 
-    const overlay = document.createElement("div")
-    overlay.style = 'height:100%; z-index:99; width:100%; opacity:0.6; margin:0px; top:0; left:0; position:absolute; background-color:black;'
-    overlay.className = "m-3 w-auto flex flex-row"
+    // const overlay = document.createElement("div")
+    // overlay.style = 'height:100%; z-index:99; width:100%; opacity:0.6; margin:0px; top:0; left:0; position:absolute; background-color:black;'
+    // overlay.className = "m-3 w-auto flex flex-row"
 
     const text = document.createElement("div")
-    text.style = 'display:flex; flex-direction:column;'
+    text.style = "margin-left:10px; margin-top:10px; width:auto;"
+    // text.className = "w-2/3 ml-5 mt-3"
 
     const titleText = document.createElement('p')
-    titleText.innerText = title;
-    titleText.style = "color:white; width:300px; z-index:100; font-size:30px; font-family:'tradeGothic'; font-weight:bold;"
-    titleText.className = "w-11/12"
-
     const subtitleText = document.createElement('p')
-    subtitleText.innerText = subtitle;
-    subtitleText.style = "color:white; width:200px; z-index:101; font-size:20px; font-family:'tradeGothic';"
+    const click = document.createElement('p')
 
     text.appendChild(titleText);
     text.appendChild(subtitleText);
+    text.appendChild(click);
 
+    titleText.style = "color:#2d2d2d; z-index:100; overflow-wrap: break-word; font-size:30px; font-weight:bold;"
+    titleText.className = "w-full font-trade"
+    titleText.innerText = title;
+
+    subtitleText.style = "color:#2d2d2d; z-index:101; overflow-wrap: break-word;  font-size:20px;"
+    subtitleText.className = "w-full font-trade"
+    subtitleText.innerText = subtitle;
+
+    click.style = "color:#2d2d2d; font-size:30px; width:min-content; margin-left:auto; position:absolute; bottom:5px;; right:10px;"
+    // click.className = "w-min ml-auto absolute bottom-0 right-5 font-trade"
+    click.innerHTML = '&#8594;'
     popup.appendChild(image);
-    popup.appendChild(overlay);
+    //popup.appendChild(overlay);
     popup.appendChild(text);
-   
-
-    return popup
+    popupcard.appendChild(popup)
+    return popupcard
 }
+var exhibitcards = document.getElementById('exhibit-card')
 
 loadJSON(function(json) {
     console.log(json); // this will log out the json object
-    nodes.update({ id: 8,  shape:"circle", group: 1,x:1000,y:0, title:(createPopup(json[0].title,json[0].subtitle,json[0].thumbnail)), borderWidth: 0, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20,})
-    nodes.update({ id: 9,  shape:"circle", group: 1, title:(createPopup(json[1].title,json[1].subtitle,json[1].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/9.png", */ label: "  " /*label: "Covid-19 Indoor Safety Toop"*/},)
-    nodes.update({ id: 10, shape:"circle", group: 2,x:0,y:600, title:(createPopup(json[2].title,json[2].subtitle,json[2].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/11.png",*/ label: "  " /*label: "Mapping Cholera"*/},)
-    nodes.update({ id: 11, shape:"circle", group: 2,x:0,y:650, title:(createPopup(json[3].title,json[3].subtitle,json[3].thumbnail)), borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/5.png", */ label: "  " /*label: "Theriak Disease Map"*/},)
-    nodes.update({ id: 12, shape:"circle", group: 3,x:1600,y:500, title:(createPopup(json[4].title,json[4].subtitle,json[4].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/8.png", */ label: "  " /*label: "A Cluster of 17 Cases"*/},)
-    nodes.update({ id: 13, shape:"circle", group: 1, title:(createPopup(json[5].title,json[5].subtitle,json[5].thumbnail)), borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/4.png", */ label: "  " /*label: "When the World Was A Laugh"*/},)
-    nodes.update({ id: 14, shape:"circle", group: 1, title:(createPopup(json[6].title,json[6].subtitle,json[6].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/12.png",*/ label: "  " /*label: "Chameleon Project"*/},)
-    nodes.update({ id: 15, shape:"circle", group: 1,x:1000,y:10, title:(createPopup(json[7].title,json[7].subtitle,json[7].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/7.png", */ label: "  " /*label: "The Glassroom: Misinformation Edition"*/},)
-    nodes.update({ id: 16, shape:"circle", group: 2,x:0,y:600, title:(createPopup(json[8].title,json[8].subtitle,json[8].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/10.png",*/ label: "  " /*label: "Malware Museum"*/},)
-    nodes.update({ id: 17, shape:"circle", group: 3, x:1660,y:450, title:(createPopup(json[9].title,json[9].subtitle,json[9].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/15.png",*/ label: "  " /*label: "Robert Koch Cholera Map"*/},)
-    nodes.update({ id: 18, shape:"circle", group: 3,x:1650,y:400,title:(createPopup(json[10].title,json[10].subtitle,json[10].thumbnail)), borderWidth: 0,  font: { size: 100, color:"#fff" }, color: {border:  "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/16.png",*/ label: "  " /*label: "Crystallizing Viral History"*/},)
-    nodes.update({ id: 19, shape:"circle", group: 1, title:(createPopup(json[11].title,json[11].subtitle,json[11].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/13.png",*/ label: "  " /*label: "Fluid Dialogues"*/},)
-    nodes.update({ id: 20, shape:"circle", group: 3,x:840,y:700, title:(createPopup(json[12].title,json[12].subtitle,json[12].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/3.png", */ label: "  " /*label: "Drawing the Bombay Plague"*/},)
-    nodes.update({ id: 21, shape:"circle", group: 2,x:0,y:550, title:(createPopup(json[13].title,json[13].subtitle,json[13].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/14.png",*/ label: "  " /*label: "Alexander Fleming"*/},)
-    nodes.update({ id: 22, shape:"circle", group: 2,x:0,y:780, title:(createPopup(json[14].title,json[14].subtitle,json[14].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/1.png", */ label: "  " /*label: "Controlling the Plague in British India"*/},)
-    nodes.update({ id: 23, shape:"circle", group: 3, x:840,y:700,title:(createPopup(json[15].title,json[15].subtitle,json[15].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/6.png", */ label: "  " /*label: "Ants and Antimicrobial Resistance"*/},)
+    // nodes.update({ id: 8,  shape:"circle", group: 1,x:1000,y:0, title:(createPopup(json[0].title,json[0].subtitle,json[0].thumbnail)), borderWidth: 0, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20,})
+    // nodes.update({ id: 9,  shape:"circle", group: 1, title:(createPopup(json[1].title,json[1].subtitle,json[1].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/9.png", */ label: "  " /*label: "Covid-19 Indoor Safety Toop"*/},)
+    // nodes.update({ id: 10, shape:"circle", group: 2,x:0,y:600, title:(createPopup(json[2].title,json[2].subtitle,json[2].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/11.png",*/ label: "  " /*label: "Mapping Cholera"*/},)
+    // nodes.update({ id: 11, shape:"circle", group: 2,x:0,y:650, title:(createPopup(json[3].title,json[3].subtitle,json[3].thumbnail)), borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/5.png", */ label: "  " /*label: "Theriak Disease Map"*/},)
+    // nodes.update({ id: 12, shape:"circle", group: 3,x:1600,y:500, title:(createPopup(json[4].title,json[4].subtitle,json[4].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/8.png", */ label: "  " /*label: "A Cluster of 17 Cases"*/},)
+    // nodes.update({ id: 13, shape:"circle", group: 1, title:(createPopup(json[5].title,json[5].subtitle,json[5].thumbnail)), borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/4.png", */ label: "  " /*label: "When the World Was A Laugh"*/},)
+    // nodes.update({ id: 14, shape:"circle", group: 1, title:(createPopup(json[6].title,json[6].subtitle,json[6].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/12.png",*/ label: "  " /*label: "Chameleon Project"*/},)
+    // nodes.update({ id: 15, shape:"circle", group: 1,x:1000,y:10, title:(createPopup(json[7].title,json[7].subtitle,json[7].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/7.png", */ label: "  " /*label: "The Glassroom: Misinformation Edition"*/},)
+    // nodes.update({ id: 16, shape:"circle", group: 2,x:0,y:600, title:(createPopup(json[8].title,json[8].subtitle,json[8].thumbnail)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/10.png",*/ label: "  " /*label: "Malware Museum"*/},)
+    // nodes.update({ id: 17, shape:"circle", group: 3, x:1660,y:450, title:(createPopup(json[9].title,json[9].subtitle,json[9].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/15.png",*/ label: "  " /*label: "Robert Koch Cholera Map"*/},)
+    // nodes.update({ id: 18, shape:"circle", group: 3,x:1650,y:400,title:(createPopup(json[10].title,json[10].subtitle,json[10].thumbnail)), borderWidth: 0,  font: { size: 100, color:"#fff" }, color: {border:  "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/16.png",*/ label: "  " /*label: "Crystallizing Viral History"*/},)
+    // nodes.update({ id: 19, shape:"circle", group: 1, title:(createPopup(json[11].title,json[11].subtitle,json[11].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/13.png",*/ label: "  " /*label: "Fluid Dialogues"*/},)
+    // nodes.update({ id: 20, shape:"circle", group: 3,x:840,y:700, title:(createPopup(json[12].title,json[12].subtitle,json[12].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/3.png", */ label: "  " /*label: "Drawing the Bombay Plague"*/},)
+    // nodes.update({ id: 21, shape:"circle", group: 2,x:0,y:550, title:(createPopup(json[13].title,json[13].subtitle,json[13].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/14.png",*/ label: "  " /*label: "Alexander Fleming"*/},)
+    // nodes.update({ id: 22, shape:"circle", group: 2,x:0,y:780, title:(createPopup(json[14].title,json[14].subtitle,json[14].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/1.png", */ label: "  " /*label: "Controlling the Plague in British India"*/},)
+    // nodes.update({ id: 23, shape:"circle", group: 3, x:840,y:700,title:(createPopup(json[15].title,json[15].subtitle,json[15].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/6.png", */ label: "  " /*label: "Ants and Antimicrobial Resistance"*/},)
 
     network.addEventListener("click",function (params){
+       exhibitcards.innerHTML = "";
+       document.getElementById("networktext").className = "networktext"
+       document.getElementById("canvas-1").className = "networkbg"
+       document.getElementById("mynetwork").className = "mynetwork"
+       document.getElementById("buttonpath").setAttribute('d','M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z');
+
        var n = this.getNodeAt(params.pointer.DOM)
-       window.location = json[n-8].url;
+       //window.location = json[n-8].url;
+       console.log(n);
+       //Once programmes are added, check for 8 < n < 23 here and check for n > 23 again for programmes
+       if(n!=undefined){
+            var pop = createPopup(json[n-8].title,json[n-8].subtitle,json[n-8].thumbnail,json[n-8].url);
+            pop.href = json[n-8].url
+            document.getElementById("networktext").className = "networktext blur"
+            document.getElementById("canvas-1").className = "networkbg blur"
+            document.getElementById("mynetwork").className = "mynetwork blur"
+            exhibitcards.appendChild(pop)
+       }
     })
 });
 
@@ -112,6 +132,7 @@ const legendcard = document.getElementById('legendcard');
 infobutton.addEventListener('click',()=>{
     if(legendcard.style.visibility == 'visible'){
         legendcard.style.visibility = 'hidden';
+        
         document.getElementById("networktext").className = "networktext"
         document.getElementById("canvas-1").className = "networkbg"
        document.getElementById("mynetwork").className = "mynetwork"
@@ -120,6 +141,7 @@ infobutton.addEventListener('click',()=>{
 
     }
     else{
+        exhibitcards.innerHTML = "";
         legendcard.style.visibility = 'visible';
         document.getElementById("networktext").className = "networktext blur"
         document.getElementById("canvas-1").className = "networkbg blur"
@@ -219,22 +241,22 @@ var DIR = "/static/img/lp_assets/";
 
 
 var nodes = new vis.DataSet([
-    { id: 8,  shape:"circle", group: 1,x:1000,y:0, title:(createPopup(1)), borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/2.png", */ label: "  " /*label: "2020 Vision"*/},
-    { id: 9,  shape:"circle", group: 3, title:(createPopup(2)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/9.png", */ label: "  " /*label: "Covid-19 Indoor Safety Toop"*/},
-    { id: 10, shape:"circle", group: 4,x:0,y:600, title:(createPopup(3)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/11.png",*/ label: "  " /*label: "Mapping Cholera"*/},
-    { id: 11, shape:"circle", group: 2,x:0,y:650, title:(createPopup(4)), borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/5.png", */ label: "  " /*label: "Theriak Disease Map"*/},
-    { id: 12, shape:"circle", group: 2,x:1600,y:500, title:(createPopup(5)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/8.png", */ label: "  " /*label: "A Cluster of 17 Cases"*/},
-    { id: 13, shape:"circle", group: 4, title:(createPopup(6)), borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/4.png", */ label: "  " /*label: "When the World Was A Laugh"*/},
-    { id: 14, shape:"circle", group: 2, title:(createPopup(7)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/12.png",*/ label: "  " /*label: "Chameleon Project"*/},
-    { id: 15, shape:"circle", group: 1,x:1000,y:10, title:(createPopup(8)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/7.png", */ label: "  " /*label: "The Glassroom: Misinformation Edition"*/},
-    { id: 16, shape:"circle", group: 2,x:0,y:600, title:(createPopup(9)), borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/10.png",*/ label: "  " /*label: "Malware Museum"*/},
-    { id: 17, shape:"circle", group: 1, x:1660,y:450, title:(createPopup(10)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/15.png",*/ label: "  " /*label: "Robert Koch Cholera Map"*/},
-    { id: 18, shape:"circle", group: 4,x:1650,y:400,title:(createPopup(11)), borderWidth: 0,  font: { size: 100, color:"#fff" }, color: {border:  "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/16.png",*/ label: "  " /*label: "Crystallizing Viral History"*/},
-    { id: 19, shape:"circle", group: 4, title:(createPopup(12)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/13.png",*/ label: "  " /*label: "Fluid Dialogues"*/},
-    { id: 20, shape:"circle", group: 2,x:840,y:700, title:(createPopup(13)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/3.png", */ label: "  " /*label: "Drawing the Bombay Plague"*/},
-    { id: 21, shape:"circle", group: 1,x:0,y:550, title:(createPopup(14)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/14.png",*/ label: "  " /*label: "Alexander Fleming"*/},
-    { id: 22, shape:"circle", group: 4,x:0,y:780, title:(createPopup(15)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/1.png", */ label: "  " /*label: "Controlling the Plague in British India"*/},
-    { id: 23, shape:"circle", group: 2, x:840,y:700,title:(createPopup(16)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/6.png", */ label: "  " /*label: "Ants and Antimicrobial Resistance"*/},
+    { id: 8,  shape:"circle", group: 1,x:900,y:0, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/2.png", */ label: "  " /*label: "2020 Vision"*/},
+    { id: 9,  shape:"circle", group: 3,x:900,y:0, borderWidth: 0, font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/9.png", */ label: "  " /*label: "Covid-19 Indoor Safety Toop"*/},
+    { id: 10, shape:"circle", group: 4,x:0,y:600, borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/11.png",*/ label: "  " /*label: "Mapping Cholera"*/},
+    { id: 11, shape:"circle", group: 2,x:0,y:650, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/5.png", */ label: "  " /*label: "Theriak Disease Map"*/},
+    { id: 12, shape:"circle", group: 2,x:1600,y:500, borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/8.png", */ label: "  " /*label: "A Cluster of 17 Cases"*/},
+    { id: 13, shape:"circle", group: 4,x:830,y:0, borderWidth: 0, font:  { size: 100, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/4.png", */ label: "  " /*label: "When the World Was A Laugh"*/},
+    { id: 14, shape:"circle", group: 2,x:890,y:0, borderWidth: 0, font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/12.png",*/ label: "  " /*label: "Chameleon Project"*/},
+    { id: 15, shape:"circle", group: 1,x:800,y:10, borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/7.png", */ label: "  " /*label: "The Glassroom: Misinformation Edition"*/},
+    { id: 16, shape:"circle", group: 2,x:0,y:600, borderWidth: 0,  font:  { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/10.png",*/ label: "  " /*label: "Malware Museum"*/},
+    { id: 17, shape:"circle", group: 1, x:1640,y:450, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/15.png",*/ label: "  " /*label: "Robert Koch Cholera Map"*/},
+    { id: 18, shape:"circle", group: 4,x:1650,y:400, borderWidth: 0,  font: { size: 100, color:"#fff" }, color: {border:  "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/16.png",*/ label: "  " /*label: "Crystallizing Viral History"*/},
+    { id: 19, shape:"circle", group: 4,x:780,y:0,  borderWidth: 0, font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/13.png",*/ label: "  " /*label: "Fluid Dialogues"*/},
+    { id: 20, shape:"circle", group: 2,x:1500,y:700, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/3.png", */ label: "  " /*label: "Drawing the Bombay Plague"*/},
+    { id: 21, shape:"circle", group: 1,x:0,y:550, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/14.png",*/ label: "  " /*label: "Alexander Fleming"*/},
+    { id: 22, shape:"circle", group: 4,x:0,y:780, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/1.png", */ label: "  " /*label: "Controlling the Plague in British India"*/},
+    { id: 23, shape:"circle", group: 2, x:1680,y:700, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/6.png", */ label: "  " /*label: "Ants and Antimicrobial Resistance"*/},
 
     { id: 1, x:800,y:800, fixed:true, shape:"image", image: DIR + 'mapping.svg',       size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Mapping" */},
     { id: 2, x:800,y:800, fixed:true, shape:"image", image: DIR + 'documenting.svg',   size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Documenting"*/},
@@ -292,12 +314,12 @@ console.log(d)
 
 if(d <= new Date('2021-5-2')){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:1660,y:500, title:"Sylvie Briand", borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 25,  shape:"circle", group: 1,x:1650,y:600, title:"Gautam Menon", borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 26,  shape:"circle", group: 1,x:1600,y:700, title:"Gautam Menon Tutorial", borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+    nodes.add({ id: 25,  shape:"circle", group: 1,x:1630,y:600, title:"Gautam Menon", borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+    nodes.add({ id: 26,  shape:"circle", group: 1,x:1800,y:800, title:"Gautam Menon Tutorial", borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 27,  shape:"circle", group: 1,x:1000,y:1600, title:"Sheila Jasanoff", borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 28,  shape:"circle", group: 1,x:100,y:300, title:"Lena Bui", borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     
-    newEdges.add({from: 24, to: 20, length:10, color:{opacity:opac}})
+    newEdges.add({from: 24, to: 23, length:10, color:{opacity:opac}})
     newEdges.add({from: 25, to: 20, length:10, color:{opacity:opac}})
     newEdges.add({from: 26, to: 20, length:10, color:{opacity:opac}})
     newEdges.add({from: 28, to: 11, length:10, color:{opacity:opac}})
@@ -441,10 +463,10 @@ else if((d >= new Date('2022-6-7')) && (d <= new Date('2022-6-13')) ){
 
 
 var bgnodes = new vis.DataSet([
-    { id: 1, shape:"image", image: DIR + "trigger.svg", size:100, x:800,y:0,group: 0, font: { size: 100, face:'Trade Gothic LT Std', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>TRIGGER</b>"*/},
-    { id: 2, shape:"image", image: DIR + "spillover.svg", size:200, x:0,y:800,  group: 0, font: { size: 100, face:'Trade Gothic LT Std', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>SPILL</b>\n<b>OVER</b>"*/},
-    { id: 3, shape:"image", image: DIR + "transmission.svg", size:200, x:1600,y:800,  group: 0, font: { size: 100, face:'Trade Gothic LT Std', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>TRANS</b>\n<b>MISSION</b>"*/},
-    { id: 4, shape:"image", image: DIR + "hindsight.svg", size:100, x:800,y:1600,  group: 0, font: { size: 100, face:'Trade Gothic LT Std', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>HINDSIGHT</b>"*/},
+    { id: 1, shape:"image", image: DIR + "trigger.svg", size:100, x:800,y:0,group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>TRIGGER</b>"*/},
+    { id: 2, shape:"image", image: DIR + "spillover.svg", size:200, x:0,y:800,  group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>SPILL</b>\n<b>OVER</b>"*/},
+    { id: 3, shape:"image", image: DIR + "transmission.svg", size:200, x:1600,y:800,  group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>TRANS</b>\n<b>MISSION</b>"*/},
+    { id: 4, shape:"image", image: DIR + "hindsight.svg", size:100, x:800,y:1600,  group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>HINDSIGHT</b>"*/},
 ]);
 
 
@@ -478,32 +500,33 @@ var options = {
     interaction: { 
         hover: true,
         zoomView: false,
+        tooltipDelay: 3600000,
     },
-    physics: {
-        "repulsion": {
-        centralGravity: 0.001,
-        springLength: 195,
-        springConstant: 0.075,
-        nodeDistance: 100,
-        damping: 0.01,
-        },
-        maxVelocity: 0.1,
-        minVelocity: 0.001,
-        solver: "repulsion"
-    }
-
     // physics: {
     //     "repulsion": {
     //     centralGravity: 0.001,
     //     springLength: 195,
     //     springConstant: 0.075,
     //     nodeDistance: 100,
-    //     damping: 1,
+    //     damping: 0.01,
     //     },
-    //     maxVelocity: 0.0001,
-    //     minVelocity: 0.0001,
+    //     maxVelocity: 0.1,
+    //     minVelocity: 0.001,
     //     solver: "repulsion"
     // }
+
+    physics: {
+        "repulsion": {
+        centralGravity: 0.001,
+        springLength: 195,
+        springConstant: 0.075,
+        nodeDistance: 100,
+        damping: 1,
+        },
+        maxVelocity: 0.0001,
+        minVelocity: 0.0001,
+        solver: "repulsion"
+    }
 
 
 };
@@ -608,6 +631,7 @@ network.on("hoverNode",function (params){
             }
         }
     }
+//    network.interactionHandler._checkShowPopup(params.pointer.DOM);
 });
 
 network.on("blurNode", function (params) {
