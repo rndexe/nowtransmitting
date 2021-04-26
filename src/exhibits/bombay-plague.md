@@ -34,7 +34,7 @@ authorbio: >-
 
 
   Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, and the Seed Funding Award-Wellcome Trust. 
-tervis: ""
+tervis: https://player.vimeo.com/video/537285108
 tertxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar. Courtesy of the
   Wellcome Collection. "
 readinglist:
