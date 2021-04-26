@@ -77,5 +77,14 @@ processimages:
   - tervis: /static/img/d_exhibit_ter_vis_10.jpg
     tertxt: "Retracing the diffusion of a laugh. Courtesy of Anaïs Tondeur. "
 readinglist:
-  - {}
+  - quadreadtxt: Laughter Makes Bad Jokes Funnier
+    quadreadlink: https://www.smithsonianmag.com/smart-news/ha-ha-study-shows-laugh-tracks-make-dad-jokes-funnier-180972718/
+eventlist:
+  - quadeventtxt: How Ideas and Behaviours Spread through a Crowd | Event by Daniel
+      Richardson
+    quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/how-ideas-and-behaviours-spread-through-a-crowd-event-registration-145820000547
+  - quadeventtxt: "The Shape of A Laugh| Workshop by Anais Tondeur "
+    quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadeventlink: https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533
 ---
