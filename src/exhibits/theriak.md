@@ -74,7 +74,11 @@ processimages:
     tertxt: "Vibrio cholerae was painted onto the surface of the agar plate, which
       included resazurin and garlic extract. Courtesy of Sarah Craske. "
   - tervis: /static/img/e_exhibit_ter_vis_7.jpg
-    tertxt: ""
+    tertxt: The final Petri dish, engraved with the map and placed on a flatbed
+      scanner under the flow hood. Courtesy of Sarah Craske.
+  - tervis: /static/img/e_exhibit_ter_vis_8.jpg
+    tertxt: The vibrio cholerae begins to grow on the agar plate, and a scan is
+      taken every 10 minutes. Courtesy of Sarah Craske.
 terpdf: //e.issuu.com/embed.html?d=2018theriak_biofactionresidencyreport_-_studio_sar&u=sciencegallerybengaluru
 terpdftxt: "THERIAK: An Artist in Residence in the Bioprocess Laboratory (BPL),
   ETH Zürich in Basel, Switzerland. Courtesy of Sarah Craske"
