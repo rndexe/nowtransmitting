@@ -94,8 +94,10 @@ readinglist:
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5ULLBlutrCdopu2eFic4qV
     quadlisttxt: "Pandemics and Borders "
+    quadlistvis: /static/img/e_exhibit_qua_listvis_1.jpg
   - quadlistlink: https://thispodcastwillkillyou.com/2018/02/10/episode-4-the-st-show/
     quadlisttxt: The Poop Show
+    quadlistvis: /static/img/e_exhibit_qua_listvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=VJ86D_DtyWg&ab_channel=Vox
     quadwatchtxt: The 1850s Map that Changed How We Fight Outbreaks
