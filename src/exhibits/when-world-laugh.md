@@ -50,4 +50,6 @@ exhibitauthor:
 
       writings with Alain Damasio for the sound arts studio Tarabust. Since 2016, she has also developed virtual reality audio sites between Montreal and France, with Eric Chahi, for Paper Beast.
     authorimage: /static/img/d_exhibit_sec_vis_2.jpg
+readinglist:
+  - {}
 ---
