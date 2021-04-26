@@ -52,6 +52,7 @@ exhibitauthor:
     authorimage: /static/img/d_exhibit_sec_vis_2.jpg
 processimages:
   - tervis: /static/img/d_exhibit_ter_vis_1.jpg
+  - tervis: /static/img/d_exhibit_ter_vis_2.jpg
 readinglist:
   - {}
 ---
