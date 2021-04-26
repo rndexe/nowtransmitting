@@ -58,8 +58,10 @@ listeninglist:
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Q4mTlRUbWwM
     quadwatchtxt: COVID-19 Information Overload
+    quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchtxt: Is Social Media Hurting Your Mental Health
     quadwatchlink: https://www.youtube.com/watch?v=Czg_9C7gw0o&pbjreload=101
+    quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
     quadwatchtxt: Breaking the News Cycle
 play:
