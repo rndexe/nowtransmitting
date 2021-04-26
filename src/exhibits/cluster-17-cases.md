@@ -60,12 +60,16 @@ listeninglist:
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=KKI1FulY1nE
     quadwatchtxt: "Contagious Cities: Blast Theory "
+    quadwatchvis: /static/img/h_exhbit_qua_watchvis_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=KAuwReLSRQg
     quadwatchtxt: Why Did SARS and MERS Disappear Quicker
+    quadwatchvis: /static/img/h_exhbit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=jbwqTDWqTZk
     quadwatchtxt: SARS Online Animation
+    quadwatchvis: /static/img/h_exhbit_qua_watchvis_3.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=Hy5gplP0JVw
     quadwatchtxt: "COVID-19 and SARS: How the World Battled a Deadly Respiratory Illness"
+    quadwatchvis: /static/img/h_exhbit_qua_watchvis_4.jpg
 relatedlist:
   - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
   - quadrelatedtxt: "COVID-19 Indoor Safety Guidelines by Martin Bazant "
