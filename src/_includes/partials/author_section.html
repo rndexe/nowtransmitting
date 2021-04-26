@@ -1,8 +1,8 @@
-<section id="scholar" class="block w-auto h-screen lg:flex lg:flex-none bg-red-650">
+<section id="authors" class="block w-auto h-screen lg:flex lg:flex-none bg-red-650">
 
 	{% if exhibitauthor %}
 		{% for author in exhibitauthor %}
-		<div class="w-192 pt-32">
+		<div class="w-192 pt-36">
 			<div class="w-3/5 h-2/5 mx-auto">
 				{% if author.authorimage %}
 				<img class="object-scale-down mx-auto w-auto h-full" src={{author.authorimage}} oncontextmenu="return false" ondragstart="return false">
@@ -15,7 +15,7 @@
 		</div>
 		{% endfor %}
 	{% else %}	
-		<div class="w-288 pt-32">
+		<div class="w-288 pt-36">
 			<div class="w-3/5 h-2/5 mx-auto">
 				{% if authorimage %}
 				<img class="object-scale-down w-auto h-full" src={{authorimage}} oncontextmenu="return false" ondragstart="return false">

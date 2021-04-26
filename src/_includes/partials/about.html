@@ -1,12 +1,12 @@
 <section id="about" class="w-auto max-w-screen h-full flex-none bg-white">
-		<div class="flex flex-row pt-36">
-			<div class="flex-initial w-192">
-				<pre class="text-xl ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">{{description}}</pre>
+		<div class="h-full flex flex-row pt-36">
+			<div class="h-full flex-initial w-192">
+				<pre class="text-base xl:text-xl ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">{{description}}</pre>
 			</div>
 
 			{% if quote %}
-			<div class="ml-20 flex-initial invisible lg:visible w-144">
-				<p class="text-5xl w-3/5 pl-10 text-left text-red-650 font-display font-normal border-l-4 border-solid border-red-650">{{quote}}</p>
+			<div class="h-full ml-20 flex-initial invisible lg:visible w-192">
+				<p class="text-3xl xl:text-5xl w-4/5 pl-10 text-left text-red-650 font-display font-normal border-l-4 border-solid border-red-650">{{quote}}</p>
 			</div>
 			{% endif %}
 		</div>

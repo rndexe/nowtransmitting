@@ -1,0 +1,11 @@
+	<div id="process-images" class="process-images flex flex-col lg:flex-row flex-none w-auto overflow-x-hidden overflow-y-hidden pb-40 lg:pb-0">
+		{%- for images in exhibitimages -%}
+		<section class=" w-full pt-12 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto flex-initial lg:ml-40" style="background-color: #2d2d2d;">
+			<img class="processimg mx-auto" src={{images.privis}} width="600px" height="auto" style="min-width:200px;" oncontextmenu="return false" ondragstart="return false">	
+			<p class=" text-sm pb-0 lg:pb-20 lg:w-full" style="width:600px; text-align:justify; font-weight:200; color:#fff; margin-top:30px; font-family: 'Trade Gothic LT Std';">{{images.pritxt}}</p>
+		</section>
+		{%- endfor -%}	
+	</div>	
+
+
+

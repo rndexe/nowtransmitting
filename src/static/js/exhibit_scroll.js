@@ -1,12 +1,11 @@
-var processElements = document.getElementById("process")
 var main = document.getElementById('main')
 var exhibit = document.getElementById('exhibit-content')
 var backbutton = document.getElementById("backbutton")
 var navitems = document.getElementById("nav-items-container")
 
-var process = document.querySelector('#process-images');
-var scholar = document.querySelector('#scholar');
-var further = document.querySelector('#further')
+var process = document.querySelector('#process');
+var scholar = document.querySelector('#authors');
+var further = document.querySelector('#takeitfurther')
 var aboutnav = document.querySelector('#nav-item-about');
 var processnav = document.querySelector('#nav-item-process');
 var scholarnav = document.querySelector('#nav-item-scholar');
