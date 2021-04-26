@@ -65,8 +65,10 @@ watchinglist:
 relatedlist:
   - quadrelatedtxt: Fluid Dialogues by Basse Stittgen
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
   - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
 exhibitembed1: https://indoor-covid-safety.herokuapp.com/
 eventlist:
   - quadeventtxt: Why And How Should We Model Infectious Diseases? | Lecture by Dr.
