@@ -149,9 +149,15 @@ watchinglist:
 eventlist:
   - quadeventtxt: "Antimicrobial Resistance: the Pandemic in the Shadows | Lecture
       by Dr. Jyoti Joshi"
+    quadeventlink: https://www.eventbrite.com/e/145225482327
   - quadeventtxt: "Science, Innovation and Society: What have we learnt from the
       Covid-19 pandemic? | Lecture by Dr. Jeremy Farrar "
+    quadeventlink: https://www.eventbrite.com/e/148321145539
 relatedlist:
-  - quadrelatedtxt: "Penning Fleming’s Discovery "
+  - quadrelatedtxt: Moulding Modern Medicine
+    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+    quadrelatedvis: /static/img/f_exhibit_qua_exptvis_1.jpg
   - quadrelatedtxt: "THERIAK | The Disease Map by Sarah Craske "
+    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---
