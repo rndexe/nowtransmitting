@@ -113,9 +113,12 @@ eventlist:
     quadeventlink: https://www.eventbrite.com/e/145227026947
     quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
-  - quadrelatedlink: ""
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
     quadrelatedtxt: Mapping Cholera by Sonal Shah
+    quadrelatedvis: /static/img/e_exhibit_qua_expvis_1.jpg
   - quadrelatedtxt: "Contagion in the 21st Century by Museum at Robert Koch Institute "
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/e_exhibit_qua_expvis_2.jpg
 authorimage: /static/img/E_EXHIBIT_SEC_VIS_1.jpg
 authorname: Sarah Craske
 authorbio: >-
