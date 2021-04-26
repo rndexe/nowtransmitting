@@ -6,7 +6,7 @@ title: "Drawing the Bombay Plague "
 subtitle: An alternate imagination of the Bombay Plague
 medium: Drawing and digital work
 year: "2017"
-description: >
+description: >-
   The Bombay Plague of 1896 marked a turning point in disease control in India.
   Strict, authoritarian measures were imposed by a colonial administration that
   was worried that the plague would spread back to Europe via its trade routes.
@@ -21,7 +21,7 @@ description: >
   The work aims to highlight how misconceptions or myths about disease persist in the public’s experience of it through fear, fantasy, paranoia, and rumours. Interspersed are misplaced technological know-how and statistical data on plague measures produced by the authorities to shock subjects into submission, albeit with varying results. Hence, the artist imagines the drawing as a record that can be accessed to view the plague through a new lens, and studied in years to come by researchers as a validation of some of the lesser known aspects of the plague years. 
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
 authorname: Ranjit Kandalgaonkar
-authorbio: >
+authorbio: >-
   Ranjit Kandalgaonkar lives and works in Mumbai, and his art practice primarily
   comprises a lens directed at the urban context of cities. Projects such as
   cityinflux, Gentricity, build/browse and Stories of Philanthropic Trusts map
