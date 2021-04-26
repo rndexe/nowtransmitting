@@ -73,8 +73,10 @@ watchinglist:
 relatedlist:
   - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
     quadrelatedvis: /static/img/h_exhibit_qua_expvis_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
   - quadrelatedtxt: "COVID-19 Indoor Safety Guidelines by Martin Bazant "
     quadrelatedvis: /static/img/h_exhibit_qua_exptxt_2.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
 exhibitembed1: https://aco17c.netlify.app/
 eventlist:
   - quadeventtxt: "Outbreak | Lecture by Sabrina Sholts "
