@@ -93,6 +93,8 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=yHVTgZw7geY
   - quadwatchlink: https://www.youtube.com/watch?v=ayYqRM_SdcA
     quadwatchtxt: Can’t Live With Them, Can’t Live Without Them
+  - quadwatchlink: https://www.youtube.com/watch?v=hhlHx5ivGGk&t=39s
+    quadwatchtxt: Making A Chimp Laugh
 eventlist:
   - quadeventtxt: How Ideas and Behaviours Spread through a Crowd | Event by Daniel
       Richardson
