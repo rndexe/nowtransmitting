@@ -74,6 +74,16 @@ essay: >-
 
 
   Ira Klein, “Plague, Policy and Popular Unrest in British India,” Modern Asian Studies 22: 4 (1988): 723–55.
+
+
+
+  Acknowledgment: 
+
+
+  This exhibit is an output of the Visual Representations of the Third Plague Pandemic research project led by social anthropologist, Dr Christos Lynteris (University of St. Andrews). The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/ERC grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo: https://www.repository.cam.ac.uk/handle/1810/280684
+
+
+  Photographs 1, 5, 6,7, and 8 are available via Wellcome Collection, Attribution 4.0 International (CC BY 4.0). Photographs 4, 9, and 10 are reproduced here courtesy of the Centre for South Asia Studies of the University of Cambridge. Photographs 2 and 3 are available via The British Library, Public Domain Mark 1.0
 exhibitimages:
   - privis: /static/img/A_EXHIBIT_PRI_VIS_1.jpg
     pritxt: “Barber at work in one of the camps”, 1897, Karachi Plague Committee
