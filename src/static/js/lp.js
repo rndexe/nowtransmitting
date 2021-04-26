@@ -33,12 +33,11 @@ function createPopup(title,subtitle,thumbnail,url){
     // image.style.position = 'absolute'
     // image.style.height = '100%'
     // image.style.opacity = '0.3'
-    // image.style.width = '100%'
+    image.style.width = '33%'
     // image.style.margin = '0px'
     // image.style.top = '0'
     // image.style.left = '0'
-    image.style.objectFit = 'cover'
-    image.className = "w-1/3 h-auto  rounded-tl-lg  rounded-bl-lg"
+    image.className = "h-auto rounded-tl-md rounded-bl-md object-cover"
 
     // const overlay = document.createElement("div")
     // overlay.style = 'height:100%; z-index:99; width:100%; opacity:0.6; margin:0px; top:0; left:0; position:absolute; background-color:black;'
