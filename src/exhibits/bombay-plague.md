@@ -34,6 +34,9 @@ authorbio: >-
 
 
   Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, and the Seed Funding Award-Wellcome Trust. 
+tervis: ""
+tertxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar. Courtesy of the
+  Wellcome Collection. "
 readinglist:
   - quadreadlink: https://www.atlasobscura.com/articles/how-bombay-plague-changed-mumbai
     quadreadtxt: "How the Bombay Plague Changed Mumbai Forever "
@@ -57,10 +60,21 @@ watchinglist:
     quadwatchvis: /static/img/C_EXHIBIT_QUA_WATCH_VIS_1.jpg
 eventlist:
   - quadeventtxt: "Workshop by Ranjit Kandalgaonkar "
+    quadeventlink: https://www.eventbrite.com/e/drawing-from-the-bombay-plague-workshop-registration-148222681029
+    quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
       Century India | Lecture by David Arnold"
+    quadeventlink: https://www.eventbrite.com/e/145397629223
+    quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
   - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
       Christos Lynteris "
+    quadeventlink: https://www.eventbrite.com/e/145228050007
+    quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
-  - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
+  - quadrelatedtxt: "Controlling the Plague in British India | Christos Lynteris "
+    quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
+  - quadrelatedtxt: Contagion in the 21st Century | RKI
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
