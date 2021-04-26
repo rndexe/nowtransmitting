@@ -19,7 +19,10 @@ description: >
   We stand in front of a screen and the screen starts talking to us. Not with words but by showing us videos and images of people in emotional states that are in tandem with ours. Artist Tina Gonsalves, social neuroscientist Chris Frith, emotion neuroscientist Hugo Critchley, affective computer scientists Rosalind Picard and Rana El Kaliouby, as well as Professor in affective computing, Nadia Berthouz, came together to create a system that could read a person’s emotions, and then decide a congruent emotion to reflect back. Drawing on theories of emotional contagion, The Chameleon Project is placed at the intersection of multiple research areas such as empathy, social networks, affecting computing.
 exhibitvideos:
   - privis: https://player.vimeo.com/video/537610834
+    pritxt: 4 by 3 grid monologue snippets of prototype 09. Courtesy of Tina Gonsalves.
   - privis: https://player.vimeo.com/video/537604249
+    pritxt: Video Documentation of Chameleon Prototype 09 at Fabrica, Brighton, UK.
+      Courtesy of Philipp Carr.
 authorimage: /static/img/L_EXHIBIT_SEC_VIS_1.jpg
 authorname: Tina Gonsalves | In collaboration with Chris Frith, Hugo Critchley,
   Rosalind Picard, Rana El Kaliouby, and Nadia Berthouz
@@ -34,10 +37,16 @@ authorbio: >
 
   Tina has been an Artist-in-Residence in the Department of Neuroimaging at UCL, at the Banff New Media Institute in Canada, the Centre for Contemporary Art in Prague, and many more. Some of the grants she has received include the Arts Queensland Major Grant, the Arts Council England Grant, and the Wellcome Trust Large Art Award.
 tervis: https://player.vimeo.com/video/537605670
+tertxt: Video Documentation of background of Chameleon Prototype 09 at Fabrica,
+  Brighton, UK. Courtesy of Philipp Carr.
 processimages:
   - tervis: /static/img/L_EXHIBIT_TER_VIS_2.jpg
+    tertxt: Step by step explanation of the backend process. Courtesy of Philipp Carr.
   - tervis: /static/img/L_EXHIBIT_TER_VIS_3.jpg
+    tertxt: Mind Reader. Testing mind reading equipment. Courtesy of Tina Gonsalves.
 terpdf: //e.issuu.com/embed.html?d=secondnature_gonsalves&hideIssuuLogo=true&u=sciencegallerybengaluru
+terpdftxt: "The Chameleon Project, Tina Gonsalves, Nadia Berthouze, Matt
+  Iacobini, SECOND NATURE Issue No.3, March 2010. "
 readinglist:
   - quadreadlink: https://www.theguardian.com/science/2021/jan/24/the-five-emotional-contagion
     quadreadtxt: "Emotional Contagion "
@@ -55,7 +64,6 @@ watchinglist:
     quadwatchtxt: The Problem of Contagion
   - quadwatchtxt: When Emotions Are Contagious
     quadwatchlink: https://www.youtube.com/watch?v=VW1PH6B9p20
-play: https://ncase.me/crowds/
 eventlist:
   - {}
   - {}

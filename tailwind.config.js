@@ -11,9 +11,20 @@ module.exports = {
       center: true,
     },
     extend: {
-      colors: {},
+      colors: {
+	trueGray: {
+	    750: '#2d2d2d',	
+	    400: '#a3a3a3',	
+	},
+	red: {
+	    650: '#d62b2b',	
+	},
+      },
+    },
+    fontFamily: {
+          'display' : 'Playfair Display',
+          'trade'    : 'Trade Gothic',	    
     },
   },
   variants: {},
-  plugins: [require("@tailwindcss/typography")],
 };

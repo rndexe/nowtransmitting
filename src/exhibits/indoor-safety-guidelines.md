@@ -21,7 +21,7 @@ description: >
 
   This tool brings data, computing, and research into a user-friendly and comprehensible format, making us better informed about the risk of infection in these uncertain times.
 pritxt: https://indoor-covid-safety.herokuapp.com/
-privis: ""
+privis: /static/img/I_EXHIBIT_PRI_VIS_1.mp4
 exhibitauthor:
   - authorbio: John W. Bush is a Professor of Applied Mathematics in the Department
       of Mathematics at Massachusetts Institute of Technology (MIT). A fluid

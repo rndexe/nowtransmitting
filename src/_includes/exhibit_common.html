@@ -3,16 +3,18 @@ layout: default
 ---
 
 <link rel="stylesheet" type="text/css" href="/static/css/myimage.css">
-<body style="overflow:hidden;">
-	<main class="main-stuff block lg:flex lg:flex-col;">
+<body>
+	<main class="block lg:flex lg:flex-col">
 
 		<div class="w-screen fixed">
-			<div >
+			<div>
 				{% include "./partials/navbar.html" %}
-				<div class="flex flex-col lg:flex-row overflow-x-hidden h-screen w-auto " id="main" style="background-color: #2d2d2d; scroll-snap-type:proximity;"> 
-					{{ content | safe }}
+				<div id="main" class="flex flex-col lg:flex-row overflow-x-hidden h-screen w-auto bg-gray-700 scroll-snap"> 
+				{% include "./partials/navbar_top.html" %}
+				{{ content | safe }}
 				</div>
 			</div>
+		</div>
 	</main>
 </body>
 {% if path == "home" %}

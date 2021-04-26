@@ -15,7 +15,8 @@ description: >
 
 
   In this interactive artwork, we virtually enter the Metropole Hotel on that fateful night, and we explore the events that took place in the 17 rooms where the first cluster of SARS cases were detected. We go on a  journey with epidemiologists to understand how they studied the movements of the guests between each room. This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences. In the end, we come away with a renewed appreciation for how public health experts grapple with fear and uncertainty in the face of an unknown disease. 
-exhibitembed1: https://aco17c.netlify.app/
+privis: /static/img/H_EXHIBIT_PRI_VIS_1.mp4
+pritxt: https://www.17cases.com/
 exhibitauthor:
   - authorname: Blast Theory
     authorbio: >
@@ -60,11 +61,11 @@ watchinglist:
     quadwatchtxt: SARS Online Animation
   - quadwatchlink: https://www.youtube.com/watch?v=Hy5gplP0JVw
     quadwatchtxt: "COVID-19 and SARS: How the World Battled a Deadly Respiratory Illness"
-play: https://www.theguardian.com/science/2015/oct/26/can-you-solve-it-how-many-will-the-zombie-outbreak-infect
-eventlist:
-  - quadeventtxt: "Outbreak | Lecture by Sabrina Sholts "
-  - quadeventtxt: Creating Interactive Art About Pandemics | Masterclass by Matt Adams
 relatedlist:
   - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
   - quadrelatedtxt: "COVID-19 Indoor Safety Guidelines by Martin Bazant "
+exhibitembed1: https://aco17c.netlify.app/
+eventlist:
+  - quadeventtxt: "Outbreak | Lecture by Sabrina Sholts "
+  - quadeventtxt: Creating Interactive Art About Pandemics | Masterclass by Matt Adams
 ---
