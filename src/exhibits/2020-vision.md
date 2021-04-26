@@ -51,8 +51,10 @@ readinglist:
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/63tmp1kBFxuo1Se5aEQ7hn
     quadlisttxt: "You’re Being Watched: Pandemic Capitalism"
+    quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.leadinglearning.com/podcast-episode-51-jonah-berger/
     quadlisttxt: Getting Contagious-And Curious
+    quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Q4mTlRUbWwM
     quadwatchtxt: COVID-19 Information Overload
