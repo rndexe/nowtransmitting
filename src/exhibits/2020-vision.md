@@ -75,5 +75,7 @@ eventlist:
     quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
 relatedlist:
   - quadrelatedtxt: "The Glass Room: Misinformation Edition | Exhibit by Tactical Tech "
+    quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
   - quadrelatedtxt: When the World Was A Laugh | Exhibit by Anais Tondeur
+    quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
 ---
