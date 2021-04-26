@@ -37,7 +37,7 @@ processimages:
   - tervis: /static/img/B_EXHIBIT_TER_VIS_4.jpg
     tertxt: "Internet schema. Courtesy of Robert Good. "
   - tervis: /static/img/B_EXHIBIT_TER_VIS_5.jpg
-    tertxt: "Internet schema. Courtesy of Robert Good. "
+    tertxt: Python code. Courtesy of Robert Good.
 readinglist:
   - quadreadtxt: Artists Explore New Ways of Knowing in a Time of Information Overload
     quadreadlink: https://www.nature.com/articles/d41586-020-01605-0
@@ -58,7 +58,7 @@ listeninglist:
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Q4mTlRUbWwM
     quadwatchtxt: COVID-19 Information Overload
-    quadwatchvis: ""
+    quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchtxt: Is Social Media Hurting Your Mental Health
     quadwatchlink: https://www.youtube.com/watch?v=Czg_9C7gw0o&pbjreload=101
   - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
