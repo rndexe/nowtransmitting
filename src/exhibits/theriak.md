@@ -4,21 +4,23 @@ authortype: Team
 thumb: /static/img/E_Exhibit_Thumbnail.jpg
 title: THERIAK | The Disease Map
 subtitle: Mapping the ebb and flow of diseases
-medium: Film
-year: 2017-2019
-description: >
+medium: Time-lapse film of Vibrio cholerae interacting with synthetic peptides
+  across a map of Basel by engraver Matthäus Merian (1593-1650). 5 min. 3 sec.
+year: 2017 – 2019
+description: >-
   Disease maps are a long-standing scientific tool used to understand the spread
-  of disease across populations. In this time-lapse film, the artist takes a map
-  of Basel, Switzerland made by engraver Matthäus Merian (1593-1650) and turns
-  it into a contemporary disease map. Cholera is grown across the map to show
-  how the disease might spread across the city; it is also inhibited by novel
-  synthetic peptides designed by the artist. This ebb and flow becomes a
-  metaphor for our relationship with disease, for the continuous fight against
-  emerging diseases and new strains, and the pressing need to address the global
-  existential crises that antimicrobial resistance presents.
+  of disease across populations. Sarah Craske’s The Disease Map takes an
+  engraving of Basel, Switzerland by Matthäus Merian (1593-1650), and turns it
+  into a disease map by engraving it onto a custom-made petri dish, within which
+  cholera was painted (onto agar) over several days while also being inhibited
+  with synthetic peptides that Craske designed. This process was recorded using
+  time-lapse photography. This ebb and flow becomes a metaphor for our
+  relationship with cholera, for the continuous fight against emerging diseases
+  and new strains, and the pressing need to address the global existential
+  crises that antimicrobial resistance presents.
 
 
-  The protocols for this work were designed through collaborative and experimental work with Dr Irene Wüthrich and Dr Steven Schmitt from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich. Through observational inquiry and collaborative discussion while working at the D-BSSE, the artist learnt about contemporary synthetic biological approaches to fighting infectious diseases. Whilst critically reflecting on these approaches, she worked closely with scientists to develop new ideas and practical experiments that combined both scientific and artistic practice. 
+  The protocols for this work were designed through collaborative and experimental work with Dr Irene Wüthrich and Dr Steven Schmitt from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich. Through observational inquiry and collaborative discussion while working at the D-BSSE, Craske learnt about contemporary synthetic biological approaches to fighting infectious diseases. Whilst critically reflecting on these approaches, she worked closely with scientists to develop new ideas and practical experiments that combined both scientific and artistic practice. 
 privis: https://player.vimeo.com/video/537297813
 pritxt: "Time-lapse film of Vibrio cholerae interacting with synthetic peptides
   across a map of Basel by engraver Matthäus Merian (1593-1650). 2019. 5’ 3’’. "
@@ -58,19 +60,44 @@ exhibitauthor:
 processimages:
   - tervis: /static/img/E_EXHIBIT_TER_VIS_1.jpg
     tertxt: "Disease Map installation. Courtesy of Sarah Craske. "
+  - tervis: /static/img/e_exhibit_ter_vis_3.jpg
+    tertxt: "Dr Steven Schmidt teaching Sarah how to prepare for the MIC Assay,
+      which tested the efficacy of her peptides against vibrio cholerae and
+      e-coli. Courtesy of Sarah Craske. "
+  - tervis: /static/img/e_exhibit_ter_vis_4.jpg
+    tertxt: "BioSafety Level 2 Lab at the D-BSSE, ETH Zurich. Courtesy of Sarah
+      Craske. "
+  - tervis: /static/img/e_exhibit_ter_vis_5.jpg
+    tertxt: Testing the engraving on different plastics prior to making the final
+      Petri dish. Courtesy of Sarah Craske.
+  - tervis: /static/img/e_exhibit_ter_vis_6.jpg
+    tertxt: "Vibrio cholerae was painted onto the surface of the agar plate, which
+      included resazurin and garlic extract. Courtesy of Sarah Craske. "
+  - tervis: /static/img/e_exhibit_ter_vis_7.jpg
+    tertxt: The final Petri dish, engraved with the map and placed on a flatbed
+      scanner under the flow hood. Courtesy of Sarah Craske.
+  - tervis: /static/img/e_exhibit_ter_vis_8.jpg
+    tertxt: The vibrio cholerae begins to grow on the agar plate, and a scan is
+      taken every 10 minutes. Courtesy of Sarah Craske.
 terpdf: //e.issuu.com/embed.html?d=2018theriak_biofactionresidencyreport_-_studio_sar&u=sciencegallerybengaluru
 terpdftxt: "THERIAK: An Artist in Residence in the Bioprocess Laboratory (BPL),
   ETH Zürich in Basel, Switzerland. Courtesy of Sarah Craske"
 readinglist:
   - quadreadtxt: "The Topography of Disease "
     quadreadlink: https://blogs.scientificamerican.com/observations/the-topography-of-disease/
+    quadreadvis: /static/img/e_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)60846-0/fulltext
     quadreadtxt: The Theriac in Antiquity
+    quadreadvis: /static/img/e_exhibit_qua_readvis_2.jpg
+  - quadreadtxt: Microbe Artwork Shows The Limits Of Antibiotics
+    quadreadvis: /static/img/e_exhibit_qua_readvis_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5ULLBlutrCdopu2eFic4qV
     quadlisttxt: "Pandemics and Borders "
+    quadlistvis: /static/img/e_exhibit_qua_listvis_1.jpg
   - quadlistlink: https://thispodcastwillkillyou.com/2018/02/10/episode-4-the-st-show/
     quadlisttxt: The Poop Show
+    quadlistvis: /static/img/e_exhibit_qua_listvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=VJ86D_DtyWg&ab_channel=Vox
     quadwatchtxt: The 1850s Map that Changed How We Fight Outbreaks
@@ -80,11 +107,18 @@ watchinglist:
     quadwatchtxt: Mapping the Spread of Infectious Diseases
 eventlist:
   - quadeventtxt: "THERIAK: Behind the Scenes in a Lab | Workshop by Sarah Craske"
+    quadeventvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/theriak-behind-the-scenes-in-a-lab-workshop-registration-145820165039
   - quadeventtxt: After the End of Epidemics | Lecture by Dora Vargha
+    quadeventlink: https://www.eventbrite.com/e/145227026947
+    quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
-  - quadrelatedlink: ""
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
     quadrelatedtxt: Mapping Cholera by Sonal Shah
+    quadrelatedvis: /static/img/e_exhibit_qua_expvis_1.jpg
   - quadrelatedtxt: "Contagion in the 21st Century by Museum at Robert Koch Institute "
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/e_exhibit_qua_expvis_2.jpg
 authorimage: /static/img/E_EXHIBIT_SEC_VIS_1.jpg
 authorname: Sarah Craske
 authorbio: >-
