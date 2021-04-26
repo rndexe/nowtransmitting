@@ -155,8 +155,10 @@ watchinglist:
 relatedlist:
   - quadrelatedtxt: "Drawing the Bombay Plague - Ranjit Kandalgaonkar "
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
   - quadrelatedtxt: "Contagion in the 21st Century | Esther Maria Antao "
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
 author: Artist
 eventlist:
   - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
