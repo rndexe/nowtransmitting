@@ -110,7 +110,9 @@ watchinglist:
     quadwatchtxt: Making A Chimp Laugh
     quadwatchvis: /static/img/D_EXHIBIT_WATCHVIS_3.jpg
 play:
-  - quadplaylink: ""
+  - quadplaylink: https://everymoviecough.com/game.html
+    quadplayvis: /static/img/d_exhibit_qua_playvis_1.jpg
+    quadplaytxt: Name That Cough
 eventlist:
   - quadeventtxt: How Ideas and Behaviours Spread through a Crowd | Event by Daniel
       Richardson
