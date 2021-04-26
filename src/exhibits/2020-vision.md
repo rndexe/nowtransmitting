@@ -6,7 +6,7 @@ title: "2020 Vision "
 subtitle: Disentangling the Web of Information
 medium: Google News headlines, Google email alerts, Python code
 year: "2019"
-description: >
+description: >-
   How can we make sense of the digital world as information multiplies
   exponentially? Online content is proliferating at an astonishing rate, at a
   pace that is much faster than we can possibly hope to match. We are constantly
@@ -19,7 +19,7 @@ pritxt: "What does the future hold? Our anxieties are interrogated through an
   array of Google News headlines. 2019. Text animation, 2'07\". "
 authorimage: /static/img/B_EXHIBIT_SEC_VIS_1.jpg
 authorname: Robert Good
-authorbio: >
+authorbio: >-
   Robert Good is an artist based in Cambridge, United Kingdom. He is the editor
   of A New Dictionary of Art and founder and director of the artist collective
   Art Language Location. His podcast, Something To Do With Art, features
@@ -41,10 +41,13 @@ processimages:
 readinglist:
   - quadreadtxt: Artists Explore New Ways of Knowing in a Time of Information Overload
     quadreadlink: https://www.nature.com/articles/d41586-020-01605-0
+    quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadtxt: "Art Installation: Cacophony"
     quadreadlink: https://www.studio-nomad.com/in_between/cacophony
+    quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadlink: https://www.scientificamerican.com/article/how-do-internet-search-en/
     quadreadtxt: How Do Internet Search Engines Work?
+    quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/63tmp1kBFxuo1Se5aEQ7hn
     quadlisttxt: "You’re Being Watched: Pandemic Capitalism"
