@@ -6,7 +6,7 @@ title: Putting the Ant into Antibiotics
 subtitle: Microbes to the rescue
 medium: Photographs and video
 year: "2019"
-description: >
+description: >-
   Scientists at the John Innes Centre (JIC) in Norwich, United Kingdom are
   turning to a range of ants in the search for new antibiotics. Though humans
   have been using antibiotics for nearly a century, we are now facing the
@@ -14,7 +14,7 @@ description: >
   our body have become resistant to antibiotics. 
 
 
-  Ants have been using antibiotics in their fight against pathogens for a much longer time. Scientists believe that investigating the chemical ecology of the ant colonies, and the microbes produced by them can help us tackle the crisis of antimicrobial resistance. This exhibit contains an essay by Adrian Galvin on the work done in this field by Prof. Barrie Wilkinson, Prof. Matt Hutchings and Dr. Victor Soria-Carrasco at JIC. We also have here photographs of the ants and the microbes produced by them, as well as a live-stream of the ants courtesy of the John Innes Centre.
+  Ants have been using antibiotics in their fight against pathogens for a much longer time. Scientists believe that investigating the chemical ecology of the ant colonies, and the microbes produced by them can help us tackle the crisis of antimicrobial resistance. An essay by Adrian Galvin accompanies this exhibit, exploring the work done in this field by Prof. Barrie Wilkinson, Prof. Matt Hutchings and Victor Soria-Carrasco all at JIC. We also have here photographs of the ants as well as a live-stream of the ants courtesy of the John Innes Centre. 
 essay: >
   Researchers at the John Innes Centre and University of East Anglia (UEA) have
   investigated the chemical arsenal employed by species such as South American
@@ -69,13 +69,6 @@ exhibitimages:
     pritxt: "Acromyrmex echinatior leafcutter ants. Courtesy of Kim Findlay, JIC
       Bioimaging. "
 exhibitauthor:
-  - authorimage: /static/img/F_EXHIBIT_SEC_VIS_1.jpg
-    authorbio: Adrian Galvin is the Communications and Media Manager at the John
-      Innes Centre (JIC).  He is responsible for the Communications planning,
-      managing media output for JIC and The Sainsbury Laboratory. He spends his
-      time dealing with public affairs and building relationships with local,
-      national and international media organisations.
-    authorname: Adrian Galvin
   - authorimage: /static/img/F_EXHIBIT_SEC_VIS_2.jpg
     authorname: Barrie Wilkinson
     authorbio: Barrie Wilkinson researches the discovery and biosynthesis of
@@ -93,14 +86,21 @@ exhibitauthor:
       these bacteria and their natural products.
     authorname: Matt Huchings
   - authorimage: /static/img/F_EXHIBIT_SEC_VIS_4.jpg
-    authorbio: "Dr. Victor Soria-Carrasco  is the Head of the Entomology and
-      Insectary Facility at the John Innes Centre. He aims to expand the
-      capacities of this facility by using genomic approaches to assist with the
-      diagnose and tracking of population dynamics of pests and pest-associated
-      plant pathogens, the genetic mapping of relevant invertebrate traits, and
-      the eventual development of new pest and plant pathogen control methods
-      using evolutionary approaches and gene editing tools. "
+    authorbio: "Victor Soria-Carrasco is the Head of the Entomology and Insectary
+      Facility at the John Innes Centre. He aims to expand the capacities of
+      this facility by using genomic approaches to assist with the diagnose and
+      tracking of population dynamics of pests and pest-associated plant
+      pathogens, the genetic mapping of relevant invertebrate traits, and the
+      eventual development of new pest and plant pathogen control methods using
+      evolutionary approaches and gene editing tools. "
     authorname: Dr. Victor Soria-Carrasco
+  - authorimage: /static/img/F_EXHIBIT_SEC_VIS_1.jpg
+    authorbio: Adrian Galvin is the Communications and Media Manager at the John
+      Innes Centre (JIC).  He is responsible for the Communications planning,
+      managing media output for JIC and The Sainsbury Laboratory. He spends his
+      time dealing with public affairs and building relationships with local,
+      national and international media organisations.
+    authorname: Adrian Galvin
 tervis: /static/img/F_EXHIBIT_TER_VIS_1.jpg
 tertxt: "Captive ant colony. Courtesy of Matt Hutchings. "
 readinglist:
