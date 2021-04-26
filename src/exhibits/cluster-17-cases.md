@@ -72,5 +72,7 @@ relatedlist:
 exhibitembed1: https://aco17c.netlify.app/
 eventlist:
   - quadeventtxt: "Outbreak | Lecture by Sabrina Sholts "
+    quadeventlink: https://www.eventbrite.com/e/148315625027
   - quadeventtxt: Creating Interactive Art About Pandemics | Masterclass by Matt Adams
+    quadeventlink: https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669
 ---
