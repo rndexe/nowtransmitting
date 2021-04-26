@@ -59,8 +59,8 @@ processimages:
   - tervis: /static/img/d_exhibit_ter_vis_6.jpg
   - tervis: /static/img/d_exhibit_ter_vis_7.jpg
   - tervis: /static/img/d_exhibit_ter_vis_8.jpg
-  - {}
-  - {}
+  - tervis: /static/img/d_exhibit_ter_vis_9.jpg
+  - tervis: /static/img/d_exhibit_ter_vis_10.jpg
 readinglist:
   - {}
 ---
