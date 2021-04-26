@@ -74,6 +74,7 @@ eventlist:
   - quadeventtxt: Why And How Should We Model Infectious Diseases? | Lecture by Dr.
       Gautam Menon
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/145213889653
   - quadeventtxt: Digital Epidemiology | Masterclass by Dr. Vijay Chandru
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_2.jpg
 ---
