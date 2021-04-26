@@ -3,10 +3,10 @@ layout: the-glass-room
 authortype: Team
 thumb: /static/img/G_Exhibit_Thumbnail.jpg
 title: "The Glass Room: Misinformation Edition "
-subtitle: Beyond the black mirror
+subtitle: Demystifying everyday technologies
 medium: "Explorables "
 year: "2016 "
-description: >
+description: >-
   Today we can access information more easily than before, but the veracity of
   this information continues to be called into question with the rise of deep
   fakes, algorithms, and bots. The Misinformation Edition of The Glass Room
@@ -14,7 +14,7 @@ description: >
   information.
 
 
-  Learn why finding “fake news” is not as easy as it sounds, and how the term “fake news” is as much a problem as the news itself. Dive into the world of deep fakes, which are now so realistic that they are virtually impossible to detect. Uncover how social media platforms are designed to keep us hooked and how they can be used to change our minds. These apps were created by Density Design; They are part of the project, "The Glass Room Misinformation Edition", created by Tactical Tech.
+  Uncover how social media platforms are designed to keep us hooked and how they can be used to change our minds. Learn why finding “fake news” is not as easy as it sounds, and how the term “fake news” is as much a problem as the news itself. Dive into the world of deep fakes, which are now so realistic that they are virtually impossible to detect. These apps were created by Density Design; They are part of the project, "The Glass Room Misinformation Edition", created by Tactical Tech.
 exhibitembed:
   - pritxt: https://deepfakelab.theglassroom.org/
     privis: /static/img/G_EXHIBIT_PRI_VIS_1.mp4
@@ -33,7 +33,7 @@ exhibitauthor:
       social, organizational and urban phenomena.
     authorname: "DensityDesign "
     authorimage: /static/img/G_EXHIBIT_SEC_VIS_1.png
-  - authorbio: >
+  - authorbio: >-
       The Glass Room is a public intervention that provides an interactive, fun,
       and challenging experience that brings to life the most pressing
       challenges facing people and the tech industry today. As technology
@@ -58,17 +58,6 @@ readinglist:
     quadreadtxt: "Trapped: The Secret Ways Social Media is Built to be Addictive "
   - quadreadlink: https://www.theguardian.com/technology/2019/aug/23/social-media-addiction-gambling
     quadreadtxt: "The Machine Always Wins: What Drives Our Addiction to Social Media"
-watchinglist:
-  - quadwatchlink: https://www.youtube.com/watch?v=hz6GULbowAk&ab_channel=TED-Ed
-    quadwatchtxt: "Why People Fall for Misinformation "
-  - quadwatchtxt: How We Can Protect Truth in the Age of Misinformation
-    quadwatchlink: https://www.youtube.com/watch?v=-7ORAKULel4
-  - quadwatchlink: https://www.youtube.com/watch?v=T4YkpPXKDRM&t=172s
-    quadwatchtxt: My Brain on Information Overload
-relatedlist:
-  - quadrelatedtxt: 2020 Vision by Robert Good
-exhibitembed1: https://deepfakelab.theglassroom.org/
-exhibitembed2: https://doublecheck.theglassroom.org/
 listeninglist:
   - quadlistlink: https://podcasts.apple.com/us/podcast/social-media-addiction/id1258539903?i=1000408978370
     quadlisttxt: "In Your Right Mind: Social Media Addiction "
@@ -76,7 +65,18 @@ listeninglist:
     quadlisttxt: The History of Fake News
   - quadlistlink: https://www.npr.org/2020/06/02/868001948/trust-fall
     quadlisttxt: Trust Fall
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=hz6GULbowAk&ab_channel=TED-Ed
+    quadwatchtxt: "Why People Fall for Misinformation "
+  - quadwatchtxt: How We Can Protect Truth in the Age of Misinformation
+    quadwatchlink: https://www.youtube.com/watch?v=-7ORAKULel4
+  - quadwatchlink: https://www.youtube.com/watch?v=T4YkpPXKDRM&t=172s
+    quadwatchtxt: My Brain on Information Overload
 eventlist:
   - quadeventtxt: "Information…It’s Complicated | Workshop by Muhammad Radwan "
   - quadeventtxt: "Keep Calm and Spot the Design Tricks | Workshop by Louise Hisayasu "
+relatedlist:
+  - quadrelatedtxt: 2020 Vision by Robert Good
+exhibitembed1: https://deepfakelab.theglassroom.org/
+exhibitembed2: https://doublecheck.theglassroom.org/
 ---
