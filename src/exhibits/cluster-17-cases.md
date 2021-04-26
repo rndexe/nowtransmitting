@@ -14,14 +14,14 @@ description: >
   across the world.  
 
 
-  In this interactive artwork, we virtually enter the Metropole Hotel on that fateful night, and we explore the events that took place in the 17 rooms where the first cluster of SARS cases were detected. We go on a  journey with epidemiologists to understand how they studied the movements of the guests between each room. This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences. In the end, we come away with a renewed appreciation for how public health experts grapple with fear and uncertainty in the face of an unknown disease. 
+  In this interactive exhibit, we virtually enter the Metropole Hotel on that fateful night, and explore the events that took place in the 17 rooms where the first cluster of SARS cases were detected. We go on a journey with epidemiologists to understand how they studied the movements of the guests between each room. This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences. In the end, we come away with a renewed appreciation for how public health experts grapple with fear and uncertainty in the face of an unknown disease. 
 privis: /static/img/H_EXHIBIT_PRI_VIS_1.mp4
 pritxt: https://www.17cases.com/
 exhibitauthor:
   - authorname: Blast Theory
-    authorbio: >
+    authorbio: >-
       Blast Theory are known internationally as one of the most adventurous
-      artists’ groups using interactive media, creating groundbreaking new forms
+      artists’ group using interactive media, creating groundbreaking new forms
       of performance and interactive art that mixes audiences across the
       internet, live performance and digital broadcasting. The group’s work
       explores interactivity and the social and political aspects of technology.
@@ -43,29 +43,46 @@ terpdftxt: "Info pack about A Cluster of 17 Cases. "
 readinglist:
   - quadreadlink: https://wellcomecollection.org/articles/Xl0YSxIAACEAQiBn
     quadreadtxt: The Science of Why Things Spread
+    quadreadvis: /static/img/h_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://wellcomecollection.org/articles/WsT4Ex8AAHruGfW_
     quadreadtxt: The Cook Who Became a Pariah
+    quadreadvis: /static/img/h_exhibit_qua_readvis_2.jpg
   - quadreadlink: https://vis.sciencemag.org/covid-clusters/
     quadreadtxt: The Science of Superspreading
+    quadreadvis: /static/img/h_exhibit_qua_readvis_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
     quadlisttxt: "Disease Detectives: How to Track Epidemics"
+    quadlistvis: /static/img/h_exhibit_qua_listvis_1.jpg
   - quadlistlink: https://www.bbc.co.uk/sounds/play/p01dq5wx
     quadlisttxt: The Story of SARS
+    quadlistvis: /static/img/h_exhibit_qua_listvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=KKI1FulY1nE
     quadwatchtxt: "Contagious Cities: Blast Theory "
+    quadwatchvis: /static/img/h_exhbit_qua_watchvis_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=KAuwReLSRQg
     quadwatchtxt: Why Did SARS and MERS Disappear Quicker
+    quadwatchvis: /static/img/h_exhbit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=jbwqTDWqTZk
     quadwatchtxt: SARS Online Animation
+    quadwatchvis: /static/img/h_exhbit_qua_watchvis_3.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=Hy5gplP0JVw
     quadwatchtxt: "COVID-19 and SARS: How the World Battled a Deadly Respiratory Illness"
+    quadwatchvis: /static/img/h_exhbit_qua_watchvis_4.jpg
 relatedlist:
   - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
+    quadrelatedvis: /static/img/h_exhibit_qua_expvis_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
   - quadrelatedtxt: "COVID-19 Indoor Safety Guidelines by Martin Bazant "
+    quadrelatedvis: /static/img/h_exhibit_qua_exptxt_2.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
 exhibitembed1: https://aco17c.netlify.app/
 eventlist:
   - quadeventtxt: "Outbreak | Lecture by Sabrina Sholts "
+    quadeventlink: https://www.eventbrite.com/e/148315625027
+    quadeventvis: /static/img/h_exhibit_qua_atnvis_1.jpg
   - quadeventtxt: Creating Interactive Art About Pandemics | Masterclass by Matt Adams
+    quadeventlink: https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669
+    quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
 ---
