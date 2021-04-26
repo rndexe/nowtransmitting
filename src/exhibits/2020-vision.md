@@ -6,7 +6,7 @@ title: "2020 Vision "
 subtitle: Disentangling the Web of Information
 medium: Google News headlines, Google email alerts, Python code
 year: "2019"
-description: >
+description: >-
   How can we make sense of the digital world as information multiplies
   exponentially? Online content is proliferating at an astonishing rate, at a
   pace that is much faster than we can possibly hope to match. We are constantly
@@ -19,7 +19,7 @@ pritxt: "What does the future hold? Our anxieties are interrogated through an
   array of Google News headlines. 2019. Text animation, 2'07\". "
 authorimage: /static/img/B_EXHIBIT_SEC_VIS_1.jpg
 authorname: Robert Good
-authorbio: >
+authorbio: >-
   Robert Good is an artist based in Cambridge, United Kingdom. He is the editor
   of A New Dictionary of Art and founder and director of the artist collective
   Art Language Location. His podcast, Something To Do With Art, features
@@ -41,26 +41,42 @@ processimages:
 readinglist:
   - quadreadtxt: Artists Explore New Ways of Knowing in a Time of Information Overload
     quadreadlink: https://www.nature.com/articles/d41586-020-01605-0
+    quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadtxt: "Art Installation: Cacophony"
     quadreadlink: https://www.studio-nomad.com/in_between/cacophony
+    quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadlink: https://www.scientificamerican.com/article/how-do-internet-search-en/
     quadreadtxt: How Do Internet Search Engines Work?
+    quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/63tmp1kBFxuo1Se5aEQ7hn
     quadlisttxt: "You’re Being Watched: Pandemic Capitalism"
+    quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.leadinglearning.com/podcast-episode-51-jonah-berger/
     quadlisttxt: Getting Contagious-And Curious
+    quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Q4mTlRUbWwM
     quadwatchtxt: COVID-19 Information Overload
+    quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchtxt: Is Social Media Hurting Your Mental Health
     quadwatchlink: https://www.youtube.com/watch?v=Czg_9C7gw0o&pbjreload=101
+    quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
     quadwatchtxt: Breaking the News Cycle
+    quadwatchvis: /static/img/b_exhibit_qua_watchvis_3.jpg
+play:
+  - quadplaytxt: Go Viral
+    quadplaylink: https://www.goviralgame.com/en/
+    quadplayvis: /static/img/B_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
   - quadeventtxt: Infodemics | Lecture by Sylvie Briand
+    quadeventlink: https://www.eventbrite.com/e/148308301121
   - quadeventtxt: Information...It’s Complicated | Workshop by Muhammad Radwan
+    quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
 relatedlist:
   - quadrelatedtxt: "The Glass Room: Misinformation Edition | Exhibit by Tactical Tech "
+    quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
   - quadrelatedtxt: When the World Was A Laugh | Exhibit by Anais Tondeur
+    quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
 ---
