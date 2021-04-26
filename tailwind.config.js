@@ -20,6 +20,13 @@ module.exports = {
 	    650: '#d62b2b',	
 	},
       },
+      spacing: {
+         '96': '24rem',
+         '144': '36rem',
+         '192': '48rem',
+         '240': '60rem',
+         '288': '72rem',
+      }
     },
     fontFamily: {
           'display' : 'Playfair Display',

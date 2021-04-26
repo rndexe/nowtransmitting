@@ -4,6 +4,8 @@ backend:
   branch: master
   ### enable below lines for github integration ###
 media_folder: "src/static/img"
+config:
+      max_file_size: 512000
 public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
