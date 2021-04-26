@@ -87,4 +87,11 @@ eventlist:
   - quadeventtxt: "The Shape of A Laugh| Workshop by Anais Tondeur "
     quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533
+relatedlist:
+  - quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedtxt: The Chameleon Project by Tina Gonsalves
+    quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedtxt: 2020 Vision by Robert Good
+    quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
