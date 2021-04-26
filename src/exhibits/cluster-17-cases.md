@@ -72,11 +72,15 @@ watchinglist:
     quadwatchvis: /static/img/h_exhbit_qua_watchvis_4.jpg
 relatedlist:
   - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
+    quadrelatedvis: /static/img/h_exhibit_qua_expvis_1.jpg
   - quadrelatedtxt: "COVID-19 Indoor Safety Guidelines by Martin Bazant "
+    quadrelatedvis: /static/img/h_exhibit_qua_exptxt_2.jpg
 exhibitembed1: https://aco17c.netlify.app/
 eventlist:
   - quadeventtxt: "Outbreak | Lecture by Sabrina Sholts "
     quadeventlink: https://www.eventbrite.com/e/148315625027
+    quadeventvis: /static/img/h_exhibit_qua_atnvis_1.jpg
   - quadeventtxt: Creating Interactive Art About Pandemics | Masterclass by Matt Adams
     quadeventlink: https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669
+    quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
 ---
