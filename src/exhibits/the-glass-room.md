@@ -89,6 +89,8 @@ listeninglist:
     quadlistvis: /static/img/g_exhibit_qua_listvis_3.jpg
 play:
   - quadplayvis: /static/img/g_exhibit_qua_playvis_1.jpg
+    quadplaytxt: Bad News
+    quadplaylink: https://www.getbadnews.com/#intro
 eventlist:
   - quadeventtxt: "Information…It’s Complicated | Workshop by Muhammad Radwan "
     quadeventvis: /static/img/g_exhibit_qua_atnvis_1.jpg
