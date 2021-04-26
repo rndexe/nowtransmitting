@@ -4,23 +4,24 @@ title: Contagion
 path: home
 ---
 
-<div id="main" class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
-
-  <h1>
-    Welcome to
-    <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
-      {{title}}
-    </strong>
-  </h1>
-
-
-  <p>
-<ul>
-{%- for post in collections.exhibit -%}
-<li><a href = {{post.url}}>{{ post.data.title }}</a></li>
-{%- endfor -%}
-</ul>
-
-  </p>
-
+<div class="content">
+  <div id="opening-frame" class="opening-frame-container">
+      <img src="/static/img/lp_assets/opening-frame.png" alt="" class="opening-frame">
+  </div>
+  <div class="main-content"> 
+     <div class="networktext" id="networktext"></div>
+     <canvas class="networkbg" id="canvas-1"></canvas>
+     <div class="mynetwork" id="mynetwork"></div>
+     <div class="overlay" id="overlay"></div>
+      <button id="infobutton" class="info">
+          <svg  xmlns="http://www.w3.org/2000/svg" style="width:30px; height:30px;" fill="none" viewBox="0 0 24 24" stroke="white">
+              <path id="buttonpath" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
+      </button>
+         <img id="legendcard" class="legend" src="/static/img/lp_assets/legend.svg" alt="">
+      
+  </div>
 </div>
+<script src="/static/js/bundle.js"></script>
+<script type="text/paperscript" canvas="canvas-1" src="/static/js/lp.js"></script>
+

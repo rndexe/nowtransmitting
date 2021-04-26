@@ -12,9 +12,22 @@
 		{% endif %}
 		{% block head %}{% endblock %}
 		<link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
+
+		<link rel="stylesheet" type="text/css" href="/static/css/landing-page.css">
+		<link rel="stylesheet" type="text/css" href="/static/css/myimage.css">
+		{% if prism == true %}
+		<link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
+		{% endif %}
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap" rel="stylesheet">
+		<script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+
 		<link rel="preconnect" href="https://fonts.gstatic.com">
 		<link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap" rel="stylesheet">
+
 	</head>
 
 	{{content | safe }}
