@@ -79,6 +79,20 @@ processimages:
 readinglist:
   - quadreadtxt: Laughter Makes Bad Jokes Funnier
     quadreadlink: https://www.smithsonianmag.com/smart-news/ha-ha-study-shows-laugh-tracks-make-dad-jokes-funnier-180972718/
+  - quadreadlink: https://aeon.co/essays/for-henri-bergson-laughter-is-what-keeps-us-elastic-and-free
+    quadreadtxt: "Laughter is Vital "
+  - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4779443/
+    quadreadtxt: "Putting Laughter in Context: Shared Laughter as Behavioral
+      Indicator of Relationship Well-Being"
+listeninglist:
+  - quadlistlink: https://www.wnycstudios.org/podcasts/radiolab/segments/91593-how-does-laughing-affect-us
+    quadlisttxt: How does Laughing Affect Us?
+  - quadlisttxt: "Podcast: Contagious Behaviour"
+watchinglist:
+  - quadwatchtxt: How Psychology Can Explain the Deadly Medieval Dancing Plague
+    quadwatchlink: https://www.youtube.com/watch?v=yHVTgZw7geY
+  - quadwatchlink: https://www.youtube.com/watch?v=ayYqRM_SdcA
+    quadwatchtxt: Can’t Live With Them, Can’t Live Without Them
 eventlist:
   - quadeventtxt: How Ideas and Behaviours Spread through a Crowd | Event by Daniel
       Richardson
