@@ -74,6 +74,7 @@ watchinglist:
 relatedlist:
   - quadrelatedtxt: 2020 Vision by Robert Good
     quadrelatedvis: /static/img/g_exhibit_qua_expvis_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
 exhibitembed1: https://deepfakelab.theglassroom.org/
 exhibitembed2: https://doublecheck.theglassroom.org/
 listeninglist:
@@ -91,6 +92,8 @@ play:
 eventlist:
   - quadeventtxt: "Information…It’s Complicated | Workshop by Muhammad Radwan "
     quadeventvis: /static/img/g_exhibit_qua_atnvis_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
   - quadeventtxt: "Keep Calm and Spot the Design Tricks | Workshop by Louise Hisayasu "
     quadeventvis: /static/img/g_exhibit_qua_atnvis_2.jpg
+    quadeventlink: https://www.eventbrite.com/e/keep-calm-and-spot-the-design-tricks-workshop-registration-148145012721
 ---
