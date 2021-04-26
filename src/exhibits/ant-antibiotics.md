@@ -119,10 +119,13 @@ tertxt: "Captive ant colony. Courtesy of Matt Hutchings. "
 readinglist:
   - quadreadlink: https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines-152647
     quadreadtxt: "Why Resistance is Common in Antibiotics, But Rare in Vaccines "
+    quadreadvis: /static/img/f_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://www.nationalgeographic.com/science/article/ants-evolution-corrie-moreau-women-in-biology
     quadreadtxt: Meet the Woman Making Ants the Next Big Thing in Biology
+    quadreadvis: /static/img/f_exhibit_qua_readvis_2.jpg
   - quadreadlink: https://science.thewire.in/health/antimicrobial-resistance-is-a-serious-threat-to-public-health-in-india/
     quadreadtxt: Antimicrobial Resistance is a Serious Threat to India
+    quadreadvis: /static/img/f_exhibit_qua_readvis_3.jpg
 listeninglist:
   - quadlisttxt: "What Research on Ants Can Teach Us About Ourselves "
     quadlistlink: https://www.findinggeniuspodcast.com/podcasts/ants-ants-and-more-ants-what-research-on-ants-can-teach-us-about-ourselves-and-our-future-as-a-species/
