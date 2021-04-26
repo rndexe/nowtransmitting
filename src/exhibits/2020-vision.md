@@ -65,9 +65,15 @@ watchinglist:
     quadwatchtxt: Breaking the News Cycle
 play: https://www.goviralgame.com/en/
 eventlist:
-  - quadeventtxt: Infodemics | Lecture by Sylvie Briand
+  - quadeventtxt: "2020 Vision: Making Sense of 24 x7 Online News  | Robert Good "
+    quadeventlink: https://www.eventbrite.com/e/2020-vision-making-sense-of-247-online-news-masterclass-registration-148202835671
+    quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: Information...It’s Complicated | Workshop by Muhammad Radwan
+    quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
 relatedlist:
   - quadrelatedtxt: "The Glass Room: Misinformation Edition | Exhibit by Tactical Tech "
+    quadrelatedvis: /static/img/B_EXHIBIT_QUA_EXP_VIS_1_.jpg
   - quadrelatedtxt: When the World Was A Laugh | Exhibit by Anais Tondeur
+    quadrelatedvis: /static/img/B_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
