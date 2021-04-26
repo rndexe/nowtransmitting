@@ -75,6 +75,7 @@ processimages:
     tertxt: "Investigation notes or sketch for a sound score. Courtesy of Anaïs
       Tondeur. "
   - tervis: /static/img/d_exhibit_ter_vis_10.jpg
+    tertxt: "Retracing the diffusion of a laugh. Courtesy of Anaïs Tondeur. "
 readinglist:
   - {}
 ---
