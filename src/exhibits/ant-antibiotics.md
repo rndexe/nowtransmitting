@@ -139,10 +139,13 @@ listeninglist:
 watchinglist:
   - quadwatchtxt: "Antimicrobial Resistance beyond COVID "
     quadwatchlink: https://lshtm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9b68d250-2c98-43f0-a642-ac3f0136480d
+    quadwatchvis: /static/img/f_exhibit_qua_watchvis_1.jpg
   - quadwatchtxt: "Inside the Ant Colony "
     quadwatchlink: https://www.youtube.com/watch?v=vG-QZOTc5_Q
+    quadwatchvis: /static/img/f_exhibit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=UONwJTYZqwc
     quadwatchtxt: "The Antibiotic Resistance Crisis: Basic Science to the Rescue"
+    quadwatchvis: /static/img/f_exhibit_qua_watchvis_3.jpg
 eventlist:
   - quadeventtxt: "Antimicrobial Resistance: the Pandemic in the Shadows | Lecture
       by Dr. Jyoti Joshi"
