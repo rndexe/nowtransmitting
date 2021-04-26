@@ -7,7 +7,7 @@ title: "Controlling the Plague in British India "
 subtitle: "A Visual History of the Plague "
 medium: Photographs
 year: 2013 – 2017
-description: >
+description: >-
   The third plague pandemic broke out in Yunnan, China in 1855 and swept across
   the globe until 1955, causing the death of approximately 12 million people.
   Apart from being the first bubonic plague epidemic to reach all continents, it
