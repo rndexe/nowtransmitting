@@ -70,7 +70,10 @@ processimages:
     tertxt: "Reference: Orogenesis in The photography of nature, Joan Foncuberta.
       Courtesy of Anaïs Tondeur. "
   - tervis: /static/img/d_exhibit_ter_vis_8.jpg
+    tertxt: "View from the studio. Courtesy of Anaïs Tondeur "
   - tervis: /static/img/d_exhibit_ter_vis_9.jpg
+    tertxt: "Investigation notes or sketch for a sound score. Courtesy of Anaïs
+      Tondeur. "
   - tervis: /static/img/d_exhibit_ter_vis_10.jpg
 readinglist:
   - {}
