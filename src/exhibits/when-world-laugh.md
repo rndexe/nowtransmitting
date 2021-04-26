@@ -67,6 +67,8 @@ processimages:
     tertxt: "Moving grains of soil under the vibrations of a laugh, #Expérimentation
       15. Courtesy of Anaïs Tondeur."
   - tervis: /static/img/d_exhibit_ter_vis_7.jpg
+    tertxt: "Reference: Orogenesis in The photography of nature, Joan Foncuberta.
+      Courtesy of Anaïs Tondeur. "
   - tervis: /static/img/d_exhibit_ter_vis_8.jpg
   - tervis: /static/img/d_exhibit_ter_vis_9.jpg
   - tervis: /static/img/d_exhibit_ter_vis_10.jpg
