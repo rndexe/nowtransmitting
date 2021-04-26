@@ -53,8 +53,10 @@ readinglist:
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
     quadlisttxt: "Disease Detectives: How to Track Epidemics"
+    quadlistvis: /static/img/h_exhibit_qua_listvis_1.jpg
   - quadlistlink: https://www.bbc.co.uk/sounds/play/p01dq5wx
     quadlisttxt: The Story of SARS
+    quadlistvis: /static/img/h_exhibit_qua_listvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=KKI1FulY1nE
     quadwatchtxt: "Contagious Cities: Blast Theory "
