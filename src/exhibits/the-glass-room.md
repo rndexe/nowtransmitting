@@ -64,10 +64,13 @@ readinglist:
 listeninglist:
   - quadlistlink: https://podcasts.apple.com/us/podcast/social-media-addiction/id1258539903?i=1000408978370
     quadlisttxt: "In Your Right Mind: Social Media Addiction "
+    quadlistvis: /static/img/g_exhibit_qua_listvis_1.jpg
   - quadlistlink: https://www.bbc.co.uk/sounds/play/w3csvtp8
     quadlisttxt: The History of Fake News
+    quadlistvis: /static/img/g_exhibit_qua_listvis_2.jpg
   - quadlistlink: https://www.npr.org/2020/06/02/868001948/trust-fall
     quadlisttxt: Trust Fall
+    quadlistvis: /static/img/g_exhibit_qua_listvis_3.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=hz6GULbowAk&ab_channel=TED-Ed
     quadwatchtxt: "Why People Fall for Misinformation "
