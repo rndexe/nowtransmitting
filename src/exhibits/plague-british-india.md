@@ -150,6 +150,7 @@ watchinglist:
   - quadwatchlink: https://www.museumoflondon.org.uk/museum-london/whats-on/exhibitions/disease-x
     quadwatchtxt: "Disease X: London’s Next Epidemic?"
     quadwatchvis: /static/img/A_EXHIBIT_QUA_WATCHVIS_1.jpg
+  - {}
 eventlist:
   - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
       Christos Lynteris "
