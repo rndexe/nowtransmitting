@@ -24,27 +24,22 @@ function loadJSON(callback) {
 function createPopup(title,subtitle,thumbnail,url){
     const popupcard = document.createElement('a')
     const popup = document.createElement("div")
-    popup.style = "width:500px; height:250px; border:2px solid #000; position:fixed; background-color:white; z-index:10000; top:40%; left:35%; display:flex; flex-direction:row;"
-    popup.className = "flex flex-row w-max h-46 rounded-lg p-0"
+    popup.style = "width:500px; height:250px; border:2px solid #000; border-radius:10px; position:fixed; background-color:white; z-index:10000; top:40%; left:35%; display:flex; flex-direction:row;"
+    popup.className = "flex flex-row w-max h-46 p-0"
     popup.id = "popup"
     popup.href = url;
     var image = document.createElement('img')
     image.src = thumbnail;
-    // image.style.position = 'absolute'
-    // image.style.height = '100%'
-    // image.style.opacity = '0.3'
-    image.style.width = '33%'
-    // image.style.margin = '0px'
-    // image.style.top = '0'
-    // image.style.left = '0'
-    image.className = "h-auto rounded-tl-md rounded-bl-md object-cover"
+    image.style = 'width:33%; border-top-left-radius:10px; border-bottom-left-radius:10px; object-fit: cover;'
+    
 
     // const overlay = document.createElement("div")
     // overlay.style = 'height:100%; z-index:99; width:100%; opacity:0.6; margin:0px; top:0; left:0; position:absolute; background-color:black;'
     // overlay.className = "m-3 w-auto flex flex-row"
 
     const text = document.createElement("div")
-    text.className = "w-2/3 ml-5 mt-3"
+    text.style = "margin-left:10px; margin-top:10px; width:auto;"
+    // text.className = "w-2/3 ml-5 mt-3"
 
     const titleText = document.createElement('p')
     const subtitleText = document.createElement('p')
@@ -62,8 +57,8 @@ function createPopup(title,subtitle,thumbnail,url){
     subtitleText.className = "w-full font-trade"
     subtitleText.innerText = subtitle;
 
-    click.style = "color:#2d2d2d; font-size:30px;"
-    click.className = "w-min ml-auto absolute bottom-0 right-5 font-trade"
+    click.style = "color:#2d2d2d; font-size:30px; width:min-content; margin-left:auto; position:absolute; bottom:5px;; right:10px;"
+    // click.className = "w-min ml-auto absolute bottom-0 right-5 font-trade"
     click.innerHTML = '&#8594;'
     popup.appendChild(image);
     //popup.appendChild(overlay);
