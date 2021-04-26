@@ -57,7 +57,6 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=Czg_9C7gw0o&pbjreload=101
   - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
     quadwatchtxt: Breaking the News Cycle
-play: https://www.goviralgame.com/en/
 eventlist:
   - quadeventtxt: Infodemics | Lecture by Sylvie Briand
   - quadeventtxt: Information...It’s Complicated | Workshop by Muhammad Radwan

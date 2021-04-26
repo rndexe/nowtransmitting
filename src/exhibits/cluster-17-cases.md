@@ -61,7 +61,6 @@ watchinglist:
     quadwatchtxt: SARS Online Animation
   - quadwatchlink: https://www.youtube.com/watch?v=Hy5gplP0JVw
     quadwatchtxt: "COVID-19 and SARS: How the World Battled a Deadly Respiratory Illness"
-play: https://www.theguardian.com/science/2015/oct/26/can-you-solve-it-how-many-will-the-zombie-outbreak-infect
 relatedlist:
   - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
   - quadrelatedtxt: "COVID-19 Indoor Safety Guidelines by Martin Bazant "

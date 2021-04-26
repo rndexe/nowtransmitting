@@ -64,7 +64,6 @@ watchinglist:
     quadwatchtxt: The Problem of Contagion
   - quadwatchtxt: When Emotions Are Contagious
     quadwatchlink: https://www.youtube.com/watch?v=VW1PH6B9p20
-play: https://ncase.me/crowds/
 eventlist:
   - {}
   - {}

@@ -76,7 +76,6 @@ listeninglist:
     quadlisttxt: The History of Fake News
   - quadlistlink: https://www.npr.org/2020/06/02/868001948/trust-fall
     quadlisttxt: Trust Fall
-play: https://www.goviralgame.com/en/
 eventlist:
   - quadeventtxt: "Information…It’s Complicated | Workshop by Muhammad Radwan "
   - quadeventtxt: "Keep Calm and Spot the Design Tricks | Workshop by Louise Hisayasu "
