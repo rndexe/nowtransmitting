@@ -70,7 +70,9 @@ play:
     quadplayvis: /static/img/B_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
   - quadeventtxt: Infodemics | Lecture by Sylvie Briand
+    quadeventlink: https://www.eventbrite.com/e/148308301121
   - quadeventtxt: Information...It’s Complicated | Workshop by Muhammad Radwan
+    quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
 relatedlist:
   - quadrelatedtxt: "The Glass Room: Misinformation Edition | Exhibit by Tactical Tech "
   - quadrelatedtxt: When the World Was A Laugh | Exhibit by Anais Tondeur
