@@ -98,6 +98,7 @@ listeninglist:
     quadlistvis: /static/img/D_EXHIBIT_LISTVIS_1.jpg
   - quadlisttxt: "Podcast: Contagious Behaviour"
     quadlistvis: /static/img/D_EXHIBIT_LISTVIS_2.jpg
+    quadlistlink: https://www.abc.net.au/radionational/programs/allinthemind/contagious-behaviour/12046090
 watchinglist:
   - quadwatchtxt: How Psychology Can Explain the Deadly Medieval Dancing Plague
     quadwatchlink: https://www.youtube.com/watch?v=yHVTgZw7geY
