@@ -129,7 +129,7 @@ exhibitimages:
       Studies Archive, University of Cambridge.
 authorimage: /static/img/A_EXHIBIT_SEC_VIS_1.jpg
 authorname: Christos Lynteris
-authorbio: >
+authorbio: >-
   Christos Lynteris is a medical anthropologist at the University of St Andrews.
   His research concerns the anthropological and historical examination of
   epidemics, zoonosis, epidemiological epistemology, medical visual culture,
