@@ -150,9 +150,11 @@ eventlist:
   - quadeventtxt: "Antimicrobial Resistance: the Pandemic in the Shadows | Lecture
       by Dr. Jyoti Joshi"
     quadeventlink: https://www.eventbrite.com/e/145225482327
+    quadeventvis: /static/img/f_exhibit_qua_atnvis_1.jpg
   - quadeventtxt: "Science, Innovation and Society: What have we learnt from the
       Covid-19 pandemic? | Lecture by Dr. Jeremy Farrar "
     quadeventlink: https://www.eventbrite.com/e/148321145539
+    quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedtxt: Moulding Modern Medicine
     quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
