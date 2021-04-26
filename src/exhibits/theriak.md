@@ -60,7 +60,11 @@ exhibitauthor:
 processimages:
   - tervis: /static/img/E_EXHIBIT_TER_VIS_1.jpg
     tertxt: "Disease Map installation. Courtesy of Sarah Craske. "
-  - {}
+  - tervis: /static/img/e_exhibit_ter_vis_3.jpg
+  - tervis: /static/img/e_exhibit_ter_vis_4.jpg
+  - tervis: /static/img/e_exhibit_ter_vis_5.jpg
+  - tervis: /static/img/e_exhibit_ter_vis_6.jpg
+  - tervis: /static/img/e_exhibit_ter_vis_7.jpg
 terpdf: //e.issuu.com/embed.html?d=2018theriak_biofactionresidencyreport_-_studio_sar&u=sciencegallerybengaluru
 terpdftxt: "THERIAK: An Artist in Residence in the Bioprocess Laboratory (BPL),
   ETH Zürich in Basel, Switzerland. Courtesy of Sarah Craske"
