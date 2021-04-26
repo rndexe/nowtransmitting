@@ -64,6 +64,7 @@ watchinglist:
     quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
     quadwatchtxt: Breaking the News Cycle
+    quadwatchvis: /static/img/b_exhibit_qua_watchvis_3.jpg
 play:
   - quadplaytxt: Go Viral
     quadplaylink: https://www.goviralgame.com/en/
