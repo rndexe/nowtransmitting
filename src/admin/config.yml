@@ -7,7 +7,7 @@ media_folder: "src/static/img"
 public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: true
+#local_backend: true
 publish_mode: editorial_workflow
 collections:
   - label: "Exhibits"
@@ -137,6 +137,7 @@ collections:
                 required: false  
               - label: "Play Link"
                 name: "play"
+                widget: "list"
                 fields:
                 - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
                 - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
@@ -304,6 +305,7 @@ collections:
                 required: false  
               - label: "Play Link"
                 name: "play"
+                widget: "list"
                 fields:
                 - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
                 - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
@@ -560,6 +562,7 @@ collections:
                 required: false  
               - label: "Play Link"
                 name: "play"
+                widget: "list"
                 fields:
                 - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
                 - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
@@ -647,6 +650,7 @@ collections:
                 required: false  
               - label: "Play Link"
                 name: "play"
+                widget: "list"
                 fields:
                 - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
                 - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
@@ -796,6 +800,7 @@ collections:
                 required: false  
               - label: "Play Link"
                 name: "play"
+                widget: "list"
                 fields:
                 - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
                 - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
@@ -959,6 +964,7 @@ collections:
                 required: false  
               - label: "Play Link"
                 name: "play"
+                widget: "list"
                 fields:
                 - { label: "Play Link", name: "quadplaylink", widget: "string", required: false }
                 - { label: "Play Link Text Caption", name: "quadplaytxt", widget: "string", required: false }
