@@ -107,7 +107,11 @@ watchinglist:
     quadwatchtxt: Mapping the Spread of Infectious Diseases
 eventlist:
   - quadeventtxt: "THERIAK: Behind the Scenes in a Lab | Workshop by Sarah Craske"
+    quadeventvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/theriak-behind-the-scenes-in-a-lab-workshop-registration-145820165039
   - quadeventtxt: After the End of Epidemics | Lecture by Dora Vargha
+    quadeventlink: https://www.eventbrite.com/e/145227026947
+    quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedlink: ""
     quadrelatedtxt: Mapping Cholera by Sonal Shah
