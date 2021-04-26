@@ -54,10 +54,13 @@ readinglist:
   - quadreadlink: https://science.thewire.in/the-sciences/misinformation-online-virality-liberals-conservatives-older-people-epidemiology/
     quadreadtxt: "Misinformation Spreads Like a Virus, Scientists Should Study It
       Like One  "
+    quadreadvis: /static/img/g_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://www.sciencefocus.com/future-technology/trapped-the-secret-ways-social-media-is-built-to-be-addictive-and-what-you-can-do-to-fight-back/
     quadreadtxt: "Trapped: The Secret Ways Social Media is Built to be Addictive "
+    quadreadvis: /static/img/g_exhibit_qua_readvis_2.jpg
   - quadreadlink: https://www.theguardian.com/technology/2019/aug/23/social-media-addiction-gambling
     quadreadtxt: "The Machine Always Wins: What Drives Our Addiction to Social Media"
+    quadreadvis: /static/img/g_exhibit_qua_readvis_3.jpg
 listeninglist:
   - quadlistlink: https://podcasts.apple.com/us/podcast/social-media-addiction/id1258539903?i=1000408978370
     quadlisttxt: "In Your Right Mind: Social Media Addiction "
