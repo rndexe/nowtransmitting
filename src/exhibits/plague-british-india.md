@@ -20,60 +20,6 @@ description: >
 
 
   The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/European Research Council grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo. 
-exhibitimages:
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_1.jpg
-    pritxt: “Barber at work in one of the camps”, 1897, Karachi Plague Committee
-      Album, Photograph probably by R. Jalbhoy, Wellcome Collection.
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_2-0.jpg
-    pritxt: "“Burning a badly infected quarter”, 1896-1898, Lieut-Colonel John Lloyd
-      Thomas Jones (Indian Medical Service) Collection: Album of miscellaneous
-      views including the Plague Hospital at Poona, 578/4 (61), The British
-      Library."
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_3-0.jpg
-    pritxt: "“Camp for householders from whose houses plague cases have been
-      removed”, 1896-1898, Lieut-Colonel John Lloyd Thomas Jones (Indian Medical
-      Service) Collection: Album of miscellaneous views including the Plague
-      Hospital at Poona, 578/4 (32), The British Library."
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_4.jpg
-    pritxt: “Disinfecting of Allahabad (Plague). T.W.A.F”, 1901/1902, Fullerton
-      Collection, Centre for South Asia Studies Archive, University of
-      Cambridge.
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_5.jpg
-    pritxt: “Disinfecting Trans-Lyari plague sufferers in wooden tubs”, 1897,
-      Karachi Plague Committee Album, Photograph probably by R. Jalbhoy,
-      Wellcome Collection.
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_6.jpg
-    pritxt: "“Flushing engine cleaning infected houses”, Moss, C., Captain, fl. ca.
-      1897. The Bombay plague epidemic of 1896-1897: work of the Bombay Plague
-      Committee. Photographs attributed to Capt. C. Moss, 1897, Wellcome
-      Collection."
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_7.jpg
-    pritxt: "“Lime-washers at work on a badly infected house”, Moss, C., Captain,
-      fl. ca. 1897. The Bombay plague epidemic of 1896-1897: work of the Bombay
-      Plague Committee. Photographs attributed to Capt. C. Moss, 1897, Wellcome
-      Collection."
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_8.jpg
-    pritxt: “Mekrani Segregation Camp”, 1897, Karachi Plague Committee Album,
-      Photograph probably by R. Jalbhoy, Wellcome Collection.
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_9.jpg
-    pritxt: “Persuading an objector to have his house disinfected. (Allahabad,
-      1901-02) T.W.A.F. partially hidden by Indian in the centre”, 1901/1902,
-      Fullerton Collection, Centre for South Asia Studies Archive, University of
-      Cambridge.
-  - privis: /static/img/A_EXHIBIT_PRI_VIS_10.jpg
-    pritxt: “Plague Camp”, 1901/1902, Fullerton Collection, Centre for South Asia
-      Studies Archive, University of Cambridge.
-readinglist:
-  - quadreadlink: https://www.theatlantic.com/international/archive/2021/02/where-are-iconic-images-covid-19-pandemic/618036/?utm_source=pocket-newtab-global-en-GB
-    quadreadtxt: Where are the iconic images of the COVID-19 pandemic?
-    quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_1.jpg
-  - quadreadtxt: Plague panic and epidemic politics in India, 1896–1914
-    quadreadlink: https://www.cambridge.org/core/books/epidemics-and-ideas/plague-panic-and-epidemic-politics-in-india-18961914/0C7AD36256D3711FF139E179A43E5E92
-    quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_2.jpg
-  - quadreadtxt: Photography and the Unseen
-    quadreadlink: https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/var.12174
-    quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_3.jpg
-author: Artist
 essay: >-
   The third plague pandemic lasted from c.1855 to 1959 and was the first time
   that bubonic plague reached all inhabited continents, establishing long-term
@@ -128,6 +74,49 @@ essay: >-
 
 
   Ira Klein, “Plague, Policy and Popular Unrest in British India,” Modern Asian Studies 22: 4 (1988): 723–55.
+exhibitimages:
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_1.jpg
+    pritxt: “Barber at work in one of the camps”, 1897, Karachi Plague Committee
+      Album, Photograph probably by R. Jalbhoy, Wellcome Collection.
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_2-0.jpg
+    pritxt: "“Burning a badly infected quarter”, 1896-1898, Lieut-Colonel John Lloyd
+      Thomas Jones (Indian Medical Service) Collection: Album of miscellaneous
+      views including the Plague Hospital at Poona, 578/4 (61), The British
+      Library."
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_3-0.jpg
+    pritxt: "“Camp for householders from whose houses plague cases have been
+      removed”, 1896-1898, Lieut-Colonel John Lloyd Thomas Jones (Indian Medical
+      Service) Collection: Album of miscellaneous views including the Plague
+      Hospital at Poona, 578/4 (32), The British Library."
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_4.jpg
+    pritxt: “Disinfecting of Allahabad (Plague). T.W.A.F”, 1901/1902, Fullerton
+      Collection, Centre for South Asia Studies Archive, University of
+      Cambridge.
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_5.jpg
+    pritxt: “Disinfecting Trans-Lyari plague sufferers in wooden tubs”, 1897,
+      Karachi Plague Committee Album, Photograph probably by R. Jalbhoy,
+      Wellcome Collection.
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_6.jpg
+    pritxt: "“Flushing engine cleaning infected houses”, Moss, C., Captain, fl. ca.
+      1897. The Bombay plague epidemic of 1896-1897: work of the Bombay Plague
+      Committee. Photographs attributed to Capt. C. Moss, 1897, Wellcome
+      Collection."
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_7.jpg
+    pritxt: "“Lime-washers at work on a badly infected house”, Moss, C., Captain,
+      fl. ca. 1897. The Bombay plague epidemic of 1896-1897: work of the Bombay
+      Plague Committee. Photographs attributed to Capt. C. Moss, 1897, Wellcome
+      Collection."
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_8.jpg
+    pritxt: “Mekrani Segregation Camp”, 1897, Karachi Plague Committee Album,
+      Photograph probably by R. Jalbhoy, Wellcome Collection.
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_9.jpg
+    pritxt: “Persuading an objector to have his house disinfected. (Allahabad,
+      1901-02) T.W.A.F. partially hidden by Indian in the centre”, 1901/1902,
+      Fullerton Collection, Centre for South Asia Studies Archive, University of
+      Cambridge.
+  - privis: /static/img/A_EXHIBIT_PRI_VIS_10.jpg
+    pritxt: “Plague Camp”, 1901/1902, Fullerton Collection, Centre for South Asia
+      Studies Archive, University of Cambridge.
 authorimage: /static/img/A_EXHIBIT_SEC_VIS_1.jpg
 authorname: Christos Lynteris
 authorbio: >
@@ -139,6 +128,16 @@ authorbio: >
 
 
   Funded by the Wellcome Trust with an Investigator Award in the Humanities and Social Sciences, Christos’s new project, The Global War Against the Rat and the Epistemic Emergence of Zoonosis (2019-2024), will examine the global history of a foundational but historically neglected process in the development of scientific approaches to zoonosis: the global war against the rat (1898-1948). 
+readinglist:
+  - quadreadlink: https://www.theatlantic.com/international/archive/2021/02/where-are-iconic-images-covid-19-pandemic/618036/?utm_source=pocket-newtab-global-en-GB
+    quadreadtxt: Where are the iconic images of the COVID-19 pandemic?
+    quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_1.jpg
+  - quadreadtxt: Plague panic and epidemic politics in India, 1896–1914
+    quadreadlink: https://www.cambridge.org/core/books/epidemics-and-ideas/plague-panic-and-epidemic-politics-in-india-18961914/0C7AD36256D3711FF139E179A43E5E92
+    quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_2.jpg
+  - quadreadtxt: Photography and the Unseen
+    quadreadlink: https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/var.12174
+    quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://soundcloud.com/user-37146541-886167096/christos-lynteris-march-2018
     quadlisttxt: Visual Representations of the Third Plague Pandemic
@@ -153,6 +152,12 @@ watchinglist:
   - quadwatchtxt: Politics and Aesthetics of a Post-Pandemic Condition
     quadwatchlink: https://www.youtube.com/watch?v=aPowJrioMAc&ab_channel=CEFCHongKong
     quadwatchvis: /static/img/A_EXHIBIT_QUA_WATCHVIS_2.jpg
+relatedlist:
+  - quadrelatedtxt: "Drawing the Bombay Plague - Ranjit Kandalgaonkar "
+    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
+  - quadrelatedtxt: "Contagion in the 21st Century | Esther Maria Antao "
+    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
+author: Artist
 eventlist:
   - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
       Christos Lynteris "
