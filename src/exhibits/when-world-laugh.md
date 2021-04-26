@@ -79,11 +79,14 @@ processimages:
 readinglist:
   - quadreadtxt: Laughter Makes Bad Jokes Funnier
     quadreadlink: https://www.smithsonianmag.com/smart-news/ha-ha-study-shows-laugh-tracks-make-dad-jokes-funnier-180972718/
+    quadreadvis: /static/img/D_EXHIBIT_READVIS_1.jpg
   - quadreadlink: https://aeon.co/essays/for-henri-bergson-laughter-is-what-keeps-us-elastic-and-free
     quadreadtxt: "Laughter is Vital "
+    quadreadvis: /static/img/D_EXHIBIT_READVIS_2.jpg
   - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4779443/
     quadreadtxt: "Putting Laughter in Context: Shared Laughter as Behavioral
       Indicator of Relationship Well-Being"
+    quadreadvis: /static/img/D_EXHIBIT_READ_VIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.wnycstudios.org/podcasts/radiolab/segments/91593-how-does-laughing-affect-us
     quadlisttxt: How does Laughing Affect Us?
