@@ -61,10 +61,20 @@ processimages:
   - tervis: /static/img/E_EXHIBIT_TER_VIS_1.jpg
     tertxt: "Disease Map installation. Courtesy of Sarah Craske. "
   - tervis: /static/img/e_exhibit_ter_vis_3.jpg
+    tertxt: "Dr Steven Schmidt teaching Sarah how to prepare for the MIC Assay,
+      which tested the efficacy of her peptides against vibrio cholerae and
+      e-coli. Courtesy of Sarah Craske. "
   - tervis: /static/img/e_exhibit_ter_vis_4.jpg
+    tertxt: "BioSafety Level 2 Lab at the D-BSSE, ETH Zurich. Courtesy of Sarah
+      Craske. "
   - tervis: /static/img/e_exhibit_ter_vis_5.jpg
+    tertxt: Testing the engraving on different plastics prior to making the final
+      Petri dish. Courtesy of Sarah Craske.
   - tervis: /static/img/e_exhibit_ter_vis_6.jpg
+    tertxt: "Vibrio cholerae was painted onto the surface of the agar plate, which
+      included resazurin and garlic extract. Courtesy of Sarah Craske. "
   - tervis: /static/img/e_exhibit_ter_vis_7.jpg
+    tertxt: ""
 terpdf: //e.issuu.com/embed.html?d=2018theriak_biofactionresidencyreport_-_studio_sar&u=sciencegallerybengaluru
 terpdftxt: "THERIAK: An Artist in Residence in the Bioprocess Laboratory (BPL),
   ETH Zürich in Basel, Switzerland. Courtesy of Sarah Craske"
