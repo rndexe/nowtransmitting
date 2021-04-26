@@ -74,7 +74,7 @@ readinglist:
     quadreadlink: https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/var.12174
     quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_3.jpg
 author: Artist
-essay: >
+essay: >-
   The third plague pandemic lasted from c.1855 to 1959 and was the first time
   that bubonic plague reached all inhabited continents, establishing long-term
   endemic foci in Sub-Saharan Africa, North and South America. The pandemic
@@ -150,11 +150,15 @@ watchinglist:
   - quadwatchlink: https://www.museumoflondon.org.uk/museum-london/whats-on/exhibitions/disease-x
     quadwatchtxt: "Disease X: London’s Next Epidemic?"
     quadwatchvis: /static/img/A_EXHIBIT_QUA_WATCHVIS_1.jpg
-  - {}
+  - quadwatchtxt: Politics and Aesthetics of a Post-Pandemic Condition
+    quadwatchlink: https://www.youtube.com/watch?v=aPowJrioMAc&ab_channel=CEFCHongKong
+    quadwatchvis: /static/img/A_EXHIBIT_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
       Christos Lynteris "
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/145228050007
   - quadeventtxt: Age of Pandemics | Lecture by Chinmay Tumbe
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadeventlink: https://www.eventbrite.com/e/148314096455
 ---
