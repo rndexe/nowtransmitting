@@ -109,6 +109,8 @@ watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=hhlHx5ivGGk&t=39s
     quadwatchtxt: Making A Chimp Laugh
     quadwatchvis: /static/img/D_EXHIBIT_WATCHVIS_3.jpg
+play:
+  - quadplaylink: ""
 eventlist:
   - quadeventtxt: How Ideas and Behaviours Spread through a Crowd | Event by Daniel
       Richardson
