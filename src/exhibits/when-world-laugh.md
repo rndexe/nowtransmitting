@@ -21,6 +21,11 @@ description: >-
 
   and colours. Inspired by the role of laughter in myths around the origin of the universe, this exhibit invites us to share a laugh at a time when the global pandemic has disrupted our ways of connecting and being together. 
 privis: https://player.vimeo.com/video/538982297
+pritxt: This video draws us into a dark chamber. In this installation space, the
+  vibrations of laughs recorded around the world are giving birth to miniature
+  landscapes. Every week of the exhibition, a new video reveals the mutation of
+  this world shaping under the oscillations of a sound piece created from our
+  investigation on the traces of the most contagious laugh.
 exhibitimages: []
 exhibitaudios: []
 exhibitauthor:
