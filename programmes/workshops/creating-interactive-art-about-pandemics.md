@@ -1,5 +1,6 @@
 ---
-title: "Creating Interactive Art About Pandemics "
+title: "Creating Interactive Art About Pandemics | Masterclass "
+thumb: ""
 date: 2021-05-09T08:30:00.000Z
 description: >-
   In 2018 Blast Theory were the first artists-in-residence at the World Health
@@ -25,4 +26,5 @@ expertbio: Matt Adams cofounded Blast Theory, an artists’ group making
   Sundance Film Festival, and at Tate Britain. Commissioners include Channel 4,
   the BBC, and the Royal Opera House. The group has been nominated for four
   BAFTAs and has won the Golden Nica at Prix Ars Electronica.
+expertpic: /static/img/a_wk_sec_vis_1.jpg
 ---
