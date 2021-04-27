@@ -73,9 +73,14 @@ watchinglist:
   - quadwatchtxt: When Emotions Are Contagious
     quadwatchlink: https://www.youtube.com/watch?v=VW1PH6B9p20
     quadwatchvis: /static/img/L_EXHIBIT_QUA_WATCHVIS_2.jpg
+play:
+  - quadplaytxt: The Wisdom and/or Madness of Crowds
+    quadplaylink: https://ncase.me/crowds/
+    quadplayvis: /static/img/L_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
-  - {}
-  - {}
+  - quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_1.jpg
+  - quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: "When the World Was A Laugh by Anais Tondeur "
+    quadrelatedvis: /static/img/L_EXHIBIT_QUA_EXPTVIS_1.jpg
 ---
