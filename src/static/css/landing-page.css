@@ -90,7 +90,6 @@ body, html{
 
 .blur {
     backdrop-filter: blur(5px);
-    -webkit-filter: blur(5px);
 }
 
 .opening-frame-container{

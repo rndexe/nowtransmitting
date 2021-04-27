@@ -147,8 +147,6 @@ loadJSON(function(json) {
     // nodes.update({ id: 21, shape:"circle", group: 2,x:0,y:550, title:(createPopup(json[13].title,json[13].subtitle,json[13].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/14.png",*/ label: "  " /*label: "Alexander Fleming"*/},)
     // nodes.update({ id: 22, shape:"circle", group: 2,x:0,y:780, title:(createPopup(json[14].title,json[14].subtitle,json[14].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/1.png", */ label: "  " /*label: "Controlling the Plague in British India"*/},)
     // nodes.update({ id: 23, shape:"circle", group: 3, x:840,y:700,title:(createPopup(json[15].title,json[15].subtitle,json[15].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/6.png", */ label: "  " /*label: "Ants and Antimicrobial Resistance"*/},)
-    json.splice(11,1)
-    console.log(json)
     network.addEventListener("click",function (params){
        exhibitcards.innerHTML = "";
        document.getElementById("networktext").className = "networktext"
@@ -360,15 +358,19 @@ function metaball(ball1, ball2, v, handle_len_rate, maxDistance) {
 var handle_len_rate = 2.4;
 var circlePaths = [];
 var radius = 50;
-
+var metaballlength = 150
 var connections = new Group();
+
+if(window.outerWidth < window.outerHeight){
+    metaballlength = 50;
+}
 
 function generateConnections(paths) {
     // Remove the last connection paths:
     connections.children = [];
     for (var i = 0, l = paths.length; i < l; i++) {
         for (var j = i - 1; j >= 0; j--) {
-            var path = metaball(paths[i], paths[j], 0.5, handle_len_rate, 150);
+            var path = metaball(paths[i], paths[j], 0.5, handle_len_rate, metaballlength);
             if (path) {
                 connections.appendTop(path);
                 path.removeOnMove();
@@ -789,6 +791,12 @@ network.on("blurNode", function (params) {
 // });
 
 
+var blobRadius = 40;
+var offset = 10;
+if(window.outerWidth < window.outerHeight){
+    blobRadius = 15;
+    offset = 5;
+}
 
 function updater(){
     project.clear()
@@ -805,17 +813,16 @@ function updater(){
         })
 
         var arr = []
-        arr.push(corner.x+10)
-        arr.push(corner.y+10)
+        arr.push(corner.x+offset)
+        arr.push(corner.y+offset)
         ballPositions.push(arr)
     }
     
     var circlePaths = [];
-    var radius = 50;
     for (var i = 0, l = ballPositions.length; i < l; i++) {
         var circlePath = new Path.Circle({
             center: ballPositions[i],
-            radius: 40
+            radius: blobRadius,
         });
         circlePaths.push(circlePath);
     }
@@ -827,7 +834,7 @@ function updater(){
 
         for (var i = 0, l = paths.length; i < l; i++) {
             for (var j = i - 1; j >= 0; j--) {
-                var path = metaball(paths[i], paths[j], 0.5, handle_len_rate, 150);
+                var path = metaball(paths[i], paths[j], 0.5, handle_len_rate, metaballlength);
                 if (path){
                     connections.appendTop(path);
                     path.removeOnMove();
