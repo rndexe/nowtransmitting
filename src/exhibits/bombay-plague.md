@@ -22,17 +22,18 @@ description: >-
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
 authorname: Ranjit Kandalgaonkar
 authorbio: >-
-  Ranjit Kandalgaonkar lives and works in Mumbai, and his art practice primarily
+  Ranjit Kandalgaonkar lives and works in Mumbai,and his art practice primarily
   comprises a lens directed at the urban context of cities. Projects such as
   cityinflux, Gentricity, build/browse and Stories of Philanthropic Trusts map
   vulnerability within redevelopment strategies of urbanisation, record
-  anomalous histories, or document timelines and “blindspots”—alternate markers
-  of a city that’s unraveling. A study of the combative histories of reclamation
-  and speculation has led to projects such as Isles amidst reclamation and Seven
-  Isles Unclaimed, which map ever-diminishing geographies. 
+  anomalous histories, or document timelines  and “blindspots”— alternate
+  markers of a city that’s unraveling. Modelled Recycled Systems is a
+  long-term  project on shipping infrastructures of the late 20th century.
+  Projects such as Isles amidst reclamation and Seven Isles Unclaimedmap
+  ever-diminishing geographies due to reclamation. 
 
 
-  Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, and the Seed Funding Award-Wellcome Trust. 
+  Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, the Wellcome Trust Seed Funding Award and the Gasworks Artist Residency.
 tervis: https://player.vimeo.com/video/537285108
 tertxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar. Courtesy of the
   Wellcome Collection. "
