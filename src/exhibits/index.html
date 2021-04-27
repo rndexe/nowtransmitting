@@ -8,7 +8,9 @@ layout : default
 	<div class="w-4/12 h-auto">
 		<a href= {{post.url}}>
 			<div class="flex">
+				{% if post.data.thumb %}
 				<img class="w-1/2 h-full" src={{post.data.thumb}}>
+				{% endif %}
 				<div class="w-1/2 flex-none">
 					<div>{{post.data.title}}</div>
 					<div>{{post.data.subtitle}}</div>
