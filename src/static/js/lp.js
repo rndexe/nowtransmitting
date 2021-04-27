@@ -20,6 +20,10 @@ function loadJSON(callback) {
 //    </div>
 //</div>
 
+document.getElementById('mediator').addEventListener("click",()=>{
+    window.open("https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile")
+})
+
 
 function createPopup(title,subtitle,thumbnail,url){
     const popupcard = document.createElement('a')
@@ -156,9 +160,6 @@ loadJSON(function(json) {
        console.log(n);
        //Once programmes are added, check for 8 < n < 23 here and check for n > 23 again for programmes
        if(n!=undefined){
-            if(n==50){
-                window.open("https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile")
-            }
             if(n>23){
                 var d = new Date()
                 if(d <= new Date('2021-5-2')){
@@ -166,7 +167,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Contemporary Face of Epidemics and Pandemics: Dealing With the Infodemic by Sylvie Briand",
                             "Lecture",
-                            "static/img/SGLogo_Black_Transparent.png",
+                            "static/img/lp_assets/programme3.jpg",
                             "May 2, 2021",
                             "6:30 pm",
                             "https://www.eventbrite.com/e/dealing-with-the-infodemic-lecture-registration-148308301121?aff=ebdsoporgprofile"
@@ -181,7 +182,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Why and How Should We Model Infectious Diseases? by Gautam Menon",
                             "Lecture",
-                            "static/img/SGLogo_Black_Transparent.png",
+                            "static/img/lp_assets/programme4.jpg",
                             "May 1,2021",
                             "6:30 pm",
                             "https://www.eventbrite.com/e/why-and-how-should-we-model-infectious-diseases-lecture-tutorial-registration-145213889653?aff=ebdsoporgprofile"
@@ -196,7 +197,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Where Birds Dance Their Last | Discussion by Lena Bui and Fredric Keck",
                             "Film Screenings and Discussions",
-                            "static/img/SGLogo_Black_Transparent.png",
+                            "static/img/lp_assets/programme5.jpg",
                             "May 2, 2021",
                             "5:00 pm",
                             "https://www.eventbrite.com/e/where-birds-dance-their-last-film-screening-discussion-registration-145820558215?aff=ebdsoporgprofile"
@@ -211,7 +212,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Control, Consensus, Chaos: The Global Response to the Pandemic by Sheila Jasanoff",
                             "Lecture",
-                            "static/img/SGLogo_Black_Transparent.png",
+                            "static/img/lp_assets/programme2.jpg",
                             "April 30, 2021",
                             "6:30 pm",
                             "https://www.eventbrite.com/e/contagion-opening-event-lecture-by-sheila-jasanoff-registration-148321719255"
@@ -226,7 +227,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Antimicrobial Resistance: The Pandemic in the Shadows by Jyoti Joshi",
                             "Lecture",
-                            "static/img/SGLogo_Black_Transparent.png",
+                            "static/img/lp_assets/programme1.jpg",
                             "May 7, 2021",
                             "6:30 pm",
                             "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
@@ -400,8 +401,6 @@ var nodes = new vis.DataSet([
     { id: 21, shape:"circle", opacity:0.9, group: 1,x:0,y:550, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/14.png",*/ label: "  " /*label: "Alexander Fleming"*/},
     { id: 22, shape:"circle", opacity:0.9, group: 4,x:0,y:780, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/1.png", */ label: "  " /*label: "Controlling the Plague in British India"*/},
     { id: 23, shape:"circle", opacity:0.9, group: 2, x:1680,y:700, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/6.png", */ label: "  " /*label: "Ants and Antimicrobial Resistance"*/},
-
-    { id: 50, fixed:true, shape:"circle", group: 2, x:1880,y:1400, borderWidth: 0,  font: { mono:true, size: 30, color:"#000" }, color: {border: "#fff", background: "#fff", hover: { background: "#fff",}, highlight: { background: "#fff", }}, hidden:false, size:100, padding:20,  label: "Click here for our\n mediator sessions to \nbest engage and interact \nwith CONTAGION" },
 
     { id: 1, x:800,y:600, fixed:true, shape:"image", image: DIR + 'mapping.svg',       size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Mapping" */},
     { id: 2, x:800,y:600, fixed:true, shape:"image", image: DIR + 'documenting.svg',   size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Documenting"*/},
