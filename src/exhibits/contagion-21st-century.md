@@ -28,6 +28,11 @@ exhibitimages1:
       the most probable sea routes by which cholera was likely to be transmitted
       to Europe.
     privis: /static/img/O_EXHIBIT_PRI_VIS_8.jpg
+layout: contagion-21st-century
+thumb: /static/img/O_Exhibit_Thumbnail.jpg
+title: Contagion in the 21st Century
+subtitle: Tracing the movement of microbes over the years
+medium: Text, Images, and Simulation
 exhibitimages2:
   - pritxt: "Right from the beginning of the COVID-19- pandemic, the Robert Koch
       Institute has pursued the strategy: Containment, Protection and
@@ -43,12 +48,7 @@ exhibitimages2:
       on a regular basis.
     privis: /static/img/O_EXHIBIT_PRI_VIS_13.jpg
 quadreadvis: ""
-layout: contagion-21st-century
 authortype: Team
-thumb: /static/img/O_Exhibit_Thumbnail.jpg
-title: Contagion in the 21st Century
-subtitle: Tracing the movement of microbes over the years
-medium: Text, Images, and Simulation
 year: "2019"
 description: >-
   The science and public health engineering behind controlling past epidemics
@@ -136,6 +136,7 @@ exhibitvideos:
       Europe. Courtesy of Prof. Dirk Brockmann. "
     privis: https://player.vimeo.com/video/537596118
 authorimage: /static/img/O_EXHIBIT_SEC_VIS_1.jpg
+authorname: Dr. Esther-Maria Antao
 authorbio: >
   Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute and is in
   charge of the advancement of the Museum in accordance with ongoing
@@ -145,13 +146,27 @@ authorbio: >
   communication and social media. She has a doctorate in
 
   microbiology and has focused strongly on antimicrobial resistance (AMR) communication in the recent past. She currently focuses on COVID-19 communication and will go back to focusing on AMR communication when the pandemic is over.
-eventlist:
-  - quadeventtxt: Robert Koch Institute Museum Walkthrough | Event
-  - quadeventtxt: Science and Seeing | Lecture by Dr. David Arnold
+readinglist:
+  - quadreadlink: https://www.historians.org/publications-and-directories/perspectives-on-history/october-2020/fearing-a-fear-of-germs-how-did-the-surgical-mask-transform-from-a-sign-of-bigotry-to-a-sign-of-care
+    quadreadtxt: Fearing a Fear of Germs
+    quadreadvis: /static/img/O_EXHIBIT_QUA_READVIS_1.jpg
+  - quadreadtxt: What The Archaeological Record Reveals About Epidemics Throughout
+      History – And The Human Response To Them
+    quadreadlink: https://theconversation.com/what-the-archaeological-record-reveals-about-epidemics-throughout-history-and-the-human-response-to-them-138408
+    quadreadvis: /static/img/O_EXHIBIT_QUA_READVIS_2.jpg
+  - quadreadtxt: How Humans Have Reacted To Pandemics Through History – A Visual Guide
+    quadreadlink: https://www.theguardian.com/society/ng-interactive/2020/apr/29/how-humans-have-reacted-to-pandemics-through-history-a-visual-guide
+    quadreadvis: /static/img/O_EXHIBIT_QUA_READVIS_3.jpg
 relatedlist:
   - quadrelatedtxt: Drawing the Bombay Plague by Ranjit Kandalgaonkar
+    quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_1.jpg
   - quadrelatedtxt: Penning Fleming’s Discovery
+    quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
 quadreadtxt: Fearing a Fear of Germs
-authorname: Dr. Esther-Maria Antao
 quadreadlink: https://www.historians.org/publications-and-directories/perspectives-on-history/october-2020/fearing-a-fear-of-germs-how-did-the-surgical-mask-transform-from-a-sign-of-bigotry-to-a-sign-of-care
+eventlist:
+  - quadeventtxt: Robert Koch Institute Museum Walkthrough | Event
+    quadeventvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
+  - quadeventtxt: Science and Seeing | Lecture by Dr. David Arnold
+    quadeventvis: /static/img/O_EXHIBIT_QUA_ATNVIS_2.jpg
 ---
