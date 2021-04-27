@@ -79,8 +79,14 @@ play:
     quadplayvis: /static/img/L_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
   - quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533
+    quadeventtxt: The Shape of a Laugh
   - quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event by Prof.
+      Daniel Richardson
+    quadeventlink: https://www.eventbrite.com/e/how-ideas-and-behaviours-spread-through-a-crowd-event-registration-145820000547
 relatedlist:
   - quadrelatedtxt: "When the World Was A Laugh by Anais Tondeur "
     quadrelatedvis: /static/img/L_EXHIBIT_QUA_EXPTVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
 ---
