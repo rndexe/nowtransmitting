@@ -4,7 +4,7 @@ authortype: Artist
 thumb: /static/img/L_Exhibit_Thumbnail.jpg
 title: The Chameleon Project
 subtitle: "(R)emote: Spreading your feelings"
-medium: Text, images, videos
+medium: Text, Images, Videos
 year: "2010"
 description: >-
   In daily encounters, people automatically and continuously synchronize with
