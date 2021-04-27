@@ -24,7 +24,7 @@ function loadJSON(callback) {
 function createPopup(title,subtitle,thumbnail,url){
     const popupcard = document.createElement('a')
     const popup = document.createElement("div")
-    popup.style = "width:500px; height:250px; border:2px solid #000; border-radius:10px; position:fixed; background-color:white; z-index:10000; top:40%; left:35%; display:flex; flex-direction:row;"
+    popup.style = "width:500px; height:150px; border-radius:10px; position:fixed; background-color:white; z-index:10000; top:40%; left:35%; display:flex; flex-direction:row;"
     popup.className = "flex flex-row w-max h-46 p-0"
     popup.id = "popup"
     popup.href = url;
@@ -49,11 +49,11 @@ function createPopup(title,subtitle,thumbnail,url){
     text.appendChild(subtitleText);
     text.appendChild(click);
 
-    titleText.style = "color:#2d2d2d; z-index:100; overflow-wrap: break-word; font-size:30px; font-weight:bold;"
+    titleText.style = "color:#2d2d2d; z-index:100; overflow-wrap: break-word; font-size:20px; font-weight:bold;"
     titleText.className = "w-full font-trade"
     titleText.innerText = title;
 
-    subtitleText.style = "color:#2d2d2d; z-index:101; overflow-wrap: break-word;  font-size:20px;"
+    subtitleText.style = "color:#2d2d2d; z-index:101; overflow-wrap: break-word;  font-size:15px;"
     subtitleText.className = "w-full font-trade"
     subtitleText.innerText = subtitle;
 
@@ -258,10 +258,11 @@ var nodes = new vis.DataSet([
     { id: 22, shape:"circle", group: 4,x:0,y:780, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/1.png", */ label: "  " /*label: "Controlling the Plague in British India"*/},
     { id: 23, shape:"circle", group: 2, x:1680,y:700, borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/6.png", */ label: "  " /*label: "Ants and Antimicrobial Resistance"*/},
 
-    { id: 1, x:800,y:800, fixed:true, shape:"image", image: DIR + 'mapping.svg',       size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Mapping" */},
-    { id: 2, x:800,y:800, fixed:true, shape:"image", image: DIR + 'documenting.svg',   size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Documenting"*/},
-    { id: 3, x:800,y:800, fixed:true, shape:"image", image: DIR + 'experimenting.svg', size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Experimenting"*/},
-    { id: 4, x:800,y:800, fixed:true, shape:"image", image: DIR + 'narrating.svg',     size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Narrating"*/},
+
+    { id: 1, x:800,y:600, fixed:true, shape:"image", image: DIR + 'mapping.svg',       size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Mapping" */},
+    { id: 2, x:800,y:600, fixed:true, shape:"image", image: DIR + 'documenting.svg',   size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Documenting"*/},
+    { id: 3, x:800,y:600, fixed:true, shape:"image", image: DIR + 'experimenting.svg', size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Experimenting"*/},
+    { id: 4, x:800,y:600, fixed:true, shape:"image", image: DIR + 'narrating.svg',     size:60, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Narrating"*/},
 ]);
 
 var opac = 0;
