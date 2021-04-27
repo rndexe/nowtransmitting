@@ -1,5 +1,6 @@
 ---
 title: Why And How Should We Model Infectious Diseases?
+thumb: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
 date: 2021-05-01T13:00:00.000Z
 description: >
   Pandemics of infectious disease conjure up images of crowded hospitals,
