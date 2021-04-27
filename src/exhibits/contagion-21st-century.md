@@ -169,6 +169,8 @@ quadreadlink: https://www.historians.org/publications-and-directories/perspectiv
 eventlist:
   - quadeventtxt: Robert Koch Institute Museum Walkthrough | Event
     quadeventvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/walkthrough-of-the-museum-at-robert-koch-institute-event-registration-148309895891
   - quadeventtxt: Science and Seeing | Lecture by Dr. David Arnold
     quadeventvis: /static/img/O_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadeventlink: https://www.eventbrite.com/e/145397629223
 ---
