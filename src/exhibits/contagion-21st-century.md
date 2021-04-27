@@ -160,8 +160,10 @@ readinglist:
 relatedlist:
   - quadrelatedtxt: Drawing the Bombay Plague by Ranjit Kandalgaonkar
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_1.jpg
-  - quadrelatedtxt: Penning Fleming’s Discovery
+    quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
+  - quadrelatedtxt: Moulding Modern Medicine
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
 quadreadtxt: Fearing a Fear of Germs
 quadreadlink: https://www.historians.org/publications-and-directories/perspectives-on-history/october-2020/fearing-a-fear-of-germs-how-did-the-surgical-mask-transform-from-a-sign-of-bigotry-to-a-sign-of-care
 eventlist:
