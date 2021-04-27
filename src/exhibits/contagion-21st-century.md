@@ -111,23 +111,40 @@ exhibitimages:
       Museum on the ground floor of the house in the street named after him:
       Ulica Roberta Kocha."
     privis: /static/img/O_EXHIBIT_PRI_VIS_1.jpg
+  - pritxt: Robert Koch’s drawing of an anthrax pathogen, 1876.
+  - pritxt: "Microscopic image of an anthrax pathogen by RobertKoch, undated. "
+  - pritxt: Aetiology of Tuberculosis, 1882. In this manuscript Robert Koch first
+      describes the tuberculosis pathogen. The discovery made him famous
+      overnight.
+  - pritxt: Tuberculin bottles, 1896. Three bottles for use in the lab with labels
+      hand-written by Robert Koch.
+  - pritxt: "Wall chart “How tuberculosis is transmitted”, 1920s Deutsches
+      Hygiene-Museum / Production of teaching materials. Photo: Volker Kreidler.
+      Mid-19th century advances in science generated campaigns to inform the
+      population how to protect themselves against infection."
+  - pritxt: Robert Koch was the first to provide bacteriological proof that
+      locally-occurring cholera outbreaks were caused by poor water quality.
+  - pritxt: Sea routes of Cholera transmission. In 1883, Robert Koch sketched out
+      the most probable sea routes by which cholera was likely to be transmitted
+      to Europe.
 exhibitvideos:
-  - pritxt: "Worldwide air traffic. Mobility promotes the spread of infectious
-      diseases. Courtesy of Prof. Dirk Brockmann. "
+  - pritxt: Worldwide air traffic. Mobility promotes the spread of infectious
+      diseases. Courtesy of Prof. Dirk Brockmann.
     privis: https://player.vimeo.com/video/537577400
-  - pritxt: Illustration of the possible spread of Ebola virus disease through
+  - pritxt: "Illustration of the possible spread of Ebola virus disease through
       airports. This map shows how Ebola could have spread from West Africa to
-      Europe. Courtesy of Prof. Dirk Brockmann.
+      Europe. Courtesy of Prof. Dirk Brockmann. "
     privis: https://player.vimeo.com/video/537596118
 authorimage: /static/img/O_EXHIBIT_SEC_VIS_1.jpg
-authorbio: Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute
-  and is in charge of the advancement of the Museum in accordance with ongoing
+authorbio: >
+  Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute and is in
+  charge of the advancement of the Museum in accordance with ongoing
   developments of the Institute. She communicates with the general and expert
   public through guided museum tours offered to visitor groups. As part of the
   project group, Science Communication, she is responsible for visual
-  communication and graphic design, as well as its social media presence and
-  that of the Museum. She has a doctorate in microbiology and has focused
-  strongly on antibiotic resistance communication in the recent past.
+  communication and social media. She has a doctorate in
+
+  microbiology and has focused strongly on antimicrobial resistance (AMR) communication in the recent past. She currently focuses on COVID-19 communication and will go back to focusing on AMR communication when the pandemic is over.
 eventlist:
   - quadeventtxt: Robert Koch Institute Museum Walkthrough | Event
   - quadeventtxt: Science and Seeing | Lecture by Dr. David Arnold
