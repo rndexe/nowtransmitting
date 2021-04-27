@@ -84,17 +84,23 @@ readinglist:
 listeninglist:
   - quadlistlink: https://podcasts.ox.ac.uk/fight-resistance
     quadlisttxt: Fight the Resistance
+    quadlistvis: /static/img/N_EXHIBIT_QUA_LISTVIS_1.jpg
   - quadlisttxt: "Antibiotics: We Owe It All to Chemistry"
     quadlistlink: https://open.spotify.com/episode/3YKZBv7cqaxnQrQx5y2EJq
+    quadlistvis: /static/img/N_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=q2yd3lGN7xA
     quadwatchtxt: How Penicillin Changed the World
+    quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=etg9tFv-P6Q
     quadwatchtxt: Why Bacteria Out-Evolve Us with Antibiotic Resistance
+    quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=ZvhFeGEDFC8
     quadwatchtxt: How Can We Solve the Antibiotic Resistance Crisis
+    quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_3.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=yybsSqcB7mE
     quadwatchtxt: Watch Antibiotic Resistance Evolve
+    quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_4.jpg
 eventlist:
   - quadeventtxt: "Antimicrobial Resistance: The Pandemic in the Shadows | Lecture
       by Dr. Jyoti Joshi"
