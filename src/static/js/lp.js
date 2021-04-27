@@ -147,7 +147,8 @@ loadJSON(function(json) {
     // nodes.update({ id: 21, shape:"circle", group: 2,x:0,y:550, title:(createPopup(json[13].title,json[13].subtitle,json[13].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/14.png",*/ label: "  " /*label: "Alexander Fleming"*/},)
     // nodes.update({ id: 22, shape:"circle", group: 2,x:0,y:780, title:(createPopup(json[14].title,json[14].subtitle,json[14].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/1.png", */ label: "  " /*label: "Controlling the Plague in British India"*/},)
     // nodes.update({ id: 23, shape:"circle", group: 3, x:840,y:700,title:(createPopup(json[15].title,json[15].subtitle,json[15].thumbnail)), borderWidth: 0,  font: { size: 100,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/6.png", */ label: "  " /*label: "Ants and Antimicrobial Resistance"*/},)
-
+    json.splice(11,1)
+    console.log(json)
     network.addEventListener("click",function (params){
        exhibitcards.innerHTML = "";
        document.getElementById("networktext").className = "networktext"
