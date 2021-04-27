@@ -1,5 +1,5 @@
 ---
-title: "Creating Interactive Art About Pandemics "
+title: "Creating Interactive Art About Pandemics | Masterclass "
 thumb: ""
 date: 2021-05-09T08:30:00.000Z
 description: >-
