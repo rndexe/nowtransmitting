@@ -39,10 +39,13 @@ readinglist:
   - quadreadlink: https://m.dailyhunt.in/news/bangladesh/english/the+federal+english-epaper-thefeden/contact+tracing+hotspots+and+plodding+through+sewers+cholera+in+bangalore+1895-newsid-n179325830
     quadreadtxt: "Contact Tracing, Hotspots And Plodding Through Sewers: Cholera In
       Bangalore 1895"
+    quadreadvis: /static/img/K_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadlink: https://blogs.ei.columbia.edu/2020/06/30/density-equity-history-epidemics-nyc/
     quadreadtxt: Density, Equity, and the History of Epidemics in New York City
+    quadreadvis: /static/img/K_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadlink: https://www.smithsonianmag.com/smart-news/thank-man-who-drank-cholera-your-yogurt-180955197/
     quadreadtxt: Probiotics Exist Thanks to a Man Who Drank Cholera
+    quadreadvis: /static/img/K_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.bbc.co.uk/sounds/play/p0548s7y
     quadlisttxt: Samba, Strings, and the Story of HIV
@@ -53,9 +56,17 @@ watchinglist:
     quadwatchtxt: Tracking Contagion, from Cholera to Ebola and Beyond
 eventlist:
   - quadeventtxt: Drawing the Bombay Plague | Workshop by Ranjit Kandalgaonkar
+    quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/drawing-from-the-bombay-plague-workshop-registration-148222681029
   - quadeventtxt: Outbreak | Lecture by Sabrina Sholts
+    quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadeventlink: https://www.eventbrite.com/e/148315625027
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+    quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
   - quadrelatedtxt: "The Glassroom: Misinformation Edition by Tactical Tech"
+    quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_2.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
 privis: /static/img/K_EXHIBIT_PRI_VIS_1.mp4
 ---
