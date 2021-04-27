@@ -112,21 +112,28 @@ exhibitimages:
       Ulica Roberta Kocha."
     privis: /static/img/O_EXHIBIT_PRI_VIS_1.jpg
   - pritxt: Robert Koch’s drawing of an anthrax pathogen, 1876.
+    privis: /static/img/O_EXHIBIT_PRI_VIS_2.jpg
   - pritxt: "Microscopic image of an anthrax pathogen by RobertKoch, undated. "
+    privis: /static/img/O_EXHIBIT_PRI_VIS_3.jpg
   - pritxt: Aetiology of Tuberculosis, 1882. In this manuscript Robert Koch first
       describes the tuberculosis pathogen. The discovery made him famous
       overnight.
+    privis: /static/img/O_EXHIBIT_PRI_VIS_4.jpg
   - pritxt: Tuberculin bottles, 1896. Three bottles for use in the lab with labels
       hand-written by Robert Koch.
+    privis: /static/img/O_EXHIBIT_PRI_VIS_5.jpg
   - pritxt: "Wall chart “How tuberculosis is transmitted”, 1920s Deutsches
       Hygiene-Museum / Production of teaching materials. Photo: Volker Kreidler.
       Mid-19th century advances in science generated campaigns to inform the
       population how to protect themselves against infection."
+    privis: /static/img/O_EXHIBIT_PRI_VIS_6.jpg
   - pritxt: Robert Koch was the first to provide bacteriological proof that
       locally-occurring cholera outbreaks were caused by poor water quality.
+    privis: /static/img/O_EXHIBIT_PRI_VIS_7.jpg
   - pritxt: Sea routes of Cholera transmission. In 1883, Robert Koch sketched out
       the most probable sea routes by which cholera was likely to be transmitted
       to Europe.
+    privis: /static/img/O_EXHIBIT_PRI_VIS_8.jpg
 exhibitvideos:
   - pritxt: Worldwide air traffic. Mobility promotes the spread of infectious
       diseases. Courtesy of Prof. Dirk Brockmann.
@@ -137,7 +144,7 @@ exhibitvideos:
     privis: https://player.vimeo.com/video/537596118
 authorimage: /static/img/O_EXHIBIT_SEC_VIS_1.jpg
 authorname: Dr. Esther-Maria Antao
-authorbio: >
+authorbio: >-
   Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute and is in
   charge of the advancement of the Museum in accordance with ongoing
   developments of the Institute. She communicates with the general and expert
