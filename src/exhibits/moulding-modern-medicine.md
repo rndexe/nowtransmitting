@@ -104,10 +104,14 @@ watchinglist:
 eventlist:
   - quadeventtxt: "Antimicrobial Resistance: The Pandemic in the Shadows | Lecture
       by Dr. Jyoti Joshi"
+    quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies
       | Lecture by Dr. George Peter Lomonossoff"
+    quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: Putting the Ant in Antibiotics by John Innes Centre
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
   - quadrelatedlink: ""
     quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
