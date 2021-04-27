@@ -1,5 +1,6 @@
 ---
-title: "Visualising the Virus: Design As A Medium for Collective Critical Care "
+title: "Visualising the Virus: Design As A Medium for Collective Critical Care |
+  Workshop "
 date: 2021-06-05T04:30:00.000Z
 description: >-
   The international digital project, Visualizing the Virus, is an interactive
