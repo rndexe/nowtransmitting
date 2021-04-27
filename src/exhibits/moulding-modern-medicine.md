@@ -5,9 +5,8 @@ thumb: /static/img/N_Exhibit_Thumbnail.jpg
 title: Moulding Modern Medicine
 subtitle: Bacterial Stories--The Resistance is Here
 medium: Sound, images
-year: Wellcome Library, Centre for Agriculture and Bioscience International, and
-  Bonhams
-description: >
+year: ""
+description: >-
   Alexander Fleming (1881–1955) was a Scottish medical bacteriologist at St.
   Mary’s Hospital Medical School in London. He is most popularly known for his
   discovery of penicillin as the world’s first antibiotic, a revolutionary
@@ -15,7 +14,7 @@ description: >
   day, penicillin is widely used to fight bacterial infections. 
 
 
-  While penicillin’s discovery as an antibiotic was accidental, it nonetheless revealed Fleming’s sharp and incisive thinking. Fleming’s short recording presented here—a part of his talk for the British Broadcasting Company (BBC) in 1945—is another testament to his wit as he accurately predicts the dangers of antibiotic resistance. He demonstrates not just his knowledge of microbes and biology, but also his keen understanding of human behaviour in medicine. While his discovery turned dangerous infections into easily treatable illnesses, his words too are just as important as we attempt to find ways around antibiotic resistance.
+  While penicillin’s discovery as an antibiotic was accidental, it nonetheless revealed Fleming’s incisive thinking about its implications. Fleming’s short recording presented here—a part of his talk for the British Broadcasting Company (BBC) in 1945—is a testament to his wit and awareness as he accurately predicts the dangers of antibiotic resistance. He demonstrates not just his knowledge of microbes and biology, but also his keen understanding of human behaviour in medicine. While his discovery turned dangerous infections into easily treatable illnesses, his words too are just as important as we attempt to find ways around antibiotic resistance.
 priaudtxt: >-
   Sir Alexander Fleming: Discovery of Penicillin, BBC 1945, London.  Courtesy of
   the Wellcome Collection. Shared under CC BY-NC 2.0 
@@ -63,43 +62,59 @@ exhibitauthor:
       formally opened to the public as the Wellcome Historical Medical Library.
       Today, the Wellcome Library is focused on making these resources available
       by digitising large parts of its growing collection of manuscripts,
-      videos, images, paintings, and much more. "
-  - authorname: About Centre for Agricultural and Bioscience International (CABI)
+      videos, images, paintings, and much more.  "
+  - authorname: Centre for Agricultural and Bioscience International (CABI)
     authorbio: "The CABI is an international and intergovernmental organization that
       provides information and scientific inputs to solve problems related to
       agriculture and the environment. "
     authorimage: /static/img/N_EXHIBIT_SEC_VIS_2.jpg
-  - authorname: About Bonhams
+  - authorname: Bonhams
     authorbio: Bonhams is a privately-owned international auction house, founded in 1793.
     authorimage: /static/img/N_EXHIBIT_SEC_VIS_3.jpg
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/smart-news/drug-resistant-infections-could-kill-10-million-annually-2050-180972079/
     quadreadtxt: Drug-Resistant Infections Could Kill 10 Million People Annually by 2050
+    quadreadvis: /static/img/N_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadlink: https://colemanhodges.com/2018/10/24/edgessurfacesborders/
     quadreadtxt: Edges:Surfaces:Borders
+    quadreadvis: /static/img/N_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadlink: http://labiotech.eu/more-news/anna-dumitriu-crispr-antibiotic-resistance/
     quadreadtxt: Art Made with CRISPR Aims to Raise Awareness of Antibiotic Resistance
+    quadreadvis: /static/img/N_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://podcasts.ox.ac.uk/fight-resistance
     quadlisttxt: Fight the Resistance
+    quadlistvis: /static/img/N_EXHIBIT_QUA_LISTVIS_1.jpg
   - quadlisttxt: "Antibiotics: We Owe It All to Chemistry"
     quadlistlink: https://open.spotify.com/episode/3YKZBv7cqaxnQrQx5y2EJq
+    quadlistvis: /static/img/N_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=q2yd3lGN7xA
     quadwatchtxt: How Penicillin Changed the World
+    quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=etg9tFv-P6Q
     quadwatchtxt: Why Bacteria Out-Evolve Us with Antibiotic Resistance
+    quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=ZvhFeGEDFC8
     quadwatchtxt: How Can We Solve the Antibiotic Resistance Crisis
+    quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_3.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=yybsSqcB7mE
     quadwatchtxt: Watch Antibiotic Resistance Evolve
+    quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_4.jpg
 eventlist:
   - quadeventtxt: "Antimicrobial Resistance: The Pandemic in the Shadows | Lecture
       by Dr. Jyoti Joshi"
+    quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/145225482327
   - quadeventtxt: "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies
       | Lecture by Dr. George Peter Lomonossoff"
+    quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadeventlink: https://www.eventbrite.com/e/145398876955
 relatedlist:
   - quadrelatedtxt: Putting the Ant in Antibiotics by John Innes Centre
-  - quadrelatedlink: ""
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
     quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

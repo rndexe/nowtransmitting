@@ -1,5 +1,5 @@
 ---
-title: "THERIAK: Behind the Scenes in A Lab"
+title: "THERIAK: Behind the Scenes in A Lab | Workshop "
 date: 2021-06-13T08:30:00.000Z
 description: >-
   Disease maps are a long-standing scientific tool used to understand the spread
