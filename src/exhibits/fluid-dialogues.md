@@ -13,7 +13,7 @@ description: >-
   discriminated against according to their medical status. 
 
 
-  Fluid Dialogues juxtaposes interviews of people living with HIV along with microscopic footage of their blood to create an intimate moment of reflection on the social implications of living with a contagious disease. Through this work, the artist provokes us to reflect on how social ties, and relationships can be damaged through our impulse to blame, and irrational fears of contamination.
+  Fluid Dialogues juxtaposes interviews of people living with HIV along with microscopic footage of their blood to create an intimate moment of reflection on the social implications of living with a contagious disease. Through this work, the artist provokes us to reflect on how social ties, and relationships can be damaged through our impulse to blame, and irrational fears of contamination. 
 readinglist:
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/13548506.2019.1705991
     quadreadtxt: Artistic Representation of Infectious Disease
