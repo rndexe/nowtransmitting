@@ -101,10 +101,13 @@ listeninglist:
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=VJ86D_DtyWg&ab_channel=Vox
     quadwatchtxt: The 1850s Map that Changed How We Fight Outbreaks
+    quadwatchvis: /static/img/e_exhibit_qua_watchvis_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=KvHL0dHj3RM
     quadwatchtxt: " A Guided Tour of the Ghost Map "
+    quadwatchvis: /static/img/e_exhibit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=YSytf6CJjXg
     quadwatchtxt: Mapping the Spread of Infectious Diseases
+    quadwatchvis: /static/img/e_exhibit_qua_watchvis_3.jpg
 eventlist:
   - quadeventtxt: "THERIAK: Behind the Scenes in a Lab | Workshop by Sarah Craske"
     quadeventvis: /static/img/e_exhibit_qua_atnvis_1.jpg
