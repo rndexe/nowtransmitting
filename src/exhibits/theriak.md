@@ -91,6 +91,7 @@ readinglist:
     quadreadvis: /static/img/e_exhibit_qua_readvis_2.jpg
   - quadreadtxt: Microbe Artwork Shows The Limits Of Antibiotics
     quadreadvis: /static/img/e_exhibit_qua_readvis_3.jpg
+    quadreadlink: https://phys.org/news/2015-09-microbe-artwork-limits-antibiotics.html
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5ULLBlutrCdopu2eFic4qV
     quadlisttxt: "Pandemics and Borders "
