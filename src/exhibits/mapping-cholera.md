@@ -1,34 +1,12 @@
 ---
-layout: mapping-cholera
 authortype: Team
-thumb: /static/img/K_Exhibit_Thumbnail.jpg
-title: "Mapping Cholera: A Tale of Two Cities"
-subtitle: Charting through histories of cholera
-medium: Interactive Maps
-year: "2014"
-description: >
-  The Mapping Cholera project looks at two cholera epidemics almost two
-  centuries apart: one in 1832 in New York and the other in 2010 in Haiti. The
-  epidemic in Haiti was the worst cholera outbreak in our contemporary, recent
-  history, and it left the country reeling. The spread of the disease, unlike
-  during the epidemic in New York, was diligently documented by Doctors Without
-  Borders and Sonia Shah herself. The challenge was to digitally map the New
-  York epidemic that took place two decades before John Snow’s famous mapping of
-  cholera in London. Sonia took historical records from doctors of the time and
-  combined them with 19th century maps of the city, which had been geocoded by
-  the New York Public Library.
-
-  This project maps the two cholera outbreaks, allowing us to visualise the spread of the disease, the differences and similarities between the two epidemics, and renders visible the magnitude and scale of this disease.
-pritxt: http://choleramap.pulitzercenter.org#embed
-privis: /static/img/K_EXHIBIT_PRI_VIS_1.mp4
 exhibitauthor:
-  - authorbio: Sonia Shah is an investigative journalist, science historian, and
-      award-winning author. She has published numerous books on human rights,
-      epidemics, politics, the drug industry, and more. She has lectured in
-      universities and colleges across the United States. Sonia is interested in
-      the inequalities that plague societies. Her work is rooted in research,
-      with the Mapping Cholera project supported by the Pulitzer Center on
-      Crisis Reporting.
+  - authorbio: Sonia Shah is a science journalist and prize-winning author of
+      critically acclaimed research based books on science, politics and human
+      rights. She has lectured in universities and colleges across the United
+      States. Sonia is interested in the inequalities that plague societies. The
+      Mapping Cholera project was supported by the Pulitzer Center on Crisis
+      Reporting.
     authorname: Sonia Shah
     authorimage: /static/img/K_EXHIBIT_SEC_VIS_1.jpg
   - authorname: Dan McCreary
@@ -36,6 +14,27 @@ exhibitauthor:
       alumnus of the Pulitzer Center, and has designed and built the Mapping
       Cholera website.
     authorimage: /static/img/K_EXHIBIT_SEC_VIS_1.jpg
+pritxt: http://choleramap.pulitzercenter.org#embed
+layout: mapping-cholera
+thumb: /static/img/K_Exhibit_Thumbnail.jpg
+title: "Mapping Cholera: A Tale of Two Cities"
+subtitle: Charting through histories of cholera
+medium: Interactive Maps
+year: "2014"
+description: >-
+  The Mapping Cholera project looks at two cholera epidemics almost two
+  centuries apart: one in 1832 in New York and the other in 2010 in Haiti. The
+  epidemic in Haiti was the worst cholera outbreak in recent history and it left
+  the country reeling. The spread of the disease, unlike during the epidemic in
+  New York, was diligently documented by Doctors Without Borders and Sonia Shah.
+  The challenge was to digitally map the New York epidemic that took place two
+  decades before John Snow’s famous mapping of cholera in London (1854). Sonia
+  took historical records from doctors of the time and combined them with 19th
+  century maps of the city, which had been geocoded by the New York Public
+  Library.
+
+
+  In mapping the two cholera outbreaks, this project allows us to visualise the spread of the disease, the differences and similarities between the two epidemics, and renders visible the magnitude and scale of this disease.
 readinglist:
   - quadreadlink: https://m.dailyhunt.in/news/bangladesh/english/the+federal+english-epaper-thefeden/contact+tracing+hotspots+and+plodding+through+sewers+cholera+in+bangalore+1895-newsid-n179325830
     quadreadtxt: "Contact Tracing, Hotspots And Plodding Through Sewers: Cholera In
@@ -58,4 +57,5 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
   - quadrelatedtxt: "The Glassroom: Misinformation Edition by Tactical Tech"
+privis: /static/img/K_EXHIBIT_PRI_VIS_1.mp4
 ---
