@@ -42,7 +42,7 @@ exhibitauthor:
 
 
       She has presented and exhibited her work in international institutions such as the Center Pompidou (Paris), La Gaîté Lyrique (Paris), Serpentines Galleries (London), Bozar (Brussels), and Biennale Di Venezia, (Lieux Infinis).
-    authorimage: ""
+    authorimage: /static/img/d_exhibit_sec_vis_1.jpg
   - authorname: Floriane Pochon
     authorbio: >-
       Floraine Pochon thinks and writes with sound. She creates sound forms,
