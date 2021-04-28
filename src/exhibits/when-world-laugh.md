@@ -27,7 +27,7 @@ pritxt: This video draws us into a dark chamber. In this installation space, the
   this world shaping under the oscillations of a sound piece created from our
   investigation on the traces of the most contagious laugh.
 exhibitimages:
-  - {}
+  - privis: /static/img/d_exhibit_embed.png
 exhibitaudios: []
 exhibitauthor:
   - authorname: Anaïs Tondeur
