@@ -1,5 +1,6 @@
 ---
 title: "2020 Vision: Making Sense of 24/7 News | Masterclass "
+thumb: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
 date: 2021-05-22T08:30:00.000Z
 description: >-
   On 18 April 1930, the announcer at the BBC in London declared "There is no
