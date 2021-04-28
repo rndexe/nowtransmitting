@@ -26,7 +26,8 @@ pritxt: This video draws us into a dark chamber. In this installation space, the
   landscapes. Every week of the exhibition, a new video reveals the mutation of
   this world shaping under the oscillations of a sound piece created from our
   investigation on the traces of the most contagious laugh.
-exhibitimages: []
+exhibitimages:
+  - {}
 exhibitaudios: []
 exhibitauthor:
   - authorname: Anaïs Tondeur
