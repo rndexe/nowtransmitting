@@ -49,11 +49,14 @@ readinglist:
 listeninglist:
   - quadlistlink: https://www.bbc.co.uk/sounds/play/p0548s7y
     quadlisttxt: Samba, Strings, and the Story of HIV
+    quadlistvis: /static/img/k_exhibit_qua_lisvis_1.jpg
   - quadlistlink: https://www.bbc.co.uk/sounds/play/p0548s7y
     quadlisttxt: The Water Carriers of Calcutta
+    quadlistvis: /static/img/k_exhibit_qua_listvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=w2k4SdwCY9g
     quadwatchtxt: Tracking Contagion, from Cholera to Ebola and Beyond
+    quadwatchvis: /static/img/k_exhibit_qua_watchvis_1.jpg
 eventlist:
   - quadeventtxt: Drawing the Bombay Plague | Workshop by Ranjit Kandalgaonkar
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_1.jpg
