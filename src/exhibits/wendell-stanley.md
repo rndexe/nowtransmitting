@@ -6,48 +6,46 @@ thumb: /static/img/P_Exhibit_Thumbnail.jpg
 title: "Wendell Stanley: Crystallizing Viral History"
 subtitle: Between the living and dead--The curious nature of viruses
 medium: Images, Audio, Text
-year: "Contributor: The Bancroft Library"
-description: >
-  Wendell Meredith Stanley (1904–1971) was a pioneer in the field of virology.
-  With a PhD in Chemistry from the University of Illinois, he worked on many
-  pressing scientific concerns of his time. During his time at the Rockefeller
-  Institute for Medical Research, Dr. Stanley conducted research on the Tobacco
-  Mosaic Virus (TMV), which attacked and destroyed tobacco plants. TMV was the
-  first virus ever to be crystallized, and Dr. Stanley’s success at doing so
-  forged the symbolic beginnings of molecular biology. Though many viruses were
-  known to science at this time, the nature and chemistry of viruses was a
-  mystery. His discovery created ripples through the scientific community,
-  bolstering research on viral genetics. For his exemplary work, he shared the
-  Nobel Prize in Chemistry in 1946. Dr. Stanley recognized the significance of
-  viruses, remarking, “The viruses hold the key to the modification—for better
-  or worse—of all life. They hold the key to the secret of life, to the solution
-  of the cancer problem to biological evolution, to the understanding and
-  control of heredity, perhaps to the nature of all future life on earth” (The
-  New York Times, June 16, 1971).
+year: ""
+description: >-
+  The Tobacco Mosaic Virus (TMV) was the first virus ever to be crystallized.
+  Wendell Meredith Stanley (1904–1971), a pioneer in the field of virology
+  conducted research on the TMV at the Rockefeller Institute for Medical
+  Research. Stanley’s success forged the symbolic beginnings of molecular
+  biology.
 
-  Travel to the mid-1900s to listen to Wendell Stanley talk about the philosophy and chemistry of viruses, and look at the virus that changed history.
+
+  Travel to the mid-1900s to listen to Wendell Stanley talk about the philosophy and chemistry of viruses, and have a peek at the virus that changed history. 
+
+
+  Stanley recognized the significance of viruses, remarking, “The viruses hold the key to the modification—for better or worse—of all life. They hold the key to the secret of life, to the solution of the cancer problem to biological evolution, to the understanding and control of heredity, perhaps to the nature of all future life on earth” (The New York Times, June 16, 1971).
+
+  Though many viruses were known to science at the time, the nature and chemistry of viruses was still a mystery. Stanley’s discovery created ripples through the scientific community further bolstering research on viral genetics and led to a shared Nobel Prize in Chemistry in 1946.
 exhibitimages:
   - pritxt: >-
-      Courtesy of The Bancroft Library 
+      Courtesy of The Bancroft Library.
 
       These images show the tobacco mosaic virus (TMV) under two different magnifications. Even under an electron microscope, with the virus magnified 20,000 times, the structure of these microorganisms is indiscernible. Taken in 1948, this photo came 13 years after Wendell Stanley’s crystallization of the virus. To find the molecular components of a virus, without even these highly magnified images, was a true feat in the history of science. Stanley’s discovery that the virus consisted of proteins and RNA (ribonucleic acid) paved the way for the future of virology.
     privis: /static/img/P_EXHIBIT_PRI_VIS_1.jpg
   - pritxt: >-
       Public Domain
 
+
       A tobacco plant infected with TMV. It is identifiable by the lighter green colour spreading into the leaves.
     privis: /static/img/P_EXHIBIT_PRI_VIS_2.jpg
   - pritxt: >-
       Public Domain
 
+
       An early 2000s image of the TMV purified and seen under an electron microscope.
     privis: /static/img/P_EXHIBIT_PRI_VIS_3.jpg
   - pritxt: |-
       Public Domain
+
       An image of the TMV, magnified x160,000 times.
     privis: /static/img/P_EXHIBIT_PRI_VIS_4.jpg
 privisafter: https://www.mediatheque.lindau-nobel.org/embed/31538
-pritxt: >
+pritxt: >-
   Credits: 
 
   Anders Bárány
@@ -76,29 +74,43 @@ exhibitauthor:
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/science-nature/what-are-viruses-history-tobacco-mosaic-disease-180974480/
     quadreadtxt: How Scientists Figured Out What Viruses Are
+    quadreadvis: /static/img/P_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadlink: https://moelling.ch/wordpress/wp-content/uploads/2018/01/Rev_Roum-_Tulipomania-3.pdf
     quadreadtxt: The First Financial Crisis By Viruses
+    quadreadvis: /static/img/P_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadlink: https://www.jic.ac.uk/blog/why-do-tulips-break-part-2/
     quadreadtxt: Why Do Tulips Break?
+    quadreadvis: /static/img/P_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/40AbuVcZfal45SJrjtV8HL
     quadlisttxt: Behind the Leaf Podcast
+    quadlistvis: /static/img/P_EXHIBIT_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/040ApYzHOdzNXc6YaBEcv9
     quadlisttxt: "The Mosaic of Life: Virus-Host Cell Interaction and Evolution with
       James A. Shapiro"
+    quadlistvis: /static/img/P_EXHIBIT_QUA_LISTVIS_2.jpg
   - quadlistlink: https://open.spotify.com/episode/7lffU7fLQSNsDxUy65WxDi
     quadlisttxt: The Greening of This Week In Virology
+    quadlistvis: /static/img/P_EXHIBIT_QUA_LISTVIS_3.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Ug3ksg8Aksw
     quadwatchtxt: "The All Plant Viruses: Greening of This Week In Virology"
+    quadwatchvis: /static/img/P_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=I5ZR0jMlxX0
     quadwatchtxt: What Causes Economic Bubbles
+    quadwatchvis: /static/img/P_EXHIBIT_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
       Century India | Lecture by David Arnold"
+    quadeventvis: /static/img/P_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies
       | Lecture by Dr. George Peter Lomonossoff"
+    quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
-  - quadrelatedtxt: Penning Fleming’s Discovery
-  - quadrelatedtxt: Penning Fleming’s Discovery
+  - quadrelatedtxt: Moulding Modern Medicine
+    quadrelatedvis: /static/img/P_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+  - quadrelatedtxt: Theriak | The Disease Map
+    quadrelatedvis: /static/img/P_EXHIBIT_QUA_EXPVIS_2.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
 ---
