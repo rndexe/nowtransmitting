@@ -769,8 +769,11 @@ network.on("hoverNode",function (params){
             if(id== 25 || id==26 ){
                 showStuff(1)
             }
-            else if(id== 27 || id==24 ){
+            else if(id== 27 || id==24){
                 showStuff(2)
+            }
+            else if(id == 28){
+                showStuff(3)
             }
         }
     }
