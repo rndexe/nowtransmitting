@@ -18,7 +18,10 @@ description: >-
   and people a voice. 
 
 
-  The work aims to highlight how misconceptions or myths about disease persist in the public’s experience of it through fear, fantasy, paranoia, and rumours. Interspersed are misplaced technological know-how and statistical data on plague measures produced by the authorities to shock subjects into submission, albeit with varying results. Hence, the artist imagines the drawing as a record that can be accessed to view the plague through a new lens, and studied in years to come by researchers as a validation of some of the lesser known aspects of the plague years. 
+  The work aims to highlight how misconceptions or myths about disease persist in the public’s experience of it through fear, fantasy, paranoia, and rumours. Interspersed are misplaced technological know-how and statistical data on plague measures produced by the authorities to shock subjects into submission, albeit with varying results. Hence, the artist imagines the drawing as a record that can be accessed to view the plague through a new lens, and studied in years to come by researchers as a validation of some of the lesser known aspects of the plague years.
+
+
+  The project was originally commissioned by Wellcome Collection as part of the Wellcome/Gasworks Residency collaboration for the 'Ayurvedic Man' show in London 2017 curated by Bárbara Rodríguez Muñoz.
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
 authorname: Ranjit Kandalgaonkar
 authorbio: >-
