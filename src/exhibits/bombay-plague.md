@@ -10,30 +10,33 @@ description: >-
   The Bombay Plague of 1896 marked a turning point in disease control in India.
   Strict, authoritarian measures were imposed by a colonial administration that
   was worried that the plague would spread back to Europe via its trade routes.
-  In Drawing the Bombay Plague, the artist  combines imagery from two
+  In Drawing the Bombay Plague, the artist combines imagery from two
   collections: photographs from the Wellcome Collection and satirical cartoons
   from HindiPunch, a local monthly magazine held at the Asiatic Library in
-  Mumbai. In this drawing, he encapsulates the various imaginations of the
-  plague that affected Bombay and attempts to give under-represented facts,
-  figures, and people a voice. 
+  Mumbai. In the work, he encapsulates the various imaginations of the plague
+  that affected Bombay and attempts to give under-represented facts, figures,
+  and people a voice. 
 
 
-  The work aims to highlight how misconceptions or myths about disease persist in the public’s experience of it through fear, fantasy, paranoia, and rumours. Interspersed are misplaced technological know-how and statistical data on plague measures produced by the authorities to shock subjects into submission, albeit with varying results. Hence, the artist imagines the drawing as a record that can be accessed to view the plague through a new lens, and studied in years to come by researchers as a validation of some of the lesser known aspects of the plague years. 
+  The work aims to highlight how misconceptions or myths about disease persist in the public’s experience of it through fear, fantasy, paranoia, and rumours. Interspersed are misplaced technological know-how and statistical data on plague measures produced by the authorities to shock subjects into submission, albeit with varying results. Hence, the artist imagines the drawing as a record that can be accessed to view the plague through a new lens, and studied in years to come by researchers as a validation of some of the lesser known aspects of the plague years.
+
+
+  The project was originally commissioned by Wellcome Collection as part of the Wellcome/Gasworks Residency collaboration for the 'Ayurvedic Man' show in London 2017 curated by Bárbara Rodríguez Muñoz.
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
 authorname: Ranjit Kandalgaonkar
 authorbio: >-
-  Ranjit Kandalgaonkar lives and works in Mumbai, and his art practice primarily
+  Ranjit Kandalgaonkar lives and works in Mumbai,and his art practice primarily
   comprises a lens directed at the urban context of cities. Projects such as
   cityinflux, Gentricity, build/browse and Stories of Philanthropic Trusts map
   vulnerability within redevelopment strategies of urbanisation, record
-  anomalous histories, or document timelines and “blindspots”—alternate markers
-  of a city that’s unraveling.  A study of the combative histories of
-  reclamation and speculation has led to projects such as Isles amidst
-  reclamation and Seven Isles Unclaimed, which map ever-diminishing
-  geographies. 
+  anomalous histories, or document timelines  and “blindspots”— alternate
+  markers of a city that’s unraveling. Modelled Recycled Systems is a
+  long-term  project on shipping infrastructures of the late 20th century.
+  Projects such as Isles amidst reclamation and Seven Isles Unclaimedmap
+  ever-diminishing geographies due to reclamation. 
 
 
-  Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, and the Seed Funding Award-Wellcome Trust. 
+  Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, the Wellcome Trust Seed Funding Award and the Gasworks Artist Residency.
 tervis: https://player.vimeo.com/video/537285108
 tertxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar. Courtesy of the
   Wellcome Collection. "
