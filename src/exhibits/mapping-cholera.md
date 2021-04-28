@@ -13,7 +13,7 @@ exhibitauthor:
     authorbio: Dan McCreary is an information designer in Washington. He is an
       alumnus of the Pulitzer Center, and has designed and built the Mapping
       Cholera website.
-    authorimage: /static/img/K_EXHIBIT_SEC_VIS_1.jpg
+    authorimage: /static/img/k_exhibit_sec_vis_2.jpg
 pritxt: http://choleramap.pulitzercenter.org#embed
 layout: mapping-cholera
 thumb: /static/img/K_Exhibit_Thumbnail.jpg
