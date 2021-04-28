@@ -17,18 +17,17 @@ description: >
   In this interactive exhibit, we virtually enter the Metropole Hotel on that fateful night, and explore the events that took place in the 17 rooms where the first cluster of SARS cases were detected. We go on a journey with epidemiologists to understand how they studied the movements of the guests between each room. This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences. In the end, we come away with a renewed appreciation for how public health experts grapple with fear and uncertainty in the face of an unknown disease. 
 privis: /static/img/H_EXHIBIT_PRI_VIS_1.mp4
 pritxt: https://www.17cases.com/
-exhibitauthor:
-  - authorname: Blast Theory
-    authorbio: >-
-      Blast Theory are known internationally as one of the most adventurous
-      artists’ group using interactive media, creating groundbreaking new forms
-      of performance and interactive art that mixes audiences across the
-      internet, live performance and digital broadcasting. The group’s work
-      explores interactivity and the social and political aspects of technology.
+authorname: Blast Theory
+authorbio: >-
+  Blast Theory are known internationally as one of the most adventurous
+  artists’ group using interactive media, creating groundbreaking new forms
+  of performance and interactive art that mixes audiences across the
+  internet, live performance and digital broadcasting. The group’s work
+  explores interactivity and the social and political aspects of technology.
 
 
-      Internationally, Blast Theory’s work has been shown at the Tribeca Film Festival, Sundance Film Festival, Walker Arts Center in Minneapolis, the Venice Biennale, ICC in Tokyo, the Chicago Museum of Contemporary Art, Sydney Biennale, National Museum in Taiwan, Hebbel Theatre in Berlin, Basel Art Fair, Dutch Electronic Arts Festival, Sonar Festival in Barcelona and the Palestine International Video Festival.
-    authorimage: /static/img/H_EXHIBIT_SEC_VIS_1.png
+  Internationally, Blast Theory’s work has been shown at the Tribeca Film Festival, Sundance Film Festival, Walker Arts Center in Minneapolis, the Venice Biennale, ICC in Tokyo, the Chicago Museum of Contemporary Art, Sydney Biennale, National Museum in Taiwan, Hebbel Theatre in Berlin, Basel Art Fair, Dutch Electronic Arts Festival, Sonar Festival in Barcelona and the Palestine International Video Festival.
+authorimage: /static/img/H_EXHIBIT_SEC_VIS_1.png
 processimages:
   - tervis: /static/img/H_EXHIBIT_TER_VIS_1.jpg
     tertxt: An image of the whole model of the 9th floor of the Metropole hotel.

@@ -5,9 +5,15 @@ layout: exhibit_common
 	
 	{% include "./partials/coverpage.html" %}
 	{% include "./partials/about.html" %}
-	{% include "./partials/author_section.html" %}
+	<section class=" w-full pt-12 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto flex-initial lg:ml-40" style="background-color: #2d2d2d;">
+		<iframe class="embed mx-auto" type="text/html" src={{exhibitembed[1].privis}} width="600px" height="300px" style="min-width:200px;">	
+		<p class=" text-sm pb-0 lg:pb-20 lg:w-full" style="width:600px; text-align:justify; font-weight:200; color:#fff; margin-top:30px; font-family: 'Trade Gothic LT Std';">{{exhibitembed[1].pritxt}}</p>
+	</section>
 
 	{% include "./partials/primary_section.html" %}
+
+	{% include "./partials/author_section.html" %}
+
 
 	
 
