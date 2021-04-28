@@ -1,5 +1,6 @@
 <section id="takeitfurther" class="block w-screen lg:w-auto h-auto mb-20 lg:mb-0 lg:flex lg:flex-none lg:p-43 bg-white">
 
+	{% if readinglist -%}	
 	<div class="mx-1 w-screen lg:w-96">
 		<h3 class="mb-0 text-black font-bold font-trade">Read</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
@@ -18,7 +19,9 @@
 		</div>
 		{%- endfor -%}	
 	</div>
+	{% endif %}
 
+	{% if listeninglist -%}	
 	<div class="mx-1 w-screen lg:w-96">
 		<h3 class="mb-0 text-black font-bold font-trade">Listen</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
@@ -37,6 +40,9 @@
 		</div>
 		{%- endfor -%}	
 	</div>	
+	{% endif %}
+
+	{% if watchinglist -%}	
 	<div class="mx-1 w-screen lg:w-96">
 		<h3 class="mb-0 text-black font-bold font-trade">Watch</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
@@ -54,6 +60,8 @@
 		</div>
 		{%- endfor -%}	
 	</div>
+	{% endif %}
+
 	{% if play %}
 	<div class="mx-1 w-screen lg:w-96">
 		<h3 class="mb-0 text-black font-bold font-trade">Play</h3>
@@ -74,6 +82,7 @@
 	</div>
 	{% endif %}	
 
+	{% if relatedlist -%}	
 	<div class="mx-1 w-screen lg:w-96">
 		<h3 class="mb-0 text-black font-bold font-trade">Related Exhibits</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
@@ -91,6 +100,9 @@
 		</div>
 		{%- endfor -%}	
 	</div>	
+	{% endif %}
+
+	{% if eventlist -%}	
 	<div class="mx-1 w-screen lg:w-96">
 		<h3 class="mb-0 text-black font-bold font-trade">Attend</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
@@ -108,5 +120,6 @@
 		</div>
 		{%- endfor -%}	
 	</div>	
+	{% endif %}
 
 </section>
