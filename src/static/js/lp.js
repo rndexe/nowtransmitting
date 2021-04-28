@@ -1,7 +1,7 @@
 function loadJSON(callback) {   
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'lp_json/exhibit_thumbnail.json', true);
+    xobj.open('GET', '../lp_json/exhibit_thumbnail.json', true);
     xobj.onreadystatechange = function () {
       if (xobj.readyState == 4 && xobj.status == "200") {
         callback(JSON.parse(xobj.responseText));
@@ -265,9 +265,6 @@ function getVector(radians, length) {
         length: length
     });
 }
-document.getElementById('opening-frame').addEventListener('click',()=>{
-        document.getElementById('opening-frame').className = "opening-frame-container openframe-animate"
-})
 
 const infobutton = document.getElementById('infobutton');
 const legendcard = document.getElementById('legendcard');
