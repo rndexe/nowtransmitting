@@ -4,11 +4,20 @@ layout: exhibit_common
 
 	
 	{% include "./partials/coverpage.html" %}
+	{% set quote="Disease maps are a long-standing scientific tool used to understand the spread of disease across populations." %}	
+
 	{% include "./partials/about.html" %}
 	{% include "./partials/author_section.html" %}
 	{% include "./partials/process_section.html" %}
 
-		
+	<section class="w-auto h-full max-h-full pr-20 flex-none bg-trueGray-750">
+		<div class = "flex flex-row w-auto h-full pt-36">
+			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-trueGray-750">
+				<embed class="embed mx-auto" type="application/pdf" src={{terpdf}} width="600px" height="300px" style="min-width:200px;"  >	
+				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-white">{{terpdftxt}}</p>
+			</div>
+		</div>
+	</section>
 		
 	
 		
