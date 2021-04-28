@@ -454,12 +454,12 @@ var newEdges = new vis.DataSet([
 
 //add stuff to check for date here
 var d = new Date()
-console.log(d)
 
+var date = d.getDate()
+var month = d.getMonth()
+var year = d.getFullYear()
 
-
-
-if(d <= new Date('2021-5-2')){
+if(new Date(`${year}-${month}-${date}`) <= new Date('2021-5-2')){
     nodes.add({ id: 24, opacity:0.9,  shape:"circle", group: 1,x:1660,y:500, borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25, opacity:0.9,  shape:"circle", group: 1,x:1630,y:600,  borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26, opacity:0.9,  shape:"circle", group: 1,x:1800,y:800,  borderWidth: 0,  font:  { size: 80, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
