@@ -4,8 +4,8 @@ authortype: Sources
 thumb: /static/img/N_Exhibit_Thumbnail.jpg
 title: Moulding Modern Medicine
 subtitle: Bacterial Stories--The Resistance is Here
-medium: Sound, images
-year: ""
+medium: Sound, Images
+year: "1945"
 description: >-
   Alexander Fleming (1881–1955) was a Scottish medical bacteriologist at St.
   Mary’s Hospital Medical School in London. He is most popularly known for his
