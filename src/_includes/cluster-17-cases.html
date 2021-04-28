@@ -9,25 +9,12 @@ layout: exhibit_common
 	{% include "./partials/author_section.html" %}
 
 
-	<div id="process-images" class="block w-screen h-screen lg:flex lg:flex-none">
+	<div id="process" class="block w-screen h-screen lg:flex lg:flex-none">
 			<embed class="processimg mx-auto" src={{exhibitembed1}} width="600px" height="auto" style="min-width:200px;">	
 	</div>
 
 
-	<section id="further">
 	
-	{%- for links in readinglist -%}	
-	<div>
-		<a href={{links.quadreadlink}}><span>{{links.quadreadtxt}}</span></a>
-	</div>
-	{%- endfor -%}	
-	{%- for links in listeninglist -%}	
-	<div>
-		<a href={{links.quadlistlink}}><span>{{links.quadlisttxt}}</span></a>
-	</div>
-	{%- endfor -%}	
-
-	</section>
 
 
 
