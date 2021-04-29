@@ -31,8 +31,32 @@ exhibitauthor:
       and intrigue people with images that spark curiosity for our beautiful
       microworld. "
   - authorimage: /static/img/m_exhibit_sec_vis_3.jpg
+    authorname: Juan Arturo García
+    authorbio: >-
+      Juan Arturo García is an artist hailing from Mexico City. His
+      research-based practice explores accented ways of living, their
+      biopolitical affordances and tactics for their representation. Ongoing
+      investigations delve into the correlations between the political,
+      territorial and linguistic implications of cosmopolitanism.
+
+
+      http://j-a-g.net/info.html 
   - authorimage: /static/img/m_exhibit_sec_vis_4.jpg
-  - authorimage: /static/img/m_exhibit_sec_vis_4.jpg
+    authorbio: Andrés García Vidal (Sevilla, 1991) works as an artist and recordist
+      within the sound studies frame with a focus on aural and oral culture.
+      From an interest in audio’s intrusive scope and its capacity to “break
+      into” he explores specific contexts through the notion of noise, speech
+      and participative processes.
+    authorname: "Andrés García Vidal "
+  - authorimage: /static/img/m_exhibit_sec_vis_5.jpg
+    authorname: "T Jayashree "
+    authorbio: "T. Jayashree has written, produced and directed for international
+      television, radio, feature films and independent documentaries for over
+      two decades. Her award winning work focuses on the intersection between
+      Gender, Sexuality, Law and Public health. Her films are widely screened
+      around the globe and can be viewed at her Vimeo Account. Queer Archive for
+      Memory, Reflection and Activism (QAMRA) is an initiative grown out of her
+      vast collection of raw footage on queer life and movement in India. "
 readinglist:
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/13548506.2019.1705991
     quadreadtxt: Artistic Representation of Infectious Disease
