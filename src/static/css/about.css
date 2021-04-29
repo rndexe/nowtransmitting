@@ -29,7 +29,7 @@ div{
 
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    gap: 1rem;
+    gap: 2rem;
 
     font-weight: 400;
     font-size: 0.875rem;
@@ -60,9 +60,20 @@ div{
     padding: 2rem 0 0 0;
     
 }
+
+.about-grid .partner{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 20% auto;
+    gap: 1rem;    
+}
 .about-grid .advisor img {
     /* width: 12rem;
     height: 12rem; */
+}
+
+.about-grid .prog-partner {
+    gap: 2rem;
 }
 
 .about-grid .prog-partner img {

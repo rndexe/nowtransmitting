@@ -13,28 +13,28 @@ path: about
 
                 {% include "./_includes/partials/navbar.html" %}
                 <div id="about-content" class=""> 
-                    <h2 class="font-display font-extrabold text-4xl">About</h2>
+                    <h2 class="font-display font-bold text-trueGray-750 text-4xl">About</h2>
 
                     <!-- top navbar for about page  -->
-                    <div id="nav-items-container" class="w-full font-trade font-bold text-base text-red-650">
+                    <div id="nav-items-container" class="w-full font-trade font-bold text-base text-trueGray-400">
                         <ul id="nav-items" class="list-style-none flex flex-row justify-between">
-                            <li class="about">
-                                <a>About Contagion</a>
+                            <li class="about hover:text-red-650">
+                                <a href="#about">About Contagion</a>
                             </li>
-                            <li class="curators">
-                                <a>Curators</a>
+                            <li class="curators hover:text-red-650">
+                                <a href="#curators">Curators</a>
                             </li>
-                            <li class="academic-advisors">
-                                <a>Academic Advisors</a>
+                            <li class="academic-advisors hover:text-red-650">
+                                <a href="#academic-advisors">Academic Advisors</a>
                             </li>
-                            <li class="content-partners">
-                                <a>Content Partners</a>
+                            <li class="content-partners hover:text-red-650">
+                                <a href="#content-partners">Content Partners</a>
                             </li>
-                            <li class="programme-partners">
-                                <a>Programme Partners</a>
+                            <li class="programme-partners hover:text-red-650">
+                                <a href="#programme-partners">Programme Partners</a>
                             </li>
-                            <li class="production">
-                                <a>Exhibition Design and Production</a>
+                            <li class="production hover:text-red-650">
+                                <a href="#production">Exhibition Design and Production</a>
                             </li>
                         </ul>
                     </div>
@@ -61,5 +61,17 @@ path: about
     var main = document.getElementById('main')
     main.addEventListener('wheel', (e) => {
         main.scrollLeft += e.deltaY;
+    });
+
+    $(document).ready(function() {
+        $('#nav-items>li>a').bind('click',function(event){
+            var $anchor = $(this);
+
+            console.log($($anchor.attr('href')).offset().left);
+            $('#main').stop().animate({
+                scrollLeft: $($anchor.attr('href')).offset().left
+            }, 1000);
+            event.preventDefault();
+        });
     });
 </script>
