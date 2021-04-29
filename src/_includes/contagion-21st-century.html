@@ -4,23 +4,9 @@ layout: exhibit_common
 
 	{% include "./partials/coverpage.html" %}
 	{% include "./partials/about.html" %}
+	{% include "./partials/primary_contagion.html" %}
 	{% include "./partials/author_section.html" %}
-	{% include "./partials/primary_section.html" %}
 	
-	<section id="process" class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class = "flex flex-row w-auto h-full pt-36">
-		{%- for images in exhibitimages2 -%}
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
-				<img class="object-contain w-auto h-full" src={{images.privis}} oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-trueGray-750">{{images.pritxt}}</p>
-			</div>
-		{%- endfor -%}	
-		</div>
-	</section>
-
-	{% include "./partials/video_about_section.html" %}
-
-
 	
 
 
