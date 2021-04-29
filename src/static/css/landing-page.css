@@ -297,8 +297,12 @@ body, html{
     /* padding: 1rem 0 1rem 0; */
 }
 
+.inner-menu a:hover {
+    color:#2d2d2d;
+}
 .exhibit-menu-list {
     padding: 1rem 0 0 0;
+    gap: 0.3rem;
 }
   
 .menu-open .menu::after {
