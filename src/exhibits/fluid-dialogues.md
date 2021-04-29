@@ -14,11 +14,24 @@ description: >-
 
 
   Fluid Dialogues juxtaposes interviews of people living with HIV along with microscopic footage of their blood to create an intimate moment of reflection on the social implications of living with a contagious disease. Through this work, the artist provokes us to reflect on how social ties, and relationships can be damaged through our impulse to blame, and irrational fears of contamination. 
+privis: https://player.vimeo.com/video/542976579
 exhibitauthor:
   - authorimage: /static/img/m_exhibit_sec_vis_1.jpg
-  - {}
-  - {}
-  - {}
+    authorname: Basse Stittgen
+    authorbio: "The work of Basse Stittgen is positioned at the intersection of
+      design, art and material research. It stems from a fascination for matter,
+      how it can be created, applied, used, reused and questioned. This approach
+      might lead to investigations into production cycles, or become a tool to
+      unfold hidden narratives and potentials embedded in matter. "
+  - authorimage: /static/img/m_exhibit_sec_vis_2.jpg
+    authorname: "microENVISION "
+    authorbio: "microENVISION specializes in microphotography and videography,
+      producing refreshing, creative and realistic photos & videos of anything
+      small enough to fit underneath a microscope, with the aim to tell stories
+      and intrigue people with images that spark curiosity for our beautiful
+      microworld. "
+  - authorimage: /static/img/m_exhibit_sec_vis_3.jpg
+  - authorimage: /static/img/m_exhibit_sec_vis_4.jpg
   - authorimage: /static/img/m_exhibit_sec_vis_4.jpg
 readinglist:
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/13548506.2019.1705991
