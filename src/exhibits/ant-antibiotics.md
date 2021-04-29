@@ -55,7 +55,7 @@ essay: >-
 
 
   Professor Wilkinson spent 16 years in drug discovery biotechnology before joining the John Innes Centre. “One of the reasons for coming back to academia is that I don’t want to be constrained with thinking about the end product. In industry you are always looking towards a therapeutic output, ultimately to make money. We had to let go of all kinds of interesting science that might lead to even more interesting outcomes. Here we are driven by scientific curiosity to understand how microbes make molecules.”
-exhibitstream: http://antcam.nbi.ac.uk/view/view.shtml?id=612982&imagepath=%2Fmjpg%2Fvideo.mjpg%3Fcamera%3D1&size=1
+exhibitstream: //antcam.nbi.ac.uk/view/view.shtml?id=612982&imagepath=%2Fmjpg%2Fvideo.mjpg%3Fcamera%3D1&size=1
 exhibitimages:
   - privis: /static/img/F_EXHIBIT_PRI_VIS_1.jpg
     pritxt: "Ant fungus garden. Courtesy of the John Innes Centre. "
