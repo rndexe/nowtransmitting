@@ -6,7 +6,15 @@
                 <div style="  width: 30px; height: 2px; background-color: #2d2d2d; margin: 6px auto;"></div>
                 <div style="  width: 30px; height: 2px; background-color: #2d2d2d; margin: 6px auto;"></div>
             </div>
-            <p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">Exhibits</p>
+            {% if path == 'home' %}
+            <p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+                Contagion
+            </p>
+            {% else %}
+            <p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+                Exhibits
+            </p>
+            {% endif %}
             <div class="h-auto w-20 lg:bottom-0 lg:fixed lg:p-1">
                 <a href="/" >
                 <img class="w-20" src="/static/img/SGLogo_Black_Transparent.png"></img>
