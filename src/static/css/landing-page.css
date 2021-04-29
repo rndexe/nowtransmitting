@@ -204,12 +204,11 @@ body, html{
 	box-sizing: border-box;
 }
 
-html,
-body,
 .menu-container,
 .st-pusher,
 .st-content {
 	height: 100%;
+    background-color: #d62b2b;
 }
 
 .pusher, .menu-container {
@@ -259,6 +258,7 @@ body,
     height: 100%;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
+    color: white;
 }
 .menu::after {
     position: absolute;
@@ -274,20 +274,31 @@ body,
 .inner-menu {
     height: 100%;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-rows: 10% auto 4%;
+    grid-gap: 2rem;
   
-    color: #2d2d2d;
-    background-color: white;
-    padding: 3rem 6rem 4rem 6rem;
+    color: white;
+    background-color: #d62b2b;
+    padding: 3rem 6rem 3rem 12rem;
 }
+
+.inner-menu .content {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
 .inner-menu ul {
-    display: flex;
-    flex-direction: column;
-    padding: 2rem 0 2rem 0;
+    /* display: flex;
+    flex-direction: column; */
+    /* padding: 0 0 1rem 0; */
 }
 
 .inner-menu ul li {
-    padding: 1rem 0 1rem 0;
+    /* padding: 1rem 0 1rem 0; */
+}
+
+.exhibit-menu-list {
+    padding: 1rem 0 0 0;
 }
   
 .menu-open .menu::after {
