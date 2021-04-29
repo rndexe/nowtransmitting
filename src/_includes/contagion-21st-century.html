@@ -18,16 +18,8 @@ layout: exhibit_common
 		</div>
 	</section>
 
-	<div id="process-videos" class="process-images flex flex-col lg:flex-row flex-none w-auto overflow-x-hidden overflow-y-hidden pb-40 lg:pb-0">
-		{%- for video in exhibitvideos -%}
-		<section class=" w-full pt-12 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto flex-initial lg:ml-40" style="background-color: #2d2d2d;">
-			<iframe id="iframe2020" class="iframes w-full h-full"  src={{video.privis}}
-			frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>
-			<p class=" text-sm pb-0 lg:pb-20 lg:w-full" style="width:600px; text-align:justify; font-weight:200; color:#fff; margin-top:30px; font-family: 'Trade Gothic LT Std';">{{video.pritxt}}</p>
-		</section>
-		{%- endfor -%}	
-	</div>
-	
+	{% include "./partials/video_about_section.html" %}
+
 
 	
 
