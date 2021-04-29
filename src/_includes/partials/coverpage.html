@@ -13,6 +13,7 @@
 	<div class="float-right flex w-screen lg:w-2/3 lg:h-full lg:pt-36">
 		<div class="mx-auto lg:mx-0 w-10/12 h-auto">
 		{% if embedwebsite %}
+			{% if privis %}
 			<div class="w-full relative shadow-2xl" style="padding-bottom: 56.25%">
 				<iframe class="absolute inset-0 w-full h-full"  src="{{privis}}?autoplay=1&loop=1"
 				frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>
@@ -22,6 +23,17 @@
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
 				</p>
 			</div>
+			{% elseif exhibitvideos %}
+				<div class="w-full relative shadow-2xl" style="padding-bottom: 56.25%">
+					<iframe class="absolute inset-0 w-full h-full"  src="{{exhibitvideos[0].privis}}?autoplay=1&loop=1"
+					frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>
+				</div>
+				<div class="mt-5">
+					<h3 class="text-base lg:mt-10 mb-0 font-trade font-bold text-white"><a href="{{exhibitvideos[0].privis}}" target="_blank"> CLICK HERE TO EXPLORE THE ARTWORK</a></h3>
+					<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
+					<p class="text-sm w-auto font-trade text-trueGray-400">{{exhibitvideos[0].pritxt}}</p>
+				</div>
+			{% endif %}
 
 		{% elseif privis %}
 			<div class="w-full relative shadow-2xl" style="padding-bottom: 56.25%">
@@ -31,7 +43,7 @@
 			<div class="mt-5">
 				<h3 class="text-base lg:mt-10 mb-0 font-trade font-bold text-white">ABOUT THE VIDEO</h3>
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
-				<p class="text-sm w-auto lg:w-96 font-trade text-trueGray-400">{{pritxt}}
+				<p class="text-sm w-auto lg:w-192 font-trade text-trueGray-400">{{pritxt}}
 				</p>
 			</div>
 		
@@ -47,10 +59,8 @@
 		{% elseif exhibitembed %}
 			<video class="w-full shadow-2xl" controls autoplay><source src={{exhibitembed[0].privis}} type="video/mp4"></video>
 			<div class="mt-5">
-				<h3 class="text-base lg:mt-10 mb-0 font-trade font-bold text-white">ABOUT THE VIDEO</h3>
+				<h3 class="text-base lg:mt-10 mb-0 font-trade font-bold text-white"><a href={{exhibitembed[0].pritxt}}>CLICK HERE TO EXPLORE THE ARTWORK</a></h3>
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
-				<p class="text-lg w-auto lg:w-96 font-trade text-trueGray-400"><a href={{exhibitembed[0].pritxt}}>Click here to explore the artwork</a></p>
-				</p>
 			</div>
 
 		{% elseif exhibitvideos %}
