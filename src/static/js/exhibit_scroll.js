@@ -12,6 +12,8 @@ var processnav = document.querySelector('#nav-item-process');
 var scholarnav = document.querySelector('#nav-item-scholar');
 var furthernav = document.querySelector('#nav-item-further')
 
+var scrollicon = document.getElementById("scroll-arrow")
+
 if(process == null){
 	navitems.children[1].removeChild(navitems.children[1].children[2])
 }
@@ -58,6 +60,10 @@ aboutnav.children[0].style.color = 'black'
 //For converting mousewheel scroll into horizontal scroll
 main.addEventListener('wheel', (e) => {
 	main.scrollLeft += e.deltaY;
+
+	if(main.scrollLeft > 0){
+		scrollicon.style.visibility = "hidden";
+	}
 
 	if (main.scrollLeft >= window.innerWidth/1.125) { // Just an example
 		backbutton.style.visibility = 'visible';
