@@ -57,30 +57,42 @@ exhibitauthor:
       around the globe and can be viewed at her Vimeo Account. Queer Archive for
       Memory, Reflection and Activism (QAMRA) is an initiative grown out of her
       vast collection of raw footage on queer life and movement in India. "
+processimages:
+  - tertxt: "Red blood cells under DIC microscope, 400 x magnification. Courtesy of
+      Basse Sttitgen. "
+    tervis: /static/img/m_exhibit_ter_vis_1.jpeg
+  - tertxt: "Blood clotting under DIC microscope, 400 x magnification. Courtesy of
+      Basse Sttitgen. "
+    tervis: /static/img/m_exhibit_ter_vis_2.jpeg
 readinglist:
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/13548506.2019.1705991
     quadreadtxt: Artistic Representation of Infectious Disease
+    quadreadvis: /static/img/M_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadlink: https://theconversation.com/eleven-body-fluids-we-couldnt-live-without-49568
     quadreadtxt: Eleven Body Fluids We Couldn’t Live Without
+    quadreadvis: /static/img/M_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadlink: http://www.99facesproject.com/
     quadreadtxt: 99 Faces Project
+    quadreadvis: /static/img/M_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/32eZ32S9iCOg6nYSf4o08q
     quadlisttxt: "Herpes: Stop the Stigma"
+    quadlistvis: /static/img/M_EXHIBIT_QUA_LISVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=DR8GOoE91Lk
     quadwatchtxt: Is Stigma an Invisible Killer?
+    quadwatchvis: /static/img/M_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=8SxHl2XK7Sk
     quadwatchtxt: "Tackling AIDS: An Invasive Devastating Stigma | VK Sashindran"
   - quadwatchlink: https://www.youtube.com/watch?v=A8cI6FkcG4c&list=PL50lcL7KylCA5uD-60rS4QQ6HAR2JN97R&index=10
     quadwatchtxt: RBCs Under a Microscope
-eventlist:
-  - quadeventtxt: Detect, Investigate, Diagnose | Lecture by Adia Benton
-  - quadeventtxt: "A Human Question | Film Screening and Discussion with T. Jayashree "
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
   - quadrelatedtxt: COVID-19 Indoor Safety Guideline by Martin Bazant, John Bush, Kasim Khan
 authorname: Basse Stittgen
+eventlist:
+  - quadeventtxt: Detect, Investigate, Diagnose | Lecture by Adia Benton
+  - quadeventtxt: "A Human Question | Film Screening and Discussion with T. Jayashree "
 authorbio: The work of Basse Stittgen is positioned at the intersection of
   design, art and material research. It stems from a fascination for matter, how
   it can be created, applied, used, reused and questioned. This approach might
