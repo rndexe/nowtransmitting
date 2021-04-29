@@ -4,31 +4,9 @@ layout: exhibit_common
 
 	{% include "./partials/coverpage.html" %}
 	{% include "./partials/about.html" %}
+	{% include "./partials/primary_contagion.html" %}
 	{% include "./partials/author_section.html" %}
-	{% include "./partials/primary_section.html" %}
 	
-	<section id="process" class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class = "flex flex-row w-auto h-full pt-36">
-		{%- for images in exhibitimages2 -%}
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
-				<img class="object-contain w-auto h-full" src={{images.privis}} oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-trueGray-750">{{images.pritxt}}</p>
-			</div>
-		{%- endfor -%}	
-		</div>
-	</section>
-
-	<div id="process-videos" class="process-images flex flex-col lg:flex-row flex-none w-auto overflow-x-hidden overflow-y-hidden pb-40 lg:pb-0">
-		{%- for video in exhibitvideos -%}
-		<section class=" w-full pt-12 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto flex-initial lg:ml-40" style="background-color: #2d2d2d;">
-			<iframe id="iframe2020" class="iframes w-full h-full"  src={{video.privis}}
-			frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>
-			<p class=" text-sm pb-0 lg:pb-20 lg:w-full" style="width:600px; text-align:justify; font-weight:200; color:#fff; margin-top:30px; font-family: 'Trade Gothic LT Std';">{{video.pritxt}}</p>
-		</section>
-		{%- endfor -%}	
-	</div>
-	
-
 	
 
 

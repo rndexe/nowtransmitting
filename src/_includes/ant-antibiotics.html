@@ -5,21 +5,108 @@ layout: exhibit_common
 	{% include "./partials/coverpage.html" %}
 	{% set quote="Ants have been using antibiotics in their fight against pathogens for a much longer time." %}	
 	{% include "./partials/about.html" %}
-
-	{%- for item in essay.split("\n\n") -%}
-	<section id="about" class="w-screen h-full flex-none" style="background-color: white;">
-		<div id="about-content">
-			<div class="w-screen float-left lg:w-1/2">
-				<pre id="description" class="text-sm ml-10 mr-10 mt-32 lg:mt-0 2xl:text-2xl w-auto xl:w-3/5 lg:ml-32 " style="font-family: 'Trade Gothic LT Std'; font-weight:400; white-space:pre-wrap;">{{item | safe}}</pre>
+	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
+		<div class="flex flex-row w-auto h-full pt-36">
+			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-white">
+				<img class="object-contain w-auto h-full" src="{{exhibitimages[1].privis}}" oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-black">{{exhibitimages[1].pritxt}}</p>
 			</div>
+		</div>
+	</section>
+
+	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
+		<div class = "flex flex-row w-auto h-full pt-36">
+			<div class="h-full flex-initial w-240">
+				<p class="text-base xl:text-lg ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">
+					Researchers at the John Innes Centre and University of East Anglia (UEA) have
+					investigated the chemical arsenal employed by species such as South American
+					leafcutter ants in defending colonies against rivals and pathogens.
+					<br><br>
+
+					The microbiome found on the cuticles of leafcutter ants is a rich source of actinomycete bacteria. This family of bacteria produce diverse natural products from which half of all antibiotics already in clinical use originate.
+					<br><br>
+
+					The ants are born sterile and get inoculated soon after birth with an actinomycete species that blooms over their body. Other microbes which encounter this niche must have strong genetic resistance to the antibiotics produced on the cuticle and be able to kill the native strain to invade.
+					<br><br>
+
+					Consequently, the ant microbiome is a dynamic, transitory place that offers a pre-screened source of novel chemistry for biotechnology.
+					<br><br>
+
+					From a range of ants, including leafcutters and African Tetraponera species, the team at the John Innes Centre and UEA have assembled a library of more than 400 strains of actinomycetes. Nearly 100 of these have been genome sequenced and researchers are continuing to mine this resource for new antibacterial molecules. It is a search aided by new tools which identify more rapidly the clusters of genes responsible for the biosynthesis of molecules.
+
+				</p>
+			</div>	
+
+			<div class="h-full flex-initial w-240">
+				<p class="text-base xl:text-lg ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">
+
+					Interest in exploiting plant ant chemistry led to an increasing fascination with the phenomenon of colony collapse, where the normally meticulous leafcutter ants down tools and desert their nest. The secret, according to a study published in 2018, lies in a behaviour-modifying chemical weapon produced by Escovopsis, a fungal parasite that has co-evolved with the leafcutter ants over the past 50 million years. At times of stress, compounds produced by the parasite overpower the colony by manipulating the behaviour of ants, ultimately resulting in nest abandonment.
+					<br><br>
+				  
+					It’s an example of how curiosity-driven science leads to unexpected new avenues of exploration says Professor Wilkinson,“We became fascinated with the ecology of the whole nest system – not so much due to antibiotic discovery but to understand the chemical ecology. We don’t yet know if the compounds we discovered have any value commercially, but maybe they can tell us something about how you might control ants. We will continue to investigate the ant microbiome, but we are also looking at plant roots and plant endophytes – the bacteria from inside plants.”
+					<br><br>
+				  
+					Another area of focus for the group lies in identifying the molecular targets of antibiotics. The penicillin group of antibiotics, for example, work by targeting bacterial cell walls; another antibiotic, azithromycin, works by stopping the bacterial cell from making proteins.
+					<br><br>
+					
+					Explains Professor Wilkinson. “That can be anything, an enzyme, a receptor – something that is essential for the organism to survive. If you disrupt that then it dies or stops growing. Highlighting new targets is potentially just as valuable as finding new antibiotics in the fight against antimicrobial resistance. By understanding how natural products work we can start to design new molecules for those targets.”
+
+				</p>
+			</div>	
+
+			<div class="h-full flex-initial w-240">
+				<p class="text-base xl:text-lg ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">
+
+					The backdrop to this is a global crisis caused by antimicrobial resistance (AMR), the emergence of so-called superbugs that are resistant to antibiotics. The discovery of penicillin by Alexander Fleming in 1928 heralded a new era of drug discovery with research particularly successful in harnessing molecules from soil bacteria. By the 1960s, bacterial infections which had been the leading global killer in 1900 could be treated swiftly and inexpensively.
+					<br><br>
+				  
+					With the emergence of bacteria resistant to antibiotics, partly due to overuse and misuse, it is estimated that bacterial infections could move ahead of cancer as a cause of death by 2050. So where does the fundamental work carried out by the John Innes Centre and the UEA figure in this global health race?
+					<br><br>
+				  
+					“We are very early in the process, if we find a new molecule we have to find its target and whether that would be useful in the clinical sense. Then once you have found your target you must figure out how to design compounds to inhibit them. So, any of our projects are 10-15 years away from something ending up in the clinic,” says Professor Wilkinson.
+					<br><br>
+				  
+					Professor Wilkinson spent 16 years in drug discovery biotechnology before joining the John Innes Centre. “One of the reasons for coming back to academia is that I don’t want to be constrained with thinking about the end product. In industry you are always looking towards a therapeutic output, ultimately to make money. We had to let go of all kinds of interesting science that might lead to even more interesting outcomes. Here we are driven by scientific curiosity to understand how microbes make molecules.”
+				</p>
+			</div>	
+
+			
 
 		</div>
 	</section>
-	{%- endfor -%}
-	{% include "./partials/primary_section.html" %}
 
+	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
+		<div class = "flex flex-row w-auto h-full pt-36">
+		{%- for images in exhibitimages.slice(2) -%}
+			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
+				<img class="object-contain w-auto h-full" src={{images.privis}} oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-trueGray-750">{{images.pritxt}}</p>
+			</div>
+		{%- endfor -%}	
+		</div>
+	
+	</section>
 
+	<section class="w-auto h-full max-h-full pl-20 flex-none bg-white">
+		<div class = "flex flex-row w-auto h-full pt-36">
+				<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto bg-white">
+					<iframe id="iframe2020" class="w-192 h-full bg-black" src="{{exhibitstream}}"
+					frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>	
+					<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-black">Ant Live Stream</p>
+				</div>
+		</div>
+	
+	</section>
+	
 	{% include "./partials/author_section.html" %}
 
+	<section id="process" class="w-auto h-full max-h-full pr-20 flex-none bg-trueGray-750">
+		<div class = "flex flex-row w-auto h-full pt-36">
+			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-trueGray-750">
+				<img class="object-contain w-auto h-full" src={{tervis}} oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-white">{{tertxt}}</p>
+			</div>
+		</div>
+	</section>
 	
 
