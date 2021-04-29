@@ -5,21 +5,30 @@ layout: exhibit_common
 	{% include "./partials/coverpage.html" %}
 	{% set quote="Ants have been using antibiotics in their fight against pathogens for a much longer time." %}	
 	{% include "./partials/about.html" %}
-
-	{%- for item in essay.split("\n\n") -%}
-	<section id="about" class="w-screen h-full flex-none" style="background-color: white;">
-		<div id="about-content">
-			<div class="w-screen float-left lg:w-1/2">
-				<pre id="description" class="text-sm ml-10 mr-10 mt-32 lg:mt-0 2xl:text-2xl w-auto xl:w-3/5 lg:ml-32 " style="font-family: 'Trade Gothic LT Std'; font-weight:400; white-space:pre-wrap;">{{item | safe}}</pre>
-			</div>
-
-		</div>
-	</section>
-	{%- endfor -%}
+	{% include "./partials/essay.html" %}
 	{% include "./partials/primary_section.html" %}
 
-
+	<section class="w-auto h-full max-h-full pl-20 flex-none bg-white">
+		<div class = "flex flex-row w-auto h-full pt-36">
+				<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto bg-white">
+					<iframe id="iframe2020" class="w-192 h-full bg-black" src="{{exhibitstream}}"
+					frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>	
+					<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-black">Ant Live Stream</p>
+				</div>
+		</div>
+	
+	</section>
+	
 	{% include "./partials/author_section.html" %}
 
+	<section id="process" class="w-auto h-full max-h-full pr-20 flex-none bg-trueGray-750">
+		<div class = "flex flex-row w-auto h-full pt-36">
+			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-trueGray-750">
+				<img class="object-contain w-auto h-full" src={{tervis}} oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-white">{{tertxt}}</p>
+			</div>
+		</div>
+	
+	</section>
 	
 
