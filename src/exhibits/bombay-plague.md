@@ -23,6 +23,7 @@ description: >-
 
   The project was originally commissioned by Wellcome Collection as part of the Wellcome/Gasworks Residency collaboration for the 'Ayurvedic Man' show in London 2017 curated by Bárbara Rodríguez Muñoz.
 privis: src/static/img/C_EXHIBIT_COVER.mp4
+pritxt: https://bombayplague.nowtransmitting.com/
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
 authorname: Ranjit Kandalgaonkar
 authorbio: >-
