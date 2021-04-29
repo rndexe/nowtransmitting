@@ -84,15 +84,25 @@ watchinglist:
     quadwatchvis: /static/img/M_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=8SxHl2XK7Sk
     quadwatchtxt: "Tackling AIDS: An Invasive Devastating Stigma | VK Sashindran"
+    quadwatchvis: /static/img/m_exhibit_qua_watchvis_2.jpeg
   - quadwatchlink: https://www.youtube.com/watch?v=A8cI6FkcG4c&list=PL50lcL7KylCA5uD-60rS4QQ6HAR2JN97R&index=10
     quadwatchtxt: RBCs Under a Microscope
+    quadwatchvis: /static/img/m_exhibit_qua_watchvis_3.jpg
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+    quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
   - quadrelatedtxt: COVID-19 Indoor Safety Guideline by Martin Bazant, John Bush, Kasim Khan
+    quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
 authorname: Basse Stittgen
 eventlist:
   - quadeventtxt: Detect, Investigate, Diagnose | Lecture by Adia Benton
+    quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadeventlink: https://www.eventbrite.com/e/145400778643
   - quadeventtxt: "A Human Question | Film Screening and Discussion with T. Jayashree "
+    quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadeventlink: https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147
 authorbio: The work of Basse Stittgen is positioned at the intersection of
   design, art and material research. It stems from a fascination for matter, how
   it can be created, applied, used, reused and questioned. This approach might
