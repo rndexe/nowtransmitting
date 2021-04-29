@@ -114,7 +114,7 @@ eventlist:
     quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
-    quadrelatedtxt: Mapping Cholera by Sonal Shah
+    quadrelatedtxt: Mapping Cholera by Sonia Shah
     quadrelatedvis: /static/img/e_exhibit_qua_expvis_1.jpg
   - quadrelatedtxt: "Contagion in the 21st Century by Museum at Robert Koch Institute "
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
