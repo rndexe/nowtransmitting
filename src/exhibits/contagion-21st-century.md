@@ -168,7 +168,7 @@ relatedlist:
   - quadrelatedtxt: Drawing the Bombay Plague by Ranjit Kandalgaonkar
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
-  - quadrelatedtxt: "Moulding Modern Medicine by "
+  - quadrelatedtxt: Moulding Modern Medicine
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
 quadreadtxt: Fearing a Fear of Germs
