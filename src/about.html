@@ -8,12 +8,43 @@ path: about
 
 		<div class="w-screen fixed">
 			<div>
-				{% include "./_includes/partials/navbar.html" %}
-				<div id="main" class="flex flex-col lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-gray-700 scroll-snap"> 
-                    {% include "./_includes/partials/navbar_top.html" %}
-                    {{ content | safe }}
-                    {% include "./about1.html" %}
-				</div>
+                <!-- top navbar for about page  -->
+                <!-- lg:flex -->
+
+                {% include "./_includes/partials/navbar.html" %}
+                <div id="about-content" class=""> 
+                    <h2 class="font-display font-extrabold text-4xl">About</h2>
+
+                    <!-- top navbar for about page  -->
+                    <div id="nav-items-container" class="w-full font-trade font-bold text-base text-red-650">
+                        <ul id="nav-items" class="list-style-none flex flex-row justify-between">
+                            <li class="about">
+                                <a>About Contagion</a>
+                            </li>
+                            <li class="curators">
+                                <a>Curators</a>
+                            </li>
+                            <li class="academic-advisors">
+                                <a>Academic Advisors</a>
+                            </li>
+                            <li class="content-partners">
+                                <a>Content Partners</a>
+                            </li>
+                            <li class="programme-partners">
+                                <a>Programme Partners</a>
+                            </li>
+                            <li class="production">
+                                <a>Exhibition Design and Production</a>
+                            </li>
+                        </ul>
+                    </div>
+                
+                    <div id="main" class="flex flex-col lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-gray-700 scroll-snap"> 
+                        <!-- {% include "./_includes/partials/navbar_top.html" %} -->
+                        {{ content | safe }}
+                        {% include "./about1.html" %}
+                    </div>
+                </div>
 			</div>
 		</div>
 	</main>
@@ -25,4 +56,10 @@ path: about
 {% endif %}
 
 <link rel="stylesheet" href="/static/css/about.css">
-<script type="text/javascript" src="/static/js/exhibit_scroll.js"></script>
+<!-- <script type="text/javascript" src="/static/js/exhibit_scroll.js"></script> -->
+<script>
+    var main = document.getElementById('main')
+    main.addEventListener('wheel', (e) => {
+        main.scrollLeft += e.deltaY;
+    });
+</script>

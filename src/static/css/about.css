@@ -16,16 +16,73 @@ div{
     box-sizing:border-box;
 }
 
+#main .section {
+    width: 100%;
+}
+
+#main #programme-partners {
+    width: 200%;
+}
+
 .about-grid {
-    padding: 14rem 6rem 3rem 6rem;
+    padding: 2rem 4rem 2rem 4rem;
 
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     gap: 1rem;
 
     font-weight: 400;
-    font-size: 1.125rem;
+    font-size: 0.875rem;
     line-height: 1.25rem;
+}
+
+.about-grid.about {
+    grid-template-columns: 40% auto;
+    gap: 2rem;
+}
+
+.about-grid img {
+    
+}
+
+.about-grid .curator {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: .75rem;
+}
+
+
+.about-grid .advisor{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 20% auto;
+    gap: 1rem;
+    padding: 2rem 0 0 0;
+    
+}
+.about-grid .advisor img {
+    /* width: 12rem;
+    height: 12rem; */
+}
+
+.about-grid .prog-partner img {
+    /* display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: .75rem; */
+
+    width: 6rem;
+    height: 6rem;
+}
+
+.about-grid.programme-partners {
+    grid-template-columns: repeat(5, 1fr);
+    padding: 2rem .75rem 2rem .75rem;
+}
+
+.about-grid .partner {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    /* gap: 1rem; */
 }
 
 @media only screen and (min-width: 1024px) {
