@@ -26,7 +26,8 @@ pritxt: This video draws us into a dark chamber. In this installation space, the
   landscapes. Every week of the exhibition, a new video reveals the mutation of
   this world shaping under the oscillations of a sound piece created from our
   investigation on the traces of the most contagious laugh.
-exhibitimages: []
+exhibitimages:
+  - privis: /static/img/d_exhibit_embed.png
 exhibitaudios: []
 exhibitauthor:
   - authorname: Anaïs Tondeur
@@ -42,7 +43,7 @@ exhibitauthor:
 
 
       She has presented and exhibited her work in international institutions such as the Center Pompidou (Paris), La Gaîté Lyrique (Paris), Serpentines Galleries (London), Bozar (Brussels), and Biennale Di Venezia, (Lieux Infinis).
-    authorimage: ""
+    authorimage: /static/img/d_exhibit_sec_vis_1.jpg
   - authorname: Floriane Pochon
     authorbio: >-
       Floraine Pochon thinks and writes with sound. She creates sound forms,

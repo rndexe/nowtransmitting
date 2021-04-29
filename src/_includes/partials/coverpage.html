@@ -18,9 +18,8 @@
 				frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>
 			</div>
 			<div class="mt-5">
-				<h3 class="text-base lg:mt-10 mb-0 font-trade font-bold text-white">ABOUT THE VIDEO</h3>
+				<h3 class="text-base lg:mt-10 mb-0 font-trade font-bold text-white"><a target="_blank" href={{pritxt}}>CLICK HERE TO EXPLORE THE ARTWORK</a></h3>
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
-				<p class="text-lg w-auto lg:w-96 font-trade text-trueGray-400"><a href={{pritxt}}>Click here to explore the artwork</a></p>
 				</p>
 			</div>
 
@@ -35,6 +34,7 @@
 				<p class="text-sm w-auto lg:w-96 font-trade text-trueGray-400">{{pritxt}}
 				</p>
 			</div>
+		
 		{% elseif priaudtxt %}
 			<iframe class="w-full h-96" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121064086&color=%23363636&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 			<div class="mt-5">
@@ -65,11 +65,11 @@
 			</div>
 		
 		{% elseif exhibitimages %}
-			<img class="w-auto h-1/2 shadow-2xl" src={{exhibitimages[0].privis}}  oncontextmenu="return false" ondragstart="return false">
-			<div class="mt-5">
+			<img class="w-auto lg:ml-20 h-2/3 shadow-2xl" src={{exhibitimages[0].privis}}  oncontextmenu="return false" ondragstart="return false">
+			<div class="mt-5 lg:ml-20">
 				<h3 class="text-base lg:mt-10 mb-0 font-trade font-bold text-white">ABOUT THE IMAGE</h3>
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
-				<p class="text-sm w-auto lg:w-96 font-trade text-trueGray-400">{{exhibitimages[0].pritxt}}
+				<p class="text-sm w-full lg:w-192 font-trade text-trueGray-400">{{exhibitimages[0].pritxt}}
 				</p>
 			</div>
 		{% endif %}

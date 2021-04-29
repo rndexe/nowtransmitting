@@ -1,7 +1,7 @@
 function loadJSON(callback) {   
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'lp_json/exhibit_thumbnail.json', true);
+    xobj.open('GET', '../lp_json/exhibit_thumbnail.json', true);
     xobj.onreadystatechange = function () {
       if (xobj.readyState == 4 && xobj.status == "200") {
         callback(JSON.parse(xobj.responseText));
@@ -166,7 +166,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Contemporary Face of Epidemics and Pandemics: Dealing With the Infodemic by Sylvie Briand",
                             "Lecture",
-                            "static/img/lp_assets/programme3.jpg",
+                            "../static/img/lp_assets/programme3.jpg",
                             "May 2, 2021",
                             "6:30 pm",
                             "https://www.eventbrite.com/e/dealing-with-the-infodemic-lecture-registration-148308301121?aff=ebdsoporgprofile"
@@ -181,7 +181,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Why and How Should We Model Infectious Diseases? by Gautam Menon",
                             "Lecture",
-                            "static/img/lp_assets/programme4.jpg",
+                            "../static/img/lp_assets/programme4.jpg",
                             "May 1,2021",
                             "6:30 pm",
                             "https://www.eventbrite.com/e/why-and-how-should-we-model-infectious-diseases-lecture-tutorial-registration-145213889653?aff=ebdsoporgprofile"
@@ -196,7 +196,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Where Birds Dance Their Last | Discussion by Lena Bui and Fredric Keck",
                             "Film Screenings and Discussions",
-                            "static/img/lp_assets/programme5.jpg",
+                            "../static/img/lp_assets/programme5.jpg",
                             "May 2, 2021",
                             "5:00 pm",
                             "https://www.eventbrite.com/e/where-birds-dance-their-last-film-screening-discussion-registration-145820558215?aff=ebdsoporgprofile"
@@ -211,7 +211,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Control, Consensus, Chaos: The Global Response to the Pandemic by Sheila Jasanoff",
                             "Lecture",
-                            "static/img/lp_assets/programme2.jpg",
+                            "../static/img/lp_assets/programme2.jpg",
                             "April 30, 2021",
                             "6:30 pm",
                             "https://www.eventbrite.com/e/contagion-opening-event-lecture-by-sheila-jasanoff-registration-148321719255"
@@ -226,7 +226,7 @@ loadJSON(function(json) {
                         var pop = createProgramPopup(
                             "Antimicrobial Resistance: The Pandemic in the Shadows by Jyoti Joshi",
                             "Lecture",
-                            "static/img/lp_assets/programme1.jpg",
+                            "../static/img/lp_assets/programme1.jpg",
                             "May 7, 2021",
                             "6:30 pm",
                             "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
@@ -265,9 +265,6 @@ function getVector(radians, length) {
         length: length
     });
 }
-document.getElementById('opening-frame').addEventListener('click',()=>{
-        document.getElementById('opening-frame').className = "opening-frame-container openframe-animate"
-})
 
 const infobutton = document.getElementById('infobutton');
 const legendcard = document.getElementById('legendcard');
@@ -772,8 +769,11 @@ network.on("hoverNode",function (params){
             if(id== 25 || id==26 ){
                 showStuff(1)
             }
-            else if(id== 27 || id==24 ){
+            else if(id== 27 || id==24){
                 showStuff(2)
+            }
+            else if(id == 28){
+                showStuff(3)
             }
         }
     }

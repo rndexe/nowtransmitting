@@ -6,7 +6,7 @@ thumb: /static/img/P_Exhibit_Thumbnail.jpg
 title: "Wendell Stanley: Crystallizing Viral History"
 subtitle: Between the living and dead--The curious nature of viruses
 medium: Images, Audio, Text
-year: ""
+year: --
 description: >-
   The Tobacco Mosaic Virus (TMV) was the first virus ever to be crystallized.
   Wendell Meredith Stanley (1904–1971), a pioneer in the field of virology
