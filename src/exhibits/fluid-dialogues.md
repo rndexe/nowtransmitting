@@ -15,6 +15,10 @@ description: >-
 
   Fluid Dialogues juxtaposes interviews of people living with HIV along with microscopic footage of their blood to create an intimate moment of reflection on the social implications of living with a contagious disease. Through this work, the artist provokes us to reflect on how social ties, and relationships can be damaged through our impulse to blame, and irrational fears of contamination. 
 privis: https://player.vimeo.com/video/542976579
+pritxt: Fluid Dialogues investigates the stigma around infectious diseases. The
+  voices are taken from unedited footage of the film A Human Question, directed
+  by T Jayashree for Sangama, Bangalore, India & BUKO-Pharma, Kampagne,
+  Bielfeld, Germany, 2005.
 exhibitauthor:
   - authorimage: /static/img/m_exhibit_sec_vis_1.jpg
     authorname: Basse Stittgen
