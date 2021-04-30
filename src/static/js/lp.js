@@ -848,11 +848,12 @@ network.on("hoverNode",function (params){
         showStuff(4)
     }
     if(id>23){
+        console.log(id)
         if(d <= new Date('2021-5-2')){
-            if(id== 25 || id==26 ){
+            if(id== 25 ){
                 showStuff(1)
             }
-            else if(id== 27 || id==24){
+            else if(id== 27 || id==24 || id==26){
                 showStuff(2)
             }
             else if(id == 28){
