@@ -28,19 +28,19 @@ exhibitimages:
       These images show the tobacco mosaic virus (TMV) under two different magnifications. Even under an electron microscope, with the virus magnified 20,000 times, the structure of these microorganisms is indiscernible. Taken in 1948, this photo came 13 years after Wendell Stanley’s crystallization of the virus. To find the molecular components of a virus, without even these highly magnified images, was a true feat in the history of science. Stanley’s discovery that the virus consisted of proteins and RNA (ribonucleic acid) paved the way for the future of virology.
     privis: /static/img/P_EXHIBIT_PRI_VIS_1.jpg
   - pritxt: >-
-      Public Domain
+      Public Domain.
 
 
       A tobacco plant infected with TMV. It is identifiable by the lighter green colour spreading into the leaves.
     privis: /static/img/P_EXHIBIT_PRI_VIS_2.jpg
   - pritxt: >-
-      Public Domain
+      Public Domain.
 
 
       An early 2000s image of the TMV purified and seen under an electron microscope.
     privis: /static/img/P_EXHIBIT_PRI_VIS_3.jpg
   - pritxt: |-
-      Public Domain
+      Public Domain.
 
       An image of the TMV, magnified x160,000 times.
     privis: /static/img/P_EXHIBIT_PRI_VIS_4.jpg
@@ -51,7 +51,22 @@ pritxt: >-
   Anders Bárány
 
 
-  When the biochemist and virologist Wendell Stanley lectured at a Lindau meeting for the first time, he started by expressing his concern about speaking before such a mixed audience, ranging from young students to experts of Nobel calibre. Listening to his talk today, one can only admire the way that Stanley (almost like the explorer looking for Dr. Livingstone) finds his way through a subject area so difficult as viruses. He gives the historical background from the discovery of viruses up to the 1930’s, when he managed to crystallize the first virus to be discovered, the tobacco mosaic virus TMV. From Stanley’s work it is known that viruses contain both protein and nucleic acid, but since viruses cannot multiply outside of living cells, there is still today a question if they should be looked upon as being alive or not. Stanley refers to Aristotle’s hypothesis that a clear boundary between living matter and dead matter maybe even is non-existent, but for the TMV he declares that his research shows that the whole virus activity is a pure molecular property. It may be of some interest, in this connection, to know that Alfred Nobel wrote in the margin of one of his books “Are atoms in living matter alive and atoms in inert matter dead?”. Life and death also enters Stanley’s lecture in another way. This is through the story of the poliomyelitis virus and the attempts to find a safe vaccine. There had been some horrible outbursts of polio in the US and the western world in the 1940’s and early 1950’s. This led some researchers, among them Jonas Salk, to bypass the normal scientific procedure of publishing even small step advances, for other scientists to look critically into. As Stanley puts it, during the race for a polio vaccine, the results of the research were only judged by committees behind closed doors. As a consequence, there were some serious mistakes made and for some time a vaccine was used, in particular on children, which actually resulted in paralysis. When the mistakes had been corrected, there was still, of course, a strong competition between different research and production groups. Stanley was active in one of these, on the west coast, while Salk was on the east coast. One can guess that it must have hurt Stanley, that Salk’s vaccine actually just had won the competition and started it’s worldwide success in 1955, just as Stanley gave his talk at the Lindau meeting!
+  When the biochemist and virologist Wendell Stanley lectured at a Lindau meeting for the first time, he started by expressing his concern about speaking before such a mixed audience, ranging from young students to experts of Nobel calibre. 
+
+
+  Listening to his talk today, one can only admire the way that Stanley (almost like the explorer looking for Dr. Livingstone) finds his way through a subject area so difficult as viruses. He gives the historical background from the discovery of viruses up to the 1930’s, when he managed to crystallize the first virus to be discovered, the tobacco mosaic virus TMV. 
+
+
+  From Stanley’s work it is known that viruses contain both protein and nucleic acid, but since viruses cannot multiply outside of living cells, there is still today a question if they should be looked upon as being alive or not. Stanley refers to Aristotle’s hypothesis that a clear boundary between living matter and dead matter maybe even is non-existent, but for the TMV he declares that his research shows that the whole virus activity is a pure molecular property. It may be of some interest, in this connection, to know that Alfred Nobel wrote in the margin of one of his books “Are atoms in living matter alive and atoms in inert matter dead?”. 
+
+
+  Life and death also enters Stanley’s lecture in another way. This is through the story of the poliomyelitis virus and the attempts to find a safe vaccine. There had been some horrible outbursts of polio in the US and the western world in the 1940’s and early 1950’s. This led some researchers, among them Jonas Salk, to bypass the normal scientific procedure of publishing even small step advances, for other scientists to look critically into. 
+
+
+  As Stanley puts it, during the race for a polio vaccine, the results of the research were only judged by committees behind closed doors. As a consequence, there were some serious mistakes made and for some time a vaccine was used, in particular on children, which actually resulted in paralysis. When the mistakes had been corrected, there was still, of course, a strong competition between different research and production groups. 
+
+
+  Stanley was active in one of these, on the west coast, while Salk was on the east coast. One can guess that it must have hurt Stanley, that Salk’s vaccine actually just had won the competition and started it’s worldwide success in 1955, just as Stanley gave his talk at the Lindau meeting!
 exhibitauthor:
   - authorbio: Hubert Howe Bancroft, was an American historian born in 1832,
       accumulated an immense collection of manuscripts on the history of
