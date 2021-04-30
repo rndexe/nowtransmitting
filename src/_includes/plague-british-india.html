@@ -5,13 +5,18 @@ layout: exhibit_common
 	{% include "./partials/coverpage.html" %}
 	{% set quote ="Apart from being the first bubonic plague epidemic to reach all continents, it was also the first epidemic to be photographed extensively." %}
 	{% include "./partials/about.html" %}
+
+
 	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class="flex flex-row w-auto h-full pt-36">
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-white">
-				<img class="object-contain w-auto h-full" src="{{exhibitimages[1].privis}}" oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-black">{{exhibitimages[1].pritxt}}</p>
+		<div class = "flex flex-row w-auto h-full pt-36">
+		{%- for images in exhibitimages.slice(1) -%}
+			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
+				<img class="object-contain w-auto h-full" src={{images.privis}} oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-trueGray-750">{{images.pritxt}}</p>
 			</div>
+		{%- endfor -%}	
 		</div>
+	
 	</section>
 
 	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
@@ -106,17 +111,7 @@ layout: exhibit_common
 		</div>
 	</section>
 	
-	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class = "flex flex-row w-auto h-full pt-36">
-		{%- for images in exhibitimages.slice(2) -%}
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
-				<img class="object-contain w-auto h-full" src={{images.privis}} oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-trueGray-750">{{images.pritxt}}</p>
-			</div>
-		{%- endfor -%}	
-		</div>
 	
-	</section>
 	
 	{% include "./partials/author_section.html" %}
 
