@@ -45,14 +45,21 @@ exhibitauthor:
     authorname: Irene Wüthrich and Steven Schmitt
     authorimage: /static/img/E_EXHIBIT_SEC_VIS_2.jpg
   - authorname: The Pharmacy Museum of the University of Basel
-    authorbio: >-
-      Founded in 1925, by Professor J. A. Häfliger, the Pharmacy Museum displays
-      one of the world’s largest collections of historic remedies and material
-      associated with their production. The museum is the original scientific
-      collection, which to this day has remained intact in its original form.
-      The extensive collection of early pharmaceuticals illustrates different ideas and approaches to disease, as well as documents the progression of methodologies from the ancient world until the beginning of the pharmaceutical industry in Basel.
-      The "Zum Sessel" house, which is now home to the museum, has captured the attention of scientists across Europe from as early as the 16th century, when Erasmus of Rotterdam and the doctor and alchemist Paracelsus were working there. Between 1936 and 1967, Tadeus Reichstein, who received the Nobel Prize in Physiology or Medicine in 1950, conducted his research in the very same house. 
-    authorimage: /static/img/E_EXHIBIT_SEC_VIS_3.jpg
+    authorbio: 'Founded in 1925, by Professor J. A. Häfliger, the Pharmacy Museum
+      displays one of the world’s largest collections of historic remedies and
+      material associated with their production. The museum is the original
+      scientific collection, which to this day has remained intact in its
+      original form. The extensive collection of early pharmaceuticals
+      illustrates different ideas and approaches to disease, as well as
+      documents the progression of methodologies from the ancient world until
+      the beginning of the pharmaceutical industry in Basel. The "Zum Sessel"
+      house, which is now home to the museum, has captured the attention of
+      scientists across Europe from as early as the 16th century, when Erasmus
+      of Rotterdam and the doctor and alchemist Paracelsus were working there.
+      Between 1936 and 1967, Tadeus Reichstein, who received the Nobel Prize in
+      Physiology or Medicine in 1950, conducted his research in the very same
+      house. '
+    authorimage: /static/img/e_exhibit_sec_vis_3.jpg
 processimages:
   - tervis: /static/img/E_EXHIBIT_TER_VIS_1.jpg
     tertxt: "Disease Map installation. Courtesy of Sarah Craske. "
