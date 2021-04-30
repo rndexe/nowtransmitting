@@ -29,7 +29,7 @@ exhibitauthor:
       now focuses on surface tension-driven phenomena, their applications in
       biology, and hydrodynamic quantum analogues.
     authorname: John W. Bush
-    authorimage: /static/img/I_EXHIBIT_SEC_VIS_1.jpg
+    authorimage: /static/img/i_exhibit_sec_vis_1.jpg
   - authorbio: "Martin Bazant is Professor of Mathematics at MIT. His research is at
       the intersection of engineering, physics, and mathematics, motivated by
       societal needs in energy, the environment, and sustainability. "
