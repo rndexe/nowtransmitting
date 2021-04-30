@@ -43,7 +43,7 @@ path: about
                         </ul>
                     </div>
                 
-                    <div id="main" class="flex flex-col lg:flex-row overflow-x-hidden max-h-screen w-auto bg-gray-700 scroll-snap"> 
+                    <div id="main" class="flex flex-col lg:flex-row overflow-y-hidden overflow-x-hidden w-auto bg-white scroll-snap"> 
                         <!-- {% include "./_includes/partials/navbar_top.html" %} -->
                         {{ content | safe }}
                         {% include "./about1.html" %}
@@ -73,7 +73,7 @@ path: about
     const scrollTo = (href) => {
         let targetId = href.split("#").reverse()[0]
         // console.log(targetId);
-        document.getElementById(targetId).scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"})
+        document.getElementById(targetId).scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"})
     }
 
     $(document).ready(function() {
@@ -92,6 +92,78 @@ path: about
             });
         }
     });
+
+    $('#main').scroll(function() {
+        var scrollOffset = $('#about-content').offset().left;
+        var position = $(this).scrollLeft() + scrollOffset;
+        // console.log();
+
+        // $('#main > .section').each(function() {
+        //     var target = $(this).offset().left;
+        //     var id = "#" + $(this).attr('id');
+            
+        //     // console.log(document.querySelectorAll('#nav-items > li > a[href="' + id + '"]'));
+        //     if (position >= target) {
+        //         // console.log(id, position, target);
+        //         $('#nav-items > li > a').removeClass('text-red-650');
+        //         $('#nav-items > li > a[href="' + id + '"]').addClass('text-red-650');
+        //     }
+        // });
+
+        var offsets = [];
+        $('#main > .section').each(function() {
+                // calculate difference from offset
+                let diff = $(this).offset().left - scrollOffset;
+                var id = "#" + $(this).attr('id');
+                diff = Math.abs(diff);
+                offsets.push({id: id, diff: diff});
+        });
+
+        let diffs = [];
+        for(let i = 0; i < offsets.length; i++) {
+            diffs.push(offsets[i].diff);
+        }
+        var leastDiff = Math.min(...diffs);
+        console.log(leastDiff);
+
+        var idToHighlight = '';
+        for(let i = 0; i < offsets.length; i++) {
+            let o = offsets[i];
+            if(o.diff == leastDiff) {
+                idToHighlight = o.id;
+                break;
+            }
+        }
+
+        $('#nav-items > li > a').removeClass('text-red-650');
+        $('#nav-items > li > a[href="' + idToHighlight + '"]').addClass('text-red-650');
+    });
+
+    
+
+    // $('#main > .section').each(function() {
+    //         var target = $(this).offset().left;
+    //         var id = "#" + $(this).attr('id');
+            
+    //         console.log(document.querySelectorAll('#nav-items > li > a[href="' + id + '"]'));
+    //         if (position >= target) {
+    //             console.log(id, position, target);
+    //             $('#nav-items > li > a').removeClass('text-red-650');
+    //             $('#nav-items > li > a[href="' + id + '"]').addClass('text-red-650');
+    //         }
+    //     });
+
+    // $(document).ready(function() {
+    //     $('#nav-items>li>a').bind('click',function(event){
+    //         var $anchor = $(this);
+
+    //         console.log($($anchor.attr('href')).offset().left);
+    //         $('#main').stop().animate({
+    //             scrollLeft: $($anchor.attr('href')).offset().left
+    //         }, 1000);
+    //         event.preventDefault();
+    //     });
+    // });
 
     
 </script>
