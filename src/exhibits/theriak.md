@@ -12,15 +12,15 @@ description: >-
   of disease across populations. Sarah Craske’s The Disease Map takes an
   engraving of Basel, Switzerland by Matthäus Merian (1593-1650), and turns it
   into a disease map by engraving it onto a custom-made petri dish, within which
-  cholera was painted (onto agar) over several days while also being inhibited
-  with synthetic peptides that Craske designed. This process was recorded using
-  time-lapse photography. This ebb and flow becomes a metaphor for our
-  relationship with cholera, for the continuous fight against emerging diseases
-  and new strains, and the pressing need to address the global existential
-  crises that antimicrobial resistance presents.
+  Vibrio cholerae was painted (onto agar) over several days while also being
+  inhibited with synthetic peptides that Craske designed. This process was
+  recorded using time-lapse photography. This ebb and flow becomes a metaphor
+  for our relationship with cholera, for the continuous fight against emerging
+  diseases and new strains, and the pressing need to address the global
+  existential crises that antimicrobial resistance presents.
 
 
-  The protocols for this work were designed through collaborative and experimental work with Dr Irene Wüthrich and Dr Steven Schmitt from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich. Through observational inquiry and collaborative discussion while working at the D-BSSE, Craske learnt about contemporary synthetic biological approaches to fighting infectious diseases. Whilst critically reflecting on these approaches, she worked closely with scientists to develop new ideas and practical experiments that combined both scientific and artistic practice. 
+  The protocols for this work were designed through collaborative and experimental work with Dr Irene Wüthrich and Dr Steven Schmitt from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich. Through observational inquiry and collaborative discussion while working at the D-BSSE, the artist learnt about contemporary synthetic biological approaches to fighting infectious diseases. Whilst critically reflecting on these approaches, she worked closely with scientists to develop new ideas and practical experiments that combined both scientific and artistic practice.
 privis: https://player.vimeo.com/video/537297813
 pritxt: "Time-lapse film of Vibrio cholerae interacting with synthetic peptides
   across a map of Basel by engraver Matthäus Merian (1593-1650). 2019. 5’ 3’’. "
@@ -64,9 +64,9 @@ processimages:
   - tervis: /static/img/E_EXHIBIT_TER_VIS_1.jpg
     tertxt: "Disease Map installation. Courtesy of Sarah Craske. "
   - tervis: /static/img/e_exhibit_ter_vis_3.jpg
-    tertxt: "Dr Steven Schmidt teaching Sarah how to prepare for the MIC Assay,
-      which tested the efficacy of her peptides against vibrio cholerae and
-      e-coli. Courtesy of Sarah Craske. "
+    tertxt: "Steven teaching Sarah how to prepare for the MIC Assay, which tested
+      the efficacy of her peptides against vibrio cholerae and e-coli. Courtesy
+      of Sarah Craske. "
   - tervis: /static/img/e_exhibit_ter_vis_4.jpg
     tertxt: "BioSafety Level 2 Lab at the D-BSSE, ETH Zurich. Courtesy of Sarah
       Craske. "
