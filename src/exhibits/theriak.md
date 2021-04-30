@@ -20,7 +20,7 @@ description: >-
   existential crises that antimicrobial resistance presents.
 
 
-  The protocols for this work were designed through collaborative and experimental work with Dr Irene Wüthrich and Dr Steven Schmitt from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich. Through observational inquiry and collaborative discussion while working at the D-BSSE, Craske learnt about contemporary synthetic biological approaches to fighting infectious diseases. Whilst critically reflecting on these approaches, she worked closely with scientists to develop new ideas and practical experiments that combined both scientific and artistic practice. 
+  Her recent bodies of work include Returning Shores, Healing Earth, THERIAK and Biological Hermeneutics, a site-specific installation at Chethams’ Library, Manchester. Recent awards include the Whitstable Biennale Jerwood Attachment, currently supporting a year of research and development; the John Ruskin Prize Shortlist, that identified her as an ‘Agent of Change’; an AHRC Science in Culture Innovation Award and a Biofaction artist-in-residence in Switzerland.
 privis: https://player.vimeo.com/video/537297813
 pritxt: "Time-lapse film of Vibrio cholerae interacting with synthetic peptides
   across a map of Basel by engraver Matthäus Merian (1593-1650). 2019. 5’ 3’’. "
