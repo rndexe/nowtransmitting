@@ -19,7 +19,7 @@ privis: /static/img/H_EXHIBIT_PRI_VIS_1.mp4
 pritxt: https://www.17cases.com/
 authorname: Blast Theory
 authorbio: >-
-  Blast Theory are known internationally as one of the most adventurous
+  Known internationally as one of the most adventurous
   artists’ group using interactive media, creating groundbreaking new forms
   of performance and interactive art that mixes audiences across the
   internet, live performance and digital broadcasting. The group’s work
