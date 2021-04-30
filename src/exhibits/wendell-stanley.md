@@ -28,19 +28,19 @@ exhibitimages:
       These images show the tobacco mosaic virus (TMV) under two different magnifications. Even under an electron microscope, with the virus magnified 20,000 times, the structure of these microorganisms is indiscernible. Taken in 1948, this photo came 13 years after Wendell Stanley’s crystallization of the virus. To find the molecular components of a virus, without even these highly magnified images, was a true feat in the history of science. Stanley’s discovery that the virus consisted of proteins and RNA (ribonucleic acid) paved the way for the future of virology.
     privis: /static/img/P_EXHIBIT_PRI_VIS_1.jpg
   - pritxt: >-
-      Public Domain
+      Public Domain.
 
 
       A tobacco plant infected with TMV. It is identifiable by the lighter green colour spreading into the leaves.
     privis: /static/img/P_EXHIBIT_PRI_VIS_2.jpg
   - pritxt: >-
-      Public Domain
+      Public Domain.
 
 
       An early 2000s image of the TMV purified and seen under an electron microscope.
     privis: /static/img/P_EXHIBIT_PRI_VIS_3.jpg
   - pritxt: |-
-      Public Domain
+      Public Domain.
 
       An image of the TMV, magnified x160,000 times.
     privis: /static/img/P_EXHIBIT_PRI_VIS_4.jpg
