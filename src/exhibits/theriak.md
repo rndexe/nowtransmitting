@@ -20,7 +20,7 @@ description: >-
   existential crises that antimicrobial resistance presents.
 
 
-  The protocols for this work were designed through collaborative and experimental work with Dr Irene Wüthrich and Dr Steven Schmitt from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich. Through observational inquiry and collaborative discussion while working at the D-BSSE, Craske learnt about contemporary synthetic biological approaches to fighting infectious diseases. Whilst critically reflecting on these approaches, she worked closely with scientists to develop new ideas and practical experiments that combined both scientific and artistic practice.
+  The protocols for this work were designed through collaborative and experimental work with Dr Irene Wüthrich and Dr Steven Schmitt from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich. Through observational inquiry and collaborative discussion while working at the D-BSSE, the artist learnt about contemporary synthetic biological approaches to fighting infectious diseases. Whilst critically reflecting on these approaches, she worked closely with scientists to develop new ideas and practical experiments that combined both scientific and artistic practice.
 privis: https://player.vimeo.com/video/537297813
 pritxt: "Time-lapse film of Vibrio cholerae interacting with synthetic peptides
   across a map of Basel by engraver Matthäus Merian (1593-1650). 2019. 5’ 3’’. "
