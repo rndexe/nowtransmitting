@@ -3,10 +3,10 @@ var mobilemenu = document.getElementById("mobile-menu");
 var menubutton = document.getElementById("menu-button");
 var menuclosebutton = document.getElementById("menu-close-button");
 var menuContainer = document.getElementById('menu-container');
+
 // things to hide when opening menu
 var infoButton = document.getElementById('infobutton');
 var mediator = document.getElementById('mediator');
-//var sidenavbar = document.getElementById('sidenavbar')
 
 menubutton.addEventListener('click',function(){
     // adding the effects
@@ -36,7 +36,7 @@ var rightMenu = document.querySelector('.right-menu');
 // })
 
 // load json 
-fetch('../lp_json/exhibit_thumbnail.json')
+fetch('../../lp_json/exhibit_thumbnail.json')
     .then(response => response.json())
     .then(data => buildExhibitSection(data))
 
