@@ -32,21 +32,25 @@ exhibitimages:
     pritxt: Penicillium chrysogenum spore and hyphae. Courtesy of Errin Johnson.
       Shared under CC BY 4.0
   - privis: /static/img/N_EXHIBIT_PRI_VIS_5.jpg
-    pritxt: >-
-      Courtesy of Bonhams 
-
-      The underside of the original petri dish mould used by Alexander Fleming to discover penicillin’s potential as an antibiotic.
+    pritxt: The underside of the original petri dish mould used by Alexander Fleming
+      to discover penicillin’s potential as an antibiotic. Courtesy of Bonhams.
   - privis: /static/img/N_EXHIBIT_PRI_VIS_6.jpg
-    pritxt: >-
-      Courtesy of Bonhams 
-
-      A photo of the original penicillin mould used by Alexander Fleming. Fleming was studying staph bacteria, and had left his petri dishes of staph cultures unattended for an extended period of time. The culture became infected with mould. When Fleming observed the petri dishes again, he realized that the staph did not grow in and around the mould. Further research led him to conclude that penicillin halted the growth of bacteria!
+    pritxt: "A photo of the original penicillin mould used by Alexander Fleming.
+      Fleming was studying staph bacteria, and had left his petri dishes of
+      staph cultures unattended for an extended period of time. The culture
+      became infected with mould. When Fleming observed the petri dishes again,
+      he realized that the staph did not grow in and around the mould. Further
+      research led him to conclude that penicillin halted the growth of
+      bacteria. Courtesy of Bonhams "
   - privis: /static/img/N_EXHIBIT_PRI_VIS_7.jpg
-    pritxt: >-
+    pritxt: A dried down culture of the fungus Penicillium rubens derived from Sir
+      Alexander Fleming’s penicillin producing strain, deposited in the CABI
+      culture collection in the 1940s. This dish contains penicillium spores
+      taken from Alexander Fleming’s research plates. By being fungal spores,
+      this growth from 2017 is a clone of the penicillium that is commonly
+      benchmarked as the first recorded observation of penicillin in 1928.
       Courtesy of Centre for Agriculture and Bioscience International (CABI),
-      2017 
-
-      A dried down culture of the fungus Penicillium rubens derived from Sir Alexander Fleming’s penicillin producing strain, deposited in the CABI culture collection in the 1940s. This dish contains penicillium spores taken from Alexander Fleming’s research plates. By being fungal spores, this growth from 2017 is a clone of the penicillium that is commonly benchmarked as the first recorded observation of penicillin in 1928.
+      2017.
   - privis: /static/img/N_EXHIBIT_PRI_VIS_8.jpg
     pritxt: The British Journal Of Experimental Pathology.  Courtesy of the Wellcome
       Collection. Shared under CC BY 4.0
