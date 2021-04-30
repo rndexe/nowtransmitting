@@ -20,7 +20,7 @@ pritxt: Fluid Dialogues investigates the stigma around infectious diseases. The
   by T Jayashree for Sangama, Bangalore, India & BUKO-Pharma, Kampagne,
   Bielfeld, Germany, 2005.
 exhibitauthor:
-  - authorimage: /static/img/m_exhibit_sec_vis_1.jpg
+  - authorimage: ""
     authorname: Basse Stittgen
     authorbio: "The work of Basse Stittgen is positioned at the intersection of
       design, art and material research. It stems from a fascination for matter,
