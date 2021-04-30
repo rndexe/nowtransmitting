@@ -3,11 +3,14 @@ layout: default
 ---
 
 <body class="overflow-hidden">
+	<div class="menu-container" id="menu-container">
+
 	<main class="block lg:flex lg:flex-col">
 
 		<div class="w-screen fixed">
 			<div>
 				{% include "./partials/navbar.html" %}
+				{% include "./partials/menu.html" %}
 				<div id="main" class="flex flex-col lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-gray-700 scroll-snap"> 
 				{% include "./partials/navbar_top.html" %}
 				{{ content | safe }}
@@ -16,6 +19,7 @@ layout: default
 			</div>
 		</div>
 	</main>
+	</div>
 </body>
 {% if path == "home" %}
 <!-- Netlify Identity Widget -->
@@ -24,3 +28,4 @@ layout: default
 {% endif %}
 
 <script type="text/javascript" src="/static/js/exhibit_scroll.js"></script>
+<script src="/static/js/menu_exhibit.js"></script>
