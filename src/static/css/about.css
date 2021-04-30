@@ -57,7 +57,7 @@ div{
     grid-template-columns: 1fr 2fr;
     grid-template-rows: 20% auto;
     gap: 1rem;
-    padding: 2rem 0 0 0;
+    padding: 1rem 0 0 0;
     
 }
 
@@ -67,6 +67,8 @@ div{
     grid-template-rows: 20% auto;
     gap: 1rem;    
 }
+
+
 .about-grid .advisor img {
     /* width: 12rem;
     height: 12rem; */
