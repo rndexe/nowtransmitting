@@ -43,7 +43,7 @@ path: about
                         </ul>
                     </div>
                 
-                    <div id="main" class="flex flex-col lg:flex-row overflow-x-hidden max-h-screen w-auto bg-gray-700 scroll-snap"> 
+                    <div id="main" class="flex flex-col lg:flex-row overflow-y-hidden overflow-x-hidden w-auto bg-white scroll-snap"> 
                         <!-- {% include "./_includes/partials/navbar_top.html" %} -->
                         {{ content | safe }}
                         {% include "./about1.html" %}
@@ -73,7 +73,7 @@ path: about
     const scrollTo = (href) => {
         let targetId = href.split("#").reverse()[0]
         // console.log(targetId);
-        document.getElementById(targetId).scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"})
+        document.getElementById(targetId).scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"})
     }
 
     $(document).ready(function() {
@@ -92,6 +92,18 @@ path: about
             });
         }
     });
+
+    // $(document).ready(function() {
+    //     $('#nav-items>li>a').bind('click',function(event){
+    //         var $anchor = $(this);
+
+    //         console.log($($anchor.attr('href')).offset().left);
+    //         $('#main').stop().animate({
+    //             scrollLeft: $($anchor.attr('href')).offset().left
+    //         }, 1000);
+    //         event.preventDefault();
+    //     });
+    // });
 
     
 </script>

@@ -1,13 +1,17 @@
 #about-content {
     display: grid;
-    width: 95vw;
+    width: 80vw;
     height: 100vh;
     grid-template-rows: 1fr 2fr auto;
     gap: 2rem;
-    margin: 0 1rem 3rem 10rem;
-    padding: 3rem 0 0 0;
+    margin: 0 1rem 0 10rem;
+    padding: 3rem 0 3rem 0;
     overflow-x: auto;
     overflow-y: hidden;
+}
+
+#main {
+    height: fit-content;
 }
 
 ::-webkit-scrollbar{width:2px;height:2px;}
@@ -19,17 +23,28 @@ div{
 
 #main .section {
     width: 100%;
+    height: fit-content;
 }
 
 #main #programme-partners {
     width: 200%;
 }
 
-.about-grid {
-    padding: 2rem 4rem 2rem 4rem;
+#main #academic-advisors {
+    width: 150%;
+    height: 50%;
+}
 
+.about-grid {
+    /* margin: 2rem 4rem 2rem 4rem; */
+    padding: 2rem 4rem 2rem 0;
+
+    /* max-width: 90vw; */
+    width: 100%;
+    height: 100%;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
+    /* grid-template-rows: auto; */
     gap: 2rem;
 
     font-weight: 400;
@@ -56,9 +71,9 @@ div{
 .about-grid .advisor{
     display: grid;
     grid-template-columns: 1fr 2fr;
-    grid-template-rows: 20% auto;
+    grid-template-rows: 15% auto;
     gap: 1rem;
-    padding: 1rem 0 0 0;
+    /* padding: 1rem 0 0 0; */
     
 }
 
@@ -90,13 +105,7 @@ div{
 
 .about-grid.programme-partners {
     grid-template-columns: repeat(5, 1fr);
-    padding: 2rem .75rem 2rem .75rem;
-}
-
-.about-grid .partner {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    /* gap: 1rem; */
+    /* padding: 2rem .75rem 2rem .75rem; */
 }
 
 @media only screen and (min-width: 1024px) {
@@ -133,9 +142,7 @@ div{
     }  
 }
 
-.about-grid.about {
 
-}
 
 .horizontal-scroll-wrapper {
     
