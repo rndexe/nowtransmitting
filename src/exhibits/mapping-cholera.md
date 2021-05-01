@@ -9,8 +9,8 @@ exhibitauthor:
       Reporting.
     authorname: Sonia Shah
     authorimage: /static/img/K_EXHIBIT_SEC_VIS_1.jpg
-  - authorname: Dan McCreary
-    authorbio: Dan McCreary is an information designer in Washington. He is an
+  - authorname: Dan McCarey
+    authorbio: Dan McCarey is an information designer in Washington. He is an
       alumnus of the Pulitzer Center, and has designed and built the Mapping
       Cholera website.
     authorimage: /static/img/k_exhibit_sec_vis_2.jpg
