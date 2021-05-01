@@ -38,7 +38,31 @@ expertbio: "Dr. Jyoti Joshi MBBS MD (Community Medicine) & MSc (Infectious
   well as Chicken or Egg: Drivers of antimicrobial resistance in poultry in
   India (DARPI). "
 readinglist:
-  - {}
-  - {}
-  - {}
+  - quadreadlink: https://www.who.int/docs/default-source/documents/no-time-to-wait-securing-the-future-from-drug-resistant-infections-en.pdf?sfvrsn=5b424d7_6
+    quadreadtxt: "No Time to Wait: Securing the Future From Drug-Resistant Infections"
+  - quadreadlink: https://theconversation.com/engineered-viruses-can-fight-the-rise-of-antibiotic-resistant-bacteria-154337
+    quadreadtxt: " Engineered Viruses Can Fight The Rise Of Antibiotic-Resistant Bacteria"
+  - quadreadlink: https://www.smithsonianmag.com/smart-news/antibiotic-apocalypse-upon-us-five-ways-we-can-turn-things-around-1-180959188/
+    quadreadtxt: ' The "Antibiotic Apocalypse" Is Upon Us: Five Ways We Can Turn
+      Things Around'
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/3J7mDz163YhLHiWCW87b9X
+    quadlisttxt: "The Path of Most (Antibiotic) Resistance "
+  - quadlistlink: https://podcasts.ox.ac.uk/fight-resistance
+    quadlisttxt: Fight the Resistance
+watchinglist:
+  - quadwatchlink: https://cddep.org/publications/diary-of-a-staph/
+    quadwatchtxt: "Superbug Story: Diary of A Staph"
+  - quadwatchlink: https://www.youtube.com/watch?v=iWHq2m_Hwhw
+    quadwatchtxt: The Coming Crisis in Antibiotics
+eventlist:
+  - quadeventtxt: Robert Koch Museum Walkthrough | Event by Robert Koch Institute
+    quadeventlink: http://bit.ly/event-rki
+  - quadeventtxt: "Identifying Variants of SARS-CoV-2 in India: What Does It Mean
+      for Prevention and Control of the Pandemic? | Lecture by Chitra
+      Pattabiraman"
+    quadeventlink: http://bit.ly/lecture-pattabiraman
+relatedlist:
+  - quadrelatedtxt: Moulding Modern Medicine
+  - quadrelatedtxt: Putting the Ant into Antibiotics by John Innes Centre
 ---
