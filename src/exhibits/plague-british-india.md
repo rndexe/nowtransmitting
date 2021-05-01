@@ -6,7 +6,7 @@ thumb: /static/img/A_Exhibit_Thumbnail.jpg
 title: "Controlling the Plague in British India "
 subtitle: "A Visual History of the Plague "
 medium: Photographs
-year: 2013 – 2017
+year: 1896 – 1898
 description: >-
   The third plague pandemic broke out in Yunnan, China in 1855 and swept across
   the globe until 1955, causing the death of approximately 12 million people.
@@ -162,13 +162,6 @@ watchinglist:
   - quadwatchtxt: Politics and Aesthetics of a Post-Pandemic Condition
     quadwatchlink: https://www.youtube.com/watch?v=aPowJrioMAc&ab_channel=CEFCHongKong
     quadwatchvis: /static/img/A_EXHIBIT_QUA_WATCHVIS_2.jpg
-relatedlist:
-  - quadrelatedtxt: "Drawing the Bombay Plague - Ranjit Kandalgaonkar "
-    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
-  - quadrelatedtxt: "Contagion in the 21st Century | Esther Maria Antao "
-    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
 eventlist:
   - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
       Christos Lynteris "
@@ -177,4 +170,11 @@ eventlist:
   - quadeventtxt: Age of Pandemics | Lecture by Chinmay Tumbe
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/148314096455
+relatedlist:
+  - quadrelatedtxt: "Drawing the Bombay Plague - Ranjit Kandalgaonkar "
+    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
+  - quadrelatedtxt: "Contagion in the 21st Century | Esther Maria Antao "
+    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
 ---
