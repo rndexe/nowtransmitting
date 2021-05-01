@@ -41,8 +41,8 @@ watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=uGBmStFmFOw
     quadwatchtxt: What Do We Know About COVID-19?
 eventlist:
-  - quadeventlink: Creating Interactive Art About Pandemics
-    quadeventtxt: http://bit.ly/masterclass-adams
+  - quadeventlink: "http://bit.ly/masterclass-adams  "
+    quadeventtxt: Creating Interactive Art About Pandemics
   - quadeventlink: http://bit.ly/lecture-marathe
     quadeventtxt: "Real-Time Contagion Science in the 21st Century: The Role of Data
       and Computing | Lecture by Madhav Marathe"
