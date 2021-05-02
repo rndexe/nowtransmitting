@@ -1,6 +1,7 @@
 ---
 title: Everything You Wanted To Know About Non-Western Covid Vaccines But Were
   Afraid To Ask
+thumb: /static/img/pl_achal.png
 date: 2021-05-21T13:00:00.000Z
 description: >-
   The entire world faces a shortage of coronavirus vaccines, even though it is
