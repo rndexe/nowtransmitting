@@ -49,5 +49,7 @@ eventlist:
     quadeventtxt: One Health | Lecture by Uma Ramakrishnan
 relatedlist:
   - quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
+    quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
   - quadrelatedtxt: Putting the Ant into Antibiotics by John Innes Centre
+    quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
 ---
