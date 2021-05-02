@@ -45,6 +45,7 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-tumbe
 relatedlist:
   - quadrelatedtxt: Contagion in the 21st Century by Esther-Maria Antao
-  - quadrelatedlink: ""
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
 ---
