@@ -1,5 +1,6 @@
 ---
 title: "COVID-19 Vaccines: Telling the Story | Workshop "
+thumb: /static/img/wk_hannah.png
 date: 2021-05-30T08:30:00.000Z
 description: >-
   Many more people are engaging with vaccines than ever before, and those
