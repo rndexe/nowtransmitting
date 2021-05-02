@@ -28,8 +28,7 @@ readinglist:
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/oct/12/covid-19-treatable-vaccines-treatments
     quadreadtxt: Soon Covid-19 Will Be Treatable, But It Shouldn't Just Be The Rich
       Who Benefit
-  - quadreadlink: Soon Covid-19 Will Be Treatable, But It Shouldn't Just Be The Rich
-      Who Benefit
+  - quadreadlink: https://www.weforum.org/agenda/2019/08/important-tool-in-healthcare-is-trust-vaccines-africa/
     quadreadtxt: Why The Most Important Tool In Healthcare Is Trust
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/apr/18/coronavirus-knows-no-international-borders-neither-must-its-eventual-cure
     quadreadtxt: Coronavirus Knows No International Borders, Neither Must Its Eventual Cure
