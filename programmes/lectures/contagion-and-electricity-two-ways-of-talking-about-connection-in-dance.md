@@ -1,5 +1,6 @@
 ---
 title: "Contagion and Electricity: Two Ways of Talking About Connection in Dance"
+thumb: /static/img/pl_ananya.png
 date: 2021-05-23T13:00:00.000Z
 description: >-
   Es como electricidad/ el mambo tiene la chispa’ (Mambo is like electricity; it
