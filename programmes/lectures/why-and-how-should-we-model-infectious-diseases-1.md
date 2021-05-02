@@ -2,7 +2,7 @@
 title: Why And How Should We Model Infectious Diseases?
 thumb: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
 date: 2021-05-01T13:00:00.000Z
-description: >
+description: >-
   Pandemics of infectious disease conjure up images of crowded hospitals,
   medical staff in protective gear and bodies, loads of them. They certainly
   don’t suggest images of people working at computers or at boards, writing down
@@ -48,6 +48,7 @@ eventlist:
       and Computing | Lecture by Madhav Marathe"
 relatedlist:
   - quadrelatedtxt: COVID-19 Indoor Safety Guide by Martin Bazant, John Bush, and Kasim Khan
-  - quadrelatedlink: ""
+    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
 ---
