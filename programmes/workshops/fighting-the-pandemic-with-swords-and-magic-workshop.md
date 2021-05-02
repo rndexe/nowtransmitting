@@ -1,5 +1,6 @@
 ---
 title: "Fighting the Pandemic with Swords and Magic | Workshop "
+thumb: /static/img/wk_shreya-shreyas.png
 date: 2021-05-16T04:30:00.000Z
 description: >-
   The world is trapped in the jaws of a deadly pandemic. The virus knows no
