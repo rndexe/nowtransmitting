@@ -47,4 +47,5 @@ eventlist:
       Lecture by Sheila Jasanoff"
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
 ---
