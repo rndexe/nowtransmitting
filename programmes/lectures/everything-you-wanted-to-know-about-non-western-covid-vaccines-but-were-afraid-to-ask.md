@@ -56,6 +56,6 @@ eventlist:
   - quadeventtxt: "Covid-19 Vaccines: Telling the Story | Workshop by Hannah Chhoa Howard"
     quadeventlink: http://bit.ly/workshop-howard
 relatedlist:
-  - quadrelatedlink: ""
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedtxt: Controlling the Plague in British India
 ---
