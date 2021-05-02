@@ -47,6 +47,8 @@ eventlist:
     quadeventlink: https://bit.ly/lecture-farrar
 relatedlist:
   - quadrelatedtxt: Contagion in the 21st Century
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
   - quadrelatedtxt: COVID-19 Indoor Safety Guideline by Martin Bazant, John Bush,
       and Kasim Khan
+    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
 ---
