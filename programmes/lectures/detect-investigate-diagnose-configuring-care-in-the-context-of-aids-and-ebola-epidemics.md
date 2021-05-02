@@ -1,7 +1,52 @@
 ---
 title: "Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS
   and Ebola Epidemics"
+thumb: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
 date: 2021-05-22T13:00:00.000Z
+description: >-
+  COVID-19 has transformed the ways in which social, cultural, political, and
+  economic factors influence the way a people and the state respond to health
+  crises. The politics of healthcare are complex and differ from country to
+  country, population to population. The histories and anthropologies of
+  epidemics have become increasingly urgent to study, so that we may better
+  prepare ourselves for the future. 
+
+
+  Drawing on ethnographic and historical research on HIV/AIDS care and support and the 2014-16 epidemic of Ebola in Sierra Leone, Benton will address some of the key ideologies, social practices, and political-economic factors underpinning epidemic response, as well as the means by which state and non-state actors configure care during an epidemic.
 link: http://bit.ly/lecture-benton
 expertname: Adia Benton
+expertbio: "Adia Benton is an associate professor of Anthropology and African
+  Studies at Northwestern University, where she is affiliated with the Science
+  in Human Culture Program. She is the author of the award-winning book, HIV
+  Exceptionalism: Development through Disease in Sierra Leone, and is currently
+  writing a book about the West African Ebola outbreak. More broadly, she
+  studies the political, economic and historical factors shaping how care is
+  provided in complex humanitarian emergencies and in longer-term development
+  projects—like those for health."
+readinglist:
+  - quadreadlink: https://www.lrb.co.uk/the-paper/v37/n10/paul-farmer/the-caregivers-disease
+    quadreadtxt: " The Caregivers' Disease"
+  - quadreadlink: http://somatosphere.net/2020/writing-life-mbullo-benton-interview.html/
+    quadreadtxt: "Writing Life: An Interview With Adia Benton"
+  - quadreadlink: https://theconversation.com/five-ways-coronavirus-is-deepening-global-inequality-144621
+    quadreadtxt: Five Ways Coronavirus Is Deepening Global Inequality
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/1WLYepdVNjkbP3H5I0etuv
+    quadlisttxt: Ebola in West Africa with Adia Benton
+  - quadlistlink: https://open.spotify.com/episode/73CGr2bTBnkKfTFHRBbqEG
+    quadlisttxt: Conversations in Anthropology
+  - quadlistlink: https://open.spotify.com/episode/72r64GdFJBftk7kt2Tu1hB
+    quadlisttxt: Ebola Outbreaks in West Africa
+watchinglist:
+  - quadwatchlink: https://www.pbs.org/wgbh/frontline/film/outbreak/
+    quadwatchtxt: Outbreak
+  - quadwatchlink: https://www.youtube.com/watch?v=GKZ9xJnpe0U
+    quadwatchtxt: "Perspectives on the Pandemic: An Anthropologists View"
+eventlist:
+  - quadeventlink: A Human Question | Film Discussion
+  - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
+      Lecture by Sheila Jasanoff"
+relatedlist:
+  - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
 ---
