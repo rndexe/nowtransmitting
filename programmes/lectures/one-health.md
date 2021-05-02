@@ -3,6 +3,17 @@ title: "One Health "
 date: 2021-06-04T13:00:00.000Z
 link: http://bit.ly/lecture-ramakrishnan
 expertname: Uma Ramakrishnan
+expertbio: "Uma Ramakrishnan is a professor at the National Center for
+  Biological Sciences (NCBS) in Bengaluru. Ramakrishnan obtained her PhD on
+  population genetics from the University of California, San Diego and continued
+  her postdoctoral training at Stanford University. She joined the faculty at
+  NCBS in 2005, where her laboratory uses genetic data to understand how changes
+  in the ecosystem affect biodiversity. Her laboratory has pioneered methods to
+  study the population genetics of tigers by studying their fecal samples. She
+  is also interested in understanding how geography affects the biodiversity in
+  mountain bird communities. For her scientific contribution in the field of
+  conservation biology, she received the Parker/Gentry Award in 2016, and was
+  awarded the Core Fulbright Visiting Fellowship in 2015. "
 readinglist:
   - quadreadlink: https://theconversation.com/one-health-keeps-humans-one-step-ahead-of-the-microbes-106984
     quadreadtxt: "'One Health' Keeps Humans One Step Ahead Of The Microbes"
