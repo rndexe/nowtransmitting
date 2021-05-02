@@ -1,5 +1,6 @@
 ---
 title: "Drawing (from) the Bombay Plague | Workshop "
+thumb: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
 date: 2021-05-23T04:30:00.000Z
 description: >-
   'Drawing the Bombay Plague' was an image that served as a reminder of the
