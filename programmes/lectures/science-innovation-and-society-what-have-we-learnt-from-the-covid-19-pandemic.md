@@ -1,6 +1,7 @@
 ---
 title: "Science, Innovation and Society: What Have We Learnt From the Covid-19
   Pandemic?"
+thumb: /static/img/f_exhibit_qua_atnvis_2.jpg
 date: 2021-06-13T13:00:00.000Z
 description: >-
   The COVID-19 pandemic has sent alarm bells ringing throughout the world. This
