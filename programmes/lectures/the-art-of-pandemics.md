@@ -1,5 +1,6 @@
 ---
 title: The Art of Pandemics
+thumb: /static/img/pl_girish.png
 date: 2021-05-30T13:00:00.000Z
 description: >-
   The current pandemic has given rise to a number of artistic enquiries.
