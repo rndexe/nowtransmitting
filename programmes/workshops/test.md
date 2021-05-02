@@ -1,5 +1,6 @@
 ---
 title: "Google Search Trends As A Surveillance Tool | Workshop "
+thumb: /static/img/wk_shreya.png
 date: 2021-05-15T04:30:00.000Z
 description: "What can Google Search Trends tell us about the spread of
   COVID-19? According to epidemiologists, and open data researchers, it can help
