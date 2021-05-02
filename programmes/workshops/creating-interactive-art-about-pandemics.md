@@ -1,6 +1,6 @@
 ---
 title: "Creating Interactive Art About Pandemics | Masterclass "
-thumb: ""
+thumb: /static/img/h_exhibit_qua_atnvis_2.jpg
 date: 2021-05-09T08:30:00.000Z
 description: >-
   In 2018 Blast Theory were the first artists-in-residence at the World Health
