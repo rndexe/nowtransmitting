@@ -1,5 +1,6 @@
 ---
 title: Information...It's Complicated | Workshop
+thumb: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
 date: 2021-05-16T08:30:00.000Z
 description: >-2
    The information ecosystem can be perplexing and complicated. As the infodemic spreads, let’s talk about why the term ‘fake news’ can be misleading. This online workshop will dive deeply into the definitions of misinformation and disinformation; using real world examples to explore the difference between the two. 
