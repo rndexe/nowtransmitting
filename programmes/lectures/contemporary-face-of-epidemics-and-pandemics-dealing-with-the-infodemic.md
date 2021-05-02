@@ -8,6 +8,7 @@ description: >-
 
   2020, exacting an enormous toll on individuals, communities and economies. Its scale demands the development of innovative solutions. While all past epidemics have been accompanied by infodemics, which the World Health Organization defined as a proliferation of information—some accurate, some not—that spreads alongside a disease outbreak, the extent of the infodemic accompanying the COVID-19 pandemic is unprecedented. 
 
+
   This talk asks questions about this information pandemic. What causes an infodemic? What are the challenges posed by the infodemic? Can it be eliminated ? Can it be managed? How can we leverage new technologies to manage the infodemic?
 link: http://bit.ly/lecture-briand
 expertname: Sylvie Briand
@@ -49,5 +50,7 @@ eventlist:
     quadeventlink: http://bit.ly/event-richardson
 relatedlist:
   - quadrelatedtxt: 2020 Vision by Robert Good
-  - quadrelatedlink: "The Glassroom: Misinformation Edition"
+    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
+    quadrelatedtxt: "The Glassroom: Misinformation Edition"
 ---
