@@ -59,6 +59,7 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-sholts
 relatedlist:
   - quadrelatedtxt: Contagion in the 21st Century by Esther Maria-Antao
-  - quadrelatedlink: ""
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
     quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazan, John Bush, Kasim Khan
 ---
