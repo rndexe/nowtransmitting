@@ -1,6 +1,7 @@
 ---
 title: "Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS
   and Ebola Epidemics"
+thumb: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
 date: 2021-05-22T13:00:00.000Z
 description: >-
   COVID-19 has transformed the ways in which social, cultural, political, and
