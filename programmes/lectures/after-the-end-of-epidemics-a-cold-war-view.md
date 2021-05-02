@@ -48,5 +48,7 @@ eventlist:
     quadeventlink: http://bit.ly/workshop-kandalgaonkar
 relatedlist:
   - quadrelatedtxt: Fluid Dialogues by Basse Stittgen
+    quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
   - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
+    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
 ---
