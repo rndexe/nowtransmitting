@@ -64,5 +64,7 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-pattabiraman
 relatedlist:
   - quadrelatedtxt: Moulding Modern Medicine
-  - quadrelatedtxt: Putting the Ant into Antibiotics by John Innes Centre
+    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+  - quadrelatedtxt: THERIAK | The Disease Map by Sarah Craske
+    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
 ---
