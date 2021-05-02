@@ -1,21 +1,15 @@
 ---
 title: " After the End of Epidemics: A Cold War View"
 date: 2021-05-08T13:00:00.000Z
-description: >-
-  The enduring persistence, resurgence and mutation of many epidemic diseases
-  have made
-
-  apparent the problematic nature of the ‘epidemic disease narrative’ in the 21st century. With
-
-  the quick succession of intractable global epidemic crises in the early 21st century, clear narratives of beginning, crisis, and ‘ending’ have become increasingly untenable as a
-
-  comprehensive explanatory model. Historical research can help us understand how
-
-  epidemic narratives fuelled and mobilised people and resources in the 20th century, and
-
-  approaches we need to consider as we are faced with the uncertain trajectory of many
-
-  diseases in the 21st century. 
+description: "The enduring persistence, resurgence and mutation of many epidemic
+  diseases have made apparent the problematic nature of the ‘epidemic disease
+  narrative’ in the 21st century. With the quick succession of intractable
+  global epidemic crises in the early 21st century, clear narratives of
+  beginning, crisis, and ‘ending’ have become increasingly untenable as a
+  comprehensive explanatory model. Historical research can help us understand
+  how epidemic narratives fuelled and mobilised people and resources in the 20th
+  century, and approaches we need to consider as we are faced with the uncertain
+  trajectory of many diseases in the 21st century. "
 link: http://bit.ly/lecture-vargha
 expertname: Dora Vargha
 expertbio: "Professor Dora Vargha is Senior Lecturer based at the Department of
