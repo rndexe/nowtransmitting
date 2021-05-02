@@ -1,6 +1,7 @@
 ---
 title: Identifying Variants of SARS-CoV-2 in India – What Does It Mean For
   Prevention and Control Of The Pandemic?
+thumb: /static/img/pl_chitra.png
 date: 2021-05-14T13:00:00.000Z
 description: >-
   The coronavirus (SARS-CoV-2) that causes COVID-19 is changing, with about one
