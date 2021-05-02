@@ -1,5 +1,6 @@
 ---
 title: "Keep Calm and Spot the Design Tricks | Workshop "
+thumb: /static/img/g_exhibit_qua_atnvis_2.jpg
 date: 2021-05-15T08:30:00.000Z
 description: "This workshop explores the world of persuasive design and design
   tricks, which are design decisions on websites, apps, and in advertisements
