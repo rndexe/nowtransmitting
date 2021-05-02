@@ -1,6 +1,7 @@
 ---
 title: "Real-Time Contagion Science in the 21st Century: The Role of Data and
   Computing"
+thumb: /static/img/pl_madhav.png
 date: 2021-06-12T13:00:00.000Z
 description: >-
   Infectious diseases cause more than 10 million deaths a year worldwide.
