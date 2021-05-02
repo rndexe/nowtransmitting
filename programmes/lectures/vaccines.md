@@ -1,5 +1,6 @@
 ---
 title: Vaccines
+thumb: /static/img/pl_gagandeep.png
 date: 2021-05-28T13:00:00.000Z
 link: http://bit.ly/lecture-kang
 expertname: Gagandeep Kang
