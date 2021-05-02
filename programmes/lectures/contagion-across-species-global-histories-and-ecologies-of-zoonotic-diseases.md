@@ -1,5 +1,6 @@
 ---
 title: "Contagion Across Species: Global Histories and Ecologies of Zoonotic Diseases"
+thumb: /static/img/pl_michael.png
 date: 2021-05-29T13:00:00.000Z
 description: >-
   COVID-19 is a pandemic caused by a virus, SARS-CoV-2, that crossed from
