@@ -29,6 +29,7 @@ expertbio: Sheila Jasanoff is Pforzheimer Professor of Science and Technology
   the Government of Austria, and membership in the Royal Danish Academy. She
   holds AB, JD, and PhD degrees from Harvard, and honorary doctorates from the
   Universities of Twente and Liège.
+expertpic: /static/img/pl_sheila_portrait.png
 readinglist:
   - quadreadlink: https://www.thenation.com/article/society/sheila-jasanoff-interview-coronavirus/
     quadreadtxt: Science Will Not Come on a White Horse With a Solution
