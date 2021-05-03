@@ -30,8 +30,24 @@ module.exports = {
          '192': '48rem',
          '240': '60rem',
          '288': '72rem',
+      },
+      keyframes: {
+        'fade-in-down': {
+          '0%,100%': {
+            opacity: '1',
+            transform: 'translateY(-100%)',
+          },
+          '50%': {
+            opacity: '0',
+            transform: 'translateY(100%)',
+        },
       }
+  },
+  animation: {
+      'fade-in-down': 'fade-in-down 2s infinite'
+  }
     },
+    
     fontFamily: {
           'display' : 'Playfair Display',
           'trade'    : 'Trade Gothic',	    

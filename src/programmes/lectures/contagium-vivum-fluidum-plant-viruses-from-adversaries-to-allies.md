@@ -29,28 +29,38 @@ expertbio: George Lomonossoff obtained both his B.A. and Ph.D. from the
   Microbiology Society Colworth Prize Lecture. The transient expression system
   he developed (CPMV-HT) is used worldwide and is currently deployed by Leaf
   Expression Systems, Norwich to scale-up production of plant-made products.
+expertpic: /static/img/pl_george_portrait.png
 readinglist:
   - quadreadlink: https://theconversation.com/plant-viruses-from-crop-pathogens-to-key-players-in-bio-nanotechnology-47235
     quadreadtxt: "Plant Viruses: From Crop Pathogens To Key Players In Bio-Nanotechnology"
+    quadreadvis: /static/img/c_pl_qua_readvis_1.png
   - quadreadlink: https://www.livemint.com/Science/pX447h0j0ynbvUvlBJ1rZM/Plant-based-polio-vaccine-developed-scientists.html
     quadreadtxt: Plant Based Polio Vaccine Developed
+    quadreadvis: /static/img/c_pl_qua_readvis_2.png
   - quadreadlink: https://moelling.ch/wordpress/wp-content/uploads/2018/01/Rev_Roum-_Tulipomania-3.pdf
     quadreadtxt: The First Financial Crisis By Viruses
+    quadreadvis: /static/img/c_pl_qua_readvis_3.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/40AbuVcZfal45SJrjtV8HL
     quadlisttxt: " Behind the Leaf Podcast "
+    quadlistvis: /static/img/c_pl_qua_listvis_1.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=pzJ_mILGYL8
     quadwatchtxt: "Studying A Plant Virus: Fundamental Research To Application And
       Back Again"
+    quadwatchvis: /static/img/c_pl_qua_watchvis_1.png
   - quadwatchlink: https://www.youtube.com/watch?v=jeLwY4Ez4V8
     quadwatchtxt: Shaping The Future Virtual Seminar On Vaccine Development
+    quadwatchvis: /static/img/c_pl_qua_watchvis_2.png
 eventlist:
   - quadeventlink: http://bit.ly/lecture-ramakrishnan
     quadeventtxt: One Health | Lecture by Uma Ramakrishnan
+    quadeventvis: /static/img/pl_uma.png
 relatedlist:
   - quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
     quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: Putting the Ant into Antibiotics by John Innes Centre
     quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
 ---

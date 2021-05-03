@@ -248,18 +248,21 @@ loadJSON(function(json) {
        if(n!=undefined){
             if(n>23){
                 var d = new Date()
+
+                var date = d.getDate()
+                var month = d.getMonth()
+                var year = d.getFullYear()
                 if(d <= new Date('2021-5-2')){
                     if(n==24){
                         var pop = createProgramPopup(
-                            "Contemporary Face of Epidemics and Pandemics: Dealing With the Infodemic by Sylvie Briand",
+                            "Antimicrobial Resistance: The Pandemic in the Shadows by Jyoti Joshi",
                             "Lecture",
-                            "../static/img/lp_assets/programme3.jpg",
-                            "May 2, 2021",
+                            "../static/img/N_EXHIBIT_QUA_ATNVIS_1",
+                            "May 7, 2021",
                             "6:30 pm",
-                            "https://www.eventbrite.com/e/dealing-with-the-infodemic-lecture-registration-148308301121?aff=ebdsoporgprofile"
+                            "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
                             );
-
-                        pop.href = "https://www.eventbrite.com/e/dealing-with-the-infodemic-lecture-registration-148308301121?aff=ebdsoporgprofile"
+                        pop.href = "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
                         document.getElementById("networktext").className = "networktext blur"
                         document.getElementById("canvas-1").className = "networkbg blur"
                         document.getElementById("mynetwork").className = "mynetwork blur"
@@ -325,6 +328,70 @@ loadJSON(function(json) {
                         document.getElementById("mynetwork").className = "mynetwork blur"
                         exhibitcards.appendChild(pop)
                     }
+                }
+                else if((d >= new Date('2021-5-3')) && (d <= new Date('2021-5-9')) ){
+                    if(n==24){
+                        var pop = createProgramPopup(
+                            "Antimicrobial Resistance: The Pandemic in the Shadows by Jyoti Joshi",
+                            "Lecture",
+                            "../static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg",
+                            "May 7, 2021",
+                            "6:30 pm",
+                            "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
+                            );
+
+                        pop.href = "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
+                        document.getElementById("networktext").className = "networktext blur"
+                        document.getElementById("canvas-1").className = "networkbg blur"
+                        document.getElementById("mynetwork").className = "mynetwork blur"
+                        exhibitcards.appendChild(pop)
+                    }else if(n==25){
+                        var pop = createProgramPopup(
+                            "After the End of Epidemics: A Cold War View by Dr. Dora Vargha",
+                            "Lecture",
+                            "../static/img/e_exhibit_qua_atnvis_2.jpg",
+                            "May 8, 2021",
+                            "6:30 pm",
+                            "https://www.eventbrite.com/e/after-the-end-of-epidemics-a-cold-war-view-lecture-tutorial-registration-145227026947?aff=ebdsoporgprofile"
+                            );
+
+                        pop.href = "https://www.eventbrite.com/e/after-the-end-of-epidemics-a-cold-war-view-lecture-tutorial-registration-145227026947?aff=ebdsoporgprofile"
+                        document.getElementById("networktext").className = "networktext blur"
+                        document.getElementById("canvas-1").className = "networkbg blur"
+                        document.getElementById("mynetwork").className = "mynetwork blur"
+                        exhibitcards.appendChild(pop)
+                    }else if(n==26){
+                        var pop = createProgramPopup(
+                            "Plague and the Emergence of Epidemic Photography by Christos Lynteris",
+                            "Lecture",
+                            "../static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg",
+                            "May 9, 2021",
+                            "6:30 pm",
+                            "https://www.eventbrite.com/e/plague-and-the-emergence-of-epidemic-photography-lecture-tutorial-registration-145228050007?aff=ebdsoporgprofile"
+                            );
+
+                        pop.href = "https://www.eventbrite.com/e/plague-and-the-emergence-of-epidemic-photography-lecture-tutorial-registration-145228050007?aff=ebdsoporgprofile"
+                        document.getElementById("networktext").className = "networktext blur"
+                        document.getElementById("canvas-1").className = "networkbg blur"
+                        document.getElementById("mynetwork").className = "mynetwork blur"
+                        exhibitcards.appendChild(pop)
+                    }else if(n==27){
+                        var pop = createProgramPopup(
+                            "Creating Interactive Art About Pandemics by Matt Adams",
+                            "Workshop",
+                            "../static/img/h_exhibit_qua_atnvis_2.jpg",
+                            "May 9, 2021",
+                            "2:00 pm",
+                            "https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669?aff=ebdsoporgprofile"
+                            );
+
+                        pop.href = "https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669?aff=ebdsoporgprofile"
+                        document.getElementById("networktext").className = "networktext blur"
+                        document.getElementById("canvas-1").className = "networkbg blur"
+                        document.getElementById("mynetwork").className = "mynetwork blur"
+                        exhibitcards.appendChild(pop)
+                    }
+
                 }
             }else{
                 var pop = createPopup(newjson[n-8].title,newjson[n-8].subtitle,newjson[n-8].thumbnail,newjson[n-8].url);
@@ -537,12 +604,13 @@ var newEdges = new vis.DataSet([
 
 //add stuff to check for date here
 var d = new Date()
-
+console.log(d)
 var date = d.getDate()
 var month = d.getMonth()
+console.log(d.getUTCMonth())
 var year = d.getFullYear()
-
-if(new Date(`${year}-${month}-${date}`) <= new Date('2021-5-2')){
+console.log(`${year}-${month}-${date}`)
+if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
     nodes.add({ id: 24, opacity:0.9,  shape:"circle", group: 1,x:1960,y:500, borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25, opacity:0.9,  shape:"circle", group: 1,x:1930,y:600,  borderWidth: 0,  font: { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26, opacity:0.9,  shape:"circle", group: 1,x:2000,y:800,  borderWidth: 0,  font: { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -553,28 +621,21 @@ if(new Date(`${year}-${month}-${date}`) <= new Date('2021-5-2')){
     newEdges.add({from: 25, to: 23, length:500, color:{opacity:opac}})
     newEdges.add({from: 26, to: 20, length:500, color:{opacity:opac}})
     newEdges.add({from: 28, to: 17, length:100, color:{opacity:opac}})
-  
+    console.log("Week 1")
 
-}else if((d >= new Date('2022-5-3')) && (d <= new Date('2022-5-9')) ){
-    nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 27,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 28,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 29,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 30,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+}else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-3')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-9')) ){
+    console.log("Week 2")
+    nodes.add({ id: 24, opacity:0.9,  shape:"circle", group: 1,x:0,y:300,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+    nodes.add({ id: 25, opacity:0.9,  shape:"circle", group: 1,x:0,y:350,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+    nodes.add({ id: 26, opacity:0.9,  shape:"circle", group: 1,x:0,y:360,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+    nodes.add({ id: 27, opacity:0.9,  shape:"circle", group: 1,x:1960,y:500, borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
 
     newEdges.add({from: 24, to: 25, length:200, color:{opacity:0}})
     newEdges.add({from: 25, to: 26, length:200, color:{opacity:0}})
-    newEdges.add({from: 26, to: 27, length:200, color:{opacity:0}})
-    newEdges.add({from: 27, to: 28, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 29, length:200, color:{opacity:0}})
-    newEdges.add({from: 29, to: 30, length:200, color:{opacity:0}})
-    newEdges.add({from: 30, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
+    newEdges.add({from: 26, to: 24, length:200, color:{opacity:0}})
+    
 }
-else if((d >= new Date('2022-5-10')) && (d <= new Date('2022-5-16')) ){
+else if((d >= new Date('2021-4-10')) && (d <= new Date('2021-4-16')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -603,7 +664,7 @@ else if((d >= new Date('2022-5-10')) && (d <= new Date('2022-5-16')) ){
     newEdges.add({from: 28, to: 24, length:200, color:{opacity:0}})
     newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
 }
-else if((d >= new Date('2022-5-17')) && (d <= new Date('2022-5-23')) ){
+else if((d >= new Date('2021-4-17')) && (d <= new Date('2021-4-23')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -625,7 +686,7 @@ else if((d >= new Date('2022-5-17')) && (d <= new Date('2022-5-23')) ){
     newEdges.add({from: 28, to: 24, length:200, color:{opacity:0}})
     newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
 }
-else if((d >= new Date('2022-5-24')) && (d <= new Date('2022-5-30')) ){
+else if((d >= new Date('2021-4-24')) && (d <= new Date('2021-4-30')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -649,7 +710,7 @@ else if((d >= new Date('2022-5-24')) && (d <= new Date('2022-5-30')) ){
     newEdges.add({from: 28, to: 24, length:200, color:{opacity:0}})
     newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
 }
-else if((d >= new Date('2022-5-31')) && (d <= new Date('2022-6-6')) ){
+else if((d >= new Date('2021-4-31')) && (d <= new Date('2021-5-6')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -668,7 +729,7 @@ else if((d >= new Date('2022-5-31')) && (d <= new Date('2022-6-6')) ){
     newEdges.add({from: 28, to: 24, length:200, color:{opacity:0}})
     newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
 }
-else if((d >= new Date('2022-6-7')) && (d <= new Date('2022-6-13')) ){
+else if((d >= new Date('2021-5-7')) && (d <= new Date('2021-5-13')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -860,6 +921,17 @@ network.on("hoverNode",function (params){
                 showStuff(3)
             }
         }
+        else if((d >= new Date('2021-5-3')) && (d <= new Date('2021-5-9'))){
+            if(id == 24){
+                showStuff(3)
+            }
+            else if(id == 25 || id == 26){
+                showStuff(4)
+            }
+            else if(id == 27){
+                showStuff(2)
+            }
+        }
     }
 //    network.interactionHandler._checkShowPopup(params.pointer.DOM);
 });
@@ -875,7 +947,7 @@ network.on("blurNode", function (params) {
 // });
 
 
-var blobRadius = 40;
+var blobRadius = 45;
 var offset = 10;
 if(window.outerWidth < window.outerHeight){
     blobRadius = 15;
@@ -884,7 +956,7 @@ if(window.outerWidth < window.outerHeight){
 
 function updater(){
     project.clear()
-    var nodeID = [8,11,14,15,16,17,22,24,26];
+    var nodeID = [8,10,14,15,16,17,22,24,26];
 
     ballPositions = [];
     for(const item in nodeID){
