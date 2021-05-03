@@ -26,23 +26,31 @@ expertbio: "Girish Shahane is an independent writer and curator based in Bombay.
 readinglist:
   - quadreadlink: https://thepolyphony.org/2020/06/16/art-in-isolation-artistic-responses-to-covid-19/
     quadreadtxt: "Art in Isolation: Artistic Responses to COVID-19"
+    quadreadvis: /static/img/d_pl_qua_readvis_1.png
   - quadreadlink: https://visualaids.org/gallery/detail/art-aids-and-activism
     quadreadtxt: Art, AIDS, And Activism
+    quadreadvis: /static/img/d_pl_qua_readvis_2.png
   - quadreadlink: https://www.bbc.com/culture/article/20200514-how-art-has-depicted-plagues
     quadreadtxt: What Plague Art Tells Us About Today
+    quadreadvis: /static/img/d_pl_qua_readvis_3.png
 listeninglist:
   - quadlistlink: https://soundcloud.com/theucipodcast/the-arts-respond-to-covid-19
     quadlisttxt: The Arts Respond to COVID-19
+    quadlistvis: /static/img/d_pl_qua_listvis_1.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=ul0LUuRp2oc
     quadwatchtxt: How Pandemics Impact Art
+    quadwatchvis: /static/img/d_pl_qua_watchvis_1.png
 eventlist:
   - quadeventtxt: Creating Interactive Art About Pandemics | Workshop by Matt Adams
     quadeventlink: http://bit.ly/masterclass-adams
+    quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
   - quadeventtxt: A Human Question | Film Discussion
 relatedlist:
   - quadrelatedtxt: "A Cluster of 17 Cases by Blast Theory\t"
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: "Fluid Dialogues by Basse Stittgen\t"
     quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
+    quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_1.jpg
 ---

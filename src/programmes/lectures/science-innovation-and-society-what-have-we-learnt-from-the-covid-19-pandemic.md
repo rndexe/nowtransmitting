@@ -25,6 +25,7 @@ expertbio: "Sir Jeremy Farrar is Director of the Wellcome Trust—a politically
   the European Molecular Biology Organisation and a Fellow of The Royal Society.
   Farrar was knighted in the Queen’s 2018 New Year Honours for services to
   Global Health. "
+expertpic: /static/img/pl_jeremy_portrait.png
 readinglist:
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/oct/12/covid-19-treatable-vaccines-treatments
     quadreadtxt: Soon Covid-19 Will Be Treatable, But It Shouldn't Just Be The Rich

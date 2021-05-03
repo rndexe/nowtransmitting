@@ -7,7 +7,7 @@
 			</div>
 			<div class="w-3/5 mx-auto pt-10">
 				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{expertname}}</p>
-				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade">{{expertbio}}</pre>
+				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade">{{expertbio | markdownify | safe}}</pre>
 			</div>
 		</div>
 </section>

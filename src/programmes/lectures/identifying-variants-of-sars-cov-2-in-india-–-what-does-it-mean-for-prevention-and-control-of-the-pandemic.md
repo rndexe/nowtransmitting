@@ -23,6 +23,7 @@ expertbio: Chitra Pattabiraman is an Early Career Fellow at the Department of
   from the National Centre for Biological Sciences, TIFR, Bangalore, and was
   awarded a SERB-Royal Society Newton International Fellowship for postdoctoral
   work at the University of Liverpool.
+expertpic: /static/img/pl_chitra_portrait.png
 readinglist:
   - quadreadlink: https://covariants.org/
     quadreadtxt: CoVariants

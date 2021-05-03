@@ -10,7 +10,7 @@
 			</div>
 			<div class="w-10/12 ml-10 mr-auto pt-10">
 				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{author.authorname}}</p>
-				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade">{{author.authorbio}}</pre>
+				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade">{{author.authorbio | markdownify | safe}}</pre>
 			</div>
 		</div>
 		{% endfor %}
@@ -23,7 +23,7 @@
 			</div>
 			<div class="w-3/5 mx-auto pt-10">
 				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{authorname}}</p>
-				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade">{{authorbio}}</pre>
+				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade">{{authorbio | markdownify | safe }}</pre>
 			</div>
 		</div>
 	{% endif %}

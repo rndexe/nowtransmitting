@@ -15,6 +15,7 @@ expertbio: "Uma Ramakrishnan is a professor at the National Center for
   mountain bird communities. For her scientific contribution in the field of
   conservation biology, she received the Parker/Gentry Award in 2016, and was
   awarded the Core Fulbright Visiting Fellowship in 2015. "
+expertpic: /static/img/pl_uma_portrait.png
 readinglist:
   - quadreadlink: https://theconversation.com/one-health-keeps-humans-one-step-ahead-of-the-microbes-106984
     quadreadtxt: "'One Health' Keeps Humans One Step Ahead Of The Microbes"
@@ -31,10 +32,13 @@ watchinglist:
 eventlist:
   - quadeventtxt: Decoding OneHealth | Workshop by OneHealth Network
     quadeventlink: http://bit.ly/workshop-onehealth
+    quadeventvis: /static/img/wk_echo.png
   - quadeventtxt: "Contagion Across Species: Global Histories and Ecologies of
       Zoonotic Diseases | Lecture by Michael Bresalier"
     quadeventlink: http://bit.ly/lecture-bresalier
+    quadeventvis: /static/img/pl_michael.png
 relatedlist:
   - quadrelatedtxt: Putting the Ant into Antibiotics by John Innes Centre
     quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
 ---

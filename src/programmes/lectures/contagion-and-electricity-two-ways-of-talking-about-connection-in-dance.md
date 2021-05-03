@@ -23,6 +23,7 @@ expertbio: "Ananya Jahanara Kabir is Professor of English Literature at King’s
   modernity, and creolisation through an ERC Advanced Grant. Her new research is
   on ‘Creole Indias’. In May 2020, she and the Franco-Tamil writer Ari Gautier
   co-founded the cultural platform Le thinnai kreyol."
+expertpic: /static/img/pl_ananya_portrait.png
 readinglist:
   - quadreadlink: https://scroll.in/article/801182/five-exhilarating-dance-moves-that-celebrate-the-traumas-of-modernity
     quadreadtxt: Five Exhilarating Dance Moves That Celebrate The Traumas Of Modernity
