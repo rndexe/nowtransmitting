@@ -23,6 +23,7 @@ expertbio: "Adia Benton is an associate professor of Anthropology and African
   studies the political, economic and historical factors shaping how care is
   provided in complex humanitarian emergencies and in longer-term development
   projects—like those for health."
+expertpic: /static/img/pl_adia_portrait.png
 readinglist:
   - quadreadlink: https://www.lrb.co.uk/the-paper/v37/n10/paul-farmer/the-caregivers-disease
     quadreadtxt: " The Caregivers' Disease"
@@ -49,4 +50,5 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
+    quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
