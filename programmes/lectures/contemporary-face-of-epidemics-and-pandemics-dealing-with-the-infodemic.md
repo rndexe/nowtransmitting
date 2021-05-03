@@ -25,6 +25,7 @@ expertbio: Dr. Sylvie Briand (MD, MPH, PhD) is the director of the Global
   Before joining WHO, Briand worked as public health project director for
   different global health agencies in various geographic regions (South America,
   Africa).
+expertpic: /static/img/pl_sylvie_portrait.png
 readinglist:
   - quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30461-X/fulltext
     quadreadtxt: How to Fight an Infodemic
@@ -42,6 +43,7 @@ listeninglist:
     quadlistvis: /static/img/e_pl_qua_listvis_1.png
   - quadlistlink: https://soundcloud.com/world-economic-forum/seeking-a-cure-for-the
     quadlisttxt: Seeking a Cure for the Infodemic
+    quadlistvis: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=wT2m3kljcSU
     quadwatchtxt: Coronavirus and the Fake News Pandemic
