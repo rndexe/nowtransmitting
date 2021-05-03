@@ -21,6 +21,7 @@ expertbio: "Professor Dora Vargha is Senior Lecturer based at the Department of
   infrastructure of diphtheria antitoxin, the politics of vaccination in the
   Cold War, hospital care of disabled children in communist contexts, and
   shifting epidemic narratives in historical analysis. "
+expertpic: /static/img/pl_dora.png
 readinglist:
   - quadreadlink: https://www.cambridge.org/core/books/polio-across-the-iron-curtain/883EE15249730CF62FC95A52F555096C#fndtn-information
     quadreadtxt: " Polio Across the Iron Curtain"
