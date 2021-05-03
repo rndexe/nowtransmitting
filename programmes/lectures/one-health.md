@@ -15,6 +15,7 @@ expertbio: "Uma Ramakrishnan is a professor at the National Center for
   mountain bird communities. For her scientific contribution in the field of
   conservation biology, she received the Parker/Gentry Award in 2016, and was
   awarded the Core Fulbright Visiting Fellowship in 2015. "
+expertpic: /static/img/pl_uma_portrait.png
 readinglist:
   - quadreadlink: https://theconversation.com/one-health-keeps-humans-one-step-ahead-of-the-microbes-106984
     quadreadtxt: "'One Health' Keeps Humans One Step Ahead Of The Microbes"
