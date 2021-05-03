@@ -37,6 +37,7 @@ expertbio: "Dr. Jyoti Joshi MBBS MD (Community Medicine) & MSc (Infectious
   Antibiotics in India-Understanding, innovating and improving compliance as
   well as Chicken or Egg: Drivers of antimicrobial resistance in poultry in
   India (DARPI). "
+expertpic: /static/img/pl_jyoti_portrait.png
 readinglist:
   - quadreadlink: https://www.who.int/docs/default-source/documents/no-time-to-wait-securing-the-future-from-drug-resistant-infections-en.pdf?sfvrsn=5b424d7_6
     quadreadtxt: "No Time to Wait: Securing the Future From Drug-Resistant Infections"
