@@ -35,5 +35,7 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-tumbe
 relatedlist:
   - quadrelatedtxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar "
+    quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
   - quadrelatedtxt: "Controlling the Plague in British India by Christos Lynteris "
+    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
 ---
