@@ -22,6 +22,7 @@ expertbio: Professor Michael Bresalier is a lecturer in the history of modern
   problems of hunger, nutrition, and infectious disease in humans and animals,
   and with how these problems have been crucial to projects of development,
   human rights, and humanitarianism.
+expertpic: /static/img/pl_michael_portrait.png
 readinglist:
   - quadreadlink: https://www.jstor.org/stable/3655231?seq=1#metadata_info_tab_contents
     quadreadtxt: "Natural Histories of Infectious Disease: Ecological Vision in
