@@ -29,6 +29,7 @@ expertbio: Achal Prabhala is a public health activist, the coordinator of the
   and South Africa. He has worked to drive change in the legal and policy
   frameworks that have underpinned the development and manufacture of medicines
   for decades.
+expertpic: /static/img/pl_achal_portrait.png
 readinglist:
   - quadreadlink: https://www.nytimes.com/2020/12/07/opinion/covid-vaccines-patents.html
     quadreadtxt: Want Vaccines Fast? Suspend Intellectual Property Rights
