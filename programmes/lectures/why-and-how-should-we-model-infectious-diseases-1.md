@@ -26,29 +26,40 @@ expertbio: Gautam I. Menon is a Professor of Physics and Biology at Ashoka
 readinglist:
   - quadreadlink: https://science.thewire.in/the-sciences/covid-19-pandemic-infectious-disease-transmission-sir-seir-icmr-indiasim-agent-based-modelling/
     quadreadtxt: "COVID-19 Pandemic: Should You Believe What the Models Say About India?"
+    quadreadvis: /static/img/b_pl_qua_readvis_1.jpg
   - quadreadlink: https://science.thewire.in/the-sciences/coronavirus-pandemic-infectious-disease-transmission-modelling-kermack-mckendrick-theory-seir-model/
     quadreadtxt: How Do Scientists Model the Spread of an Infectious Disease?
+    quadreadvis: /static/img/b_pl_qua_readvis_2.jpg
   - quadreadlink: https://theconversation.com/how-to-model-a-pandemic-134187
     quadreadtxt: How to Model a Pandemic
+    quadreadvis: /static/img/b_pl_qua_readvis_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/4h5qTVcKXUGM9DAqRzEGOU
     quadlisttxt: A Mathematical Model to Reflect Local Realities
+    quadlistvis: /static/img/b_pl_qua_listvis_1.jpg
   - quadlistlink: https://soundcloud.com/social-media-the-federal/what-is-indian-exceptionalism-explains
     quadlisttxt: Gautam Menon Explains 'Super-spreaders' Concept Behind COVID-19
+    quadlistvis: /static/img/b_pl_qua_listvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=0Q2ef89dn8I
     quadwatchtxt: Engaging COVID-19 Using Data and Science
+    quadwatchvis: /static/img/b_pl_qua_watchvis_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=uGBmStFmFOw
     quadwatchtxt: What Do We Know About COVID-19?
+    quadwatchvis: /static/img/b_pl_qua_watchvis_2.jpg
 eventlist:
   - quadeventlink: "http://bit.ly/masterclass-adams  "
     quadeventtxt: Creating Interactive Art About Pandemics
+    quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
   - quadeventlink: http://bit.ly/lecture-marathe
     quadeventtxt: "Real-Time Contagion Science in the 21st Century: The Role of Data
       and Computing | Lecture by Madhav Marathe"
+    quadeventvis: /static/img/pl_madhav.png
 relatedlist:
   - quadrelatedtxt: COVID-19 Indoor Safety Guide by Martin Bazant, John Bush, and Kasim Khan
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+    quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
+    quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
