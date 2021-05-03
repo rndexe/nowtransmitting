@@ -1,6 +1,6 @@
 #about-content {
     display: grid;
-    width: 80vw;
+    /* width: 80vw; */
     height: 100vh;
     grid-template-rows: 0fr 0fr auto;
     gap: 1.5rem;
