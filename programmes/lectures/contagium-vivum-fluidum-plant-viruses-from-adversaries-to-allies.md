@@ -29,6 +29,7 @@ expertbio: George Lomonossoff obtained both his B.A. and Ph.D. from the
   Microbiology Society Colworth Prize Lecture. The transient expression system
   he developed (CPMV-HT) is used worldwide and is currently deployed by Leaf
   Expression Systems, Norwich to scale-up production of plant-made products.
+expertpic: /static/img/pl_george_portrait.png
 readinglist:
   - quadreadlink: https://theconversation.com/plant-viruses-from-crop-pathogens-to-key-players-in-bio-nanotechnology-47235
     quadreadtxt: "Plant Viruses: From Crop Pathogens To Key Players In Bio-Nanotechnology"
