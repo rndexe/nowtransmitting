@@ -44,6 +44,7 @@ watchinglist:
 eventlist:
   - quadeventlink: http://bit.ly/workshop-onehealth
     quadeventtxt: Decoding OneHealth | Workshop by OneHealth Network
+    quadeventvis: /static/img/wk_echo.png
   - quadeventtxt: "Contagium Vivum Fluidum: Plant Viruses From Adversaries to Allies
       | Lecture by George Lomonossoff"
     quadeventlink: http://bit.ly/lecture-lomonossoff
