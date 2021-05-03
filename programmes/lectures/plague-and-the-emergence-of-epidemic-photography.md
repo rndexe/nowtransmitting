@@ -52,9 +52,12 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-lynteris
   - quadeventtxt: The Art of Pandemics | Lecture by Girish Shahane
     quadeventlink: http://bit.ly/lecture-shahane
+    quadeventvis: /static/img/pl_girish.png
 relatedlist:
   - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+    quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
   - quadrelatedtxt: Drawing the Bombay Plague by Ranjit Kandalgaonkar
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
+    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
