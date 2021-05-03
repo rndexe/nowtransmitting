@@ -9,6 +9,13 @@ module.exports = function (eleventyConfig) {
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
+  const md = require('markdown-it')({
+        html: false,
+        breaks: true,
+        linkify: true
+  });
+
+  eleventyConfig.addNunjucksFilter("markdownify", markdownString => md.render(markdownString));
 
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -66,4 +73,5 @@ module.exports = function (eleventyConfig) {
     },
     htmlTemplateEngine: "njk",
   };
+
 };

@@ -1,0 +1,7 @@
+{
+    "layout" : "programmes/layout_lecture",
+    "path" : "lectures",
+    "tags": [
+        "lecture", "programme"
+    ]
+}

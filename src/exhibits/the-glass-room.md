@@ -1,5 +1,6 @@
 ---
 layout: the-glass-room
+featured: false
 authortype: Team
 thumb: /static/img/G_Exhibit_Thumbnail.jpg
 title: "The Glass Room: Misinformation Edition "
@@ -14,7 +15,7 @@ description: >-
   information.
 
 
-  Uncover how social media platforms are designed to keep us hooked and how they can be used to change our minds. Learn why finding “fake news” is not as easy as it sounds, and how the term “fake news” is as much a problem as the news itself. Dive into the world of deep fakes, which are now so realistic that they are virtually impossible to detect. These apps were created by Density Design; They are part of the project, "The Glass Room Misinformation Edition", created by Tactical Tech.
+  Uncover how social media platforms are designed to keep us hooked and how they can be used to change our minds. Learn why finding “fake news” is not as easy as it sounds, and how the term “fake news” is as much a problem as the news itself. Dive into the world of deep fakes, which are now so realistic that they are virtually impossible to detect. These apps were created by Density Design; They are part of the project, **["The Glass Room Misinformation Edition"](https://theglassroom.org/misinformation)**, created by Tactical Tech.
 exhibitembed:
   - pritxt: https://deepfakelab.theglassroom.org/
     privis: /static/img/G_EXHIBIT_PRI_VIS_1.mp4
@@ -61,22 +62,6 @@ readinglist:
   - quadreadlink: https://www.theguardian.com/technology/2019/aug/23/social-media-addiction-gambling
     quadreadtxt: "The Machine Always Wins: What Drives Our Addiction to Social Media"
     quadreadvis: /static/img/g_exhibit_qua_readvis_3.jpg
-watchinglist:
-  - quadwatchlink: https://www.youtube.com/watch?v=hz6GULbowAk&ab_channel=TED-Ed
-    quadwatchtxt: "Why People Fall for Misinformation "
-    quadwatchvis: /static/img/g_exhibit_qua_watchvis_1.jpg
-  - quadwatchtxt: How We Can Protect Truth in the Age of Misinformation
-    quadwatchlink: https://www.youtube.com/watch?v=-7ORAKULel4
-    quadwatchvis: /static/img/g_exhibit_qua_watchvis_2.jpg
-  - quadwatchlink: https://www.youtube.com/watch?v=T4YkpPXKDRM&t=172s
-    quadwatchtxt: My Brain on Information Overload
-    quadwatchvis: /static/img/g_exhibit_qua_watchvis_3.jpg
-relatedlist:
-  - quadrelatedtxt: 2020 Vision by Robert Good
-    quadrelatedvis: /static/img/g_exhibit_qua_expvis_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
-exhibitembed1: https://deepfakelab.theglassroom.org/
-exhibitembed2: https://doublecheck.theglassroom.org/
 listeninglist:
   - quadlistlink: https://podcasts.apple.com/us/podcast/social-media-addiction/id1258539903?i=1000408978370
     quadlisttxt: "In Your Right Mind: Social Media Addiction "
@@ -87,10 +72,26 @@ listeninglist:
   - quadlistlink: https://www.npr.org/2020/06/02/868001948/trust-fall
     quadlisttxt: Trust Fall
     quadlistvis: /static/img/g_exhibit_qua_listvis_3.jpg
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=hz6GULbowAk&ab_channel=TED-Ed
+    quadwatchtxt: "Why People Fall for Misinformation "
+    quadwatchvis: /static/img/g_exhibit_qua_watchvis_1.jpg
+  - quadwatchtxt: How We Can Protect Truth in the Age of Misinformation
+    quadwatchlink: https://www.youtube.com/watch?v=-7ORAKULel4
+    quadwatchvis: /static/img/g_exhibit_qua_watchvis_2.jpg
+  - quadwatchlink: https://www.youtube.com/watch?v=T4YkpPXKDRM&t=172s
+    quadwatchtxt: My Brain on Information Overload
+    quadwatchvis: /static/img/g_exhibit_qua_watchvis_3.jpg
 play:
   - quadplayvis: /static/img/g_exhibit_qua_playvis_1.jpg
     quadplaytxt: Bad News
     quadplaylink: https://www.getbadnews.com/#intro
+relatedlist:
+  - quadrelatedtxt: 2020 Vision by Robert Good
+    quadrelatedvis: /static/img/g_exhibit_qua_expvis_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+exhibitembed1: https://deepfakelab.theglassroom.org/
+exhibitembed2: https://doublecheck.theglassroom.org/
 eventlist:
   - quadeventtxt: "Information…It’s Complicated | Workshop by Muhammad Radwan "
     quadeventvis: /static/img/g_exhibit_qua_atnvis_1.jpg

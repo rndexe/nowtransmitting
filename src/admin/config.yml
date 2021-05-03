@@ -346,7 +346,7 @@ collections:
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
-              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Description", name: "description", widget: "markdown" , required: false }
               
               - { label: "Primary Video Link", name: "privis", widget: "string", required: false }
               - { label: "Primary Video Caption", name: "pritxt", widget: "string", required: false }
@@ -511,7 +511,7 @@ collections:
               - { label: "Subtitle", name: "subtitle", widget: "string" , required: false }
               - { label: "Medium", name: "medium", widget: "string" , required: false }
               - { label: "Year", name: "year", widget: "string" , required: false }
-              - { label: "Description", name: "description", widget: "text" , required: false }
+              - { label: "Description", name: "description", widget: "markdown" , required: false }
               
               - label: "Embed websites"
                 name: "exhibitembed"
@@ -1299,13 +1299,15 @@ collections:
 
   - label: "Lectures"
     name : "lectures"
-    folder : "programmes/lectures"
+    folder : "src/programmes/lectures"
     format: frontmatter
     create : true
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
+      - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }
@@ -1357,13 +1359,15 @@ collections:
 
   - label: "Workshops"
     name : "workshops"
-    folder : "programmes/workshops"
+    folder : "src/programmes/workshops"
     format: frontmatter
     create : true
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
+      - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }
@@ -1414,13 +1418,15 @@ collections:
 
   - label: "Events"
     name : "events"
-    folder : "programmes/events"
+    folder : "src/programmes/events"
     format: frontmatter
     create : true
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
+      - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }
@@ -1473,13 +1479,15 @@ collections:
 
   - label: "Film Screenings"
     name : "filmscreenings"
-    folder : "programmes/filmscreenings"
+    folder : "src/programmes/filmscreenings"
     format: frontmatter
     create : true
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
+      - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "text", required: false }

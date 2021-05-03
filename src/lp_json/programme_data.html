@@ -1,15 +1,15 @@
 ---
-permalink: lp_json/exhibit_thumbnail.json
+permalink: lp_json/programme_data.json
 ---
 [
-  {% for post in collections.exhibit  %}
+  {% for post in collections.programme  %}
     {% set data = post.data %}
     {
       "title": "{{ data.title }}",
-      "subtitle": "{{ data.subtitle }}",
+      "date": "{{ data.date.toDateString() }}",
+      "time": "{{ data.date.toTimeString() }}",
       "url": "{{ post.url }}",
       "thumbnail": "{{ post.data.thumb }}"
-      "featured": "{{ post.data.featured }}"
     }{{ '' if loop.last else ',' }}
   {% endfor  %}
 ]

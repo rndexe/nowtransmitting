@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<body class="overflow-hidden">
+	<div class="menu-container" id="menu-container">
+
+	<main class="block lg:flex lg:flex-col">
+
+		<div class="w-screen fixed">
+			<div>
+				{% include "../partials/navbar.html" %}
+				{% include "../partials/menu.html" %}
+				<div id="main" class="flex flex-col lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-gray-700 scroll-snap"> 
+				{% include "./navbar_top.html" %}
+				{% include "./coverpage.html" %}
+				{% include "./about_section.html" %}
+				{% include "./author_section.html" %}
+				{% include "../partials/quat_section.html" %}
+				</div>
+			</div>
+		</div>
+	</main>
+	</div>
+</body>
+
+<script type="text/javascript" src="/static/js/programme_scroll.js"></script>
+<script src="/static/js/menu_exhibit.js"></script>

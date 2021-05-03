@@ -36,7 +36,7 @@ var rightMenu = document.querySelector('.right-menu');
 // })
 
 // load json 
-fetch('../../lp_json/exhibit_thumbnail.json')
+fetch('/lp_json/exhibit_thumbnail.json')
     .then(response => response.json())
     .then(data => buildExhibitSection(data))
 

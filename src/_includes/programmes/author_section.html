@@ -1,0 +1,15 @@
+<section id="authors" class="block w-auto h-screen lg:flex lg:flex-none bg-blue-pg">
+		<div class="w-288 pt-36">
+			<div class="w-3/5 h-2/5 mx-auto">
+				{% if expertpic %}
+				<img class="object-scale-down w-auto h-full" src={{expertpic}} oncontextmenu="return false" ondragstart="return false">
+				{% endif %}
+			</div>
+			<div class="w-3/5 mx-auto pt-10">
+				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{expertname}}</p>
+				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade">{{expertbio}}</pre>
+			</div>
+		</div>
+</section>
+
+

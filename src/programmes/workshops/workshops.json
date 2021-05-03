@@ -1,0 +1,7 @@
+{
+    "layout" : "programmes/layout_workshops",
+    "path" : "workshops",
+    "tags": [
+        "workshop", "programme"
+    ]
+}
