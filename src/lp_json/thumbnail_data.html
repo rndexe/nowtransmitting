@@ -8,7 +8,7 @@ permalink: lp_json/exhibit_thumbnail.json
       "title": "{{ data.title }}",
       "subtitle": "{{ data.subtitle }}",
       "url": "{{ post.url }}",
-      "thumbnail": "{{ post.data.thumb }}"
+      "thumbnail": "{{ post.data.thumb }}",
       "featured": "{{ post.data.featured }}"
     }{{ '' if loop.last else ',' }}
   {% endfor  %}
