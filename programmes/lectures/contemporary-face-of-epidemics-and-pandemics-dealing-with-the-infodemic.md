@@ -28,26 +28,34 @@ expertbio: Dr. Sylvie Briand (MD, MPH, PhD) is the director of the Global
 readinglist:
   - quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30461-X/fulltext
     quadreadtxt: How to Fight an Infodemic
+    quadreadvis: /static/img/e_pl_qua_readvis_1.png
   - quadreadlink: https://www.nature.com/articles/s41598-020-73510-5
     quadreadtxt: The COVID-19 Social Media Infodemic
+    quadreadvis: /static/img/e_pl_qua_readvis_2.png
   - quadreadlink: https://www.thehindu.com/sci-tech/health/infodemic-management-a-serious-challenge-during-covid-19-soumya-swaminathan/article32911994.ece
     quadreadtxt: "‘Infodemic’ Management A Serious Challenge During COVID-19: Soumya
       Swaminathan"
+    quadreadvis: /static/img/e_pl_qua_readvis_3.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/7eS0tyweHYaUOp26mxCVIL?si=urw8qoNwRZyM6udXVvR8DA
     quadlisttxt: The Misinformation Pandemic
+    quadlistvis: /static/img/e_pl_qua_listvis_1.png
   - quadlistlink: https://soundcloud.com/world-economic-forum/seeking-a-cure-for-the
     quadlisttxt: Seeking a Cure for the Infodemic
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=wT2m3kljcSU
     quadwatchtxt: Coronavirus and the Fake News Pandemic
+    quadwatchvis: /static/img/e_pl_qua_watchvis_1.png
   - quadwatchlink: https://www.youtube.com/watch?v=KY494mSLdeA
     quadwatchtxt: How to Fight a Pandemic of Misinformation
+    quadwatchvis: /static/img/e_pl_qua_watchvis_2.png
 eventlist:
   - quadeventlink: http://bit.ly/workshop-radwan
     quadeventtxt: Information...It's Complicated | Workshop by Muhammad Radwan, Tactical Tech
+    quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
   - quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event
     quadeventlink: http://bit.ly/event-richardson
+    quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: 2020 Vision by Robert Good
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
