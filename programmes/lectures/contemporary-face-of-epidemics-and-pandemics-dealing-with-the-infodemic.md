@@ -51,6 +51,8 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: 2020 Vision by Robert Good
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedvis: /static/img/B_Exhibit_Thumbnail.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
     quadrelatedtxt: "The Glassroom: Misinformation Edition"
+    quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
