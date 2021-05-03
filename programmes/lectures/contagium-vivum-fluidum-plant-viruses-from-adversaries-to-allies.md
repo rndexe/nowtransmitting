@@ -58,6 +58,7 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
     quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: Putting the Ant into Antibiotics by John Innes Centre
     quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
     quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
