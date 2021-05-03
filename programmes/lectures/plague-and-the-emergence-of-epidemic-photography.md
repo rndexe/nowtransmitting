@@ -25,6 +25,7 @@ expertbio: "Professor Christos Lynteris is a Senior Lecturer in Social
   Visual Representations of the Third Plague Pandemic and is currently the PI of
   the Wellcome Investigator Award The Global War Against the Rat and the
   Epistemic Emergence of Zoonosis."
+expertpic: /static/img/A_EXHIBIT_SEC_VIS_1.jpg
 readinglist:
   - quadreadlink: https://www.apollo-magazine.com/photography-pandemics/
     quadreadtxt: " How Photography Has Shaped our Experience of Pandemics"
