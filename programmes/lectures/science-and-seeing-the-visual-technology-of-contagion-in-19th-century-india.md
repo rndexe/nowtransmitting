@@ -22,6 +22,7 @@ expertbio: "David Arnold is Professor Emeritus in History at the University of
   Modernity (2013), Toxic Histories: Poison and Pollution in Modern India
   (2016). He is writing a history of pandemics in India from cholera to
   COVID-19."
+expertpic: /static/img/pl_arnold_portrait.png
 readinglist:
   - quadreadlink: https://www.ohsu.edu/historical-collections-archives/medicine-move-kits-cases-and-carry-alls-history-healthcare
     quadreadtxt: "Medicine on the Move: Kits, Cases and Carry-alls from the History
