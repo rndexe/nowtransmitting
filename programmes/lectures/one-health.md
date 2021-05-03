@@ -32,10 +32,13 @@ watchinglist:
 eventlist:
   - quadeventtxt: Decoding OneHealth | Workshop by OneHealth Network
     quadeventlink: http://bit.ly/workshop-onehealth
+    quadeventvis: /static/img/wk_echo.png
   - quadeventtxt: "Contagion Across Species: Global Histories and Ecologies of
       Zoonotic Diseases | Lecture by Michael Bresalier"
     quadeventlink: http://bit.ly/lecture-bresalier
+    quadeventvis: /static/img/pl_michael.png
 relatedlist:
   - quadrelatedtxt: Putting the Ant into Antibiotics by John Innes Centre
     quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
