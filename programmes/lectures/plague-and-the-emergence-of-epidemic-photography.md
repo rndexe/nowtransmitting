@@ -28,28 +28,37 @@ expertbio: "Professor Christos Lynteris is a Senior Lecturer in Social
 readinglist:
   - quadreadlink: https://www.apollo-magazine.com/photography-pandemics/
     quadreadtxt: " How Photography Has Shaped our Experience of Pandemics"
+    quadreadvis: /static/img/g_pl_qua_readvis_1.png
   - quadreadlink: https://scroll.in/article/735421/visual-history-how-modern-photography-transformed-public-consciousness-about-plague
     quadreadtxt: "Visual History: How Modern Photography Transformed Public
       Consciousness About Plague"
+    quadreadvis: /static/img/g_pl_qua_readvis_2.png
   - quadreadlink: https://journals.sagepub.com/doi/full/10.1177/2393861720976956
     quadreadtxt: "On 'Pandemic Imaginary': An Interview with Christos Lynteris"
+    quadreadvis: /static/img/g_pl_qua_readvis_3.png
 listeninglist:
   - quadlistlink: https://soundcloud.com/user-37146541-886167096/christos-lynteris-march-2018
     quadlisttxt: Christos Lynteris CSHM NYU-Shanghai
+    quadlistvis: /static/img/g_pl_qua_listvis_1.png
   - quadlistlink: https://open.spotify.com/episode/22003guNiyDj1DoSc2Ge3q?si=4mqFJBMjS0CVSGwAFHGrpg
     quadlisttxt: The Third Pandemic
+    quadlistvis: /static/img/g_pl_qua_listvis_2.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=b1oWsXwCwtw
     quadwatchtxt: "ERC Short: Dr Christos Lynteris"
+    quadwatchvis: /static/img/g_pl_qua_watchvis_1.png
   - quadwatchlink: https://www.youtube.com/watch?v=fydQ3najnN8
     quadwatchtxt: COVID Calls Public Health History & COVID-19 with Graham Mooney
       and Christos Lynteris
+    quadwatchvis: /static/img/g_pl_qua_watchvis_2.png
   - quadwatchlink: https://www.youtube.com/watch?v=aPowJrioMAc
     quadwatchtxt: Politics and Aesthetics of the (Post) Pandemic Condition
+    quadwatchvis: /static/img/g_pl_qua_watchvis_3.png
 eventlist:
   - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
       Century India | Lecture by David Arnold"
     quadeventlink: http://bit.ly/lecture-lynteris
+    quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
   - quadeventtxt: The Art of Pandemics | Lecture by Girish Shahane
     quadeventlink: http://bit.ly/lecture-shahane
     quadeventvis: /static/img/pl_girish.png
