@@ -54,13 +54,17 @@ eventlist:
   - quadeventtxt: "Science, Innovation and Society: What Have We Learnt From the
       Covid-19 Pandemic? | Lecture by Sir Jeremy Farrar"
     quadeventlink: https://bit.ly/lecture-farrar
+    quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
   - quadeventtxt: "Working Together For Public Education On Pandemic Risks: The
       Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit | Lecture
       by Sabrina Sholts"
     quadeventlink: http://bit.ly/lecture-sholts
+    quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: Contagion in the 21st Century by Esther Maria-Antao
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
     quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazan, John Bush, Kasim Khan
+    quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
