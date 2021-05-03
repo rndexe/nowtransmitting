@@ -38,6 +38,7 @@ expertbio: Madhav Marathe is a Distinguished Professor in Biocomplexity, the
   leads has supported federal and state authorities in their effort to combat
   epidemics in real-time, including the  H1N1 pandemic in 2009, the Ebola
   outbreak in 2014 and most recently the COVID-19 pandemic.
+expertpic: /static/img/pl_madhav_portrait.png
 readinglist:
   - quadreadlink: https://www.thehindu.com/sci-tech/health/coronavirus-densely-packed-areas-in-cities-are-vulnerable-says-biocomplexity-expert-madhav-marathe/article31195212.ece
     quadreadtxt: Densely-packed Areas In Cities Are Vulnerable, Says Biocomplexity
