@@ -1,5 +1,8 @@
 ---
 title: "Walkthrough of the Museum at the Robert Koch Institute "
+permalink: programmes/workshops/robert-koch-institute-museum-walkthrough/
+cata: trigger
+catb: narrating
 thumb: /static/img/e_esther.png
 date: 2021-06-12T10:30:00.000Z
 description: Join Esther, the Head of the Museum at the Robert Koch Institute as
