@@ -1,6 +1,6 @@
 ---
-title: "Working Together For Public Education On Pandemic Risks: The Scientific
-  Collaboration Of The Smithsonian’s Outbreak Exhibit"
+title: "U_Working Together For Public Education On Pandemic Risks: The
+  Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit"
 permalink: programmes/lectures/public-education-on-pandemic-risks/
 cata: hindsight
 catb: documenting
