@@ -32,10 +32,9 @@ exhibitauthor:
       science, and technology. Her work explores the Anthropocene through
       philosophical enquiry into our relationship with various forms of climate
       breakdown, by drawing on specialist expertise and technologies, and by
-      taking part in research collaborations across the world. 
-
-
+      taking part in research collaborations across the world.
       Her recent works include Biological Hermeneutics, which was speculatively presented through a site-specific installation at Chethams’ Library, Manchester—the oldest public library in the English-speaking world. Her recent awards include the NOVA award (1300 artist applicants) on graduation from Central St Martins (first-class MA Art & Science), an AHRC Science in Culture Innovation Award, and a Biofaction International artist-in-residency in Switzerland. 
+      [http://www.sarahcraske.co.uk/](http://www.sarahcraske.co.uk/)  [https://pharmaziemuseum.ch/de/](https://pharmaziemuseum.ch/de/)
   - authorbio: Irene Wüthrich and Steven Schmitt are interested in microbial
       metabolites whose distinct functions have evolved to shape microbial
       interactions and communities, and how we can adapt this diverse molecular

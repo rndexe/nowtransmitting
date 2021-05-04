@@ -19,7 +19,7 @@ description: >-
   An essay accompanies this exhibit written by social anthropologist Christos Lynteris that explores the measures taken by colonial authorities in order to control the spread of the third plague pandemic in India. The exhibit also contains photographs courtesy of the research project on “Visual Representations of the Third Plague Pandemic” led by Christos. 
 
 
-  The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/European Research Council grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo. 
+  The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/European Research Council grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository [Apollo](https://www.repository.cam.ac.uk/handle/1810/280684). 
 essay: >-
   The third plague pandemic lasted from c.1855 to 1959 and was the first time
   that bubonic plague reached all inhabited continents, establishing long-term
@@ -80,7 +80,7 @@ essay: >-
   Acknowledgment: 
 
 
-  This exhibit is an output of the Visual Representations of the Third Plague Pandemic research project led by social anthropologist, Dr Christos Lynteris (University of St. Andrews). The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/ERC grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo: https://www.repository.cam.ac.uk/handle/1810/280684
+  This exhibit is an output of the Visual Representations of the Third Plague Pandemic research project led by social anthropologist, Dr Christos Lynteris (University of St. Andrews). The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/ERC grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo: [https://www.repository.cam.ac.uk/handle/1810/280684](https://www.repository.cam.ac.uk/handle/1810/280684)
 
 
   Photographs 1, 5, 6,7, and 8 are available via Wellcome Collection, Attribution 4.0 International (CC BY 4.0). Photographs 4, 9, and 10 are reproduced here courtesy of the Centre for South Asia Studies of the University of Cambridge. Photographs 2 and 3 are available via The British Library, Public Domain Mark 1.0.

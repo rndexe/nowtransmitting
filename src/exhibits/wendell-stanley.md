@@ -18,7 +18,7 @@ description: >-
   Travel to the mid-1900s to listen to Wendell Stanley talk about the philosophy and chemistry of viruses, and have a peek at the virus that changed history. 
 
 
-  Stanley recognized the significance of viruses, remarking, “The viruses hold the key to the modification—for better or worse—of all life. They hold the key to the secret of life, to the solution of the cancer problem to biological evolution, to the understanding and control of heredity, perhaps to the nature of all future life on earth” (The New York Times, June 16, 1971).
+  Stanley recognized the significance of viruses, remarking, “The viruses hold the key to the modification—for better or worse—of all life. They hold the key to the secret of life, to the solution of the cancer problem to biological evolution, to the understanding and control of heredity, perhaps to the nature of all future life on earth” ([The New York Times, June 16, 1971](https://theglassroom.org/misinformation)).
 
   Though many viruses were known to science at the time, the nature and chemistry of viruses was still a mystery. Stanley’s discovery created ripples through the scientific community further bolstering research on viral genetics and led to a shared Nobel Prize in Chemistry in 1946.
 exhibitimages:
