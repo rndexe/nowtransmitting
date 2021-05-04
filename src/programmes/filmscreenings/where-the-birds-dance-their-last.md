@@ -1,5 +1,6 @@
 ---
 title: Where the Birds Dance Their Last
+permalink: programmes/films/where-the-birds-dance-their-last/
 thumb: /static/img/fd_lena.jpg
 date: 2021-05-02T11:30:00.000Z
 description: Lena Bui, provides a crucial perspective on the threat of bird flu
