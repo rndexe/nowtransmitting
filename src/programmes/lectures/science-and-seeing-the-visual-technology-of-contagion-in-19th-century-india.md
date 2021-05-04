@@ -1,6 +1,8 @@
 ---
 title: "A_Science and Seeing: The Visual Technology of Contagion in 19th Century
   India"
+cata: spillover
+catb: narrating
 thumb: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
 date: 2021-05-15T13:00:00.000Z
 description: >-
