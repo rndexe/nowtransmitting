@@ -1,5 +1,8 @@
 ---
 title: Information...It's Complicated | Workshop
+permalink: programmes/workshops/information-its-complicated/
+cata: trigger
+catb: documenting
 thumb: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
 date: 2021-05-16T08:30:00.000Z
 description: >-2
