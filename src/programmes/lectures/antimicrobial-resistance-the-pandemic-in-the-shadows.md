@@ -1,5 +1,5 @@
 ---
-title: "Antimicrobial Resistance: The Pandemic in the Shadows"
+title: "F_Antimicrobial Resistance: The Pandemic in the Shadows"
 thumb: /static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg
 date: 2021-05-07T13:00:00.000Z
 description: >-
@@ -41,6 +41,7 @@ expertpic: /static/img/pl_jyoti_portrait.png
 readinglist:
   - quadreadlink: https://www.who.int/docs/default-source/documents/no-time-to-wait-securing-the-future-from-drug-resistant-infections-en.pdf?sfvrsn=5b424d7_6
     quadreadtxt: "No Time to Wait: Securing the Future From Drug-Resistant Infections"
+    quadreadvis: /static/img/f_pl_qua_readvis_1.png
   - quadreadlink: https://theconversation.com/engineered-viruses-can-fight-the-rise-of-antibiotic-resistant-bacteria-154337
     quadreadtxt: " Engineered Viruses Can Fight The Rise Of Antibiotic-Resistant Bacteria"
     quadreadvis: /static/img/f_pl_qua_readvis_2.png
