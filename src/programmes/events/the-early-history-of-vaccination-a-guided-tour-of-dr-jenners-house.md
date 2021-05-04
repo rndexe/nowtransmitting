@@ -1,5 +1,6 @@
 ---
 title: "The Early History of Vaccination: A Guided Tour of Dr Jenner's House"
+permalink: programmes/events/the-early-history-of-vaccination-a-guided-tour-of-dr-jenners-house
 date: 2021-06-13T11:30:00.000Z
 description: Dr Jenner’s House is the former home of vaccine pioneer Edward
   Jenner, the place from which he encouraged the world to practice vaccination
