@@ -1507,7 +1507,7 @@ collections:
       - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
       - { label: "Discussant Name", name: "disname", widget: "string", required: false }
       - { label: "Discussant Image", name: "dispic", widget: "image", required: false }
-      - { label: "Discussant Bio", name: "disbio", widget: "text", required: false }
+      - { label: "Discussant Bio", name: "disbio", widget: "markdown", required: false }
       - label: "Process Images"
         name: "processimages"
         widget: "list"
@@ -1556,3 +1556,219 @@ collections:
         - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
         - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
  
+  - label: "Social spaces"
+    name: "socialspaces"
+    files:
+  
+      - label: "Listening Room"
+        name: "listeningroom"
+        file: "src/socialroom/listeningroom.md"
+        format: frontmatter
+        editor:
+          preview: false
+        fields:
+        - { label: "Title", name: "title", widget: "string", required: false }
+        - { label: "Description", name: "description", widget: "text", required: false }
+        - { label: "icon", name: "icon", widget: "image", required: false }
+        - label: "Podcasts"
+          name: "podcastlist"
+          widget: "list"
+          fields:
+          - { label: "Listening Link", name: "listlink", widget: "string", required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
+          - { label: "Description", name: "about", widget: "text", required: false }
+          - { label: "Podcast Image", name: "podcastimage", widget: "image", required: false }
+ 
+      - label: "Arcade Room"
+        name: "arcaderoom"
+        file: "src/socialroom/arcade.md"
+        format: frontmatter
+        editor:
+          preview: false
+        fields:
+        - { label: "Title", name: "title", widget: "string", required: false }
+        - { label: "Description", name: "description", widget: "text", required: false }
+        - { label: "icon", name: "icon", widget: "image", required: false }
+        - label: "Games"
+          name: "gameslist"
+          widget: "list"
+          fields:
+          - { label: "Play Link", name: "listlink", widget: "string", required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
+          - { label: "Blurb", name: "about", widget: "text", required: false }
+          - { label: "Play Image", name: "playimage", widget: "image", required: false }
+
+      - label: "Reading Room"
+        name: "readingroom"
+        file: "src/socialroom/readingroom.md"
+        format: frontmatter
+        editor:
+           preview: false
+        fields:
+        - { label: "Title", name: "title", widget: "string", required: false }
+        - { label: "Description", name: "description", widget: "text", required: false }
+        - { label: "icon", name: "icon", widget: "image", required: false }
+         
+        - label: "Open Books"
+          name: "openbooklist"
+          widget: "list"
+          fields:
+          - { label: "Embed Link", name: "listlink", widget: "string", required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "author", name: "author", widget: "string", required: false }
+          - { label: "Blurb", name: "about", widget: "markdown", required: false }
+        - label: "Recommended Books"
+          name: "recbooklist"
+          widget: "list"
+          fields:
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "author", name: "author", widget: "string", required: false }
+          - { label: "book link", name: "link", widget: "string", required: false }
+          - { label: "Blurb", name: "about", widget: "markdown", required: false }
+        - label: "Speaker Books"
+          name: "speakerbooklist"
+          widget: "list"
+          fields:
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "author", name: "author", widget: "string", required: false }
+          - { label: "book link", name: "link", widget: "string", required: false }
+          - { label: "Blurb", name: "about", widget: "markdown", required: false }
+
+
+      - label: "Through your eyes"
+        name: "pp"
+        file: "src/through-your-eyes.md"
+        format: frontmatter
+        editor:
+          preview: false
+        fields:
+        - { label: "Title", name: "title", widget: "string", required: false }
+        - { label: "Description", name: "description", widget: "text", required: false }
+        - { label: "icon", name: "icon", widget: "image", required: false }
+
+        - { label: "Prompt A", name: "prompta", widget: "string", required: false }
+        - { label: "Prompt B", name: "promptb", widget: "string", required: false }
+        - { label: "Prompt C", name: "promptc", widget: "string", required: false }
+        - { label: "Prompt D", name: "promptd", widget: "string", required: false }
+         
+        - label: "Prompt A"
+          name: "promptAlist"
+          widget: "list"
+          fields:
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+          - { label: "Photographer", name: "name", widget: "string", required: false }
+          - { label: "Photographer Bio", name: "bio", widget: "markdown", required: false }
+        - label: "Prompt B"
+          name: "promptBlist"
+          widget: "list"
+          fields:
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+          - { label: "Photographer", name: "name", widget: "string", required: false }
+          - { label: "Photographer Bio", name: "bio", widget: "markdown", required: false }
+        - label: "Prompt C"
+          name: "promptClist"
+          widget: "list"
+          fields:
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+          - { label: "Photographer", name: "name", widget: "string", required: false }
+          - { label: "Photographer Bio", name: "bio", widget: "markdown", required: false }
+        - label: "Prompt D"
+          name: "promptDlist"
+          widget: "list"
+          fields:
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Caption", name: "caption", widget: "string", required: false }
+          - { label: "Photographer", name: "name", widget: "string", required: false }
+          - { label: "Photographer Bio", name: "bio", widget: "markdown", required: false }
+
+      - label: "In your words"
+        name: "wp"
+        file: "src/in-your-words.md"
+        format: frontmatter
+        editor:
+          preview: false
+        fields:
+        - { label: "Title", name: "title", widget: "string", required: false }
+        - { label: "Description", name: "description", widget: "text", required: false }
+        - { label: "icon", name: "icon", widget: "image", required: false }
+        
+        - label: "Prompt"
+          name: "promptlist"
+          widget: "list"
+          fields:
+          - { label: "Prompt phrase", name: "prompt", widget: "string", required: false }
+          - label: "Prompt submissions"
+            name: "wplist"
+            widget: "list"
+            fields:
+            - { label: "Embed link", name: "link", widget: "string", required: false }
+            - { label: "Title", name: "title", widget: "string", required: false }
+            - { label: "Author", name: "name", widget: "string", required: false }
+            - { label: "Author Bio", name: "bio", widget: "markdown", required: false }
+
+
+            
+  - label: "Co-vids"
+    name : "covids"
+    folder : "src/covids/"
+    format: frontmatter
+    create : true
+    editor:
+      preview: false
+    fields:
+    - { label: "Title", name: "title", widget: "string", required: false }
+    - { label: "Description", name: "desc", widget: "markdown", required: false }
+    - { label: "permalink", name: "link", widget: "string", required: false }
+    - { label: "Speaker Name", name: "speakername", widget: "string", required: false }
+    - { label: "Speaker Image", name: "speakerimage", widget: "image", required: false }
+    - { label: "Thumbnail Image", name: "thumbnailimage", widget: "image", required: false }
+    - { label: "Speaker field", name: "speakerfield", widget: "string", required: false }
+    - { label: "Speaker Bio", name: "speakerbio", widget: "markdown", required: false }
+    - { label: "COvid video", name: "videosrc", widget: "string", required: false }
+      
+    - label: "Reading List"
+      name: "readinglist"
+      widget: "list"
+      fields:
+      - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+      - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+      - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+      required: false  
+    - label: "Listening List"
+      name: "listeninglist"
+      widget: "list"
+      fields:
+      - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+      - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+      - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+      required: false  
+    - label: "Watching List"
+      name: "watchinglist"
+      widget: "list"
+      fields:
+      - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+      - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+      - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+  
+    - label: "Event List"
+      name: "eventlist"
+      widget: "list"
+      fields:
+      - { label: "Event Link", name: "quadeventlink", widget: "string", required: false }
+      - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+      - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+      required: false  
+    - label: "Related Exhibits"
+      name: "relatedlist"
+      widget: "list"
+      fields:
+      - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+      - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+      - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
