@@ -1,6 +1,9 @@
 ---
 title: "Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS
   and Ebola Epidemics"
+permalink: programmes/lectures/detect-investigate-diagnose/
+cata: spillover
+catb: documenting
 thumb: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
 date: 2021-05-22T13:00:00.000Z
 description: >-
@@ -27,26 +30,36 @@ expertpic: /static/img/pl_adia_portrait.png
 readinglist:
   - quadreadlink: https://www.lrb.co.uk/the-paper/v37/n10/paul-farmer/the-caregivers-disease
     quadreadtxt: " The Caregivers' Disease"
+    quadreadvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadreadlink: http://somatosphere.net/2020/writing-life-mbullo-benton-interview.html/
     quadreadtxt: "Writing Life: An Interview With Adia Benton"
+    quadreadvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadreadlink: https://theconversation.com/five-ways-coronavirus-is-deepening-global-inequality-144621
     quadreadtxt: Five Ways Coronavirus Is Deepening Global Inequality
+    quadreadvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/1WLYepdVNjkbP3H5I0etuv
     quadlisttxt: Ebola in West Africa with Adia Benton
+    quadlistvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/73CGr2bTBnkKfTFHRBbqEG
     quadlisttxt: Conversations in Anthropology
+    quadlistvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/72r64GdFJBftk7kt2Tu1hB
     quadlisttxt: Ebola Outbreaks in West Africa
+    quadlistvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.pbs.org/wgbh/frontline/film/outbreak/
     quadwatchtxt: Outbreak
+    quadwatchvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=GKZ9xJnpe0U
     quadwatchtxt: "Perspectives on the Pandemic: An Anthropologists View"
+    quadwatchvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
 eventlist:
-  - quadeventlink: A Human Question | Film Discussion
+  - quadeventlink: https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147?aff=ebdsoporgprofile
+    quadeventtxt: A Human Question | Film Discussion
   - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
       Lecture by Sheila Jasanoff"
+    quadeventvis: /static/img/pl_sheila.jpg
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
