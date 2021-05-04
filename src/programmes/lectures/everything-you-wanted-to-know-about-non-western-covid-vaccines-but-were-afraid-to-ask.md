@@ -1,6 +1,9 @@
 ---
-title: Everything You Wanted To Know About Non-Western Covid Vaccines But Were
+title: J_Everything You Wanted To Know About Non-Western Covid Vaccines But Were
   Afraid To Ask
+permalink: programmes/lectures/about-non-western-covid-vacciners/
+cata: spillover
+catb: documenting
 thumb: /static/img/pl_achal.png
 date: 2021-05-21T13:00:00.000Z
 description: >-
