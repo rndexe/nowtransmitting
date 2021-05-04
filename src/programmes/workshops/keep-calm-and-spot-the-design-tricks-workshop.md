@@ -1,5 +1,8 @@
 ---
 title: "Keep Calm and Spot the Design Tricks | Workshop "
+permalink: programmes/workshops/keep-calm-and-spot-the-design-tricks/
+cata: transmission
+catb: documenting
 thumb: /static/img/g_exhibit_qua_atnvis_2.jpg
 date: 2021-05-15T08:30:00.000Z
 description: "This workshop explores the world of persuasive design and design
