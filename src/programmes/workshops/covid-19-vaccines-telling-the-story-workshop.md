@@ -1,5 +1,8 @@
 ---
 title: "COVID-19 Vaccines: Telling the Story | Workshop "
+permalink: programmes/workshops/covid-19-vaccines-telling-the-story/
+cata: trigger
+catb: documenting
 thumb: /static/img/wk_hannah.png
 date: 2021-05-30T08:30:00.000Z
 description: >-
