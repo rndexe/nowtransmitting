@@ -1,5 +1,8 @@
 ---
 title: "Contagion Across Species: Global Histories and Ecologies of Zoonotic Diseases"
+permalink: programmes/lectures/contagion-across-species/
+cata: transmission
+catb: narrating
 thumb: /static/img/pl_michael.png
 date: 2021-05-29T13:00:00.000Z
 description: >-
@@ -27,20 +30,27 @@ readinglist:
   - quadreadlink: https://www.jstor.org/stable/3655231?seq=1#metadata_info_tab_contents
     quadreadtxt: "Natural Histories of Infectious Disease: Ecological Vision in
       Twentieth-Century Biomedical Science"
+    quadreadvis: /static/img/pl_michael.png
   - quadreadlink: https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/14586/Keck_2018_MAT_Zoonosis_CC.pdf?sequence=1&isAllowed=y
     quadreadtxt: "Zoonosis: Prospects And Challenges For Medical Anthropology"
+    quadreadvis: /static/img/pl_michael.png
   - quadreadlink: https://wellcomecollection.org/works/pe6ntmsb
     quadreadtxt: "Animals And The Shaping Of Modern Medicine: One Health And Its Histories"
+    quadreadvis: /static/img/pl_michael.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/show/5VdARoGzm0TTw7aCjlQFQN
     quadlisttxt: "Body Politics: Where History, Medicine And Society Collide"
+    quadlistvis: /static/img/pl_michael.png
   - quadlistlink: https://open.spotify.com/episode/0DrN5kRRAERJjmojrwZvTY
     quadlisttxt: "Zoonosis: How New Diseases Appear"
+    quadlistvis: /static/img/pl_michael.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=r7Fph_eBVtw
     quadwatchtxt: Society for Social History of Medicine
+    quadwatchvis: /static/img/pl_michael.png
   - quadwatchlink: https://www.youtube.com/watch?v=xjcsrU-ZmgY
     quadwatchtxt: How Do Viruses Jump from Animals to Humans?
+    quadwatchvis: /static/img/pl_michael.png
 eventlist:
   - quadeventlink: http://bit.ly/workshop-onehealth
     quadeventtxt: Decoding OneHealth | Workshop by OneHealth Network
@@ -48,6 +58,7 @@ eventlist:
   - quadeventtxt: "Contagium Vivum Fluidum: Plant Viruses From Adversaries to Allies
       | Lecture by George Lomonossoff"
     quadeventlink: http://bit.ly/lecture-lomonossoff
+    quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: "Putting the Ant into Antibiotics by John Innes Centre\t"
     quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
