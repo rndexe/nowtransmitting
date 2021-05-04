@@ -1,5 +1,7 @@
 ---
-title: Why And How Should We Model Infectious Diseases?
+title: B_Why And How Should We Model Infectious Diseases?
+cata: transmission
+catb: mapping
 thumb: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
 date: 2021-05-01T13:00:00.000Z
 description: >-
@@ -23,6 +25,7 @@ expertbio: Gautam I. Menon is a Professor of Physics and Biology at Ashoka
   post-doctoral work at the TIFR, Mumbai and Simon Fraser University in
   Vancouver. He is a physicist and mathematical modeller by training, with
   interests in biophysics, disease epidemiology and science communication.
+expertpic: /static/img/pl_gautam.png
 readinglist:
   - quadreadlink: https://science.thewire.in/the-sciences/covid-19-pandemic-infectious-disease-transmission-sir-seir-icmr-indiasim-agent-based-modelling/
     quadreadtxt: "COVID-19 Pandemic: Should You Believe What the Models Say About India?"
