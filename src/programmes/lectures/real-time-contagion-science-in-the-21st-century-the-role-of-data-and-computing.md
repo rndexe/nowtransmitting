@@ -1,6 +1,9 @@
 ---
 title: "Real-Time Contagion Science in the 21st Century: The Role of Data and
   Computing"
+permalink: programmes/lectures/real-time-contagion-science/
+cata: transmission
+catb: experimenting
 thumb: /static/img/pl_madhav.png
 date: 2021-06-12T13:00:00.000Z
 description: >-
@@ -59,6 +62,7 @@ watchinglist:
 eventlist:
   - quadeventtxt: Why and How Should We Model Infectious Diseases? | Lecture by Gautam Menon
     quadeventlink: http://bit.ly/lecture-menon
+    quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: Google Search Trends As A Tool for Surveillance | Workshop by
       Shreya Chakroborty
     quadeventlink: http://bit.ly/workshop-chakraborty
