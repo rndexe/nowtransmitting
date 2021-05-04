@@ -1306,6 +1306,7 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "permalink", name: "permalink", widget: "string", required: false }
       - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
       - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
@@ -1367,6 +1368,7 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "permalink", name: "permalink", widget: "string", required: false }
       - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
       - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
@@ -1427,6 +1429,7 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "permalink", name: "permalink", widget: "string", required: false }
       - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
       - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
@@ -1489,6 +1492,7 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "permalink", name: "permalink", widget: "string", required: false }
       - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
       - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }

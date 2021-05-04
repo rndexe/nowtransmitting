@@ -1,5 +1,6 @@
 ---
 title: " After the End of Epidemics: A Cold War View"
+permalink: programmes/lectures/after-end-of-epidemics/
 thumb: /static/img/e_exhibit_qua_atnvis_2.jpg
 date: 2021-05-08T13:00:00.000Z
 description: "The enduring persistence, resurgence and mutation of many epidemic
