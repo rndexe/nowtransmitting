@@ -2,22 +2,41 @@
 layout : default
 ---
 
-<div class="my-36 mx-72 flex flex-wrap">
-
+<div>
+	<h2 class="my-10 ml-44 font-display text-3xl font-bold">Exhibits</h2>
+</div>
+<div class="my-10 mx-44 flex flex-wrap grid grid-cols-6 gap-2 bg-trueGray-750">
+	<div class="pullquote w-full h-full col-start-2 row-start-3 col-span-2">
+		<p class="p-2 font-display font-medium text-xl text-white">relief the reciprocity, empathy, care and knowledge that can develop across disciplines, relief the reciprocity, empathy, care</p>
+	</div> 
 	{%- for post in collections.exhibit -%}
-	<div class="w-4/12 h-auto">
+	{% if post.data.featured %}
+	<div class="w-full col-span-2 row-span-2">
 		<a href= {{post.url}}>
-			<div class="flex">
-				{% if post.data.thumb %}
-				<img class="w-1/2 h-full" src={{post.data.thumb}}>
-				{% endif %}
-				<div class="w-1/2 flex-none">
-					<div>{{post.data.title}}</div>
-					<div>{{post.data.subtitle}}</div>
+			<div class="object-fit h-full flex relative">
+				<img class="featured w-full" src={{post.data.thumb}}>
+				<div class="h-full w-full absolute top-0 left-0 bg-trueGray-750 opacity-80 hover:opacity-20"></div>
+				<div class="flex-none absolute top-7 left-7 text-white font-trade pr-4">
+					<div class="text-xl">{{post.data.title}}</div>
+					<div class="text-sm">{{post.data.subtitle}}</div>
 				</div>
 			</div>
 		</a>
 	</div>
+	{% elif not post.data.featured %}
+	<div class="w-full col-span-1 row-span-1">
+		<a href= {{post.url}}>
+			<div class="object-cover flex relative">
+				<img class="featured w-full h-36" src={{post.data.thumb}}>
+				<div class="h-full w-full absolute top-0 left-0 bg-trueGray-750 opacity-80 hover:opacity-20"></div>
+				<div class="flex-none absolute top-4 left-3 text-white font-trade pr-4">
+					<div class="text-base">{{post.data.title}}</div>
+					<div class="text-xs">{{post.data.subtitle}}</div>
+				</div>
+			</div>
+		</a>
+	</div>
+	{% endif %}
 	{%- endfor -%}
+	
 </div>
- 
