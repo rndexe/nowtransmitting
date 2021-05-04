@@ -1,5 +1,6 @@
 ---
 title: "Creating Interactive Art About Pandemics | Masterclass "
+permalink: programmes/workshops/creating-interactive-art-about-pandemics/
 thumb: /static/img/h_exhibit_qua_atnvis_2.jpg
 date: 2021-05-09T08:30:00.000Z
 description: >-
