@@ -20,13 +20,12 @@ expertbio: Dr. Sylvie Briand (MD, MPH, PhD) is the director of the Global
   (GIH) advances global efforts to prevent and control existing and emerging
   infectious diseases by increasing access to evidence-based interventions;
   fostering impactful innovation; and leveraging technical, operational and
-  strategic partnerships.      Since 2001, Briand has been actively involved in
-  the detection, preparedness and response to global threats, leading the
-  scientific and strategic component of the WHO response (COVID 19, avian
-  and  pandemic influenza, Ebola, Zika, Plague, yellow fever, cholera, MERS).
-  Before joining WHO, Briand worked as public health project director for
-  different global health agencies in various geographic regions (South America,
-  Africa).
+  strategic partnerships. Since 2001, Briand has been actively involved in the
+  detection, preparedness and response to global threats, leading the scientific
+  and strategic component of the WHO response (COVID 19, avian and  pandemic
+  influenza, Ebola, Zika, Plague, yellow fever, cholera, MERS). Before joining
+  WHO, Briand worked as public health project director for different global
+  health agencies in various geographic regions (South America, Africa).
 expertpic: /static/img/pl_sylvie_portrait.png
 readinglist:
   - quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30461-X/fulltext
