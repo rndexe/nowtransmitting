@@ -1,5 +1,8 @@
 ---
 title: "Dis-Ease "
+permalink: programmes/films/dis-ease
+cata: hindsight
+catb: documenting
 date: 2021-05-23T11:30:00.000Z
 description: >
   2018 | English | 8 minutes 45 seconds | United States 
