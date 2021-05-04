@@ -1,5 +1,6 @@
 ---
 title: "E_Contemporary Face Of Epidemics and Pandemics: Dealing With the Infodemic   "
+permalink: programmes/lectures/dealing-with-the-infodemic/
 cata: transmission
 catb: documenting
 thumb: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
