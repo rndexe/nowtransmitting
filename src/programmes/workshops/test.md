@@ -1,5 +1,8 @@
 ---
 title: "Google Search Trends As A Surveillance Tool | Workshop "
+permalink: programmes/workshops/google-search-trends-as-a-surveillance-tool/
+cata: transmission
+catb: experimenting
 thumb: /static/img/wk_shreya.png
 date: 2021-05-15T04:30:00.000Z
 description: "What can Google Search Trends tell us about the spread of
