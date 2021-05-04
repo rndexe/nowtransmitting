@@ -1,5 +1,6 @@
 ---
 title: "Contagion and Electricity: Two Ways of Talking About Connection in Dance"
+permalink: programmes/lectures/contagion-and-electricity/
 thumb: /static/img/pl_ananya.png
 date: 2021-05-23T13:00:00.000Z
 description: >-
@@ -27,26 +28,35 @@ expertpic: /static/img/pl_ananya_portrait.png
 readinglist:
   - quadreadlink: https://scroll.in/article/801182/five-exhilarating-dance-moves-that-celebrate-the-traumas-of-modernity
     quadreadtxt: Five Exhilarating Dance Moves That Celebrate The Traumas Of Modernity
+    quadreadvis: /static/img/pl_ananya.png
   - quadreadlink: https://theconversation.com/the-angolan-dancers-who-helped-south-african-anthem-jerusalema-go-global-148782
     quadreadtxt: The Angolan Dancers Who Helped South African Anthem Jerusalema Go Global
+    quadreadvis: /static/img/pl_ananya.png
   - quadreadlink: https://www.smithsonianmag.com/smart-news/strange-case-dancing-mania-struck-germany-six-centuries-ago-today-180959549/#:~:text=Called%20Tarantism%20in%20Italy%2C%20it,poisons%20the%20arachnid%20had%20injected.&text=It%20started%20in%20July%20when,Frau%20Troffea%20began%20to%20dance.
     quadreadtxt: A Strange Case of Dancing Mania Struck Germany Six Centuries Ago Today
+    quadreadvis: /static/img/pl_ananya.png
 listeninglist:
   - quadlistlink: https://soundcloud.com/ramin-roshandel/mammals-in-captivity
     quadlisttxt: Mammals in Captivity
+    quadlistvis: /static/img/pl_ananya.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=fsF9u-EWnCk
     quadwatchtxt: I Am A Global Citizen
+    quadwatchvis: /static/img/pl_ananya.png
   - quadwatchlink: https://www.youtube.com/watch?v=yHVTgZw7geY&t=81s
     quadwatchtxt: How Society Can Explain the Deadly Medieval Dancing Plagues
+    quadwatchvis: /static/img/pl_ananya.png
 eventlist:
   - quadeventlink: http://bit.ly/lecture-shahane
     quadeventtxt: The Art of Pandemics | Lecture by Girish Shahane
+    quadeventvis: /static/img/pl_girish.png
   - quadeventtxt: Dis-Ease | Film Discussion
     quadeventlink: http://bit.ly/films-ghani
 relatedlist:
   - quadrelatedtxt: When the World Was A Laugh by Anais Tondeur
     quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
+    quadrelatedvis: /static/img/B_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+    quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
