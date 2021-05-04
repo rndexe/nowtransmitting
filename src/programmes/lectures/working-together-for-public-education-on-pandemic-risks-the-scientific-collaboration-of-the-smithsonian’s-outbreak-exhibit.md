@@ -26,6 +26,7 @@ expertbio: "Sabrina Sholts is a Curator of Biological Anthropology at the
   Anthropology at UC Santa Barbara and completed her postdoctoral work at UC
   Berkeley in the Department of Integrative Biology and at Stockholm University
   in the Department of Biophysics and Biochemistry."
+expertpic: /static/img/pl_sabrina_portrait.png
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/why-this-pandemic-wont-be-last-180977135/
     quadreadtxt: Why This Pandemic Won't Be the Last
