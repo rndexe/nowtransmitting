@@ -1,6 +1,6 @@
 ---
 title: "2020 Vision: Making Sense of 24/7 News | Masterclass "
-permalink: programmes/workshops/making-sense-of-24/7-news/
+permalink: programmes/workshops/making-sense-of-24-7-news/
 cata: transmission
 catb: mapping
 thumb: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
