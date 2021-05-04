@@ -1,5 +1,6 @@
 ---
 title: "Decoding OneHealth | Workshop "
+permalink: programmes/workshops/decoding-one-health/
 thumb: /static/img/wk_echo.png
 date: 2021-06-05T08:30:00.000Z
 description: >-
