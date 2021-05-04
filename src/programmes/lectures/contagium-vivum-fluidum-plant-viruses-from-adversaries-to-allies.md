@@ -1,5 +1,6 @@
 ---
 title: "C_Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies"
+permalink: programmes/lectures/contagium-vivum-fluidum/
 cata: trigger
 catb: documenting
 thumb: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
