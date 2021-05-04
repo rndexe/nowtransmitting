@@ -1,5 +1,7 @@
 ---
-title: The Art of Pandemics
+title: D_The Art of Pandemics
+cata: hindsight
+catb: narrating
 thumb: /static/img/pl_girish.png
 date: 2021-05-30T13:00:00.000Z
 description: >-
@@ -23,6 +25,7 @@ expertbio: "Girish Shahane is an independent writer and curator based in Bombay.
   Scroll.in. Shahane was Director of the Skoda Prize for Indian Contemporary Art
   from 2011 to 2013, Artistic Director of Art Chennai 2014, and Artistic
   Director of the India Art Fair 2015. "
+expertpic: /static/img/pl_girish_portrait.png
 readinglist:
   - quadreadlink: https://thepolyphony.org/2020/06/16/art-in-isolation-artistic-responses-to-covid-19/
     quadreadtxt: "Art in Isolation: Artistic Responses to COVID-19"
@@ -46,6 +49,7 @@ eventlist:
     quadeventlink: http://bit.ly/masterclass-adams
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
   - quadeventtxt: A Human Question | Film Discussion
+    quadeventlink: http://bit.ly/films-jayashree
 relatedlist:
   - quadrelatedtxt: "A Cluster of 17 Cases by Blast Theory\t"
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
