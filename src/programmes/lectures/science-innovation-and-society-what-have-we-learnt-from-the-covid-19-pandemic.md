@@ -1,6 +1,9 @@
 ---
-title: "Science, Innovation and Society: What Have We Learnt From the Covid-19
+title: "W_Science, Innovation and Society: What Have We Learnt From the Covid-19
   Pandemic?"
+permalink: programmes/lectures/science-innovation-and-society/
+cata: hindsight
+catb: documenting
 thumb: /static/img/f_exhibit_qua_atnvis_2.jpg
 date: 2021-06-13T13:00:00.000Z
 description: >-
@@ -47,12 +50,16 @@ watchinglist:
 eventlist:
   - quadeventtxt: Visualising the Virus | Workshop by Gabriela Aquije Zegarra
     quadeventlink: http://bit.ly/workshop-aquije
+    quadeventvis: /static/img/wk_gabriela.png
   - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
       Lecture by Sheila Jasanoff"
     quadeventlink: https://bit.ly/lecture-jasanoff
+    quadeventvis: /static/img/pl_sheila.jpg
 relatedlist:
   - quadrelatedtxt: Moulding Modern Medicine
     quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+    quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: Contagion in the 21st Century by Esther-Maria Antao
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
