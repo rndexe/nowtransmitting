@@ -1,5 +1,8 @@
 ---
 title: "The Shape of A Laugh | Workshop "
+permalink: programmes/workshops/the-shape-of-a-laugh/
+cata: transmission
+catb: documenting
 thumb: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
 date: 2021-05-29T08:30:00.000Z
 description: Based on the artist’s exhibit ‘When the World Was A Laugh’, this
