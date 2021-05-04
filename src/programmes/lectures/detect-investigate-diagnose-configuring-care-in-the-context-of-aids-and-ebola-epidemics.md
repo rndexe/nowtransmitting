@@ -1,5 +1,5 @@
 ---
-title: "Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS
+title: "L_Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS
   and Ebola Epidemics"
 permalink: programmes/lectures/detect-investigate-diagnose/
 cata: spillover
