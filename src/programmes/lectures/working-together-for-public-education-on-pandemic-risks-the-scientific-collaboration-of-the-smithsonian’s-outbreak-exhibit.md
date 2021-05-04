@@ -1,6 +1,9 @@
 ---
 title: "Working Together For Public Education On Pandemic Risks: The Scientific
   Collaboration Of The Smithsonian’s Outbreak Exhibit"
+permalink: programmes/lectures/public-education-on-pandemic-risks/
+cata: hindsight
+catb: documenting
 thumb: /static/img/h_exhibit_qua_atnvis_1.jpg
 date: 2021-06-11T13:00:55.795Z
 description: >-
@@ -41,11 +44,16 @@ watchinglist:
 eventlist:
   - quadeventlink: http://bit.ly/lecture-ramakrishnan
     quadeventtxt: One Health | Lecture by Uma Ramakrishnan
+    quadeventvis: /static/img/pl_uma.png
   - quadeventtxt: "Contagion Across Species: Global Histories and Ecologies of
       Zoonotic Diseases | Lecture by Michael Bresalier"
+    quadeventlink: https://www.eventbrite.com/e/145405729451
+    quadeventvis: /static/img/pl_michael.png
 relatedlist:
   - quadrelatedtxt: 2020 Vision by Robert Good
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: THERIAK | The Disease Map by Sarah Craske
     quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---
