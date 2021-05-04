@@ -1,5 +1,8 @@
 ---
 title: "THERIAK: Behind the Scenes in A Lab | Workshop "
+permalink: programmes/workshops/theriak-behind-the-scence-in-a-lab/
+cata: trigger
+catb: experimenting
 thumb: /static/img/e_exhibit_qua_atnvis_1.jpg
 date: 2021-06-13T08:30:00.000Z
 description: >-
