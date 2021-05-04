@@ -1,13 +1,25 @@
 ---
 layout : default
 ---
+<body class="overflow-hidden" >
+    <div class="menu-container" id="menu-container">
+
+	<main class="block lg:flex lg:flex-col">
+
+		<!-- top navbar for about page  -->
+		<!-- lg:flex -->
+		
+		<div class="w-screen fixed">
+			{% include "./_includes/partials/navbar.html" %}
+			{% include "./_includes/partials/menu.html" %}
+			<div class="bg-trueGray-750">
 
 <div>
-	<h2 class="my-10 ml-44 font-display text-3xl font-bold">Exhibits</h2>
+	<h2 class="my-12 ml-40 font-display text-3xl font-bold text-white tracking-normal">Exhibits</h2>
 </div>
-<div class="my-10 mx-44 flex flex-wrap grid grid-cols-6 gap-2 bg-trueGray-750">
+<div class="mx-40 flex flex-wrap grid grid-cols-6 gap-2 bg-trueGray-750">
 	<div class="pullquote w-full h-full col-start-2 row-start-3 col-span-2">
-		<p class="p-2 font-display font-medium text-xl text-white">relief the reciprocity, empathy, care and knowledge that can develop across disciplines, relief the reciprocity, empathy, care</p>
+		<p class="font-display font-medium text-xl text-white tracking-normal pt-2 pl-2">Relief the reciprocity, empathy, care and knowledge that can develop across disciplines, relief the reciprocity, empathy, care</p>
 	</div> 
 	{%- for post in collections.exhibit -%}
 	{% if post.data.featured %}
@@ -40,3 +52,16 @@ layout : default
 	{%- endfor -%}
 	
 </div>
+</div>
+</div>
+	</main>
+	</div>
+</body>
+{% if path == "home" %}
+<!-- Netlify Identity Widget -->
+<!-- Needed only if you are using Netlify Identity feature -->
+<script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{% endif %}
+<script src="/static/js/menu.js"></script>
+
+<link rel="stylesheet" href="/static/css/about.css">

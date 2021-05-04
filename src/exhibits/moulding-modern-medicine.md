@@ -1,5 +1,6 @@
 ---
 layout: moulding-modern-medicine
+featured: true
 authortype: Sources
 thumb: /static/img/N_Exhibit_Thumbnail.jpg
 title: Moulding Modern Medicine
