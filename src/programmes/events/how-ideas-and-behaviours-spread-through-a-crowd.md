@@ -3,6 +3,7 @@ title: "How Ideas and Behaviours Spread Through A Crowd "
 permalink: programmes/workshops/how-ideas-and-behaviours-spread-through-a-crowd/
 cata: transmission
 catb: experimenting
+cover: /static/img/A_EV_Coverimage.jpg
 date: 2021-06-06T10:30:00.000Z
 description: Come be a part of a live experiment on collective behaviour and
   social influence. If you’ve ever been curious about how ideas and behaviours
