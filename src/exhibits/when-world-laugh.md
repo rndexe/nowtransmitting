@@ -20,7 +20,7 @@ description: >-
   This investigation is presented as an evolutive video of laughs, which keeps growing as we contribute our laughter to this work. This video is complemented by the Collection of Laughs gathered during the investigation and presented as a typology of associated emotions
 
   and colours. Inspired by the role of laughter in myths around the origin of the universe, this exhibit invites us to share a laugh at a time when the global pandemic has disrupted our ways of connecting and being together. 
-privis: https://player.vimeo.com/video/538982297
+privis: https://vimeo.com/545376715
 pritxt: This video draws us into a dark chamber. In this installation space, the
   vibrations of laughs recorded around the world are giving birth to miniature
   landscapes. Every week of the exhibition, a new video reveals the mutation of
