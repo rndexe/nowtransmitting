@@ -1,5 +1,5 @@
 ---
-title: B_Why And How Should We Model Infectious Diseases?
+title: Why And How Should We Model Infectious Diseases?
 permalink: programmes/lectures/model-infectious-diseases/
 cata: transmission
 catb: mapping
