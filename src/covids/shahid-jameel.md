@@ -20,6 +20,7 @@ speakerbio: >-
 
 
   He was CEO of the DBT/Wellcome Trust India Alliance from 2013 to 2020 and is now Director, Trivedi School of Biosciences at Ashoka University. Jameel received the Shanti Swarup Bhatnagar Prize and is an elected Fellow of India’s science academies.
+videosrc: https://player.vimeo.com/video/533115377
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/science-nature/compare-flu-pandemic-1918-and-covid-19-caution-180975040/
     quadreadtxt: The Past is not a Prediction
