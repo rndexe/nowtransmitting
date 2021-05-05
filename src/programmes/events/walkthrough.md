@@ -4,6 +4,7 @@ permalink: programmes/workshops/robert-koch-institute-museum-walkthrough/
 cata: trigger
 catb: narrating
 thumb: /static/img/e_esther.png
+cover: /static/img/D_EV_Coverimage.jpg
 date: 2021-06-12T10:30:00.000Z
 description: Join Esther, the Head of the Museum at the Robert Koch Institute as
   she walks you through the permanent exhibitions displaying the history and
@@ -19,6 +20,7 @@ expertbio: Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute
   focused strongly on antimicrobial resistance (AMR) communication in the recent
   past. She currently focusses on COVID-19 communication and will go back to
   focusing on AMR communication when the pandemic is over.
+expertpic: /static/img/O_EXHIBIT_SEC_VIS_1.jpg
 readinglist:
   - quadreadtxt: Museums Preserve Clues That Can Help Scientists Predict And Analyze
       Future Pandemics
