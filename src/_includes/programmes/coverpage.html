@@ -3,8 +3,8 @@
 		<div class="flex flex-col h-2/3 w-full py-4">
 			<p class="text-5xl w-auto font-trade font-bold text-white drop-shadow-md">{{title}}</p>
 			<p class="text-base w-auto font-trade text-white">By {{expertname}}</p>
-			<p class="mt-auto text-base w-auto font-trade text-white">{{date.toDateString()}}</p>
-			<p class="text-base w-auto font-trade text-white">{{date.toTimeString()}}</p>
+			<p class="mb-2 mt-auto text-base w-auto font-trade text-white"><span class="font-bold">Date :</span> {{date.toDateString()}}</p>
+			<p class="mb-4 text-base w-auto font-trade text-white"><span class="font-bold">Time :</span> {{date.toTimeString()}}</p>
 			{% if link %}
 			<a href={{link}}>
 				<button class="text-base py-2 px-12  font-trade text-white rounded-sm border border-solid border-white">
@@ -30,7 +30,7 @@
 	
 	<div class="float-right flex w-screen lg:w-7/12 lg:h-full lg:pt-36">
 		{% if cover %}
-		<img class="w-auto lg:ml-20 h-2/3 shadow-2xl" src={{cover}}  oncontextmenu="return false" ondragstart="return false">
+		<img class="w-auto lg:ml-20 h-2/3 rounded-sm shadow-2xl" src={{cover}}  oncontextmenu="return false" ondragstart="return false">
 		{% endif %}
 	</div>
 </section>
