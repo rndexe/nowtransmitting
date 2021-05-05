@@ -6,4 +6,10 @@ description: Drown out the noise and tune into our playlists drawing on
 podcastlist:
   - title: Trigger
     subtitle: Where the stories begin
+  - title: Transmission
+    subtitle: ""
+  - title: Spillover
+    subtitle: Into our lives
+  - title: Hindsight
+    subtitle: All the world's a stage
 ---
