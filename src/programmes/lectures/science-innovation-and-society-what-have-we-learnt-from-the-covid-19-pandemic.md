@@ -5,6 +5,7 @@ permalink: programmes/lectures/science-innovation-and-society/
 cata: hindsight
 catb: documenting
 thumb: /static/img/f_exhibit_qua_atnvis_2.jpg
+cover: /static/img/W_PL_Coverimage.jpg
 date: 2021-06-13T13:00:00.000Z
 description: >-
   The COVID-19 pandemic has sent alarm bells ringing throughout the world. This
@@ -33,20 +34,27 @@ readinglist:
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/oct/12/covid-19-treatable-vaccines-treatments
     quadreadtxt: Soon Covid-19 Will Be Treatable, But It Shouldn't Just Be The Rich
       Who Benefit
+    quadreadvis: /static/img/f_exhibit_qua_atnvis_2.jpg
   - quadreadlink: https://www.weforum.org/agenda/2019/08/important-tool-in-healthcare-is-trust-vaccines-africa/
     quadreadtxt: Why The Most Important Tool In Healthcare Is Trust
+    quadreadvis: /static/img/f_exhibit_qua_atnvis_2.jpg
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/apr/18/coronavirus-knows-no-international-borders-neither-must-its-eventual-cure
     quadreadtxt: Coronavirus Knows No International Borders, Neither Must Its Eventual Cure
+    quadreadvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/0SA3JUaHWsla4tnYJSATJV
     quadlisttxt: Pandemics Past and Present
+    quadlistvis: /static/img/f_exhibit_qua_atnvis_2.jpg
   - quadlistlink: https://open.spotify.com/episode/2IoTsZSFVqBwIzCSEM2k4o
     quadlisttxt: "Coronavirus Crisis Update: Live from Munich"
+    quadlistvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=ef-0Ytnd4Wg
     quadwatchtxt: How We Can Outsmart Epidemics
+    quadwatchvis: /static/img/f_exhibit_qua_atnvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=W7LOiIHuhTU
     quadwatchtxt: Strategies to Mitigate the Rippling Impact of COVID-19
+    quadwatchvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 eventlist:
   - quadeventtxt: Visualising the Virus | Workshop by Gabriela Aquije Zegarra
     quadeventlink: http://bit.ly/workshop-aquije
