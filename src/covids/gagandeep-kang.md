@@ -16,6 +16,7 @@ speakerbio: >-
 
 
   She and her conduct inter-disciplinary research on enteric infections and child health. They work on gut infections in children, nutrition, water and sanitation. Their team does everything from geographic information systems to human immunology. They have evaluated vaccines in pre-clinical and clinical phase 1-3 studies for rotavirus and cholera, and are now working on typhoid and SARS-CoV2.
+videosrc: https://player.vimeo.com/video/535839062
 readinglist:
   - quadreadlink: https://www.npr.org/sections/goatsandsoda/2020/12/30/950880445/even-with-10-million-covid-19-cases-a-doctor-says-india-dodged-a-bullet
     quadreadtxt: A Doctor Reflects
