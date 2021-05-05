@@ -12,7 +12,7 @@ description: >-
   of disease across populations. Sarah Craske’s The Disease Map takes an
   engraving of Basel, Switzerland by Matthäus Merian (1593-1650), and turns it
   into a disease map by engraving it onto a custom-made petri dish, within which
-  Vibrio cholerae was painted (onto agar) over several days while also being
+  *Vibrio cholerae* was painted (onto agar) over several days while also being
   inhibited with synthetic peptides that Craske designed. This process was
   recorded using time-lapse photography. This ebb and flow becomes a metaphor
   for our relationship with cholera, for the continuous fight against emerging
@@ -27,14 +27,19 @@ pritxt: "Time-lapse film of Vibrio cholerae interacting with synthetic peptides
 exhibitauthor:
   - authorimage: /static/img/E_EXHIBIT_SEC_VIS_1.jpg
     authorname: Sarah Craske
-    authorbio: >-
-      Sarah Craske works in the liminal, transdisciplinary space between art,
-      science, and technology. Her work explores the Anthropocene through
+    authorbio: Sarah Craske works in the liminal, transdisciplinary space between
+      art, science, and technology. Her work explores the Anthropocene through
       philosophical enquiry into our relationship with various forms of climate
       breakdown, by drawing on specialist expertise and technologies, and by
-      taking part in research collaborations across the world.
-      Her recent works include Biological Hermeneutics, which was speculatively presented through a site-specific installation at Chethams’ Library, Manchester—the oldest public library in the English-speaking world. Her recent awards include the NOVA award (1300 artist applicants) on graduation from Central St Martins (first-class MA Art & Science), an AHRC Science in Culture Innovation Award, and a Biofaction International artist-in-residency in Switzerland. 
-      [http://www.sarahcraske.co.uk/](http://www.sarahcraske.co.uk/)  [https://pharmaziemuseum.ch/de/](https://pharmaziemuseum.ch/de/)
+      taking part in research collaborations across the world. Her recent bodies
+      of work include *Returning Shores, Healing Earth, THERIAK* and *Biological
+      Hermeneutics*, a site-specific installation at Chethams’ Library,
+      Manchester—the oldest public library in the English-speaking world. Recent
+      awards include the Whitstable Biennale Jerwood Attachment, currently
+      supporting a year of research and development; the John Ruskin Prize
+      Shortlist, that identified her as an ‘Agent of Change’; an AHRC Science in
+      Culture Innovation Award and a Biofaction artist-in-residence in
+      Switzerland.  <http://www.sarahcraske.co.uk/>
   - authorbio: Irene Wüthrich and Steven Schmitt are interested in microbial
       metabolites whose distinct functions have evolved to shape microbial
       interactions and communities, and how we can adapt this diverse molecular
@@ -44,7 +49,7 @@ exhibitauthor:
     authorname: Irene Wüthrich and Steven Schmitt
     authorimage: /static/img/E_EXHIBIT_SEC_VIS_2.jpg
   - authorname: The Pharmacy Museum of the University of Basel
-    authorbio: 'Founded in 1925, by Professor J. A. Häfliger, the Pharmacy Museum
+    authorbio: Founded in 1925, by Professor J. A. Häfliger, the Pharmacy Museum
       displays one of the world’s largest collections of historic remedies and
       material associated with their production. The museum is the original
       scientific collection, which to this day has remained intact in its
@@ -57,7 +62,7 @@ exhibitauthor:
       of Rotterdam and the doctor and alchemist Paracelsus were working there.
       Between 1936 and 1967, Tadeus Reichstein, who received the Nobel Prize in
       Physiology or Medicine in 1950, conducted his research in the very same
-      house. '
+      house. <https://pharmaziemuseum.ch/de/>
     authorimage: /static/img/e_exhibit_sec_vis_3.jpg
 processimages:
   - tervis: /static/img/E_EXHIBIT_TER_VIS_1.jpg
