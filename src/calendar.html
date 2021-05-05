@@ -1,0 +1,1657 @@
+---
+layout: default
+title: Contagion
+path: home
+---
+
+<body class="overflow-hidden bg-white" >
+<div class="menu-container" id="menu-container">
+    {% include "./_includes/partials/navbar.html" %}
+    {% include "./_includes/partials/menu.html" %}
+    <div class="block w-full lg:w-screen lg:h-screen lg:pl-20 bg-white overflow-hidden">
+        <div class="text-3xl lg:ml-24">
+            <p class="text-black font-display lg:pt-12" style="font-weight:700; letter-spacing:1px;">Programmes</p>
+          
+            <div class="mt-3 align-bottom" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
+            <p class="text-sm mt-3 font-trade">... understanding contagion across disciplines to enable conversations and encourage critical questions.</p>
+
+          </div>
+        
+        <!-- calendar div starts here -->
+            <div class="w-screen h-full block lg:flex-none lg:flex-col lg:pl-20">
+                <div class="flex flex-row">
+    
+                    <link rel="dns-prefetch" href="//unpkg.com" />
+                    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+                    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css">
+                    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+                
+                    <style>
+                        [x-cloak] {
+                            display: none;
+                        }
+                        input[type="radio"] {
+                          display: none;
+                        }
+                        
+                        /* simulate radiobutton appearance using pseudoselector */
+                        input[type="radio"] + label:before {
+                          content: "";
+                          /* create custom radiobutton appearance */
+                          display: inline-block;
+                          width: 20px;
+                          height: 20px;
+                          padding: 3px;
+                          margin-right: 15px;
+                          /* background-color only for content */
+                          background-clip: content-box;
+                          border: 1px solid #bbbbbb;
+                          background-color: #e7e6e7;
+                          border-radius: 50%;
+                          vertical-align: middle;
+                        }
+                        
+                        /* appearance of checked radiobutton */
+                        .radio-item-full input[type="radio"]:checked + label:before {
+                          background-color: #2d2d2d;
+                          
+                        }
+
+                        .radio-item-lectures input[type="radio"]:checked + label:before {
+                          background-color: #d62b2b;
+                        }
+
+                        .radio-item-workshops input[type="radio"]:checked + label:before {
+                          background-color: #3E6CDA;
+                        }
+
+                        .radio-item-events input[type="radio"]:checked + label:before {
+                          background-color: #00ff00;
+                        }
+
+                        .radio-item-filmscreening input[type="radio"]:checked + label:before {
+                          background-color: #ffed4a;
+                        }
+                        
+                        /* resetting default box-sizing */
+                        *,
+                        *:before,
+                        *:after {
+                          box-sizing: border-box;
+                        }
+                        
+                        /* optional styles for centering radiobuttons */
+                        .sound-signal label {
+                          display: inline-flex;
+                          align-items: center;
+                        }
+
+                        .hover-target-show{
+                          display:none;
+                        }
+                        .hover-trigger:hover .hover-target-show {
+                          display:block;
+                          color:white;
+                        }
+                        .hover-trigger:hover .hover-target-hide {
+                          display: none;
+                        }
+                        .hover-trigger:hover .hover-target {
+                          color:white;
+                        }
+                        
+                    </style>
+                
+                <div class="antialiased w-screen sans-serif bg-white h-screen">
+                    <div x-data="app()" x-init="[initDate(), getNoOfDays()]" x-cloak class="flex flex-row">
+                        <div class="container ml-px py-2 md:py-2 w-2/3 h-11/12" >
+                              
+                            <!-- <div class="font-bold text-gray-800 text-xl mb-4">
+                                Schedule Tasks
+                            </div> -->
+                
+                            <div class="bg-white overflow-hidden">
+                
+                                <div class="flex py-2 ">
+    
+                                    <div class="flex flex-grow items-end">
+                                        <p class="text-sm pl-36 font-trade text-center w-full" style="color: #b9b9b9;"> Click on a day to view events</p>
+                                    </div>
+                                    <div class="flex flex-none w-42" style="padding-top: 2px;">
+                                      <button 
+                                            type="button"
+                                            class="leading-none border-black border-2 p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex cursor-pointer hover:bg-gray-200 p-1 items-center" 
+                                            :class="{' opacity-100': month == 3 }"
+                                            :disabled="month == 3 ? true : false"
+                                            @click="month=3; getNoOfDays()">
+                                            April  
+                                        </button>
+                                        <button 
+                                            type="button"
+                                            class="leading-none border-black border-2 p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex cursor-pointer hover:bg-gray-200 p-1 items-center" 
+                                            :class="{' opacity-100': month == 4 }"
+                                            :disabled="month == 4 ? true : false"
+                                            @click="month=4; getNoOfDays()">
+                                            May  
+                                        </button>
+                                       
+                                        <button 
+                                            type="button"
+                                            class="leading-none border-black border-2 p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex items-center cursor-pointer hover:bg-gray-200 p-1" 
+                                            :class="{' opacity-100': month == 5 }"
+                                            :disabled="month == 5 ? true : false"
+                                            @click="month=5; getNoOfDays()">
+                                            June								  
+                                        </button>
+                                    </div>
+                                </div>	
+                
+                                <div class="-mx-1 -mb-1" >
+                                    <div class="flex flex-wrap" style="margin-bottom: 0px;">
+                                        <template x-for="(day, index) in DAYS" :key="index">	
+                                            <div style="width: 14.26%" class="px-2 py-2">
+                                                <div
+                                                    x-text="day" 
+                                                    class="text-black font-trade text-sm uppercase font-bold text-center"></div>
+                                            </div>
+                                        </template>
+                                    </div>
+                
+                                    <div class="flex flex-wrap px-2 pb-2" >
+                                        <template x-for="blankday in blankdays">
+                                            <div 
+                                                style="width: 14.28%;"
+                                                class="text-center border px-1 pt-1 h-20"	
+                                            ></div>
+                                        </template>	
+                                        <template x-for="(date, dateIndex) in no_of_days" :key="dateIndex" >	
+                                            <div style="width: 14.28%;" class="h-20 px-1 pt-1 items-center border relative cursor-pointer hover-trigger hover:bg-gray-800 hover:opacity-80 transition ease-in ease-out duration-100" 
+                                            @click="showEventModal(date)"
+                                            >
+                                                <div
+                                                    x-text="date"
+                                                    class="flex w-6 mx-auto h-6 items-center hover-target font-trade justify-center text-center leading-none rounded-full"
+                                                ></div>
+                                                <template x-if="shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() ).length != 0">
+                                                  <p class="hover-target-show font-trade w-full text-center">View all events</p>
+                                                </template> 
+                                                <div class="h-10 overflow-y-hidden mt-px hover-target-hide">
+                                                  <template x-for="event in shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() )">	
+                                                      <div class="py-1 overflow-hidden flex">  
+                                                            <p class="text-xs align-top"
+                                                            :class="{'text-green': event.type.split(',')[0] == 'event', 'text-red': event.type.split(',')[0] == 'lecture', 'text-blue': event.type.split(',')[0] == 'workshop', 'text-yellow': event.type.split(',')[0] == 'filmscreening'}"
+                                                            style="width:10px; margin-right:5px;">&#9679;</p>
+                                                            <p x-html="event.time.split(':00 ')[0] + ' ' +event.title" class="text-sm truncate font-trade " style="vertical-align: text-bottom;"></p>
+                                                      </div>
+                                                    </template>
+                                                </div>
+                                            </div>
+                                        </template>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="flex-grow items-center justify-content w-1/5 h-11/12 pl-10 pt-20 relative">
+                          <p class="font-display text-md">Select Event Type</p>
+                            
+                          <br>
+                          <div class="radio-item-full">
+                            <input x-on:change="tester()" type="radio" id="all" name="event" value="all" style="width:20px; height:20px;">
+                            <label for="all" class="font-trade m-5 text-sm" >Full Calendar</label><br>
+                          </div>
+                          <div class="radio-item-lectures">
+                            <input x-on:change="tester()" type="radio" id="lectures" name="event" value="Lectures" style="width:20px; height:20px; ">
+                            <label for="lectures" class="font-trade m-5 text-sm">Lectures</label><br>
+                          </div>
+                          <div class="radio-item-workshops">
+                            <input x-on:change="tester()" type="radio" id="workshops" name="event" value="Workshops"  style="width:20px; height:20px;">
+                            <label for="workshops" class="font-trade m-5 text-sm">Workshops</label><br>
+                          </div>
+                          <div class="radio-item-events">
+                            <input x-on:change="tester()" type="radio" id="events" name="event" value="Events"  style="width:20px; height:20px; ">
+                            <label for="events" class="font-trade m-5 text-sm">Events</label><br>
+                          </div>
+                          <div class="radio-item-filmscreening">
+                            <input x-on:change="tester()" type="radio" id="filmscreening" name="event" value="Film Screening"  style="width:20px; height:20px; ">
+                            <label for="filmscreening" class="font-trade m-5 text-sm">Film Screenings</label><br><br>
+                          </div>
+                          
+                          <a class="h-10 text-xs font-trade  underline" target="_blank" href="https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile">Mediator-led Sessions</a>
+                          <br><br>
+                          <div class="fixed bottom-20 flex flex-col w-full h-auto pr-20 mr-48">
+                            <p class="text-sm font-trade">Partners</p>
+                            <div class="flex flex-wrap">
+                                <img class="mr-3 my-2" src="../static/img/calendar_logos/CPB_Logo_MAIN.png" width="50" height="auto" alt="">
+                                <img class="mr-3 my-2" src="../static/img/calendar_logos/Dr.Jenners_Logo_Black.png" width="100" height="auto" alt="">
+                                <img class="mr-3 my-2" src="../static/img/calendar_logos/India_Alliance_Logo_colour_without background.png" width="100" height="auto" alt="">
+                                <img class="mr-3 my-2" src="../static/img/calendar_logos/INSA_Logo_Black_Withbackground.jpeg" width="50" height="auto" alt="">
+                                <img class="mr-3 my-2" src="../static/img/calendar_logos/US Consulate_Logo_Black.png" width="50" height="auto" alt="">
+                            </div>
+                          </div>
+                        </div>
+                
+                        <!-- Modal -->
+                        <div style=" background-color: rgba(0, 0, 0, 0.8)" class="fixed z-40 top-0 right-0 left-0 bottom-0 h-full w-full" x-show.transition.opacity="openEventModal">
+                            <div class="p-4 max-w-xl mx-auto relative absolute left-0 right-0 overflow-hidden mt-24">
+                                <div class="shadow absolute right-0 top-0 w-10 h-10 rounded-full bg-white text-gray-500 hover:text-gray-800 inline-flex items-center justify-center cursor-pointer"
+                                    x-on:click="openEventModal = !openEventModal">
+                                    <svg class="fill-current w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                                        <path
+                                            d="M16.192 6.344L11.949 10.586 7.707 6.344 6.293 7.758 10.535 12 6.293 16.242 7.707 17.656 11.949 13.414 16.192 17.656 17.606 16.242 13.364 12 17.606 7.758z" />
+                                    </svg>
+                                </div>
+                
+                                <div class="shadow w-full rounded-lg bg-white overflow-hidden w-full block p-8">
+                                    
+                                    <h2 id="cardtitle" class="font-bold text-2xl mb-3 text-gray-800"></h2>
+                                    <h2 class="font-display text-xl mb-5">Events</h2>
+                                    <hr>
+                                    <div class="mb-4 mt-3">
+                                      <ul id="eventlist">
+                                        <li>There are no events on this day</li>
+                                      </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /Modal -->
+                    </div>
+                
+                    <script>
+                        const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+                        const DAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+                        document.getElementById("all").checked = 'true';                        
+
+                        function app(json) {
+                            return {
+                                month: '',
+                                year: '',
+                                no_of_days: [],
+                                blankdays: [],
+                                days: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+                
+                                shownEvents:[
+  
+    
+                                  {
+                                    "title": "Control, Consensus, Chaos: The Global Response to the Pandemic",
+                                    "date": "Fri Apr 30 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/contagion-opening-event-lecture-by-sheila-jasanoff-registration-148321719255?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_sheila.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Why And How Should We Model Infectious Diseases?",
+                                    "date": "Sat May 01 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/why-and-how-should-we-model-infectious-diseases-lecture-tutorial-registration-145213889653?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Where the Birds Dance Their Last",
+                                    "date": "Sun May 02 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/where-birds-dance-their-last-film-screening-discussion-registration-145820558215?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/fd_lena.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contemporary Face Of Epidemics and Pandemics: Dealing With the Infodemic   ",
+                                    "date": "Sun May 02 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/dealing-with-the-infodemic-lecture-registration-148308301121?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Periwig-Maker ",
+                                    "date": "Mon May 03 2021",
+                                    "time": "13:26:39 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "/programmes/filmscreenings/the-periwig-maker/",
+                                    "thumbnail": ""
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Antimicrobial Resistance: The Pandemic in the Shadows",
+                                    "date": "Fri May 07 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": " After the End of Epidemics: A Cold War View",
+                                    "date": "Sat May 08 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/after-the-end-of-epidemics-a-cold-war-view-lecture-tutorial-registration-145227026947?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/e_exhibit_qua_atnvis_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Creating Interactive Art About Pandemics | Masterclass ",
+                                    "date": "Sun May 09 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/h_exhibit_qua_atnvis_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Plague and the Emergence of Epidemic Photography",
+                                    "date": "Sun May 09 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/plague-and-the-emergence-of-epidemic-photography-lecture-tutorial-registration-145228050007?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Identifying Variants of SARS-CoV-2 in India – What Does It Mean For Prevention and Control Of The Pandemic?",
+                                    "date": "Fri May 14 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/identifying-variants-of-sars-cov-2-in-india-lecture-tutorial-registration-148309968107?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_chitra.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Google Search Trends As A Surveillance Tool | Workshop ",
+                                    "date": "Sat May 15 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/google-search-trends-as-a-surveillance-tool-workshop-registration-148931380769?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_shreya.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Keep Calm and Spot the Design Tricks | Workshop ",
+                                    "date": "Sat May 15 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/keep-calm-and-spot-the-design-tricks-workshop-registration-148145012721?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/g_exhibit_qua_atnvis_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Science and Seeing: The Visual Technology of Contagion in 19th Century India",
+                                    "date": "Sat May 15 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/science-and-seeing-lecture-tutorial-registration-145397629223?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Fighting the Pandemic with Swords and Magic | Workshop ",
+                                    "date": "Sun May 16 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/fighting-the-pandemic-with-swords-magic-workshop-registration-148930149085?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_shreya-shreyas.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Information...It&#39;s Complicated | Workshop",
+                                    "date": "Sun May 16 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Survivors",
+                                    "date": "Sun May 16 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/survivors-film-screening-discussion-registration-148904548513?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/f_arthur.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies",
+                                    "date": "Sun May 16 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/plant-viruses-from-adversaries-to-allies-lecture-tutorial-registration-145398876955?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Everything You Wanted To Know About Non-Western Covid Vaccines But Were Afraid To Ask",
+                                    "date": "Fri May 21 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/what-you-wanted-to-know-about-nonwestern-covid-vaccines-lecture-tutorial-registration-145399912051?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_achal.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "2020 Vision: Making Sense of 24/7 News | Masterclass ",
+                                    "date": "Sat May 22 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/2020-vision-making-sense-of-247-online-news-masterclass-registration-148202835671?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS and Ebola Epidemics",
+                                    "date": "Sat May 22 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/configuring-care-in-the-context-of-aids-ebola-lecture-tutorial-registration-145400778643?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Drawing (from) the Bombay Plague | Workshop ",
+                                    "date": "Sun May 23 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/drawing-from-the-bombay-plague-workshop-registration-148222681029?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Dis-Ease",
+                                    "date": "Sun May 23 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/dis-ease-film-screening-discussion-registration-148914704891?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/f_mariam.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagion and Electricity: Two Ways of Talking About Connection in Dance",
+                                    "date": "Sun May 23 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/contagion-and-dance-lecture-tutorial-registration-148312046323?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_ananya.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Network Dynamics of Social Change ",
+                                    "date": "Wed May 26 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/the-network-dynamics-of-social-change-lecture-tutorial-registration-152304148809?aff=ebdsoporgprofile",
+                                    "thumbnail": ""
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Vaccines",
+                                    "date": "Fri May 28 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/dr-gagandeep-kang-lecture-tutorial-registration-145403685337?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_gagandeep.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Shape of A Laugh | Workshop ",
+                                    "date": "Sat May 29 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagion Across Species: Global Histories and Ecologies of Zoonotic Diseases",
+                                    "date": "Sat May 29 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/global-histories-ecologies-of-zoonotic-diseases-lecture-tutorial-registration-145405729451?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_michael.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagious Cartographies | Workshop ",
+                                    "date": "Sun May 30 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/contagious-cartographies-workshop-registration-151978346325?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_rasagyaharsha.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "COVID-19 Vaccines: Telling the Story | Workshop ",
+                                    "date": "Sun May 30 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/covid-19-vaccines-telling-the-story-workshop-registration-148307280067?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_hannah.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "A Human Question",
+                                    "date": "Sun May 30 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147?aff=ebdsoporgprofile",
+                                    "thumbnail": ""
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Art of Pandemics",
+                                    "date": "Sun May 30 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/the-art-of-pandemics-lecture-tutorial-registration-145407019309?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_girish.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "One Health ",
+                                    "date": "Fri Jun 04 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/one-health-lecture-tutorial-registration-148313241899?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_uma.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Visualising the Virus: Design As A Medium for Collective Critical Care | Workshop ",
+                                    "date": "Sat Jun 05 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/visualising-the-virus-workshop-registration-148926558345?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_gabriela.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Decoding OneHealth | Workshop ",
+                                    "date": "Sat Jun 05 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/decoding-onehealth-workshop-registration-148927846197?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_echo.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Age of Pandemics, 1817-1920: How They Shaped India and the World",
+                                    "date": "Sat Jun 05 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/the-age-of-pandemics-lecture-tutorial-registration-148314096455?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Working Together For Public Education On Pandemic Risks: The Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit",
+                                    "date": "Fri Jun 11 2021",
+                                    "time": "18:30:55 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/working-together-for-public-education-on-pandemic-risk-lecture-tutorial-registration-148315625027?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/h_exhibit_qua_atnvis_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Real-Time Contagion Science in the 21st Century: The Role of Data and Computing",
+                                    "date": "Sat Jun 12 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/real-time-contagion-science-in-the-21st-century-lecture-tutorial-registration-148316583895?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_madhav.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "THERIAK: Behind the Scenes in A Lab | Workshop ",
+                                    "date": "Sun Jun 13 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/theriak-behind-the-scenes-in-a-lab-workshop-registration-145820165039?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/e_exhibit_qua_atnvis_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Science, Innovation and Society: What Have We Learnt From the Covid-19 Pandemic?",
+                                    "date": "Sun Jun 13 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/contagion-closing-event-lecture-by-sir-jeremy-farrar-registration-148321145539?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/f_exhibit_qua_atnvis_2.jpg"
+                                  }
+                                
+                              ]
+                              
+                              ,
+                                events:[
+  
+    
+                                  {
+                                    "title": "Control, Consensus, Chaos: The Global Response to the Pandemic",
+                                    "date": "Fri Apr 30 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/contagion-opening-event-lecture-by-sheila-jasanoff-registration-148321719255?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_sheila.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Why And How Should We Model Infectious Diseases?",
+                                    "date": "Sat May 01 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/why-and-how-should-we-model-infectious-diseases-lecture-tutorial-registration-145213889653?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Where the Birds Dance Their Last",
+                                    "date": "Sun May 02 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/where-birds-dance-their-last-film-screening-discussion-registration-145820558215?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/fd_lena.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contemporary Face Of Epidemics and Pandemics: Dealing With the Infodemic   ",
+                                    "date": "Sun May 02 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/dealing-with-the-infodemic-lecture-registration-148308301121?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Periwig-Maker ",
+                                    "date": "Mon May 03 2021",
+                                    "time": "13:26:39 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "/programmes/filmscreenings/the-periwig-maker/",
+                                    "thumbnail": ""
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Antimicrobial Resistance: The Pandemic in the Shadows",
+                                    "date": "Fri May 07 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": " After the End of Epidemics: A Cold War View",
+                                    "date": "Sat May 08 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/after-the-end-of-epidemics-a-cold-war-view-lecture-tutorial-registration-145227026947?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/e_exhibit_qua_atnvis_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Creating Interactive Art About Pandemics | Masterclass ",
+                                    "date": "Sun May 09 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/h_exhibit_qua_atnvis_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Plague and the Emergence of Epidemic Photography",
+                                    "date": "Sun May 09 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/plague-and-the-emergence-of-epidemic-photography-lecture-tutorial-registration-145228050007?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Identifying Variants of SARS-CoV-2 in India – What Does It Mean For Prevention and Control Of The Pandemic?",
+                                    "date": "Fri May 14 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/identifying-variants-of-sars-cov-2-in-india-lecture-tutorial-registration-148309968107?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_chitra.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Google Search Trends As A Surveillance Tool | Workshop ",
+                                    "date": "Sat May 15 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/google-search-trends-as-a-surveillance-tool-workshop-registration-148931380769?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_shreya.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Keep Calm and Spot the Design Tricks | Workshop ",
+                                    "date": "Sat May 15 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/keep-calm-and-spot-the-design-tricks-workshop-registration-148145012721?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/g_exhibit_qua_atnvis_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Science and Seeing: The Visual Technology of Contagion in 19th Century India",
+                                    "date": "Sat May 15 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/science-and-seeing-lecture-tutorial-registration-145397629223?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Fighting the Pandemic with Swords and Magic | Workshop ",
+                                    "date": "Sun May 16 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/fighting-the-pandemic-with-swords-magic-workshop-registration-148930149085?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_shreya-shreyas.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Information...It&#39;s Complicated | Workshop",
+                                    "date": "Sun May 16 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Survivors",
+                                    "date": "Sun May 16 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/survivors-film-screening-discussion-registration-148904548513?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/f_arthur.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies",
+                                    "date": "Sun May 16 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/plant-viruses-from-adversaries-to-allies-lecture-tutorial-registration-145398876955?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Everything You Wanted To Know About Non-Western Covid Vaccines But Were Afraid To Ask",
+                                    "date": "Fri May 21 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/what-you-wanted-to-know-about-nonwestern-covid-vaccines-lecture-tutorial-registration-145399912051?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_achal.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "2020 Vision: Making Sense of 24/7 News | Masterclass ",
+                                    "date": "Sat May 22 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/2020-vision-making-sense-of-247-online-news-masterclass-registration-148202835671?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS and Ebola Epidemics",
+                                    "date": "Sat May 22 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/configuring-care-in-the-context-of-aids-ebola-lecture-tutorial-registration-145400778643?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Drawing (from) the Bombay Plague | Workshop ",
+                                    "date": "Sun May 23 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/drawing-from-the-bombay-plague-workshop-registration-148222681029?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Dis-Ease",
+                                    "date": "Sun May 23 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/dis-ease-film-screening-discussion-registration-148914704891?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/f_mariam.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagion and Electricity: Two Ways of Talking About Connection in Dance",
+                                    "date": "Sun May 23 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/contagion-and-dance-lecture-tutorial-registration-148312046323?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_ananya.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Network Dynamics of Social Change ",
+                                    "date": "Wed May 26 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/the-network-dynamics-of-social-change-lecture-tutorial-registration-152304148809?aff=ebdsoporgprofile",
+                                    "thumbnail": ""
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Vaccines",
+                                    "date": "Fri May 28 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/dr-gagandeep-kang-lecture-tutorial-registration-145403685337?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_gagandeep.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Shape of A Laugh | Workshop ",
+                                    "date": "Sat May 29 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagion Across Species: Global Histories and Ecologies of Zoonotic Diseases",
+                                    "date": "Sat May 29 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/global-histories-ecologies-of-zoonotic-diseases-lecture-tutorial-registration-145405729451?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_michael.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagious Cartographies | Workshop ",
+                                    "date": "Sun May 30 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/contagious-cartographies-workshop-registration-151978346325?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_rasagyaharsha.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "COVID-19 Vaccines: Telling the Story | Workshop ",
+                                    "date": "Sun May 30 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/covid-19-vaccines-telling-the-story-workshop-registration-148307280067?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_hannah.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "A Human Question",
+                                    "date": "Sun May 30 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147?aff=ebdsoporgprofile",
+                                    "thumbnail": ""
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Art of Pandemics",
+                                    "date": "Sun May 30 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/the-art-of-pandemics-lecture-tutorial-registration-145407019309?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_girish.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "One Health ",
+                                    "date": "Fri Jun 04 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/one-health-lecture-tutorial-registration-148313241899?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_uma.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Visualising the Virus: Design As A Medium for Collective Critical Care | Workshop ",
+                                    "date": "Sat Jun 05 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/visualising-the-virus-workshop-registration-148926558345?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_gabriela.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Decoding OneHealth | Workshop ",
+                                    "date": "Sat Jun 05 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/decoding-onehealth-workshop-registration-148927846197?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_echo.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Age of Pandemics, 1817-1920: How They Shaped India and the World",
+                                    "date": "Sat Jun 05 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/the-age-of-pandemics-lecture-tutorial-registration-148314096455?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Working Together For Public Education On Pandemic Risks: The Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit",
+                                    "date": "Fri Jun 11 2021",
+                                    "time": "18:30:55 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/working-together-for-public-education-on-pandemic-risk-lecture-tutorial-registration-148315625027?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/h_exhibit_qua_atnvis_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Real-Time Contagion Science in the 21st Century: The Role of Data and Computing",
+                                    "date": "Sat Jun 12 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/real-time-contagion-science-in-the-21st-century-lecture-tutorial-registration-148316583895?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_madhav.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "THERIAK: Behind the Scenes in A Lab | Workshop ",
+                                    "date": "Sun Jun 13 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/theriak-behind-the-scenes-in-a-lab-workshop-registration-145820165039?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/e_exhibit_qua_atnvis_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Science, Innovation and Society: What Have We Learnt From the Covid-19 Pandemic?",
+                                    "date": "Sun Jun 13 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/contagion-closing-event-lecture-by-sir-jeremy-farrar-registration-148321145539?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/f_exhibit_qua_atnvis_2.jpg"
+                                  }
+                                
+                              ]
+                              
+                              ,
+                                event_title: '',
+                                event_date: '',
+                                event_theme: 'blue',
+                
+                                themes: [
+                                    {
+                                        value: "blue",
+                                        label: "Blue Theme"
+                                    },
+                                    {
+                                        value: "red",
+                                        label: "Red Theme"
+                                    },
+                                    {
+                                        value: "yellow",
+                                        label: "Yellow Theme"
+                                    },
+                                    {
+                                        value: "green",
+                                        label: "Green Theme"
+                                    },
+                                    {
+                                        value: "purple",
+                                        label: "Purple Theme"
+                                    }
+                                ],
+                
+                                openEventModal: false,
+                
+                                initDate() {
+                                    let today = new Date();
+                                    this.month = today.getMonth();
+                                    this.year = today.getFullYear();
+                                    this.datepickerValue = new Date(this.year, this.month, today.getDate()).toDateString();
+                                    // Uncomment this once programme pages are live
+                                    //fetch('../lp_json/programme_data.json')
+                                    //    .then(response => response.json())
+                                    //    .then(response => {
+                                    //      console.log('fetched',response);                                         
+                                    //    
+                                    //      this.events = response;
+                                    //      this.shownEvents = response;
+                                    //      
+                                    //  });
+
+                                },
+
+                                
+                
+                                isToday(date) {
+                                    const today = new Date();
+                                    const d = new Date(this.year, this.month, date);
+                
+                                    return today.toDateString() === d.toDateString() ? true : false;
+                                },
+                
+                                tester(){
+                                  console.log("Checkbox changed")
+                                  const all = document.getElementById('all')
+                                  const lectures = document.getElementById("lectures")
+                                  const workshops = document.getElementById("workshops")
+                                  const events = document.getElementById("events")
+                                  const films = document.getElementById("filmscreening")
+                                  console.log(lectures.checked)
+                                  console.log(workshops.checked)
+                                  console.log(events.checked)
+                                  console.log(films.checked)
+                                 
+                                  this.shownEvents = [
+  
+    
+                                  {
+                                    "title": "Control, Consensus, Chaos: The Global Response to the Pandemic",
+                                    "date": "Fri Apr 30 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/contagion-opening-event-lecture-by-sheila-jasanoff-registration-148321719255?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_sheila.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Why And How Should We Model Infectious Diseases?",
+                                    "date": "Sat May 01 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/why-and-how-should-we-model-infectious-diseases-lecture-tutorial-registration-145213889653?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Where the Birds Dance Their Last",
+                                    "date": "Sun May 02 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/where-birds-dance-their-last-film-screening-discussion-registration-145820558215?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/fd_lena.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contemporary Face Of Epidemics and Pandemics: Dealing With the Infodemic   ",
+                                    "date": "Sun May 02 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/dealing-with-the-infodemic-lecture-registration-148308301121?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Periwig-Maker ",
+                                    "date": "Mon May 03 2021",
+                                    "time": "13:26:39 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "/programmes/filmscreenings/the-periwig-maker/",
+                                    "thumbnail": ""
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Antimicrobial Resistance: The Pandemic in the Shadows",
+                                    "date": "Fri May 07 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": " After the End of Epidemics: A Cold War View",
+                                    "date": "Sat May 08 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/after-the-end-of-epidemics-a-cold-war-view-lecture-tutorial-registration-145227026947?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/e_exhibit_qua_atnvis_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Creating Interactive Art About Pandemics | Masterclass ",
+                                    "date": "Sun May 09 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/h_exhibit_qua_atnvis_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Plague and the Emergence of Epidemic Photography",
+                                    "date": "Sun May 09 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/plague-and-the-emergence-of-epidemic-photography-lecture-tutorial-registration-145228050007?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Identifying Variants of SARS-CoV-2 in India – What Does It Mean For Prevention and Control Of The Pandemic?",
+                                    "date": "Fri May 14 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/identifying-variants-of-sars-cov-2-in-india-lecture-tutorial-registration-148309968107?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_chitra.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Google Search Trends As A Surveillance Tool | Workshop ",
+                                    "date": "Sat May 15 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/google-search-trends-as-a-surveillance-tool-workshop-registration-148931380769?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_shreya.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Keep Calm and Spot the Design Tricks | Workshop ",
+                                    "date": "Sat May 15 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/keep-calm-and-spot-the-design-tricks-workshop-registration-148145012721?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/g_exhibit_qua_atnvis_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Science and Seeing: The Visual Technology of Contagion in 19th Century India",
+                                    "date": "Sat May 15 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/science-and-seeing-lecture-tutorial-registration-145397629223?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Fighting the Pandemic with Swords and Magic | Workshop ",
+                                    "date": "Sun May 16 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/fighting-the-pandemic-with-swords-magic-workshop-registration-148930149085?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_shreya-shreyas.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Information...It&#39;s Complicated | Workshop",
+                                    "date": "Sun May 16 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Survivors",
+                                    "date": "Sun May 16 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/survivors-film-screening-discussion-registration-148904548513?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/f_arthur.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies",
+                                    "date": "Sun May 16 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/plant-viruses-from-adversaries-to-allies-lecture-tutorial-registration-145398876955?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Everything You Wanted To Know About Non-Western Covid Vaccines But Were Afraid To Ask",
+                                    "date": "Fri May 21 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/what-you-wanted-to-know-about-nonwestern-covid-vaccines-lecture-tutorial-registration-145399912051?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_achal.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "2020 Vision: Making Sense of 24/7 News | Masterclass ",
+                                    "date": "Sat May 22 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/2020-vision-making-sense-of-247-online-news-masterclass-registration-148202835671?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS and Ebola Epidemics",
+                                    "date": "Sat May 22 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/configuring-care-in-the-context-of-aids-ebola-lecture-tutorial-registration-145400778643?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Drawing (from) the Bombay Plague | Workshop ",
+                                    "date": "Sun May 23 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/drawing-from-the-bombay-plague-workshop-registration-148222681029?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Dis-Ease",
+                                    "date": "Sun May 23 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/dis-ease-film-screening-discussion-registration-148914704891?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/f_mariam.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagion and Electricity: Two Ways of Talking About Connection in Dance",
+                                    "date": "Sun May 23 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/contagion-and-dance-lecture-tutorial-registration-148312046323?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_ananya.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Network Dynamics of Social Change ",
+                                    "date": "Wed May 26 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/the-network-dynamics-of-social-change-lecture-tutorial-registration-152304148809?aff=ebdsoporgprofile",
+                                    "thumbnail": ""
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Vaccines",
+                                    "date": "Fri May 28 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/dr-gagandeep-kang-lecture-tutorial-registration-145403685337?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_gagandeep.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Shape of A Laugh | Workshop ",
+                                    "date": "Sat May 29 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagion Across Species: Global Histories and Ecologies of Zoonotic Diseases",
+                                    "date": "Sat May 29 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/global-histories-ecologies-of-zoonotic-diseases-lecture-tutorial-registration-145405729451?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_michael.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Contagious Cartographies | Workshop ",
+                                    "date": "Sun May 30 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/contagious-cartographies-workshop-registration-151978346325?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_rasagyaharsha.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "COVID-19 Vaccines: Telling the Story | Workshop ",
+                                    "date": "Sun May 30 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/covid-19-vaccines-telling-the-story-workshop-registration-148307280067?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_hannah.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "A Human Question",
+                                    "date": "Sun May 30 2021",
+                                    "time": "17:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"filmscreening,programme",
+                                    "url": "https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147?aff=ebdsoporgprofile",
+                                    "thumbnail": ""
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Art of Pandemics",
+                                    "date": "Sun May 30 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/the-art-of-pandemics-lecture-tutorial-registration-145407019309?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_girish.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "One Health ",
+                                    "date": "Fri Jun 04 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/one-health-lecture-tutorial-registration-148313241899?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_uma.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Visualising the Virus: Design As A Medium for Collective Critical Care | Workshop ",
+                                    "date": "Sat Jun 05 2021",
+                                    "time": "10:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/visualising-the-virus-workshop-registration-148926558345?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_gabriela.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Decoding OneHealth | Workshop ",
+                                    "date": "Sat Jun 05 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/decoding-onehealth-workshop-registration-148927846197?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/wk_echo.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "The Age of Pandemics, 1817-1920: How They Shaped India and the World",
+                                    "date": "Sat Jun 05 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/the-age-of-pandemics-lecture-tutorial-registration-148314096455?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Working Together For Public Education On Pandemic Risks: The Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit",
+                                    "date": "Fri Jun 11 2021",
+                                    "time": "18:30:55 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/working-together-for-public-education-on-pandemic-risk-lecture-tutorial-registration-148315625027?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/h_exhibit_qua_atnvis_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Real-Time Contagion Science in the 21st Century: The Role of Data and Computing",
+                                    "date": "Sat Jun 12 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/real-time-contagion-science-in-the-21st-century-lecture-tutorial-registration-148316583895?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/pl_madhav.png"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "THERIAK: Behind the Scenes in A Lab | Workshop ",
+                                    "date": "Sun Jun 13 2021",
+                                    "time": "14:00:00 GMT+0530 (India Standard Time)",
+                                    "type":"workshop,programme",
+                                    "url": "https://www.eventbrite.com/e/theriak-behind-the-scenes-in-a-lab-workshop-registration-145820165039?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/e_exhibit_qua_atnvis_1.jpg"
+                                  },
+                                
+                                  
+                                  {
+                                    "title": "Science, Innovation and Society: What Have We Learnt From the Covid-19 Pandemic?",
+                                    "date": "Sun Jun 13 2021",
+                                    "time": "18:30:00 GMT+0530 (India Standard Time)",
+                                    "type":"lecture,programme",
+                                    "url": "https://www.eventbrite.com/e/contagion-closing-event-lecture-by-sir-jeremy-farrar-registration-148321145539?aff=ebdsoporgprofile",
+                                    "thumbnail": "/static/img/f_exhibit_qua_atnvis_2.jpg"
+                                  }
+                                
+                              ];
+                              
+                              
+                                  
+                                  
+                                  if(lectures.checked){
+                                    this.shownEvents = this.shownEvents.filter((event)=>{
+                                      return event.type.split(",")[0] == 'lecture'
+                                    })
+                                  }
+                                  if(events.checked){
+                                    this.shownEvents =  this.shownEvents.filter((event)=>{
+                                      return event.type.split(",")[0] == 'events'
+                                    })
+                                  }
+                                  if(workshops.checked){
+                                    this.shownEvents = this.shownEvents.filter((event)=>{
+                                      return event.type.split(",")[0] == 'workshop'
+                                    })
+                                  }
+                                  if(films.checked){
+                                    this.shownEvents = this.shownEvents.filter((event)=>{
+                                      return event.type.split(",")[0] == 'filmscreening'
+                                    })
+                                  }
+                                  console.log(this.shownEvents)
+                                },
+                                showEventModal(date) {
+                                    // open the modal
+                                    var finaldate = date;
+                                    if(date <10){
+                                        finaldate = `0${date}`
+                                    }
+                                    const today = new Date();
+                                    //const d = new Date(this.year, this.month, date);
+                                    var d = `${MONTH_NAMES[this.month].substring(0,3)} ${finaldate} ${this.year}`
+                                    var arr = this.shownEvents.filter(function(event) {
+                                        return d == event.date.substring(4);
+                                    });
+                                    document.getElementById('cardtitle').innerText = `${date} ${MONTH_NAMES[this.month]}, ${this.year}`
+                                    
+                                    const ul = document.getElementById("eventlist")
+                                    if(arr.length != 0){
+                                      ul.innerHTML = ""
+                                      for(const i in arr){
+                                        const li = document.createElement("li")
+                                        li.className = "font-trade text-md"
+                                        //<p class="text-xs"
+                                        //:class="{'text-green-600': event.type.split(',')[0] == 'event', 'text-red-600': event.type.split(',')[0] == 'lecture', 'text-blue-600': event.type.split(',')[0] == 'workshop', 'text-yellow-600': event.type.split(',')[0] == 'filmscreening'}"
+                                        //style="width:10px; margin-right:5px;">&#9679;</p>
+                                        li.innerHTML = 
+                                        `<div class="flex">
+                                          <p class="text-sm"
+                                          style="width:10px; margin-right:15px;"
+                                          :class="{'text-green': '${arr[i].type.split(',')[0]}' == 'event', 'text-red': '${arr[i].type.split(',')[0]}' == 'lecture', 'text-blue': '${arr[i].type.split(',')[0]}' == 'workshop', 'text-yellow': '${arr[i].type.split(',')[0]}' == 'filmscreening'}">
+                                            &#9679;
+                                          </p> 
+                                          <a href='${arr[i].url}' target="_blank">
+                                          <span class="font-bold">${arr[i].time.split(':00 ')[0]}</span> : ${arr[i].title}
+                                          </a>
+                                        </div>`
+                                        ul.appendChild(li);
+                                      }
+                                    }
+
+
+
+                                    this.openEventModal = true;
+                                    this.event_date = new Date(this.year, this.month, date).toDateString();
+                                },
+                
+                                addEvent() {
+                                    if (this.event_title == '') {
+                                        return;
+                                    }
+                
+                                    this.events.push({
+                                        event_date: this.event_date,
+                                        event_title: this.event_title,
+                                        event_theme: this.event_theme
+                                    });
+                
+                                    console.log(this.events);
+                
+                                    // clear the form data
+                                    this.event_title = '';
+                                    this.event_date = '';
+                                    this.event_theme = 'blue';
+                
+                                    //close the modal
+                                    this.openEventModal = false;
+                                },
+                
+                                getNoOfDays() {
+                                    let daysInMonth = new Date(this.year, this.month + 1, 0).getDate();
+                
+                                    // find where to start calendar day of week
+                                    let dayOfWeek = new Date(this.year, this.month).getDay();
+                                    let blankdaysArray = [];
+                                    for ( var i=1; i <= dayOfWeek; i++) {
+                                        blankdaysArray.push(i);
+                                    }
+                
+                                    let daysArray = [];
+                                    for ( var i=1; i <= daysInMonth; i++) {
+                                        daysArray.push(i);
+                                    }
+                                    
+                                    this.blankdays = blankdaysArray;
+                                    this.no_of_days = daysArray;
+                                }
+                            }
+                        }
+                    </script>
+                </div>
+                
+            </div>
+        
+
+            
+        
+        
+        
+        
+          
+    
+    
+    
+    
+    </div>
+</div>
+</body>
+
+<script src="/static/js/menu.js"></script>

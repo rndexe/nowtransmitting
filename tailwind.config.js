@@ -10,6 +10,12 @@ module.exports = {
     container: {
       center: true,
     },
+    textColor: {
+      'blue': '#3E6CDA',
+      'yellow': '#ffed4a',
+      'red': '#d62b2b',
+      'green':'#00ff00'
+    },
     extend: {
       colors: {
 	trueGray: {
