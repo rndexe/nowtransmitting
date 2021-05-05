@@ -20,6 +20,7 @@ speakerbio: >-
 
 
   Her most recent research project seeks to understand how uncertainty and ambiguity about the authenticity of products and activities across a vast array of institutions, actors, and locations are reconciled in real-world settings. It will also investigate the moral paradoxes associated with such uncertainty.
+videosrc: https://player.vimeo.com/video/544446414
 readinglist:
   - quadreadlink: http://www.medanthrotheory.org/index.php/mat/article/view/5033
     quadreadtxt: The ‘Fake Probe’ in Global Health
