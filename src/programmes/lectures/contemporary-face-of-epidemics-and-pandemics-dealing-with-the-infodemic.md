@@ -4,6 +4,7 @@ permalink: programmes/lectures/dealing-with-the-infodemic/
 cata: transmission
 catb: documenting
 thumb: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
+cover: /static/img/E_PL_Coverimage.jpg
 date: 2021-05-02T13:00:00.000Z
 description: >-
   The coronavirus disease (COVID-19) pandemic has advanced globally since the
