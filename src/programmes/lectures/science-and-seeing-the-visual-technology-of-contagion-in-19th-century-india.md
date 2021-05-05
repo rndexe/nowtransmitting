@@ -1,6 +1,5 @@
 ---
-title: "A_Science and Seeing: The Visual Technology of Contagion in 19th Century
-  India"
+title: "Science and Seeing: The Visual Technology of Contagion in 19th Century India"
 permalink: programmes/lectures/science-and-seeing/
 cata: spillover
 catb: narrating
