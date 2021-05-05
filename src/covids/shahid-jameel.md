@@ -9,6 +9,7 @@ desc: "Viruses are fascinating things: they aren’t exactly alive by most
   his thoughts on why it's important to look beyond SARS-CoV-2 as the singular
   cause of the pandemic."
 speakername: Shahid Jameel
+speakerfield: Virologist
 speakerbio: >-
   Shahid Jameel studied Chemistry at Aligarh Muslim University and Indian
   Institute of Technology-Kanpur, India and obtained a PhD in Biochemistry at
