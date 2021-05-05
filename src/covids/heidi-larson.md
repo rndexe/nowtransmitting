@@ -9,6 +9,7 @@ desc: Heidi Larson has spent the past two decades trying to understand what
   out vaccination programmes, we need to rebuild communities’ faith and trust in
   medical information.
 speakername: Heidi Larson
+speakerfield: Anthropologist
 speakerbio: >-
   Heidi J. Larson, PhD, is Professor of Anthropology, Risk and Decision Science
   and is the Founding Director of the Vaccine Confidence Project at the London
