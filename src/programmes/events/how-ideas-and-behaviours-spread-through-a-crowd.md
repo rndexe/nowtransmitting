@@ -3,6 +3,7 @@ title: "How Ideas and Behaviours Spread Through A Crowd "
 permalink: programmes/workshops/how-ideas-and-behaviours-spread-through-a-crowd/
 cata: transmission
 catb: experimenting
+thumb: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
 cover: /static/img/A_EV_Coverimage.jpg
 date: 2021-06-06T10:30:00.000Z
 description: Come be a part of a live experiment on collective behaviour and
@@ -24,4 +25,5 @@ expertbio: Daniel Richardson is a Professor of Experimental Psychology at
   and has performed shows at the London Science Museum and Bloomsbury theatre
   combining science, music and live experiments on the group mind of the
   audience.
+expertpic: /static/img/pl_damon_portrait.png
 ---
