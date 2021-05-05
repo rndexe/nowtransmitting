@@ -3,7 +3,8 @@ title: "The Periwig-Maker "
 permalink: programmes/films/the-periwig-maker/
 cata: spillover
 catb: narrating
-thumb: /static/img/A_FS_Screenings.jpg
+thumb: ""
+cover: /static/img/A_FS_Screenings.jpg
 date: 2021-05-03T07:56:39.229Z
 description: >
   1999 | English | 15 Minutes | Germany and UK 
