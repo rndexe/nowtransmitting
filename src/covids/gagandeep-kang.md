@@ -8,6 +8,7 @@ desc: There’s no single solution to prevent the spread of the SARS-CoV-2, but
   could potentially shape more efficient and targeted responses to the COVID-19
   pandemic.
 speakername: Gagandeep Kang
+speakerfield: Physician-Scientist
 speakerbio: >-
   Gagandeep Kang is a Professor of Microbiology at Wellcome Trust Research
   Laboratory, and the Division of Gastrointestinal Sciences at the Christian
