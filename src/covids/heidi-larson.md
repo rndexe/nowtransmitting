@@ -19,6 +19,7 @@ speakerbio: >-
 
 
   Larson previously headed Global Immunisation Communication at UNICEF, chaired GAVI’s Advocacy Task Force, and served on the WHO SAGE Working Group on vaccine hesitancy. The VCP is a WHO Centre of Excellence on addressing Vaccine Hesitancy. Her research focuses on the analysis of social and political factors that can affect uptake of health interventions and influence policies. Her particular interest is on risk and rumour management from clinical trials to delivery – and building public trust.
+videosrc: https://player.vimeo.com/video/538599184
 readinglist:
   - quadreadlink: https://wellcome.org/news/when-will-world-be-vaccinated-against-covid-19
     quadreadtxt: When will the World be Vaccinated Against COVID-19?
