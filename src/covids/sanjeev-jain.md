@@ -7,7 +7,7 @@ desc: Every known civilisation has battled epidemics of diseases like the
   contemporary society intrigue psychiatrists like Sanjeev Jain, who has worked
   extensively on the history of medicine and mental health in South Asia.
 speakername: Sanjeev Jain
-speakerfield: ""
+speakerfield: Psychiatrist
 speakerbio: Sanjeev Jain teaches at the Department of Psychiatry at National
   Institute of Mental Health And Neurological Sciences (NIMHANS). There, in
   addition to being a clinician, he researches the genetic and genomic
