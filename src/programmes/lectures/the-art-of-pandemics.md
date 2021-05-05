@@ -1,5 +1,5 @@
 ---
-title: D_The Art of Pandemics
+title: The Art of Pandemics
 permalink: programmes/lectures/art-of-pandemics/
 cata: hindsight
 catb: narrating
