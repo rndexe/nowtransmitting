@@ -26,17 +26,23 @@ speakerbio: >-
 readinglist:
   - quadreadtxt: Perceptions of Health Care Use in Germany
     quadreadlink: https://pubmed.ncbi.nlm.nih.gov/33327486/
+    quadreadvis: /static/img/B_CO_QUA_READVIS_1.jpg
   - quadreadtxt: Does COVID-19 Threaten Global Solidarity?
     quadreadlink: https://www.sciencedirect.com/science/article/pii/S0305750X20304848
+    quadreadvis: /static/img/B_CO_QUA_READVIS_2.jpg
   - quadreadtxt: A new way of developing vaccines for COVID-19 could help the world
       to prepare for future outbreaks
     quadreadlink: https://wellcome.org/news/new-way-developing-vaccines-covid-19-could-help-world-prepare-future-outbreaks
+    quadreadvis: /static/img/B_CO_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5cO2zn48DjhR25dKASkxGp
     quadlisttxt: "Coronavirus: Shots, Shots, Shots!"
+    quadlistvis: /static/img/B_CO_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.bbc.co.uk/programmes/m000rmht
     quadlisttxt: Vaccination Strategies
+    quadlistvis: /static/img/B_CO_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=8n9bWR0CCBc
     quadwatchtxt: COVID-19 Won’t End With One Vaccine
+    quadwatchvis: /static/img/B_CO_QUA_WATCHVIS_1.jpg
 ---
