@@ -1,5 +1,5 @@
 ---
-title: "E_Contemporary Face Of Epidemics and Pandemics: Dealing With the Infodemic   "
+title: "Contemporary Face Of Epidemics and Pandemics: Dealing With the Infodemic   "
 permalink: programmes/lectures/dealing-with-the-infodemic/
 cata: transmission
 catb: documenting
