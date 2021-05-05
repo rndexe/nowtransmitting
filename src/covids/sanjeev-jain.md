@@ -18,6 +18,7 @@ speakerbio: Sanjeev Jain teaches at the Department of Psychiatry at National
   health issues, including the development of psychiatric care, medical
   sciences, and health policy in south Asia, from the colonial and post-colonial
   periods.
+videosrc: https://player.vimeo.com/video/530275264
 readinglist:
   - quadreadlink: https://fiftytwo.in/story/asylum/
     quadreadtxt: Asylum
