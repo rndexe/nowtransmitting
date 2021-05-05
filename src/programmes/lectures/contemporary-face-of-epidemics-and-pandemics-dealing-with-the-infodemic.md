@@ -1,6 +1,10 @@
 ---
-title: "E_Contemporary Face Of Epidemics and Pandemics: Dealing With the Infodemic   "
+title: "Contemporary Face Of Epidemics and Pandemics: Dealing With the Infodemic   "
+permalink: programmes/lectures/dealing-with-the-infodemic/
+cata: transmission
+catb: documenting
 thumb: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
+cover: /static/img/E_PL_Coverimage.jpg
 date: 2021-05-02T13:00:00.000Z
 description: >-
   The coronavirus disease (COVID-19) pandemic has advanced globally since the
@@ -18,13 +22,12 @@ expertbio: Dr. Sylvie Briand (MD, MPH, PhD) is the director of the Global
   (GIH) advances global efforts to prevent and control existing and emerging
   infectious diseases by increasing access to evidence-based interventions;
   fostering impactful innovation; and leveraging technical, operational and
-  strategic partnerships.      Since 2001, Briand has been actively involved in
-  the detection, preparedness and response to global threats, leading the
-  scientific and strategic component of the WHO response (COVID 19, avian
-  and  pandemic influenza, Ebola, Zika, Plague, yellow fever, cholera, MERS).
-  Before joining WHO, Briand worked as public health project director for
-  different global health agencies in various geographic regions (South America,
-  Africa).
+  strategic partnerships. Since 2001, Briand has been actively involved in the
+  detection, preparedness and response to global threats, leading the scientific
+  and strategic component of the WHO response (COVID 19, avian and  pandemic
+  influenza, Ebola, Zika, Plague, yellow fever, cholera, MERS). Before joining
+  WHO, Briand worked as public health project director for different global
+  health agencies in various geographic regions (South America, Africa).
 expertpic: /static/img/pl_sylvie_portrait.png
 readinglist:
   - quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30461-X/fulltext

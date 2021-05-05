@@ -1,5 +1,6 @@
 ---
 title: "Contagious Cartographies | Workshop "
+permalink: programmes/workshops/contagious-cartographies/
 thumb: /static/img/wk_rasagyaharsha.png
 date: 2021-05-30T04:30:00.000Z
 description: >-

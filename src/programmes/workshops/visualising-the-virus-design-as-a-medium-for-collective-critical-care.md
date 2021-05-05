@@ -1,6 +1,9 @@
 ---
 title: "Visualising the Virus: Design As A Medium for Collective Critical Care |
   Workshop "
+permalink: programmes/workshops/visualising-the-virus/
+cata: transmission
+catb: documenting
 thumb: /static/img/wk_gabriela.png
 date: 2021-06-05T04:30:00.000Z
 description: >-

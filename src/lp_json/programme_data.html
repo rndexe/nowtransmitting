@@ -8,6 +8,8 @@ permalink: lp_json/programme_data.json
       "title": "{{ data.title }}",
       "date": "{{ data.date.toDateString() }}",
       "time": "{{ data.date.toTimeString() }}",
+      "type":"{{data.tags}}",
+      "link":"{{data.link}}",
       "url": "{{ post.url }}",
       "thumbnail": "{{ post.data.thumb }}"
     }{{ '' if loop.last else ',' }}

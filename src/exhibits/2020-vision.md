@@ -1,5 +1,6 @@
 ---
 layout: 2020-vision
+featured: true
 authortype: Artist
 thumb: /static/img/B_Exhibit_Thumbnail.jpg
 title: "2020 Vision "

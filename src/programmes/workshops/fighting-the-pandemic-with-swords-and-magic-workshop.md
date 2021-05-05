@@ -1,5 +1,8 @@
 ---
 title: "Fighting the Pandemic with Swords and Magic | Workshop "
+permalink: programmes/workshops/fighting-the-pandemic-with-swords-and-magic/
+cata: transmission
+catb: experimenting
 thumb: /static/img/wk_shreya-shreyas.png
 date: 2021-05-16T04:30:00.000Z
 description: >-

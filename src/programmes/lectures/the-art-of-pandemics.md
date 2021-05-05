@@ -1,8 +1,10 @@
 ---
-title: D_The Art of Pandemics
+title: The Art of Pandemics
+permalink: programmes/lectures/art-of-pandemics/
 cata: hindsight
 catb: narrating
 thumb: /static/img/pl_girish.png
+cover: /static/img/D_PL_Coverimage.jpg
 date: 2021-05-30T13:00:00.000Z
 description: >-
   The current pandemic has given rise to a number of artistic enquiries.

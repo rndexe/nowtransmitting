@@ -22,6 +22,12 @@ module.exports = {
 	blue: {
 	    pg: '#3E6CDA',	
 	},
+  yellow: {
+    650: '#ffed4a',	
+  },
+  green: {
+    650: '#00ff00',	
+  },
       },
       spacing: {
          '43': '10.75rem',

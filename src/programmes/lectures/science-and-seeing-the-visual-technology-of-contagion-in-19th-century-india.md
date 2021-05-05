@@ -1,9 +1,10 @@
 ---
-title: "A_Science and Seeing: The Visual Technology of Contagion in 19th Century
-  India"
+title: "Science and Seeing: The Visual Technology of Contagion in 19th Century India"
+permalink: programmes/lectures/science-and-seeing/
 cata: spillover
 catb: narrating
 thumb: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
+cover: /static/img/A_PL_Coverimage.jpg
 date: 2021-05-15T13:00:00.000Z
 description: >-
   The technology that we use today allows us to explore the microscopic world in

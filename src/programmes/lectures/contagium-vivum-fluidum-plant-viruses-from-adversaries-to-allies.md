@@ -1,8 +1,10 @@
 ---
-title: "C_Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies"
+title: "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies"
+permalink: programmes/lectures/contagium-vivum-fluidum/
 cata: trigger
 catb: documenting
 thumb: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
+cover: /static/img/C_PL_Coverimage.jpg
 date: 2021-05-16T13:00:00.000Z
 description: >-
   The effects of viral infections on animals and plants have been known for

@@ -19,5 +19,12 @@
   .scroll-snap {
     scroll-snap-type: proximity;
   }  
+  #about a {
+	  @apply underline; 
+  }
+
+  #authors a {
+		@apply underline;
+  }
 }
 

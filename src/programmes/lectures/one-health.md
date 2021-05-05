@@ -1,5 +1,8 @@
 ---
-title: "One Health "
+title: "Q_One Health "
+permalink: programmes/lectures/one-health/
+cata: hindsight
+catb: documenting
 thumb: /static/img/pl_uma.png
 date: 2021-06-04T13:00:00.000Z
 link: http://bit.ly/lecture-ramakrishnan
@@ -19,16 +22,21 @@ expertpic: /static/img/pl_uma_portrait.png
 readinglist:
   - quadreadlink: https://theconversation.com/one-health-keeps-humans-one-step-ahead-of-the-microbes-106984
     quadreadtxt: "'One Health' Keeps Humans One Step Ahead Of The Microbes"
+    quadreadvis: /static/img/pl_uma.png
   - quadreadlink: https://www.pnas.org/content/early/2020/09/29/2018436117?versioned=true
     quadreadtxt: Envisioning A Biodiversity Science For Sustaining Human Well-being
+    quadreadvis: /static/img/pl_uma.png
   - quadreadlink: https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2020/02/14/one-health-could-prevent-next-coronavirus-outbreak/
     quadreadtxt: ‘One Health’ Could Prevent the Next Coronavirus Outbreak
+    quadreadvis: /static/img/pl_uma.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/4u0v8wTQy5MafYzbfoKYi4
     quadlisttxt: "Cracking One Health: Dr. Juan Lubroth"
+    quadlistvis: /static/img/pl_uma.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=t1NnlZbiPJc
     quadwatchtxt: "Deconstructing Biodiversity: Birds On Sky Islands"
+    quadwatchvis: /static/img/pl_uma.png
 eventlist:
   - quadeventtxt: Decoding OneHealth | Workshop by OneHealth Network
     quadeventlink: http://bit.ly/workshop-onehealth

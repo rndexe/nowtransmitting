@@ -58,7 +58,7 @@ exhibitauthor:
       television, radio, feature films and independent documentaries for over
       two decades. Her award winning work focuses on the intersection between
       Gender, Sexuality, Law and Public health. Her films are widely screened
-      around the globe and can be viewed at her Vimeo Account. Queer Archive for
+      around the globe and can be viewed at her [Vimeo Account](https://vimeo.com/jayashree). Queer Archive for
       Memory, Reflection and Activism (QAMRA) is an initiative grown out of her
       vast collection of raw footage on queer life and movement in India. "
 processimages:
