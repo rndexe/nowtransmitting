@@ -5,6 +5,7 @@ permalink: programmes/lectures/real-time-contagion-science/
 cata: transmission
 catb: experimenting
 thumb: /static/img/pl_madhav.png
+cover: /static/img/V_PL_Coverimage.jpg
 date: 2021-06-12T13:00:00.000Z
 description: >-
   Infectious diseases cause more than 10 million deaths a year worldwide.
@@ -46,19 +47,25 @@ readinglist:
   - quadreadlink: https://www.thehindu.com/sci-tech/health/coronavirus-densely-packed-areas-in-cities-are-vulnerable-says-biocomplexity-expert-madhav-marathe/article31195212.ece
     quadreadtxt: Densely-packed Areas In Cities Are Vulnerable, Says Biocomplexity
       Expert Madhav Marathe
+    quadreadvis: /static/img/pl_madhav.png
   - quadreadlink: https://www.nature.com/articles/s41562-020-0884-z
     quadreadtxt: Using Social and Behavioural Science to Support COVID-19 Pandemic Response
+    quadreadvis: /static/img/pl_madhav.png
   - quadreadlink: https://cacm.acm.org/magazines/2013/7/165478-computational-epidemiology/fulltext
     quadreadtxt: Computational Epidemiology
+    quadreadvis: /static/img/pl_madhav.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/58OnO6V0CJQu9T9k8P6jEK
     quadlisttxt: Smells Like Team Spirit
+    quadlistvis: /static/img/pl_madhav.png
   - quadlistlink: https://open.spotify.com/episode/5GOA5KbDJshKCLyWeHDYIP
     quadlisttxt: "Using Technology to Investigate the Inner Workings of Large Networks "
+    quadlistvis: /static/img/pl_madhav.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Js62DIn-BZ4
     quadwatchtxt: "Real-time Pandemic Planning And Response: Experiences From The
       COVID-19 Pandemic"
+    quadwatchvis: /static/img/pl_madhav.png
 eventlist:
   - quadeventtxt: Why and How Should We Model Infectious Diseases? | Lecture by Gautam Menon
     quadeventlink: http://bit.ly/lecture-menon
