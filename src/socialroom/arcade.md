@@ -45,4 +45,5 @@ gameslist:
       how many people will get infected. Your analytical skills are sure to be
       put through the test as you attempt to figure out how many people will
       cease to be human soon.
+    playimage: /static/img/e_ar_sec_vis.jpg
 ---
