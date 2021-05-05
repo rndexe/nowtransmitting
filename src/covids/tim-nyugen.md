@@ -15,6 +15,7 @@ speakerbio: Tim Nguyen is the Head of the Unit for High Impact Events in the
   interventions, including pandemic influenza and smallpox vaccines as well as
   influenza antivirals. In the COVID-19 pandemic response, he co-manages the
   “Managing Infodemic” pillar.
+videosrc: https://player.vimeo.com/video/541533684
 readinglist:
   - quadreadlink: https://www.jmir.org/2020/6/e19659/
     quadreadtxt: Framework for Managing the COVID-19 Infodemic
