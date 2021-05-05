@@ -1,6 +1,6 @@
 ---
 title: "Dis-Ease "
-permalink: programmes/films/dis-ease
+permalink: programmes/films/dis-ease/
 cata: hindsight
 catb: documenting
 date: 2021-05-23T11:30:00.000Z
