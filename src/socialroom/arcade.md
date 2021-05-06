@@ -3,7 +3,7 @@ title: Arcade
 description: "Explore contagion beyond labs in games, applications, and
   interactives. Immerse yourself in the arcade: investigate outbreaks, become a
   con-tagious con-artist, or create your own infectious networks! "
-icon: /static/img/arcade.svg
+icon: /static/img/arcade-square.svg
 gameslist:
   - listlink: https://www.cdc.gov/mobile/applications/sto/web-app.html
     about: "The US Centers for Disease Control and Prevention trains people to be
