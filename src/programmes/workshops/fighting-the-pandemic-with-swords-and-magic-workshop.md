@@ -1,9 +1,10 @@
 ---
-title: "Fighting the Pandemic with Swords and Magic | Workshop "
+title: Fighting the Pandemic with Swords and Magic
 permalink: programmes/workshops/fighting-the-pandemic-with-swords-and-magic/
 cata: transmission
 catb: experimenting
 thumb: /static/img/wk_shreya-shreyas.png
+cover: /static/img/E_WK_Coverimage.jpg
 date: 2021-05-16T04:30:00.000Z
 description: >-
   The world is trapped in the jaws of a deadly pandemic. The virus knows no
@@ -26,5 +27,26 @@ expertbio: >-
 
 
   Shreyas Joshi is a chemical engineering graduate, currently pursuing a PhD in computational biology from the department of Chemical Engineering at the Indian Institute of Science, Bangalore.
-expertpic: /static/img/e_wk_sec_vis_1.jpg
+expertpic: /static/img/E_WK_SEC_VIS_1.jpg
+readinglist:
+  - quadreadlink: https://www.wired.co.uk/article/world-of-warcraft-coronavirus-corrupted-blood
+    quadreadtxt: World of Warcraft Perfectly Predicted Our Coronavirus Panic
+    quadreadvis: /static/img/wk_shreya-shreyas.png
+  - quadreadlink: https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf
+    quadreadtxt: The Yellow Wallpaper
+    quadreadvis: /static/img/wk_shreya-shreyas.png
+  - quadreadlink: http://ala.keralascholars.org/issues/29/contagion-and-control-in-cinema-halls/
+    quadreadtxt: "Miasmic Screens: Contagion and Control in Early 20th Century Cinema Halls"
+    quadreadvis: /static/img/wk_shreya-shreyas.png
+listeninglist:
+  - quadlistlink: https://soundcloud.com/scifri/learning-from-world-of-warcrafts-virtual-pandemic
+    quadlisttxt: Learning From World Of Warcraft’s Virtual Pandemic
+    quadlistvis: /static/img/wk_shreya-shreyas.png
+  - quadlistlink: https://www.npr.org/transcripts/803458265
+    quadlisttxt: How Fictional Pandemics Can Help Fight Real-World Disease
+    quadlistvis: /static/img/wk_shreya-shreyas.png
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=sbqKeF_y8_k
+    quadwatchtxt: That Time an Accidental Plague Nearly Killed Everyone in World of Warcraft
+    quadwatchvis: /static/img/wk_shreya-shreyas.png
 ---
