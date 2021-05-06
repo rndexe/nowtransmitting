@@ -2,6 +2,7 @@
 title: "Decoding OneHealth | Workshop "
 permalink: programmes/workshops/decoding-one-health/
 thumb: /static/img/wk_echo.png
+cover: /static/img/L_WK_Coverimage.jpg
 date: 2021-06-05T08:30:00.000Z
 description: >-
   OneHealth is a strategy to simultaneously address the health of humans,
@@ -28,4 +29,25 @@ expertbio: "The Bengaluru OneHealth City Consortium is a group of
   people across the world generate a shared purpose and take action for the
   sustainability of India and our planet through science and technology. "
 expertpic: /static/img/l_wk_sec_vis_1.png
+readinglist:
+  - quadreadlink: https://theconversation.com/the-one-health-concept-must-prevail-to-allow-us-to-prevent-pandemics-148378
+    quadreadtxt: The 'One Health' Concept Must Prevail To Allow Us To Prevent Pandemics
+    quadreadvis: /static/img/wk_echo.png
+  - quadreadlink: https://www.nytimes.com/2012/09/11/science/vets-and-physicians-find-parallels-in-medical-research.html?_r=1&smid=tw-share
+    quadreadtxt: Vets and Physicians Find Parallels in Medical Research
+    quadreadvis: /static/img/wk_echo.png
+  - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7232973/#:~:text=One%20Health%20(OH)%20is%20a,plants%2C%20and%20their%20shared%20environment
+    quadreadtxt: One Health Approach to Address Zoonotic Diseases
+    quadreadvis: /static/img/wk_echo.png
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/64l5jYSFXBJZbWsY8N2LOs
+    quadlisttxt: "Cracking One Health: Dr. Eric Fèvre "
+    quadlistvis: /static/img/wk_echo.png
+  - quadlistlink: https://open.spotify.com/episode/0WaImGM3jYwXcB6FNm4VGv
+    quadlisttxt: "Cracking One Health: Dr. Steven Osofsky"
+    quadlistvis: /static/img/wk_echo.png
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=cZfzP3J2VxY
+    quadwatchtxt: A New Way To Fight Infectious Diseases And Predict Outbreaks
+    quadwatchvis: /static/img/wk_echo.png
 ---
