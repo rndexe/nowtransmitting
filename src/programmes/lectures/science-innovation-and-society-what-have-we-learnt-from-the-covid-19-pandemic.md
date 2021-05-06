@@ -1,5 +1,5 @@
 ---
-title: "W_Science, Innovation and Society: What Have We Learnt From the Covid-19
+title: "Science, Innovation and Society: What Have We Learnt From the Covid-19
   Pandemic?"
 permalink: programmes/lectures/science-innovation-and-society/
 cata: hindsight
