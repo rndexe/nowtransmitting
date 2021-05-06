@@ -4,6 +4,7 @@ permalink: programmes/lectures/one-health/
 cata: hindsight
 catb: documenting
 thumb: /static/img/pl_uma.png
+cover: /static/img/Q_PL_Coverimage.jpg
 date: 2021-06-04T13:00:00.000Z
 link: http://bit.ly/lecture-ramakrishnan
 expertname: Uma Ramakrishnan
