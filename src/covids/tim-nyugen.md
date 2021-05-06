@@ -1,5 +1,5 @@
 ---
-title: L_Managing Infodemics
+title: Managing Infodemics
 desc: The spread of COVID-19 around the world has been accompanied by a deluge
   of misinformation. At a time when reliable and scientific evidence is crucial
   for public health, fake news, misinformation, and rumours seem to be spreading
