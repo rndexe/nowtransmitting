@@ -1,5 +1,5 @@
 ---
-title: "R_The Age of Pandemics, 1817-1920: How They Shaped India and the World"
+title: "The Age of Pandemics, 1817-1920: How They Shaped India and the World"
 permalink: programmes/lectures/age-of-pandemics/
 cata: hindsight
 catb: narrating
