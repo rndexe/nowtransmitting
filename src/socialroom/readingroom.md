@@ -2,6 +2,7 @@
 title: Reading Room
 description: From our experience of disease to speculative imagination of future
   pandemics - explore a selection of reading material on contagion.
+icon: /static/img/reading-room-square.svg
 openbooklist:
   - title: A Journal of the Plague Year
     author: Daniel Defoe
@@ -52,6 +53,7 @@ recbooklist:
     about: A city is hit by an epidemic of "white blindness" which spares no one.
       *Blindness* details the natural breakdown of a society that follows upon
       this unnatural disaster.
+    coverimage: /static/img/RR_DanielDefoe.jpg
   - title: "Blue Pills: A Positive Love Story"
     author: Frederik Peeters
     link: https://www.theguardian.com/books/2008/mar/23/culture.features
