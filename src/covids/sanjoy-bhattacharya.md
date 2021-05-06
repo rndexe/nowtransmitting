@@ -8,7 +8,9 @@ desc: Outbreaks and epidemics have affected humanity throughout its existence,
   devastated by his experience of living through the worst pandemic in the past
   100 years. He reflects on how insights from history can help inform
   contemporary health policy.
+link: covids/lessons-from-past-pandemics/
 speakername: Sanjoy Bhattacharya
+speakerimage: /static/img/D_CO_SEC_VIS.jpg
 speakerfield: Historian of Medicine and Health
 speakerbio: >-
   Sanjoy Bhattacharya is Co-Director of the History Department’s Centre for
@@ -26,28 +28,28 @@ readinglist:
   - quadreadlink: https://www.cambridge.org/core/journals/medical-history/article/international-health-and-the-limits-of-its-global-influence-bhutan-and-the-worldwide-smallpox-eradication-programme/439B3BCA121FD269945B4645B1DE37CE#
     quadreadtxt: "International Health and the Limits of its Global Influence:
       Bhutan and the Worldwide Smallpox Eradication Programme"
-    quadreadvis: /static/img/D_CO_QUA_READVIS_1.jpg
-  - quadreadlink: https://www.nature.com/articles/s41599-020-0491-7
-    quadreadtxt: "Humanities, criticality and transparency: global health histories
-      and the foundations of inter-sectoral partnerships for the democratisation
-      of knowledge"
     quadreadvis: /static/img/D_CO_QUA_READVIS_2.jpg
+  - quadreadlink: https://www.nature.com/articles/s41599-020-0491-7
+    quadreadtxt: "Humanities, Criticality and Transparency: Global Health Histories
+      and the Foundations of Inter-Sectoral Partnerships for the Democratisation
+      of Knowledge"
+    quadreadvis: /static/img/D_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://www.cambridge.org/core/journals/medical-history/article/reassessing-the-foundations-worldwide-smallpox-eradication-195767/A95275198E1EC0668D7B15B240EBF1F0
     quadreadtxt: "Re-assessing the Foundations: Worldwide Smallpox Eradication, 1957–67 "
     quadreadvis: /static/img/D_CO_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://soundcloud.com/uclsound/coronavirus-the-whole-story-what-can-we-learn-from-the-history-of-pandemics
     quadlisttxt: What Can We Learn from the History of Pandemics?
-    quadlistvis: /static/img/D_CO_QUA_LISTVIS_1.jpg
+    quadlistvis: /static/img/D_CO_QUA_LISTVIS_2.jpg
   - quadlistlink: https://open.spotify.com/episode/1pPkezVpOoqZ0IiB3su49v
     quadlisttxt: A Disease Sleuth in Bangalore
-    quadlistvis: /static/img/D_CO_QUA_LISTVIS_2.jpg
+    quadlistvis: /static/img/D_CO_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=A9gJtJfSX74&ab_channel=CentreforSocialandEconomicProgress
-    quadwatchtxt: "Smallpox eradication: Inclusive histories as meaningful roadmaps
-      for global health"
-    quadwatchvis: /static/img/D_CO_QUA_WATCHVIS_1.jpg
+    quadwatchtxt: "Smallpox Eradication: Inclusive Histories as Meaningful Roadmaps
+      for Global Health"
+    quadwatchvis: /static/img/D_CO_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=P45SpT8EEck&feature=youtu.be&ab_channel=UniversityofYorkAudioVisualCentre
     quadwatchtxt: COVID19 Interdisciplinary Approaches
-    quadwatchvis: /static/img/D_CO_QUA_WATCHVIS_2.jpg
+    quadwatchvis: /static/img/D_CO_QUA_WATCHVIS_1.jpg
 ---
