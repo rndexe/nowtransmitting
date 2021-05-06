@@ -1,5 +1,5 @@
 ---
-title: M_Fakes and Facts in a Pandemic
+title: Fakes and Facts in a Pandemic
 desc: Fake news was a very serious issue even before the pandemic broke out.
   But, in the face of COVID-19, this phenomenon has become even more dangerous.
   Whether it's about the origins of the disease, how it spreads, or how it can
@@ -8,7 +8,9 @@ desc: Fake news was a very serious issue even before the pandemic broke out.
   understanding the role that authenticity plays across different institutions
   and actors. She reflects on what we can learn from paying attention to fakes,
   false information, and forgery during a pandemic.
+link: covids/fakes-facts-in-pandemic/
 speakername: Patricia Kingori
+speakerimage: /static/img/M_CO_SEC_VIS.jpg
 speakerfield: Sociologist
 speakerbio: >-
   Patricia Kingori is a Wellcome Senior Investigator and Associate Professor in
@@ -20,6 +22,7 @@ speakerbio: >-
 
 
   Her most recent research project seeks to understand how uncertainty and ambiguity about the authenticity of products and activities across a vast array of institutions, actors, and locations are reconciled in real-world settings. It will also investigate the moral paradoxes associated with such uncertainty.
+videosrc: https://player.vimeo.com/video/544446414
 readinglist:
   - quadreadlink: http://www.medanthrotheory.org/index.php/mat/article/view/5033
     quadreadtxt: The ‘Fake Probe’ in Global Health
