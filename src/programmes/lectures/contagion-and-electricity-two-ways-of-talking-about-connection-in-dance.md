@@ -1,7 +1,10 @@
 ---
 title: "Contagion and Electricity: Two Ways of Talking About Connection in Dance"
 permalink: programmes/lectures/contagion-and-electricity/
+cata: transmission
+catb: documenting
 thumb: /static/img/pl_ananya.png
+cover: /static/img/M_PL_Coverimage.jpg
 date: 2021-05-23T13:00:00.000Z
 description: >-
   Es como electricidad/ el mambo tiene la chispa’ (Mambo is like electricity; it
@@ -52,6 +55,7 @@ eventlist:
     quadeventvis: /static/img/pl_girish.png
   - quadeventtxt: Dis-Ease | Film Discussion
     quadeventlink: http://bit.ly/films-ghani
+    quadeventvis: /static/img/f_mariam.png
 relatedlist:
   - quadrelatedtxt: When the World Was A Laugh by Anais Tondeur
     quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
