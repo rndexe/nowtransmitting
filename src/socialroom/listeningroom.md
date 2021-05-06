@@ -7,7 +7,7 @@ description: >-
 
 
   Contagions change the world, listen on to know how!
-icon: ""
+icon: /static/img/listening-room-square.svg
 podcastlist:
   - title: Trigger
     subtitle: Where the stories begin
