@@ -45,4 +45,25 @@ openbooklist:
       In demonstrating their historical significance as subjects and shapers of
       medicine, it reveals that what we think of as human medicine was in fact
       deeply zoological."
+recbooklist:
+  - title: Blindness
+    author: Jose Saramago
+    link: https://www.npr.org/2010/12/28/132292587/in-saramagos-blindness-a-vision-of-human-nature
+    about: A city is hit by an epidemic of "white blindness" which spares no one.
+      *Blindness* details the natural breakdown of a society that follows upon
+      this unnatural disaster.
+  - title: "Blue Pills: A Positive Love Story"
+    author: Frederik Peeters
+    link: https://www.theguardian.com/books/2008/mar/23/culture.features
+    about: In an autobiographical account about love in the time of AIDS, Frederik
+      meets Cati and falls in love. *Blue Pills* reveals the many obstacles the
+      couple faces because Cati is HIV positive, just like her three-year-old
+      son.
+  - title: "Contagious: Why Things Catch On"
+    author: Jonah Berger
+    link: https://hbr.org/webinar/2016/08/contagious-why-things-catch-on
+    about: In *Contagious*, Berger reveals the secret science behind word-of-mouth
+      and social transmission. Discover how six basic principles drive all sorts
+      of things to become contagious, from consumer products and policy
+      initiatives to workplace rumors and YouTube videos.
 ---
