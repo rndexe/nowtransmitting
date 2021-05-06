@@ -4,6 +4,7 @@ permalink: programmes/workshops/drawing-from-the-bombay-plague/
 cata: spillover
 catb: narrating
 thumb: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
+cover: /static/img/G_WK_Coverimage.jpg
 date: 2021-05-23T04:30:00.000Z
 description: >-
   'Drawing the Bombay Plague' was an image that served as a reminder of the
@@ -36,4 +37,26 @@ expertbio: >-
 
   Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, and the Seed Funding Award-Wellcome Trust. 
 expertpic: /static/img/g_wk_sec_vis_1.jpg
+readinglist:
+  - quadreadlink: https://www.metmuseum.org/toah/hd/deth/hd_deth.htm
+    quadreadtxt: Art and Death in the Middle Ages
+    quadreadvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
+  - quadreadlink: https://scroll.in/article/968584/bombay-plague-of-1896-the-first-bio-political-crisis-to-be-captured-on-camera-in-colonial-india
+    quadreadtxt: "Bombay Plague Of 1896: The First Bio-political Crisis To Be
+      Captured On Camera In Colonial India"
+    quadreadvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
+  - quadreadlink: https://blog.nationalarchives.gov.uk/bringing-archives-art-drawing-bombay-plague/
+    quadreadtxt: "Bringing Archives Into Art: Drawing the Bombay Plague"
+    quadreadvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/2bwSfcci2aWQZYbuE0y9QK
+    quadlisttxt: A Year of Plague, Fire and War Told Through Art ft. Rebecca Rideal
+    quadlistvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=OS7CUd_jiCI&t=6s
+    quadwatchtxt: Drawing the Bombay Plague
+    quadwatchvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
+  - quadwatchlink: https://www.youtube.com/watch?v=DqhocPyA3v4
+    quadwatchtxt: Conversations on Practice with Ranjit Kandalgaonkar
+    quadwatchvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
 ---
