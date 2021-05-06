@@ -68,4 +68,5 @@ recbooklist:
       and social transmission. Discover how six basic principles drive all sorts
       of things to become contagious, from consumer products and policy
       initiatives to workplace rumors and YouTube videos.
+    coverimage: /static/img/RR_Contagious.jpg
 ---
