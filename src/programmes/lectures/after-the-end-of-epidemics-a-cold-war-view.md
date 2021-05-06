@@ -4,6 +4,7 @@ permalink: programmes/lectures/after-end-of-epidemics/
 cata: spillover
 catb: narrating
 thumb: /static/img/e_exhibit_qua_atnvis_2.jpg
+cover: /static/img/H_PL_Coverimage.jpg
 date: 2021-05-08T13:00:00.000Z
 description: "The enduring persistence, resurgence and mutation of many epidemic
   diseases have made apparent the problematic nature of the ‘epidemic disease
