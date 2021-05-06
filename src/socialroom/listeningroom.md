@@ -33,6 +33,7 @@ podcastlist:
       podcasts, explore these questions—both through the lens of the current
       pandemic, as well as through other contagions.
     listlink: https://open.spotify.com/playlist/7vF2eVc00jHIFp5LllBdK6?si=c17272f70d094a4a
+    podcastimage: /static/img/lr_spillover.png
   - title: Hindsight
     subtitle: All the world's a stage
     about: How can we make sense of the complexities of any contagion? Why should we
@@ -40,4 +41,5 @@ podcastlist:
       bigger picture, we provide a broader perspective on how contagions
       transform our lives.
     listlink: https://open.spotify.com/playlist/2u029n75OndLfGPXe5gQsz?si=e0fd9b19cc114295
+    podcastimage: /static/img/lr_hindsight.png
 ---
