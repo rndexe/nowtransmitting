@@ -1,5 +1,5 @@
 ---
-title: "V_Real-Time Contagion Science in the 21st Century: The Role of Data and
+title: "Real-Time Contagion Science in the 21st Century: The Role of Data and
   Computing"
 permalink: programmes/lectures/real-time-contagion-science/
 cata: transmission
@@ -73,10 +73,13 @@ eventlist:
   - quadeventtxt: Google Search Trends As A Tool for Surveillance | Workshop by
       Shreya Chakroborty
     quadeventlink: http://bit.ly/workshop-chakraborty
+    quadeventvis: /static/img/B_WK_Coverimage.jpg
 relatedlist:
   - quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazant, John Bush,
       and Kasim Khan
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+    quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
   - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
     quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
+    quadrelatedvis: /static/img/K_Exhibit_Thumbnail.jpg
 ---
