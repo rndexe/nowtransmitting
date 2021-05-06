@@ -10,6 +10,7 @@ desc: Sridhar Venkatapuram brings health-related natural and social sciences
 link: covids/health-justice-in-pandemic/
 speakername: Sridhar Venkatapuram
 speakerimage: /static/img/C_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/C_CO_THUMBNAIL.png
 speakerfield: Academic Practitioner
 speakerbio: >-
   Sridhar Venkatapuram is an academic researcher, educator, and practitioner in
