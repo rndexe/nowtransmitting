@@ -1,5 +1,5 @@
 ---
-title: I_Viruses, Variants and Vaccines
+title: Viruses, Variants and Vaccines
 desc: "Viruses are fascinating things: they aren’t exactly alive by most
   definitions, but they aren’t inanimate either. They are also deadly, as we can
   see in the current COVID-19 pandemic. But, pandemics aren’t just caused by
@@ -10,6 +10,7 @@ desc: "Viruses are fascinating things: they aren’t exactly alive by most
   cause of the pandemic."
 link: covids/viruses-variants-vaccines/
 speakername: Shahid Jameel
+speakerimage: /static/img/I_CO_SEC_VIS.jpg
 speakerfield: Virologist
 speakerbio: >-
   Shahid Jameel studied Chemistry at Aligarh Muslim University and Indian
