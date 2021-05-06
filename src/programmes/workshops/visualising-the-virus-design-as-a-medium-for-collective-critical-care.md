@@ -1,10 +1,10 @@
 ---
-title: "Visualising the Virus: Design As A Medium for Collective Critical Care |
-  Workshop "
+title: "Visualising the Virus: Design As A Medium for Collective Critical Care"
 permalink: programmes/workshops/visualising-the-virus/
 cata: transmission
 catb: documenting
 thumb: /static/img/wk_gabriela.png
+cover: /static/img/K_WK_Coverimage.jpg
 date: 2021-06-05T04:30:00.000Z
 description: >-
   The international digital project, Visualizing the Virus, is an interactive
@@ -33,4 +33,22 @@ expertbio: Gabriela Aquije is a Peruvian Architect (ENSAT France 2012/PUCP Perú
   a Future Architecture 2021 Fellow, she’s currently focused on the link between
   bioregional Food Systems, Urban Commons and Transition Design.
 expertpic: /static/img/k_wk_sec_vis_1.jpg
+readinglist:
+  - quadreadlink: https://blogs.lse.ac.uk/covid19/2020/06/30/making-the-invisible-visible-how-we-depict-covid-19/
+    quadreadtxt: "Making the Invisible Visible: How We Depict COVID-19"
+    quadreadvis: /static/img/wk_gabriela.png
+  - quadreadlink: https://theconversation.com/visualizing-the-virus-135415
+    quadreadtxt: Visualizing the Virus
+    quadreadvis: /static/img/wk_gabriela.png
+  - quadreadlink: https://wellcomecollection.org/articles/XwbnOBAAACEABdXJ
+    quadreadtxt: How We Visualise Viruses
+    quadreadvis: /static/img/wk_gabriela.png
+listeninglist:
+  - quadlistlink: https://soundcloud.com/ucl-arts-social-science/immunology-visualizing-uncertainty-and-vulnerability
+    quadlisttxt: Visualizing Uncertainty And Vulnerability
+    quadlistvis: /static/img/wk_gabriela.png
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=7yAnEiY5-JE
+    quadwatchtxt: Visualising a Virus
+    quadwatchvis: /static/img/wk_gabriela.png
 ---
