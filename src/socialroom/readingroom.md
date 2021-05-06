@@ -16,6 +16,7 @@ openbooklist:
     about: "*Laughter* is a collection of three essays by French philosopher Henri
       Bergson, first published in 1900. In this collection, he explores why
       people laugh and the role that laughter plays in social situations."
+    listlink: https://e.issuu.com/embed.html?d=laughter&hideIssuuLogo=true&hideShareButton=true&pageNumber=10&u=sciencegallerybengaluru
   - title: The Art of Antibiotics
     author: Markus Schmidt, et al.
     about: "*The Art of Antibiotics* documents the artist in residency program that
