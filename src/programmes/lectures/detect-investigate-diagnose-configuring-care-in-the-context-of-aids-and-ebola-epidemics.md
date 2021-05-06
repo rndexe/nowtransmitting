@@ -1,10 +1,11 @@
 ---
-title: "L_Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS
+title: "Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS
   and Ebola Epidemics"
 permalink: programmes/lectures/detect-investigate-diagnose/
 cata: spillover
 catb: documenting
 thumb: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+cover: /static/img/L_PL_Coverimage.jpg
 date: 2021-05-22T13:00:00.000Z
 description: >-
   COVID-19 has transformed the ways in which social, cultural, political, and
@@ -60,6 +61,7 @@ eventlist:
   - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
       Lecture by Sheila Jasanoff"
     quadeventvis: /static/img/pl_sheila.jpg
+    quadeventlink: https://bit.ly/lecture-jasanoff
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
