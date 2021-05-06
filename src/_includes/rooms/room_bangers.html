@@ -4,10 +4,11 @@
 		<div class="flex flex-col flex-none w-auto h-4/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
 			
 			<p class="text-3xl font-display mb-3">{{pod.title}}</p>
-			<div class="mb-12 w-20 h-0 border border-solid border-red-650"></div>
+			<div class="mb-6 w-20 h-0 border border-solid border-red-650"></div>
+			<p class="text-base font-trade mb-6">{{pod.subtitle}}</p>
 			<div class="flex flex-row h-full">
-				{% if pod.playimage %}
-				<img class="object-contain w-auto h-full rounded-xl shadow-2xl" src={{pod.playimage}} oncontextmenu="return false" ondragstart="return false">
+				{% if pod.podcastimage %}
+				<img class="object-contain w-auto h-full rounded-xl shadow-2xl" src={{pod.podcastimage}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 				<div class="pl-10">
 					<p class="text-sm mb-10 w-96 font-normal font-trade text-trueGray-750">{{pod.about}}</p>
