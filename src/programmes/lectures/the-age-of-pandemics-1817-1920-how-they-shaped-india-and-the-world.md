@@ -1,9 +1,10 @@
 ---
-title: "R_The Age of Pandemics, 1817-1920: How They Shaped India and the World"
+title: "The Age of Pandemics, 1817-1920: How They Shaped India and the World"
 permalink: programmes/lectures/age-of-pandemics/
 cata: hindsight
 catb: narrating
 thumb: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
+cover: /static/img/R_PL_Coverimage.jpg
 date: 2021-06-05T13:00:00.000Z
 description: >-
   Between 1817 and 1920, over 70 million people died in the cholera, plague and
