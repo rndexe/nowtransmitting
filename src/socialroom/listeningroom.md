@@ -12,6 +12,7 @@ podcastlist:
       and sources of contagions. Listen to the stories of fake news, origins of
       diseases, and research that can help contain infections. This is where
       contagious stories begin.
+    podcastimage: /static/img/lr_trigger.png
   - title: Transmission
     subtitle: ""
     listlink: https://open.spotify.com/playlist/2jQXBQMBeMK6FbC0FOUKCe?si=cdf5b6d9786a45dd
@@ -20,6 +21,7 @@ podcastlist:
       contagions of different kinds? These podcasts cover epidemics, past and
       present, and enable us to understand different types of contagions through
       the lens of their spread.
+    podcastimage: /static/img/lr_transmission.png
   - title: Spillover
     subtitle: Into our lives
   - title: Hindsight
