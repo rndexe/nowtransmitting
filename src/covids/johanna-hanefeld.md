@@ -1,5 +1,5 @@
 ---
-title: N_Learning from a Pandemic
+title: Learning from a Pandemic
 desc: Though COVID-19 is primarily a global health crisis, its ripple effect has
   been felt in various spheres of life. It has changed how we work, how we
   relax, and how we connect with each other. However, the effect of the pandemic
