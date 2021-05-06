@@ -1,0 +1,26 @@
+<section class="w-auto h-full max-h-full pr-20 pt-16 flex-none bg-white">
+	<div class = "flex flex-row w-auto h-full">
+	{%- for pod in podcastlist -%}
+		<div class="flex flex-col flex-none w-auto h-4/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
+			
+			<p class="text-3xl font-display mb-3">{{pod.title}}</p>
+			<div class="mb-12 w-20 h-0 border border-solid border-red-650"></div>
+			<div class="flex flex-row h-full">
+				{% if pod.playimage %}
+				<img class="object-contain w-auto h-full rounded-xl shadow-2xl" src={{pod.playimage}} oncontextmenu="return false" ondragstart="return false">
+				{% endif %}
+				<div class="pl-10">
+					<p class="text-sm mb-10 w-96 font-normal font-trade text-trueGray-750">{{pod.about}}</p>
+					<a href="{{pod.listlink}}">
+						<button class="text-xs py-2 px-12  font-trade rounded border border-solid border-black">
+						Listen
+						</button>
+					</a>
+				</div>
+			</div>
+
+		</div>
+	{%- endfor -%}	
+	</div>
+
+</section>

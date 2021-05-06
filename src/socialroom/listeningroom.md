@@ -1,4 +1,5 @@
 ---
+layout: rooms/listeningroom
 title: Listening Room
 description: Drown out the noise and tune into our playlists drawing on
   podcasts, online radio, and recordings— explore new science, controversies,
