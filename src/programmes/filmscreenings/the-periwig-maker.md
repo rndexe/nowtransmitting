@@ -3,7 +3,7 @@ title: "The Periwig-Maker "
 permalink: programmes/films/the-periwig-maker/
 cata: spillover
 catb: narrating
-thumb: ""
+thumb: /static/img/A_FS_Screenings.jpg
 cover: /static/img/A_FS_Screenings.jpg
 date: 2021-05-03T07:56:39.229Z
 description: >
