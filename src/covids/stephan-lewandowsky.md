@@ -10,6 +10,7 @@ desc: The pandemic has revealed weaknesses in our society, but it has also
 link: covids/conspiracies-trust-in-pandemic/
 speakername: Stephan Lewandowsky
 speakerimage: /static/img/F_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/F_CO_THUMBNAIL.png
 speakerfield: Cognitive Scientist
 speakerbio: Stephan Lewandowsky is a cognitive scientist with an interest in how
   people update their memories if information they believe turns out to be
