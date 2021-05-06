@@ -1,5 +1,5 @@
 ---
-title: A_Managing the Pandemic in India
+title: Managing the Pandemic in India
 desc: With more than 10 million cases, India has the second-highest infection
   load in the world after the United States. However, with cutting-edge
   research, invention of new biomedical devices, and a very ambitious
