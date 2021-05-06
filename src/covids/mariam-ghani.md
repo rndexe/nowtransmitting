@@ -11,7 +11,7 @@ desc: From “immunogenicity” to “RT-PCR”, COVID-19 has made many once-obs
   pathogens? Mariam Ghani, an artist, writer, and filmmaker, who has been
   observing the language and metaphors of illness in her latest project,
   Dis-Ease, contemplates these questions.
-link: covids/language-of-pandemics
+permalink: covids/language-of-pandemics/
 speakername: Mariam Ghani
 speakerimage: /static/img/O_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/O_CO_THUMBNAIL.png

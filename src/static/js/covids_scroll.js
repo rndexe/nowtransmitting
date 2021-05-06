@@ -1,5 +1,63 @@
-//For converting mousewheel scroll into horizontal scroll
+var main = document.getElementById('main')
+var backbutton = document.getElementById("backbutton")
+var navitems = document.getElementById("nav-items-container")
+
+var about = document.querySelector('#about');
+var process = document.querySelector('#process');
+var scholar = document.querySelector('#authors');
+var further = document.querySelector('#takeitfurther')
+var aboutnav = document.querySelector('#nav-item-about');
+var processnav = document.querySelector('#nav-item-process');
+var scholarnav = document.querySelector('#nav-item-scholar');
+var furthernav = document.querySelector('#nav-item-further')
+
 var scrollicon = document.getElementById("scroll-arrow")
+
+if(process == null){
+	navitems.children[1].removeChild(navitems.children[1].children[2])
+}
+
+if(about == null){
+	navitems.children[1].removeChild(navitems.children[1].children[0])
+}
+backbutton.addEventListener("click",function() {
+	window.location = "#home";
+	backbutton.style.visibility = 'hidden'
+	navitems.style.visibility = 'hidden';
+	aboutnav.children[1].style.visibility = 'hidden'
+	processnav.children[1].style.visibility = 'hidden'
+	scholarnav.children[1].style.visibility = 'hidden'
+	furthernav.children[1].style.visibility = 'hidden'
+
+})
+
+aboutnav.addEventListener("click",function() {
+	resetNavbar()
+	aboutnav.children[0].style.color = 'black'
+	aboutnav.children[1].style.visibility = 'visible'
+
+});
+scholarnav.addEventListener("click",function() {
+	resetNavbar()
+	scholarnav.children[0].style.color = 'white'
+	scholarnav.children[1].style.visibility = 'visible'
+
+});
+processnav.addEventListener("click",function() {
+	resetNavbar()
+	processnav.children[0].style.color = 'red'
+	processnav.children[1].style.visibility = 'visible'
+});
+furthernav.addEventListener("click",function() {
+	resetNavbar()
+	furthernav.children[0].style.color = 'black'
+	furthernav.children[1].style.visibility = 'visible'
+
+});
+
+aboutnav.children[0].style.color = 'black'
+
+//For converting mousewheel scroll into horizontal scroll
 main.addEventListener('wheel', (e) => {
 	main.scrollLeft += e.deltaY;
 
@@ -93,4 +151,13 @@ document.addEventListener('DOMContentLoaded', function() {
 				ele.addEventListener('mousedown', mouseDownHandler);
 			});
 
-
+function resetNavbar(){
+		aboutnav.children[0].style.color = "#a3a3a3";
+		processnav.children[0].style.color = "#a3a3a3";
+		scholarnav.children[0].style.color = "#a3a3a3";
+		furthernav.children[0].style.color = "#a3a3a3";
+		aboutnav.children[1].style.visibility =   'hidden'
+		processnav.children[1].style.visibility = 'hidden'
+		scholarnav.children[1].style.visibility = 'hidden'
+		furthernav.children[1].style.visibility = 'hidden'
+}
