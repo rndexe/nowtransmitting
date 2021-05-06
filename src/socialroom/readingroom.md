@@ -35,10 +35,12 @@ openbooklist:
     author: Mary Shelley
     about: "*The Last Man* is an eerily prescient tale describing a future Earth of
       the late 21st century, which is ravaged by an unknown pandemic."
+    listlink: https://e.issuu.com/embed.html?d=the_last_man&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: The Virus
     author: Aleksandra Bartoszko, and Marcin Ponomarew
     about: "*The Virus* is an ethnographic comic book which explores the experiences
       of patients who live with Hepatitis C."
+    listlink: https://e.issuu.com/embed.html?d=the_virus&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: The Yellow Wallpaper
     author: Charlotte Perkins Gilman
     about: "*The Yellow Wallpaper* is a short story describing a woman’s gradual
