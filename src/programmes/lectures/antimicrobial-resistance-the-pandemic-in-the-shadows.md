@@ -1,5 +1,5 @@
 ---
-title: "F_Antimicrobial Resistance: The Pandemic in the Shadows"
+title: "Antimicrobial Resistance: The Pandemic in the Shadows"
 permalink: programmes/lectures/antimicrobial-resistance/
 cata: spillover
 catb: experimenting
