@@ -7,6 +7,7 @@ description: >-
 
 
   Look at the photos shared with us, and tell us what clicks with you.
+icon: /static/img/through-your-eyes.svg
 prompta: Behind the Mask
 promptb: Bubble
 promptc: Home
