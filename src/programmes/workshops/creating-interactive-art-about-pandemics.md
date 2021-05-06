@@ -1,9 +1,10 @@
 ---
-title: "Creating Interactive Art About Pandemics | Masterclass "
+title: Creating Interactive Art About Pandemics
 permalink: programmes/workshops/creating-interactive-art-about-pandemics/
 cata: transmission
 catb: documenting
 thumb: /static/img/h_exhibit_qua_atnvis_2.jpg
+cover: /static/img/A_WK_Coverimage.jpg
 date: 2021-05-09T08:30:00.000Z
 description: >-
   In 2018 Blast Theory were the first artists-in-residence at the World Health
@@ -30,4 +31,25 @@ expertbio: Matt Adams cofounded Blast Theory, an artists’ group making
   the BBC, and the Royal Opera House. The group has been nominated for four
   BAFTAs and has won the Golden Nica at Prix Ars Electronica.
 expertpic: /static/img/a_wk_sec_vis_1.jpg
+readinglist:
+  - quadreadlink: https://www.artworkarchive.com/blog/why-we-need-arts-in-times-of-crisis
+    quadreadtxt: Why We Need Arts in Times of Crisis
+    quadreadvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+  - quadreadlink: https://www.theartnewspaper.com/analysis/art-pandemic
+    quadreadtxt: "Pandemic Art: How Artists Have Depicted Disease"
+    quadreadvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+  - quadreadlink: https://www.nytimes.com/2020/04/08/t-magazine/art-coronavirus.html
+    quadreadtxt: What Can We Learn From the Art of Pandemics Past?
+    quadreadvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/1F9qY5up5QSKi3AfyZeskS
+    quadlisttxt: Global Pandemics and Art
+    quadlistvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+  - quadlistlink: https://open.spotify.com/episode/4FI8d8EN504Ud7KoVuKbDM
+    quadlisttxt: "Contagion and Viruses "
+    quadlistvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+watchinglist:
+  - quadwatchlink: https://vimeo.com/503796575
+    quadwatchtxt: Cosmic Call
+    quadwatchvis: /static/img/h_exhibit_qua_atnvis_2.jpg
 ---
