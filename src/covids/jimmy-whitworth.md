@@ -1,5 +1,5 @@
 ---
-title: G_Community and Care in a Pandemic
+title: Community and Care in a Pandemic
 desc: Epidemiology is a branch of medical science that studies the distribution
   of diseases in human populations and the factors that determine this
   distribution, chiefly by the use of statistics. With the onset of the COVID-19
