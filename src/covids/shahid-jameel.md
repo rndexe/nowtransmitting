@@ -1,5 +1,5 @@
 ---
-title: I_Viruses, Variants and Vaccines
+title: Viruses, Variants and Vaccines
 desc: "Viruses are fascinating things: they aren’t exactly alive by most
   definitions, but they aren’t inanimate either. They are also deadly, as we can
   see in the current COVID-19 pandemic. But, pandemics aren’t just caused by
@@ -8,7 +8,10 @@ desc: "Viruses are fascinating things: they aren’t exactly alive by most
   Shahid Jameel is one of India’s mostly highly regarded virologists. He shares
   his thoughts on why it's important to look beyond SARS-CoV-2 as the singular
   cause of the pandemic."
+link: covids/viruses-variants-vaccines/
 speakername: Shahid Jameel
+speakerimage: /static/img/I_CO_SEC_VIS.jpg
+speakerfield: Virologist
 speakerbio: >-
   Shahid Jameel studied Chemistry at Aligarh Muslim University and Indian
   Institute of Technology-Kanpur, India and obtained a PhD in Biochemistry at
@@ -19,6 +22,7 @@ speakerbio: >-
 
 
   He was CEO of the DBT/Wellcome Trust India Alliance from 2013 to 2020 and is now Director, Trivedi School of Biosciences at Ashoka University. Jameel received the Shanti Swarup Bhatnagar Prize and is an elected Fellow of India’s science academies.
+videosrc: https://player.vimeo.com/video/533115377
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/science-nature/compare-flu-pandemic-1918-and-covid-19-caution-180975040/
     quadreadtxt: The Past is not a Prediction
