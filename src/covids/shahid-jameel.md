@@ -8,6 +8,7 @@ desc: "Viruses are fascinating things: they aren’t exactly alive by most
   Shahid Jameel is one of India’s mostly highly regarded virologists. He shares
   his thoughts on why it's important to look beyond SARS-CoV-2 as the singular
   cause of the pandemic."
+link: covids/viruses-variants-vaccines/
 speakername: Shahid Jameel
 speakerfield: Virologist
 speakerbio: >-
