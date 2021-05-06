@@ -1,9 +1,10 @@
 ---
-title: "Contagious Cartographies | Workshop "
+title: Contagious Cartographies
 permalink: programmes/workshops/contagious-cartographies/
 cata: transmission
 catb: mapping
 thumb: /static/img/wk_rasagyaharsha.png
+cover: /static/img/pl_rasagya_coverimage.png
 date: 2021-05-30T04:30:00.000Z
 description: >-
   Humans have been tracking spread and impact of disease for centuries,
