@@ -1,5 +1,5 @@
 ---
-title: "K_Control, Consensus, Chaos: The Global Response to the Pandemic"
+title: "Control, Consensus, Chaos: The Global Response to the Pandemic"
 permalink: programmes/lectures/control-consensus-chaos/
 cata: hindsight
 catb: documenting
