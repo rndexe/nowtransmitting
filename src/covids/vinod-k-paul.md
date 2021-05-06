@@ -11,6 +11,7 @@ desc: With more than 10 million cases, India has the second-highest infection
 link: covids/managing-pandemic-india/
 speakername: Vinod K Paul
 speakerimage: /static/img/A_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/A_CO_THUMBNAIL.png
 speakerfield: Pediatrician
 speakerbio: >-
   Prof. Vinod K. Paul, a paediatrician by training, was on the faculty of the
