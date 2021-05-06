@@ -8,7 +8,10 @@ podcastlist:
   - title: Trigger
     subtitle: Where the stories begin
     listlink: https://open.spotify.com/playlist/5JcRiF6kLxWvS3D83DlFpQ?si=c4f8df63e5f34928
-    about: ""
+    about: The first playlist is ‘trigger.’ The podcasts here explore the origins
+      and sources of contagions. Listen to the stories of fake news, origins of
+      diseases, and research that can help contain infections. This is where
+      contagious stories begin.
   - title: Transmission
     subtitle: ""
     listlink: https://open.spotify.com/playlist/2jQXBQMBeMK6FbC0FOUKCe?si=cdf5b6d9786a45dd
