@@ -1,5 +1,5 @@
 ---
-title: "H_ After the End of Epidemics: A Cold War View"
+title: "After the End of Epidemics: A Cold War View"
 permalink: programmes/lectures/after-end-of-epidemics/
 cata: spillover
 catb: narrating
