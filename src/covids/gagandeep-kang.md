@@ -1,5 +1,5 @@
 ---
-title: J_How Pandemics Advance Science
+title: How Pandemics Advance Science
 desc: There’s no single solution to prevent the spread of the SARS-CoV-2, but
   the rapid development and rollout of vaccines that can protect communities is
   crucial. Gagandeep Kang, a physician and scientist at the Christian Medical
