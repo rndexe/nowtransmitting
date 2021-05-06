@@ -1,5 +1,5 @@
 ---
-title: J_Everything You Wanted To Know About Non-Western Covid Vaccines But Were
+title: Everything You Wanted To Know About Non-Western Covid Vaccines But Were
   Afraid To Ask
 permalink: programmes/lectures/about-non-western-covid-vacciners/
 cata: spillover
