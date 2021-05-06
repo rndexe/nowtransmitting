@@ -20,13 +20,15 @@ expertbio: Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute
   focused strongly on antimicrobial resistance (AMR) communication in the recent
   past. She currently focusses on COVID-19 communication and will go back to
   focusing on AMR communication when the pandemic is over.
-expertpic: /static/img/O_EXHIBIT_SEC_VIS_1.jpg
+expertpic: /static/img/D_EV_SEC_VIS_1.jpg
 readinglist:
   - quadreadtxt: Museums Preserve Clues That Can Help Scientists Predict And Analyze
       Future Pandemics
     quadreadlink: https://theconversation.com/museums-preserve-clues-that-can-help-scientists-predict-and-analyze-future-pandemics-141175
   - quadreadtxt: How Museums Can Help the Public Make Sense of Pandemics
     quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/how-museums-can-help-public-make-sense-pandemics-180974281/
+  - quadreadlink: https://www.theartnewspaper.com/review/what-they-do-and-how-they-do-it-why-museums-matter
+    quadreadtxt: "What They Do And How They Do It: Why Museums Matter"
 listeninglist:
   - quadlisttxt: " Museums Keep History Alive — Even In The Times Of Coronavirus"
     quadlistlink: https://www.npr.org/2020/06/24/881992594/museums-keep-history-alive-even-in-the-times-of-coronavirus
