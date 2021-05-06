@@ -1,5 +1,5 @@
 ---
-title: K_Trust and Fear in a Pandemic
+title: Trust and Fear in a Pandemic
 desc: Heidi Larson has spent the past two decades trying to understand what
   makes people in various countries hesitant to take vaccines. In response, she
   created the Vaccine Confidence Project, an interdisciplinary project that
@@ -8,7 +8,10 @@ desc: Heidi Larson has spent the past two decades trying to understand what
   misinformation. She argues that in 2021, as governments around the world roll
   out vaccination programmes, we need to rebuild communities’ faith and trust in
   medical information.
+link: covids/trust-fear-in-pandemic/
 speakername: Heidi Larson
+speakerimage: /static/img/K_CO_SEC_VIS.jpg
+speakerfield: Anthropologist
 speakerbio: >-
   Heidi J. Larson, PhD, is Professor of Anthropology, Risk and Decision Science
   and is the Founding Director of the Vaccine Confidence Project at the London
@@ -18,6 +21,7 @@ speakerbio: >-
 
 
   Larson previously headed Global Immunisation Communication at UNICEF, chaired GAVI’s Advocacy Task Force, and served on the WHO SAGE Working Group on vaccine hesitancy. The VCP is a WHO Centre of Excellence on addressing Vaccine Hesitancy. Her research focuses on the analysis of social and political factors that can affect uptake of health interventions and influence policies. Her particular interest is on risk and rumour management from clinical trials to delivery – and building public trust.
+videosrc: https://player.vimeo.com/video/538599184
 readinglist:
   - quadreadlink: https://wellcome.org/news/when-will-world-be-vaccinated-against-covid-19
     quadreadtxt: When will the World be Vaccinated Against COVID-19?
