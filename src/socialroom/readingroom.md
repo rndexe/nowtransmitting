@@ -45,6 +45,7 @@ openbooklist:
     author: Charlotte Perkins Gilman
     about: "*The Yellow Wallpaper* is a short story describing a woman’s gradual
       descent into psychosis as she recovers from childbirth."
+    listlink: https://e.issuu.com/embed.html?d=the-yellow-wall-paper&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: "Animals and the Shaping Of Modern Medicine : One Health And Its Histories"
     author: Abigail Woods, et al.
     about: "*Animals and the Shaping of Modern Medicine* breaks new ground by
@@ -52,6 +53,7 @@ openbooklist:
       In demonstrating their historical significance as subjects and shapers of
       medicine, it reveals that what we think of as human medicine was in fact
       deeply zoological."
+    listlink: https://e.issuu.com/embed.html?d=animals_and_the_shaping_of_modern_medicine&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
 recbooklist:
   - title: Blindness
     author: Jose Saramago
