@@ -32,10 +32,12 @@ podcastlist:
       What are the responses to a contagion? Through this collection of
       podcasts, explore these questions—both through the lens of the current
       pandemic, as well as through other contagions.
+    listlink: https://open.spotify.com/playlist/7vF2eVc00jHIFp5LllBdK6?si=c17272f70d094a4a
   - title: Hindsight
     subtitle: All the world's a stage
     about: How can we make sense of the complexities of any contagion? Why should we
       even attempt to make sense of it? Taking a step back and looking at the
       bigger picture, we provide a broader perspective on how contagions
       transform our lives.
+    listlink: https://open.spotify.com/playlist/2u029n75OndLfGPXe5gQsz?si=e0fd9b19cc114295
 ---
