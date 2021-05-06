@@ -24,6 +24,14 @@ podcastlist:
     podcastimage: /static/img/lr_transmission.png
   - title: Spillover
     subtitle: Into our lives
+    about: What are the fallouts and effects of the pandemic we are experiencing?
+      What are the responses to a contagion? Through this collection of
+      podcasts, explore these questions—both through the lens of the current
+      pandemic, as well as through other contagions.
   - title: Hindsight
     subtitle: All the world's a stage
+    about: How can we make sense of the complexities of any contagion? Why should we
+      even attempt to make sense of it? Taking a step back and looking at the
+      bigger picture, we provide a broader perspective on how contagions
+      transform our lives.
 ---
