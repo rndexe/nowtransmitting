@@ -11,6 +11,7 @@ desc: Heidi Larson has spent the past two decades trying to understand what
 link: covids/trust-fear-in-pandemic/
 speakername: Heidi Larson
 speakerimage: /static/img/K_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/K_CO_THUMBNAIL.png
 speakerfield: Anthropologist
 speakerbio: >-
   Heidi J. Larson, PhD, is Professor of Anthropology, Risk and Decision Science
