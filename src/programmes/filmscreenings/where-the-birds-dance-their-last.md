@@ -27,6 +27,7 @@ expertbio: Lêna Bùi lives and works in Saigon, Vietnam. Her works are sometime
   Wellcome Collection, London (2013) amongst other venues.
 expertpic: /static/img/B_FS_SEC_VIS_1.jpg
 disname: Frederic Keck
+dispic: /static/img/b_fs_sec_vis_2.png
 disbio: "Frédéric Keck is a Senior Researcher at the Laboratory of Social
   Anthropology (CNRS-Collège de France-EHESS). After studying philosophy at the
   Ecole Normale Supérieure in Paris and Anthropology at the University of
