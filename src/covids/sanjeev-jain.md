@@ -1,5 +1,5 @@
 ---
-title: H_Lessons from History in a Pandemic
+title: Lessons from History in a Pandemic
 desc: Every known civilisation has battled epidemics of diseases like the
   bubonic plague, cholera, typhoid, and smallpox. Societies’ responses to
   epidemics have shaped our history and continue to influence how we think of
