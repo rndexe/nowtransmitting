@@ -2,7 +2,6 @@
 title: Reading Room
 description: From our experience of disease to speculative imagination of future
   pandemics - explore a selection of reading material on contagion.
-icon: /static/img/reading-room-square.svg
 openbooklist:
   - title: A Journal of the Plague Year
     author: Daniel Defoe
@@ -31,4 +30,19 @@ openbooklist:
     author: Mary Shelley
     about: The Last Man is an eerily prescient tale describing a future Earth of the
       late 21st century, which is ravaged by an unknown pandemic.
+  - title: The Virus
+    author: Aleksandra Bartoszko, and Marcin Ponomarew
+    about: The Virus is an ethnographic comic book which explores the experiences of
+      patients who live with Hepatitis C.
+  - title: The Yellow Wallpaper
+    author: Charlotte Perkins Gilman
+    about: The Yellow Wallpaper is a short story describing a woman’s gradual
+      descent into psychosis as she recovers from childbirth.
+  - title: "Animals and the Shaping Of Modern Medicine : One Health And Its Histories"
+    author: Abigail Woods, et al.
+    about: Animals and the Shaping of Modern Medicine breaks new ground by situating
+      animals and their diseases at the very heart of modern medicine. In
+      demonstrating their historical significance as subjects and shapers of
+      medicine, it reveals that what we think of as human medicine was in fact
+      deeply zoological.
 ---
