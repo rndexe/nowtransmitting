@@ -1,5 +1,5 @@
 ---
-title: C_Health and Justice in a Pandemic
+title: Health and Justice in a Pandemic
 desc: Sridhar Venkatapuram brings health-related natural and social sciences
   together with philosophy in order to understand and address health
   inequalities and injustices. Recently, he has been thinking about the systems
@@ -7,7 +7,9 @@ desc: Sridhar Venkatapuram brings health-related natural and social sciences
   line of enquiry challenges us to think beyond the virus as the only cause of
   the pandemic, and encourages us to reexamine the socioeconomic systems which
   play a critical role in both spreading and controlling disease.
+link: covids/health-justice-in-pandemic/
 speakername: Sridhar Venkatapuram
+speakerimage: /static/img/C_CO_SEC_VIS.jpg
 speakerfield: Academic Practitioner
 speakerbio: >-
   Sridhar Venkatapuram is an academic researcher, educator, and practitioner in
@@ -18,13 +20,14 @@ speakerbio: >-
 
 
   Dr Venkatapuram’s most well known work relates to applying the Capabilities Approach to health and health inequalities, particularly the argument for the moral and human right to the capability to be healthy. Health capability, seen as a basic freedom, like other freedoms are socially created and distributed.
+videosrc: https://player.vimeo.com/video/517024746
 readinglist:
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/19452829.2020.1786028
     quadreadtxt: Human Capabilities and Pandemics
-    quadreadvis: /static/img/C_CO_QUA_READVIS_1.jpg
+    quadreadvis: /static/img/C_CO_QUA_READVIS_2.jpg
   - quadreadlink: https://www.amazon.co.uk/Health-Justice-Argument-Capabilities-Approach/dp/074565035X
     quadreadtxt: "Health Justice: An Argument for the Capabilities Approach "
-    quadreadvis: /static/img/C_CO_QUA_READVIS_2.jpg
+    quadreadvis: /static/img/C_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nature.com/articles/nm1150
     quadreadtxt: Risk Factors in the Emergence of Infectious Diseases
     quadreadvis: /static/img/C_CO_QUA_READVIS_3.jpg
@@ -32,6 +35,9 @@ listeninglist:
   - quadlistlink: https://soundcloud.com/kingsghi/sets/bmj-public-health-covid
     quadlisttxt: Public Health in Pandemic
     quadlistvis: /static/img/C_CO_QUA_LISTVIS_1.jpg
+  - quadlistlink: https://open.spotify.com/episode/5O0ZWbh67SzGkxnjPfPLS5?si=DBK6Wuf2Rd-5JSv1VcrHKQ&nd=1
+    quadlisttxt: Global Health Ethics
+    quadlistvis: /static/img/C_CO_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Ex1AqnM6U9Y&feature=youtu.be&ab_channel=TEDxTalks
     quadwatchtxt: Principles of Health Justice
