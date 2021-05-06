@@ -1,12 +1,8 @@
 ---
 title: Listening Room
-description: >-
-  Drown out the noise and tune into our playlists drawing on podcasts, online
-  radio, and recordings— explore new science, controversies, and the context of
-  contagion.
-
-
-  Contagions change the world, listen on to know how!
+description: Drown out the noise and tune into our playlists drawing on
+  podcasts, online radio, and recordings— explore new science, controversies,
+  and the context of contagion.
 icon: /static/img/listening-room.svg
 podcastlist:
   - title: Trigger
@@ -18,7 +14,7 @@ podcastlist:
       contagious stories begin.
     podcastimage: /static/img/lr_trigger.png
   - title: Transmission
-    subtitle: ""
+    subtitle: How the stories unfold
     listlink: https://open.spotify.com/playlist/2jQXBQMBeMK6FbC0FOUKCe?si=cdf5b6d9786a45dd
     about: These podcasts are housed under the theme of ‘transmission.’’How are
       contagions transmitted? What networks can we unearth when we investigate
@@ -32,12 +28,10 @@ podcastlist:
       What are the responses to a contagion? Through this collection of
       podcasts, explore these questions—both through the lens of the current
       pandemic, as well as through other contagions.
-    listlink: https://open.spotify.com/playlist/7vF2eVc00jHIFp5LllBdK6?si=c17272f70d094a4a
   - title: Hindsight
     subtitle: All the world's a stage
     about: How can we make sense of the complexities of any contagion? Why should we
       even attempt to make sense of it? Taking a step back and looking at the
       bigger picture, we provide a broader perspective on how contagions
       transform our lives.
-    listlink: https://open.spotify.com/playlist/2u029n75OndLfGPXe5gQsz?si=e0fd9b19cc114295
 ---
