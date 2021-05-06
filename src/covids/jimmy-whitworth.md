@@ -13,6 +13,7 @@ desc: Epidemiology is a branch of medical science that studies the distribution
 permalink: covids/community-care-in-pandemic/
 speakername: Jimmy Whiteworth
 speakerimage: /static/img/G_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/G_CO_THUMBNAIL.png
 speakerfield: Epidemiologist
 speakerbio: Jimmy Whitworth is a professor of International Public Health at the
   London School of Hygiene and Tropical Medicine. He is interested in the

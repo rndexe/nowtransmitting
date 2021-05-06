@@ -1,13 +1,15 @@
 ---
-title: H_Lessons from History in a Pandemic
+title: Lessons from History in a Pandemic
 desc: Every known civilisation has battled epidemics of diseases like the
   bubonic plague, cholera, typhoid, and smallpox. Societies’ responses to
   epidemics have shaped our history and continue to influence how we think of
   pandemics in the present day. Connections between past epidemics and
   contemporary society intrigue psychiatrists like Sanjeev Jain, who has worked
   extensively on the history of medicine and mental health in South Asia.
+link: covids/lessons-from-history/
 speakername: Sanjeev Jain
-speakerfield: ""
+speakerimage: /static/img/h_co_sec_vis.png
+speakerfield: Psychiatrist
 speakerbio: Sanjeev Jain teaches at the Department of Psychiatry at National
   Institute of Mental Health And Neurological Sciences (NIMHANS). There, in
   addition to being a clinician, he researches the genetic and genomic
@@ -18,6 +20,7 @@ speakerbio: Sanjeev Jain teaches at the Department of Psychiatry at National
   health issues, including the development of psychiatric care, medical
   sciences, and health policy in south Asia, from the colonial and post-colonial
   periods.
+videosrc: https://player.vimeo.com/video/530275264
 readinglist:
   - quadreadlink: https://fiftytwo.in/story/asylum/
     quadreadtxt: Asylum

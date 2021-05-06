@@ -1,9 +1,10 @@
 ---
-title: "COVID-19 Vaccines: Telling the Story | Workshop "
+title: "COVID-19 Vaccines: Telling the Story"
 permalink: programmes/workshops/covid-19-vaccines-telling-the-story/
 cata: trigger
 catb: documenting
 thumb: /static/img/wk_hannah.png
+cover: /static/img/J_WK_Coverimage.jpg
 date: 2021-05-30T08:30:00.000Z
 description: >-
   Many more people are engaging with vaccines than ever before, and those
@@ -23,4 +24,27 @@ expertbio: Hannah Chhoa-Howard is a recent graduate, now working at Wellcome in
   interest in Global Health and completed her BSc in Biomedical Sciences at
   University College London.
 expertpic: /static/img/j_wk_sec_vis_1.jpg
+readinglist:
+  - quadreadlink: https://theconversation.com/vaccine-hesitancy-is-not-new-history-tells-us-we-should-listen-not-condemn-150884
+    quadreadtxt: Vaccine Hesitancy Is Not New – History Tells Us We Should Listen,
+      Not Condemn
+    quadreadvis: /static/img/wk_hannah.png
+  - quadreadlink: https://www.scientificamerican.com/article/how-cia-fake-vaccination-campaign-endangers-us-all/
+    quadreadtxt: How the CIA’s Fake Vaccination Campaign Endangers Us All
+    quadreadvis: /static/img/wk_hannah.png
+  - quadreadlink: https://wellcomecollection.org/articles/WsT4Ex8AAHruGfXd
+    quadreadtxt: The Child Whose Town Rejected Vaccines
+    quadreadvis: /static/img/wk_hannah.png
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/27cKa1Mve5fwYSyJERPwUP
+    quadlisttxt: "Invisible Impact: How Vaccines Seem to Make Diseases Disappear"
+    quadlistvis: /static/img/wk_hannah.png
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=O6pL1YpI2x8
+    quadwatchtxt: What Lies Ahead For COVID-19 Vaccines In 2021?
+    quadwatchvis: /static/img/wk_hannah.png
+  - quadwatchlink: https://www.youtube.com/watch?v=H41EukE3fxg
+    quadwatchtxt: "Vaccines in 2021: COVID-19 Vaccine Communication, Misinformation,
+      and Fear"
+    quadwatchvis: /static/img/wk_hannah.png
 ---

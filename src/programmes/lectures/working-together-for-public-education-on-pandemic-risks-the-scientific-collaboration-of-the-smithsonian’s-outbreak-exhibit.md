@@ -1,10 +1,11 @@
 ---
-title: "U_Working Together For Public Education On Pandemic Risks: The
-  Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit"
+title: "Working Together For Public Education On Pandemic Risks: The Scientific
+  Collaboration Of The Smithsonian’s Outbreak Exhibit"
 permalink: programmes/lectures/public-education-on-pandemic-risks/
 cata: hindsight
 catb: documenting
 thumb: /static/img/h_exhibit_qua_atnvis_1.jpg
+cover: /static/img/U_PL_Coverimage.jpg
 date: 2021-06-11T13:00:55.795Z
 description: >-
   Since 2018, the Smithsonian’s exhibit ‘Outbreak: Epidemics in a Connected

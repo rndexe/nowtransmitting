@@ -1,5 +1,10 @@
 ---
 title: Survivors
+permalink: programmes/films/survivors/
+cata: spillover
+catb: documenting
+thumb: /static/img/f_arthur.png
+cover: /static/img/E_FS_Coverimage.jpg
 date: 2021-05-16T11:30:00.000Z
 description: >-
   Through the eyes of Sierra Leonean filmmaker Arthur Pratt, Survivors presents
@@ -25,7 +30,9 @@ expertbio: >-
 
 
   Arthur’s interest then grew from a man displaying his talents in front of the camera to man working behind it. In 2010, he shot, and produced his first short film, BLACK SUGAR. Later in the same year, he wrote, directed and produced the widely acclaimed short film on the Trans- Atlantic slave trade, THEY RESISTED, which was screened in Clap Ivoir (Ivory Coast film festival). Arthur has also played the role of cinematographer and editor in films such as M’PORA, CRY OF THE COUNTRY VIRGIN, WHY ME?, WINTER IN FREETOWN, HUSTLER, LAND GRAB, SOCIAL INJUSTICES  and several documentaries which were aired on the Sierra Leone Broadcasting Corporation Television (SLBC).
+expertpic: /static/img/C_FS_SEC_VIS_1.jpg
 disname: "David Heymann "
+dispic: /static/img/C_FS_SEC_VIS_2.jpg
 disbio: David Heymann is a medical epidemiologist and Professor of Infectious
   Disease Epidemiology at LSHTM, is a distinguished fellow at the Centre on
   Universal Health at Chatham House (London), and was chairman of the board of
@@ -43,19 +50,26 @@ disbio: David Heymann is a medical epidemiologist and Professor of Infectious
 readinglist:
   - quadreadtxt: "Survivors: Community Engagement and Education"
     quadreadlink: https://pov-tc.pbs.org/pov/downloads/2018/pov-survivors-discussion-guide.pdf
+    quadreadvis: /static/img/C_FS_QUA_READVIS_1.jpg
   - quadreadtxt: " Ebola and COVID-19 in Sierra Leone: Comparative Lessons Of
       Epidemics For Society"
     quadreadlink: https://www.cambridge.org/core/journals/journal-of-global-history/article/ebola-and-covid19-in-sierra-leone-comparative-lessons-of-epidemics-for-society/5672DE34C06149CDC142A38C2294EA6E
+    quadreadvis: /static/img/C_FS_QUA_READVIS_2.jpg
   - quadreadtxt: "Ebola Strikes West Africa Again "
     quadreadlink: https://science.thewire.in/health/ebola-strikes-west-africa-again-key-questions/
+    quadreadvis: /static/img/C_FS_QUA_READVIS_3.jpg
 listeninglist:
   - quadlisttxt: Ebola Voices
     quadlistlink: https://www.bbc.co.uk/sounds/play/p0428qkj
+    quadlistvis: /static/img/C_FS_QUA_LISTVIS_1.jpg
   - quadlisttxt: Doctor Remembered For Dedication To Fighting Deadly Ebola
     quadlistlink: https://www.npr.org/sections/goatsandsoda/2014/08/10/339372354/doctor-remembered-for-dedication-to-fighting-deadly-ebola
+    quadlistvis: /static/img/C_FS_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchtxt: "Sierra Leone: Recovering from An Epidemic"
     quadwatchlink: https://www.youtube.com/watch?v=SjG3m_Gezqw
+    quadwatchvis: /static/img/C_FS_QUA_WATCHVIS_1.jpg
   - quadwatchtxt: Looking Back at the Ebola Crisis in Sierra Leone
     quadwatchlink: https://www.youtube.com/watch?v=X29qQRDdyAk
+    quadwatchvis: /static/img/C_FS_QUA_WATCHVIS_2.jpg
 ---

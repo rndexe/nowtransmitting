@@ -1,9 +1,10 @@
 ---
-title: "The Shape of A Laugh | Workshop "
+title: The Shape of A Laugh
 permalink: programmes/workshops/the-shape-of-a-laugh/
 cata: transmission
 catb: documenting
 thumb: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+cover: /static/img/wk_anais_coverimage.png
 date: 2021-05-29T08:30:00.000Z
 description: Based on the artist’s exhibit ‘When the World Was A Laugh’, this
   workshop is an invitation to delve into a collection of laughs from across the
@@ -27,4 +28,23 @@ expertbio: >-
 
   She has presented and exhibited her work in international institutions such as the Center Pompidou (Paris), La Gaîté Lyrique (Paris), Serpentines Galleries (London), Bozar (Brussels), and Biennale Di Venezia, (Lieux Infinis). 
 expertpic: /static/img/h_wk_sec_vis_1.jpg
+readinglist:
+  - quadreadlink: https://www.scientificamerican.com/article/why-do-we-laugh/
+    quadreadtxt: Why Do We Laugh?
+    quadreadvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+  - quadreadlink: https://www.bbc.com/future/article/20160829-how-laughter-makes-us-better-people
+    quadreadtxt: How Comedy Makes Us Better People
+    quadreadvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+  - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4445582/
+    quadreadtxt: "Funny Science: Review: Ha! The Science of When We Laugh and Why
+      and The Humor Code: A Global Search for What Makes Things Funny"
+    quadreadvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+listeninglist:
+  - quadlistlink: https://www.npr.org/2020/09/25/916997530/laughter-the-best-medicine
+    quadlisttxt: "Laughter: The Best Medicine"
+    quadlistvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=UxLRv0FEndM
+    quadwatchtxt: Why We Laugh | Sophie Scott
+    quadwatchvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
 ---

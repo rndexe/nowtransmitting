@@ -4,6 +4,7 @@ permalink: programmes/films/where-the-birds-dance-their-last/
 cata: transmission
 catb: documenting
 thumb: /static/img/fd_lena.jpg
+cover: /static/img/D_FS_Coverimage.jpg
 date: 2021-05-02T11:30:00.000Z
 description: Lena Bui, provides a crucial perspective on the threat of bird flu
   by following farm workers in a village in north Vietnam, where duck feathers
@@ -24,7 +25,9 @@ expertbio: Lêna Bùi lives and works in Saigon, Vietnam. Her works are sometime
   Center, Wesleyan University, United States (2018); Haus der Kulturen der Welt,
   Berlin (2017); The Factory Contemporary Arts Centre, Vietnam (2016); and the
   Wellcome Collection, London (2013) amongst other venues.
+expertpic: /static/img/B_FS_SEC_VIS_1.jpg
 disname: Frederic Keck
+dispic: /static/img/b_fs_sec_vis_2.png
 disbio: "Frédéric Keck is a Senior Researcher at the Laboratory of Social
   Anthropology (CNRS-Collège de France-EHESS). After studying philosophy at the
   Ecole Normale Supérieure in Paris and Anthropology at the University of

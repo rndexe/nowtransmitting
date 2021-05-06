@@ -1,5 +1,5 @@
 ---
-title: "O_The Language of Pandemics "
+title: "The Language of Pandemics "
 desc: From “immunogenicity” to “RT-PCR”, COVID-19 has made many once-obscure
   words a part of our everyday conversation. As government bodies, scientists,
   and medical professionals race to combat the virus, more such terms have been
@@ -11,7 +11,9 @@ desc: From “immunogenicity” to “RT-PCR”, COVID-19 has made many once-obs
   pathogens? Mariam Ghani, an artist, writer, and filmmaker, who has been
   observing the language and metaphors of illness in her latest project,
   Dis-Ease, contemplates these questions.
+link: covids/language-of-pandemics
 speakername: Mariam Ghani
+speakerimage: /static/img/O_CO_SEC_VIS.jpg
 speakerfield: Artist
 speakerbio: >-
   Mariam Ghani is an artist, writer, and filmmaker. Her work spans multiple

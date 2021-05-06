@@ -1,9 +1,10 @@
 ---
-title: "Google Search Trends As A Surveillance Tool | Workshop "
+title: Google Search Trends As A Surveillance Tool
 permalink: programmes/workshops/google-search-trends-as-a-surveillance-tool/
 cata: transmission
 catb: experimenting
 thumb: /static/img/wk_shreya.png
+cover: /static/img/B_WK_Coverimage.jpg
 date: 2021-05-15T04:30:00.000Z
 description: "What can Google Search Trends tell us about the spread of
   COVID-19? According to epidemiologists, and open data researchers, it can help
@@ -23,4 +24,24 @@ expertbio: Shreya Chakraborty is a PhD student at the Indian Institute of
   research work. She enjoys learning concepts and techniques that could be
   particularly useful in the domain of public healthcare.
 expertpic: /static/img/b_wk_sec_vis_1.jpg
+readinglist:
+  - quadreadlink: https://www.sciencedirect.com/science/article/pii/S0040162517315536
+    quadreadtxt: "Ten Years Of Research Change Using Google Trends: From The
+      Perspective Of Big Data Utilizations And Applications"
+    quadreadvis: /static/img/wk_shreya.png
+  - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7438693/
+    quadreadtxt: "Prediction of COVID-19 Outbreaks Using Google Trends in India: A
+      Retrospective Analysis"
+    quadreadvis: /static/img/wk_shreya.png
+  - quadreadlink: https://www.weforum.org/agenda/2020/09/google-search-trend-data-coronavirus-health-global-epidemiology/
+    quadreadtxt: Here's What Google Trends Can Tell Us About The Spread Of Coronavirus
+    quadreadvis: /static/img/wk_shreya.png
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/31l4XGaNRHTjgS6y3LWxZi
+    quadlisttxt: Coronavirus—Science in the Pandemic
+    quadlistvis: /static/img/wk_shreya.png
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=vJTHNobkh18
+    quadwatchtxt: Correlations Between COVID-19 Cases & Google Trends Data in the US
+    quadwatchvis: /static/img/wk_shreya.png
 ---
