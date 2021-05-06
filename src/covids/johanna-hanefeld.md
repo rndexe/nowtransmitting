@@ -8,7 +8,9 @@ desc: Though COVID-19 is primarily a global health crisis, its ripple effect has
   Institute, has been working on international pandemic preparedness and
   responses. She explores how lessons learned from the current pandemic can help
   us envision a more equitable response to future crises.
+link: covids/learning-from-pandemic
 speakername: Johanna Hanefeld
+speakerimage: /static/img/N_CO_SEC_VIS.jpg
 speakerfield: Social Scientist
 speakerbio: Johanna Hanefeld is the Director of the Centre for International
   Health Protection (ZIG), Robert Koch Institute, Berlin, and an Associate
