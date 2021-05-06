@@ -10,6 +10,7 @@ desc: There’s no single solution to prevent the spread of the SARS-CoV-2, but
 link: covids/pandemics-advance-science
 speakername: Gagandeep Kang
 speakerimage: /static/img/J_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/J_CO_THUMBNAIL.png
 speakerfield: Physician-Scientist
 speakerbio: >-
   Gagandeep Kang is a Professor of Microbiology at Wellcome Trust Research
