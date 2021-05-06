@@ -12,6 +12,7 @@ desc: The enormity of the changes brought about by the COVID-19 pandemic has
 link: covids/good-governance-in-pandemic/
 speakername: Keiji Fukuda
 speakerimage: /static/img/E_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/E_CO_THUMBNAIL.png
 speakerfield: Public Health Expert
 speakerbio: >-
   Keiji Fukuda is Director and Clinical Professor at The University of Hong Kong
