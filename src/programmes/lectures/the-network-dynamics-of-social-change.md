@@ -1,6 +1,8 @@
 ---
 title: "N_The Network Dynamics of Social Change "
 permalink: programmes/lectures/the-network-dynamics-of-social-change/
+cata: transmission
+catb: experimenting
 date: 2021-05-26T13:00:00.000Z
 description: >-
   New social movements, technologies and public-health initiatives often
