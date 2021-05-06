@@ -7,6 +7,7 @@ desc: Sridhar Venkatapuram brings health-related natural and social sciences
   line of enquiry challenges us to think beyond the virus as the only cause of
   the pandemic, and encourages us to reexamine the socioeconomic systems which
   play a critical role in both spreading and controlling disease.
+link: covids/health-justice-in-pandemic/
 speakername: Sridhar Venkatapuram
 speakerimage: /static/img/C_CO_SEC_VIS.jpg
 speakerfield: Academic Practitioner
@@ -19,7 +20,7 @@ speakerbio: >-
 
 
   Dr Venkatapuram’s most well known work relates to applying the Capabilities Approach to health and health inequalities, particularly the argument for the moral and human right to the capability to be healthy. Health capability, seen as a basic freedom, like other freedoms are socially created and distributed.
-videosrc: covids/health-justice-in-pandemic/
+videosrc: https://player.vimeo.com/video/517024746
 readinglist:
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/19452829.2020.1786028
     quadreadtxt: Human Capabilities and Pandemics
