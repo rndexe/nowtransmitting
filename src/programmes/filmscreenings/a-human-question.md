@@ -3,7 +3,8 @@ title: A Human Question
 permalink: programmes/films/a-human-question/
 cata: spillover
 catb: documenting
-cover: /static/img/A_FS_Screenings.jpg
+thumb: /static/img/fs_jayashree_thumbnail.png
+cover: /static/img/fs_jayashree_coverimage.png
 date: 2021-05-30T11:30:00.000Z
 description: >-
   2005 | 53 minutes | German, English, Kannada & Hindi with English subtitles |
@@ -14,6 +15,7 @@ description: >-
 
 
   A Human Question makes the case that although AIDS cannot be cured, people can live longer and with a better quality of life given adequate health care and access to drugs, both of which are cause and consequence of social change.  This film has been screened at numerous international film festivals including HIMAL South Asian festival (2007), and Globale (2006). 
+link: http://bit.ly/films-jayashree
 expertname: "T Jayashree "
 expertbio: T. Jayashree has written, produced and directed for International
   Television, Radio, Feature films and Independent Documentaries for over 2
@@ -23,7 +25,12 @@ expertbio: T. Jayashree has written, produced and directed for International
   Reflection and Activism (QAMRA) is an initiative grown out of her vast
   collection of raw footage on queer life and movement in India.
 disname: "Vikram Doctor "
-disbio: Vikram Doctor is the Editor, special features for The Economic Times.
+disbio: Vikram Doctor is a Goa based journalist who has worked with publications
+  like the Times of India and Economic Times for over 20 years. He was also
+  involved with the GayBombay community support group and also with helping and
+  documenting the 18 year campaign to decriminalise homosexuality in India. He
+  has written on issues relating to material culture and social change in India,
+  including the effects of epidemics like HIV and Covid.
 readinglist:
   - quadreadtxt: This Was the First Major News Article on HIV/AIDS
     quadreadlink: https://www.smithsonianmag.com/smart-news/was-first-major-news-article-hivaids-180963913/
