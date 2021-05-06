@@ -15,4 +15,5 @@ expertbio: Owen Gower is a museum professional and historian. As General Manager
   responsible for leading the development of the museum and its activities. He
   has a keen interest in vaccination and regularly speaks on its history, the
   eradication of smallpox, and the life of Edward Jenner.
+expertpic: /static/img/C_EV_SEC_VIS_1.jpg
 ---
