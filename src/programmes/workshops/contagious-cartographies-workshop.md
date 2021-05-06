@@ -1,7 +1,10 @@
 ---
-title: "Contagious Cartographies | Workshop "
+title: Contagious Cartographies
 permalink: programmes/workshops/contagious-cartographies/
+cata: transmission
+catb: mapping
 thumb: /static/img/wk_rasagyaharsha.png
+cover: /static/img/pl_rasagya_coverimage.png
 date: 2021-05-30T04:30:00.000Z
 description: >-
   Humans have been tracking spread and impact of disease for centuries,
@@ -32,5 +35,21 @@ expertbio: >-
 
 
   Sriharsha Devulapalli is the Product Lead at Blue Sky Analytics. Prior to this, he was a data journalist with Mint. He also has worked with the Urban Design Lab, Small Media, and the Hyderabad Urban Lab. He enjoys cities, maps, long walks, and making people curious.
-expertpic: /static/img/i_wk_sec_vis_1.jpg
+expertpic: /static/img/I_WK_SEC_VIS_1.jpg
+readinglist:
+  - quadreadlink: https://theconversation.com/coronavirus-outbreak-a-new-mapping-tool-that-lets-you-scroll-through-timeline-131422
+    quadreadtxt: "Coronavirus Outbreak: A New Mapping Tool That Lets You Scroll
+      Through Timeline"
+  - quadreadlink: https://www.scientificamerican.com/article/pandemic-hot-spots-map/
+    quadreadtxt: Pandemic Hot Spots Map a Path to Prevention
+  - quadreadlink: https://link.springer.com/article/10.1007/s41745-020-00196-z
+    quadreadtxt: "Health Heatmap of India: An Open Data Platform"
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
+    quadlisttxt: "Disease Detectives: How to Track an Epidemic"
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=S5H1ZOlMTQE
+    quadwatchtxt: "Maps and Epidemiology: Lessons for COVID-19"
+  - quadwatchlink: https://www.youtube.com/watch?v=VJ86D_DtyWg&t=53s
+    quadwatchtxt: The 1850s Map That Changed How We Fight Outbreaks
 ---
