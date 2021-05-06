@@ -1,11 +1,13 @@
 ---
-title: L_Managing Infodemics
+title: Managing Infodemics
 desc: The spread of COVID-19 around the world has been accompanied by a deluge
   of misinformation. At a time when reliable and scientific evidence is crucial
   for public health, fake news, misinformation, and rumours seem to be spreading
   faster than facts. Researchers like Tim Nguyen of the WHO Health Emergencies
   Programme have been working around the clock to counter this infodemic.
+link: covids/managing-infodemics/
 speakername: Tim Nguyen
+speakerimage: /static/img/L_CO_SEC_VIS.jpg
 speakerfield: Infodemic Manager
 speakerbio: Tim Nguyen is the Head of the Unit for High Impact Events in the
   Global Infectious Hazard Preparedness Department of the WHO Health Emergencies
@@ -15,6 +17,7 @@ speakerbio: Tim Nguyen is the Head of the Unit for High Impact Events in the
   interventions, including pandemic influenza and smallpox vaccines as well as
   influenza antivirals. In the COVID-19 pandemic response, he co-manages the
   “Managing Infodemic” pillar.
+videosrc: https://player.vimeo.com/video/541533684
 readinglist:
   - quadreadlink: https://www.jmir.org/2020/6/e19659/
     quadreadtxt: Framework for Managing the COVID-19 Infodemic
