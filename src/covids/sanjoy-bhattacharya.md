@@ -11,6 +11,7 @@ desc: Outbreaks and epidemics have affected humanity throughout its existence,
 permalink: covids/lessons-from-past-pandemics/
 speakername: Sanjoy Bhattacharya
 speakerimage: /static/img/D_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/D_CO_THUMBNAIL.png
 speakerfield: Historian of Medicine and Health
 speakerbio: >-
   Sanjoy Bhattacharya is Co-Director of the History Department’s Centre for

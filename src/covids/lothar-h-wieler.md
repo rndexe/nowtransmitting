@@ -12,6 +12,7 @@ desc: After many long nights, government bodies in countries across the world
 permalink: covids/science-sense-in-pandemic/
 speakername: Lothar H. Wieler
 speakerimage: /static/img/B_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/B_CO_THUMBNAIL.png
 speakerfield: Zoonotic Diseases Expert
 speakerbio: >-
   Prof. Lothar H. Wieler is president of the Robert Koch Institute in Berlin,

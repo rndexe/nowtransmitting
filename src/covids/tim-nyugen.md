@@ -8,6 +8,7 @@ desc: The spread of COVID-19 around the world has been accompanied by a deluge
 permalink: covids/managing-infodemics/
 speakername: Tim Nguyen
 speakerimage: /static/img/L_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/L_CO_THUMBNAIL.png
 speakerfield: Infodemic Manager
 speakerbio: Tim Nguyen is the Head of the Unit for High Impact Events in the
   Global Infectious Hazard Preparedness Department of the WHO Health Emergencies

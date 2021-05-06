@@ -9,6 +9,7 @@ desc: Every known civilisation has battled epidemics of diseases like the
 link: covids/lessons-from-history/
 speakername: Sanjeev Jain
 speakerimage: /static/img/h_co_sec_vis.png
+thumbnailimage: /static/img/H_CO_THUMBNAIL.png
 speakerfield: Psychiatrist
 speakerbio: Sanjeev Jain teaches at the Department of Psychiatry at National
   Institute of Mental Health And Neurological Sciences (NIMHANS). There, in

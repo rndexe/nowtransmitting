@@ -11,6 +11,7 @@ desc: "Viruses are fascinating things: they aren’t exactly alive by most
 permalink: covids/viruses-variants-vaccines/
 speakername: Shahid Jameel
 speakerimage: /static/img/I_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/I_CO_THUMBNAIL.png
 speakerfield: Virologist
 speakerbio: >-
   Shahid Jameel studied Chemistry at Aligarh Muslim University and Indian
