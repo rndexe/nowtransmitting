@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Vaccines: Telling the Story | Workshop "
+title: "COVID-19 Vaccines: Telling the Story"
 permalink: programmes/workshops/covid-19-vaccines-telling-the-story/
 cata: trigger
 catb: documenting
