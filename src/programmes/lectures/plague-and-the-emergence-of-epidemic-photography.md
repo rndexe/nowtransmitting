@@ -1,5 +1,5 @@
 ---
-title: G_Plague and the Emergence of Epidemic Photography
+title: Plague and the Emergence of Epidemic Photography
 permalink: programmes/lectures/epidemic-photography/
 cata: spillover
 catb: narrating
