@@ -1,9 +1,10 @@
 ---
-title: G_Plague and the Emergence of Epidemic Photography
+title: Plague and the Emergence of Epidemic Photography
 permalink: programmes/lectures/epidemic-photography/
 cata: spillover
 catb: narrating
 thumb: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
+cover: /static/img/G_PL_Coverimage.jpg
 date: 2021-05-09T13:00:00.000Z
 description: >-
   The lecture examines the way in which a new photographic genre emerged in the
