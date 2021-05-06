@@ -10,6 +10,7 @@ desc: After many long nights, government bodies in countries across the world
   common sense, he explains why personal as well as collective responsibility is
   important in the battle against COVID-19.
 speakername: Lothar H. Wieler
+speakerimage: /static/img/B_CO_SEC_VIS.jpg
 speakerfield: Zoonotic Diseases Expert
 speakerbio: >-
   Prof. Lothar H. Wieler is president of the Robert Koch Institute in Berlin,
@@ -30,8 +31,8 @@ readinglist:
   - quadreadtxt: Does COVID-19 Threaten Global Solidarity?
     quadreadlink: https://www.sciencedirect.com/science/article/pii/S0305750X20304848
     quadreadvis: /static/img/B_CO_QUA_READVIS_2.jpg
-  - quadreadtxt: A new way of developing vaccines for COVID-19 could help the world
-      to prepare for future outbreaks
+  - quadreadtxt: A New Way of Developing Vaccines for COVID-19 Could Help the World
+      to Prepare for Future Outbreaks
     quadreadlink: https://wellcome.org/news/new-way-developing-vaccines-covid-19-could-help-world-prepare-future-outbreaks
     quadreadvis: /static/img/B_CO_QUA_READVIS_3.jpg
 listeninglist:
