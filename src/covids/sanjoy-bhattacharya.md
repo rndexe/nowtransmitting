@@ -24,6 +24,7 @@ speakerbio: >-
 
 
   Sanjoy has always worked in inter-disciplinary ways and within inter-sectoral settings, and remains actively involved in health policy research and evaluation work in national and international agencies. He is a co-founder of the World Health Organization’s Global Health Histories project (GHH), which works across the WHO HQ in Geneva, WHO Regional Offices in Copenhagen and Cairo, and multiple WHO Country Offices.
+videosrc: https://player.vimeo.com/video/519856382
 readinglist:
   - quadreadlink: https://www.cambridge.org/core/journals/medical-history/article/international-health-and-the-limits-of-its-global-influence-bhutan-and-the-worldwide-smallpox-eradication-programme/439B3BCA121FD269945B4645B1DE37CE#
     quadreadtxt: "International Health and the Limits of its Global Influence:
