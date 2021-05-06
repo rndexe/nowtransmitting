@@ -11,6 +11,7 @@ desc: Fake news was a very serious issue even before the pandemic broke out.
 link: covids/fakes-facts-in-pandemic/
 speakername: Patricia Kingori
 speakerimage: /static/img/M_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/M_CO_THUMBNAIL.png
 speakerfield: Sociologist
 speakerbio: >-
   Patricia Kingori is a Wellcome Senior Investigator and Associate Professor in
