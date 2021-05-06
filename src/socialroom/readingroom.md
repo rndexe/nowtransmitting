@@ -24,6 +24,7 @@ openbooklist:
       Programme of the European Commission. This booklet details the production
       of Sarah Craske’s exhibit THERIAK | Disease Map, which was produced during
       the residency."
+    listlink: https://e.issuu.com/embed.html?d=the-art-of-antibiotics&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: Polio Across the Iron Curtain
     author: Dora Vargha
     about: In *Polio Across the Iron Curtain*, Dóra Vargha uses a series of polio
