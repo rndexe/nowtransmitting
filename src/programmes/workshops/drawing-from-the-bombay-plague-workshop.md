@@ -1,5 +1,5 @@
 ---
-title: "Drawing (from) the Bombay Plague | Workshop "
+title: Drawing (from) the Bombay Plague
 permalink: programmes/workshops/drawing-from-the-bombay-plague/
 cata: spillover
 catb: narrating
