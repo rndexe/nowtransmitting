@@ -24,6 +24,7 @@ speakerbio: >-
 
 
   Since 2010, he is also an elected member of the German National Academy of Sciences, where he also holds the position of a senator. In 2020 he was nominated to the member board of the One Health Global Leaders Group on Antimicrobial Resistance, launched by the Food and Agriculture Organization of the United Nations (FAO), the World Organisation for Animal Health (OIE) and the World Health Organization (WHO).
+videosrc: https://player.vimeo.com/video/514243048
 readinglist:
   - quadreadtxt: Perceptions of Health Care Use in Germany
     quadreadlink: https://pubmed.ncbi.nlm.nih.gov/33327486/
