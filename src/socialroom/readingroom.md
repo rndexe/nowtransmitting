@@ -10,11 +10,13 @@ openbooklist:
       experiences during 1665 when the bubonic plague struck the city of London.
       An amalgamation of history, and fiction this narrative represents a
       gripping report of life during the 'Great Plague.'"
+    listlink: https://e.issuu.com/embed.html?d=journalofplagu00defo&hideIssuuLogo=true&hideShareButton=true&pageNumber=12&u=sciencegallerybengaluru
   - title: "Laughter: An Essay on the Meaning of the Comic"
     author: Henri Bergson
     about: "*Laughter* is a collection of three essays by French philosopher Henri
       Bergson, first published in 1900. In this collection, he explores why
       people laugh and the role that laughter plays in social situations."
+    listlink: https://e.issuu.com/embed.html?d=laughter&hideIssuuLogo=true&hideShareButton=true&pageNumber=10&u=sciencegallerybengaluru
   - title: The Art of Antibiotics
     author: Markus Schmidt, et al.
     about: "*The Art of Antibiotics* documents the artist in residency program that
@@ -22,23 +24,28 @@ openbooklist:
       Programme of the European Commission. This booklet details the production
       of Sarah Craske’s exhibit THERIAK | Disease Map, which was produced during
       the residency."
+    listlink: https://e.issuu.com/embed.html?d=the-art-of-antibiotics&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: Polio Across the Iron Curtain
     author: Dora Vargha
     about: In *Polio Across the Iron Curtain*, Dóra Vargha uses a series of polio
       epidemics in communist Hungary to understand the response to a global
       public health emergency in the midst of the Cold War.
+    listlink: https://e.issuu.com/embed.html?d=dora_vargha&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: The Last Man
     author: Mary Shelley
     about: "*The Last Man* is an eerily prescient tale describing a future Earth of
       the late 21st century, which is ravaged by an unknown pandemic."
+    listlink: https://e.issuu.com/embed.html?d=the_last_man&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: The Virus
     author: Aleksandra Bartoszko, and Marcin Ponomarew
     about: "*The Virus* is an ethnographic comic book which explores the experiences
       of patients who live with Hepatitis C."
+    listlink: https://e.issuu.com/embed.html?d=the_virus&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: The Yellow Wallpaper
     author: Charlotte Perkins Gilman
     about: "*The Yellow Wallpaper* is a short story describing a woman’s gradual
       descent into psychosis as she recovers from childbirth."
+    listlink: https://e.issuu.com/embed.html?d=the-yellow-wall-paper&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: "Animals and the Shaping Of Modern Medicine : One Health And Its Histories"
     author: Abigail Woods, et al.
     about: "*Animals and the Shaping of Modern Medicine* breaks new ground by
@@ -46,6 +53,7 @@ openbooklist:
       In demonstrating their historical significance as subjects and shapers of
       medicine, it reveals that what we think of as human medicine was in fact
       deeply zoological."
+    listlink: https://e.issuu.com/embed.html?d=animals_and_the_shaping_of_modern_medicine&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
 recbooklist:
   - title: Blindness
     author: Jose Saramago
