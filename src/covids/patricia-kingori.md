@@ -1,5 +1,5 @@
 ---
-title: M_Fakes and Facts in a Pandemic
+title: Fakes and Facts in a Pandemic
 desc: Fake news was a very serious issue even before the pandemic broke out.
   But, in the face of COVID-19, this phenomenon has become even more dangerous.
   Whether it's about the origins of the disease, how it spreads, or how it can
