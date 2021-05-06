@@ -1,5 +1,5 @@
 ---
-title: B_Science and Common Sense in a Pandemic
+title: Science and Common Sense in a Pandemic
 desc: After many long nights, government bodies in countries across the world
   have announced the roll-out of vaccines that can prevent the spread of
   coronavirus. Lothar H. Wieler, President of the Robert Koch Institute, speaks
@@ -9,7 +9,9 @@ desc: After many long nights, government bodies in countries across the world
   preventing disease. Stressing on the importance of combining science with
   common sense, he explains why personal as well as collective responsibility is
   important in the battle against COVID-19.
+link: covids/science-sense-in-pandemic/
 speakername: Lothar H. Wieler
+speakerimage: /static/img/B_CO_SEC_VIS.jpg
 speakerfield: Zoonotic Diseases Expert
 speakerbio: >-
   Prof. Lothar H. Wieler is president of the Robert Koch Institute in Berlin,
@@ -23,6 +25,7 @@ speakerbio: >-
 
 
   Since 2010, he is also an elected member of the German National Academy of Sciences, where he also holds the position of a senator. In 2020 he was nominated to the member board of the One Health Global Leaders Group on Antimicrobial Resistance, launched by the Food and Agriculture Organization of the United Nations (FAO), the World Organisation for Animal Health (OIE) and the World Health Organization (WHO).
+videosrc: https://player.vimeo.com/video/514243048
 readinglist:
   - quadreadtxt: Perceptions of Health Care Use in Germany
     quadreadlink: https://pubmed.ncbi.nlm.nih.gov/33327486/
@@ -30,8 +33,8 @@ readinglist:
   - quadreadtxt: Does COVID-19 Threaten Global Solidarity?
     quadreadlink: https://www.sciencedirect.com/science/article/pii/S0305750X20304848
     quadreadvis: /static/img/B_CO_QUA_READVIS_2.jpg
-  - quadreadtxt: A new way of developing vaccines for COVID-19 could help the world
-      to prepare for future outbreaks
+  - quadreadtxt: A New Way of Developing Vaccines for COVID-19 Could Help the World
+      to Prepare for Future Outbreaks
     quadreadlink: https://wellcome.org/news/new-way-developing-vaccines-covid-19-could-help-world-prepare-future-outbreaks
     quadreadvis: /static/img/B_CO_QUA_READVIS_3.jpg
 listeninglist:
