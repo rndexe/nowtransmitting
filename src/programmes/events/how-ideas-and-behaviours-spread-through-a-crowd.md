@@ -25,5 +25,26 @@ expertbio: Daniel Richardson is a Professor of Experimental Psychology at
   and has performed shows at the London Science Museum and Bloomsbury theatre
   combining science, music and live experiments on the group mind of the
   audience.
-expertpic: /static/img/pl_damon_portrait.png
+expertpic: /static/img/A_EV_SEC_VIS_1.jpg
+readinglist:
+  - quadreadlink: https://thepsychologist.bps.org.uk/volume-31/june-2018/synchrony-and-art-signalling
+    quadreadtxt: Synchrony And The Art Of Signalling
+    quadreadvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
+  - quadreadlink: https://theconversation.com/conform-to-the-social-norm-why-people-follow-what-other-people-do-107446
+    quadreadtxt: "Conform to the Social Norm: Why People Follow What Other People Do"
+    quadreadvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
+  - quadreadlink: https://www.smithsonianmag.com/smart-news/desire-conform-starts-toddlers-180954535/
+    quadreadtxt: The Desire to Conform Starts In Toddlers
+    quadreadvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/6OceZQTcJdYGC3dXDHYa9w
+    quadlisttxt: "The Influence You Have "
+    quadlistvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=0IJCXXTMrv8
+    quadwatchtxt: Question the Herd
+    quadwatchvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
+  - quadwatchlink: https://www.youtube.com/watch?v=9BeqeQ5d8fY
+    quadwatchtxt: Using Neuroscience to Understand Collective Experience
+    quadwatchvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
 ---
