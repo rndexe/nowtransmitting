@@ -4,6 +4,7 @@ permalink: programmes/lectures/vaccines/
 cata: transmission
 catb: experimenting
 thumb: /static/img/pl_gagandeep.png
+cover: /static/img/O_PL_Coverimage.jpg
 date: 2021-05-28T13:00:00.000Z
 link: http://bit.ly/lecture-kang
 expertname: Gagandeep Kang
@@ -15,6 +16,7 @@ expertbio: "Gagandeep Kang is a Professor of Microbiology at Wellcome Trust
   does everything from geographic information systems to human immunology. They
   have evaluated vaccines in pre-clinical and clinical phase 1-3 studies for
   rotavirus and cholera, and are now working on typhoid and SARS-CoV2. "
+expertpic: /static/img/pl_gagandeep_portrait.png
 readinglist:
   - quadreadlink: https://drawinghistoryofscience.wordpress.com/2021/04/01/vaccination-in-india-a-historical-inquiry-through-comics/
     quadreadtxt: "Vaccination in India: A Historical Enquiry through Comics"
