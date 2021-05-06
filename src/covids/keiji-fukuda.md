@@ -1,5 +1,5 @@
 ---
-title: E_Good Governance in a Pandemic
+title: Good Governance in a Pandemic
 desc: The enormity of the changes brought about by the COVID-19 pandemic has
   compelled us to reflect on the effectiveness of our systems of governance.
   Governments around the world have been confronted with the challenge of
@@ -9,7 +9,9 @@ desc: The enormity of the changes brought about by the COVID-19 pandemic has
   Syndrome (MERS), Ebola, and various influenza outbreaks. Drawing on decades of
   research and groundwork, he reflects on how good governance and leadership can
   help us tackle the ongoing crisis.
+link: covids/good-governance-in-pandemic/
 speakername: Keiji Fukuda
+speakerimage: /static/img/E_CO_SEC_VIS.jpg
 speakerfield: Public Health Expert
 speakerbio: >-
   Keiji Fukuda is Director and Clinical Professor at The University of Hong Kong
@@ -22,6 +24,7 @@ speakerbio: >-
 
 
   He has been a global public health leader in many areas including health security and personally has led numerous field investigations, global responses and diplomatic negotiations related to emerging infectious diseases including seasonal, avian and pandemic influenza, SARS, MERS, Ebola and antimicrobial resistance. At WHO, he oversaw implementation of the International Health Regulations and the Pandemic Influenza Preparedness Framework. He is an adviser to the Hong Kong Government for COVID-19.
+videosrc: https://player.vimeo.com/video/522664683
 readinglist:
   - quadreadlink: https://histecon.fas.harvard.edu/climate-loss/civil_liberties/index.html
     quadreadtxt: Civil Liberties in Times of Crisis
