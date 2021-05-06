@@ -4,6 +4,7 @@ permalink: programmes/workshops/the-shape-of-a-laugh/
 cata: transmission
 catb: documenting
 thumb: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+cover: /static/img/wk_anais_coverimage.png
 date: 2021-05-29T08:30:00.000Z
 description: Based on the artist’s exhibit ‘When the World Was A Laugh’, this
   workshop is an invitation to delve into a collection of laughs from across the
