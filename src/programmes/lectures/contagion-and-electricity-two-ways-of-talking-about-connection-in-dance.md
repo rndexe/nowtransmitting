@@ -55,6 +55,7 @@ eventlist:
     quadeventvis: /static/img/pl_girish.png
   - quadeventtxt: Dis-Ease | Film Discussion
     quadeventlink: http://bit.ly/films-ghani
+    quadeventvis: /static/img/f_mariam.png
 relatedlist:
   - quadrelatedtxt: When the World Was A Laugh by Anais Tondeur
     quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
