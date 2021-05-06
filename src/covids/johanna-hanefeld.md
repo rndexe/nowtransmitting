@@ -11,6 +11,7 @@ desc: Though COVID-19 is primarily a global health crisis, its ripple effect has
 link: covids/learning-from-pandemic
 speakername: Johanna Hanefeld
 speakerimage: /static/img/N_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/N_CO_THUMBNAIL.png
 speakerfield: Social Scientist
 speakerbio: Johanna Hanefeld is the Director of the Centre for International
   Health Protection (ZIG), Robert Koch Institute, Berlin, and an Associate
