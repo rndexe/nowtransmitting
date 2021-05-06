@@ -7,7 +7,9 @@ desc: There’s no single solution to prevent the spread of the SARS-CoV-2, but
   She reflects on key research questions around the human immune response which
   could potentially shape more efficient and targeted responses to the COVID-19
   pandemic.
+link: covids/pandemics-advance-science
 speakername: Gagandeep Kang
+speakerimage: /static/img/J_CO_SEC_VIS.jpg
 speakerfield: Physician-Scientist
 speakerbio: >-
   Gagandeep Kang is a Professor of Microbiology at Wellcome Trust Research
