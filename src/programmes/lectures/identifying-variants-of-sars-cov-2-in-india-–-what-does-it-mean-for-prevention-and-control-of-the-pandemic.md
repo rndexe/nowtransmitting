@@ -1,10 +1,11 @@
 ---
-title: I_Identifying Variants of SARS-CoV-2 in India – What Does It Mean For
+title: Identifying Variants of SARS-CoV-2 in India – What Does It Mean For
   Prevention and Control Of The Pandemic?
 permalink: programmes/lectures/identifying-variants-of-SARS-CoV-2-in-India/
 cata: trigger
 catb: documenting
 thumb: /static/img/pl_chitra.png
+cover: /static/img/I_PL_Coverimage.jpg
 date: 2021-05-14T13:00:00.000Z
 description: >-
   The coronavirus (SARS-CoV-2) that causes COVID-19 is changing, with about one
@@ -30,27 +31,27 @@ expertpic: /static/img/pl_chitra_portrait.png
 readinglist:
   - quadreadlink: https://covariants.org/
     quadreadtxt: CoVariants
-    quadreadvis: /static/img/pl_chitra.png
+    quadreadvis: /static/img/I_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.theatlantic.com/science/archive/2021/03/massive-global-hunt-variants-under-way/618230/
     quadreadtxt: We Now Can See a Virus Mutate Like Never Before
-    quadreadvis: /static/img/pl_chitra.png
+    quadreadvis: /static/img/I_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theatlantic.com/health/archive/2021/01/coronavirus-mutations-variants/617694/
     quadreadtxt: The Coronavirus is Evolving Before Our Eyes
-    quadreadvis: /static/img/pl_chitra.png
+    quadreadvis: /static/img/I_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/6Fuv49soIMpsporukbrcil
     quadlisttxt: "Coronapod: Variants"
-    quadlistvis: /static/img/pl_chitra.png
+    quadlistvis: /static/img/I_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/4ZXiGZ5wWxxJ4sKSo34sV0?si=4KcKfEEbTgWl8uW-ipXVvw
     quadlisttxt: Rhapsody in T with Alessandro Sette
-    quadlistvis: /static/img/pl_chitra.png
+    quadlistvis: /static/img/I_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=ISSEjJITmhk
     quadwatchtxt: "Preempting Pandemics: Building a Robust Public Health System"
-    quadwatchvis: /static/img/pl_chitra.png
+    quadwatchvis: /static/img/I_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=GGXdG75jdpU
     quadwatchtxt: Prof. Chitra Pattabiraman's Talk at Combating COVID19 Symposium
-    quadwatchvis: /static/img/pl_chitra.png
+    quadwatchvis: /static/img/I_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/workshop-aquije
     quadeventtxt: Visualising the Virus | Workshop by Gabriela Aquije Zegarra
