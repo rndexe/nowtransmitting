@@ -10,7 +10,9 @@ desc: Epidemiology is a branch of medical science that studies the distribution
   insights he has gleaned from decades of research about how we as
   community-members can anticipate, control, and prevent the spreading of
   disease.
+link: covids/community-care-in-pandemic/
 speakername: Jimmy Whiteworth
+speakerimage: /static/img/G_CO_SEC_VIS.jpg
 speakerfield: Epidemiologist
 speakerbio: Jimmy Whitworth is a professor of International Public Health at the
   London School of Hygiene and Tropical Medicine. He is interested in the
@@ -19,13 +21,14 @@ speakerbio: Jimmy Whitworth is a professor of International Public Health at the
   research of infectious diseases. He also helped set up the DBT/Wellcome India
   Alliance, which supports career development for health and biomedical
   scientists in India.
+videosrc: https://player.vimeo.com/video/529307546
 readinglist:
-  - quadreadtxt: Ebola survivors’ experiences in Sierra Leone
-    quadreadvis: /static/img/G_CO_QUA_READVIS_1.jpg
-    quadreadlink: https://gh.bmj.com/content/1/3/e000108.full
-  - quadreadtxt: Community Participation is crucial in a Pandemic
-    quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31054-0/fulltext#:~:text=Such%20public%20participation%20will%20reveal,crucially%2C%20of%20building%20future%20resilience.
+  - quadreadtxt: Ebola Survivors’ Experiences in Sierra Leone
     quadreadvis: /static/img/G_CO_QUA_READVIS_2.jpg
+    quadreadlink: https://gh.bmj.com/content/1/3/e000108.full
+  - quadreadtxt: Community Participation is Crucial in a Pandemic
+    quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31054-0/fulltext#:~:text=Such%20public%20participation%20will%20reveal,crucially%2C%20of%20building%20future%20resilience.
+    quadreadvis: /static/img/G_CO_QUA_READVIS_1.jpg
   - quadreadtxt: "From Governance to Community Resilience: Odisha’s Response to COVID-19"
     quadreadlink: https://www.who.int/india/news/feature-stories/detail/from-governance-to-community-resilience-odisha-s-response-to-covid-19
     quadreadvis: /static/img/G_CO_QUA_READVIS_3.jpg
