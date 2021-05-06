@@ -1,9 +1,10 @@
 ---
-title: "THERIAK: Behind the Scenes in A Lab | Workshop "
+title: "THERIAK: Behind the Scenes in A Lab"
 permalink: programmes/workshops/theriak-behind-the-scence-in-a-lab/
 cata: trigger
 catb: experimenting
 thumb: /static/img/e_exhibit_qua_atnvis_1.jpg
+cover: /static/img/M_WK_Coverimage.jpg
 date: 2021-06-13T08:30:00.000Z
 description: >-
   Disease maps are a long-standing scientific tool used to understand the spread
@@ -31,4 +32,26 @@ expertbio: Sarah Craske works in the liminal, transdisciplinary space between
   their rich contexts over white cube galleries, these sites, buildings and
   organisations provide materials to work with, and become an structural part of
   the work.
+expertpic: /static/img/M_WK_SEC_VIS_1.jpg
+readinglist:
+  - quadreadlink: https://www.scientificamerican.com/article/human-hosts-help-cholera/
+    quadreadtxt: Human Hosts Help Cholera Bacterium Become More Infectious
+    quadreadvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+  - quadreadlink: https://www.smithsonianmag.com/science-nature/how-microbiologists-craft-stunning-art-using-pathogens-180977261/
+    quadreadtxt: How Microbiologists Craft Stunning Art Using Pathogens
+    quadreadvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+  - quadreadlink: https://www.interaliamag.org/articles/sarah-craske-metamorphoses-in-art-science/
+    quadreadtxt: Metamorphoses in Art & Science
+    quadreadvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+listeninglist:
+  - quadlistlink: https://www.npr.org/templates/story/story.php?storyId=4524673
+    quadlisttxt: Artist Captures Wonder of Natural Phenomena
+    quadlistvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+  - quadlistlink: https://www.npr.org/2004/10/11/4079067/from-microscopes-to-large-scale-sculpture
+    quadlisttxt: From Microscopes to Large-Scale Sculpture
+    quadlistvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=IS_5WJteCC8
+    quadwatchtxt: What If Art Could Truly Create Biological Life?
+    quadwatchvis: /static/img/e_exhibit_qua_atnvis_1.jpg
 ---
