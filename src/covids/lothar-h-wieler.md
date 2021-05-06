@@ -1,5 +1,5 @@
 ---
-title: B_Science and Common Sense in a Pandemic
+title: Science and Common Sense in a Pandemic
 desc: After many long nights, government bodies in countries across the world
   have announced the roll-out of vaccines that can prevent the spread of
   coronavirus. Lothar H. Wieler, President of the Robert Koch Institute, speaks
@@ -9,6 +9,7 @@ desc: After many long nights, government bodies in countries across the world
   preventing disease. Stressing on the importance of combining science with
   common sense, he explains why personal as well as collective responsibility is
   important in the battle against COVID-19.
+link: covids/science-sense-in-pandemic/
 speakername: Lothar H. Wieler
 speakerimage: /static/img/B_CO_SEC_VIS.jpg
 speakerfield: Zoonotic Diseases Expert
