@@ -3,6 +3,7 @@ title: A Human Question
 permalink: programmes/films/a-human-question/
 cata: spillover
 catb: documenting
+cover: /static/img/A_FS_Screenings.jpg
 date: 2021-05-30T11:30:00.000Z
 description: >-
   2005 | 53 minutes | German, English, Kannada & Hindi with English subtitles |
