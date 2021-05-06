@@ -30,6 +30,7 @@ openbooklist:
     about: In *Polio Across the Iron Curtain*, Dóra Vargha uses a series of polio
       epidemics in communist Hungary to understand the response to a global
       public health emergency in the midst of the Cold War.
+    listlink: https://e.issuu.com/embed.html?d=dora_vargha&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: The Last Man
     author: Mary Shelley
     about: "*The Last Man* is an eerily prescient tale describing a future Earth of
