@@ -1,5 +1,5 @@
 ---
-title: K_Trust and Fear in a Pandemic
+title: Trust and Fear in a Pandemic
 desc: Heidi Larson has spent the past two decades trying to understand what
   makes people in various countries hesitant to take vaccines. In response, she
   created the Vaccine Confidence Project, an interdisciplinary project that
@@ -10,6 +10,7 @@ desc: Heidi Larson has spent the past two decades trying to understand what
   medical information.
 link: covids/trust-fear-in-pandemic/
 speakername: Heidi Larson
+speakerimage: /static/img/K_CO_SEC_VIS.jpg
 speakerfield: Anthropologist
 speakerbio: >-
   Heidi J. Larson, PhD, is Professor of Anthropology, Risk and Decision Science
