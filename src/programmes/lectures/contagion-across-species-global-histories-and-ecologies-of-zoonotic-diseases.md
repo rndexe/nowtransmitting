@@ -5,6 +5,7 @@ permalink: programmes/lectures/contagion-across-species/
 cata: transmission
 catb: narrating
 thumb: /static/img/pl_michael.png
+cover: /static/img/P_PL_Coverimage.jpg
 date: 2021-05-29T13:00:00.000Z
 description: >-
   COVID-19 is a pandemic caused by a virus, SARS-CoV-2, that crossed from
@@ -63,6 +64,8 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: "Putting the Ant into Antibiotics by John Innes Centre\t"
     quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
+    quadrelatedvis: /static/img/F_Exhibit_Thumbnail.jpg
   - quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History\t"
     quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
+    quadrelatedvis: /static/img/P_Exhibit_Thumbnail.jpg
 ---
