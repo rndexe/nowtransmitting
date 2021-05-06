@@ -15,6 +15,7 @@ expertname: Ideal Standard Film
 expertbio: >
   
   Annette and Steffen Schäffler, sister and brother, studied at film schools in Germany and founded their production company Ideal Standard Film in 1994. They went on to produce several short films and a 60 minute documentary. In most of their projects Steffen is the director and Annette the producer. The Periwig-Maker was their first animated short film, won more than 30 international prizes and was nominated for a Bafta and an Oscar.
+expertpic: /static/img/A_FS_SEC_VIS_1.jpg
 readinglist:
   - quadreadtxt: "Quarantine Culture Recommendations: “Better Call Saul,” “Designing
       Woman,” and Kenneth Branagh"
