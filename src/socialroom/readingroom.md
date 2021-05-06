@@ -2,6 +2,7 @@
 title: Reading Room
 description: From our experience of disease to speculative imagination of future
   pandemics - explore a selection of reading material on contagion.
+icon: /static/img/reading-room-square.svg
 openbooklist:
   - title: A Journal of the Plague Year
     author: Daniel Defoe
