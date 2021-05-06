@@ -14,6 +14,7 @@ desc: From “immunogenicity” to “RT-PCR”, COVID-19 has made many once-obs
 link: covids/language-of-pandemics
 speakername: Mariam Ghani
 speakerimage: /static/img/O_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/O_CO_THUMBNAIL.png
 speakerfield: Artist
 speakerbio: >-
   Mariam Ghani is an artist, writer, and filmmaker. Her work spans multiple
