@@ -1,5 +1,5 @@
 ---
-title: D_Lessons from the Past in a Pandemic
+title: Lessons from the Past in a Pandemic
 desc: Outbreaks and epidemics have affected humanity throughout its existence,
   often changing the course of history. There are many differences between how
   we used to and how we currently respond to epidemics, but there are also many
