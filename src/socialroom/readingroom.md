@@ -10,6 +10,7 @@ openbooklist:
       experiences during 1665 when the bubonic plague struck the city of London.
       An amalgamation of history, and fiction this narrative represents a
       gripping report of life during the 'Great Plague.'"
+    listlink: https://e.issuu.com/embed.html?d=journalofplagu00defo&hideIssuuLogo=true&hideShareButton=true&pageNumber=12&u=sciencegallerybengaluru
   - title: "Laughter: An Essay on the Meaning of the Comic"
     author: Henri Bergson
     about: "*Laughter* is a collection of three essays by French philosopher Henri
