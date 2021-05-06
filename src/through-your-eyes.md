@@ -20,9 +20,9 @@ promptBlist:
   - coverimage: /static/img/tye_3_aakanksha_bubble_a.jpg
   - coverimage: /static/img/tye_4_kiranmayi.jpg
 promptClist:
-  - {}
-  - {}
-  - {}
+  - coverimage: /static/img/9_kamesh_home_a.jpg
+  - coverimage: /static/img/9_kamesh_home_b.jpg
+  - coverimage: /static/img/9_kamesh_home_c.jpg
   - coverimage: /static/img/tye_1_agroneel_home_d.jpg
   - coverimage: /static/img/tye_2_jolly_home_b.jpg
 promptDlist:
