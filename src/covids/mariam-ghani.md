@@ -1,5 +1,5 @@
 ---
-title: "O_The Language of Pandemics "
+title: "The Language of Pandemics "
 desc: From “immunogenicity” to “RT-PCR”, COVID-19 has made many once-obscure
   words a part of our everyday conversation. As government bodies, scientists,
   and medical professionals race to combat the virus, more such terms have been
