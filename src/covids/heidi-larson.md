@@ -8,7 +8,7 @@ desc: Heidi Larson has spent the past two decades trying to understand what
   misinformation. She argues that in 2021, as governments around the world roll
   out vaccination programmes, we need to rebuild communities’ faith and trust in
   medical information.
-link: covids/trust-fear-in-pandemic/
+permalink: covids/trust-fear-in-pandemic/
 speakername: Heidi Larson
 speakerimage: /static/img/K_CO_SEC_VIS.jpg
 speakerfield: Anthropologist

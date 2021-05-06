@@ -7,7 +7,7 @@ desc: The pandemic has revealed weaknesses in our society, but it has also
   Lewandowsky is a cognitive scientist who studies how people think and make
   decisions. He investigates how trust and emotions are manipulated in a global
   health crisis.
-link: covids/conspiracies-trust-in-pandemic/
+permalink: covids/conspiracies-trust-in-pandemic/
 speakername: Stephan Lewandowsky
 speakerimage: /static/img/F_CO_SEC_VIS.jpg
 speakerfield: Cognitive Scientist

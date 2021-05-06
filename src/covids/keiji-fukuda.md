@@ -9,7 +9,7 @@ desc: The enormity of the changes brought about by the COVID-19 pandemic has
   Syndrome (MERS), Ebola, and various influenza outbreaks. Drawing on decades of
   research and groundwork, he reflects on how good governance and leadership can
   help us tackle the ongoing crisis.
-link: covids/good-governance-in-pandemic/
+permalink: covids/good-governance-in-pandemic/
 speakername: Keiji Fukuda
 speakerimage: /static/img/E_CO_SEC_VIS.jpg
 speakerfield: Public Health Expert

@@ -7,7 +7,7 @@ desc: There’s no single solution to prevent the spread of the SARS-CoV-2, but
   She reflects on key research questions around the human immune response which
   could potentially shape more efficient and targeted responses to the COVID-19
   pandemic.
-link: covids/pandemics-advance-science
+permalink: covids/pandemics-advance-science/
 speakername: Gagandeep Kang
 speakerimage: /static/img/J_CO_SEC_VIS.jpg
 speakerfield: Physician-Scientist
@@ -15,7 +15,6 @@ speakerbio: >-
   Gagandeep Kang is a Professor of Microbiology at Wellcome Trust Research
   Laboratory, and the Division of Gastrointestinal Sciences at the Christian
   Medical College (CMC) in Vellore. 
-
 
   She and her conduct inter-disciplinary research on enteric infections and child health. They work on gut infections in children, nutrition, water and sanitation. Their team does everything from geographic information systems to human immunology. They have evaluated vaccines in pre-clinical and clinical phase 1-3 studies for rotavirus and cholera, and are now working on typhoid and SARS-CoV2.
 videosrc: https://player.vimeo.com/video/535839062

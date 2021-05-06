@@ -1,0 +1,7 @@
+{
+    "layout" : "covids/layout_covids",
+    "path" : "covids",
+    "tags": [
+        "covid"
+    ]
+}

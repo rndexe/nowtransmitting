@@ -8,7 +8,7 @@ desc: Fake news was a very serious issue even before the pandemic broke out.
   understanding the role that authenticity plays across different institutions
   and actors. She reflects on what we can learn from paying attention to fakes,
   false information, and forgery during a pandemic.
-link: covids/fakes-facts-in-pandemic/
+permalink: covids/fakes-facts-in-pandemic/
 speakername: Patricia Kingori
 speakerimage: /static/img/M_CO_SEC_VIS.jpg
 speakerfield: Sociologist
