@@ -1,5 +1,5 @@
 ---
-title: F_Conspiracies and Trust in a Pandemic
+title: Conspiracies and Trust in a Pandemic
 desc: The pandemic has revealed weaknesses in our society, but it has also
   opened avenues for radical change; for conversations about how science can
   save humanity, how populism functions in a democracy, and how we should govern
