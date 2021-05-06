@@ -1,5 +1,5 @@
 ---
-title: E_Good Governance in a Pandemic
+title: Good Governance in a Pandemic
 desc: The enormity of the changes brought about by the COVID-19 pandemic has
   compelled us to reflect on the effectiveness of our systems of governance.
   Governments around the world have been confronted with the challenge of
