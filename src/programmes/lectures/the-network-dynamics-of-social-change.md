@@ -1,6 +1,10 @@
 ---
-title: "N_The Network Dynamics of Social Change "
+title: "The Network Dynamics of Social Change "
 permalink: programmes/lectures/the-network-dynamics-of-social-change/
+cata: transmission
+catb: experimenting
+thumb: /static/img/PL_damon_thumbnail.jpg
+cover: /static/img/PL_damon_coverimage.jpg
 date: 2021-05-26T13:00:00.000Z
 description: >-
   New social movements, technologies and public-health initiatives often
@@ -28,6 +32,7 @@ expertbio: Damon Centola is a Professor in the Annenberg School for
   U.S. Patent for inventing a method to promote diffusion in online
   networks.  He is a member of the Sci Foo community and Fellow of the Center
   for Advanced Study in the Behavioral Sciences at Stanford University.
+expertpic: /static/img/pl_damon_portrait.png
 readinglist:
   - quadreadlink: https://ndg.asc.upenn.edu/wp-content/uploads/2019/05/Virality-Paradox.pdf
     quadreadtxt: The Viral Paradox
