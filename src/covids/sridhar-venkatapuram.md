@@ -1,5 +1,5 @@
 ---
-title: C_Health and Justice in a Pandemic
+title: Health and Justice in a Pandemic
 desc: Sridhar Venkatapuram brings health-related natural and social sciences
   together with philosophy in order to understand and address health
   inequalities and injustices. Recently, he has been thinking about the systems
