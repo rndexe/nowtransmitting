@@ -24,6 +24,7 @@ expertbio: T. Jayashree has written, produced and directed for International
   globe and can be viewed at her Vimeo Account. Queer Archive for Memory,
   Reflection and Activism (QAMRA) is an initiative grown out of her vast
   collection of raw footage on queer life and movement in India.
+expertpic: /static/img/m_exhibit_sec_vis_5.jpg
 disname: "Vikram Doctor "
 disbio: Vikram Doctor is a Goa based journalist who has worked with publications
   like the Times of India and Economic Times for over 20 years. He was also
@@ -34,25 +35,34 @@ disbio: Vikram Doctor is a Goa based journalist who has worked with publications
 readinglist:
   - quadreadtxt: This Was the First Major News Article on HIV/AIDS
     quadreadlink: https://www.smithsonianmag.com/smart-news/was-first-major-news-article-hivaids-180963913/
+    quadreadvis: /static/img/D_FS_QUA_READVIS_1.jpg
   - quadreadtxt: How Theatre Can Help Young Nigerians Who Are Living With HIV
     quadreadlink: https://theconversation.com/how-theatre-can-help-young-nigerians-who-are-living-with-hiv-150378
+    quadreadvis: /static/img/D_FS_QUA_READVIS_2.jpg
   - quadreadtxt: " How COVID-19 Threatens Efforts To Contain HIV/AIDS in South Africa"
     quadreadlink: https://theconversation.com/how-covid-19-threatens-efforts-to-contain-hiv-aids-in-south-africa-142575
+    quadreadvis: /static/img/D_FS_QUA_READVIS_3.jpg
 listeninglist:
   - quadlisttxt: "Fast-Track Cities and the AIDS Response "
     quadlistlink: https://podcasts.apple.com/us/podcast/fast-track-cities-and-the-aids-response/id1459288389?i=1000437158557
+    quadlistvis: /static/img/D_FS_QUA_LISTVIS_1.jpg
   - quadlisttxt: " HIV/AIDS: Apathy Will Kill You"
     quadlistlink: https://thispodcastwillkillyou.com/2018/02/10/episode-12-hiv-aids-apathy-will-kill-you/
+    quadlistvis: /static/img/D_FS_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchtxt: " Fight HIV Stigma through Access, Mobilization and Equity"
     quadwatchlink: https://www.youtube.com/watch?v=fd2Mz6vBykI
+    quadwatchvis: /static/img/D_FS_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventtxt: "Detect, Investigate, Diagnose: Configuring Care in the Context of
       AIDS and Ebola Epidemics | Lecture by Adia Benton"
     quadeventlink: http://bit.ly/lecture-benton
+    quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: "After the End of Epidemics: A Cold War View | Lecture by Dora Vargha "
     quadeventlink: http://bit.ly/lecture-vargha
+    quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedtxt: "Fluid Dialogues by Basse Sttitgen "
     quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
+    quadrelatedvis: /static/img/M_Exhibit_Thumbnail.jpg
 ---
