@@ -1,5 +1,5 @@
 ---
-title: "Decoding OneHealth | Workshop "
+title: Decoding OneHealth
 permalink: programmes/workshops/decoding-one-health/
 cata: hindsight
 catb: documenting
