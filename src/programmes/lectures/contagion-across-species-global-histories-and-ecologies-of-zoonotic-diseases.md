@@ -1,6 +1,5 @@
 ---
-title: "P_Contagion Across Species: Global Histories and Ecologies of Zoonotic
-  Diseases"
+title: "Contagion Across Species: Global Histories and Ecologies of Zoonotic Diseases"
 permalink: programmes/lectures/contagion-across-species/
 cata: transmission
 catb: narrating
