@@ -2,7 +2,7 @@
 layout: chameleon-project
 authortype: Artist
 thumb: /static/img/L_Exhibit_Thumbnail.jpg
-title: The Chameleon Project
+title: "The Chameleon Project"
 subtitle: "(R)emote: Spreading your feelings"
 medium: Text, Images, Videos
 year: "2010"

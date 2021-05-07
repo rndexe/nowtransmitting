@@ -1,17 +1,17 @@
 ---
 title: "Dis-Ease "
-permalink: programmes/films/dis-ease
+permalink: programmes/films/dis-ease/
 cata: hindsight
 catb: documenting
 thumb: /static/img/f_mariam.png
 cover: /static/img/B_FS_Coverimage.jpg
 date: 2021-05-23T11:30:00.000Z
-description: >
-  2018 | English | 8 minutes 45 seconds | United States 
+description: >-
+  **2018 | English | 8 minutes 45 seconds | United States** 
 
 
   The short version of DIS-EASE looks at the metaphors we use to describe illnesses, and how some diseases become metaphors to describe other phenomena. In particular, it examines the metaphor of the "war on disease," and asks how it affects how we treat people who are sick, how we define the "public" in public health, and whether it has locked us into militarized national security paradigms for both responding to current epidemic diseases and planning for future pandemics.
-link: http://bit.ly/films-bui
+link: https://www.eventbrite.com/e/dis-ease-film-screening-discussion-registration-148914704891?aff=erelexpmlt
 expertname: "Mariam Ghani "
 expertbio: Mariam Ghani is an artist, writer, and filmmaker. Her films and
   installations have been presented and collected by museums, festivals, and

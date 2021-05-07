@@ -2,7 +2,7 @@
 layout: theriak
 authortype: Team
 thumb: /static/img/E_Exhibit_Thumbnail.jpg
-title: THERIAK | The Disease Map
+title: "THERIAK | The Disease Map"
 subtitle: Mapping the ebb and flow of diseases
 medium: Time-lapse film of Vibrio cholerae interacting with synthetic peptides
   across a map of Basel by engraver Matthäus Merian (1593-1650). 5 min. 3 sec.

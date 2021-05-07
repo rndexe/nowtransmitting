@@ -2,7 +2,7 @@
 layout: cluster-17-cases
 authortype: Team
 thumb: /static/img/H_Exhibit_Thumbnail.jpg
-title: A Cluster of 17 Cases
+title: "A Cluster of 17 Cases"
 subtitle: The corridor of uncertainty
 medium: Interactive website
 year: "2018"

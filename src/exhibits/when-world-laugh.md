@@ -2,7 +2,7 @@
 layout: when-world-laugh
 authortype: Team
 thumb: /static/img/D_Exhibit_Thumbnail.jpg
-title: When the World Was A Laugh
+title: "When the World Was A Laugh"
 subtitle: Decoding the mechanics of a universal experience
 medium: Speculative fiction, participative collection, video installation
 year: "2021"

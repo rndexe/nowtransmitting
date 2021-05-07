@@ -2,7 +2,7 @@
 layout: indoor-safety-guidelines
 authortype: Team
 thumb: /static/img/I_Exhibit_Thumbnail.jpg
-title: COVID-19 Indoor Safety Guidelines
+title: "COVID-19 Indoor Safety Guidelines"
 subtitle: The inner life of a virus
 medium: Interactive
 year: "2020"
@@ -10,7 +10,7 @@ description: >-
   Indoor safety is crucial to curtailing the spread of the SARS-CoV-2 virus. How
   can we protect ourselves in a closed environment? How do we ensure safety in
   our homes, schools, and other indoor public spaces? The online tool created by
-  Josh W. Bush, Martin Bazant, and Kasim Khan captures the realities of the
+  John W. Bush, Martin Bazant, and Kasim Khan captures the realities of the
   infectious potential of COVID-19 in indoor spaces. The COVID-19 Indoor Safety
   Guidelines tool allows a user to tinker with the controls: you can choose the
   room specifications, the number of people, the kind of activity. Once the
@@ -19,9 +19,9 @@ description: >-
   the room.
 
 
-  This tool brings data, computing, and research into a user-friendly and comprehensible format, keeping us better informed about the risk of infection in these uncertain times. 
+  This tool brings data, computing, and research into a user-friendly and comprehensible format, keeping us better informed about the risk of infection in these uncertain times.
 pritxt: https://indoor-covid-safety.herokuapp.com/
-privis: /static/img/I_EXHIBIT_PRI_VIS_1.mp4
+privis: https://player.vimeo.com/video/545825685
 exhibitauthor:
   - authorbio: John W. Bush is Professor of Applied Mathematics in the Department of
       Mathematics at Massachusetts Institute of Technology (MIT). A fluid

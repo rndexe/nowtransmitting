@@ -1,5 +1,6 @@
 ---
 authortype: Team
+embedvis: https://player.vimeo.com/video/545539085
 exhibitauthor:
   - authorbio: Sonia Shah is a science journalist and prize-winning author of
       critically acclaimed research based books on science, politics and human

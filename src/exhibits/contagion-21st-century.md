@@ -30,7 +30,7 @@ exhibitimages1:
     privis: /static/img/O_EXHIBIT_PRI_VIS_8.jpg
 layout: contagion-21st-century
 thumb: /static/img/O_Exhibit_Thumbnail.jpg
-title: Contagion in the 21st Century
+title: "Contagion in the 21st Century"
 subtitle: Tracing the movement of microbes over the years
 medium: Text, Images, and Simulation
 exhibitimages2:

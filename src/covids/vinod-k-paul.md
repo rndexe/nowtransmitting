@@ -8,7 +8,7 @@ desc: With more than 10 million cases, India has the second-highest infection
   Transforming India (NITI) Aayog, and Head of the National Task Force Against
   COVID-19, shares key questions arising from the journey so far and considers a
   future where India emerges as a hub for innovative biomedical research.
-link: covids/managing-pandemic-india/
+permalink: covids/managing-pandemic-india/
 speakername: Vinod K Paul
 speakerimage: /static/img/A_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/A_CO_THUMBNAIL.png

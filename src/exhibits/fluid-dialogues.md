@@ -2,7 +2,7 @@
 layout: fluid-dialogues
 authortype: Team
 thumb: /static/img/M_Exhibit_Thumbnail.jpg
-title: Fluid Dialogues
+title: "Fluid Dialogues"
 subtitle: The burden of stigma
 medium: Film
 year: "2021"

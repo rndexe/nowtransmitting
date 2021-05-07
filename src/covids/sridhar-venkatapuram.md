@@ -7,7 +7,7 @@ desc: Sridhar Venkatapuram brings health-related natural and social sciences
   line of enquiry challenges us to think beyond the virus as the only cause of
   the pandemic, and encourages us to reexamine the socioeconomic systems which
   play a critical role in both spreading and controlling disease.
-link: covids/health-justice-in-pandemic/
+permalink: covids/health-justice-in-pandemic/
 speakername: Sridhar Venkatapuram
 speakerimage: /static/img/C_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/C_CO_THUMBNAIL.png

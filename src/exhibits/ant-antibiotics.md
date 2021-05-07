@@ -3,7 +3,7 @@ layout: ant-antibiotics
 featured: true
 authortype: Team
 thumb: /static/img/F_Exhibit_Thumbnail.jpg
-title: Putting the Ant into Antibiotics
+title: "Putting the Ant into Antibiotics"
 subtitle: Microbes to the rescue
 medium: Photographs and video
 year: "2019"

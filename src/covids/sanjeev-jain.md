@@ -6,7 +6,7 @@ desc: Every known civilisation has battled epidemics of diseases like the
   pandemics in the present day. Connections between past epidemics and
   contemporary society intrigue psychiatrists like Sanjeev Jain, who has worked
   extensively on the history of medicine and mental health in South Asia.
-link: covids/lessons-from-history/
+permalink: covids/lessons-from-history/
 speakername: Sanjeev Jain
 speakerimage: /static/img/h_co_sec_vis.png
 thumbnailimage: /static/img/H_CO_THUMBNAIL.png

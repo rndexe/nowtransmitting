@@ -8,7 +8,7 @@ desc: Though COVID-19 is primarily a global health crisis, its ripple effect has
   Institute, has been working on international pandemic preparedness and
   responses. She explores how lessons learned from the current pandemic can help
   us envision a more equitable response to future crises.
-link: covids/learning-from-pandemic
+permalink: covids/learning-from-pandemic/
 speakername: Johanna Hanefeld
 speakerimage: /static/img/N_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/N_CO_THUMBNAIL.png

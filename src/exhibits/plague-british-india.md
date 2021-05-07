@@ -3,7 +3,7 @@ layout: plague-british-india
 featured: false
 authortype: Scholar
 thumb: /static/img/A_Exhibit_Thumbnail.jpg
-title: "Controlling the Plague in British India "
+title: "Controlling the Plague in British India"
 subtitle: "A Visual History of the Plague "
 medium: Photographs
 year: 1896 – 1898

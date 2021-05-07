@@ -10,7 +10,7 @@ desc: Epidemiology is a branch of medical science that studies the distribution
   insights he has gleaned from decades of research about how we as
   community-members can anticipate, control, and prevent the spreading of
   disease.
-link: covids/community-care-in-pandemic/
+permalink: covids/community-care-in-pandemic/
 speakername: Jimmy Whiteworth
 speakerimage: /static/img/G_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/G_CO_THUMBNAIL.png

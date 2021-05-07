@@ -8,7 +8,7 @@ desc: Outbreaks and epidemics have affected humanity throughout its existence,
   devastated by his experience of living through the worst pandemic in the past
   100 years. He reflects on how insights from history can help inform
   contemporary health policy.
-link: covids/lessons-from-past-pandemics/
+permalink: covids/lessons-from-past-pandemics/
 speakername: Sanjoy Bhattacharya
 speakerimage: /static/img/D_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/D_CO_THUMBNAIL.png

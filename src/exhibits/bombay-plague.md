@@ -2,7 +2,7 @@
 layout: bombay-plague
 authortype: Artist
 thumb: /static/img/C_Exhibit_Thumbnail.jpg
-title: "Drawing the Bombay Plague "
+title: "Drawing the Bombay Plague"
 subtitle: An alternate imagination of the Bombay Plague
 medium: Drawing and digital work
 year: "2017"
@@ -22,7 +22,7 @@ description: >-
 
 
   The project was originally commissioned by Wellcome Collection as part of the Wellcome/Gasworks Residency collaboration for the 'Ayurvedic Man' show in London 2017 curated by Bárbara Rodríguez Muñoz.
-privis: /static/img/C_EXHIBIT_COVER.mp4
+privis: https://player.vimeo.com/video/545825411
 pritxt: https://bombayplague.nowtransmitting.com/
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
 authorname: Ranjit Kandalgaonkar

@@ -1,31 +1,56 @@
 <div id="sidenavbar" class="w-full h-16 lg:w-20 inline lg:fixed lg:h-full lg:flex bg-white">
-	<nav class="flex my-5 lg:my-0 px-3 lg:px-0 lg:my-px flex-row-reverse lg:flex-col">
+	<nav class="w-full flex my-5 lg:my-0 px-3 lg:px-0 lg:my-px flex-row-reverse lg:flex-col">
 		<div id="menu-button" class="lg:p-2 lg:mt-10 w-20 lg:p-1 lg:fixed">
 			<div style="  width: 30px; height: 2px; background-color: #2d2d2d; margin: 6px auto;"></div>
 			<div style="  width: 30px; height: 2px; background-color: #2d2d2d; margin: 6px auto;"></div>
 			<div style="  width: 30px; height: 2px; background-color: #2d2d2d; margin: 6px auto;"></div>
 		</div>
 		{% if path == 'home' %}
-		<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
-			Contagion
-		</p>
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+				Contagion
+			</p>
 		{% elseif path == 'about' %}
-		<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
-			Contagion
-		</p>
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+				Contagion
+			</p>
 		{% elseif path == 'lectures' %}
-		<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
-			Lectures
-		</p>
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+				<a href="/programmes">Lectures</a>
+			</p>
+		{% elseif path == 'events' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+				<a href="/programmes">Events</a>
+			</p>
+		{% elseif path == 'workshops' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+			<a href="/programmes">Workshops</a>
+			</p>
+		{% elseif path == 'filmscreenings' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+			<a href="/programmes">Films</a>
+			</p>
+
+		{% elseif path == 'rooms' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-sm font-display">
+			<a href="/socialroom">Social Room</a>
+			</p>
+		{% elseif path == 'exhibits' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+			<a href="/exhibits">Exhibition</a>
+			</p>
+		{% elseif path == 'covids' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+			<a href="/covids">Co-Vids</a>
+			</p>
 		{% else %}
 		<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
-			Exhibits
+			<a href="/">Contagion</a>
 		</p>
 		{% endif %}
-		
+
 		<div class="h-auto w-20 lg:bottom-0 lg:fixed lg:p-1">
 			<a href="/home" >
-			<img class="w-20" src="/static/img/SGLogo_Black_Transparent.png"></img>
+				<img class="w-20" src="/static/img/SGLogo_Black_Transparent.png"></img>
 			</a>
 		</div>
 	</nav>

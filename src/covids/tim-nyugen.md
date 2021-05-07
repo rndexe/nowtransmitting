@@ -5,7 +5,7 @@ desc: The spread of COVID-19 around the world has been accompanied by a deluge
   for public health, fake news, misinformation, and rumours seem to be spreading
   faster than facts. Researchers like Tim Nguyen of the WHO Health Emergencies
   Programme have been working around the clock to counter this infodemic.
-link: covids/managing-infodemics/
+permalink: covids/managing-infodemics/
 speakername: Tim Nguyen
 speakerimage: /static/img/L_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/L_CO_THUMBNAIL.png
