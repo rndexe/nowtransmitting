@@ -40,16 +40,22 @@ readinglist:
   - quadreadlink: https://theconversation.com/coronavirus-outbreak-a-new-mapping-tool-that-lets-you-scroll-through-timeline-131422
     quadreadtxt: "Coronavirus Outbreak: A New Mapping Tool That Lets You Scroll
       Through Timeline"
+    quadreadvis: /static/img/wk_rasagyaharsha.png
   - quadreadlink: https://www.scientificamerican.com/article/pandemic-hot-spots-map/
     quadreadtxt: Pandemic Hot Spots Map a Path to Prevention
+    quadreadvis: /static/img/wk_rasagyaharsha.png
   - quadreadlink: https://link.springer.com/article/10.1007/s41745-020-00196-z
     quadreadtxt: "Health Heatmap of India: An Open Data Platform"
+    quadreadvis: /static/img/wk_rasagyaharsha.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
     quadlisttxt: "Disease Detectives: How to Track an Epidemic"
+    quadlistvis: /static/img/wk_rasagyaharsha.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=S5H1ZOlMTQE
     quadwatchtxt: "Maps and Epidemiology: Lessons for COVID-19"
+    quadwatchvis: /static/img/wk_rasagyaharsha.png
   - quadwatchlink: https://www.youtube.com/watch?v=VJ86D_DtyWg&t=53s
     quadwatchtxt: The 1850s Map That Changed How We Fight Outbreaks
+    quadwatchvis: /static/img/wk_rasagyaharsha.png
 ---
