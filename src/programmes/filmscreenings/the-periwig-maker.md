@@ -11,7 +11,8 @@ description: >-
 
 
   London, 1665. The plague has reached its peak. The periwig-maker has sealed himself off from the outside to escape the danger of infection. Through his shop window he observes the dying in the street and reflects on the causes and consequences of the epidemic. When a young girl seeks his help he makes a fateful decision. This Oscar nominated film is loosely based on Daniel Defoe’s ‘A Journal of the Plague Year’, and has been screened at over 100 international film festivals.
-link: https://vimeo.com/543012409
+link: ""
+reclink: https://player.vimeo.com/video/543012409
 expertname: Ideal Standard Film
 expertbio: >
   
