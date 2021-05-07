@@ -45,6 +45,15 @@ promptClist:
   - coverimage: /static/img/9_kamesh_home_c.jpg
   - coverimage: /static/img/tye_1_agroneel_home_d.jpg
   - coverimage: /static/img/tye_2_jolly_home_b.jpg
+    caption: 2020 instilled new habits and changed concepts of isolation and self
+      reliance. With one parent submerged in healthcare duties, the other parent
+      joined them for complete support and both lived away for most of the year.
+      This left me to take care of a younger sibling and a house with four cats!
+      We’d only meet each other on weekends and rest of the time, it was
+      appreciating forgotten habits like waking up to birds, sunrises, and sun
+      bathing with the cats.
+    name: "Jolly Saikia "
+    bio: Jolly Saikia is a storyteller by energy and a queer feminist by identity.
 promptDlist:
   - coverimage: /static/img/tye_4_loganathan_iso_b.jpg
   - coverimage: /static/img/tye_13_ananya_iso_a.jpg
