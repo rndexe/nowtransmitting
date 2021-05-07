@@ -58,5 +58,10 @@ promptDlist:
   - coverimage: /static/img/tye_4_loganathan_iso_b.jpg
   - coverimage: /static/img/tye_13_ananya_iso_a.jpg
   - coverimage: /static/img/tye_5_purabi_iso_c.jpg
+    caption: This photograph was taken in Norway in December, the darkest part of
+      the year in the Arctic. It was possible to walk many kilometers in the
+      wilderness without meeting another person.
+    name: "Purabi Deshpande "
+    bio: Purabi Deshpande is a PhD student studying birds and plants in cities.
   - {}
 ---
