@@ -11,20 +11,10 @@ description: >-
   Infectious diseases cause more than 10 million deaths a year worldwide.
   Despite significant advances by scientists and public health authorities that
   have led to reduced rates of infections and mortality, we continue to find
-  ourselves unable to respond rapidly and effectively to pandemics. The ongoing
-  spread of COVID-19 serves as a grim reminder of our collective inability to
-  control pandemics. Pandemics will recur again: the question is not if, but
-  when. Globalization, anti-microbial resistance, anthropomorphic changes such
-  as population growth, globally networked economies and urbanization, climate
-  change, new technologies such as synthetic biology that might be used to
-  design pathogens, and ecological pressures threaten to upend the progress we
-  have made in fighting infectious diseases. 
+  ourselves unable to respond rapidly and effectively to pandemics.
 
 
-  In this lecture, Professor Madhav Marathe will argue that pandemics are a complex systems problem and are intricately tied to the social, behavioral, medical, political and economic issues that go beyond human health and national boundaries. Since Bernoulli’s work in 1760 on smallpox inoculation, mathematical and computational models have played an important role in the study of epidemics. He will discuss how and if recent advances in computing, data and biological sciences can be harnessed to develop new techniques and engineering principles that can further advance the field and, in the end, help reduce the global burden of infectious diseases.  He will also highlight the challenges one faces in developing tools during an evolving pandemic. 
-
-
-  Pandemics are just one kind of contagion in a long list of contagions, including power blackouts, global financial contagions, contagions caused by computer malware, collective behavior by bacterial colonies using quorum sensing, and the information and mis(dis)-information campaigns on the social media. Marathe will discuss how unifying mathematical principles and engineering principles can be developed to understand and respond to such networked contagion-like phenomena. He will conclude the lecture by discussing how societies can cope with these global contagions by balancing the short term objectives such as economic growth and social well-being with long term objectives of resilience and sustainability.
+  In this lecture, Madhav Marathe will argue that pandemics are a complex systems problem and are intricately tied to the social, behavioral, medical, political and economic issues that go beyond human health and national boundaries. Since Bernoulli’s work in 1760 on smallpox inoculation, mathematical and computational models have played an important role in the study of epidemics. He will discuss how and if recent advances in computing, data and biological sciences can be harnessed to develop new techniques and engineering principles that can further advance the field and, in the end, help reduce the global burden of infectious diseases.
 link: http://bit.ly/lecture-marathe
 expertname: Madhav Marathe
 expertbio: Madhav Marathe is a Distinguished Professor in Biocomplexity, the
