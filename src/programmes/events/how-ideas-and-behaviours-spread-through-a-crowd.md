@@ -1,6 +1,6 @@
 ---
 title: "How Ideas and Behaviours Spread Through A Crowd "
-permalink: programmes/workshops/how-ideas-and-behaviours-spread-through-a-crowd/
+permalink: programmes/events/how-ideas-and-behaviours-spread-through-a-crowd/
 cata: transmission
 catb: experimenting
 thumb: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
