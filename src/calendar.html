@@ -343,7 +343,7 @@ permalink: /programmes/
                                   }
                                   if(events.checked){
                                     this.shownEvents =  this.shownEvents.filter((event)=>{
-                                      return event.type.split(",")[0] == 'events'
+                                      return event.type.split(",")[0] == 'event'
                                     })
                                   }
                                   if(workshops.checked){
@@ -388,8 +388,8 @@ permalink: /programmes/
                                           :class="{'text-green-650': '${arr[i].type.split(',')[0]}' == 'event', 'text-red-650': '${arr[i].type.split(',')[0]}' == 'lecture', 'text-blue-pg': '${arr[i].type.split(',')[0]}' == 'workshop', 'text-yellow-650': '${arr[i].type.split(',')[0]}' == 'filmscreening'}">
                                             &#9679;
                                           </p> 
-                                          <a href='${arr[i].link}' target="_blank">
-                                          <span class="font-bold">${arr[i].time.substring(0,5)}</span> : ${arr[i].title}
+                                          <a href='${arr[i].url}'>
+                                          <span class="font-bold">${arr[i].time.substring(0,5)}</span> : <span class="underline"> ${arr[i].title} </span>
                                           </a>
                                         </div>`
                                         ul.appendChild(li);
