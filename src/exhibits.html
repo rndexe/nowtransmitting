@@ -21,7 +21,7 @@ layout : default
 	<div class="pullquote w-full h-full col-start-2 row-start-3 col-span-2">
 		<p class="font-display font-medium text-xl text-white tracking-normal pt-2 pl-2">Relief the reciprocity, empathy, care and knowledge that can develop across disciplines, relief the reciprocity, empathy, care</p>
 	</div> 
-	{%- for post in collections.exhibit -%}
+	{%- for post in collections.exhibitsOrdered -%}
 	{% if post.data.featured %}
 	<div class="w-full col-span-2 row-span-2">
 		<a href= {{post.url}}>
