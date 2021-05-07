@@ -1,6 +1,6 @@
 ---
 title: "Walkthrough of the Museum at the Robert Koch Institute "
-permalink: programmes/workshops/robert-koch-institute-museum-walkthrough/
+permalink: programmes/events/robert-koch-institute-museum-walkthrough/
 cata: trigger
 catb: narrating
 thumb: /static/img/e_esther.png
