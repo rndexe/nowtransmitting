@@ -7,14 +7,14 @@ thumb: /static/img/fs_jayashree_thumbnail.png
 cover: /static/img/fs_jayashree_coverimage.png
 date: 2021-05-30T11:30:00.000Z
 description: >-
-  2005 | 53 minutes | German, English, Kannada & Hindi with English subtitles |
-  Thailand, Germany, Switzerland & India 
+  **2005 | 53 minutes | German, English, Kannada & Hindi with English subtitles
+  | Thailand, Germany, Switzerland & India** 
 
 
   Tracing the story of the global struggle to make HIV/AIDS drugs more affordable and available, A Human Question raises key questions of whether private ownership of knowledge can be at the costs of human life? The film explores the complex world of Patents and HIV/AIDS medicines by connecting and contrasting personal narratives with those of international lobbyists and activists. 
 
 
-  A Human Question makes the case that although AIDS cannot be cured, people can live longer and with a better quality of life given adequate health care and access to drugs, both of which are cause and consequence of social change.  This film has been screened at numerous international film festivals including HIMAL South Asian festival (2007), and Globale (2006). 
+  A Human Question makes the case that although AIDS cannot be cured, people can live longer and with a better quality of life given adequate health care and access to drugs, both of which are cause and consequence of social change.  This film has been screened at numerous international film festivals including HIMAL South Asian festival (2007), and Globale (2006).
 link: http://bit.ly/films-jayashree
 expertname: "T Jayashree "
 expertbio: T. Jayashree has written, produced and directed for International
