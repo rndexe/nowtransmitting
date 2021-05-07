@@ -1,0 +1,15 @@
+---
+permalink: lp_json/exhibit_ordered.json
+---
+[
+  {% for post in collections.exhibitsOrdered  %}
+    {% set data = post.data %}
+    {
+      "title": "{{ data.title }}",
+      "subtitle": "{{ data.subtitle }}",
+      "url": "{{ post.url }}",
+      "thumbnail": "{{ post.data.thumb }}",
+      "featured": "{{ post.data.featured }}"
+    }{{ '' if loop.last else ',' }}
+  {% endfor  %}
+]

@@ -3,7 +3,7 @@ layout: 2020-vision
 featured: true
 authortype: Artist
 thumb: /static/img/B_Exhibit_Thumbnail.jpg
-title: "2020 Vision "
+title: "2020 Vision"
 subtitle: Disentangling the Web of Information
 medium: Google News headlines, Google email alerts, Python code
 year: "2019"

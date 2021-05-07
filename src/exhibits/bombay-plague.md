@@ -2,7 +2,7 @@
 layout: bombay-plague
 authortype: Artist
 thumb: /static/img/C_Exhibit_Thumbnail.jpg
-title: "Drawing the Bombay Plague "
+title: "Drawing the Bombay Plague"
 subtitle: An alternate imagination of the Bombay Plague
 medium: Drawing and digital work
 year: "2017"

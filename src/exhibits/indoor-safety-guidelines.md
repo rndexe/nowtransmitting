@@ -2,7 +2,7 @@
 layout: indoor-safety-guidelines
 authortype: Team
 thumb: /static/img/I_Exhibit_Thumbnail.jpg
-title: COVID-19 Indoor Safety Guidelines
+title: "COVID-19 Indoor Safety Guidelines"
 subtitle: The inner life of a virus
 medium: Interactive
 year: "2020"

@@ -3,7 +3,7 @@ layout: moulding-modern-medicine
 featured: true
 authortype: Sources
 thumb: /static/img/N_Exhibit_Thumbnail.jpg
-title: Moulding Modern Medicine
+title: "Moulding Modern Medicine"
 subtitle: Bacterial Stories--The Resistance is Here
 medium: Sound, Images
 year: --
