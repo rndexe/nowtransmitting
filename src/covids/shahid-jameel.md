@@ -27,16 +27,22 @@ videosrc: https://player.vimeo.com/video/533115377
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/science-nature/compare-flu-pandemic-1918-and-covid-19-caution-180975040/
     quadreadtxt: The Past is not a Prediction
+    quadreadvis: /static/img/I_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/fact-or-fiction-the-ebola-virus-will-go-airborne/
     quadreadtxt: Could Ebola Become Airborne
+    quadreadvis: /static/img/I_CO_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theatlantic.com/science/archive/2017/10/pandemic-prediction-challenge/543954/
     quadreadtxt: Is It Possible to Predict the next Pandemic?
+    quadreadvis: /static/img/I_CO_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.bbc.co.uk/sounds/play/w3csywyw
     quadlisttxt: "The ‘Spanish’ Flu  "
+    quadlistvis: /static/img/I_CO_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.bbc.co.uk/sounds/play/w3cszjv8
     quadlisttxt: "The 1918 Spanish Flu: The Mother Of All Pandemics"
+    quadlistvis: /static/img/I_CO_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=m8DA7mh_qVw
     quadwatchtxt: Interview with Shahid Jameel
+    quadwatchvis: /static/img/I_CO_QUA_WATCHVIS_1.jpg
 ---
