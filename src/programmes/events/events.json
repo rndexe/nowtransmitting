@@ -1,0 +1,7 @@
+{
+    "layout" : "programmes/layout_lecture",
+    "path" : "events",
+    "tags": [
+        "event", "programme"
+    ]
+}
