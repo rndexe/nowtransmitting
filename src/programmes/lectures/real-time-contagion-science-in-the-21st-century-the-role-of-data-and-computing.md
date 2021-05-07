@@ -14,7 +14,7 @@ description: >-
   ourselves unable to respond rapidly and effectively to pandemics.
 
 
-  In this lecture, Madhav Marathe will argue that pandemics are a complex systems problem and are intricately tied to the social, behavioral, medical, political and economic issues that go beyond human health and national boundaries. Since Bernoulli’s work in 1760 on smallpox inoculation, mathematical and computational models have played an important role in the study of epidemics. He will discuss how and if recent advances in computing, data and biological sciences can be harnessed to develop new techniques and engineering principles that can further advance the field and, in the end, help reduce the global burden of infectious diseases.
+  In this lecture, Madhav Marathe will argue that pandemics are a complex systems problem and are intricately tied to the social, behavioral, medical, political and economic issues that go beyond human health and national boundaries. He will discuss how and if recent advances in computing, data and biological sciences can be harnessed to develop new techniques and engineering principles that can further advance the field and, in the end, help reduce the global burden of infectious diseases.
 link: http://bit.ly/lecture-marathe
 expertname: Madhav Marathe
 expertbio: Madhav Marathe is a Distinguished Professor in Biocomplexity, the
