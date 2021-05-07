@@ -18,9 +18,9 @@ description: >-
   Uncover how social media platforms are designed to keep us hooked and how they can be used to change our minds. Learn why finding “fake news” is not as easy as it sounds, and how the term “fake news” is as much a problem as the news itself. Dive into the world of deep fakes, which are now so realistic that they are virtually impossible to detect. These apps were created by Density Design; They are part of the project, **["The Glass Room Misinformation Edition"](https://theglassroom.org/misinformation)**, created by Tactical Tech.
 exhibitembed:
   - pritxt: https://deepfakelab.theglassroom.org/
-    privis: /static/img/G_EXHIBIT_PRI_VIS_1.mp4
+    privis: https://player.vimeo.com/video/545825495
   - pritxt: https://doublecheck.theglassroom.org/
-    privis: /static/img/G_EXHIBIT_PRI_VIS_2.mp4
+    privis: https://player.vimeo.com/video/545825613
 exhibitimages:
   - privis: /static/img/G_EXHIBIT_PRI_VIS_3.jpg
   - privis: /static/img/G_EXHIBIT_PRI_VIS_4.jpg
