@@ -52,6 +52,7 @@ eventlist:
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
   - quadeventtxt: A Human Question | Film Discussion
     quadeventlink: http://bit.ly/films-jayashree
+    quadeventvis: /static/img/fs_jayashree_thumbnail.png
 relatedlist:
   - quadrelatedtxt: "A Cluster of 17 Cases by Blast Theory\t"
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
