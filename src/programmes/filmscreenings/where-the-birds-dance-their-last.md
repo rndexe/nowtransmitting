@@ -61,9 +61,11 @@ eventlist:
   - quadeventlink: http://bit.ly/lecture-bresalier
     quadeventtxt: "Contagion Across Species: Global Histories and Ecologies of
       Zoonotic Diseases | Lecture by Michael Bresalier "
+    quadeventvis: /static/img/pl_michael.png
   - quadeventtxt: "Decoding One Health | Workshop by Bengaluru One Health City
       Consortium and the echo network "
     quadeventlink: http://bit.ly/workshop-onehealth
+    quadeventvis: /static/img/wk_echo.png
 relatedlist:
   - quadrelatedtxt: "Contagion in the 21st Century by Robert Koch Institute "
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
