@@ -17,6 +17,7 @@ description: >-
 
   Why are these models necessary? What insights can we gain from them? In this talk, Professor Gautam Menon will discuss these questions, as well as survey some epidemic models that are used to understand and model disease spread. Approaching these topics through a qualitative rather than technical lens, Menon will show how to develop the right intuition about what goes into modeling infectious diseases.
 link: http://bit.ly/lecture-menon
+expertname: Gautam I. Menon
 expertbio: Gautam I. Menon is a Professor of Physics and Biology at Ashoka
   University, an adjunct Professor at the Tata Institute of Fundamental
   Research, Mumbai and a Professor at the Institute of Mathematical Sciences,
