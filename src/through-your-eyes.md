@@ -145,4 +145,5 @@ promptDlist:
       some ways relive it. The transmission of sound and energy is very real and
       in my isolated condition this act offers much solace. I may look stupid to
       anyone looking at me right now, but there’s no one around to judge me.
+    coverimage: /static/img/10_shyamli_iso_a.gif
 ---
