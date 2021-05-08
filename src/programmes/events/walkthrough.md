@@ -48,6 +48,8 @@ eventlist:
       Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit | Lecture
       by Sabrina Sholts "
     quadeventlink: http://bit.ly/lecture-sholts
+    quadeventvis: /static/img/h_exhibit_qua_atnvis_1.jpg
 relatedlist:
   - quadrelatedtxt: "A Cluster of 17 Cases "
+    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
 ---
