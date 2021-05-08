@@ -44,29 +44,39 @@ disbio: "Frédéric Keck is a Senior Researcher at the Laboratory of Social
 readinglist:
   - quadreadtxt: " Asian Reservoirs: A Conversation with Frédéric Keck"
     quadreadlink: https://madeinchinajournal.com/2020/06/30/asian-reservoirs-a-conversation-with-frederic-keck/
+    quadreadvis: /static/img/B_FS_QUA_READVIS_1.jpg
   - quadreadtxt: "Fowl Play: The Poultry Industry's Central Role In The Bird Flu Crisis"
     quadreadlink: https://grain.org/article/entries/22-fowl-play-the-poultry-industry-s-central-role-in-the-bird-flu-crisis
+    quadreadvis: /static/img/B_FS_QUA_READVIS_2.jpg
   - quadreadtxt: Bird Flu Hits Vietnam Right Where It Hurts
     quadreadlink: https://www.latimes.com/archives/la-xpm-2005-apr-22-sci-vietflu22-story.html
+    quadreadvis: /static/img/B_FS_QUA_READVIS_3.jpg
 listeninglist:
   - quadlisttxt: " Let's Talk Podcast: Dr. Keck Discusses the Origins And
       Implications of the COVID-19 Pandemic"
     quadlistlink: https://axaxl.com/fast-fast-forward/articles/lets-talk-podcast-dr-keck-discusses-the-origins-and-implications-of-the-covid-19-pandemic
+    quadlistvis: /static/img/B_FS_QUA_LISTVIS_1.jpg
   - quadlisttxt: "Cracking One Health: Dr. Elena Sassu"
     quadlistlink: https://axaxl.com/fast-fast-forward/articles/lets-talk-podcast-dr-keck-discusses-the-origins-and-implications-of-the-covid-19-pandemic
+    quadlistvis: /static/img/B_FS_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchtxt: " A Genealogy of Animal Diseases and Social Anthropology"
     quadwatchlink: " A Genealogy of Animal Diseases and Social Anthropology"
+    quadwatchvis: /static/img/B_FS_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-bresalier
     quadeventtxt: "Contagion Across Species: Global Histories and Ecologies of
       Zoonotic Diseases | Lecture by Michael Bresalier "
+    quadeventvis: /static/img/pl_michael.png
   - quadeventtxt: "Decoding One Health | Workshop by Bengaluru One Health City
       Consortium and the echo network "
     quadeventlink: http://bit.ly/workshop-onehealth
+    quadeventvis: /static/img/wk_echo.png
 relatedlist:
   - quadrelatedtxt: "Contagion in the 21st Century by Robert Koch Institute "
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: "A Cluster of 17 Cases "
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
