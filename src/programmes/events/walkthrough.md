@@ -52,4 +52,5 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: "A Cluster of 17 Cases "
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
