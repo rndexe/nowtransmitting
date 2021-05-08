@@ -39,22 +39,29 @@ expertpic: /static/img/pl_damon_portrait.png
 readinglist:
   - quadreadlink: https://ndg.asc.upenn.edu/wp-content/uploads/2019/05/Virality-Paradox.pdf
     quadreadtxt: The Viral Paradox
+    quadreadvis: /static/img/PL_damon_thumbnail.jpg
   - quadreadlink: https://www.scientificamerican.com/article/kindness-contagion/
     quadreadtxt: Kindness Contagion
+    quadreadvis: /static/img/PL_damon_thumbnail.jpg
   - quadreadlink: https://www.nature.com/articles/s41598-019-41835-5
     quadreadtxt: The Complexity Of Understanding Others As The Evolutionary Origin
       Of Empathy And Emotional Contagion
+    quadreadvis: /static/img/PL_damon_thumbnail.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/0rIZb72soOjbk3Z4AtSXWK
     quadlisttxt: The Snowball Effect
+    quadlistvis: /static/img/PL_damon_thumbnail.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=1q8WqZyek3E
     quadwatchtxt: "Why Independent Cultures Think Alike When It Comes to Categories:
       It's Not in the Brain"
+    quadwatchvis: /static/img/PL_damon_thumbnail.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=-34lg4wNqt0
     quadwatchtxt: "How Behavior Spreads: The Science of Complex Contagions"
+    quadwatchvis: /static/img/PL_damon_thumbnail.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=XKH5ITx6AAk&t=5s
     quadwatchtxt: Refuting "Groupthink," Research Proves Wisdom of Crowds Can Prevail
+    quadwatchvis: /static/img/PL_damon_thumbnail.jpg
 eventlist:
   - quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event by Daniel
       Richardson
