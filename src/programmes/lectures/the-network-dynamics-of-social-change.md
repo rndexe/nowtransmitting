@@ -6,13 +6,16 @@ catb: experimenting
 thumb: /static/img/PL_damon_thumbnail.jpg
 cover: /static/img/PL_damon_coverimage.jpg
 date: 2021-05-26T13:00:00.000Z
-description: >-
-  New social movements, technologies and public-health initiatives often
-  struggle to succeed, yet
-
-  many diseases disperse rapidly. Can viral diffusion be a model to improve spread of beneficial
-
-  behaviors and innovations? Professor Damon Centola will discuss breakthroughs in the science of network diffusion, and how these have improved understanding of how changes in societal behavior—in voting, health, technology, finance, vaccination, and disease prevention - occur, and how social networks can influence how they propagate. Many accepted ideas about viral spreading have in fact been responsible for causing past diffusion efforts to fail. Centola presents new findings to enable social change efforts to succeed much more effectively.
+description: New social movements, technologies and public-health initiatives
+  often struggle to succeed, yet many diseases disperse rapidly. Can viral
+  diffusion be a model to improve spread of beneficial behaviors and
+  innovations? Professor Damon Centola will discuss breakthroughs in the science
+  of network diffusion, and how these have improved understanding of how changes
+  in societal behavior—in voting, health, technology, finance, vaccination, and
+  disease prevention - occur, and how social networks can influence how they
+  propagate. Many accepted ideas about viral spreading have in fact been
+  responsible for causing past diffusion efforts to fail. Centola presents new
+  findings to enable social change efforts to succeed much more effectively.
 link: http://bit.ly/lecture-centola
 expertname: Damon Centola
 expertbio: Damon Centola is a Professor in the Annenberg School for
