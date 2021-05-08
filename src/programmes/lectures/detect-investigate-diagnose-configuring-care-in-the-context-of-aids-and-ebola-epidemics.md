@@ -58,6 +58,7 @@ watchinglist:
 eventlist:
   - quadeventlink: https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147?aff=ebdsoporgprofile
     quadeventtxt: A Human Question | Film Discussion
+    quadeventvis: /static/img/fs_jayashree_thumbnail.png
   - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
       Lecture by Sheila Jasanoff"
     quadeventvis: /static/img/pl_sheila.jpg
