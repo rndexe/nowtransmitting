@@ -8,9 +8,12 @@ cover: /static/img/E_PL_Coverimage.jpg
 date: 2021-05-02T13:00:00.000Z
 description: >-
   The coronavirus disease (COVID-19) pandemic has advanced globally since the
-  beginning of
-
-  2020, exacting an enormous toll on individuals, communities and economies. Its scale demands the development of innovative solutions. While all past epidemics have been accompanied by infodemics, which the World Health Organization defined as a proliferation of information—some accurate, some not—that spreads alongside a disease outbreak, the extent of the infodemic accompanying the COVID-19 pandemic is unprecedented. 
+  beginning of 2020, exacting an enormous toll on individuals, communities and
+  economies. Its scale demands the development of innovative solutions. While
+  all past epidemics have been accompanied by infodemics, which the World Health
+  Organization defined as a proliferation of information—some accurate, some
+  not—that spreads alongside a disease outbreak, the extent of the infodemic
+  accompanying the COVID-19 pandemic is unprecedented. 
 
 
   This talk asks questions about this information pandemic. What causes an infodemic? What are the challenges posed by the infodemic? Can it be eliminated ? Can it be managed? How can we leverage new technologies to manage the infodemic?
