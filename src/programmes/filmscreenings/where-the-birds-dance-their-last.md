@@ -67,6 +67,8 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: "Contagion in the 21st Century by Robert Koch Institute "
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: "A Cluster of 17 Cases "
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
