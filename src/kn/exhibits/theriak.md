@@ -96,31 +96,31 @@ terpdftxt: "ಥೇರಿಯಾಕ್‌  ಬಯೋ ಪ್ರೋಸೆಸ್‌ �
   ಕಲಾವಿದರು.  ಈ.ಟಿ.ಎಚ್‌, ಜೂರಿಚ್, ಬಸೆಲ್‌, ಸ್ವಿಟ್ಜರ್‌ ಲ್ಯಾಂಡ್‌. ಕೊಡುಗೆ: ಸಾರಾ
   ಕ್ರಾಸ್ಕ್, "
 readinglist:
-  - quadreadtxt: "The Topography of Disease "
+  - quadreadtxt: "ರೋಗ ವಿಕಸನದ ವಿನ್ಯಾಸ "
     quadreadlink: https://blogs.scientificamerican.com/observations/the-topography-of-disease/
     quadreadvis: /static/img/e_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)60846-0/fulltext
-    quadreadtxt: The Theriac in Antiquity
+    quadreadtxt: ಪ್ರಾಚೀನ ಥೇರಿಯಾಕ್‌
     quadreadvis: /static/img/e_exhibit_qua_readvis_2.jpg
-  - quadreadtxt: Microbe Artwork Shows The Limits Of Antibiotics
+  - quadreadtxt: ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳ ಪರಿಮಿತಿಯನ್ನು ನಿದರ್ಶಿಸುವ ಸೂಕ್ಷ್ಮಜೀವಿ ಕಲಾಕೃತಿ
     quadreadvis: /static/img/e_exhibit_qua_readvis_3.jpg
     quadreadlink: https://phys.org/news/2015-09-microbe-artwork-limits-antibiotics.html
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5ULLBlutrCdopu2eFic4qV
-    quadlisttxt: "Pandemics and Borders "
+    quadlisttxt: "ರೋಗ ಪಿಡುಗುಗಳು ಮತ್ತು ಗಡಿಪ್ರದೇಶಗಳು "
     quadlistvis: /static/img/e_exhibit_qua_listvis_1.jpg
   - quadlistlink: https://thispodcastwillkillyou.com/2018/02/10/episode-4-the-st-show/
-    quadlisttxt: The Poop Show
+    quadlisttxt: "ದಿ ಪೂಪ್‌ ಶೋ "
     quadlistvis: /static/img/e_exhibit_qua_listvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=VJ86D_DtyWg&ab_channel=Vox
-    quadwatchtxt: The 1850s Map that Changed How We Fight Outbreaks
+    quadwatchtxt: "ರೋಗ ಸ್ಫೋಟಗಳನ್ನು ಎದುರಿಸುವ ವಿಧಾನದಲ್ಲಿ ಪರಿವರ್ತನೆ ಮೂಡಿಸಿದ 1850 ರ ನಕ್ಷೆ "
     quadwatchvis: /static/img/e_exhibit_qua_watchvis_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=KvHL0dHj3RM
-    quadwatchtxt: " A Guided Tour of the Ghost Map "
+    quadwatchtxt: “ದಿ ಘೋಸ್ಟ್‌ ಮ್ಯಾಪ್‌ " – ಮಾರ್ಗದರ್ಶಿ ಪ್ರವಾಸ
     quadwatchvis: /static/img/e_exhibit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=YSytf6CJjXg
-    quadwatchtxt: Mapping the Spread of Infectious Diseases
+    quadwatchtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳು ಹರಡುವ ರೀತಿಯನ್ನು ಅಂಕಿತಗೊಳಿಸಲಾಗಿದೆ
     quadwatchvis: /static/img/e_exhibit_qua_watchvis_3.jpg
 eventlist:
   - quadeventtxt: "THERIAK: Behind the Scenes in a Lab | Workshop by Sarah Craske"
