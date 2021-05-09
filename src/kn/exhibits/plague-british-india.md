@@ -86,47 +86,48 @@ essay: >-
   Photographs 1, 5, 6,7, and 8 are available via Wellcome Collection, Attribution 4.0 International (CC BY 4.0). Photographs 4, 9, and 10 are reproduced here courtesy of the Centre for South Asia Studies of the University of Cambridge. Photographs 2 and 3 are available via The British Library, Public Domain Mark 1.0.
 exhibitimages:
   - privis: /static/img/A_EXHIBIT_PRI_VIS_1.jpg
-    pritxt: “Barber at work in one of the camps”, 1897, Karachi Plague Committee
-      Album, Photograph probably by R. Jalbhoy, Wellcome Collection.
+    pritxt: "“ಬಿಡಾರವೊಂದರಲ್ಲಿ ಕಾರ್ಯ ನಿರತ ಕ್ಷೌರಿಕ”, 1897, ಕರಾಚಿ ಪ್ಲೇಗ್‌ ಕಮಿಟಿ ಆಲ್ಬಮ್‌,
+      ಛಾಯಾಚಿತ್ರಣ :ಬಹುಶಃ ಆರ್.ಜಲ್ಬಾಯ್‌ , ವೆಲ್ಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ "
   - privis: /static/img/A_EXHIBIT_PRI_VIS_2-0.jpg
-    pritxt: "“Burning a badly infected quarter”, 1896-1898, Lieut-Colonel John Lloyd
-      Thomas Jones (Indian Medical Service) Collection: Album of miscellaneous
-      views including the Plague Hospital at Poona, 578/4 (61), The British
-      Library."
+    pritxt: "“ಬಹಳವಾಗಿ ಸೋಂಕಿತವಾದ ನಿವಾಸವನ್ನು ಸುಡುತ್ತಿರುವುದು”, 1896-1898, ಲೆಫ್ಟನೆಂಟ್‌
+      ಕರ್ನಲ್‌ ಜ್ಹಾನ್‌ ಲಾಯಿಡ್‌ ಥಾಮಸ್‌ ಜೋನ್ಸ್‌ (ಭಾರತೀಯ ವೈದ್ಯಕೀಯ ಸೇವೆ) ಸಂಗ್ರಹಣೆ:
+      ಪೂನಾದಲ್ಲಿರುವ ಪ್ಲೇಗ್‌ ಆಸ್ಪತ್ರೆಯನ್ನು ಒಳಗೊಂಡಂತೆ ವಿವಿಧ ಛಾಯಾಚಿತ್ರಗಳುಳ್ಳ
+      ಆಲ್ಬಮ್‌, 578/4 (61), ದಿ ಬ್ರಿಟಿ಼ಷ್‌ ಲೈಬ್ರರಿ. "
   - privis: /static/img/A_EXHIBIT_PRI_VIS_3-0.jpg
-    pritxt: "“Camp for householders from whose houses plague cases have been
-      removed”, 1896-1898, Lieut-Colonel John Lloyd Thomas Jones (Indian Medical
-      Service) Collection: Album of miscellaneous views including the Plague
-      Hospital at Poona, 578/4 (32), The British Library."
+    pritxt: " “ಪ್ಲೇಗ್‌ ರೋಗಿಗಳು ಕಂಡುಬಂದಂತಹ ಮನೆಗಳಲ್ಲಿನ ಇತರೆ ಸದಸ್ಯರನ್ನು ಇರಿಸಲಾಗುತ್ತಿದ್ದ
+      ಬಿಡಾರ”, 1896-1898, ಲೆಫ್ಟನೆಂಟ್‌ ಕರ್ನಲ್‌ ಜ್ಹಾನ್‌ ಲಾಯಿಡ್‌ ಥಾಮಸ್‌ ಜೋನ್ಸ್‌
+      (ಭಾರತೀಯ ವೈದ್ಯಕೀಯ ಸೇವೆ) ಸಂಗ್ರಹಣ: ಪೂನಾದಲ್ಲಿರುವ ಪ್ಲೇಗ್‌ ಆಸ್ಪತ್ರೆಯನ್ನು
+      ಒಳಗೊಂಡಂತೆ ವಿವಿಧ ಛಾಯಾಚಿತ್ರಗಳುಳ್ಳ ಆಲ್ಬಮ್‌, 578/4 (32), ದಿ ಬ್ರಿಟಿ಼ಷ್‌
+      ಲೈಬ್ರರಿ."
   - privis: /static/img/A_EXHIBIT_PRI_VIS_4.jpg
-    pritxt: “Disinfecting of Allahabad (Plague). T.W.A.F”, 1901/1902, Fullerton
-      Collection, Centre for South Asia Studies Archive, University of
-      Cambridge.
+    pritxt: “ಅಲಹಾಬಾದ್‌ ಸೋಂಕು ನಿವಾರಣೆ  (ಪ್ಲೇಗ್‌). ಟಿ.ಡಬಲ್ಯು.ಏ.ಎಫ್”, 1901/1902,
+      ಫುಲರ್ಟನ್‌ ಸಂಗ್ರಹಣೆ, ದಕ್ಷಿಣ ಏಷಿಯಾ ಅಧ್ಯಯನಗಳ ಸಂಕಲನ ಕೇಂದ್ರ, ಕೇಂಬ್ರಿಡ್ಜ್‌
+      ವಿಶ್ವವಿದ್ಯಾಲಯ.
   - privis: /static/img/A_EXHIBIT_PRI_VIS_5.jpg
-    pritxt: “Disinfecting Trans-Lyari plague sufferers in wooden tubs”, 1897,
-      Karachi Plague Committee Album, Photograph probably by R. Jalbhoy,
-      Wellcome Collection.
+    pritxt: “ಮರದ ಬಾನಿಗಳಲ್ಲಿ ಟ್ರಾಂಸ್‌-ಲ್ಯಾರಿ ಪ್ಲೇಗ್‌ ರೋಗಿಗಳ ಸೋಂಕಿಗೆ ಚಿಕಿತ್ಸೆ”, 1897,
+      ಕರಾಚಿ ಪ್ಲೇಗ್‌ ಕಮಿಟಿ ಆಲ್ಬಮ್, ಛಾಯಾಚಿತ್ರ :ಬಹುಶಃ ಆರ್.ಜಲ್ಬಾಯ್‌ , ವೆಲ್ಲ್‌ ಕಮ್‌
+      ಸಂಗ್ರಹಣೆ.
   - privis: /static/img/A_EXHIBIT_PRI_VIS_6.jpg
-    pritxt: "“Flushing engine cleaning infected houses”, Moss, C., Captain, fl. ca.
-      1897. The Bombay plague epidemic of 1896-1897: work of the Bombay Plague
-      Committee. Photographs attributed to Capt. C. Moss, 1897, Wellcome
-      Collection."
+    pritxt: "“ಫ್ಲಶಿಂಗ್‌ ಇಂಜಿನ್‌ ಮೂಲಕ ಸೋಂಕಿತ ಮನೆಗಳನ್ನು ಶುಚಿಗೊಳಿಸುವ ದೃಶ್ಯ”, ಮೋಸ್, ಸಿ
+      ಕ್ಯಾಪ್ಟನ್.,  ಎಫೆಎಲ್. ಸಿ ಎ. 1897. ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಸಾಂಕ್ರಾಮಿಕ ಪಿಡುಗು
+      1896-1897: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಸಮಿತಿಯ ಕೃತಿ. ಛಾಯಾಚಿತ್ರಗಳನ್ನು ಕ್ಯಾಪ್ಟನ್ ಸಿ ಮೋಸ್ ಗೆ
+      ಅರ್ಪಿಸಲಾಗಿದೆ, 1897, ವೆಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ."
   - privis: /static/img/A_EXHIBIT_PRI_VIS_7.jpg
-    pritxt: "“Lime-washers at work on a badly infected house”, Moss, C., Captain,
-      fl. ca. 1897. The Bombay plague epidemic of 1896-1897: work of the Bombay
-      Plague Committee. Photographs attributed to Capt. C. Moss, 1897, Wellcome
-      Collection."
+    pritxt: "“ಬಹಳವಾಗಿ ಸೋಂಕಿತವಾದ ನಿವಾಸಕ್ಕೆ ಸುಣ್ಣ ಬಳೆಯುತ್ತಿರುವ ಕೆಲಸಗಾರರು”, ಮೋಸ್, ಸಿ
+      ಕ್ಯಾಪ್ಟನ್,  ಎಫ್‌ ಎಲ್. ಸಿ.ಎ. 1897. ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಸಾಂಕ್ರಾಮಿಕ ಪಿಡುಗು
+      1896-1897: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಸಮಿತಿಯ ಕೃತಿ. ಛಾಯಾಚಿತ್ರಗಳನ್ನು ಕ್ಯಾಪ್ಟನ್ ಸಿ ಮೋಸ್ ಗೆ
+      ಅರ್ಪಿಸಲಾಗಿದೆ, 1897, ವೆಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ."
   - privis: /static/img/A_EXHIBIT_PRI_VIS_8.jpg
-    pritxt: “Mekrani Segregation Camp”, 1897, Karachi Plague Committee Album,
-      Photograph probably by R. Jalbhoy, Wellcome Collection.
+    pritxt: "“ಮೇಕ್ರಾನಿಯಲ್ಲಿನ ಪ್ರತ್ಯೇಕತೆ ಬಿಡಾರ ”, 1897, ಕರಾಚಿ ಪ್ಲೇಗ್‌ ಕಮಿಟಿ ಆಲ್ಬಮ್‌,
+      ಛಾಯಾಚಿತ್ರ :ಬಹುಶಃ ಆರ್.ಜಲ್ಬಾಯ್‌ , ವೆಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ "
   - privis: /static/img/A_EXHIBIT_PRI_VIS_9.jpg
-    pritxt: “Persuading an objector to have his house disinfected. (Allahabad,
-      1901-02) T.W.A.F. partially hidden by Indian in the centre”, 1901/1902,
-      Fullerton Collection, Centre for South Asia Studies Archive, University of
-      Cambridge.
+    pritxt: "“ಮನೆಗೆ ಸೋಂಕು ನಿವಾರಕವನ್ನು ಸಿಂಪಡಿಸಲು ಆಕ್ಷೇಪಣೆ ವ್ಯಕ್ತ ಪಡಿಸಿದ ವ್ಯಕ್ತಿಯನ್ನು
+      ಒಪ್ಪಿಸುತ್ತಿರುವ ದೃಶ್ಯʼ. (ಅಲಹಾಬಾದ್, 1901-02) ಟಿ.ಡಬಲ್ಯು.ಏ.ಎಫ್. ಮಧ್ಯದಲ್ಲಿರುವ
+      ಭಾರತೀಯ ವ್ಯಕ್ತಿಯೊಬ್ಬರು ಭಾಗಶಃ ಮರೆ ಒಡ್ಡಿದ್ದಾರೆ”, 1901/1902, ಫುಲರ್ಟನ್‌
+      ಸಂಗ್ರಹಣೆ, ದಕ್ಷಿಣ ಏಷಿಯಾ ಅಧ್ಯಯನದ ಸಂಕಲನ ಕೇಂದ್ರ, ಕೇಂಬ್ರಿಡ್ಜ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ. "
   - privis: /static/img/A_EXHIBIT_PRI_VIS_10.jpg
-    pritxt: “Plague Camp”, 1901/1902, Fullerton Collection, Centre for South Asia
-      Studies Archive, University of Cambridge.
+    pritxt: “ಪ್ಲೇಗ್‌ ಬಿಡಾರ”, 1901/1902, ಫುಲರ್ಟನ್‌ ಸಂಗ್ರಹಣೆ, ದಕ್ಷಿಣ ಏಷಿಯಾ ಅಧ್ಯಯನಗಳ
+      ಸಂಕಲನ ಕೇಂದ್ರ, ಕೇಂಬ್ರಿಡ್ಜ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ.
 authorimage: /static/img/A_EXHIBIT_SEC_VIS_1.jpg
 authorname: Christos Lynteris
 authorbio: >-
