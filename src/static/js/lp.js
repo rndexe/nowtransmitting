@@ -104,7 +104,7 @@ function createProgramPopup(title,type,thumbnail,dateText,timeText,url){
 
     titleText.style = "color:#2d2d2d; z-index:100; overflow-wrap: break-word; font-size:20px; font-weight:bold;"
     titleText.className = "w-full font-trade"
-    titleText.innerText = title;
+    titleText.innerHTML= title;
 
     typeText.style = "color:#2d2d2d; z-index:101; overflow-wrap: break-word;  font-size:15px;"
     typeText.className = "w-full font-trade"
@@ -365,7 +365,7 @@ loadJSON(function(json) {
                     console.log(newjs)
                     var pop = createProgramPopup(
                         newjs[n-24].title,
-                        newjs[n-24].type.split(",")[0],
+                        newjs[n-24].type.split(",")[0].toUpperCase(),
                         newjs[n-24].thumbnail,
                         newjs[n-24].date,
                         newjs[n-24].time,
