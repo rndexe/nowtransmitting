@@ -2,7 +2,7 @@
 layout: bombay-plague
 authortype: Artist
 thumb: /static/img/C_Exhibit_Thumbnail.jpg
-title: "Drawing the Bombay Plague"
+title: Drawing the Bombay Plague
 subtitle: An alternate imagination of the Bombay Plague
 medium: Drawing and digital work
 year: "2017"
@@ -40,27 +40,28 @@ authorbio: >-
 
   Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, the Wellcome Trust Seed Funding Award and the Gasworks Artist Residency.
 tervis: https://player.vimeo.com/video/537285108
-tertxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar. Courtesy of the
-  Wellcome Collection. "
+tertxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್‌ (ಪ್ರೇರಿತ) ಚಿತ್ರಾಕೃತಿ  : ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ : ಕೊಡುಗೆ:
+  ವೆಲ್ಲ್ ಕಮ್‌ ಸಂಗ್ರಹಣೆ "
 readinglist:
   - quadreadlink: https://www.atlasobscura.com/articles/how-bombay-plague-changed-mumbai
-    quadreadtxt: "How the Bombay Plague Changed Mumbai Forever "
+    quadreadtxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್  ಯಾವ ರೀತಿಯಲ್ಲಿ ಇಡೀ ಮುಂಬಯಿಯನ್ನು ಎಂದೆಂದಿಗೂ ಬದಲಾಯಿಸಿಬಿಟ್ಟಿತು. "
     quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_1.jpg
-  - quadreadtxt: "Waldemar Haffkine: The Vaccine Pioneer the World Forgot "
+  - quadreadtxt: "ವಾಲ್ಡೆಮರ್‌ ಹಾಫ್ಕಿನ್‌ : ವಿಶ್ವವು ಮರೆತಿರುವ ಪ್ರಥಮ ಲಸಿಕೆ ತಯಾರಕರು. "
     quadreadlink: https://www.bbc.com/news/world-asia-india-55050012
     quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_2.jpg
-  - quadreadtxt: How Humans Have Reacted To Pandemics Through History – A Visual Guide
+  - quadreadtxt: ಇತಿಹಾಸದಲ್ಲಿ ಮಾನವರು ರೋಗ ಪಿಡುಗುಗಳಿಗೆ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯೆ ವ್ಯಕ್ತ
+      ಪಡಿಸಿದ್ದಾರೆ. – ದೃಶ್ಯ ಮಾರ್ಗದರ್ಶಿ
     quadreadlink: https://www.theguardian.com/society/ng-interactive/2020/apr/29/how-humans-have-reacted-to-pandemics-through-history-a-visual-guide
     quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
-  - quadlisttxt: "When Plague Hit Bombay "
+  - quadlisttxt: "ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯು ಬಾಂಬೆಯನ್ನು ಆವರಿಸಿದ ಸಂದರ್ಭ "
     quadlistlink: https://open.spotify.com/episode/5HjxQ9PO2RzMvUaIKrcq9A
     quadlistvis: /static/img/C_EXHIBIT_QUA_LISTVIS_1.jpg
-  - quadlisttxt: Parallels Between the Plague and COVID-19 Pandemics feat. Prashant Kidambi
+  - quadlisttxt: "ಪ್ಲೇಗ್‌ ಮತ್ತು ಕೋವಿಡ್‌ -19 ರೋಗ ಪಿಡುಗುಗಳ  ನಡುವಣ ಸಾಮ್ಯತೆ : ಪ್ರಶಾಂತ್‌ ಕಿಡಂಬಿ"
     quadlistlink: https://podcasts.adorilabs.com/s/e?eid=IAUASrTk2esBNlB6
     quadlistvis: /static/img/C_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
-  - quadwatchtxt: Plague 101
+  - quadwatchtxt: " ಸಿಡುಬು ರೋಗ"
     quadwatchlink: https://www.youtube.com/watch?v=MYnMXEcHI7U&pbjreload=101
     quadwatchvis: /static/img/C_EXHIBIT_QUA_WATCH_VIS_1.jpg
 eventlist:
