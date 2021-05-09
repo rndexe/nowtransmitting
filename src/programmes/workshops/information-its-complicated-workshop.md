@@ -1,5 +1,5 @@
 ---
-title: Information...It's Complicated
+title: Information... It's Complicated
 permalink: programmes/workshops/information-its-complicated/
 cata: trigger
 catb: documenting
