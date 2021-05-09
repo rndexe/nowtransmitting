@@ -2,75 +2,66 @@
 layout: chameleon-project
 authortype: Artist
 thumb: /static/img/L_Exhibit_Thumbnail.jpg
-title: "The Chameleon Project"
-subtitle: "(R)emote: Spreading your feelings"
-medium: Text, Images, Videos
+title: "ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ "
+subtitle: "ದೂರ ನಿಯಂತ್ರಣ:  ಭಾವನೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ವ್ಯಾಪನಗಳು  "
+medium: ಪಠ್ಯ ಸಾಹಿತ್ಯ , ಪ್ರತಿಕೃತಿಗಳು, ವೀಡಿಯೋಗಳು
 year: "2010"
-description: >-
-  In daily encounters, people automatically and continuously synchronize with
-  the facial expressions, voices, postures, movements of others. Some of these
-  encounters happen in milli-seconds. In unconscious mimicry, we forge a bond
-  with each other through our gestures and movements—long before we utter a
-  word. In essence, we are carriers, dancing with each other in harmonized body
-  language, infecting each other with our emotions. The Chameleon Project
-  translates the experience of catching emotions from people into a
-  technology-driven video installation.
-
-
-  We stand in front of a screen and the screen starts talking to us. Not with words but by showing us videos and images of people in emotional states that are in tandem with ours. Artist Tina Gonsalves, social neuroscientist Chris Frith, emotion neuroscientist Hugo Critchley, affective computer scientists Rosalind Picard and Rana El Kaliouby, as well as Professor in affective computing, Nadia Berthouz, came together to create a system that could read a person’s emotions, and then decide a congruent emotion to reflect back. Drawing on theories of emotional contagion, The Chameleon Project is placed at the intersection of multiple research areas such as empathy, social networks, affecting computing.
+description: ""
 exhibitvideos:
   - privis: https://player.vimeo.com/video/537610834
-    pritxt: 4 by 3 grid monologue snippets of prototype 09. Courtesy of Tina Gonsalves.
+    pritxt: "ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್. ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌ ಅವರ ಕೊಡುಗೆ. "
   - privis: https://player.vimeo.com/video/537604249
-    pritxt: Video Documentation of Chameleon Prototype 09 at Fabrica, Brighton, UK.
-      Courtesy of Philipp Carr.
+    pritxt: "ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್. ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌ ಅವರ ಕೊಡುಗೆ. "
 authorimage: /static/img/L_EXHIBIT_SEC_VIS_1.jpg
-authorname: Tina Gonsalves | In collaboration with Chris Frith, Hugo Critchley,
-  Rosalind Picard, Rana El Kaliouby, and Nadia Berthouz
+authorname: "ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌  | ಕ್ರಿಸ್‌ ಫ್ರಿಥ್‌ , ಬ್ರೂನೋ ಅವರ್‌ ಬೆಕ್‌, ಯೂಸೆಫ್‌
+  ಕಶೆಫ್‌, ಅಬದಲ್‌ ರೆಹಮಾನ ಎನ್.‌ ಮೊಹಮ್ಮದ್ದ್‌, ರಾನಾ ಎಲ್‌ ಕಲ್ಯೂಬಿ, ರೋಸಾ ಲಿಂಡ್‌
+  ಪಿಕಾರ್ಡ್‌, ನಾಡಿಯಾ ಬರ್ಥ್‌ಹೌಸ್‌, ಮ್ಯಾಟ್‌ ಇಕೋಬಿನಿ, ಹ್ಯೂಗೋ ಕ್ರಿಟ್ಚಲೇ, ಹೆಲೆನ್‌
+  ಸ್ಲೋಅನ್‌ ಇವರುವಳ ಸಹಭಾಗಿತ್ವ "
 authorbio: >-
-  Tina Gonsalves is an artist whose practice integrates science, art, and
-  technology to create embodied, interactive audiovisual experiences. Tina has
-  been exploring ideas about the emotional body since 1994, first making short
-  films that aimed to translate internal emotional states into an external
-  medium. Finding the basic film format increasingly inadequate, she moved on to
-  installations to look at ways technology could access the emotional signatures
-  of the body. 
+  ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌ ಅವರು, ಕಲೆ, ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನಗಳನ್ನು ಒಗ್ಗೂಡಿಸಿಕೊಂಡು,
+  ಶ್ರವ್ಯ – ದೃಶ್ಯ ಸಹಿತ ಸಾಕಾರ, ಸಂವಾದಾತ್ಮಕ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ.   ಟಿನಾ ಅವರು
+  ಭಾವನಾತ್ಮಕ ಕಾಯದ ಬಗೆಗೆ 1994 ಯಿಂದಲೂ  ವಿಭಿನ್ನ ಪರಿಕಲ್ಪನೆಗಳ ಅನ್ವೇಷಣೆಯಲ್ಲಿ
+  ತೊಡಗಿದ್ದಾರೆ.  ಆಂತರಿಕ ಭಾವನಾತ್ಮಕ ಸ್ಥಿತಿಗಳನ್ನು ಹೊರ ಪ್ರಪಂಚಕ್ಕೆ  ಕಿರು ಚಿತ್ರಗಳ ಮೂಲಕ
+  ತಿಳಿಸುವ ಪ್ರಯತ್ನ ಮಾಡಿದ್ದಾರೆ.  ಮೂಲ ಚಲನ ಚಿತ್ರ ಹಂದರವು ತಮ್ಮ ಕಾರ್ಯಯೋಜನೆಗಳಿಗೆ
+  ಸಾಲುವುದಿಲ್ಲ ಎಂದು ಅರಿತು, ದೇಹದಲ್ಲಿ ಭಾವನೆಗಳಿಂದ ಮೂಡುವ ವಿಕಾರಗಳಿಗೆ ರೂಪ ಕೊಡಲು ,
+  ತಂತ್ರಜ್ಞಾನದ ಹೊಸ ಸ್ಥಾವರಗಳನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ.  
 
 
-  Tina has been an Artist-in-Residence in the Department of Neuroimaging at UCL, at the Banff New Media Institute in Canada, the Centre for Contemporary Art in Prague, and many more. Some of the grants she has received include the Arts Queensland Major Grant, the Arts Council England Grant, and the Wellcome Trust Large Art Award.
+   ಟಿನಾ ಅವರು, ಪ್ರೇಗ್‌ ನ ಸಮಕಾಲೀನ ಕಲೆಯ ಕೇಂದ್ರವಾಗಿರುವ , ಕ್ಯನಡಾ ದ ಬ್ಯಾನ್ಫ್‌ ನ್ಯೂ ಮೀಡಿಯಾ ಸಂಸ್ಥೆಯ ಯೂ.ಸಿ.ಎಲ್‌ ಕೇಂದ್ರದಲ್ಲಿ, ನರತಂತು ಚಿತ್ರಣ  ವಿಭಾಗದಲ್ಲಿ ನಿವಾಸಿ ಕಲಾವಿದರಾಗಿದ್ದಾರೆ. ಇವರಿಗೆ , ಆರ್ಟ್ಸ್‌ ಕೌಂಸಿಲ್‌ ಇಂಗ್ಲೆಂಡ್‌ ಅನುದಾನ ಮತ್ತು ವೆಲ್‌ಕಮ್‌ ಟ್ರಸ್ಟ್‌ ಲಾರ್ಜ್‌ ಆರ್ಟ್‌ ಪುರಸ್ಕಾರ ದೊರೆತಿದೆ.
 tervis: https://player.vimeo.com/video/537605670
-tertxt: Video Documentation of background of Chameleon Prototype 09 at Fabrica,
-  Brighton, UK. Courtesy of Philipp Carr.
+tertxt: "ಕೆಮೇಲಿಯನ್‌ ಪೂರ್ವರೂಪದ ಹಿನ್ನೆಲೆಯ ದೃಶ್ಯ ದಾಖಲಾತಿ 09 ಫಾಬ್ರಿಕಾ, ಭ್ರೈಟನ್‌,
+  ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರ. ನೆರವು: ಫಿಲಿಪ್ಪ್‌ ಕ್ಕಾರ್‌ "
 processimages:
   - tervis: /static/img/L_EXHIBIT_TER_VIS_2.jpg
-    tertxt: Step by step explanation of the backend process. Courtesy of Philipp Carr.
+    tertxt: "ನೇಪಥ್ಯದಲ್ಲಿ ನೆಡೆಯುವ ಪ್ರಕ್ರಿಯೆಯ ವಿವಿಧ ಹಂತಗಳ ವಿವರಣೆ : ನೆರವು : ಫಿಲಿಪ್ಪ್‌
+      ಕ್ಕಾರ್‌ "
   - tervis: /static/img/L_EXHIBIT_TER_VIS_3.jpg
-    tertxt: Mind Reader. Testing mind reading equipment. Courtesy of Tina Gonsalves.
+    tertxt: "ಮೈಂಡ್‌ ರೀಡರ್‌, ಮನಸ್ಸನ್ನು ಅರಿಯುವ ಉಪಕರಣದ ಪರೀಕ್ಷೆ, ನೆರವು ಟೀನಾ ಗೋನ್ಸಾಲ್ವಿಸ್‌ "
 terpdf: //e.issuu.com/embed.html?d=secondnature_gonsalves&hideIssuuLogo=true&u=sciencegallerybengaluru
-terpdftxt: "The Chameleon Project, Tina Gonsalves, Nadia Berthouze, Matt
-  Iacobini, SECOND NATURE Issue No.3, March 2010. "
+terpdftxt: "ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್, ಟೀನಾ ಗೋನ್ಸಾಲ್ವಿಸ್‌, ನಾಡಿಯಾ ಬೆರ್ಥ್‌ ಹೌಸ್‌,
+  ಮ್ಯಾಟ್ಟ್‌ ಲ್ಯಾಕೋಬಿನಿ, ಸೆಕೆಂಡ್‌ ನೇಚರ್, ಅಂಕಣ ಸಂ. 3, ಮಾರ್ಚ್‌, 2010. "
 readinglist:
   - quadreadlink: https://www.theguardian.com/science/2021/jan/24/the-five-emotional-contagion
-    quadreadtxt: "Emotional Contagion "
+    quadreadtxt: "ಭಾವನೆಗಳ ಸಾಂಕ್ರಾಮಿಕ "
     quadreadvis: /static/img/L_EXHIBIT_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/kindness-contagion/
-    quadreadtxt: "Kindness Contagion "
+    quadreadtxt: "ಸಾಂಕ್ರಾಮಿಕವಾದ  ದಯೆ , ಕರುಣೆ ಸ್ವಭಾವಗಳು "
     quadreadvis: /static/img/L_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadlink: https://knowledge.wharton.upenn.edu/article/coronavirus-how-emotional-contagion-exacts-a-toll/
-    quadreadtxt: "Coronavirus: How Emotional Contagion Exacts A Toll"
+    quadreadtxt: "ಕರೋನ ವೈರಾಣು:  ಭಾವನಾತ್ಮಕ ಸಾಂಕ್ರಾಮಿಕಗಳಿಗೆ ಭರಿಸಬೇಕಾದ  ತೆರ?"
     quadreadvis: /static/img/L_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.npr.org/2019/07/30/746492622/a-window-into-how-we-are-invisibly-connected-to-one-another
-    quadlisttxt: A Window Into How We Are Invisibly Connected To One Another
+    quadlisttxt: "ನಾವು ಪರಸ್ಪರ ಅಗೋಚರವಾಗಿ ಹೇಗೆ ಹೊಂದಿಕೊಂಡಿರುತ್ತೇವೆ ಎಂಬುದರ ಕಿರು ನಿದರ್ಶನ "
     quadlistvis: /static/img/L_EXHIBIT_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/0f10MLEpkvVh8pmT7hUMQi
-    quadlisttxt: Can You Feel It?
+    quadlisttxt: ನಿಮಗೆ  ಅನುಭೂತಿಯ ಅರಿವಾಗುತ್ತಿದೆಯೇ ?
     quadlistvis: /static/img/L_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=_ZUxWjp1Tu4
-    quadwatchtxt: The Problem of Contagion
+    quadwatchtxt: "ವ್ಯಾಪನಗಳ ಸಮಸ್ಯೆಗಳು "
     quadwatchvis: /static/img/L_eXHIBIT_QUA_WATCHVIS_1.jpg
-  - quadwatchtxt: When Emotions Are Contagious
+  - quadwatchtxt: "ಭಾವನೆಗಳು ಸಾಂಕ್ರಾಮಿಕವಾದಾಗ "
     quadwatchlink: https://www.youtube.com/watch?v=VW1PH6B9p20
     quadwatchvis: /static/img/L_EXHIBIT_QUA_WATCHVIS_2.jpg
 play:
