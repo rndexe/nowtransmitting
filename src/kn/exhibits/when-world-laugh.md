@@ -2,7 +2,7 @@
 layout: when-world-laugh
 authortype: Team
 thumb: /static/img/D_Exhibit_Thumbnail.jpg
-title: "When the World Was A Laugh"
+title: When the World Was A Laugh
 subtitle: Decoding the mechanics of a universal experience
 medium: Speculative fiction, participative collection, video installation
 year: "2021"
@@ -58,57 +58,56 @@ exhibitauthor:
     authorimage: /static/img/d_exhibit_sec_vis_2.jpg
 processimages:
   - tervis: /static/img/d_exhibit_ter_vis_1.jpg
-    tertxt: Mind Map, Work in progress. Courtesy of Anaïs Tondeur.
+    tertxt: ಮೈಂಡ್‌ ಮ್ಯಾಪ್‌, ಪ್ರಗತಿಯಲ್ಲಿರುವ ಕಾರ್ಯ |  ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ರ ಕೊಡುಗೆ .
   - tervis: /static/img/d_exhibit_ter_vis_2.jpg
-    tertxt: Mind Map, Work in progress.  Courtesy of Anaïs Tondeur.
+    tertxt: "ಮೈಂಡ್‌ ಮ್ಯಾಪ್‌, ಪ್ರಗತಿಯಲ್ಲಿರುವ ಕಾರ್ಯ |  ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ರ ಕೊಡುಗೆ. "
   - tervis: /static/img/d_exhibit_ter_vis_3.jpg
-    tertxt: View from the Studio, Work in progress. Courtesy of Anaïs Tondeur.
+    tertxt: ವ್ಯೂ ಫ್ರಂ ದಿ ಸ್ಟೂಡಿಯೋ, ಪ್ರಗತಿಯಲ್ಲಿರುವ ಕಾರ್ಯ |  ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ರ ಕೊಡುಗೆ.
   - tervis: /static/img/d_exhibit_ter_vis_4.jpg
-    tertxt: "Shapes of laughs: Sketch for attempt of typology, Work in progress.
-      Courtesy of Anaïs Tondeur."
+    tertxt: "ಶೇಪ್ಸ್‌ ಆಫ್‌ ಲಾಫ್ಸ್: ಮುದ್ರಣವನ್ನು ಹೋಲುವ ಹಸ್ತಚಿತ್ರ, ಪ್ರಗತಿಯಲ್ಲಿರುವ ಕಾರ್ಯ
+      |  ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ರ ಕೊಡುಗೆ. "
   - tervis: /static/img/d_exhibit_ter_vis_5.jpg
-    tertxt: Formation of a landscape under the vibrations of a laugh, Experiment 4.
-      Courtesy of Anaïs Tondeur.
+    tertxt: ಫಾರ್ಮೇಶನ್‌ ಆಫ್‌ ಎ ಲ್ಯಾಂಡ್‌ ಸ್ಕೇಪ್‌ ಅಂಡರ್‌ ದಿ ವೈಬ್ರೇಶನ್ಸ್‌ ಆಫ್‌ ಎ ಲಾಫ್‌,
+      ಪ್ರಯೋಗ 4. ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ರ ಕೊಡುಗೆ.
   - tervis: /static/img/d_exhibit_ter_vis_6.jpg
-    tertxt: "Moving grains of soil under the vibrations of a laugh, #Expérimentation
-      15. Courtesy of Anaïs Tondeur."
+    tertxt: "ಮೂವಿಂಗ್‌ ಗ್ರೇನ್ಸ್‌ ಆಫ್‌ ಸೋಯಿಲ್‌ ಅಂಡರ್‌ ದಿ ವೈಬ್ರೇಶನ್ಸ್‌ ಆಫ್‌ ಎ ಲಾಫ್,
+      #ಪ್ರಯೋಗ 15. ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ರ ಕೊಡುಗೆ."
   - tervis: /static/img/d_exhibit_ter_vis_7.jpg
-    tertxt: "Reference: Orogenesis in The photography of nature, Joan Foncuberta.
-      Courtesy of Anaïs Tondeur. "
+    tertxt: "ಸಂದರ್ಭ: ಓರೋಜೆನೆಸಿಸ್‌ ಇನ್‌ ಫೋಟೋಗ್ರಫಿ ಆಫ್‌ ನೇಚರ್‌, ಜೋನ್‌
+      ಫಾಂಕುಬರ್ಟ  |  ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ರ ಕೊಡುಗೆ."
   - tervis: /static/img/d_exhibit_ter_vis_8.jpg
-    tertxt: "View from the studio. Courtesy of Anaïs Tondeur "
+    tertxt: ವ್ಯೂ ಫ್ರಂ ದಿ ಸ್ಟೂಡಿಯೋ, ಪ್ರಗತಿಯಲ್ಲಿರುವ ಕಾರ್ಯ |  ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ರ ಕೊಡುಗೆ.
   - tervis: /static/img/d_exhibit_ter_vis_9.jpg
-    tertxt: "Investigation notes or sketch for a sound score. Courtesy of Anaïs
-      Tondeur. "
+    tertxt: "ಶಬ್ದ ತರಂಗಗಳ ಸಂಶೋಧಕ ಟಿಪ್ಪಣಿಗಳು / ಸ್ಕೆಚ್‌ . ಕೊಡುಗೆ: ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ "
   - tervis: /static/img/d_exhibit_ter_vis_10.jpg
-    tertxt: "Retracing the diffusion of a laugh. Courtesy of Anaïs Tondeur. "
+    tertxt: "ನಗು ಲಹರಿಗಳ ಪ್ರಸಾರಣ ಕುರಿತ ರೂಪಚಿತ್ರ , ಕೊಡುಗೆ: ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್"
 readinglist:
-  - quadreadtxt: Laughter Makes Bad Jokes Funnier
+  - quadreadtxt: ನಗುವು, ಕೆಟ್ಟ ಹಾಸ್ಯಗಳನ್ನು ಇನ್ನಷ್ಟು ತಮಾಷೆಯಾಗಿಸುತ್ತದೆ
     quadreadlink: https://www.smithsonianmag.com/smart-news/ha-ha-study-shows-laugh-tracks-make-dad-jokes-funnier-180972718/
     quadreadvis: /static/img/D_EXHIBIT_READVIS_1.jpg
   - quadreadlink: https://aeon.co/essays/for-henri-bergson-laughter-is-what-keeps-us-elastic-and-free
-    quadreadtxt: "Laughter is Vital "
+    quadreadtxt: ನಗುವು ಬಹು ಮುಖ್ಯ
     quadreadvis: /static/img/D_EXHIBIT_READVIS_2.jpg
   - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4779443/
-    quadreadtxt: "Putting Laughter in Context: Shared Laughter as Behavioral
-      Indicator of Relationship Well-Being"
+    quadreadtxt: "ಸಂಧರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಹಾಸ್ಯ ಸೃಷ್ಠಿ : ಎಲ್ಲರೊಡಗೂಡಿ ನಗುವುದು, ಸಂಬಂಧಗಳ
+      ಗಾಢತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
     quadreadvis: /static/img/D_EXHIBIT_READ_VIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.wnycstudios.org/podcasts/radiolab/segments/91593-how-does-laughing-affect-us
-    quadlisttxt: How does Laughing Affect Us?
+    quadlisttxt: "ನಗುವಿನಿಂದಾಗಿ ನಮ್ಮ ಮೇಲೆ ಆಗುವ ಪರಿಣಾಮಗಳು "
     quadlistvis: /static/img/D_EXHIBIT_LISTVIS_1.jpg
-  - quadlisttxt: "Podcast: Contagious Behaviour"
+  - quadlisttxt: ಸಾಂಕ್ರಾಮಿಕ ಸ್ವಭಾವಗಳು
     quadlistvis: /static/img/D_EXHIBIT_LISTVIS_2.jpg
     quadlistlink: https://www.abc.net.au/radionational/programs/allinthemind/contagious-behaviour/12046090
 watchinglist:
-  - quadwatchtxt: How Psychology Can Explain the Deadly Medieval Dancing Plague
+  - quadwatchtxt: ಮಧ್ಯ ಕಾಲೀನ ಮಾರಣಾಂತಕ ಪ್ಲೇಗ್‌ ಅನ್ನು ಮನಃಶಾಸ್ತ್ರದ ಮೂಲಕ ಹೇಗೆ ವಿವರಿಸ ಬಹುದು.
     quadwatchlink: https://www.youtube.com/watch?v=yHVTgZw7geY
     quadwatchvis: /static/img/D_EXHIBIT_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=ayYqRM_SdcA
-    quadwatchtxt: Can’t Live With Them, Can’t Live Without Them
+    quadwatchtxt: ಅವುಗಳೊಂದಿಗ ಬದುಕಲಾರೆವು, ಅವುಗಳಿಲ್ಲದೆ ಬದುಕಲಾರೆವು
     quadwatchvis: /static/img/D_EXHIBIT_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=hhlHx5ivGGk&t=39s
-    quadwatchtxt: Making A Chimp Laugh
+    quadwatchtxt: "ಚಿಂಪಾಜಿಯನ್ನು ನಗಿಸುವ ಬಗೆ "
     quadwatchvis: /static/img/D_EXHIBIT_WATCHVIS_3.jpg
 play:
   - quadplaylink: https://everymoviecough.com/game.html
