@@ -1,7 +1,9 @@
 <section id="about" class="w-auto max-w-screen h-full flex-none bg-white">
 		<div class="h-full flex flex-row pt-36">
 			<div class="h-full flex-initial w-240">
+				{% if description %}
 				<pre class="text-base xl:text-lg ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">{{description | markdownify | safe }}</pre>
+				{% endif %}
 			</div>
 
 			{% if quote %}
