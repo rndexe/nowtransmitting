@@ -2,7 +2,7 @@
 layout: theriak
 authortype: Team
 thumb: /static/img/E_Exhibit_Thumbnail.jpg
-title: "THERIAK | The Disease Map"
+title: THERIAK | The Disease Map
 subtitle: Mapping the ebb and flow of diseases
 medium: Time-lapse film of Vibrio cholerae interacting with synthetic peptides
   across a map of Basel by engraver Matthäus Merian (1593-1650). 5 min. 3 sec.
@@ -22,8 +22,9 @@ description: >-
 
   The protocols for this work were designed through collaborative and experimental work with Dr Irene Wüthrich and Dr Steven Schmitt from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich. Through observational inquiry and collaborative discussion while working at the D-BSSE, the artist learnt about contemporary synthetic biological approaches to fighting infectious diseases. Whilst critically reflecting on these approaches, she worked closely with scientists to develop new ideas and practical experiments that combined both scientific and artistic practice.
 privis: https://player.vimeo.com/video/537297813
-pritxt: "Time-lapse film of Vibrio cholerae interacting with synthetic peptides
-  across a map of Basel by engraver Matthäus Merian (1593-1650). 2019. 5’ 3’’. "
+pritxt: "ʼಕಾಲ ಕಳೆದಂತೆʼ, ʼಟೈಮ್‌ ಲ್ಯಾಪ್ಸ್‌, ಫಿಲಮ್‌ ಆಫ್‌ ವಿಬ್ರಿಯೋ ಖಲೆರೇʼ ಸಂಸ್ಕರಿಸಿದ
+  ಪೆಪಟೈಡ್ ಗಳೊಂದಿಗೆ, ಬ್ಯಾಸೆಲ್‌ ಅವರ ನಕ್ಷೆ ಯ ಮೂಲಕ , ಎನ್ಗ್ರೇವರ್‌ ಮಾಟ್ಹೂಸ್‌ ಮೆರಿಯನ್‌
+  (1593-1650). 2019. 5’ 3’’. "
 exhibitauthor:
   - authorimage: /static/img/E_EXHIBIT_SEC_VIS_1.jpg
     authorname: Sarah Craske
@@ -66,29 +67,34 @@ exhibitauthor:
     authorimage: /static/img/e_exhibit_sec_vis_3.jpg
 processimages:
   - tervis: /static/img/E_EXHIBIT_TER_VIS_1.jpg
-    tertxt: "Disease Map installation. Courtesy of Sarah Craske. "
+    tertxt: "ರೋಗ ನಕ್ಷೆಯ ಚಿತ್ರರೂಪ ವಿನ್ಯಾಸ. ಕೊಡುಗೆ: ಸಾರಾ ಕ್ರಾಸ್ಕ್, "
   - tervis: /static/img/e_exhibit_ter_vis_3.jpg
-    tertxt: "Steven teaching Sarah how to prepare for the MIC Assay, which tested
-      the efficacy of her peptides against vibrio cholerae and e-coli. Courtesy
-      of Sarah Craske. "
+    tertxt: "ಡಾ. ಸ್ಟೇವನ್‌ ಅವರು ಎಂ.ಐ.ಸಿ ಆಸ್ಸೆ ಮಿಶ್ರಣದ ತಯಾರಿಕೆನ್ನು ಸರಾಹ್‌ ಗೆ
+      ತಿಳಿಸುತ್ತಿರುವ ದೃಶ್ಯ, ಸರಾಹ್‌ ಅವರು ಸಂಸ್ಕರಿಸಿದ ಪೆಪ್ಟೈಡ್‌ ಗಳು, ವಿಬ್ರಿಯೋ ಖಾಲೆರೇ
+      ಮತ್ತು ಈ-ಕೋಲಿ ಸೂಕ್ಷ್ಮಾಣುಗಳ ವಿರುದ್ಧ ಎಷ್ಟು ಪರಿಣಾಮಕಾರಿ ಎಂದು ಪರೀಕ್ಷಿಸುವ
+      ವಿಧಾನ.  ಕೊಡುಗೆ: ಸಾರಾ ಕ್ರಾಸ್ಕ್, ."
   - tervis: /static/img/e_exhibit_ter_vis_4.jpg
-    tertxt: "BioSafety Level 2 Lab at the D-BSSE, ETH Zurich. Courtesy of Sarah
-      Craske. "
+    tertxt: "ಡಿ-ಬಿ.ಎಸ್.ಎಸ್.ಈ, ಈ.ಟಿ.ಎಚ್‌, ʼಜೂರಿಚ್ʼನಲ್ಲಿರುವ ಜೈವಿಕ ಸುರಕ್ಷತೆ ಹಂತ- 2
+      ಪ್ರಯೋಗಾಲಯ. ಕೊಡುಗೆ: ಸಾರಾ ಕ್ರಾಸ್ಕ್, "
   - tervis: /static/img/e_exhibit_ter_vis_5.jpg
-    tertxt: Testing the engraving on different plastics prior to making the final
-      Petri dish. Courtesy of Sarah Craske.
+    tertxt: " ಪೆಟ್ರಿಡಿಶ್‌ ಪದಾರ್ಥವನ್ನು ಅಂತಿಮಗೊಳಿಸುವ ಮುನ್ನ ಚಿತ್ರ ಕೆತ್ತನೆಯನ್ನು ವಿವಿಧ
+      ಪ್ಲಾಸ್ಟಿಕ್‌ ಪದಾರ್ಥಗಳ ಮೇಲೆ ಪರೀಕ್ಷಿಸಿದ್ದಾರೆ. ಕೊಡುಗೆ: ಸಾರಾ ಕ್ರಾಸ್ಕ್, "
   - tervis: /static/img/e_exhibit_ter_vis_6.jpg
-    tertxt: "Vibrio cholerae was painted onto the surface of the agar plate, which
-      included resazurin and garlic extract. Courtesy of Sarah Craske. "
+    tertxt: "(ಪೆಟ್ರಿ ಡಿಶ್)  ‌ʼಅಗರ್ʼ ದ್ರವದ ಜೊತೆಗೆ, ʼರೆಸಜುರಿನ್‌ʼಬಣ್ಣ‌ ಮತ್ತು ಬೆಳ್ಳುಳ್ಳಿ
+      ರಸದೊಂದಿಗೆ ಖಾಲೆರಾ ಸೂಕ್ಷ್ಮಾಣುವಿನ ರೋಗ ನಕ್ಷೆಯ ಚಿತ್ರರೂಪವನ್ನು
+      ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಕೊಡುಗೆ: ಸಾರಾ ಕ್ರಾಸ್ಕ್, "
   - tervis: /static/img/e_exhibit_ter_vis_7.jpg
-    tertxt: The final Petri dish, engraved with the map and placed on a flatbed
-      scanner under the flow hood. Courtesy of Sarah Craske.
+    tertxt: "ಎಲ್ಲ ಪದಾರ್ಥಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಪೆಟ್ರಿ ಡಿಶ್ ಮೇಲೆ ಚಿತ್ರಕೆತ್ತನೆಯನ್ನು ರಚಿಸಿ
+      ಫ್ಲಾಟ್ ಬೆಡ್‌ ಸ್ಕ್ಯಾನರ್ ನ ಫ್ಲೋ‌ ಹುಡ್‌ ಕೆಳಗೆ ಇರಿಸಲಾಗಿದೆ. ಕೊಡುಗೆ: ಸಾರಾ
+      ಕ್ರಾಸ್ಕ್, "
   - tervis: /static/img/e_exhibit_ter_vis_8.jpg
-    tertxt: The vibrio cholerae begins to grow on the agar plate, and a scan is
-      taken every 10 minutes. Courtesy of Sarah Craske.
+    tertxt: "ʼಅಗರ್ʼ ದ್ರಾವಣದ ಮೇಲೆ ಖಾಲೆರಾ ಸೂಕ್ಷ್ಮಾಣುವಿನ ಬೆಳವಣಿಗೆ ಪ್ರಕ್ರಿಯೆ, ಪ್ರತಿ 10
+      ನಿಮಿಷಗಳಿಗೆ ಒಮ್ಮೆ ಸ್ಕ್ಯಾನ್‌ ಛಾಯಾಚಿತ್ರವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ. ಕೊಡುಗೆ: ಸಾರಾ
+      ಕ್ರಾಸ್ಕ್, "
 terpdf: //e.issuu.com/embed.html?d=2018theriak_biofactionresidencyreport_-_studio_sar&u=sciencegallerybengaluru
-terpdftxt: "THERIAK: An Artist in Residence in the Bioprocess Laboratory (BPL),
-  ETH Zürich in Basel, Switzerland. Courtesy of Sarah Craske"
+terpdftxt: "ಥೇರಿಯಾಕ್‌  ಬಯೋ ಪ್ರೋಸೆಸ್‌ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿರುವ (ಬಿ.ಪಿ.ಎಚ್)‌, ನಿವಾಸಿ
+  ಕಲಾವಿದರು.  ಈ.ಟಿ.ಎಚ್‌, ಜೂರಿಚ್, ಬಸೆಲ್‌, ಸ್ವಿಟ್ಜರ್‌ ಲ್ಯಾಂಡ್‌. ಕೊಡುಗೆ: ಸಾರಾ
+  ಕ್ರಾಸ್ಕ್, "
 readinglist:
   - quadreadtxt: "The Topography of Disease "
     quadreadlink: https://blogs.scientificamerican.com/observations/the-topography-of-disease/
