@@ -3,7 +3,7 @@ layout: plague-british-india
 featured: false
 authortype: Scholar
 thumb: /static/img/A_Exhibit_Thumbnail.jpg
-title: "Controlling the Plague in British India"
+title: Controlling the Plague in British India
 subtitle: "A Visual History of the Plague "
 medium: Photographs
 year: 1896 – 1898
@@ -140,26 +140,26 @@ authorbio: >-
   Funded by the Wellcome Trust with an Investigator Award in the Humanities and Social Sciences, Christos’s new project, The Global War Against the Rat and the Epistemic Emergence of Zoonosis (2019-2024), will examine the global history of a foundational but historically neglected process in the development of scientific approaches to zoonosis: the global war against the rat (1898-1948). 
 readinglist:
   - quadreadlink: https://www.theatlantic.com/international/archive/2021/02/where-are-iconic-images-covid-19-pandemic/618036/?utm_source=pocket-newtab-global-en-GB
-    quadreadtxt: Where are the iconic images of the COVID-19 pandemic?
+    quadreadtxt: ಕೋವಿಡ್-19‌  ರೋಗ ಪಿಡುಗಿನ ಅಪ್ರತಿಮ ವ್ಯಕ್ತಿಗಳು ಎಲ್ಲಿದ್ದಾರೆ?
     quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_1.jpg
-  - quadreadtxt: Plague panic and epidemic politics in India, 1896–1914
+  - quadreadtxt: ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ಭೀತಿ ಮತ್ತು ರೋಗ ರಾಜಕೀಯ, 1896–1914
     quadreadlink: https://www.cambridge.org/core/books/epidemics-and-ideas/plague-panic-and-epidemic-politics-in-india-18961914/0C7AD36256D3711FF139E179A43E5E92
     quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_2.jpg
-  - quadreadtxt: Photography and the Unseen
+  - quadreadtxt: ಅಗೋಚರ ಮತ್ತು ಛಾಯಾಗ್ರಹಣ
     quadreadlink: https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/var.12174
     quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://soundcloud.com/user-37146541-886167096/christos-lynteris-march-2018
-    quadlisttxt: Visual Representations of the Third Plague Pandemic
+    quadlisttxt: ಮೂರನೇ ಬಾರಿಯ ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗಿನ ದೃಶ್ಯ ಪ್ರತಿಬಿಂಬಗಳು
     quadlistvis: /static/img/A_EXHIBIT_QUA_LISTVIS_1.jpg
-  - quadlisttxt: Plague Years
+  - quadlisttxt: ಪ್ಲೇಗ್‌  ವರ್ಷಗಳು
     quadlistlink: https://anchor.fm/terry-shoemaker/episodes/Episode-4---How-Tribal-Communities-Have-Dealt-with-the-Pandemic-elqe84?fbclid=IwAR2Ht5Mteg-VRjnygYDrIQiLHMXqbWn5EXvmBNQaU-hELxrZrys7_QIwI_4
     quadlistvis: /static/img/A_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.museumoflondon.org.uk/museum-london/whats-on/exhibitions/disease-x
-    quadwatchtxt: "Disease X: London’s Next Epidemic?"
+    quadwatchtxt: "ರೋಗ ಎಕ್ಸ್‌ : ಲಂಡನ್‌ ನ ಮುಂದಿನ ರೋಗ ಪಿಡುಗು?"
     quadwatchvis: /static/img/A_EXHIBIT_QUA_WATCHVIS_1.jpg
-  - quadwatchtxt: Politics and Aesthetics of a Post-Pandemic Condition
+  - quadwatchtxt: "ರೋಗ ಪಿಡುಗಿನ ನಂತರದ ಸ್ಥಿತಿ-ಗತಿಗಳು ಮತ್ತು ರಾಜಕೀಯ "
     quadwatchlink: https://www.youtube.com/watch?v=aPowJrioMAc&ab_channel=CEFCHongKong
     quadwatchvis: /static/img/A_EXHIBIT_QUA_WATCHVIS_2.jpg
 eventlist:
