@@ -30,7 +30,7 @@ exhibitimages1:
     privis: /static/img/O_EXHIBIT_PRI_VIS_8.jpg
 layout: contagion-21st-century
 thumb: /static/img/O_Exhibit_Thumbnail.jpg
-title: "Contagion in the 21st Century"
+title: Contagion in the 21st Century
 subtitle: Tracing the movement of microbes over the years
 medium: Text, Images, and Simulation
 exhibitimages2:
@@ -46,7 +46,7 @@ exhibitimages2:
       understanding how to protect yourself and others. The text in the photo
       stems from an RKI-Document about the SARSCoV- 2 pathogen which is updated
       on a regular basis.
-    privis: /static/img/O_EXHIBIT_PRI_VIS_13.jpg
+    privis: /static/img/png-image-e78c2d0c3a2d-1.png
 quadreadvis: ""
 authortype: Team
 year: "2019"

@@ -2,7 +2,7 @@
 layout: bombay-plague
 authortype: Artist
 thumb: /static/img/C_Exhibit_Thumbnail.jpg
-title: "Drawing the Bombay Plague"
+title: Drawing the Bombay Plague
 subtitle: An alternate imagination of the Bombay Plague
 medium: Drawing and digital work
 year: "2017"
@@ -39,7 +39,7 @@ authorbio: >-
 
 
   Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, the Wellcome Trust Seed Funding Award and the Gasworks Artist Residency.
-tervis: https://player.vimeo.com/video/537285108
+tervis: https://www.youtube.com/embed/OS7CUd_jiCI
 tertxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar. Courtesy of the
   Wellcome Collection. "
 readinglist:
