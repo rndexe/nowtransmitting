@@ -3,7 +3,7 @@ layout: 2020-vision
 featured: true
 authortype: Artist
 thumb: /static/img/B_Exhibit_Thumbnail.jpg
-title: "2020 Vision"
+title: 2020 Vision
 subtitle: Disentangling the Web of Information
 medium: Google News headlines, Google email alerts, Python code
 year: "2019"
@@ -16,8 +16,8 @@ description: >-
 
   In 2020 Vision, the artist attempts to externalise some of this information using animations of various headlines, which reflect back a sense of anxiety as we are bombarded with questions, some trivial and some vitally important. These animations grow on the screen like a virus in a Petri dish before gradually receding again. 
 privis: https://player.vimeo.com/video/537188834
-pritxt: "What does the future hold? Our anxieties are interrogated through an
-  array of Google News headlines. 2019. Text animation, 2'07\". "
+pritxt: "ಭವಿಷ್ಯದಲ್ಲಿ ಏನು ಕಾದಿದೆ ?  2019ರ ಸಾಲಿನ ಗೂಗಲ್‌ ವಾರ್ತಾ ಸರಣಿಯ ಶೀರ್ಷಿಕೆಗಳು,
+  ನಮ್ಮ ಕಾತುರತೆಯ ಪ್ರಶ್ನೆಗಳಾಗಿಯೇ ಇವೆ.  ಟೆಕ್ಸ್ ಟ್‌  ಆನಿಮೇಶನ್‌, 2'07\". "
 authorimage: /static/img/B_EXHIBIT_SEC_VIS_1.jpg
 authorname: Robert Good
 authorbio: >-
@@ -30,31 +30,31 @@ authorbio: >-
   Recurring themes in his work include the limitations of language, the problems of knowledge, and the transition from analogue to digital. He has an ongoing interest in the astronomical sublime. His previous works include 3000 definitions of “Art” for A New Dictionary of Art and 13,000 news headlines for BREAKING. Future projects include Dr Good Investigates... What Is Reality? at Science Gallery Rotterdam in November 2020, and Bookworks at UWE, Bristol in 2021.
 processimages:
   - tervis: /static/img/B_EXHIBIT_TER_VIS_1.jpg
-    tertxt: "Vision Cell. Courtesy of Robert Good. "
+    tertxt: "ವಿಶನ್‌ ಸೆಲ್‌ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌ ಅವರ ಕೊಡುಗೆ. "
   - tervis: /static/img/B_EXHIBIT_TER_VIS_2.jpg
-    tertxt: "Vision Cell. Courtesy of Robert Good. "
+    tertxt: "ವಿಶನ್‌ ಸೆಲ್‌ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌ ಅವರ ಕೊಡುಗೆ. "
   - tervis: /static/img/B_EXHIBIT_TER_VIS_3.jpg
-    tertxt: "Vision Cell. Courtesy of Robert Good. "
+    tertxt: "ವಿಶನ್‌ ಸೆಲ್‌ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌ ಅವರ ಕೊಡುಗೆ. "
   - tervis: /static/img/B_EXHIBIT_TER_VIS_4.jpg
-    tertxt: "Internet schema. Courtesy of Robert Good. "
+    tertxt: ಇಂಟರ್ನೆಟ್‌ ಸ್ಕೀಮಾ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌ ಅವರ ಕೊಡುಗೆ.
   - tervis: /static/img/B_EXHIBIT_TER_VIS_5.jpg
-    tertxt: "Internet schema. Courtesy of Robert Good. "
+    tertxt: "ಪೈಥಾನ್‌ ಕೋಡ್‌ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌ ಅವರ ಕೊಡುಗೆ. "
 readinglist:
-  - quadreadtxt: Artists Explore New Ways of Knowing in a Time of Information Overload
+  - quadreadtxt: ಮಾಹಿತಿ ಸ್ಫೋಟದ ನಡುವೆ ಕಲಾವಿದರು ಹೊಸ ಚಿಂತನೆಗಳನ್ನು ಮಾಡುತ್ತಿದ್ದಾರೆ.
     quadreadlink: https://www.nature.com/articles/d41586-020-01605-0
     quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_1.jpg
-  - quadreadtxt: "Art Installation: Cacophony"
+  - quadreadtxt: "ಕಲಾ ಸಂರಚನೆ: ಕ್ಯಾಕೊಫೋನಿ "
     quadreadlink: https://www.studio-nomad.com/in_between/cacophony
     quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadlink: https://www.scientificamerican.com/article/how-do-internet-search-en/
-    quadreadtxt: How Do Internet Search Engines Work?
+    quadreadtxt: ಅಂತರ್ಜಾಲ ಅನ್ವೇಷಣ ಸಾಧನಗಳು ಹೇಗೆ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತವೆ ?
     quadreadvis: /static/img/B_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/63tmp1kBFxuo1Se5aEQ7hn
-    quadlisttxt: "You’re Being Watched: Pandemic Capitalism"
+    quadlisttxt: "ನಿಮ್ಮನ್ನು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ: ರೋಗ ಪಿಡುಗು ಹೂಡಿಕೆ "
     quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.leadinglearning.com/podcast-episode-51-jonah-berger/
-    quadlisttxt: Getting Contagious-And Curious
+    quadlisttxt: "ವ್ಯಾಪಕವಾಗಿ ಆವರಿಸುವ ಕೌತುಕತೆ "
     quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Q4mTlRUbWwM
