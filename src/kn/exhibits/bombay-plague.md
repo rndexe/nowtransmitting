@@ -1,44 +1,41 @@
 ---
 layout: bombay-plague
-authortype: Artist
+authortype: ಕಲಾವಿದರು
 thumb: /static/img/C_Exhibit_Thumbnail.jpg
-title: Drawing the Bombay Plague
-subtitle: An alternate imagination of the Bombay Plague
-medium: Drawing and digital work
+title: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಚಿತ್ರಾಕೃತಿ
+subtitle: "ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ನ ಪರ್ಯಾಯ ಪರಿಕಲ್ಪನೆ "
+medium: ಚಿತ್ರಕಲೆ ಮತ್ತು ಡಿಜಿಟಲ್‌ ಚಿತ್ರಾಕೃತಿ
 year: "2017"
 description: >-
-  The Bombay Plague of 1896 marked a turning point in disease control in India.
-  Strict, authoritarian measures were imposed by a colonial administration that
-  was worried that the plague would spread back to Europe via its trade routes.
-  In Drawing the Bombay Plague, the artist combines imagery from two
-  collections: photographs from the Wellcome Collection and satirical cartoons
-  from HindiPunch, a local monthly magazine held at the Asiatic Library in
-  Mumbai. In the work, he encapsulates the various imaginations of the plague
-  that affected Bombay and attempts to give under-represented facts, figures,
-  and people a voice. 
+  1896 ರ ಬಾಂಬೆ ಪ್ಲೇಗ್‌, ಭಾರತದಲ್ಲಿಯೇ ಹೊಸ ತಿರುವಿಗೆ ನಾಂದಿ ಹಾಡಿತು.  ವ್ಯಾಪಾರ ಮಾರ್ಗಗಳ
+  ಮೂಲಕ ಪ್ಲೇಗ್‌ ರೋಗವು ಯೂರೋಪ್‌ ಖಂಡವನ್ನು ತಲುಪ ಬಹುದು ಎಂಬ ಭೀತಿಯಿಂದ,  ಅಂದಿನ ಬ್ರಿಟಿಷ್‌
+  ಸರ್ಕಾರಿ ಅಧಿಕಾರಿಗಳು, ಜನ ಸಮುದಾಯಕ್ಕೆ ಅನ್ವಯಿಸುವಂತಹ    ನಿಷ್ಠುರ ಕ್ರಮಗಳನ್ನು
+  ರೂಪಿಸಿದ್ದರು. ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌  ಅವರು, ವೆಲ್ಲ್ ಕಮ್‌ ಸಂಗ್ರಹಣೆಯ ಛಾಯಾಚಿತ್ರಗಳು
+  ಮತ್ತು ಮುಂಬಯಿನ ಏಶಿಯಾಟಿಕ್‌ ಗ್ರಂಥಾಲಯದಲ್ಲಿ ಸಂರಕ್ಷಿಸಲಾದ ಮಾಸಿಕ ಪತ್ರಿಕೆ ʼಹಿಂದಿ ಪಂಚ್‌ʼ
+  ಇಂದ ಆಯ್ದ ವ್ಯಂಗ್ಯ ಚಿತ್ರಗಳನ್ನು ಆಧಾರವಾಗಿ ಇಟ್ಟುಕೊಂಡು,  ಬಾಂಬೆ ಪ್ಲೇಗ್ ನ ಪ್ರತಿಕೃತಿ
+  ಚಿತ್ರಣವನ್ನು ರೂಪಿಸಿದ್ದಾರೆ. ತಮ್ಮ ಕಲ್ಪನೆಯಿಂದ, ಈ ಚಿತ್ರಣದಲ್ಲಿ, ಪ್ಲೇಗ್‌ ರೋಗಕ್ಕೆ
+  ಅನ್ವಯಿಸುವಂತೆ, ಜನ ಸಮುದಾಯಲ್ಲಿಯೇ ಹುದುಗಿ ಹೋದ,  ಕಡೆಗಣಿಸಲಾಗಿದ್ದ ಹಲವು ಸತ್ಯ ತಥ್ಯಗಳು
+  ಅಂಕಿ ಅಂಶಗಳನ್ನು ಬೆಳಕಿಗೆ ತಂದಿದ್ದಾರೆ. 
 
 
-  The work aims to highlight how misconceptions or myths about disease persist in the public’s experience of it through fear, fantasy, paranoia, and rumours. Interspersed are misplaced technological know-how and statistical data on plague measures produced by the authorities to shock subjects into submission, albeit with varying results. Hence, the artist imagines the drawing as a record that can be accessed to view the plague through a new lens, and studied in years to come by researchers as a validation of some of the lesser known aspects of the plague years.
-
-
-  The project was originally commissioned by Wellcome Collection as part of the Wellcome/Gasworks Residency collaboration for the 'Ayurvedic Man' show in London 2017 curated by Bárbara Rodríguez Muñoz.
+  2017 ರಲ್ಲಿ,  ಲಂಡನ್ ನಲ್ಲಿ, ವೆಲ್ಲ್‌ಕಮ್‌ / ಗ್ಯಾಸ್‌ ವರ್ಕ್ಸ್‌ ಸಹಯೋಗದೊಂದಿಗೆ ಬರ್ಬರಾ ರೋಡ್ರಿಸ್‌ ಮುನೌಫ್‌ ,‌ ಸಂಯೋಜಿಸಿದ ʼಆಯುರ್ವೇದಿಕ್‌ ಮ್ಯಾನ್”‌ ಪ್ರದರ್ಶನದ ಅಂಗವಾಗಿ ವೆಲ್ಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆಯ ಮೂಲಕ ಈ ಕಾರ್ಯಕ್ರಮವನ್ನು ಮೂಲತಃ ಆಯೋಜಿಸಲಾಗಿತ್ತು.
 privis: https://player.vimeo.com/video/545825411
 pritxt: https://bombayplague.nowtransmitting.com/
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
-authorname: Ranjit Kandalgaonkar
+authorname: "ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ "
 authorbio: >-
-  Ranjit Kandalgaonkar lives and works in Mumbai,and his art practice primarily
-  comprises a lens directed at the urban context of cities. Projects such as
-  cityinflux, Gentricity, build/browse and Stories of Philanthropic Trusts map
-  vulnerability within redevelopment strategies of urbanisation, record
-  anomalous histories, or document timelines  and “blindspots”— alternate
-  markers of a city that’s unraveling. Modelled Recycled Systems is a
-  long-term  project on shipping infrastructures of the late 20th century.
-  Projects such as Isles amidst reclamation and Seven Isles Unclaimedmap
-  ever-diminishing geographies due to reclamation. 
+  ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ ಅವರು ಮುಂಬೈನ ನಿವಾಸಿ. ಇಲ್ಲಿಯೇ ಅವರು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.
+  ನಗರಗಳಲ್ಲಿ ನಗರೀಕರಣದ ಕುರಿತಂತೆ ಅಧ್ಯಯನ ಮಾಡುತ್ತಿದ್ದಾರೆ.  ಸಿಟಿಇನ್‌ ಫ್ಲಕ್ಸ್‌,
+  ಜೆಂಟ್ರಿಸಿಟಿ, ಬಿಲ್ಡ್ / ಬ್ರೌಸ್‌ ಮತ್ತು ಸ್ಟೋರೀಸ್‌ ಆಫ್‌ ಫಿಲಾಂಟ್ರೋಪಿಕ್‌ ಟ್ರಸ್ಟ್ಸ್‌
+  ಮುಂತಾದ ಕೃತಿಗಳು, ನಗರೀಕರಣದ ಪುನರ್ವಿಕಾಸದೆಡೆಗೆ ಹಾದಿಗಳನ್ನು ತೋರುತ್ತವೆ.  ವಿಚಿತ್ರ
+  ಇತಿಹಾಸಗಳ ಸಂಕಲನಕಾರ್ಯ, ವಿಭಿನ್ನ ಕಾಲಾವಧಿಯಲ್ಲಿನ, ಕುಂದುಕೊರತೆಗಳನ್ನು ದಾಖಲಿಸಿವೆ,
+  ವಿಕಸನಗೊಳ್ಳುತ್ತಿರುವ ನಗರಗಳಿಗೆ ವಿಕಲ್ಪ ಮಾರ್ಗವನ್ನು ಸೂಚಿಸುತ್ತವೆ.  ಸದಾಕಾಲ
+  ಕುಂದುತ್ತಿರುವ ಭೂಗೋಳದ ಬಗ್ಗೆ ವಿವರಣೆ ನೀಡಿರುವ ʼಐಲ್ಸ್‌ ಅಮಿಡ್ಸ್ಟ್‌ ರಿಕ್ಲಮೇಶನ್‌ ಆಂಡ್‌
+  ಸೆವೆನ್‌ ಐಲ್ಸ್‌ ಅನ್‌ ಕ್ಲೇಮ್ಡ್‌ “ ಪರಿಯೋಜನೆಯು , ಅಧಿಕಾರವನ್ನು ಹಿಂಪಡೆಯುವ ನಿಟ್ಟಿನ
+  ಇತಿಹಾಸದ ಸಂಗ್ರಾಮಗಳ ಅಧ್ಯಯನ ಮತ್ತು ವಿಮರ್ಶೆಯನ್ನು ಒಳಗೊಂಡಿವೆ.       
 
 
-  Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, the Wellcome Trust Seed Funding Award and the Gasworks Artist Residency.
+  ರಂಜಿತ್‌ ಅವರಿಗೆ ಅನೇಕ ಪುರಸ್ಕಾರಗಳು , ಅನುದಾನಗಳು ಲಭಿಸಿವೆ.  ಅವುಗಳಲ್ಲಿ ಮಜ್ಲಿಸ್‌ ವಿಶುಯಲ್‌ ಆರ್ಟ್ಸ್‌ ಫೆಲೋಶಿಪ್‌, ಯೂ.ಡಿ.ಆರ್.ಐ ಆರ್ಖಿಟೆಕ್ಚರಲ್‌ ಫೆಲೋಶಿಪ್‌ , ಲೆವೆರ್‌ ಹುಲ್ಮೆ ಆರ್ಟಿಸ್ಟ್‌ ರೆಸಿಡೆಂಸಿ, ಸಾಯಿ ಹಾರ್ವರ್ಡ್‌ ಯೂನಿವರ್ಸಿಟಿ ಆರ್ಟಿಸ್ಟ್‌ ರೆಸಿಡೆಂಸಿ ಹಾಗೂ ವೆಲ್‌ಕಮ್‌ ಟ್ರಸ್ಟ್‌ ನಿಂದ ಸೀಡ್‌ ಫಂಡಿಂಗ್‌ ಪುರಸ್ಕಾರ ಲಭಿಸಿವೆ.
 tervis: https://player.vimeo.com/video/537285108
 tertxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್‌ (ಪ್ರೇರಿತ) ಚಿತ್ರಾಕೃತಿ  : ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ : ಕೊಡುಗೆ:
   ವೆಲ್ಲ್ ಕಮ್‌ ಸಂಗ್ರಹಣೆ "
@@ -77,10 +74,10 @@ eventlist:
     quadeventlink: https://www.eventbrite.com/e/145228050007
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
-  - quadrelatedtxt: "Controlling the Plague in British India | Christos Lynteris "
+  - quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
-  - quadrelatedtxt: Contagion in the 21st Century | RKI
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
