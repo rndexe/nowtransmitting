@@ -53,34 +53,35 @@ exhibitauthor:
     authorimage: /static/img/G_EXHIBIT_SEC_VIS_3.png
 readinglist:
   - quadreadlink: https://science.thewire.in/the-sciences/misinformation-online-virality-liberals-conservatives-older-people-epidemiology/
-    quadreadtxt: "Misinformation Spreads Like a Virus, Scientists Should Study It
-      Like One  "
+    quadreadtxt: ವದಂತಿಗಳು ಸಹ ವೈರಾಣುಗಳಂತೆಯೇ ಹರಡುತ್ತವೆ.  ವಿಜ್ಞಾನಿಗಳು ವದಂತಿಗಳನ್ನು
+      ವೈರಾಣುಗಳಂತೆ ಪರಿಗಣಿಸಿ ಅಧ್ಯಯನ  ಮಾಡಬೇಕು
     quadreadvis: /static/img/g_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://www.sciencefocus.com/future-technology/trapped-the-secret-ways-social-media-is-built-to-be-addictive-and-what-you-can-do-to-fight-back/
-    quadreadtxt: "Trapped: The Secret Ways Social Media is Built to be Addictive "
+    quadreadtxt: "ಸಿಕ್ಕಿಸುವ ಕುತಂತ್ರ: ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳಲ್ಲಿಯೇ ಮುಳುಗಿರುವಂತೆ ಮಾಡುವ ನಿಗೂಢ
+      ರೀತಿಗಳು "
     quadreadvis: /static/img/g_exhibit_qua_readvis_2.jpg
   - quadreadlink: https://www.theguardian.com/technology/2019/aug/23/social-media-addiction-gambling
-    quadreadtxt: "The Machine Always Wins: What Drives Our Addiction to Social Media"
+    quadreadtxt: "ಉಪಕರಣವು ಯಾವಾಗಲೂ ಗೆಲುತ್ತದೆ: ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದ ಗೀಳಿಗೆ (ಚಟಕ್ಕೆ) ಕಾರಣವೇನು"
     quadreadvis: /static/img/g_exhibit_qua_readvis_3.jpg
 listeninglist:
   - quadlistlink: https://podcasts.apple.com/us/podcast/social-media-addiction/id1258539903?i=1000408978370
-    quadlisttxt: "In Your Right Mind: Social Media Addiction "
+    quadlisttxt: "ನಿಮ್ಮ ಬಲಪಾರ್ಶ್ವದ ಮೆದುಳಿನಲ್ಲಿ: ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದ ಗೀಳು"
     quadlistvis: /static/img/g_exhibit_qua_listvis_1.jpg
   - quadlistlink: https://www.bbc.co.uk/sounds/play/w3csvtp8
-    quadlisttxt: The History of Fake News
+    quadlisttxt: ಸುಳ್ಳು ಸುದ್ದಿಗಳ ಇತಿಹಾಸ
     quadlistvis: /static/img/g_exhibit_qua_listvis_2.jpg
   - quadlistlink: https://www.npr.org/2020/06/02/868001948/trust-fall
-    quadlisttxt: Trust Fall
+    quadlisttxt: ನಂಬಿಕೆ ಹರಣ
     quadlistvis: /static/img/g_exhibit_qua_listvis_3.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=hz6GULbowAk&ab_channel=TED-Ed
-    quadwatchtxt: "Why People Fall for Misinformation "
+    quadwatchtxt: ಜನರು ಏಕೆ ವದಂತಿಗಳಿಗೆ ಮಾರುಹೋಗುತ್ತಾರೆ?
     quadwatchvis: /static/img/g_exhibit_qua_watchvis_1.jpg
-  - quadwatchtxt: How We Can Protect Truth in the Age of Misinformation
+  - quadwatchtxt: ತಪ್ಪು ಮಾಹಿತಿಗಳ ಯುಗದಲ್ಲಿ ಸತ್ಯವನ್ನು ಹೇಗೆ ರಕ್ಷಿಸುವುದು?
     quadwatchlink: https://www.youtube.com/watch?v=-7ORAKULel4
     quadwatchvis: /static/img/g_exhibit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=T4YkpPXKDRM&t=172s
-    quadwatchtxt: My Brain on Information Overload
+    quadwatchtxt: ನನ್ನ ತಲೆಯಲ್ಲಿ ಮಾಹಿತಿ ಹೊರೆ
     quadwatchvis: /static/img/g_exhibit_qua_watchvis_3.jpg
 play:
   - quadplayvis: /static/img/g_exhibit_qua_playvis_1.jpg
