@@ -3,31 +3,33 @@ layout: 2020-vision
 featured: true
 authortype: Artist
 thumb: /static/img/B_Exhibit_Thumbnail.jpg
-title: 2020 Vision
-subtitle: Disentangling the Web of Information
-medium: Google News headlines, Google email alerts, Python code
+title: 2020 ದೂರ ದೃಷ್ಟಿ
+subtitle: "ಮಾಹಿತಿ ಜಾಲ-ಸಮೂಹವನ್ನು ಬಿಡಿಸುವ ಬಗೆ "
+medium: ಗೂಗಲ್‌ ವಾರ್ತಾ ಮುಖ್ಯಾಂಶಗಳು, ಗೂಗಲ್‌ ಈ- ಮೇಲ್‌ ಅಲರ್ಟ್‌ ಗಳು, ಪೈಥಾನ್‌ ಕೋಡ್‌
 year: "2019"
 description: >-
-  How can we make sense of the digital world as information multiplies
-  exponentially? Online content is proliferating at an astonishing rate, at a
-  pace that is much faster than we can possibly hope to match. We are constantly
-  bombarded with headlines, clickbait titles, and fake news. 
+  ಡಿಜಿಟಲ್‌ ಪ್ರಪಂಚದಲ್ಲಿ , ಬಿಡುವಿಲ್ಲದೆ ಪ್ರಸಾರವಾಗುತ್ತಿರುವ ಮಾಹಿತಿ ಸುರಿಮಳೆಯನ್ನು
+  ಅರ್ಥೈಸುವುದು ಹೇಗೆ ?  ನಮ್ಮ ಊಹೆಗೂ ಮೀರಿ ಅತಿ  ಹೆಚ್ಚು ಗತಿಯಲ್ಲಿ ಮಾಹಿತಿಗಳು, ವಿಷಯ
+  ವಸ್ತುಗಳು ಆನ್‌ ಲೈನ್‌ ಪ್ರಪಂಚವನ್ನು ಆವರಿಸುತ್ತಿರುತ್ತವೆ.  ಸತತವಾಗಿ, ಹಲವು ಮುಖ್ಯಾಂಶಗಳು,
+  ಕ್ಲಿಕ್‌ ಮಾಡಲು ಪ್ರೇರೇಪಿಸುವ ಶೀರ್ಷಿಕೆಗಳು, ಸುಳ್ಳು ಗಾಳಿ ಸುದ್ಧಿಗಳು
+  ಹರಿದಾಡುತ್ತಿರುತ್ತವೆ. 
 
 
-  In 2020 Vision, the artist attempts to externalise some of this information using animations of various headlines, which reflect back a sense of anxiety as we are bombarded with questions, some trivial and some vitally important. These animations grow on the screen like a virus in a Petri dish before gradually receding again. 
+  ರಾಬರ್ಟ್‌ ಗೂಡ್‌ ಅವರು ಸಂಯೋಜಿಸಿರುವ ಪ್ರದರ್ಶಿಕೆ ʼ2020 ದೂರ ದೃಷ್ಟಿʼ  ಅಲ್ಲಿ ,  ಆನಿಮೇಷನ್‌ ಚಿತ್ರಸಂಚಲನ ರೂಪದಲ್ಲಿ ಮುಖ್ಯಾಂಶಗಳು ಪರದೆಯ ಮೇಲೆ ಪ್ರಕಟಗೊಳ್ಳುತ್ತವೆ.  ಅವುಗಳಲ್ಲಿ ಅಡಗಿರುವ ಮಾಹಿತಿಯಿಂದ ನಮ್ಮಲಿ ಹಲವಾರು ಕುತೂಹಲಕಾರಿ ಪ್ರಶ್ನೆಗಳು ಉದ್ಭವಿಸುತ್ತವೆ.  ಪೆಟ್ರಿ ಡಿಶ್‌ ಅಲ್ಲಿ ವೈರಾಣುಗಳು ಬೆಳೆಯುವಂತೆ, ಪರದೆಯ ಮೇಲೆ ಈ ಚಿತ್ರ ಸಂಚಲನಗಳು ಮೂಡಿ ಮರೆಯಾಗುತ್ತವೆ.
 privis: https://player.vimeo.com/video/537188834
 pritxt: "ಭವಿಷ್ಯದಲ್ಲಿ ಏನು ಕಾದಿದೆ ?  2019ರ ಸಾಲಿನ ಗೂಗಲ್‌ ವಾರ್ತಾ ಸರಣಿಯ ಶೀರ್ಷಿಕೆಗಳು,
   ನಮ್ಮ ಕಾತುರತೆಯ ಪ್ರಶ್ನೆಗಳಾಗಿಯೇ ಇವೆ.  ಟೆಕ್ಸ್ ಟ್‌  ಆನಿಮೇಶನ್‌, 2'07\". "
 authorimage: /static/img/B_EXHIBIT_SEC_VIS_1.jpg
-authorname: Robert Good
+authorname: ರಾಬರ್ಟ್‌ ಗೂಡ್‌
 authorbio: >-
-  Robert Good is an artist based in Cambridge, United Kingdom. He is the editor
-  of A New Dictionary of Art and founder and director of the artist collective
-  Art Language Location. His podcast, Something To Do With Art, features
-  discussions with experimental artists about what they do and why.
+  ರಾಬರ್ಟ್‌ ಗೂಡ್‌, ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರದ ಕೇಂಬ್ರಿಡ್ಜ್‌ ನಲ್ಲಿ ನೆಲೆಸಿರುವ ಕಲಾವಿದರು. ʼಎ
+  ನ್ಯೂ ಡಿಕ್ಷನರಿ ಆಫ್‌ ಆರ್ಟ್”‌ ನ ಸಂಪಾದಕರು ಮತ್ತು ʼಆರ್ಟಿಸ್ಟ್‌ ಕಲೆಕ್ಟೀವ್‌ ಆರ್ಟ್‌
+  ಲ್ಯಾಂಗ್ವೇಜ್‌ ಲೊಕೇಶನ್‌ʼ ನ ಸಂಸ್ಥಾಪಕರು ಹಾಗೂ ನಿರ್ದೇಶಕರು. ʼಸಂಥಿಂಗ್‌ ಟು ಡೂ ವಿಥ್‌
+  ಆರ್ಟ್‌ʼಎಂಬ  ಇವರ ಪೋಡ್ಕಾಸ್ಟ್‌ , ಪ್ರಾಯೋಗಿಕ ಕಲೆಗಾರರ ಕೃತಿಗಳ ಬಗೆಗೆ ಚರ್ಚೆಯನ್ನು
+  ರೂಪಿಸುತ್ತದೆ.  
 
 
-  Recurring themes in his work include the limitations of language, the problems of knowledge, and the transition from analogue to digital. He has an ongoing interest in the astronomical sublime. His previous works include 3000 definitions of “Art” for A New Dictionary of Art and 13,000 news headlines for BREAKING. Future projects include Dr Good Investigates... What Is Reality? at Science Gallery Rotterdam in November 2020, and Bookworks at UWE, Bristol in 2021.
+  ಇವರ ಕೃತಿಗಳಲ್ಲಿ, ಭಾಷೆಗಳ ಪರಿಮಿತಿ, ಜ್ಞಾನದ ಸಮಸ್ಯೆಗಳು, ಅನಲಾಗ್‌ ಇಂದ ಡಿಜಿಟಲ್‌ ಗೆ ರೂಪಾಂತರಣ ಮುಂತಾದ ವಿಷಯಗಳು  ಆಗಾಗ ಪುನರಾವರ್ತನೆಗೊಳ್ಳುತ್ತವೆ.
 processimages:
   - tervis: /static/img/B_EXHIBIT_TER_VIS_1.jpg
     tertxt: "ವಿಶನ್‌ ಸೆಲ್‌ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌ ಅವರ ಕೊಡುಗೆ. "
@@ -67,7 +69,7 @@ watchinglist:
     quadwatchtxt: Breaking the News Cycle
     quadwatchvis: /static/img/b_exhibit_qua_watchvis_3.jpg
 play:
-  - quadplaytxt: Go Viral
+  - quadplaytxt: ಗೋ ವೈರಲ್‌
     quadplaylink: https://www.goviralgame.com/en/
     quadplayvis: /static/img/B_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
