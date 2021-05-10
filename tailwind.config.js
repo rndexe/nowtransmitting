@@ -63,6 +63,8 @@ module.exports = {
     fontFamily: {
           'display' : 'Playfair Display',
           'trade'    : 'Trade Gothic',	    
+          'tunga' : 'Tunga',
+          'baloo'    : 'Baloo Tamma',	    
     },
   },
   variants: {},

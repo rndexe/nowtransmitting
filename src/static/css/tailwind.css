@@ -12,6 +12,29 @@
 	font-weight: bold;
 }
 
+@font-face {
+	font-family: 'Tunga';
+	src: url('../fonts/TungaRegular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Tunga';
+	src: url('../fonts/TungaBold.otf') format('opentype');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'Baloo Tamma';
+	src: url('../fonts/BalooRegular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Baloo Tamma';
+	src: url('../fonts/BalooBold.otf') format('opentype');
+	font-weight: bold;
+}
+
+
 @tailwind utilities;
 
 /*Your Custom CSS Goes here*/
