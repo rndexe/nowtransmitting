@@ -1,21 +1,21 @@
 ---
 layout: the-glass-room
 featured: false
-authortype: Team
+authortype: ತಂಡ
 thumb: /static/img/G_Exhibit_Thumbnail.jpg
-title: "The Glass Room: Misinformation Edition "
-subtitle: Demystifying everyday technologies
+title: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ"
+subtitle: ದಿನನಿತ್ಯದ ತಂತ್ರಜ್ಞಾನದಲ್ಲಿರುವ ನಿಗೂಢತೆಯನ್ನು ಭೇದಿಸುವ ಪರಿ
 medium: "Explorables "
 year: "2016 "
 description: >-
-  Today we can access information more easily than before, but the veracity of
-  this information continues to be called into question with the rise of deep
-  fakes, algorithms, and bots. The Misinformation Edition of The Glass Room
-  explores how social media and the web have changed the way that we react to
-  information.
+  ಪ್ರಸಕ್ತ, ಬಹಳ ಸುಲಭವಾಗಿ ಯಾವುದೇ ಮಾಹಿತಿಯನ್ನು ನಾವು ಪಡೆಯ ಬಹುದಾಗಿದೆ.  ಆದರೆ, ಬಹಳಷ್ಟು
+  ಸುಳ್ಳು ಸುದ್ದಿಗಳು , ವದಂತಿಗಳು ಹರಡಿರುವ ಕಾರಣ ಯಾವ  ಮಾಹಿತಿಯು ನಿಖರವಾದುದು ಎಂದು
+  ಅರಿಯುವುದು ಕಷ್ಟಸಾಧ್ಯ. ಈ ಪ್ರಶ್ನೆ ನಮ್ಮನ್ನು ಕಾಡುತ್ತಲೇ ಇರುತ್ತದೆ.  ಗಾಜಿನ ಕೊಠಡಿಯ
+  ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆಯಲ್ಲಿ , ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಮತ್ತು ಜಾಲತಾಣಗಳಲ್ಲಿ  ದೊರೆಯುವ ಮಾಹಿತಿಗೆ
+  ನಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆ ಹೇಗೆ ಬದಲಾಗಿದೆ ಎಂದು ತಿಳಿಯುತ್ತದೆ.
 
 
-  Uncover how social media platforms are designed to keep us hooked and how they can be used to change our minds. Learn why finding “fake news” is not as easy as it sounds, and how the term “fake news” is as much a problem as the news itself. Dive into the world of deep fakes, which are now so realistic that they are virtually impossible to detect. These apps were created by Density Design; They are part of the project, **["The Glass Room Misinformation Edition"](https://theglassroom.org/misinformation)**, created by Tactical Tech.
+  ಡೆಂಸಿಟಿ ಡಿಸೈನ್‌ ಸಂಸ್ಥೆಯು, ಈ ಆಪ್ ಗಳನ್ನು ಸೃಜಿಸಿದೆ.  ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್  ಸಂಸ್ಥೆಯು ರಚಿಸಿರುವ “[ದಿ ಗ್ಲಾಸ್‌ ರೂಮ್‌ ಮಿಸ್‌ ಇಂಫರ್ಮೇಶನ್‌ ಎಡಿಶನ್](https://theglassroom.org/misinformation)”‌ ಪರಿಯೋಜನೆಯ ಒಂದು ಭಾಗ ಇಲ್ಲಿದೆ.
 exhibitembed:
   - pritxt: https://deepfakelab.theglassroom.org/
     privis: https://player.vimeo.com/video/545825495
@@ -84,10 +84,10 @@ watchinglist:
     quadwatchvis: /static/img/g_exhibit_qua_watchvis_3.jpg
 play:
   - quadplayvis: /static/img/g_exhibit_qua_playvis_1.jpg
-    quadplaytxt: Bad News
+    quadplaytxt: ತಪ್ಪು ಮಾಹಿತಿ
     quadplaylink: https://www.getbadnews.com/#intro
 relatedlist:
-  - quadrelatedtxt: 2020 Vision by Robert Good
+  - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
     quadrelatedvis: /static/img/g_exhibit_qua_expvis_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
 exhibitembed1: https://deepfakelab.theglassroom.org/
