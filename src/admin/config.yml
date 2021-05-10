@@ -3057,4 +3057,262 @@ collections:
                 - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
                 - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
                 required: false  
+  - label: "Kannada Lectures"
+    name : "kn-lectures"
+    folder : "src/kn/programmes/lectures"
+    format: frontmatter
+    create : true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "permalink", name: "permalink", widget: "string", required: false }
+      - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
+      - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
+      - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Description", name: "description", widget: "markdown", required: false }
+      - { label: "Condition", name: "condition", widget: "string", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Recorded Link", name: "reclink", widget: "string", required: false }
+      - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Bio", name: "expertbio", widget: "markdown", required: false }
+      - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
+      - label: "Reading List"
+        name: "readinglist"
+        widget: "list"
+        fields:
+        - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+        - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+        - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+        required: false  
+      - label: "Listening List"
+        name: "listeninglist"
+        widget: "list"
+        fields:
+        - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+        - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+        - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+        required: false  
+      - label: "Watching List"
+        name: "watchinglist"
+        widget: "list"
+        fields:
+        - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+        - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+        - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+      - label: "Event List"
+        name: "eventlist"
+        widget: "list"
+        fields:
+        - { label: "Event Link", name: "quadeventlink", widget: "string", required: false }
+        - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+        - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+        required: false  
+      - label: "Related Exhibits"
+        name: "relatedlist"
+        widget: "list"
+        fields:
+        - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+        - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+        - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
 
+
+  - label: "Kannada Workshops"
+    name : "kn-workshops"
+    folder : "src/kn/programmes/workshops"
+    format: frontmatter
+    create : true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "permalink", name: "permalink", widget: "string", required: false }
+      - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
+      - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
+      - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Description", name: "description", widget: "markdown", required: false }
+      - { label: "Condition", name: "condition", widget: "string", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Recorded Link", name: "reclink", widget: "string", required: false }
+      - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Bio", name: "expertbio", widget: "markdown", required: false }
+      - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
+      - label: "Reading List"
+        name: "readinglist"
+        widget: "list"
+        fields:
+        - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+        - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+        - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+        required: false  
+      - label: "Listening List"
+        name: "listeninglist"
+        widget: "list"
+        fields:
+        - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+        - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+        - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+        required: false  
+      - label: "Watching List"
+        name: "watchinglist"
+        widget: "list"
+        fields:
+        - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+        - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+        - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+      - label: "Event List"
+        name: "eventlist"
+        widget: "list"
+        fields:
+        - { label: "Event Link", name: "quadeventlink", widget: "string", required: false }
+        - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+        - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+        required: false  
+      - label: "Related Exhibits"
+        name: "relatedlist"
+        widget: "list"
+        fields:
+        - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+        - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+        - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+
+  - label: "Kannada Events"
+    name : "kn-events"
+    folder : "src/kn/programmes/events"
+    format: frontmatter
+    create : true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "permalink", name: "permalink", widget: "string", required: false }
+      - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
+      - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
+      - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Description", name: "description", widget: "markdown", required: false }
+      - { label: "Condition", name: "condition", widget: "string", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Recorded Link", name: "reclink", widget: "string", required: false }
+      - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Bio", name: "expertbio", widget: "markdown", required: false }
+      - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
+      - label: "Reading List"
+        name: "readinglist"
+        widget: "list"
+        fields:
+        - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+        - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+        - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+        required: false  
+      - label: "Listening List"
+        name: "listeninglist"
+        widget: "list"
+        fields:
+        - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+        - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+        - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+        required: false  
+      - label: "Watching List"
+        name: "watchinglist"
+        widget: "list"
+        fields:
+        - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+        - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+        - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+  
+      - label: "Event List"
+        name: "eventlist"
+        widget: "list"
+        fields:
+        - { label: "Event Link", name: "quadeventlink", widget: "string", required: false }
+        - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+        - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+        required: false  
+      - label: "Related Exhibits"
+        name: "relatedlist"
+        widget: "list"
+        fields:
+        - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+        - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+        - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+
+
+  - label: "Kannada Film Screenings"
+    name : "kn-filmscreenings"
+    folder : "src/kn/programmes/filmscreenings"
+    format: frontmatter
+    create : true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "permalink", name: "permalink", widget: "string", required: false }
+      - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
+      - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
+      - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Description", name: "description", widget: "markdown", required: false }
+      - { label: "Condition", name: "condition", widget: "string", required: false }
+      - { label: "Link", name: "link", widget: "string", required: false }
+      - { label: "Recorded link", name: "reclink", widget: "string", required: false }
+      - { label: "Expert Name", name: "expertname", widget: "string", required: false }
+      - { label: "Expert Bio", name: "expertbio", widget: "markdown", required: false }
+      - { label: "Expert Image", name: "expertpic", widget: "image", required: false }
+      - { label: "Discussant Name", name: "disname", widget: "string", required: false }
+      - { label: "Discussant Image", name: "dispic", widget: "image", required: false }
+      - { label: "Discussant Bio", name: "disbio", widget: "markdown", required: false }
+      - label: "Process Images"
+        name: "processimages"
+        widget: "list"
+        fields:
+        - { label: "Tertiary Image", name: "tervis", widget: "image", required: false }
+        - { label: "Tertiary Caption", name: "tertxt", widget: "string", required: false }
+                    
+  
+      - label: "Reading List"
+        name: "readinglist"
+        widget: "list"
+        fields:
+        - { label: "Reading Link", name: "quadreadlink", widget: "string", required: false }
+        - { label: "Reading Link Text Caption", name: "quadreadtxt", widget: "string", required: false }
+        - { label: "Reading Link Thumbnail", name: "quadreadvis", widget: "image", required: false }
+        required: false  
+      - label: "Listening List"
+        name: "listeninglist"
+        widget: "list"
+        fields:
+        - { label: "Listening Link", name: "quadlistlink", widget: "string", required: false }
+        - { label: "Listening Link Text Caption", name: "quadlisttxt", widget: "string", required: false }
+        - { label: "Listening Link Thumbnail", name: "quadlistvis", widget: "image", required: false }
+        required: false  
+      - label: "Watching List"
+        name: "watchinglist"
+        widget: "list"
+        fields:
+        - { label: "Watching Link", name: "quadwatchlink", widget: "string", required: false }
+        - { label: "Watching Link Text Caption", name: "quadwatchtxt", widget: "string", required: false }
+        - { label: "Watching Link Thumbnail", name: "quadwatchvis", widget: "image", required: false }
+  
+      - label: "Event List"
+        name: "eventlist"
+        widget: "list"
+        fields:
+        - { label: "Event Link", name: "quadeventlink", widget: "string", required: false }
+        - { label: "Event Caption", name: "quadeventtxt", widget: "string", required: false }
+        - { label: "Event Thumbnail", name: "quadeventvis", widget: "image", required: false }
+        required: false  
+      - label: "Related Exhibits"
+        name: "relatedlist"
+        widget: "list"
+        fields:
+        - { label: "Related Exhibit Link", name: "quadrelatedlink", widget: "string", required: false }
+        - { label: "Related Exhibit Caption", name: "quadrelatedtxt", widget: "string", required: false }
+        - { label: "Related Exhibit Thumbnail", name: "quadrelatedvis", widget: "image", required: false }
+ 
