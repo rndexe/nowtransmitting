@@ -1,72 +1,86 @@
 ---
 layout: cluster-17-cases
-authortype: Team
+authortype: ತಂಡ
 thumb: /static/img/H_Exhibit_Thumbnail.jpg
-title: "A Cluster of 17 Cases"
-subtitle: The corridor of uncertainty
-medium: Interactive website
+title: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು
+subtitle: ಅನಿಶ್ಚಿತತೆಯ ನಡುವೆ
+medium: ಅನುಕರಣಾತ್ಮಕ ಜಾಲತಾಣ
 year: "2018"
-description: >
-  On the night of 21 February 2003, a 64-year-old doctor from Guangdong, China
-  checked into Room 911 of Hong Kong’s Metropole Hotel to attend a family
-  wedding. That night he infected 16 people on the same floor of the hotel. As
-  they checked out, the guests took Severe Acute Respiratory Syndrome (SARS)
-  across the world.  
+description: >-
+  21 ಫೆಬ್ರವರಿ 2003 ರ ರಾತ್ರಿ, ಚೀನಾ ದ ಗೌಂಗ್ ಡಾಂಗ್‌ ನ  64 ವರ್ಷದ ವೈದ್ಯರೊಬ್ಬರು
+  ಹಾಂಗ್ಕಾಂಗ್‌ ಪ್ರದೇಶದ ಮೆಟ್ರೋಪೋಲ್‌ ಹೊಟಲ್‌ ನ ಕೊಠಡಿ ಸಂಖ್ಯೆ 911 ರಲ್ಲಿ ಮದುವೆ
+  ಸಮಾರಂಭಕ್ಕಾಗಿ ತಂಗಿದ್ದರು. ಅದೇ ರಾತ್ರಿ, ಹೊಟೆಲ್‌ ನ ಅದೇ ಮಹಡಿಯಲ್ಲಿ ತಂಗಿದ್ದ 16 ಜನರಿಗೆ
+  ಈ ರೋಗ ಸೋಂಕು ತಗುಲಿತು. ಅವರೆಲ್ಲರೂ ಹೊಟೆಲ್ ನಿಂದ  ಹೊರ ಹೋದಾಗ ‌, ಅವರೊಂದಿಗೆ ಸಾರ್ಸ್‌
+  ರೋಗವೂ  (ಸಿವಿಯರ್‌ ಅಕ್ಯೂಟ್‌ ರೆಸ್ಪಿರೇಟರಿ ಸಿಂಡ್ರೋಮ್) ವಿಶ್ವದೆಲ್ಲೆಡೆ  ಪ್ರಸರಿಸಿತು.‌
 
 
-  In this interactive exhibit, we virtually enter the Metropole Hotel on that fateful night, and explore the events that took place in the 17 rooms where the first cluster of SARS cases were detected. We go on a journey with epidemiologists to understand how they studied the movements of the guests between each room. This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences. In the end, we come away with a renewed appreciation for how public health experts grapple with fear and uncertainty in the face of an unknown disease. 
+  ಈ ಅನುಕರಣಾತ್ಮಕ ಪ್ರದರ್ಶಿಕೆಯಲ್ಲಿ, ನಾವು ಮೆಟ್ರೊಪೋಲ್‌ ಹೋಟೇಲನ್ನು ರೋಗ ಹರಡಿದ ರಾತ್ರಿಯೆಂದು ಭಾವಿಸಿ, 17 ಸಾರ್ಸ್‌ ಪ್ರಕರಣಗಳು ಪತ್ತೆಯಾದ ಎಲ್ಲ ಕೊಠಡಿಗಳಲ್ಲಿ ಜರುಗಿದ ಪ್ರತಿಯೊಂದು ಘಟನೆಯನ್ನೂ ದಾಖಲಿಸುತ್ತೇವೆ.
 privis: https://player.vimeo.com/video/545592333
 pritxt: https://www.17cases.com/
+exhibitauthor:
+  - authorimage: /static/img/h_exhibit_sec_vvis_1.png
+    authorname: ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
+    authorbio: >-
+      ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ, ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಪ್ರಖ್ಯಾತಿಯ ಸಾಹಸಿ ಕಲಾವಿದರ ತಂಡ.  ಈ ತಂಡದ
+      ಸದಸ್ಯರು, ಸಂಪರ್ಕ ಮಾಧ್ಯಮದ ಮೂಲಕ , ಪರಸ್ಪರ ಸಂವಾದಾತ್ಮಕ ರಚನೆಗಳನ್ನು ಸೃಜಿಸಿ,
+      ಜಾಲತಾಣಗಳಲ್ಲಿ,  ಡಿಜಿಟಲ್‌ ಪ್ರಸಾರದ  ರೂಪದಲ್ಲಿ ಆಶು ಪ್ರದರ್ಶನಗಳನ್ನು ಹಮ್ಮಿಕೊಂಡು
+      ಪ್ರೇಕ್ಷಕರ ಮನಸೆಳೆವ  ಹೊಸ ಬಗೆಯ ಅಭಿನಯ ರೀತಿಗಳನ್ನು ಬಳಕೆಗೆ ತಂದಿದ್ದಾರೆ. ಸಾಮಾಜಿಕ
+      ಮತ್ತು ರಾಜನೀತಿಯ ಕ್ಷೇತ್ರಗಳ ಮೇಲೆ ತಂತ್ರಜ್ಞಾನದ ಪ್ರಭಾವ ಮತ್ತು ಪರಸ್ಪರ ಸಂಪರ್ಕ
+      ಸಾಧನಗಳ ಬಗೆಗೆ ಈ ತಂಡವು ಅಧ್ಯಯನ ನೆಡೆಸಿದೆ.  
+
+
+      ಟ್ರಿಬೆಕಾ ಚಿತ್ರೋತ್ಸವ, ಸನ್‌ ಡ್ಯಾಂಸ್‌ ಚಿತ್ರೋತ್ಸವ, ಮಿನಿಪೋಲಿಸ್‌ ನ ವಾಕರ್‌ ಕಲಾ ಕೇಂದ್ರ, ದಿ ವೆನ್ನೀಸ್‌ ಬಿನಾಲೆ, ಟೋಕಿಯೋ ದಿ ಐ.ಸಿ.ಸಿ, ಶಿಕಾಗೋದ ʼಸಮಕಾಲೀನ ಕಲಾ ಪ್ರದರ್ಶನಾಲಯʼ, ಸಿಡ್ನಿ ಬಿನಾಲೆ, ಥೈವಾನ್‌ ನ ರಾಷ್ಟ್ರೀಯ ಸಂಗ್ರಹಾಲಯ, ಬರ್ಲಿನ್‌ ನ ಹೆಬ್ಬೆಲ್‌ ಥಿಯೇಟರ್‌, ಬಸೆಲ್‌ ಕಲಾ ಉತ್ಸವ, ಡಚ್‌ ಎಲೆಕ್ಟ್ರಾನಿಕ್‌ ಕಲಾ ಉತ್ಸವ, ನೋನರ್‌ ಉತ್ಸವ ಮತ್ತು ದಿ ಪ್ಯಾಲೆಸಟೈನ್‌ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ವೀಡಿಯೋ ಉತ್ಸವಗಳಲ್ಲಿ ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ ಯ ರಚನೆಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗಿದೆ.
 processimages:
   - tervis: /static/img/H_EXHIBIT_TER_VIS_1.jpg
-    tertxt: An image of the whole model of the 9th floor of the Metropole hotel.
+    tertxt: ಮೆಟ್ರೋಪೋಲ್‌ ಹೊಟಲ್‌ ನ ಇಡೀ 9 ನೇ ಮಹಡಿಯ ಪ್ರತಿಕೃತಿಯ ಚಿತ್ರಬಿಂಬ.
   - tervis: /static/img/H_EXHIBIT_TER_VIS_2.jpg
-    tertxt: "An isometric view of the 3D model of a single hotel room that was used
-      for the creation of the aluminium model. "
+    tertxt: ಹೋಟಲ್‌ ನ ಕೊಠಡಿಯ ಸಂಪೂರ್ಣ ನೋಟ. ಇದನ್ನು ಬಳಸಿಕೊಂಡು ಅಲ್ಯೂಮಿನಿಯಮ್‌
+      ಪ್ರತಿಕೃತಿಯನ್ನು ರಚಿಸಲಾಗಿದೆ.
   - tervis: /static/img/H_EXHIBIT_TER_VIS_3.jpg
-    tertxt: A test shot from the VFX studio as they film the aluminium model with a
-      miniature camera.
+    tertxt: ಕಿರು ಕ್ಯಾಮರಾ ಮೂಲಕ ಅಲ್ಯೂಮಿನಿಯಮ್‌ ಪ್ರತಿಕೃತಿಯನ್ನು ವಿ.ಎಫ್‌. ಎಕ್ಸ್‌ ಬಳಸಿ
+      ವಿಕಸನ ಗೊಳಿಸಿರುವ ಚಿತ್ರಸಂಚಲನ.
 terpdf: //e.issuu.com/embed.html?d=a_cluster_info_pack&hideIssuuLogo=true&u=sciencegallerybengaluru
-terpdftxt: "Info pack about A Cluster of 17 Cases. "
+terpdftxt: 17 ಪ್ರಕರಣಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಮಾಹಿತಿ ಹೊನಲು.
 readinglist:
   - quadreadlink: https://wellcomecollection.org/articles/Xl0YSxIAACEAQiBn
-    quadreadtxt: The Science of Why Things Spread
+    quadreadtxt: ವಿಷಯಗಳು ಹಬ್ಬುವುದರ ಬಗೆಗಿನ ವಿಜ್ಞಾನ
     quadreadvis: /static/img/h_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://wellcomecollection.org/articles/WsT4Ex8AAHruGfW_
-    quadreadtxt: The Cook Who Became a Pariah
+    quadreadtxt: ಬಹಿಷ್ಕೃತನಾದ ಬಾಣಸಿಗ
     quadreadvis: /static/img/h_exhibit_qua_readvis_2.jpg
   - quadreadlink: https://vis.sciencemag.org/covid-clusters/
-    quadreadtxt: The Science of Superspreading
+    quadreadtxt: ಅತಿ ವೇಗವಾಗಿ ಹರಡುವ ಸಾಂಕ್ರಾಮಿಕಗಳ ಹಿಂದಿನ ವಿಜ್ಞಾನ
     quadreadvis: /static/img/h_exhibit_qua_readvis_3.jpg
 relatedlist:
-  - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
+  - quadrelatedtxt: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎರಡು ನಗರದ ಕಥೆಗಳು | ಸೋನಿಯಾ ಶಾ"
     quadrelatedvis: /static/img/h_exhibit_qua_expvis_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
-  - quadrelatedtxt: "COVID-19 Indoor Safety Guidelines by Martin Bazant "
+  - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/h_exhibit_qua_exptxt_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
 authorimage: /static/img/H_EXHIBIT_SEC_VIS_1.png
 exhibitembed1: https://aco17c.netlify.app/
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=KKI1FulY1nE
-    quadwatchtxt: "Contagious Cities: Blast Theory "
+    quadwatchtxt: "ಸಾಂಕ್ರಾಮಿಕ ನಗರಗಳು: ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ"
     quadwatchvis: /static/img/h_exhbit_qua_watchvis_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=KAuwReLSRQg
-    quadwatchtxt: Why Did SARS and MERS Disappear Quicker
+    quadwatchtxt: ಸಾರ್ಸ್‌ ಮತ್ತು ಮೆರ್ಸ್‌ ರೋಗ ಪಿಡುಗುಗಳು ಏಕೆ ಬೇಗನೆ ಮರೆಯಾದವು?
     quadwatchvis: /static/img/h_exhbit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=jbwqTDWqTZk
-    quadwatchtxt: SARS Online Animation
+    quadwatchtxt: ಸಾರ್ಸ್‌ ಆನ್‌ ಲೈನ್‌ ಚಿತ್ರ ಸಂಚಲನ
     quadwatchvis: /static/img/h_exhbit_qua_watchvis_3.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=Hy5gplP0JVw
-    quadwatchtxt: "COVID-19 and SARS: How the World Battled a Deadly Respiratory Illness"
+    quadwatchtxt: "ಕೋವಿಡ್-19‌  ಮತ್ತು ಸಾರ್ಸ್‌ : ವಿಶ್ವವು ಮಾರಣಾಂತಕ ಶ್ವಾಸ ಕೋಶ
+      ಖಾಯಿಲೆಗಳನ್ನು ಹೇಗೆ ಎದುರಿಸುತ್ತಿದೆ?"
     quadwatchvis: /static/img/h_exhbit_qua_watchvis_4.jpg
 authorname: Blast Theory
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
-    quadlisttxt: "Disease Detectives: How to Track Epidemics"
+    quadlisttxt: "ರೋಗ ಪತ್ತೆದಾರರು: ರೋಗ ಪಿಡುಗನ್ನು ಪತ್ತೆ ಮಾಡುವುದು ಹೇಗೆ"
     quadlistvis: /static/img/h_exhibit_qua_listvis_1.jpg
   - quadlistlink: https://www.bbc.co.uk/sounds/play/p01dq5wx
-    quadlisttxt: The Story of SARS
+    quadlisttxt: ಸಾರ್ಸ್‌ ರೋಗದ ಕಥಾ ಯಾನ
     quadlistvis: /static/img/h_exhibit_qua_listvis_2.jpg
 eventlist:
   - quadeventtxt: "Outbreak | Lecture by Sabrina Sholts "
