@@ -1,6 +1,5 @@
 ---
-title: Identifying Variants of SARS-CoV-2 in India – What Does It Mean For
-  Prevention and Control Of The Pandemic?
+title: Identifying Variants of SARS-CoV-2 in India
 permalink: programmes/lectures/identifying-variants-of-SARS-CoV-2-in-India/
 cata: trigger
 catb: documenting
