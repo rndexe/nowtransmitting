@@ -38,7 +38,7 @@ expertpic: /static/img/pl_sheila_portrait.png
 readinglist:
   - quadreadlink: https://www.thenation.com/article/society/sheila-jasanoff-interview-coronavirus/
     quadreadtxt: Science Will Not Come on a White Horse With a Solution
-    quadreadvis: /static/img/pl_sheila.jpg
+    quadreadvis: /static/img/K_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nature.com/articles/450033a
     quadreadtxt: Technologies of Humility
     quadreadvis: /static/img/pl_sheila.jpg
