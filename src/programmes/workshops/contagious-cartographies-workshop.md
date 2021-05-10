@@ -20,7 +20,7 @@ description: >-
 
 
   With the world battling a pandemic over the last year, there has been an increased interest in collecting and consuming data that can help one make sense of the impact of the disease on our world. This hands-on workshop will dive deeper into how maps in the past have helped us understand diseases, and how you can create an interactive map to explore & narrate stories about deadly diseases.
-condition: "This workshop is exclusively for 15 to 28 year olds. "
+condition: This workshop is exclusively for 15 to 28 year olds
 link: https://www.eventbrite.com/e/contagious-cartographies-workshop-registration-151978346325
 expertname: Rasagy Sharma and Harsha Devulalpalli
 expertbio: >-
