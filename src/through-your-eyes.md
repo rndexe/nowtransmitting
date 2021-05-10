@@ -1,4 +1,5 @@
 ---
+layout: rooms/throughyoureyes
 title: Through your Eyes
 description: >-
   With the pandemic reducing physical contact between people, photographs and
@@ -26,6 +27,7 @@ promptAlist:
       of people still hesitate to wear masks, as shown in this photograph of a
       fisherman removing his mask.
   - coverimage: /static/img/tye_8_achyut_mask_a.jpg
+    name: Achyut Rokkam
     bio: Achyut Rokkam is pursuing his Bachelor’s in Computer Science at Ashoka
       University, Sonipat.
     caption: Seems like childhood is no longer the same. I can’t imagine a childhood
@@ -33,7 +35,6 @@ promptAlist:
       classes online all the time. This photograph seemed to capture all the
       frustrations and irritation I would feel if I were a young kid during this
       time.
-    name: Achyut Rokkam
   - coverimage: /static/img/tye_14_syona_mask_a.jpg
     caption: I took this photograph at home using the self timer, a tripod and a
       study lamp as the light source. I used newspapers as a backdrop to
@@ -66,12 +67,12 @@ promptBlist:
       through a deadly pandemic.
 promptClist:
   - coverimage: /static/img/9_kamesh_home_a.jpg
-    bio: "**Kamesh Bharadwaj is a documentary photographer and film-maker based in
+    bio: "Kamesh Bharadwaj is a documentary photographer and film-maker based in
       Bangalore. His interests lie primarily in stories related to the
       environment, culture, and its various intersections in Indian society.
       Through his photographs, he hopes to engage in conversations around
       climate change, action, and justice; and document its immediate and
-      indirect effects in the Global South.**"
+      indirect effects in the Global South."
     name: Kamesh Bharadwaj
     caption: "Like many of us in 2020 I, too, was fascinated by the concept of home.
       What is it about these boxes we build and shut ourselves in that are so

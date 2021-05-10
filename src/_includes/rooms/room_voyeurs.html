@@ -1,0 +1,104 @@
+<section class="w-auto h-full max-h-full pl-32 pr-32 pt-16 flex-none bg-white">
+	<div class = "flex flex-row h-full">
+		<div class="mr-16 w-auto h-full">
+			<div class="h-auto">
+				<p class="text-4xl font-display mb-3">{{prompta}}</p>
+				<div class="w-20 h-0 border border-solid border-red-650"></div>
+			</div>
+			<div class="flex flex-row mt-6 h-4/6">
+				{%- for entry in promptAlist -%}
+				<div class="flex flex-row mr-16 h-full ">
+					{% if entry.name %}
+					<div class="ml-16 mr-10 mt-48">
+						<p class="text-sm mb-2 w-96 font-bold font-trade text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-96 font-normal font-trade text-trueGray-750">{{entry.bio}}</p>
+					</div>
+					{% endif %}
+					<div class= "flex flex-col w-auto h-full">
+						<img class="object-contain h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
+						<div class="w-96 pt-10">
+							<p class="text-xs font-normal font-trade text-trueGray-400">{{entry.caption}}</p>
+						</div>
+					</div>
+				</div>
+				{%- endfor -%}
+			</div>
+		</div>
+		<div class="mr-16 w-auto h-full">
+			<div class="h-auto">
+				<p class="text-4xl font-display mb-3">{{promptb}}</p>
+				<div class="w-20 h-0 border border-solid border-red-650"></div>
+			</div>
+			<div class="flex flex-row mt-6 h-4/6">
+				{%- for entry in promptBlist -%}
+				<div class="flex flex-row mr-16 h-full ">
+					{% if entry.name %}
+					<div class="ml-16 mr-10 mt-48">
+						<p class="text-sm mb-2 w-96 font-bold font-trade text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-96 font-normal font-trade text-trueGray-750">{{entry.bio}}</p>
+					</div>
+					{% endif %}
+					<div class= "flex flex-col w-auto h-full">
+						<img class="object-contain h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
+						<div class="w-96 pt-10">
+							<p class="text-xs font-normal font-trade text-trueGray-400">{{entry.caption}}</p>
+						</div>
+					</div>
+				</div>
+				{%- endfor -%}
+			</div>
+		</div>
+		<div class="mr-16 w-auto h-full">
+			<div class="h-auto">
+				<p class="text-4xl font-display mb-3">{{promptc}}</p>
+				<div class="w-20 h-0 border border-solid border-red-650"></div>
+			</div>
+			<div class="flex flex-row mt-6 h-4/6">
+				{%- for entry in promptClist -%}
+				<div class="flex flex-row mr-16 h-full ">
+					{% if entry.name %}
+					<div class="ml-16 mr-10 mt-48">
+						<p class="text-sm mb-2 w-96 font-bold font-trade text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-96 font-normal font-trade text-trueGray-750">{{entry.bio}}</p>
+					</div>
+					{% endif %}
+					<div class= "flex flex-col w-auto h-full">
+						<img class="object-contain w-auto h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
+						<div class="w-96 pt-10">
+							<p class="text-xs font-normal font-trade text-trueGray-400">{{entry.caption}}</p>
+						</div>
+					</div>
+				</div>
+				{%- endfor -%}
+			</div>
+		</div>
+
+		<div class="mr-16 w-auto h-full">
+			<div class="h-auto">
+				<p class="text-4xl font-display mb-3">{{promptd}}</p>
+				<div class="w-20 h-0 border border-solid border-red-650"></div>
+			</div>
+			<div class="flex flex-row mt-6 h-4/6">
+				{%- for entry in promptDlist -%}
+				<div class="flex flex-row mr-16 h-full ">
+					{% if entry.name %}
+					<div class="ml-16 mr-10 mt-48">
+						<p class="text-sm mb-2 w-96 font-bold font-trade text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-96 font-normal font-trade text-trueGray-750">{{entry.bio}}</p>
+					</div>
+					{% endif %}
+					<div class= "flex flex-col w-auto h-full">
+						<img class="object-contain h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
+						<div class="w-192 pt-10">
+							<p class="text-xs font-normal font-trade text-trueGray-400">{{entry.caption}}</p>
+						</div>
+					</div>
+				</div>
+				{%- endfor -%}
+			</div>
+		</div>
+
+
+
+	</div>
+</section>
