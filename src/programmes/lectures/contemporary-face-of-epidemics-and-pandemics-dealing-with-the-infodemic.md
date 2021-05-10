@@ -17,7 +17,8 @@ description: >-
 
 
   This talk asks questions about this information pandemic. What causes an infodemic? What are the challenges posed by the infodemic? Can it be eliminated ? Can it be managed? How can we leverage new technologies to manage the infodemic?
-link: http://bit.ly/lecture-briand
+link: ""
+reclink: https://www.youtube.com/embed/qjewb5cAqZc
 expertname: Sylvie Briand
 expertbio: Dr. Sylvie Briand (MD, MPH, PhD) is the director of the Global
   Infectious Hazard Preparedness (GIH), at the World Health Organization
