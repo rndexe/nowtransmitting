@@ -3,23 +3,21 @@ layout: plague-british-india
 featured: false
 authortype: Scholar
 thumb: /static/img/A_Exhibit_Thumbnail.jpg
-title: Controlling the Plague in British India
-subtitle: "A Visual History of the Plague "
-medium: Photographs
+title: ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ
+subtitle: "ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗಿನ ಇತಿಹಾಸದ ದೃಶ್ಯ ಪ್ರತಿಬಿಂಬ  "
+medium: ಛಾಯಾಚಿತ್ರಗಳು
 year: 1896 – 1898
 description: >-
-  The third plague pandemic broke out in Yunnan, China in 1855 and swept across
-  the globe until 1955, causing the death of approximately 12 million people.
-  Apart from being the first bubonic plague epidemic to reach all continents, it
-  was also the first epidemic to be photographed extensively. These photographs
-  provide a visual narrative with diverse perspectives on an epidemic that
-  deeply impacted methods of disease control and response across the world.
+  1855 ರಲ್ಲಿ, ಚೀನಾದ ಯೂನನ್‌ ಪ್ರದೇಶದಲ್ಲಿ, ಪ್ಲೇಗ್ ರೋಗ ಪಿಡುಗು ಮೂರನೇ ಬಾರಿ ಹರಡಿತು,
+  1955  ರವರೆಗೂ ಇಡೀ ವಿಶ್ವವನ್ನೇ ಮಾಹಾಮಾರಿಯಾಗಿ ಪ್ಲೇಗ್‌ ಕಾಡಿತ್ತು. ಸುಮಾರು 12 ದಶ ಲಕ್ಷ
+  ಜನರು ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯಿಂದ ಸಾವನ್ನಪ್ಪಿದ್ದರು.  ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ರೋಗ  ಸಾಂಕ್ರಾಮಿಕವು,
+  ಎಲ್ಲಾ ಜನ ನಿಬಿಢ ಖಂಡಗಳನ್ನು ತಲುಪಿತ್ತು, ಮೊದಲ ಬಾರಿಗೆ ಪ್ಲೇಗ್‌ ಕುರಿತಂತೆ ವಿಸ್ತೃತ 
+  ಛಾಯಾಚಿತ್ರಗಳನ್ನು ತೆಗೆದು ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಪ್ರಕಟಿಸಿದರು.  ಛಾಯಾಚಿತ್ರಣ, ವಿಶ್ವದ ಹಲವು
+  ಭಾಗಗಳಲ್ಲಿ ಪ್ಲೇಗ್‌ ರೋಗ ಸಾಂಕ್ರಾಮಿಕದ ಸ್ಫೋಟ, ರೋಗ ನಿವಾರಣೆ ಮತ್ತು ಪಿಡುಗಿನ ಹತೋಟಿಯ
+  ಬಗೆಗೆ ವಿವಿಧ ಕಥನಗಳ ಮಾಹಿತಿ ನೀಡುವಂತಹ, ದೃಶ್ಯ ಮಾಧ್ಯಮವಾಯಿತು.  
 
 
-  An essay accompanies this exhibit written by social anthropologist Christos Lynteris that explores the measures taken by colonial authorities in order to control the spread of the third plague pandemic in India. The exhibit also contains photographs courtesy of the research project on “Visual Representations of the Third Plague Pandemic” led by Christos. 
-
-
-  The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/European Research Council grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository [Apollo](https://www.repository.cam.ac.uk/handle/1810/280684). 
+  ಭಾರತದಲ್ಲಿ ಮೂರನೇ ಬಾರಿಗೆ ಹರಡಿದ ಪ್ಲೇಗ್ ರೋಗ ಪಿಡುಗನ್ನು ನಿಯಂತ್ರಿಸಲು, ಆಡಳಿತ ಪ್ರಾಧಿಕಾರವು ತೆಗೆದುಕೊಂಡ ಕ್ರಮಗಳ ಬಗೆಗೆ , ಮಾನವ ಶಾಸ್ತ್ರ ತಜ್ಞರಾದ ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌ ಅವರು ಈ ಪ್ರದರ್ಶಿಕೆಯೊಂದಿಗೆ ತಮ್ಮ ಪ್ರಬಂಧವನ್ನೂ ಪ್ರಸ್ತುತ ಪಡಿಸಿದ್ದಾರೆ.  ಇವರು ಮುನ್ನೆಡೆಸಿರುವ “ಮೂರನೇ ಬಾರಿಯ ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗಿನ ದೃಶ್ಯ ಪ್ರತಿಬಿಂಬ” ಎಂಬ ಕಾರ್ಯಯೋಜನೆಯಲ್ಲಿ ಕಲೆ ಹಾಕಿದ ಅನೇಕ ಛಾಯಾಚಿತ್ರ ಗಳನ್ನು ಸಹ ಇಲ್ಲಿ ಪ್ರಸ್ತುತ ಪಡಿಸಲಾಗಿದೆ.
 essay: >-
   ಮೂರನೇ ಬಾರಿ ಹರಡಿದ ಪ್ಲೇಗ್ ರೋಗ ಪಿಡುಗು, 1855 ರಿಂದ 1959 ರವರೆಗೂ ಇಡೀ ವಿಶ್ವವನ್ನೇ
   ಕಾಡಿತ್ತು.  ಬುಬೋನಿಕ್‌ ಪ್ಲೇಗ್, ಮೊದಲ ಬಾರಿಗೆ , ಎಲ್ಲಾ ಜನ ನಿಬಿಢ ಖಂಡಗಳನ್ನು ತಲುಪಿತ್ತು,
@@ -134,7 +132,7 @@ exhibitimages:
     pritxt: “ಪ್ಲೇಗ್‌ ಬಿಡಾರ”, 1901/1902, ಫುಲರ್ಟನ್‌ ಸಂಗ್ರಹಣೆ, ದಕ್ಷಿಣ ಏಷಿಯಾ ಅಧ್ಯಯನಗಳ
       ಸಂಕಲನ ಕೇಂದ್ರ, ಕೇಂಬ್ರಿಡ್ಜ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ.
 authorimage: /static/img/A_EXHIBIT_SEC_VIS_1.jpg
-authorname: Christos Lynteris
+authorname: ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌
 authorbio: >-
   ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌, ವೈದ್ಯಕೀಯ ಮಾನವಶಾಸ್ತ್ರಜ್ಞರು.  ಮಾನವ ಕುಲಕ್ಕೆ ಸದಾ ಸಂಭವನೀಯ
   ಆಪತ್ತುಗಳಾಗಿ, ಕಾಡುವ, ಸಾಂಕ್ರಾಮಿಕಗಳು, ಪಶುಪಕ್ಷಿಗಳಿಂದ ಹರಡುವ ರೋಗಗಳು, ಸಾಂಕ್ರಾಮಿಕ ರೋಗ
