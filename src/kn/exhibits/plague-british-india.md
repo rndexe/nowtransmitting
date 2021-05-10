@@ -1,7 +1,7 @@
 ---
 layout: plague-british-india
 featured: false
-authortype: Scholar
+authortype: ವಿದ್ವಾಂಸರು
 thumb: /static/img/A_Exhibit_Thumbnail.jpg
 title: ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ
 subtitle: "ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗಿನ ಇತಿಹಾಸದ ದೃಶ್ಯ ಪ್ರತಿಬಿಂಬ  "
