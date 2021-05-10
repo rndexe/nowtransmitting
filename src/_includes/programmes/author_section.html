@@ -1,11 +1,11 @@
 <section id="authors" class="block w-auto h-screen lg:flex lg:flex-none bg-blue-pg">
-		<div class="w-288 pt-36">
-			<div class="w-3/5 h-2/5 mx-auto">
+		<div class="w-192 pt-36">
+			<div class="w-full px-32 h-2/5 mx-auto">
 				{% if expertpic %}
 				<img class="object-scale-down w-auto h-full rounded-lg shadow-lg" src={{expertpic}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 			</div>
-			<div class="w-3/5 mx-auto pt-10">
+			<div class="w-full px-32 mx-auto pt-10">
 				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{expertname}}</p>
 				
 				{% if expertbio %}
@@ -14,13 +14,13 @@
 			</div>
 		</div>
 		{% if disname %}
-		<div class="w-240 pt-36">
-			<div class="w-3/5 h-2/5 mx-auto">
+		<div class="w-192 pt-36">
+			<div class="w-full px-32 h-2/5">
 				{% if dispic %}
 				<img class="object-scale-down w-auto h-full rounded-lg shadow-lg" src={{dispic}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 			</div>
-			<div class="w-3/5 mx-auto pt-10">
+			<div class="w-full px-32 pt-10">
 				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{disname}}</p>
 				
 				{% if disbio %}
