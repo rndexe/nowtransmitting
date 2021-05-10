@@ -68,9 +68,8 @@ eventlist:
       Covid-19 Pandemic? | Lecture by Sir Jeremy Farrar"
     quadeventlink: https://bit.ly/lecture-farrar
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
-  - quadeventtxt: "Working Together For Public Education On Pandemic Risks: The
-      Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit | Lecture
-      by Sabrina Sholts"
+  - quadeventtxt: Working Together For Public Education On Pandemic Risks | Lecture
+      by Sabrina Sholts
     quadeventlink: http://bit.ly/lecture-sholts
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
