@@ -21,69 +21,36 @@ description: >-
 
   The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/European Research Council grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository [Apollo](https://www.repository.cam.ac.uk/handle/1810/280684). 
 essay: >-
-  The third plague pandemic lasted from c.1855 to 1959 and was the first time
-  that bubonic plague reached all inhabited continents, establishing long-term
-  endemic foci in Sub-Saharan Africa, North and South America. The pandemic
-  struck successively at major cities such as Hong Kong (1894), Bombay (1896),
-  Karachi (1897), Porto (1899), Honolulu (1899), Alexandria (1899), Santos
-  (1899), Asuncion (1899), Sydney (1900), Cape Town (1900), Buenos Aires (1900),
-  Rio de Janeiro (1900), San Francisco (1900), Glasgow (1900), Harbin (1910),
-  Havana (1912), Paris (1920), Antananarivo (1924), Los Angeles (1924), and
-  Dakar (1944). This was the first time that plague was examined
-  bacteriologically, with the bacillus causing the disease being isolated in
-  Hong Kong in the summer of 1894. However the discovery of the bacillus did not
-  mean that the mode of transmission was immediately understood. It would take
-  another decade before the role of the rat and the flea was properly
-  acknowledged and only in 1911 was the airborne human-to-human transmission of
-  the pneumonic form of plague universally accepted. 
+  ಮೂರನೇ ಬಾರಿ ಹರಡಿದ ಪ್ಲೇಗ್ ರೋಗ ಪಿಡುಗು, 1855 ರಿಂದ 1959 ರವರೆಗೂ ಇಡೀ ವಿಶ್ವವನ್ನೇ
+  ಕಾಡಿತ್ತು.  ಬುಬೋನಿಕ್‌ ಪ್ಲೇಗ್, ಮೊದಲ ಬಾರಿಗೆ , ಎಲ್ಲಾ ಜನ ನಿಬಿಢ ಖಂಡಗಳನ್ನು ತಲುಪಿತ್ತು,
+  ಆಫ್ರಿಕಾದ ಸಹಾರ ಪ್ರದೇಶಗಳು, ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಅಮೇರಿಕಾ ಖಂಡದಲ್ಲಿ ಧೀರ್ಘಕಾಲಿಕ ಬೃಹತ್‌
+  ಮಹಾಮಾರಿಯ ರೂಪವನ್ನು ತಾಳಿತ್ತು.  ಹಾಂಗ್ಕಾಂಗ್‌(1894), ಬಾಂಬೆ(1896), ಕರಾಚಿ (1897),
+  ಪೋರ್ಟೋ (1899), ಹೊನೊಲುಲು (1899), ಅಲೆಕ್ಸಾಂಡ್ರಿಯಾ (1899), ಸಂಟೋಸ್ (1899),
+  ಆಸನ್ಶಾನ್‌ (1899), ಸಿಡ್ನಿ (1900), ಕೇಪ್‌ ಟೌನ್ (1900), ಬೋನಸ್‌ ಏರಿಸ್‌ (1900), ರಿಯೋ
+  ಡಿ ಜನೇರಿಯೋ (1900), ಸಾನ್‌ ಫ್ರಾಂಸಿಸ್ಕೋ (1900), ಗ್ಲಾಸ್ಗೋ (1900), ಹಾರ್ಬಿನ್‌,
+  (1910), ಹವಾನಾ (1912), ಪ್ಯಾರಿಸ್ (1920), ಆಂಟಾನನಾರಿಯೊ (1924), ಲಾಸ್‌ ಏಂಜಲ್ಸ್
+  (1924), ಡಕರ್‌(1944)  ಮುಂತಾದ ಪ್ರಮುಖ ನಗರಗಳಲ್ಲಿ ಪದೇ ಪದೇ ರೋಗವು ಹರಡಿತು. ಮೊದಲ ಬಾರಿಗೆ
+  ಬ್ಯಾಕ್ಟಿರಿಯಾ ಶಾಸ್ತ್ರದ ಅಡಿಯಲ್ಲಿ ಪ್ಲೇಗ್‌ ರೋಗದ  ಅಧ್ಯಯನ ನೆಡೆಸಲಾಯಿತು, 1894
+  ರ,  ಬೇಸಿಗೆಯ ಕಾಲದಲ್ಲಿ, ಹಾಂಗ್‌ ಕಾಂಗ್‌ ಅಲ್ಲಿ ಪ್ಲೇಗ್‌ ರೋಗಕ್ಕೆ ಕಾರಣವಾದ ಬ್ಯಾಸಿಲಸ್‌
+  ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಬೇರ್ಪಡಿಸಲಾಯಿತು. ರೋಗ ಸಾಂಕ್ರಾಮಿಕದ ಬಗೆಗೆ ಅರಿವು ಇನ್ನೂ
+  ಮೂಡಿರಲಿಲ್ಲ.  ಪ್ಲೇಗ್‌ ಹರಡುವಿಕೆಗೆ ಇಲಿ / ಹೆಗ್ಗಣಗಳು  ಮತ್ತು  ಅವುಗಳ ಮೇಲೆ ಇರುವ ಕ್ರಿಮಿ
+  ಕೀಟಗಳು ಕಾರಣ ಎಂಬುದನ್ನು ಮುಂದಿನ ಹತ್ತು ವರ್ಷಗಳಲ್ಲಿ ಪತ್ತೆ ಹಚ್ಚಲಾಯಿತು.  ಮಾನವರಿಂದ
+  ಮಾನವರಿಗೆ ಗಾಳಿಯ ಮೂಲಕ ಪ್ಲೇಗ್‌ ರೋಗ ಹರಡುತ್ತದೆ ಎಂದು 1911 ರಲ್ಲಿ ವಿಶ್ವವ್ಯಾಪಿಯಾಗಿ
+  ಬೆಳಕಿಗೆ ಬಂತು.  
+
+  ಸುಮಾರು 12 ದಶ ಲಕ್ಷ ಜನರು ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯಿಂದ ಸಾವನ್ನಪ್ಪಿದ್ದರು.  ಪ್ಲೇಗ್‌ ರೋಗದಿಂದ ಪೀಡಿತ ಪ್ರದೇಶಗಳನ್ನು ವಿಶೇಷ ನಿಯಂತ್ರಣ ವಲಯಗಳಾಗಿಸಿ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತಿತ್ತು .  ರೋಗ ಪೀಡಿತ ಜನ ಸಮೂಹವು ಇಂತಹ ಕ್ರಮಕ್ಕೆ ಬಹುತೇಕವಾಗಿ ವಿರೋಧ ವ್ಯಕ್ತ ಪಡಿಸುತ್ತಿದ್ದರು.  ಹಾಗೆಯೇ ವೈದ್ಯಕೀಯ ಸಮೂಹದಲ್ಲಿಯೂ ಬಿರುಕು, ಗುಂಪು-ಘರ್ಷಣೆಗಳು ಸೃಷ್ಟಿಯಾಗುತ್ತಿದ್ದವು.  ಎರಡನೇ ವಿಶ್ವ ಯುದ್ಧದ ನಂತರ, ಪ್ಲೇಗ್ ಜೀವರೋಧಕ ಔಷಧಿಯ ಅವಿಶ್ಕಾರ ಮತ್ತು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಕೀಟ-ನಾಶಗಳ ಬಳಕೆಯಿಂದಾಗಿ ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯನ್ನು ಗಮನಾರ್ಹವಾಗಿ ನಿಯಂತ್ರಿಸಲು ಸಾಧ್ಯವಾಯಿತು.   
 
 
-  The pandemic would lead to an estimated 12 million dead. Plague-affected locations witnessed the implementation of extraordinary measures for its containments. These were often met with resistance by affected populations, whilst also splitting the medical community in rival camps. It was only with the discovery of antibiotics and the use of effective anti-flea insecticides, after the Second World War, that the pandemic was brought under comprehensive control.
+  ಮೂರನೇ ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗನ್ನು ಮೊದಲ ಬಾರಿಗೆ ಚಿತ್ರೀಕರಿಸಲಾಯಿತು.  ಇಂತಹ ಚಿತ್ರೀಕರಣಗಳಿಂದಾಗಿ, ವಿಶ್ವದೆಲ್ಲೆಡೆ ಹರಡಿದ ರೋಗ ಪಿಡುಗಿನ  ದೃಶ್ಯಗಳು ಬೆಳಕಿಗೆ ಬಂದವು, ಜೊತೆಗೆ ಈ ರೋಗವು ಹರಡಲು ಕಾರಣಗಳೇನು, ಇಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸಲು ಯಾವ ಕ್ರಮ ಕೈಗೊಳ್ಳ ಬೇಕು ಎಂಬ ಮಾಹಿತಿಯನ್ನು ಸಾರ್ವಜನಿಕರಿಗೆ ಒದಗಿಸಲು ಸಹಾಯಕವಾವಾಯಿತು. ವ್ಯಾಪಾರ ವಹಿವಾಟುಗಳ ಮೇಲೆ ರೋಗ ಪಿಡುಗಿನ ನಿಯಂತ್ರಣದ ಪರಿಣಾಮಗಳು, ರಾಜ್ಯ ಹಾಗೂ ಪ್ರಾದೇಶಿಕ ಸಾರ್ವಭೌಮತ್ವ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸ್ವಾತಂತ್ರ್ಯ, ನಿಯಂತ್ರಣ ವಲಯಗಳ ಕಾರ್ಯ ಪ್ರಯೋಜನ, ಪ್ಲೇಗ್‌ ಹರಡುವಿಕೆಯಿಂದ ಸಾಮಾಜಿಕವಾಗಿ ಜನಾಂಗಗಳ ಮೇಲೆ ಉಂಟಾಗುವ ಪರಿಣಾಮ, ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಸುರಕ್ಷತೆಯ ಕ್ರಮವಾಗಿ ಪ್ರತ್ಯೇಕವಾಗಿರುವುದರ ಉಪಯೋಗ, ನಗರ ಯೋಜನೆಗಳು , ವಿಭಿನ್ನ ಜನ ಸಮೂಹಗಳ ಮೇಲೆ ರೋಗ ಕಾರಕದ ಪ್ರಭಾವ, ಪ್ಲೇಗ್‌ ಹರಡುವಿಕೆಯಲ್ಲಿ ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾದ ಪಾತ್ರ, ಇಲಿ ಹೆಗ್ಗಣಗಳು ಮತ್ತು ಇತರೆ ಪ್ರಾಣಿ ಪಕ್ಷಿಗಳು ರೋಗ ಸಂವಹನೆಗೆ ಹೇಗೆ ಕಾರಣವಾಗುತ್ತವೆ, ಇವೆಲ್ಲದರ ಮಾಹಿತಿಯನ್ನು ಕ್ರೂಡೀಕರಿಸಿ ದೃಶ್ಯ ಮಾಧ್ಯಮದ ಮೂಲಕ ಚಿಂತನೆ ಮತ್ತು ವಿಮರ್ಶೆ, ಹಾಗೂ ಜಾಗತಿಕ ರೋಗ ಪಿಡುಗಿನ ಹಲವು ಅಂಶಳನ್ನು ದಾಖಲಿಸಲು ಫೋಟೋಗ್ರಾಫಿಯನ್ನು ಸಮರ್ಪಕವಾಗಿ ಬಳಸಲಾಯಿತು.  
+
+  ಜಾಗತಿಕವಾಗಿ ಪ್ಲೇಗ್‌ ರೋಗದ ದೃಶ್ಯಗಳನ್ನು ಚಿತ್ರಿಸುವುದಲ್ಲದೇ, ರೋಗ ಪಿಡುಗಿನ ನಿಯಂತ್ರಣ ಮತ್ತು ನಿವಾರಣೆಗೆ ಪ್ಲೇಗ್‌ ರೋಗದ ಚಿತ್ರೀಕರಣ ಹೊಸ ಆಯಾಮವನ್ನೂ ಕಲ್ಪಿಸಿತು.   
+
+  ಈ ಚಿತ್ರಗಳು ವೈದ್ಯಕೀಯ ಪ್ರಕಾಶನಗಳಲ್ಲಿ ಬಳಕೆಯಾಗುವುದರ ಜೊತೆಗೆ, ಎಲ್ಲ ಬಗೆಯ ದೈನಂದಿಕ ಪತ್ರಿಕೆಗಳು, ಸಚಿತ್ರ ಪತ್ರ-ಪತ್ರಿಗಳಲ್ಲಿಯೂ ಪ್ರಕಾಶನಗೊಂಡವು, ರೋಗ ಪಿಡುಗಿನ ಹಾನಿಕಾರಕ ದೃಶ್ಯಗಳು ಮತ್ತು ವೈಜ್ಞಾನಿಕ ತಂತ್ರಜ್ಞಾನದ ಮೂಲಕ ರೋಗ ನಿವಾರಣೆಯ ಪರಿಹಾರದ ಸಾಕ್ಷಿಗಳನ್ನು ಸಹ ಈ ಚಿತ್ರಗಳು ಪ್ರತಿಬಿಂಬಿಸಿದವು.  ಪ್ಲೇಗ್‌ ಕುರಿತ ಛಾಯಾಚಿತ್ರಣ, ವಿಶ್ವದ ಹಲವು ಭಾಗಗಳಲ್ಲಿ ಪ್ಲೇಗ್‌ ರೋಗ ಸಾಂಕ್ರಾಮಿಕದ ಸ್ಫೋಟ, ರೋಗ ನಿವಾರಣೆ ಮತ್ತು ಪಿಡುಗಿನ ಹತೋಟಿಯ ಬಗೆಗೆ ವಿವಿಧ ಕಥನಗಳ ಸಮಗ್ರ ಮಾಹಿತಿ ನೀಡುವಂತಹ, ದೃಶ್ಯ ಮಾಧ್ಯಮವಾಯಿತು.  “ಬ್ಲ್ಯಾಕ್‌ ಡೆಥ್” ನ ಚಿತ್ರಣಗಳೊಂದಿಗೆ ರೋಗ ಪಿಡುಗಿನ ಬಗೆಗೆ ವೈದ್ಯಕೀಯ ಹಾಗೂ ಜನಸಾಮಾನ್ಯರ ಅನುಭವಗಳನ್ನು, ಛಾಯಾಚಿತ್ರ ಮುಖೇಣ ಮೊದಲ ಬಾರಿಗೆ ಒಂದೇ ಸೂತ್ರದಲ್ಲಿ ಬೆಸೆಯಲಾಗಿತ್ತು.
 
 
-  The third plague pandemic was the first epidemic to be photographed. This extensive photographic record did not simply depict individual outbreaks across the globe. It also played a role in the public negotiation of what caused these epidemics, and how they should be best handled. Issues like the impact of epidemic control on free trade, state and local sovereignty and civil liberties, as well as the efficacy of quarantine, imagined class and race aspects of plague transmission, and the use of segregation as a public health measure, urban planning and the pathogenic potential of native forms of habitation, the role of modern technology in the spread of plague, and the implication of rats and other animals in the spread of the disease were visually commented and negotiated through the unprecedented use of photography in documenting a global pandemic. Plague photography thus contributed not just to a vision of plague as a global scourge, but also to the emergence of a broader pandemic imaginary. 
+  ಮುಂಬೈ(ಬಾಂಬೆ) ಯಲ್ಲಿ, ಪ್ಲೇಗ್‌ ರೋಗವು ಸೆಪ್ಟೆಂಬರ್‌, 1896 ರಲ್ಲಿ ಹರಡಿತು.  ಹಾಂಗ್ ಕಾಂಗ್‌ ನಿಂದ ಬಂದ ಹಡಗುಗಳ ಮೂಲಕ ಈ ರೋಗವು ಪ್ರಸರಿಸಿರ ಬಹುದು. ತತ್ಕಾಲೀನ ಬ್ರಿಟಿಷ್‌ ಸಾಮ್ರಾಜ್ಯದ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಕೇಂದ್ರವಾದ ಬಾಂಬೆಯಲ್ಲಿ ಪ್ಲೇಗ್ ರೋಗ ಪಿಡುಗು ಹರಡಿದುದರ ಕಾರಣ, ಲಂಡನ್‌ ಅಲ್ಲಿ ಭಯ ಉಂಟಾಯಿತು.  ಭೂ-ರಾಜಕೀಯ ದೃಷ್ಟಿಯಿಂದಲೂ ಬಾಂಬೆ, ಪ್ರಮುಖ ಪ್ರದೇಶವಾಗಿತ್ತು, ಹೀಗಾಗಿ, ಅಂದಿನ ಭಾರತ ಸರ್ಕಾರವು ಇಂತಹ ರೋಗ ಸ್ಫೋಟಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸುವಲ್ಲಿ ಬಹಳ ತಡ ಮಾಡಿದೆ ಎಂದು ಹಲವರ ಭಾವನೆಯಾಗಿತ್ತು. ಬಾಂಬೆ ಯಿಂದ ಬೇರೆ ನಗರಗಳಿಗೆ ಪ್ಲೇಗ್‌ ವ್ಯಾಪಿಸಲು ಪ್ರಾರಂಭವಾದಾಗ, ಬ್ರಿಟಿಷ್‌ ಭಾರತದಲ್ಲಿ ಅಧಿಕಾರದಲ್ಲಿದ್ದ ಹಲವಾರು ಕರ್ನಲ್‌ ಅಧಿಕಾರಿಗಳು ವಿಚಿತ್ರವಾಗಿ ತಮ್ಮದೇ ನಿಟ್ಟಿನಲ್ಲಿ ವರ್ತಿಸಿದರು.  ಫೆಬ್ರವರಿ 1897 ರಲ್ಲಿ ಭಾರತ ಸರ್ಕಾರವು ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಅಧಿನಿಯಮವನ್ನು ರೂಪಿಸಿತು.  ಇದರಿಂದಾಗಿ ಪ್ಲೇಗ್‌ ವಿರುದ್ಧ ಹೋರಾಡಲು, ತುರ್ತು ಪರಿಸ್ಥಿತಿ ನಿರ್ಮಾಣವಾಯಿತು.  ಮುಖ್ಯ ನಗರಗಳಲ್ಲಿ, ಸೈನಿಕರು ಮನೆ ಮನೆಯನ್ನೂ ಪರಿಶೋಧಿಸಿ ಪ್ಲೇಗ್‌ ಪೀಡಿತರನ್ನು ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲು ಪಡಿಸಿದರು, ಸೋಂಕು ನಿವಾರಣೆಗಾಗಿ ಮನೆಗಳ ಛಾವಣಿಗಳನ್ನು ಕಿತ್ತೊಗೆದು, ಮನೆಗಳನ್ನೇ ಸುಟ್ಟು ಬಿಡುತ್ತಿದ್ದರು, ಇಲ್ಲವೇ ಅತಿ ಆಮ್ಲೀಯ ದ್ರವಗಳನ್ನು ಸುರಿಯುತ್ತಿದ್ದರು. ಪ್ಲೇಗ್‌ ರೋಗವು ಸ್ಥಳೀಯ ರೋಗವೆಂಬ ತಪ್ಪು ತಿಳುವಳಿಕೆಯಿಂದ ಇಂತಹ ಅತಿರೇಕದ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತಿತ್ತು.
 
-
-  These photographs were carried not simply in medical publications but across the lay daily and illustrated press, creating a spectacle of epidemic destruction and technoscientific salvation. Plague photography connected different outbreaks of the disease across the globe in a common aetiological and epidemic control narrative, mobilising visual tropes of the “Black Death” and fostering for the first time a medical and lay experience of the “pandemic”. 
-
-
-  Plague arrived in Mumbai (Bombay) in September 1896, probably carried there by steamships from Hong Kong. The existence of plague in Bombay – one of the major commercial centres of the British Empire at the time – caused immediate panic in London, where it was felt that the Indian Government were being too slow to respond to an outbreak that had potentially major geopolitical significance. Colonial officials responded in a draconian and largely incoherent manner as plague began to spread from Bombay to other major cities across British India. In February 1897, the government of India promulgated the Epidemic Diseases Act, which effectively created a state of emergency around anti-plague measures. In major cities, far-reaching campaigns were unleashed that involved house-to-house searches by soldiers, forced hospitalisation, and the compulsory disinfection of houses. Disinfection involved a range of measures including deroofing and burning down houses or hosing them with highly acidic solutions, and was based upon the false idea that plague was a disease of ‘locality’. At the same time, colonial authorities implemented the evacuation of cities, towns and villages and the segregation of their inhabitants in a range of plague camps, also based on a false idea that bubonic plague was contagious (i.e. directly transmissible between humans). These invasive measures were, unsurprisingly, deeply unpopular among the affected population, and resulted in sustained resistance and a political crisis for the colonial government. Eventually, the colonial government decided to pursue a more moderate path, and placed an emphasis upon the voluntary nature of anti-plague work. Plague remained in India for several more decades, and between 1896 and 1921 killed an estimated 10 million people. It was, however, also in India that major scientific breakthroughs took place. Most importantly, in 1898 the Pasteurian doctor Paul-Louis Simond established that rats’ fleas were the plague's principal vector. Indeed, scientific work undertaken in the subcontinent in the first two decades of the twentieth century was instrumental in creating new understandings of bubonic plague.
-
-
-  References
-
-  David Arnold, Colonizing the Body: State Medicine and Epidemic Disease in Nineteenth Century India (Cambridge: Cambridge University Press, 1993).
-
-
-  Ian Catanach, “Plague and the Tensions of Empire: India, 1896–1918,” In David Arnold (ed.), Imperial Medicine and Indigenous Societies, pp. 149–71 (Manchester: Manchester University Press, 1988).
-
-
-  Pratik Chakrabarti, Bacteriology in British India: Laboratory Medicine and the Tropics (University of Rochester Press, 2012).
-
-
-  R. Chandavarkar, “Plague Panic and Epidemic Politics in India, 1896–1914,” in P. Slack (ed.), Epidemics and Ideas: Essays on the Historical Perception of Pestilence, pp. 203–40 (Cambridge: Cambridge University Press, 1992).  
-
-
-  Nicholas Evans, “Blaming the Rat? Accounting for Plague in Colonial Indian Medicine,” Medicine, Anthropology, Theory 5:3 (2018): 15-42.
-
-
-  Aiden Forth, Barbed-Wire Imperialism: Britain’s Empire of Camps, 1876-1903 (Berkeley: The University of California Press, 2018).
-
-
-  Prashant Kidambi, “An Infection of Locality’: Plague, Pythogenesis and the Poor in Bombay, c. 1896–1905,” Urban History 31 (2004): 249­267.
-
-
-  Ira Klein, “Plague, Policy and Popular Unrest in British India,” Modern Asian Studies 22: 4 (1988): 723–55.
-
-
-
-  Acknowledgment: 
-
-
-  This exhibit is an output of the Visual Representations of the Third Plague Pandemic research project led by social anthropologist, Dr Christos Lynteris (University of St. Andrews). The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/ERC grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo: [https://www.repository.cam.ac.uk/handle/1810/280684](https://www.repository.cam.ac.uk/handle/1810/280684)
-
-
-  Photographs 1, 5, 6,7, and 8 are available via Wellcome Collection, Attribution 4.0 International (CC BY 4.0). Photographs 4, 9, and 10 are reproduced here courtesy of the Centre for South Asia Studies of the University of Cambridge. Photographs 2 and 3 are available via The British Library, Public Domain Mark 1.0.
+  ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ರೋಗವು  ಸಾಂಕ್ರಾಮಿಕವಾದುದು, (ಮಾನವರಿಂದ ಮಾನವರಿಗೆ ನೇರವಾಗಿ ಹರಡುವುದು) ಎಂಬ ತಪ್ಪು ಕಲ್ಪನೆಯಿಂದ ಸ್ಥಳೀಯ ಅಧಿಕಾರಿಗಳು, ನಗರಗಳಲ್ಲಿ ಮತ್ತು ಹಳ್ಳಿಗಳಲ್ಲಿ ವಾಸವಾಗಿದ್ದ ಜನರನ್ನು ಅಲ್ಲಿಂದ ಗುಳೆ ಎಬ್ಬಿಸಿ ಊರುಗಳನ್ನೇ ಖಾಲಿ ಮಾಡಿಸಿ ಹಲವಾರು ಪ್ಲೇಗ್‌ ಬಿಡಾರಗಳಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿರಿಸಿಸುತ್ತಿದ್ದರು  ಹೀಗಾಗಿ ಅಸಮಾಧಾನವು ರೋಗ ಸಂತ್ರಸ್ತರಲ್ಲಿ ಮನೆ ಮಾಡಿತ್ತು, ಈ ಕ್ರಮಗಳ ಫಲಸ್ವರೂಪವಾಗಿ, ಸ್ಥಳೀಯ ಜನರು, ಬ್ರಿಟಿಷ್‌ ಸರ್ಕಾರವನ್ನು ಪ್ರಭಲವಾಗಿ ವಿರೋಧಿಸಿದ್ದರು. ಕೊನೆಗೂ ಸರ್ಕಾರವು ಮಧ್ಯಮ ಮಾರ್ಗವನ್ನು ಅನುಸರಿಸ ಬೇಕಾಯಿತು.  ಸ್ವಯಂ ಪ್ರೇರಿತ ಪ್ಲೇಗ್‌ ರೋಧಕ ಕಾರ್ಯಾಚರಣೆ ನೆಡೆಸಲು ಮುಂದಾಯಿತು.  ಭಾರತದಲ್ಲಿ ಇನ್ನೂ ಹಲವು ದಶಕಗಳ ಕಾಲ ಪ್ಲೇಗ್‌ ಪಿಡುಗು ಇತ್ತು,  1896 ರಿಂದ 1921 ವರೆಗೂ 10 ದಶ ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಜನರು ಪ್ಲೇಗ್‌ ರೋಗ ಮಹಾಮಾರಿಯಿಂದ ಸಾವನ್ನಪ್ಪಿದ್ದರು.  ಭಾರತದಲ್ಲೂ ಪ್ರಮುಖ ವೈಜ್ಞಾನಿಕ ಸಂಶೋಧನೆಗಳು ನೆಡೆದವು.  ಪ್ಲೇಗ್‌ ಹರಡುವಿಕೆಗೆ ಇಲಿ / ಹೆಗ್ಗಣಗಳು  ಮತ್ತು  ಅವುಗಳ ಮೇಲೆ ಇರುವ ಕೀಟಗಳು ಮುಖ್ಯವಾಗಿ ಕಾರಣ ಎಂಬುದನ್ನು 1898 ರಲ್ಲಿ ಪ್ಯಾಸ್ಟರೇನಿಯನ್‌ ವೈದ್ಯರಾದ ಪೌಲ್-‌ ಲೂಯಿ ಸೈಮಂಡ್‌ ಅವರು ನಿರೂಪಿಸಿದರು.  ಭಾರತ ಭೂ-ಖಂಡದಲ್ಲಿ ಇಪ್ಪತ್ತನೇ ಶತಮಾನದ ಮೊದಲ ಎರಡು ದಶಕಗಳಲ್ಲಿ ನೆಡೆದ ಹಲವು ವೈಜ್ಞಾನಿಕ ಸಂಶೋಧನೆಗಳು, ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ರೋಗದ ಮೂಲವನ್ನು ಅರಿಯಲು ಸಹಕಾರಿಯಾದವು.
 exhibitimages:
   - privis: /static/img/A_EXHIBIT_PRI_VIS_1.jpg
     pritxt: "“ಬಿಡಾರವೊಂದರಲ್ಲಿ ಕಾರ್ಯ ನಿರತ ಕ್ಷೌರಿಕ”, 1897, ಕರಾಚಿ ಪ್ಲೇಗ್‌ ಕಮಿಟಿ ಆಲ್ಬಮ್‌,
