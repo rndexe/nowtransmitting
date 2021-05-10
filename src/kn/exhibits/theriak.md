@@ -1,11 +1,12 @@
 ---
 layout: theriak
-authortype: Team
+authortype: ತಂಡ
 thumb: /static/img/E_Exhibit_Thumbnail.jpg
-title: THERIAK | The Disease Map
-subtitle: Mapping the ebb and flow of diseases
-medium: Time-lapse film of Vibrio cholerae interacting with synthetic peptides
-  across a map of Basel by engraver Matthäus Merian (1593-1650). 5 min. 3 sec.
+title: ಥೇರಿಯಾಕ್‌  | ರೋಗ ನಕ್ಷೆ
+subtitle: ರೋಗಗಳ ಏರಿಳಿತ ಮತ್ತು ಹರಿವನ್ನು ಅಂಕಿತ ಗೊಳಿಸುವ ನಕ್ಷೆ
+medium: ʼಮಟ್ಹೌಸ್‌ ಮೆರಿಯನ್‌ʼ ಅವರ ʼಬಸೆಲ್‌ʼ ನ ರೂಪಚಿತ್ರಣವನ್ನು (1593-1650) ಬಳಸಿಕೊಂಡು,
+  ಸಂಸ್ಕರಿಸಿದ ಪೆಪ್ಟೈಡ್‌ ಲೇಪನ ದ ಮೇಲೆ  ಖಾಲೆರಾ ವಿಬ್ರಿಯೋ ಸೂಕ್ಷ್ಮಾಣುವಿನ ಬೆಳವಣಿಗೆಯ
+  ವಿಭಿನ್ನ ಹಂತಗಳ ಚಿತ್ರ ಪ್ರದರ್ಶಿಕೆ. 5 ನಿಮಿಷ. 3 ಸೆಕೆಂಡುಗಳು.
 year: 2017 – 2019
 description: >-
   Disease maps are a long-standing scientific tool used to understand the spread
@@ -27,43 +28,42 @@ pritxt: "ʼಕಾಲ ಕಳೆದಂತೆʼ, ʼಟೈಮ್‌ ಲ್ಯಾಪ�
   (1593-1650). 2019. 5’ 3’’. "
 exhibitauthor:
   - authorimage: /static/img/E_EXHIBIT_SEC_VIS_1.jpg
-    authorname: Sarah Craske
-    authorbio: Sarah Craske works in the liminal, transdisciplinary space between
-      art, science, and technology. Her work explores the Anthropocene through
-      philosophical enquiry into our relationship with various forms of climate
-      breakdown, by drawing on specialist expertise and technologies, and by
-      taking part in research collaborations across the world. Her recent bodies
-      of work include *Returning Shores, Healing Earth, THERIAK* and *Biological
-      Hermeneutics*, a site-specific installation at Chethams’ Library,
-      Manchester—the oldest public library in the English-speaking world. Recent
-      awards include the Whitstable Biennale Jerwood Attachment, currently
-      supporting a year of research and development; the John Ruskin Prize
-      Shortlist, that identified her as an ‘Agent of Change’; an AHRC Science in
-      Culture Innovation Award and a Biofaction artist-in-residence in
-      Switzerland.  <http://www.sarahcraske.co.uk/>
-  - authorbio: Irene Wüthrich and Steven Schmitt are interested in microbial
-      metabolites whose distinct functions have evolved to shape microbial
-      interactions and communities, and how we can adapt this diverse molecular
-      treasure trove with biological engineering for applications in human
-      medicine. In particular, they are developing new solutions to stem the
-      tide of rising antibiotic resistance.
-    authorname: Irene Wüthrich and Steven Schmitt
+    authorname: ಸಾರಾ ಕ್ರಾಸ್ಕ್
+    authorbio: >-
+      ಸಾರಾ ಕ್ರಾಸ್ಕ್, ಕಲೆ, ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಹಲವು ಶೈಕ್ಷಣಿಕ
+      ಕಾರ್ಯ ಕ್ಷೇತ್ರಗಳ ನಡುವೆ ಸಂಬಂಧ ಕಲ್ಪಿಸಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.  ಹವಾಮಾನ
+      ವೈಪರೀತ್ಯಗಳ ವಿವಿಧ ರೂಪಗಳೊಂದಿಗೆ ಮಾನವನ ಸಂಬಂಧ ಹಾಗೂ ಆಧ್ಯಾತ್ಮಿಕ, ತಾತ್ವಿಕ
+      ಪರಿಶೀಲನೆಯ ಮೂಲಕ ಸಿಸರ್ಗದ ದುರ್ಬಳಕೆಯ ಬಗೆಗೆ ಅನ್ವೇಷಣೆಯ ಕಾರ್ಯದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ. 
+      ವಿಶ್ವದೆಲ್ಲೆಡೆಯ ಸಂಶೋಧನಾ ಸಹಭಾಗಿತ್ವಗಳಲ್ಲಿ ಪಾಲ್ಗೊಂಡು, ಈ ವಿಷಯದ ಬಗೆಗೆ
+      ತಂತ್ರಜ್ಞಾನದ ಮತ್ತು ತಜ್ಞರ ಅಭಿಪ್ರಾಯವನ್ನು ಸೆಳೆಯುತ್ತಾರೆ.  
+
+
+      ಸಾರಾ ಅವರ ನೂತನ ಕೃತಿಗಳಲ್ಲಿ “ಬಯೋಲಾಜಿಕಲ್‌ ಹರ್ಮೆಂಯುಟಿಕ್ಸ್‌,“ ಕೂಡ ಒಂದು.  ಮಾಂಚಿಸ್ಟರ್‌ ಅಲ್ಲಿರುವ ಇಂಗ್ಲಿಷ್‌ ಪ್ರಪಂಚದ ಅತಿ ಹಳೆಯ ಗ್ರಂಧಾಲಯವಾದ ಛೇತಮ್ಸ್‌ ಲೈಬ್ರರಿಯಲ್ಲಿ , ಅಳವಡಿಸಿದ ಕ್ಷೇತ್ರ- ನಿರ್ದಿಷ್ಟ ಸ್ಥಾವರದ ಮೂಲಕ ಈ ಕೃತಿಯನ್ನು ವಿಶ್ಲೇಷಣೆ ಯೊಂದಿಗೆ ಪ್ರಸ್ತುತ ಪಡಿಸಲಾಗಿತ್ತು. [](http://www.sarahcraske.co.uk/)
+
+
+      <http://www.sarahcraske.co.uk/>
+  - authorbio: ಡಾ.ಐರೀನ್‌ ವುಥ್ರಿಚ್‌ ಮತ್ತು ಡಾ.ಸ್ಟೇವನ್‌ ಸಕ್ಮಿಟ್‌ ಅವರು, ಸೂಕ್ಷ್ಮಾಣುಗಳ
+      ಜೀರ್ಣ ಪ್ರಕ್ರಿಯೆಯ ಅಧ್ಯಯನದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ.  ಸೂಕ್ಷ್ಮಾಣುಗಳ ಜೀರ್ಣ ಪ್ರಕ್ರಿಯೆಯು
+      ಅವುಗಳ ಪರಸ್ಪರ ಸಂಬಂಧ ಮತ್ತು ಸಮೂಹಗಳ ಸೃಷ್ಟಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ, ಈ ಜ್ಞಾನವನ್ನು
+      ಭೇದಿಸಿದರೆ, ವಿಭಿನ್ನ ಸೂಕ್ಷ್ಮಾಣು ಸಂಪತ್ತನ್ನು ಬಳಸಿಕೊಂಡು ಜೀವಶಾಸ್ತ್ರದ ಅತಿಸೂಕ್ಷ್ಮ
+      ಪ್ರಕ್ರಿಯೆಗಳೊಂದಿಗೆ ಅಳವಡಿಸಿ, ಮಾನವ ಸಮುದಾಯದ ಔಷದ ಉಪಚಾರವನ್ಜು  ಸಕ್ಷಮವಾಗಿ ತಯಾರಿಸ
+      ಬಹುದು. ಈ ಮೂಲಕ, ಬೃಹದಾಕಾರವಾಗಿ ಏರುತ್ತಿರುವ ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧಕಗಳಿಗೆ
+      ಸೂಕ್ತ ಪರಿಹಾರವನ್ನು ವಿಕಸನಗೊಳಿಸುವ ಸಂಶೋಧನಾ ಕಾರ್ಯದಲ್ಲಿ ಈ ವಿಜ್ಞಾನಿಗಳು
+      ತೊಡಗಿದ್ದಾರೆ.
+    authorname: ಡಾ.ಐರೀನ್‌ ವುಥ್ರಿಚ್‌ ಮತ್ತು ಡಾ.ಸ್ಟೇವನ್‌ ಸಕ್ಮಿಟ್‌ ಅವರು
     authorimage: /static/img/E_EXHIBIT_SEC_VIS_2.jpg
-  - authorname: The Pharmacy Museum of the University of Basel
-    authorbio: Founded in 1925, by Professor J. A. Häfliger, the Pharmacy Museum
-      displays one of the world’s largest collections of historic remedies and
-      material associated with their production. The museum is the original
-      scientific collection, which to this day has remained intact in its
-      original form. The extensive collection of early pharmaceuticals
-      illustrates different ideas and approaches to disease, as well as
-      documents the progression of methodologies from the ancient world until
-      the beginning of the pharmaceutical industry in Basel. The "Zum Sessel"
-      house, which is now home to the museum, has captured the attention of
-      scientists across Europe from as early as the 16th century, when Erasmus
-      of Rotterdam and the doctor and alchemist Paracelsus were working there.
-      Between 1936 and 1967, Tadeus Reichstein, who received the Nobel Prize in
-      Physiology or Medicine in 1950, conducted his research in the very same
-      house. <https://pharmaziemuseum.ch/de/>
+  - authorname: ಬ್ಯಾಸೆಲ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಔಷಧ ಸಂಗ್ರಹಾಲಯ
+    authorbio: >-
+      1925 ರಲ್ಲಿ, ಪ್ರೊಫೆಸರ್‌ ಜೆ.ಏ.ಹ್ಯಾಫ್ಲಿಗರ್‌ , ಸ್ಥಾಪಿಸಿರುವ “ಫಾರ್ಮಸಿ
+      ಮ್ಯೂಸಿಯಮ್”, ಔಷಧ ಸಂಗ್ರಹಾಲಯದಲ್ಲಿ, ಇತಿಹಾಸದ ಬಹುತೇಕ ಔಷದೋಪಚಾರಗಳನ್ನು ಹಾಗೂ
+      ಔಷಧಗಳನ್ನು ತಯಾರಿಸಲು ಬಳಸುವ ಪದಾರ್ಥಗಳನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿದೆ. ಈ ಸಂಗ್ರಹಾಲಯವು ಮೂಲ
+      ವೈಜ್ಞಾನಿಕ ಸಂಗ್ರಹಣೆಯಾಗಿದ್ದು, ಇಂದಿಗೂ ವಿಶಿಷ್ಟ ಸ್ವಂತಿಕೆಯನ್ನು ಉಳಿಸಿಕೊಂಡಿದೆ.
+
+
+      ಇತಿಹಾಸದಲ್ಲಿ, ರೋಗಗಳ ಚಿಕಿತ್ಸೆಗೆ ಬಳಸುತ್ತಿದ್ದ  ಔಷಧೋಪಚಾರದ ಹಲವು ವಿಧಾನಗಳನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿದೆ. ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ, ʼಬ್ಯಾಸೆಲ್‌ʼನಲ್ಲಿ ಔಷಧ ಉದ್ಯೋಗವು ಪ್ರಾರಂಭವಾಗುವ ತನಕವೂ, ಪುರಾತನ ಕಾಲದಿಂದ ಬೆಳೆದು ಬಂದ ವಿಭಿನ್ನ ಹಂತಗಳನ್ನು ದಾಖಲಿಸಲಾಗಿದೆ. 
+
+
+      <https://pharmaziemuseum.ch/de/>
     authorimage: /static/img/e_exhibit_sec_vis_3.jpg
 processimages:
   - tervis: /static/img/E_EXHIBIT_TER_VIS_1.jpg
@@ -131,9 +131,9 @@ eventlist:
     quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
-    quadrelatedtxt: Mapping Cholera by Sonia Shah
+    quadrelatedtxt: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎರಡು ನಗರದ ಕಥೆಗಳು |  ಸೋನಿಯಾ ಶಾ"
     quadrelatedvis: /static/img/e_exhibit_qua_expvis_1.jpg
-  - quadrelatedtxt: "Contagion in the 21st Century by Museum at Robert Koch Institute "
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/e_exhibit_qua_expvis_2.jpg
 authorimage: /static/img/E_EXHIBIT_SEC_VIS_1.jpg
