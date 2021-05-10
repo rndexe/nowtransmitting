@@ -1,60 +1,51 @@
 ---
 layout: when-world-laugh
-authortype: Team
+authortype: ತಂಡ
 thumb: /static/img/D_Exhibit_Thumbnail.jpg
-title: When the World Was A Laugh
-subtitle: Decoding the mechanics of a universal experience
-medium: Speculative fiction, participative collection, video installation
+title: ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ
+subtitle: ಜಾಗತಿಕ ಅನುಭವದ ಪ್ರಣಾಲಿಕೆಯನ್ನು ಪತ್ತೆ ಮಾಡುವ ಹಾದಿ
+medium: ಕಾಲ್ಪನಿಕ ಕಥೆ, ಸಹಭಾಗಿ ಸಂಗ್ರಹಣೆ, ವೀಡಿಯೋ ಸ್ಥಾವರ
 year: "2021"
 description: >-
-  Laughter is a uniquely human and collective activity. What people find funny
-  might vary by culture, but its contagious nature is obvious. In When the World
-  Was A Laugh, the artist invites us to perceive in our own body, the mechanics
-  of laughter, its physiological components, its quality as a gesture, and its
-  social significance. 
+  ನಗುವು ಮಾನವರಿಗೆ ಸೀಮಿತವಾದ ಸಮೂಹ ಚಟುವಟಿಕೆ.  ಸಾಂಸ್ಕೃತಿಕವಾಗಿ ನಗುವಿನ ಕಾರಣಗಳು
+  ವಿಭಿನ್ನವಾಗಿರ ಬಹುದು, ಆದರೆ, ನಗುವಿನ ವ್ಯಾಪಕತೆ ಸಹಜವಾದುದು.  ʼ ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ
+  ತಾಣವಾಗಿದ್ದಾಗ´ಎಂಬ ಈ ಸಂಚಿಕೆಯಲ್ಲಿ, ಕಲಾವಿದರು, ನಗುವಿನಿಂದಾಗಿ , ನಮ್ಮಲ್ಲಿ ಆಗುವ ಮಾನಸಿಕ
+  ಹಾಗೂ ದೈಹಿಕ ಬದಲಾವಣೆಗಳು, ನಗುವಿನ ಗುಣ, ಸ್ವಭಾವ, ಲಕ್ಷಣ, ವಿಶೇಷತೆ ಮತ್ತು ಸಾಮಾಜಿಕ
+  ಮಹತ್ವವನ್ನು ಅರಿಯಲು ಆಹ್ವಾನ ನೀಡಿದ್ದಾರೆ.    
 
 
-  In an attempt to track down the origins of the most contagious of laughs, Anaïs began documenting the sounds of laughter from across the world through an international Call for Laughs. As she and her collaborator tracked the most contagious ones, they set them into echoes and followed their modes of propagation, creating a speculative fiction. 
-
-
-  This investigation is presented as an evolutive video of laughs, which keeps growing as we contribute our laughter to this work. This video is complemented by the Collection of Laughs gathered during the investigation and presented as a typology of associated emotions
-
-  and colours. Inspired by the role of laughter in myths around the origin of the universe, this exhibit invites us to share a laugh at a time when the global pandemic has disrupted our ways of connecting and being together. 
+  ಆನೈಸ್‌ ಅವರು, ನಗುವಿನ ಸಾಂಕ್ರಾಮಿಕತೆಯ ಮೂಲಗಳನ್ನು ಪತ್ತೆ ಮಾಡುವ ಉದ್ದೇಶ ದಿಂದ, ನಗುವಿಗಾಗಿ ಅಂತರಾಷ್ಟ್ರೀಯ ಕರೆ ನೀಡಿದರು, ವಿಶ್ವದಾದ್ಯಂತ ಹಲವು ಬಗೆಯ ನಗು ಲಹರಿಗಳ ಶಬ್ದಗಳನ್ನು ದಾಖಲಿಸಲು ಪ್ರಾರಂಭಿಸಿದರು, ವಿಭಿನ್ನ ನಗು ಲಹರಿಗಳಿಂದ ತುಂಬಿ ವಿಕಸಗೊಂಡಿರುವ ವೀಡಿಯೋವನ್ನು ಪ್ರಸ್ತುತ ಪಡಿಸುತ್ತಿದ್ದಾರೆ, ನಾವು ನಮ್ಮ ನಗುವನ್ನು ಹಂಚಿಕೊಂಡಂತೆಲ್ಲಾ, ಈ ಕೃತಿಯು ಹೆಚ್ಚು ರೂಪಗೊಳ್ಳುತ್ತದೆ, ಪ್ರಪಂಚದಾದ್ಯಂತ ನಗುವಿಗೆ ಕಾರಣವಾದ ಹಲವಾರು ಕಥನಗಳಿಂದ ಪ್ರೇರಿತರಾಗಿ, ನಗುವನ್ನು ಸವಿದು, ಜೀವನದಲ್ಲಿ ನಗುವಿನ ಪಾತ್ರ ಏನು ಎಂಬುದನ್ನು ಅರಿಯ ಬಹುದು.
 privis: https://player.vimeo.com/video/545376715
-pritxt: This video draws us into a dark chamber. In this installation space, the
-  vibrations of laughs recorded around the world are giving birth to miniature
-  landscapes. Every week of the exhibition, a new video reveals the mutation of
-  this world shaping under the oscillations of a sound piece created from our
-  investigation on the traces of the most contagious laugh.
+pritxt: ಈ ವೀಡಿಯೋ ನಮ್ಮನ್ನು ಕತ್ತಲೆ ಕೋಣೆಗೆ ಕರೆದೊಯ್ಯುತ್ತದೆ.  ವಿಶ್ವದೆಲ್ಲೆಡೆಯಿಂದ
+  ಕಲೆಹಾಕಿರುವ ವಿಭಿನ್ನ ನಗೆ ಲಹರಿಗಳು ಭೂ ನಕ್ಷೆಗಳ ರೂಪವನ್ನು ಸೃಷ್ಟಿಸಿವೆ. ಶಬ್ದ ತರಂಗಳು, ಈ
+  ವಿಶ್ವವನ್ನು ಹೇಗೆ ರೂಪಾಂತರಗೊಳಿಸುತ್ತಿವೆ ಎಂದು ಅರಿಯಲು, ಸಾಂಕ್ರಾಮಿಕ ನಗು ಲಹರಿ ಕುರುಹುಗಳ
+  ಅನ್ವೇಷಣೆಯನ್ನು ವೀಡಿಯೋಗಳ ಮೂಲಕ ಪ್ರದರ್ಶನದ ಪ್ರತಿಯೊಂದು ವಾರದಲ್ಲಿಯೂ, ಹೊರತರಲಾಗಿದೆ.
 exhibitimages:
   - privis: /static/img/d_exhibit_embed.png
 exhibitaudios: []
 exhibitauthor:
-  - authorname: Anaïs Tondeur
+  - authorname: ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್
     authorbio: >-
-      Merging natural sciences and anthropology, myth-making, and new media,
-      visual artist Anaïs Tondeur’s practice is anchored in ecology thought.
-      Creating installations, photographs, or videos, she seeks a new aesthetic,
-      in the sense of a renewal of our modes of perception, to find other
-      conditions of being in the world. 
+      ಮಾನವ ಶಾಸ್ತ್ರ , ನೈಸರ್ಗಿಕ ವಿಜ್ಞಾನಗಳು, ಮತ್ತು ನವ ಮಾಧ್ಯಮವನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ,
+      ದೃಶ್ಯ ಕಲಾವಿದರಾದ ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ಅವರು ಪರಿಸರದ ಚಿಂತನೆ ನೆಡೆಸಿದ್ದಾರೆ. 
+      ಛಾಯಾಚಿತ್ರಗಳು, ವೀಡಿಯೋಗಳು ಮತ್ತು ಸೃಜನಾತ್ಮಕ ಜೋಡಣೆಗಳ ಮೂಲಕ ಸುಂದರ ಕಲಾಕೃತಿಗಳನ್ನು
+      ರಚಿಸಿ, ಹೊಸ ಬಗೆಯ ಅಭಿಪ್ರಾಯವನ್ನು ಮೂಡಿಸಿ, ಈ ಪ್ರಪಂಚದಲ್ಲಿ ಬೇರೆ ಬಗೆಯ
+      ಅಸ್ಥಿತ್ವವನ್ನು ಹುಡುಕುವ ಪ್ರಯತ್ನ ಮಾಡಿದ್ದಾರೆ.  
 
 
-      She has been an artist-in-residence in several art centers and scientific laboratories, which include LeCentQuatre-Grand Paris Express (2018-19), Artlink (Ireland, 2019), the Museum of Arts et Métiers (Paris, 2018-17), and the National Centre for Space Studies (CNES, Paris, 2016).
-
-
-      She has presented and exhibited her work in international institutions such as the Center Pompidou (Paris), La Gaîté Lyrique (Paris), Serpentines Galleries (London), Bozar (Brussels), and Biennale Di Venezia, (Lieux Infinis).
+      ಇವರು ಹಲವು ಕಲಾ ಕೇಂದ್ರಗಳಲ್ಲಿ ಮತ್ತು ವೈಜ್ಞಾನಿಕ ಪ್ರಯೋಗಾಲಯಗಳಲ್ಲಿ ನಿವಾಸೀ ಕಲಾವಿದರಾಗಿ ಕಾರ್ಯಾನುಭವ ಪಡೆದಿದ್ದಾರೆ. ಲೆ ಸೆಂಟ್‌ ಕ್ವಾಟ್ರೆ-ಗ್ರಾಂಡ್‌, ಪ್ಯಾರಿಸ್ ಎಕ್ಸ್ಪ್ರೆಸ್‌(2018-19) , ಆರ್ಟ್‌ ಲಿಂಕ್‌ (ಐರ್ಲ್ಯಾಂಡ್, 2019)‌, ದಿ ಮ್ಯೂಸಿಯಂ ಆಫ್‌ ಆರ್ಟ್ಸ್‌ ಎಟ್‌ ಮೀಟಿಯರ್ಸ್‌ (ಪ್ಯಾರಿಸ್‌, 2018-17) ಮತ್ತು ದಿ ನ್ಯಾಶನಲ್‌ ಸೆಂಟರ್‌ ಫಾರ್‌ ಸ್ಪೇಸ್‌ ಸ್ಟಡೀಸ್‌ (ಸಿ.ಎನ.ಈ.ಎಸ್‌, ಪ್ಯಾರಿಸ್‌, 2016) ಸಂಸ್ಥೆಗಳಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಿದ್ದಾರೆ.
     authorimage: /static/img/d_exhibit_sec_vis_1.jpg
-  - authorname: Floriane Pochon
-    authorbio: >-
-      Floraine Pochon thinks and writes with sound. She creates sound forms,
-      hybrid forms, but also forms of transmission in active collaboration with
-      French and international artists.
-
-      Since 2013, she breathes for Phaune Radio, a strange wild creature that emits strange
-
-      sounds on the web 24 hours a day. Since 2014, she has been crossing sound and literary
-
-      writings with Alain Damasio for the sound arts studio Tarabust. Since 2016, she has also developed virtual reality audio sites between Montreal and France, with Eric Chahi, for Paper Beast.
+  - authorname: ಫ್ಲೋರೇನ್‌  ಪೋಚೊನ್
+    authorbio: ಫ್ಲೋರೇನ್‌ ಪೋಚೊನ್, ದ್ವನಿಗಳ ಬಗೆಗೆ ಆಳವಾದ ಅದ್ಯಯನದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ. 
+      ಶಬ್ದಗಳ ಬಗಗೆ ಸದಾ ಚಿಂತಿಸುತ್ತಾರೆ, ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ.  ಫ್ರೆಂಚ್‌ ಮತ್ತು
+      ಇತರೆ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಕಲಾವಿದರ ಸಹಯೋಗದೊಂದಿಗೆ ದ್ವನಿ ರೂಪಗಳನ್ನು ರಚಿಸಿ, ಅವುಗಳ
+      ಸಂವಹನದ ಮಾರ್ಗಗಳನ್ನು ಸಹ ಸೃಷ್ಟಿಸಿದ್ದಾರೆ.  ಬಗೆ ಬಗೆಯ ದ್ವನಿಗಳನ್ನು 24 ಗಂಟೆಯೂ
+      ಗುಂಗಿಡುವ ವಿಚಿತ್ರ ಕಾಡು ಮೃಗದ ರೂಪದ, “ಫೌನ್‌ ರೇಡಿಯೋ” ಗೆ 2013 ರಿಂದ ತಮ್ಮ ಕಂಠ ದಾನ
+      ಮಾಡಿದ್ದಾರೆ. 2014 ರಿಂದ “ಠಾರಾಬಸ್ಟ್‌” ಶಬ್ದ ಕಲಾ ಸ್ಟೂಡಿಯೋದೊಂದಿಗೆ, ಅಲೇನ್‌
+      ಡಮೇಸಿಯೋ ಅವರೊಡಗೂಡಿ, ದ್ವನಿಗಳನ್ನು ಕುರಿತಂತಹ ಸಾಹಿತ್ಯಿಕ ಬರಹಗಳನ್ನು
+      ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ.  2016 ರಲ್ಲಿ,  ಎರಿಕ್‌ ಛಾಹಿ ಅವರೊಡಗೂಡಿ, ʼಪೇಪರ್‌ ಬೀಸ್ಟ್‌ʼ
+      ಗಾಗಿ, ಮಾಂಟ್ರಿಯಲ್‌ ಮತ್ತು ಫ್ರಾಂಸ್‌ ನಡುವಣ ಮಿಥ್ಯಾ-ವಾಸ್ತವ ದ್ವನಿ ತಾಣವನ್ನು
+      ವಿಕಸನಗೊಳಿಸಿದ್ದಾರೆ.
     authorimage: /static/img/d_exhibit_sec_vis_2.jpg
 processimages:
   - tervis: /static/img/d_exhibit_ter_vis_1.jpg
@@ -112,7 +103,7 @@ watchinglist:
 play:
   - quadplaylink: https://everymoviecough.com/game.html
     quadplayvis: /static/img/d_exhibit_qua_playvis_1.jpg
-    quadplaytxt: Name That Cough
+    quadplaytxt: ಕೆಮ್ಮು ಎಂದು ಹೆಸರಿಸಿ
 eventlist:
   - quadeventtxt: How Ideas and Behaviours Spread through a Crowd | Event by Daniel
       Richardson
@@ -123,9 +114,9 @@ eventlist:
     quadeventlink: https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533
 relatedlist:
   - quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedtxt: The Chameleon Project by Tina Gonsalves
+    quadrelatedtxt: ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ | ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
   - quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
-    quadrelatedtxt: 2020 Vision by Robert Good
+    quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
