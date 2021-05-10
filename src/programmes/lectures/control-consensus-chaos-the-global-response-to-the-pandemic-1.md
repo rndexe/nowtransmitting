@@ -15,7 +15,8 @@ description: >
 
 
   In this talk, Professor Sheila Jasanoff will present a study that compared pandemic responses in eighteen countries. Research teams in each country have closely followed the crisis in three interlocking sectors—health, economy, politics—providing vital information on how and why Covid-19 has produced such different outcomes and what policy-makers can do moving forward. Jasanoff, who co-directed the study, will talk about the most surprising findings from this massive undertaking and discuss how they can inform our understanding of the human impacts of the pandemic.
-link: https://bit.ly/lecture-jasanoff
+link: ""
+reclink: https://www.youtube.com/embed/qANosY0F2rs
 expertname: Sheila Jasanoff
 expertbio: Sheila Jasanoff is Pforzheimer Professor of Science and Technology
   Studies at the Harvard Kennedy School. A pioneer in her field, she has
