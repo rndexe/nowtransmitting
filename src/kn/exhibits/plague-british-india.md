@@ -174,10 +174,10 @@ eventlist:
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/148314096455
 relatedlist:
-  - quadrelatedtxt: "Drawing the Bombay Plague - Ranjit Kandalgaonkar "
+  - quadrelatedtxt: ಬಾಂಬೆ ಪ್ಲೇಗ್‌  ಚಿತ್ರಾಕೃತಿ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
-  - quadrelatedtxt: "Contagion in the 21st Century | Esther Maria Antao "
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
 ---
