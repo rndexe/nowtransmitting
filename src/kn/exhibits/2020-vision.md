@@ -1,7 +1,7 @@
 ---
 layout: 2020-vision
 featured: true
-authortype: Artist
+authortype: ಕಲಾವಿದರು
 thumb: /static/img/B_Exhibit_Thumbnail.jpg
 title: 2020 ದೂರ ದೃಷ್ಟಿ
 subtitle: "ಮಾಹಿತಿ ಜಾಲ-ಸಮೂಹವನ್ನು ಬಿಡಿಸುವ ಬಗೆ "
