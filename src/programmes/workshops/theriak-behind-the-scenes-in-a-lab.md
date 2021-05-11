@@ -31,7 +31,7 @@ expertbio: Sarah Craske works in the liminal, transdisciplinary space between
   including libraries, museums, and laboratories. Purposefully prioritising
   their rich contexts over white cube galleries, these sites, buildings and
   organisations provide materials to work with, and become an structural part of
-  the work.
+  the work. [www.sarahcraske.co.uk](http://www.sarahcraske.co.uk/)
 expertpic: /static/img/M_WK_SEC_VIS_1.jpg
 readinglist:
   - quadreadlink: https://www.scientificamerican.com/article/human-hosts-help-cholera/
