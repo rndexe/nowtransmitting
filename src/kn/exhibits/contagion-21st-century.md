@@ -158,20 +158,21 @@ authorbio: ಡಾ.ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ, �
   ಜೀವರೋಧಕ ಪ್ರತಿರೋಧದ ಸಂವಹನೆಯ ವಿಷಯವನ್ನು ಕುರಿತು ಆಳವಾದ ಅಧ್ಯಯನ ನೆಡೆಸಿದ್ದಾರೆ.
 readinglist:
   - quadreadlink: https://www.historians.org/publications-and-directories/perspectives-on-history/october-2020/fearing-a-fear-of-germs-how-did-the-surgical-mask-transform-from-a-sign-of-bigotry-to-a-sign-of-care
-    quadreadtxt: Fearing a Fear of Germs
+    quadreadtxt: "ಕ್ರಿಮಿಗಳಿಂದ ಭೀತಿ - ಸಂಭಾವ್ಯಗಳು "
     quadreadvis: /static/img/O_EXHIBIT_QUA_READVIS_1.jpg
-  - quadreadtxt: What The Archaeological Record Reveals About Epidemics Throughout
-      History – And The Human Response To Them
+  - quadreadtxt: ಇತಿಹಾಸದ ಉದ್ದಕ್ಕೂ, ರೋಗ ಪಿಡುಗುಗಳನ್ನು ಮಾನವರು ಹೇಗೆ ಎದುರಿಸಿದರು ಎಂಬುದರ
+      ಬಗೆಗೆ ಪುರಾತತ್ವ ದಾಖಲೆಗಳಿಂದ ದೊರೆತ ಮಾಹಿತಿ.
     quadreadlink: https://theconversation.com/what-the-archaeological-record-reveals-about-epidemics-throughout-history-and-the-human-response-to-them-138408
     quadreadvis: /static/img/O_EXHIBIT_QUA_READVIS_2.jpg
-  - quadreadtxt: How Humans Have Reacted To Pandemics Through History – A Visual Guide
+  - quadreadtxt: ಗತ ಕಾಲದಲ್ಲಿ, ಮಾನವರು ರೋಗ ಪಿಡುಗುಗಳನ್ನು ಹೇಗೆ ಎದುರಿಸಿದರು ಎಂಬುದರ ಬಗೆಗೆ
+      ದೃಶ್ಯ ಮಾರ್ಗಸೂಚಿ.
     quadreadlink: https://www.theguardian.com/society/ng-interactive/2020/apr/29/how-humans-have-reacted-to-pandemics-through-history-a-visual-guide
     quadreadvis: /static/img/O_EXHIBIT_QUA_READVIS_3.jpg
 relatedlist:
-  - quadrelatedtxt: Drawing the Bombay Plague by Ranjit Kandalgaonkar
+  - quadrelatedtxt: ಬಾಂಬೆ ಪ್ಲೇಗ್‌  ಚಿತ್ರಾಕೃತಿ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
-  - quadrelatedtxt: Moulding Modern Medicine
+  - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
 quadreadtxt: Fearing a Fear of Germs
