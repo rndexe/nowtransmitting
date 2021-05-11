@@ -1,6 +1,6 @@
 ---
-title: "Detect, Investigate, Diagnose: Configuring Care in the Context of AIDS
-  and Ebola Epidemics"
+title: "ಗುರಿತಿಸಿ, ಪರಿಶೀಲಿಸಿ, ನಿರ್ಣಯಿಸಿ: ಏಡ್ಸ್‌ ಮತ್ತು ಎಬೋಲ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳಲ್ಲಿ
+  ಆರೈಕೆಯ ಪದ್ಧತಿ"
 permalink: kn/programmes/lectures/detect-investigate-diagnose/
 cata: spillover
 catb: documenting
@@ -8,25 +8,27 @@ thumb: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
 cover: /static/img/L_PL_Coverimage.jpg
 date: 2021-05-22T13:00:00.000Z
 description: >-
-  COVID-19 has transformed the ways in which social, cultural, political, and
-  economic factors influence the way a people and the state respond to health
-  crises. The politics of healthcare are complex and differ from country to
-  country, population to population. The histories and anthropologies of
-  epidemics have become increasingly urgent to study, so that we may better
-  prepare ourselves for the future. 
+  ಆರೋಗ್ಯ ವಿಪತ್ತುಗಳಿಗೆ, ಜನ ಸಮುದಾಯ ಮತ್ತು ರಾಜ್ಯಗಳು ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯೆ ತೋರುತ್ತವೆ
+  ಎಂಬುದು, ಸಮಾಜಿಕ, ಸಾಂಸ್ಕೃತಿಕ, ರಾಜನೀತಿಕ ಮತ್ತು ಆರ್ಥಿಕ ಅಂಶಗಳನ್ನು ಅವಲಂಬಿಸಿದ್ದು, ಆ
+  ದೃಷ್ಟಿಕೋನದಲ್ಲಿ, ಕೋವಿಡ್-19‌ ರೋಗ ಪಿಡುಗು ಪರಿವರ್ತನೆ ತಂದಿದೆ.  ಆರೋಗ್ಯ ರಕ್ಷಣೆಯ
+  ರಾಜತಂತ್ರವು ಅತಿ ಕ್ಲಿಷ್ಟಕರವಾದ ವಿಷಯವಾಗಿದ್ದು, ದೇಶ ಮತ್ತು ಜನಸಂಖ್ಯೆಗೆ ಅನುಗುಣವಾಗಿ
+  ಬದಲಾಗುತ್ತವೆ.  ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಲಕ್ಷಣಗಳು ಮತ್ತು ಅವುಗಳ ಇತಿಹಾಸವು ಅತಿ
+  ಮುಖ್ಯವಾದ ವಿಷಯವಾಗಿದ್ದು, ತುರ್ತು ಪರಿಶೀಲನೆ ಮಾಡಬೇಕಾದ ಸ್ಥಿತಿಯನ್ನೊಡ್ಡಿದೆ. ಮಾನವ ಸಮುದಾಯ
+  ಭವಿಷ್ಯದಲ್ಲಿ ಹೆಚ್ಚು ತಯಾರಾಗಿರ ಬೇಕಾದ ಸಂದರ್ಭ ಒದಗಿದೆ. 
 
 
-  Drawing on ethnographic and historical research on HIV/AIDS care and support and the 2014-16 epidemic of Ebola in Sierra Leone, Benton will address some of the key ideologies, social practices, and political-economic factors underpinning epidemic response, as well as the means by which state and non-state actors configure care during an epidemic.
+  ಬೆಂಟನ್‌ ಅವರು, ಎಚ್.‌ ಐ.ವಿ / ಏಡ್ಸ್‌ ರೋಗಿಗಳಿಗೆ ದೊರೆತಿರುವ ಆರೈಕೆ ಮತ್ತು ಬೆಂಬಲ ಹಾಗೂ  2014-16 ರ ಸಿಯಾರ್ರ ಲಿಯೋನ್‌ ನ ಎಬೋಲ ರೋಗ ಪಿಡುಗಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸಾಂಪ್ರದಾಯಿಕ ಮತ್ತು ಐತಿಹಾಸಿಕ ಸಂಶೋಧನೆಗಳ ವಿವರಣೆ ನೀಡಲಿದ್ದಾರೆ. ಈ ಕುರಿತಂತೆ , ರೋಗ ಪಿಡುಗುಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಕಾರಣ ಕಾರಕವಾದ ರಾಜನೀತಿಕ ಮತ್ತು ಆರ್ಥಿಕ ಅಂಶಗಳು, ಇಂತಹ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳಲ್ಲಿ , ಆಡಳಿತ ಹಾಗೂ ಆಡಳಿತೇತರ ಸಂಘ ಸಂಸ್ಥೆಗಳು ಯಾವ ಬಗೆಯ ಆರೈಕೆ ನೀಡ ಬಹುದು ಎಂಬುದರ ಬಗೆಗೆ ಉಪನ್ಯಾಸ ನೀಡಲಿದ್ದಾರೆ.
 link: http://bit.ly/lecture-benton
-expertname: Adia Benton
-expertbio: "Adia Benton is an associate professor of Anthropology and African
-  Studies at Northwestern University, where she is affiliated with the Science
-  in Human Culture Program. She is the author of the award-winning book, HIV
-  Exceptionalism: Development through Disease in Sierra Leone, and is currently
-  writing a book about the West African Ebola outbreak. More broadly, she
-  studies the political, economic and historical factors shaping how care is
-  provided in complex humanitarian emergencies and in longer-term development
-  projects—like those for health."
+expertname: ಆದ್ಯ ಬೆಂಟನ್
+expertbio: ಡಾ. ಅಡಿಯಾ ಬೇಂಟನ್‌, ನಾರ್ಥ್‌ ವೆಸ್ಟ್ರನ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಮಾನವ ಶಾಸ್ತ್ರ
+  ಮತ್ತು ಆಫ್ರಿಕಾದ ಅಧ್ಯಯನ ದ ಸಹ ಪ್ರೊಫೆಸರ್‌ ಆಗಿ ಸೇವೆಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ, ಜೊತೆಗೆ ʼಮಾನವ
+  ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ವಿಜ್ಞಾನʼ ಎಂಬ ಕಾರ್ಯ ಯೋಜನೆಯಲ್ಲಿಯೂ ತೊಡಗಿದ್ದಾರೆ.  ಇವರ ಕೃತಿ ʼಎಚ್.ಐ.ವಿ
+  ಎಕ್ಸೆಪ್ಶನಲಿಸಮ್:ಡೆವಲಪ್ಮೆಂಟ್‌ ಥ್ರು ಡಿಸೀಸ್‌ ಇನ್‌ ಸಿಯಾರ್ರ ಲಿಯೋನ್”‌ ಗೆ ಪುರಸ್ಕಾರ
+  ಲಭಿಸಿದೆ.  ಪ್ರಸಕ್ತ, ಪಶ್ಚಿಮ ಆಫ್ರಿಕಾದಲ್ಲಿ ಎಬೋಲ ರೋಗ ಸ್ಫೋಟವನ್ನು ಕುರಿತ ಕೃತಿಯನ್ನು
+  ರಚಿಸುತ್ತಿದ್ದಾರೆ.  ಇವರು, ರಾಜನೀತಿಕ, ಆರ್ಥಿಕ ಮತ್ತು ಐತಿಹಾಸಿಕ ಅಂಶಗಳು ಹೇಗೆ ಮಾನವ ಸಮಾಜದ
+  ಕ್ಲಿಷ್ಟಕರ ಆಪತ್ತುಗಳನ್ನು ಎದುರಿಸಲು ಮತ್ತು ಧೀರ್ಘಾವಧಿ ಪರಿಯೋಜನೆಗಳನ್ನು ರೂಪಿಸಲು
+  ನೆರವಾಗುತ್ತವೆ ಎಂಬುದರ ಅಧ್ಯಯನ ನೆಡೆಸಿದ್ದಾರೆ. ಉದಾಹರಣೆಗೆ ಆರೋಗ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ
+  ಯೋಜನೆಗಳು.
 expertpic: /static/img/pl_adia_portrait.png
 readinglist:
   - quadreadlink: https://www.lrb.co.uk/the-paper/v37/n10/paul-farmer/the-caregivers-disease
@@ -60,11 +62,11 @@ eventlist:
     quadeventtxt: A Human Question | Film Discussion
     quadeventvis: /static/img/fs_jayashree_thumbnail.png
   - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
-      Lecture by Sheila Jasanoff"
+      ಉಪನ್ಯಾಸ | Sheila Jasanoff"
     quadeventvis: /static/img/pl_sheila.jpg
     quadeventlink: https://bit.ly/lecture-jasanoff
 relatedlist:
-  - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+  - quadrelatedtxt: ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
