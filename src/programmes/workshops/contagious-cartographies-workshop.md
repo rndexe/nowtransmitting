@@ -20,7 +20,7 @@ description: >-
 
 
   With the world battling a pandemic over the last year, there has been an increased interest in collecting and consuming data that can help one make sense of the impact of the disease on our world. This hands-on workshop will dive deeper into how maps in the past have helped us understand diseases, and how you can create an interactive map to explore & narrate stories about deadly diseases.
-condition: "This workshop is exclusively for 15 to 28 year olds. "
+condition: This workshop is exclusively for 15 to 28 year olds.
 link: https://www.eventbrite.com/e/contagious-cartographies-workshop-registration-151978346325
 expertname: Rasagy Sharma and Harsha Devulalpalli
 expertbio: >-
@@ -40,22 +40,33 @@ readinglist:
   - quadreadlink: https://theconversation.com/coronavirus-outbreak-a-new-mapping-tool-that-lets-you-scroll-through-timeline-131422
     quadreadtxt: "Coronavirus Outbreak: A New Mapping Tool That Lets You Scroll
       Through Timeline"
-    quadreadvis: /static/img/wk_rasagyaharsha.png
+    quadreadvis: /static/img/I_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/pandemic-hot-spots-map/
     quadreadtxt: Pandemic Hot Spots Map a Path to Prevention
-    quadreadvis: /static/img/wk_rasagyaharsha.png
+    quadreadvis: /static/img/I_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://link.springer.com/article/10.1007/s41745-020-00196-z
     quadreadtxt: "Health Heatmap of India: An Open Data Platform"
-    quadreadvis: /static/img/wk_rasagyaharsha.png
+    quadreadvis: /static/img/I_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
     quadlisttxt: "Disease Detectives: How to Track an Epidemic"
-    quadlistvis: /static/img/wk_rasagyaharsha.png
+    quadlistvis: /static/img/I_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=S5H1ZOlMTQE
     quadwatchtxt: "Maps and Epidemiology: Lessons for COVID-19"
-    quadwatchvis: /static/img/wk_rasagyaharsha.png
+    quadwatchvis: /static/img/I_WK_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=VJ86D_DtyWg&t=53s
     quadwatchtxt: The 1850s Map That Changed How We Fight Outbreaks
-    quadwatchvis: /static/img/wk_rasagyaharsha.png
+    quadwatchvis: /static/img/I_WK_QUA_WATCHVIS_2.jpg
+eventlist:
+  - quadeventlink: https://www.youtube.com/watch?v=j5siL6RGILI&t=2s
+    quadeventtxt: Why and How Should We Model Infectious Diseases? | Lecture | Gautam Menon
+    quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
+relatedlist:
+  - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
+    quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
+    quadrelatedvis: /static/img/K_Exhibit_Thumbnail.jpg
+  - quadrelatedtxt: THERIAK | The Disease Map by Sarah Craske
+    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedvis: /static/img/E_Exhibit_Thumbnail.jpg
 ---
