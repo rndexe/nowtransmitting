@@ -4,7 +4,9 @@
             <div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto bg-white">
                 <iframe id="iframe2020" class="w-192 h-full bg-black" src={{video.privis}}
                 frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>	
-                <p class="self-end text-sm pl-10 w-96 font-normal font-trade text-black">{{video.pritxt}}</p>
+                <p class="self-end text-sm pl-10 w-96 font-normal text-black
+		  {{ "font-tunga" if kannada else "font-trade" }}
+		">{{video.pritxt}}</p>
             </div>
 	    {%- endfor -%}	
 	</div>

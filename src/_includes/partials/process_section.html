@@ -3,7 +3,9 @@
 	{%- for images in processimages -%}
 		<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-trueGray-750">
 			<img class="object-contain w-auto h-full" src={{images.tervis}} oncontextmenu="return false" ondragstart="return false">	
-			<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-white">{{images.tertxt}}</p>
+			<p class="self-end text-sm pl-10 w-96 font-normal text-white
+			  {{ "font-tunga" if kannada else "font-trade" }}
+			">{{images.tertxt}}</p>
 		</div>
 	{%- endfor -%}	
 	</div>

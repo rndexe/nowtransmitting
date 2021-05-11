@@ -2,7 +2,11 @@
 
 	{% if readinglist -%}	
 	<div class="mx-1 w-screen lg:w-96">
-		<h3 class="mb-0 text-black font-bold font-trade">Read</h3>
+		<h3 class="mb-0 text-black font-bold 
+		  {{ "font-tunga" if kannada else "font-trade" }}
+		">
+			{{ "ಓದಿ" if kannada else "Read" }}
+		</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
 
 		{% for links in readinglist -%}	
@@ -23,7 +27,11 @@
 
 	{% if listeninglist -%}	
 	<div class="mx-1 w-screen lg:w-96">
-		<h3 class="mb-0 text-black font-bold font-trade">Listen</h3>
+		<h3 class="mb-0 text-black font-bold 
+		  {{ "font-tunga" if kannada else "font-trade" }}
+		">
+			{{ "ಆಲಿಸಿ" if kannada else "Listen" }}
+		</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
 
 		{%- for links in listeninglist -%}	
@@ -44,7 +52,11 @@
 
 	{% if watchinglist -%}	
 	<div class="mx-1 w-screen lg:w-96">
-		<h3 class="mb-0 text-black font-bold font-trade">Watch</h3>
+		<h3 class="mb-0 text-black font-bold 
+		  {{ "font-tunga" if kannada else "font-trade" }}
+		">
+			{{ "ವೀಕ್ಷಿಸಿ" if kannada else "Watch" }}
+		</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
 		{%- for links in watchinglist -%}	
 		<div class="max-w-full flex flex-none h-28 border border-black-500 lg:mx-0 mb-3 rounded-lg">
@@ -64,7 +76,11 @@
 
 	{% if play %}
 	<div class="mx-1 w-screen lg:w-96">
-		<h3 class="mb-0 text-black font-bold font-trade">Play</h3>
+		<h3 class="mb-0 text-black font-bold 
+		  {{ "font-tunga" if kannada else "font-trade" }}
+		">
+			{{ "ಆಡಿ" if kannada else "Play"}}
+		</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
 		{%- for links in play -%}	
 		<div class="max-w-full flex flex-none h-28 border border-black-500 lg:mx-0 mb-3 rounded-lg">
@@ -84,7 +100,11 @@
 
 	{% if relatedlist -%}	
 	<div class="mx-1 w-screen lg:w-96">
-		<h3 class="mb-0 text-black font-bold font-trade">Related Exhibits</h3>
+		<h3 class="mb-0 text-black font-bold 
+		  {{ "font-tunga" if kannada else "font-trade" }}
+		">
+		  	{{ "ಸಂಬದ್ಧ ಪ್ರದರ್ಶಿಕೆಗಳು" if kannada else "Related Exhibits" }}
+		</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
 		{%- for links in relatedlist -%}	
 		<div class="max-w-full flex flex-none h-28 border border-black-500 lg:mx-0 mb-3 rounded-lg">
@@ -104,7 +124,11 @@
 
 	{% if eventlist -%}	
 	<div class="mx-1 w-screen lg:w-96">
-		<h3 class="mb-0 text-black font-bold font-trade">Attend</h3>
+		<h3 class="mb-0 text-black font-bold 
+		  {{ "font-tunga" if kannada else "font-trade" }}
+		">
+			{{ "ಭಾಗವಹಿಸಿ" if kannada else "Attend" }}
+		</h3>
 		<div class="mb-10 w-1/4 border border-red-650 h-0"></div>
 		{%- for links in eventlist -%}	
 		<div class="max-w-full flex flex-none h-28 border border-black-500 lg:mx-0 mb-3 rounded-lg">

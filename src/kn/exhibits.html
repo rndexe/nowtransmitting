@@ -1,6 +1,7 @@
 ---
 layout : default
 title: Contagion
+kannada: true
 path: home
 ---
 <body class="overflow-hidden" >
@@ -25,7 +26,7 @@ path: home
 	<div class="pullquote w-full h-full col-start-2 row-start-3 col-span-2">
 		<p class="font-display font-medium text-2xl text-white tracking-normal p-5">... witness contagion across disciplines to understand creative thinking and ask critical questions.</p>
 	</div> 
-	{%- for post in collections.kn-exhibit -%}
+	{%- for post in collections.kn_exhibit -%}
 	{% if post.data.featured %}
 	<div class="featured z-20 w-full col-span-2 row-span-2 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:z-50 hover:blur-md">
 		<a href= {{post.url}}>
