@@ -54,10 +54,10 @@ watchinglist:
     quadwatchvis: /static/img/I_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/workshop-aquije
-    quadeventtxt: Visualising the Virus | Workshop by Gabriela Aquije Zegarra
+    quadeventtxt: Visualising the Virus | ಕಾರ್ಯಾಗಾರ | Gabriela Aquije Zegarra
     quadeventvis: /static/img/wk_gabriela.png
-  - quadeventtxt: "Science, Innovation and Society: What Have We Learnt From the
-      Covid-19 Pandemic? | Lecture by Sir Jeremy Farrar"
+  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
+      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
     quadeventlink: https://bit.ly/lecture-farrar
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
