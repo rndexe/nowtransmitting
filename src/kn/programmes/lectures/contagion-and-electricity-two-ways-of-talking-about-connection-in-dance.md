@@ -18,15 +18,16 @@ description: >-
 
   Does social dance spread virally, or does it thrive through an electric connection? How does the competition between these metaphors relate to the formation of modernity’s social dances through colonialism, capitalism, and slavery, and how can we use them to understand the way we must dance during the pandemic?
 link: http://bit.ly/lecture-kabir
-expertname: Ananya Kabir
-expertbio: "Ananya Jahanara Kabir is Professor of English Literature at King’s
-  College London. For her innovative work in the Humanities, she was awarded the
-  Infosys Humanities Prize (2018) and the Humboldt Research Prize (2019). The
-  author of ‘Territory of Desire: Representing the Valley of Kashmir’ and
-  Partition’s Post-Amnesias’, she has researched the connections between dance,
-  modernity, and creolisation through an ERC Advanced Grant. Her new research is
-  on ‘Creole Indias’. In May 2020, she and the Franco-Tamil writer Ari Gautier
-  co-founded the cultural platform Le thinnai kreyol."
+expertname: "ಅನನ್ಯ ಕಬೀರ್‌ "
+expertbio: "ಡಾ.ಅನನ್ಯ ಜಹನಾರಾ ಕಬೀರ್‌,  ಕಿಂಗ್ಸ್‌ ಕಾಲೇಜ್‌, ಲಂಡನ್‌ ಅಲ್ಲಿ ಇಂಗ್ಲಿಷ್‌
+  ಪ್ರೊಫೆಸರ್‌ ಆಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ.  ಮಾನವ ಶಾಸ್ತ್ರಗಳಲ್ಲಿ ಇವರ ಕೊಡುಗೆಗೆ ,
+  ಇಂಫೋಸಿಸ್‌ ಹ್ಯುಮಾನಿಟೀಸ್‌ ಪುರಸ್ಕಾರ (2018)  ಮತ್ತು ಹಂಬೋಲ್ಡಟ್‌ ಸಂಶೋಧನಾ ಪುರಸ್ಕಾರ
+  (2019) ಲಭಿಸಿವೆ. ಇವರು, ʼದಿ ಟೆರಿಟರಿ ಆಫ್‌ ಡಿಸೈರ್: ರೆಪ್ರೆಸೆಂಟಿಂಗ್‌ ದಿ ವ್ಯಾಲಿ ಆಫ್‌
+  ಕಾಶ್ಮೀರ್”‌ ಮತ್ತು ಪಾರ್ಟಿಶನ್ಸ್‌ ಪೋಸ್ಟ್‌-ಅಮ್ನೇಶಿಯಾಸ್”‌ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. 
+  ನೃತ್ಯ, ಆಧುನಿಕತೆ ಮತ್ತು ನವೀನತೆಯ ಸಂಬಂಧ ಕಾಣಲು ಈ.ಆರ್.ಸಿ ಅನುದಾನ ಸಹಿತ ಸಂಶೋಧನೆ
+  ನೆಡೆಸಿದ್ದಾರೆ.  ಅವರ ಇತ್ತೀಚಿನ ಅಧ್ಯಯನ ʼನವೀನ ಭಾರತʼ(ಕ್ರಿಯೋಲ್‌ ಇಂಡಿಯಾಸ್)‌
+  ಕುರಿತಾಗಿದೆ. ಮೇ, 2020 ರಲ್ಲಿ, ಇವರು , ಫ್ರಾಂಕೋ-ತಮಿಳ್‌ ಬರಹಗಾರರಾದ ಆರಿ ಗೌಟಿಯರ್‌
+  ಒಡಗೂಡಿ “ಲೇ ಥಿನ್ನೈ ಕ್ರಿಯೋಲ್‌ ಸಾಂಸ್ಕೃತಿಕ ವೇದಿಕೆಯನ್ನು ಸ್ಥಾಪಿಸಿದ್ದಾರೆ."
 expertpic: /static/img/pl_ananya_portrait.png
 readinglist:
   - quadreadlink: https://scroll.in/article/801182/five-exhilarating-dance-moves-that-celebrate-the-traumas-of-modernity
@@ -51,9 +52,9 @@ watchinglist:
     quadwatchvis: /static/img/pl_ananya.png
 eventlist:
   - quadeventlink: http://bit.ly/lecture-shahane
-    quadeventtxt: The Art of Pandemics | Lecture by Girish Shahane
+    quadeventtxt: ಪಿಡುಗುಗಳಲ್ಲಿ ಕಲೆ | ಉಪನ್ಯಾಸ | ಗಿರೀಶ್‌ ಶಹಾನೆ
     quadeventvis: /static/img/pl_girish.png
-  - quadeventtxt: Dis-Ease | Film Discussion
+  - quadeventtxt: Dis-Ease | ಚಲನ ಚಿತ್ರ ಚರ್ಚೆ
     quadeventlink: http://bit.ly/films-ghani
     quadeventvis: /static/img/f_mariam.png
 relatedlist:
