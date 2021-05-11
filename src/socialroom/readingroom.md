@@ -79,6 +79,141 @@ recbooklist:
       of things to become contagious, from consumer products and policy
       initiatives to workplace rumors and YouTube videos.
     coverimage: /static/img/RR_Contagious.jpg
+  - title: I Am Thinking of My Darling
+    author: Vincent McHugh
+    link: https://www.publishersweekly.com/978-1-878274-05-2
+    about: In *I Am Thinking of My Darling*, a mysterious virus descends on New York
+      City, leaving its "victims" inhibition-free, irresponsible, and happy.
+      Acting mayor Jim Rowan has his hands full trying to prevent the spread of
+      the epidemic and keep the city running.
+    coverimage: /static/img/RR_I am thinking of my darling.jpg
+  - title: I Contain Multitudes
+    author: Ed Yong
+    about: Many people think of microbes as germs to be eradicated, but those that
+      live with us build our bodies, and play an important role in our health.
+      In *I Contain Multitudes*, we go on a grand tour through our microbial
+      partners, and learn more about the scientists on the front lines of
+      discovery.
+    link: https://www.brainpickings.org/2016/08/10/i-contain-multitudes-ed-yong/
+    coverimage: /static/img/RR_I contain multitudes.jpg
+  - title: Illness As a Metaphor
+    author: Susan Sontag
+    about: "*Illness As a Metaphor* shows us how the metaphors and myths surrounding
+      certain illnesses add greatly to the suffering of patients and inhibit
+      them from seeking proper treatment. By demystifying the fantasies
+      surrounding cancer, Sontag shows cancer for what it is--just a disease."
+    link: https://www.nybooks.com/articles/1978/01/26/illness-as-metaphor/
+    coverimage: /static/img/RR_illness as metaphor.jpg
+  - coverimage: /static/img/RR_My Own Country.jpg
+    title: "My Own Country: A Doctor’s Story"
+    author: Abraham Verghese
+    about: In *My Own Country*, an Indian physician Abraham Verghese recalls his
+      experience practicing in the remote, conservative town of Johnson City,
+      Tennessee, when HIV first emerged there in 1985.
+    link: https://www.abrahamverghese.org/books/
+  - coverimage: /static/img/RR_no magic bullet.jpg
+    title: No Magic Buller
+    author: Allan Brandt
+    about: Allan M. Brandt recounts the medical, military, and public health
+      responses that have arisen over the years--a broad spectrum that ranges
+      from the incarceration of sex-workers during World War I to the
+      establishment of required premarital blood tests.
+    link: https://www.hmsreview.org/covid/history-of-magic-bullets
+  - coverimage: /static/img/RR_On Immunity.jpg
+    title: "On Immunity: An inoculation"
+    author: Eula Biss
+    about: On Immunity addresses our fear of the government, the medical
+      establishment, and what may be in our children's air, food, mattresses,
+      medicines, and vaccines. Reflecting on her own experience as a new mother,
+      Eula Biss suggests that we cannot immunize our children, or ourselves,
+      against the world.
+    link: https://www.brainpickings.org/2021/03/19/eula-biss-on-immunity/
+  - title: "Pandemic: Tracking Contagions, From Cholera to Coronaviruses and Beyond"
+    author: Sonia Shah
+    about: In *Pandemic*, Sonia Shah interweaves history, original reportage, and
+      personal narrative to explore the origins of epidemics, drawing parallels
+      between cholera―one of history’s most deadly and disruptive
+      pandemic-causing pathogens―and the new diseases that stalk humankind
+      today.
+    link: https://www.thelancet.com/pdfs/journals/lanres/PIIS2213-2600(16)00107-7.pdf
+    coverimage: /static/img/RR_Pandemics.jpg
+  - title: Plague Ki Chudail
+    author: Master Bhagwan Das
+    about: "*Plague Ki Chudail* explores grief, fear and mortality in a town struck
+      by the plague."
+    link: https://scroll.in/article/975441/plague-ki-chudail-this-bittersweet-short-story-from-1902-explores-grief-fear-and-mortality
+    coverimage: /static/img/RR_PlagueKiChudail.jpg
+  - title: Plague and Quarantine
+    author: Rajinder Singh Bedi
+    about: "*Plague and Quarantine* tells the story of a sanitation worker who
+      treats patients with compassion and inspires a doctor to follow suit."
+    link: https://thewire.in/books/what-an-80-year-old-short-story-tells-us-about-ethics-during-qurantine
+    coverimage: /static/img/RR_PlagueandQuarantine.jpg
+  - title: Pox Americana
+    author: Elizabeth Fenn
+    about: A horrifying epidemic of smallpox was sweeping across the Americas when
+      the American Revolution began, and yet we know almost nothing about it.
+      *Pox Americana* reveals how deeply smallpox affected the outcome of the
+      war in every colony and the lives of everyone in North America.
+    link: https://www.historytoday.com/reviews/pox-americana
+    coverimage: /static/img/RR_pox americana.jpg
+  - title: Severance
+    author: Ling Ma
+    about: Maybe it’s the end of the world, but not for Candace Chen, a millennial,
+      first-generation American and office drone meandering her way into
+      adulthood in Ling Ma’s offbeat, wryly funny, apocalyptic satire,
+      *Severance*.
+    link: https://www.pbs.org/newshour/arts/author-ling-ma-answers-your-questions-about-severance
+    coverimage: /static/img/RR_severance.jpg
+  - about: "*The Barbary Plague* is a fascinating account of an outbreak of bubonic
+      plague in late Victorian San Francisco. Marilyn Chase shows how one city
+      triumphed over perhaps the most frightening and deadly of all scourges."
+    title: The Barbary Plague
+    author: Marilyn Chase
+    link: https://thetyee.ca/Views/2006/01/03/BarbaryPlague/
+    coverimage: /static/img/RR_TheBarbaryPlague.jpg
+  - title: The Conquest of Malaria
+    author: Frank Snowden
+    about: In *The Conquest of Malaria*, Frank Snowden recounts how Italy became the
+      world center for the development of malariology as a medical discipline
+      and launched the first national campaign to eradicate the disease.
+    link: https://www.theguardian.com/books/2006/apr/08/featuresreviews.guardianreview3
+  - title: "The House of Whispers "
+    about: "*The House of Whispers* is a gothic tale set in a rambling house by the
+      sea in which a maid cares for a mute old woman with a mysterious past,
+      alongside her superstitious staff."
+    author: Laura Purcell
+    coverimage: /static/img/RR_thehouseofwhispers.jpg
+    link: https://www.publishersweekly.com/978-0-14-313553-1
+  - about: In *The Making of a Social Disease*, David Barnes provides a much-needed
+      historical perspective on Tuberculosis. He argues that popular perceptions
+      of the disease owed more to the power structures of nineteenth-century
+      society than to medical science.
+    title: "The Making of a Social Disease: Tuberculosis in Nineteenth-Century"
+    author: David Barnes
+    coverimage: /static/img/RR_TheMakingOfASocialDisease.jpg
+    link: https://courses.lumenlearning.com/sociology/chapter/the-social-construction-of-health/
+  - title: The Plague
+    author: Albert Camus
+    about: A haunting tale of human resilience and hope in the face of unrelieved
+      horror, Albert Camus' *The Plague* is a gripping account about an epidemic
+      ravaging people in a North African coastal town.
+    link: https://www.theguardian.com/books/booksblog/2015/jan/05/albert-camus-the-plague-fascist-death-ed-vulliamy
+    coverimage: /static/img/RR_ThePlague.jpg
+  - coverimage: /static/img/RR_TheRulesofContagion.jpg
+    about: From 'superspreaders' who might spark a pandemic or bring down a
+      financial system to the social dynamics that make loneliness catch on,
+      *The Rules of Contagion* offers compelling insights into human behaviour
+      and explains how we can get better at predicting what happens next.
+    title: "The Rules of Contagion: Why Things Spread - and Why they Stop"
+    author: Adam Kucharski
+    link: https://wwwnc.cdc.gov/eid/article/27/2/20-4255_article
+  - coverimage: /static/img/RR_TheUndying.jpg
+    title: The Undying
+    author: Anna Boyer
+    about: "*The Undying* is an elegant and unforgettable narrative about the
+      brutality of illness and the capitalism of cancer care in America."
+    link: https://www.pulitzer.org/winners/anne-boyer
 speakerbooklist:
   - title: "Can Science Make Sense of Life? "
     author: Sheila Jasanoff
