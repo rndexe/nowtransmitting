@@ -1,0 +1,7 @@
+{
+    "layout" : "programmes/layout_workshops",
+    "path" : "kn-workshops",
+    "tags": [
+        "kn-workshop", "kn-programme"
+    ]
+}

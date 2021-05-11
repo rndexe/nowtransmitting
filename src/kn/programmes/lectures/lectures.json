@@ -1,0 +1,7 @@
+{
+    "layout" : "programmes/layout_lecture",
+    "path" : "kn-lectures",
+    "tags": [
+        "kn-lecture", "kn-programme"
+    ]
+}
