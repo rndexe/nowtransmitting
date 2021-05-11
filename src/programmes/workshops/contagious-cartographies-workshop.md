@@ -60,7 +60,7 @@ watchinglist:
     quadwatchvis: /static/img/I_WK_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: https://www.youtube.com/watch?v=j5siL6RGILI&t=2s
-    quadeventtxt: Why and How Should We Model Infectious Diseases? | Lecture by Gautam Menon
+    quadeventtxt: Why and How Should We Model Infectious Diseases? | Lecture | Gautam Menon
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
   - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
