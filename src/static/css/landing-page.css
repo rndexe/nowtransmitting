@@ -279,7 +279,7 @@ body, html{
   
     color: white;
     background-color: #d62b2b;
-    padding: 3rem 6rem 3rem 12rem;
+    /* padding: 3rem 6rem 3rem 12rem; */
 }
 
 .inner-menu .content {
