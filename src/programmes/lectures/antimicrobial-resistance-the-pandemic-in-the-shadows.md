@@ -14,7 +14,8 @@ description: >-
 
 
   COVID 19 has demonstrated the power of infectious diseases to reset our lives, and unless AMR is tackled urgently, the antibiotics we take for granted today will be unavailable to the future generations to come. This talk will show how AMR has reached pandemic proportions, and cover a range of topics, questions, and concerns regarding the same.
-link: http://bit.ly/lecture-joshi
+link: ""
+reclink: https://www.youtube.com/embed/tuq-hmSNJTQ
 expertname: Jyoti Joshi
 expertbio: Dr. Jyoti Joshi MBBS MD (Community Medicine) & MSc (Infectious
   diseases) is Head - South Asia at the Center for Disease Dynamics, Economics &
