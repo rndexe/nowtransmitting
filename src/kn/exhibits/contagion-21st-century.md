@@ -30,36 +30,36 @@ exhibitimages1:
     privis: /static/img/O_EXHIBIT_PRI_VIS_8.jpg
 layout: contagion-21st-century
 thumb: /static/img/O_Exhibit_Thumbnail.jpg
-title: "Contagion in the 21st Century"
-subtitle: Tracing the movement of microbes over the years
-medium: Text, Images, and Simulation
+title: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು
+subtitle: ಹಲವು ವರ್ಷಗಳಿಂದ ಸಾಗಿ ಬಂದಿರುವ ಸೂಕ್ಷ್ಮಾಣುಗಳ ಸತತ ಸಂಶೋಧನೆ
+medium: ಪಠ್ಯ ಸಾಹಿತ್ಯ, ಚಿತ್ರ ರೂಪಗಳು ಮತ್ತು ಅಣಕು ಪ್ರತಿಕೃತಿಗಳು
 exhibitimages2:
-  - pritxt: "Right from the beginning of the COVID-19- pandemic, the Robert Koch
-      Institute has pursued the strategy: Containment, Protection and
-      Mitigation."
+  - pritxt: "ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯು ಕೋವಿಡ್‌-19 ರೋಗ ಪಿಡುಗಿನ ಆರಂಭ ಕಾಲದಿಂದಲೇ ಈ
+      ನಿಲುವನ್ನು ಅನುಸರಿಸುತ್ತಿದೆ: ನಿಯಂತ್ರಣ, ರಕ್ಷಣೆ ಮತ್ತು ನಿವಾರಣೆ."
     privis: /static/img/O_EXHIBIT_PRI_VIS_11.jpg
-  - pritxt: Risk communication before the Christmas holidays of 2020. At the time
-      Germany was in the middle of the second wave of the COVID-19-pandemic.
+  - pritxt: 2020 ರ  ಕ್ರಿಸ್ ಮಸ್‌ ರಜೆಯ ಮುನ್ನ ಆಪತ್ಕಾಲಿಕ ಮಾಹಿತಿ ಪ್ರಸರಣ. ಜರ್ಮನಿಯು,
+      ಕೋವಿಡ್‌-19 ರೋಗ ಪಿಡುಗಿನ ಎರಡನೆಯ ಅಲೆಯ ಮಧ್ಯ ಪರ್ವದಲ್ಲಿತ್ತು.
     privis: /static/img/O_EXHIBIT_PRI_VIS_12.jpg
-  - pritxt: Visualising concepts helps us understand them even better. Communication
-      about transmission routes and possibilities is essential towards
-      understanding how to protect yourself and others. The text in the photo
-      stems from an RKI-Document about the SARSCoV- 2 pathogen which is updated
-      on a regular basis.
+  - pritxt: ದೃಶ್ಯಗಳು, ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಅರಿಯಲು ಹೆಚ್ಚು ಸಹಕಾರಿಗಿರುತ್ತವೆ.  ಸಾಂಕ್ರಾಮಿಕ
+      ರೋಗಗಳು, ಯಾವ ಅಂಶಗಳ ಮೂಲಕ ಮತ್ತು ಯಾವ ರೀತಿ ಹರಡ ಬಹುದು ಎಂದು ತಿಳಿಯುವುದು ಅತಿ
+      ಅವಶ್ಯಕ, ಇದರಿಂದ ಸ್ವತಃ ನಾವು ಹಾಗೂ ನಮ್ಮ ಸಂಪರ್ಕದಲ್ಲಿರುವ ಜನರನ್ನು ರಕ್ಷಿಸಲು
+      ಸಹಕಾರಿಯಾಗುತ್ತವೆ.  ಛಾಯಾಚಿತ್ರದಲ್ಲಿರುವ ಪಠನ ಸಾಮಗ್ರಿಯನ್ನು , ಸಾರ್ಸ್‌ ಕೋವಿಡ್‌ - 2
+      ರೋಗಾಣುವಿನ ಬಗೆಗೆ ಸತತವಾಗಿ ಸಂಶೋಧನೆ ನೆಡೆಯುತ್ತಿರುವ ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯ
+      ದಾಖಲೆಗಳಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ
     privis: /static/img/O_EXHIBIT_PRI_VIS_13.jpg
 quadreadvis: ""
 authortype: Team
 year: "2019"
 description: >-
-  The science and public health engineering behind controlling past epidemics
-  has profoundly shaped our response to current pandemics like COVID-19. Much of
-  the early work around identifying and responding to infectious diseases was
-  done by Robert Koch, a German physician and bacteriologist, who discovered the
-  cycle of the anthrax disease as well as the causative agents of tuberculosis
-  and cholera. 
+  ಗತ ರೋಗ ಪಿಡುಗುಗಳ ನಿಯಂತ್ರಣ  ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ನಿರ್ವಹಣೆಯಲ್ಲಿ ಅಡಗಿರುವ ವಿಜ್ಞಾನ
+  , ಅನುಭವ ಮತ್ತು ಅರಿವು, ಪ್ರಸಕ್ತ ಕೋವಿಡ್‌ – 19 ರೋಗವನ್ನು ಎದುರಿಸಲು ದಿಕ್‌ ಸೂಚಿಯಾಗಿವೆ. 
+  ಜರ್ಮನ್‌ ವೈದ್ಯರು ಮತ್ತು ಸೂಕ್ಷ್ಮಾಣು ತಜ್ಞರಾದ  ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರು, ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ
+  ಮೂಲವನ್ನು ಹುಡುಕಿ, ಅವುಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡುವುದು ಹೇಗೆ ಎಂಬುದರ ಸಂಶೋಧನೆಯನ್ನು
+  ನೆಡೆಸಿದ್ದರು.  ಇವರು ಆಂಥ್ರಾಕ್ಸ್‌, ಟ್ಯೂಬರ್ ಕ್ಯುಲೋಸಿಸ್‌ ಮತ್ತು ಖಾಲೆರಾ ಅಂತಹ ರೋಗಗಳ
+  ಕಾರಕಗಳು, ಹಾಗೂ ಈ ರೋಗಗಳಿಗೆ ಚಿಕಿತ್ಸೆಯ ಪರಿಹಾರ ಕಂಡುಕೊಂಡರು.  
 
 
-  This exhibit contains photographs and simulations courtesy of the Museum at the Robert Koch Institute. It takes us through the various places around the world where Robert Koch made his pioneering discoveries, and provokes us to reflect on how our responses to infectious diseases continue to evolve through time. 
+  ಈ ಪ್ರದರ್ಶಿಕೆಯಲ್ಲಿ, ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯಲ್ಲಿರುವ ಸಂಗ್ರಹಾಲಯದ ಕೊಡುಗೆಯಾದ ಹಲವು ಛಾಯಾಚಿತ್ರಗಳು, ಪ್ರತಿರೂಪಗಳು, ಅನುಕರಣಾತ್ಮಕ ಕೃತಿಗಳು ಪ್ರದರ್ಶಿತ ಗೊಂಡಿವೆ.  ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರು ತಮ್ಮ ಮೊದಲ ಅನ್ವೇಷಣೆಗಳನ್ನು ಕೈಗೊಂಡ  ಸ್ಥಳಗಳನ್ನು ಪ್ರಸ್ತುತ ಪಡಿಸಲಾಗಿದೆ.  ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ವಿರುದ್ಧ ಮಾನವರ ಸತತ ಹೋರಾಟಗಳು ಕಾಲಾಂತರದಲ್ಲಿ ಹೇಗೆ ವಿಕಸನ ಹೊಂದಿವೆ ಎಂಬುದನ್ನು  ಚಿಂತಿಸಬೇಕಾಗಿದೆ.
 essay: >-
   Wolsztyn. Almost 14000 people live in this little town in modern day Poland. A
   beautiful baroque church catches the eye when one walks down the street, where
@@ -106,53 +106,54 @@ essay: >-
 
   **The Robert Koch Institute, as a National Public Health Institute, faces many new challenges but remains a pillar of knowledge, evidence-based research,  communication and surveillance of public health. We connect with international  players in a quest to find solutions for global health problems.**
 exhibitimages:
-  - pritxt: "The Koch family house in Wolsztyn, 1930. Koch’s practice and the living
-      quarters were on the first floor. Since 1996, there has been a Robert Koch
-      Museum on the ground floor of the house in the street named after him:
-      Ulica Roberta Kocha."
+  - pritxt: ವೋಲ್ಸಿಟಿನ್‌ ಅಲ್ಲಿರುವ ಕೋಕ್ ಕುಟುಂಬದ ಮನೆ  1930. ಕೋಕ್ ಅವರ ನಿವಾಸ ಗೃಹ ಮತ್ತು
+      ಅಧ್ಯಯನ ಕೊಠಡಿಯು ಮೊದಲನೆಯ ಮಹಡಿಯಲ್ಲಿತ್ತು.  1996 ರಿಂದ ಇವರ ಹೆಸರಿನ ರಸ್ತೆಯಲ್ಲಿರುವ
+      ಮನೆಯ ನೆಲ ಮಹಡಿಯಲ್ಲಿ ರಾಬರ್ಟ್‌ ಕೋಕ್ ಮ್ಯೂಸಿಯಮ್‌ ಇದೆ. ಉಲಿಕಾ ರೋಬರ್ಟಾ ಕೋಚ
     privis: /static/img/O_EXHIBIT_PRI_VIS_1.jpg
-  - pritxt: Robert Koch’s drawing of an anthrax pathogen, 1876.
+  - pritxt: ರಾಬರ್ಟ್‌ ಕೋಕ್  ಅವರು ಬಿಡಿಸಿರುವ ಆಂತ್ರಾಕ್ಸ್‌ ರೋಗಾಣುವಿನ ಚಿತ್ರ, 1876.
     privis: /static/img/O_EXHIBIT_PRI_VIS_2.jpg
-  - pritxt: "Microscopic image of an anthrax pathogen by RobertKoch, undated. "
+  - pritxt: ಸೂಕ್ಷ್ಮದರ್ಶಕ ದ ಮೂಲಕ ಆಂತ್ರಾಕ್ಸ್‌ ರೋಗಾಣುವಿನ ಬಿಂಬ,  ರಾಬರ್ಟ್‌ ಕೋಕ್,
+      ದಿನಾಂಕವಿಲ್ಲ.
     privis: /static/img/O_EXHIBIT_PRI_VIS_3.jpg
-  - pritxt: Aetiology of Tuberculosis, 1882. In this manuscript Robert Koch first
-      describes the tuberculosis pathogen. The discovery made him famous
-      overnight.
+  - pritxt: ಟ್ಯೂಬರ್‌ ಕುಲಾಸಿಸ್‌ ರೋಗ ನಿದಾನ, 1882. ಈ ಹಸ್ತ ಪ್ರತಿಯಲ್ಲಿ, ರಾಬರ್ಟ್‌
+      ಕೋಕ್  ಮೊದಲ ಬಾರಿಗೆ ಟ್ಯೂಬರ್‌ ಕುಲಾಸಿಸ್‌ ರೋಗಾಣುವಿನ ಬಗೆಗೆ ವಿವರಣೆ ನೀಡಿದ್ದಾರೆ. ಈ
+      ಅವಿಶ್ಕಾರದಿಂದ ರಾತ್ರೋರಾತ್ರಿ ಪ್ರಖ್ಯಾತರಾದರು.
     privis: /static/img/O_EXHIBIT_PRI_VIS_4.jpg
-  - pritxt: Tuberculin bottles, 1896. Three bottles for use in the lab with labels
-      hand-written by Robert Koch.
+  - pritxt: "ಟ್ಯೂಬರ್‌ ಕುಲಿನ್‌ ಬಾಟಲಿಗಳು, 1896. ರಾಬರ್ಟ್‌ ಕೋಕ್  ಅವರ ಸ್ವಹಸ್ತ ಬರಹ
+      ಶೀರ್ಷಿಕೆ ಇರುವಂತಹ  ಪ್ರಯೋಗಾಲಯದ ಮೂರು ಬಾಟಲಿಗಳು. "
     privis: /static/img/O_EXHIBIT_PRI_VIS_5.jpg
-  - pritxt: "Wall chart “How tuberculosis is transmitted”, 1920s Deutsches
-      Hygiene-Museum / Production of teaching materials. Photo: Volker Kreidler.
-      Mid-19th century advances in science generated campaigns to inform the
-      population how to protect themselves against infection."
+  - pritxt: "“ಟ್ಯೂಬರ್‌ ಕುಲಾಸಿಸ್‌  ಹೇಗೆ ಹರಡುತ್ತದೆ” ಭಿತ್ತಿಚಿತ್ರ, 1920  ಟ್ಯೂಬರ್‌
+      ಕುಲಾಸಿಸ್‌ ಡ್ಯುಶಸ್‌ ಹೈಜೀನ್‌ ಸಂಗ್ರಹಾಲಯ / ಅಧ್ಯಯನ ಸಾಮಗ್ರಿ ನಿರ್ಮಾಣ ಫೋಟೋ :
+      ಓಲ್ಕರ್‌ ಕ್ರೀಡ್ಲರ್‌, ಸಾಂಕ್ರಾಮಿಕಗಳ ವಿರುದ್ಧ ಸಾಮಾನ್ಯ ಜನರು ಹೇಗೆ ತಮ್ಮನ್ನು
+      ರಕ್ಷಿಸಿಕೊಳ್ಳ ಬೇಕು  ಎಂದು ತಿಳಿಸುವುದಕ್ಕಾಗಿ 19 ನೇ ಶತಮಾನದ   ಮಧ್ಯ ಭಾಗದಲ್ಲಿ
+      ಮುನ್ನೆಚ್ಚರಿಕಾ ಕ್ರಮವಾಗಿ ವೈಜ್ಞಾನಿಕ ಪ್ರಚಾರ."
     privis: /static/img/O_EXHIBIT_PRI_VIS_6.jpg
-  - pritxt: Robert Koch was the first to provide bacteriological proof that
-      locally-occurring cholera outbreaks were caused by poor water quality.
+  - pritxt: ಪ್ರಾದೇಶಿಕ ಖಾಲೆರಾ ರೋಗ ಸಾಂಕ್ರಾಮಿಕ ಪಿಡುಗು, ಕಳಪೆ ಗುಣಮಟ್ಟದ ನೀರಿನಿಂದಾಗಿ
+      ಹರಡುತ್ತದೆ ಎಂದು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಅಧ್ಯಯನದ ಸಾಕ್ಷಿ ಒದಗಿಸಿ, ತಿಳಿಸಿ ಕೊಟ್ಟವರಲ್ಲಿ
+      ರಾಬರ್ಟ್‌ ಕೋಕ್  ಮೊದಲಿಗರು.
     privis: /static/img/O_EXHIBIT_PRI_VIS_7.jpg
-  - pritxt: Sea routes of Cholera transmission. In 1883, Robert Koch sketched out
-      the most probable sea routes by which cholera was likely to be transmitted
-      to Europe.
+  - pritxt: ಸಮುದ್ರ ಮಾರ್ಗದಲ್ಲಿ ಖಾಲೆರಾ ರೋಗ ಸಾಂಕ್ರಾಮಿಕ  . 1883 ರಲ್ಲಿ,  ಖಾಲೆರಾ ರೋಗವು
+      ಯೂರೋಪ್‌ ಗೆ ಹರಡ ಬಹುದಾದ ಸಂಭಾವ್ಯ ಸಮುದ್ರ ಮಾರ್ಗಗಳ ಬಗೆಗೆ, ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರು
+      ಒದಗಿಸಿರುವ, ಚಿತ್ರಣ.
     privis: /static/img/O_EXHIBIT_PRI_VIS_8.jpg
 exhibitvideos:
-  - pritxt: Worldwide air traffic. Mobility promotes the spread of infectious
-      diseases. Courtesy of Prof. Dirk Brockmann.
+  - pritxt: "ವಿಶ್ವದಾದ್ಯಂತ ವಾಯು ಸಂಚಾರ. ಪ್ರಯಾಣದಿಂದ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳು ವ್ಯಾಪಕವಾಗಿ
+      ಹರಡುತ್ತವೆ.  ಕೊಡುಗೆ : ಪ್ರೊ.ಡಿರ್ಕ್‌ ಬ್ರೋಕ್ಮನ್‌ "
     privis: https://player.vimeo.com/video/537577400
-  - pritxt: "Illustration of the possible spread of Ebola virus disease through
-      airports. This map shows how Ebola could have spread from West Africa to
-      Europe. Courtesy of Prof. Dirk Brockmann. "
+  - pritxt: "ವಿಮಾನ ನಿಲ್ದಾಣಗಳ ಮೂಲಕ ಎಬೋಲ ರೋಗ ವೈರಾಣುವು ಹರಡ ಬಹುದು ಎಂಬುದಕ್ಕೆ ನಿದರ್ಶನ.
+      ಪಶ್ಚಿಮ ಆಫ್ರಿಕಾ ಇಂದ ಯೂರೋಪ್‌ ಗೆ ಎಬೋಲ ರೋಗವು ಹರಡಿರ ಬಹುದು ಎಂದು ಈ ನಕ್ಷೆಯ ದೃಶ್ಯ
+      ತೋರುತ್ತದೆ. ಕೊಡುಗೆ : ಪ್ರೊ.ಡಿರ್ಕ್‌ ಬ್ರೋಕ್ಮನ್‌. "
     privis: https://player.vimeo.com/video/537596118
 authorimage: /static/img/O_EXHIBIT_SEC_VIS_1.jpg
-authorname: Dr. Esther-Maria Antao
-authorbio: >-
-  Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute and is in
-  charge of the advancement of the Museum in accordance with ongoing
-  developments of the Institute. She communicates with the general and expert
-  public through guided museum tours offered to visitor groups. As part of the
-  project group, Science Communication, she is responsible for visual
-  communication and social media. She has a doctorate in
-
-  microbiology and has focused strongly on antimicrobial resistance (AMR) communication in the recent past. She currently focuses on COVID-19 communication and will go back to focusing on AMR communication when the pandemic is over.
+authorname: ಡಾ.ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
+authorbio: ಡಾ.ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ, ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯಲ್ಲಿರುವ ರಾಬರ್ಟ್‌ ಕೋಕ್
+  ಸಂಗ್ರಹಾಲಯದ ಮುಖ್ಯಸ್ಥೆಯಾಗಿದ್ದಾರೆ.  ಸಂಸ್ಥೆಯ ಬೆಳವಣಿಗೆಯನ್ನು ಅನುಸರಿಸುತ್ತಾ ಸಂಗ್ರಹಾಲಯದ
+  ವಿಕಸನ ಕಾರ್ಯದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ.  ಸಂದರ್ಶಕ ಗುಂಪುಗಳಿಗೆ, ಮಾರ್ಗದರ್ಶನ ಸಹಿತ ಸಂಗ್ರಹಾಲಯದ
+  ಪ್ರವಾಸ ಒದಗಿಸಲಾಗುತ್ತದೆ. ಈ ಮೂಲಕ ಸಾಮಾನ್ಯ ಜನರು ಹಾಗೂ ತಜ್ಞರೊಂದಿಗೆ ಬೆರೆಯುತ್ತಾರೆ. 
+  ವೈಜ್ಞಾನಿಕ ಸಂವಹನದ ಶೈಕಷಣಿಕ ಯೋಜನೆಯ ಅಂಗವಾಗಿ ದೃಶ್ಯ ಸಂಪರ್ಕ ಮಾಧ್ಯಮ ಮತ್ತು ಗ್ರಾಫಿಕ್‌
+  ಡಿಜೈನ್‌, ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದ ಮುಖೇಣ ಅವುಗಳ ಪ್ರಸ್ತುತೀಕರಣ ಹಾಗೂ ಸಂಗ್ರಹಾಲಯ ನಿರ್ವಹಣೆಯ
+  ಹೊಣೆಗಾರಿಕೆ ಹೊತ್ತಿದ್ದಾರೆ. ಸೂಕ್ಷ್ಮಜೀವಾಣು ಶಾಸ್ತ್ರದಲ್ಲಿ ಡಾಕ್ಟರೇಟ್‌ ಪದವಿ ಹೊಂದಿದ್ದು,
+  ಜೀವರೋಧಕ ಪ್ರತಿರೋಧದ ಸಂವಹನೆಯ ವಿಷಯವನ್ನು ಕುರಿತು ಆಳವಾದ ಅಧ್ಯಯನ ನೆಡೆಸಿದ್ದಾರೆ.
 readinglist:
   - quadreadlink: https://www.historians.org/publications-and-directories/perspectives-on-history/october-2020/fearing-a-fear-of-germs-how-did-the-surgical-mask-transform-from-a-sign-of-bigotry-to-a-sign-of-care
     quadreadtxt: Fearing a Fear of Germs
