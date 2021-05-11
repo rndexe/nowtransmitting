@@ -16,7 +16,7 @@ description: >-
   to be used increasingly for that connection: ‘contagion.’ 
 
 
-  Does social dance spread virally, or does it thrive through an electric connection? How does the competition between these metaphors relate to the formation of modernity’s social dances through colonialism, capitalism, and slavery, and how can we use them to understand the way we must dance during the pandemic?
+  How does the competition between these metaphors relate to the formation of modernity’s social dances and how can we use them to understand the way we must dance during the pandemic?
 link: http://bit.ly/lecture-kabir
 expertname: Ananya Kabir
 expertbio: "Ananya Jahanara Kabir is Professor of English Literature at King’s
@@ -31,27 +31,27 @@ expertpic: /static/img/pl_ananya_portrait.png
 readinglist:
   - quadreadlink: https://scroll.in/article/801182/five-exhilarating-dance-moves-that-celebrate-the-traumas-of-modernity
     quadreadtxt: Five Exhilarating Dance Moves That Celebrate The Traumas Of Modernity
-    quadreadvis: /static/img/pl_ananya.png
+    quadreadvis: /static/img/M_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://theconversation.com/the-angolan-dancers-who-helped-south-african-anthem-jerusalema-go-global-148782
     quadreadtxt: The Angolan Dancers Who Helped South African Anthem Jerusalema Go Global
-    quadreadvis: /static/img/pl_ananya.png
+    quadreadvis: /static/img/M_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.smithsonianmag.com/smart-news/strange-case-dancing-mania-struck-germany-six-centuries-ago-today-180959549/#:~:text=Called%20Tarantism%20in%20Italy%2C%20it,poisons%20the%20arachnid%20had%20injected.&text=It%20started%20in%20July%20when,Frau%20Troffea%20began%20to%20dance.
     quadreadtxt: A Strange Case of Dancing Mania Struck Germany Six Centuries Ago Today
-    quadreadvis: /static/img/pl_ananya.png
+    quadreadvis: /static/img/M_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://soundcloud.com/ramin-roshandel/mammals-in-captivity
     quadlisttxt: Mammals in Captivity
-    quadlistvis: /static/img/pl_ananya.png
+    quadlistvis: /static/img/M_PL_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=fsF9u-EWnCk
     quadwatchtxt: I Am A Global Citizen
-    quadwatchvis: /static/img/pl_ananya.png
+    quadwatchvis: /static/img/M_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=yHVTgZw7geY&t=81s
     quadwatchtxt: How Society Can Explain the Deadly Medieval Dancing Plagues
-    quadwatchvis: /static/img/pl_ananya.png
+    quadwatchvis: /static/img/M_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-shahane
-    quadeventtxt: The Art of Pandemics | Lecture by Girish Shahane
+    quadeventtxt: The Art of Pandemics | Lecture | Girish Shahane
     quadeventvis: /static/img/pl_girish.png
   - quadeventtxt: Dis-Ease | Film Discussion
     quadeventlink: http://bit.ly/films-ghani

@@ -16,7 +16,7 @@ description: >-
   prepare ourselves for the future. 
 
 
-  Drawing on ethnographic and historical research on HIV/AIDS care and support and the 2014-16 epidemic of Ebola in Sierra Leone, Benton will address some of the key ideologies, social practices, and political-economic factors underpinning epidemic response, as well as the means by which state and non-state actors configure care during an epidemic.
+  Drawing on ethnographic and historical research on HIV/AIDS care and support and the 2014-16 epidemic of Ebola in Sierra Leone, Benton will address some political-economic factors underpinning epidemic response, as well as the means by which state and non-state actors configure care during an epidemic.
 link: http://bit.ly/lecture-benton
 expertname: Adia Benton
 expertbio: "Adia Benton is an associate professor of Anthropology and African
@@ -31,30 +31,30 @@ expertpic: /static/img/pl_adia_portrait.png
 readinglist:
   - quadreadlink: https://www.lrb.co.uk/the-paper/v37/n10/paul-farmer/the-caregivers-disease
     quadreadtxt: " The Caregivers' Disease"
-    quadreadvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadreadvis: /static/img/L_PL_QUA_READVIS_1.jpg
   - quadreadlink: http://somatosphere.net/2020/writing-life-mbullo-benton-interview.html/
     quadreadtxt: "Writing Life: An Interview With Adia Benton"
-    quadreadvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadreadvis: /static/img/L_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://theconversation.com/five-ways-coronavirus-is-deepening-global-inequality-144621
     quadreadtxt: Five Ways Coronavirus Is Deepening Global Inequality
-    quadreadvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadreadvis: /static/img/L_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/1WLYepdVNjkbP3H5I0etuv
     quadlisttxt: Ebola in West Africa with Adia Benton
-    quadlistvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadlistvis: /static/img/L_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/73CGr2bTBnkKfTFHRBbqEG
     quadlisttxt: Conversations in Anthropology
-    quadlistvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadlistvis: /static/img/L_PL_QUA_LISTVIS_2.jpg
   - quadlistlink: https://open.spotify.com/episode/72r64GdFJBftk7kt2Tu1hB
     quadlisttxt: Ebola Outbreaks in West Africa
-    quadlistvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadlistvis: /static/img/L_PL_QUA_LISTVIS_3.jpg
 watchinglist:
   - quadwatchlink: https://www.pbs.org/wgbh/frontline/film/outbreak/
     quadwatchtxt: Outbreak
-    quadwatchvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadwatchvis: /static/img/L_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=GKZ9xJnpe0U
     quadwatchtxt: "Perspectives on the Pandemic: An Anthropologists View"
-    quadwatchvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadwatchvis: /static/img/L_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147?aff=ebdsoporgprofile
     quadeventtxt: A Human Question | Film Discussion
