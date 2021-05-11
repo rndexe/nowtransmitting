@@ -90,11 +90,11 @@ watchinglist:
     quadwatchtxt: ಆರ್ಥಿಕ ಬುದ್ಬುದಗಳಿಗೆ ಕಾರಣಗಳೇನು?
     quadwatchvis: /static/img/P_EXHIBIT_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ | Lecture | ಡೇವಿಡ್‌ ಜ್ಹಾನ್‌ ಆರ್ನಾಲ್ಡ್‌
+  - quadeventtxt: ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ | ಉಪನ್ಯಾಸ | ಡೇವಿಡ್‌ ಜ್ಹಾನ್‌ ಆರ್ನಾಲ್ಡ್‌
     quadeventvis: /static/img/P_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/145397629223
   - quadeventtxt: "ಕಂಟೇಜಿಯಮ್ ವೈವಮ್‌ ಫ್ಲುಯಿಡಮ್‌: ಸಸ್ಯ ವೈರಾಣುಗಳು ವೈರಿಗಳಲ್ಲ, ಸಹಚರ
-      ಸ್ನೇಹಿತರು | Lecture | ಜಾರ್ಜ್‌ ಪೀಟರ್‌ ಲೊಮೊನೋಸೊಫ್ಫ್‌"
+      ಸ್ನೇಹಿತರು | ಉಪನ್ಯಾಸ | ಜಾರ್ಜ್‌ ಪೀಟರ್‌ ಲೊಮೊನೋಸೊಫ್ಫ್‌"
     quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/145398876955
 relatedlist:
