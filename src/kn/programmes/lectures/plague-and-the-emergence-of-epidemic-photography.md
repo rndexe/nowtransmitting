@@ -60,11 +60,11 @@ watchinglist:
     quadwatchtxt: Politics and Aesthetics of the (Post) Pandemic Condition
     quadwatchvis: /static/img/g_pl_qua_watchvis_3.png
 eventlist:
-  - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
-      Century India | Lecture by David Arnold"
+  - quadeventtxt: "ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ: ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದ ಭಾರತದಲ್ಲಿ ವ್ಯಾಪನಗಳ
+      ಕುರಿತಂತೆ ದೃಶ್ಯ ತಂತ್ರಜ್ಞಾನ | ಉಪನ್ಯಾಸ | ಡೇವಿಡ್‌  ಆರ್ನಲ್ಡ್"
     quadeventlink: http://bit.ly/lecture-lynteris
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
-  - quadeventtxt: The Art of Pandemics | Lecture by Girish Shahane
+  - quadeventtxt: ಪಿಡುಗುಗಳಲ್ಲಿ ಕಲೆ | ಉಪನ್ಯಾಸ | ಗಿರೀಶ್‌ ಶಹಾನೆ
     quadeventlink: http://bit.ly/lecture-shahane
     quadeventvis: /static/img/pl_girish.png
 relatedlist:
