@@ -9,13 +9,13 @@ date: 2021-05-29T13:00:00.000Z
 description: >-
   COVID-19 is a pandemic caused by a virus, SARS-CoV-2, that crossed from
   animals to humans. It has cast a sharp spotlight on the enormous challenges
-  posed by “zoonoses”—those infections that move between animals and humans. A
-  zoonotic event of this kind has been anticipated for many decades, and our
-  current understandings and approaches are rooted in developments in framing
-  zoonoses as both ecological and global problems over the last seventy years. 
+  posed by “zoonoses”. A zoonotic event of this kind has been anticipated for
+  many decades, and our current understandings and approaches are rooted in
+  developments in framing zoonoses as both ecological and global problems over
+  the last seventy years. 
 
 
-  This talk puts into historical perspective some of the changing ways in which zoonoses have been framed and tackled as global problems connected to human interactions with animals, with changing environments, and with each other through globalised systems of animal food production and consumption. It highlights efforts to build scientific collaboration and surveillance systems across species to monitor and manage these infections, but also the daunting biological, economic, cultural and geopolitical challenges that they present. The takeaway historical message is that effective approaches to controlling zoonoses need to be grounded in understanding their complex global ecologies, which are increasingly shaped by the growing scale and impact of human relations with animals and their environments.
+  This talk puts into historical perspective some of the changing ways in which zoonoses have been framed and tackled as global problems connected to human interactions with animals, with changing environments, and with each other through globalised systems of animal food production and consumption.
 link: http://bit.ly/lecture-bresalier
 expertname: Michael Bresalier
 expertbio: Professor Michael Bresalier is a lecturer in the history of modern
