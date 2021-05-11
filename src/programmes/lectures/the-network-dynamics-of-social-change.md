@@ -39,42 +39,41 @@ expertpic: /static/img/pl_damon_portrait.png
 readinglist:
   - quadreadlink: https://ndg.asc.upenn.edu/wp-content/uploads/2019/05/Virality-Paradox.pdf
     quadreadtxt: The Viral Paradox
-    quadreadvis: /static/img/PL_damon_thumbnail.jpg
+    quadreadvis: /static/img/N_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/kindness-contagion/
     quadreadtxt: Kindness Contagion
-    quadreadvis: /static/img/PL_damon_thumbnail.jpg
+    quadreadvis: /static/img/N_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.nature.com/articles/s41598-019-41835-5
     quadreadtxt: The Complexity Of Understanding Others As The Evolutionary Origin
       Of Empathy And Emotional Contagion
-    quadreadvis: /static/img/PL_damon_thumbnail.jpg
+    quadreadvis: /static/img/N_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/0rIZb72soOjbk3Z4AtSXWK
     quadlisttxt: The Snowball Effect
-    quadlistvis: /static/img/PL_damon_thumbnail.jpg
+    quadlistvis: /static/img/N_PL_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=1q8WqZyek3E
     quadwatchtxt: "Why Independent Cultures Think Alike When It Comes to Categories:
       It's Not in the Brain"
-    quadwatchvis: /static/img/PL_damon_thumbnail.jpg
+    quadwatchvis: /static/img/N_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=-34lg4wNqt0
     quadwatchtxt: "How Behavior Spreads: The Science of Complex Contagions"
-    quadwatchvis: /static/img/PL_damon_thumbnail.jpg
+    quadwatchvis: /static/img/N_PL_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=XKH5ITx6AAk&t=5s
     quadwatchtxt: Refuting "Groupthink," Research Proves Wisdom of Crowds Can Prevail
-    quadwatchvis: /static/img/PL_damon_thumbnail.jpg
+    quadwatchvis: /static/img/N_PL_QUA_WATCHVIS_3.jpg
 eventlist:
-  - quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event by Daniel
-      Richardson
+  - quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event | Daniel Richardson
     quadeventlink: http://bit.ly/event-richardson
     quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
-  - quadeventtxt: Keep Calm and Spot the Design Tricks | Workshop by Louise Hisayasu
+  - quadeventtxt: Keep Calm and Spot the Design Tricks | Workshop | Louise Hisayasu
     quadeventlink: http://bit.ly/workshop-hisayasu
     quadeventvis: /static/img/g_exhibit_qua_atnvis_2.jpg
 relatedlist:
-  - quadrelatedtxt: The Chameleon Project by Tina Gonsalves
+  - quadrelatedtxt: The Chameleon Project | Tina Gonsalves
     quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
-  - quadrelatedtxt: "2020 Vision by Robert Good "
+  - quadrelatedtxt: "2020 Vision | Robert Good "
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
