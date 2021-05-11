@@ -60,15 +60,15 @@ watchinglist:
     quadwatchtxt: Conversations on Practice with Ranjit Kandalgaonkar
     quadwatchvis: /static/img/G_WK_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: Plague and the Emergence of Epidemic Photography | Lecture |
+  - quadeventtxt: Plague and the Emergence of Epidemic Photography | Lecture by
       Christos Lynteris
     quadeventlink: http://bit.ly/lecture-lynteris
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
-  - quadrelatedtxt: Drawing the Bombay Plague | Ranjit Kandalgaonkar
+  - quadrelatedtxt: Drawing the Bombay Plague by Ranjit Kandalgaonkar
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
     quadrelatedvis: /static/img/C_Exhibit_Thumbnail.jpg
-  - quadrelatedtxt: Controlling the Plague in British India | Christos Lynteris
+  - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedvis: /static/img/A_Exhibit_Thumbnail.jpg
 ---
