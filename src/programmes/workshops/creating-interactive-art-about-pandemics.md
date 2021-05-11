@@ -53,11 +53,11 @@ watchinglist:
     quadwatchtxt: Cosmic Call
     quadwatchvis: /static/img/A_WK_QUA_WATCHVIS_1.jpg
 eventlist:
-  - quadeventtxt: The Art of Pandemics | Lecture | Girish Sahane
+  - quadeventtxt: The Art of Pandemics | Lecture by Girish Sahane
     quadeventlink: http://bit.ly/lecture-shahane
     quadeventvis: /static/img/pl_girish.png
 relatedlist:
-  - quadrelatedtxt: A Cluster of 17 Cases | Blast Theory
+  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/H_Exhibit_Thumbnail.jpg
 ---
