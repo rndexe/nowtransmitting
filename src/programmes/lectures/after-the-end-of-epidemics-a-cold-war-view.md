@@ -15,7 +15,8 @@ description: "The enduring persistence, resurgence and mutation of many epidemic
   how epidemic narratives fuelled and mobilised people and resources in the 20th
   century, and approaches we need to consider as we are faced with the uncertain
   trajectory of many diseases in the 21st century. "
-link: http://bit.ly/lecture-vargha
+link: ""
+reclink: https://www.youtube.com/embed/e1nxmtCyTrE
 expertname: Dora Vargha
 expertbio: "Professor Dora Vargha is Senior Lecturer based at the Department of
   History and the Wellcome Centre for Cultures and Environments of Health at the
