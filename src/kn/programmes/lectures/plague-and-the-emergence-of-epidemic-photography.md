@@ -69,9 +69,9 @@ eventlist:
     quadeventvis: /static/img/pl_girish.png
 relatedlist:
   - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
-    quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+    quadrelatedtxt: ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
-  - quadrelatedtxt: Drawing the Bombay Plague by Ranjit Kandalgaonkar
+  - quadrelatedtxt: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಚಿತ್ರಾಕೃತಿ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
