@@ -36,19 +36,31 @@ expertpic: /static/img/k_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://blogs.lse.ac.uk/covid19/2020/06/30/making-the-invisible-visible-how-we-depict-covid-19/
     quadreadtxt: "Making the Invisible Visible: How We Depict COVID-19"
-    quadreadvis: /static/img/wk_gabriela.png
+    quadreadvis: /static/img/K_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://theconversation.com/visualizing-the-virus-135415
     quadreadtxt: Visualizing the Virus
-    quadreadvis: /static/img/wk_gabriela.png
+    quadreadvis: /static/img/K_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://wellcomecollection.org/articles/XwbnOBAAACEABdXJ
     quadreadtxt: How We Visualise Viruses
-    quadreadvis: /static/img/wk_gabriela.png
+    quadreadvis: /static/img/K_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://soundcloud.com/ucl-arts-social-science/immunology-visualizing-uncertainty-and-vulnerability
     quadlisttxt: Visualizing Uncertainty And Vulnerability
-    quadlistvis: /static/img/wk_gabriela.png
+    quadlistvis: /static/img/K_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=7yAnEiY5-JE
     quadwatchtxt: Visualising a Virus
-    quadwatchvis: /static/img/wk_gabriela.png
+    quadwatchvis: /static/img/K_WK_QUA_WATCHVIS_1.jpg
+eventlist:
+  - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
+      Century India | Lecture by David Arnold"
+    quadeventlink: http://bit.ly/lecture-arnold
+    quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
+relatedlist:
+  - quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
+    quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
+    quadrelatedvis: /static/img/P_Exhibit_Thumbnail.jpg
+  - quadrelatedtxt: THERIAK | The Disease Map by Sarah Craske
+    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedvis: /static/img/E_Exhibit_Thumbnail.jpg
 ---
