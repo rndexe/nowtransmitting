@@ -50,7 +50,7 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-sholts
     quadeventvis: /static/img/h_exhibit_qua_atnvis_1.jpg
 relatedlist:
-  - quadrelatedtxt: "A Cluster of 17 Cases "
+  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
