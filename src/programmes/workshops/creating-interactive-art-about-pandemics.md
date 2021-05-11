@@ -52,4 +52,12 @@ watchinglist:
   - quadwatchlink: https://vimeo.com/503796575
     quadwatchtxt: Cosmic Call
     quadwatchvis: /static/img/A_WK_QUA_WATCHVIS_1.jpg
+eventlist:
+  - quadeventtxt: The Art of Pandemics
+    quadeventlink: http://bit.ly/lecture-shahane
+    quadeventvis: /static/img/pl_girish.png
+relatedlist:
+  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
+    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedvis: /static/img/H_Exhibit_Thumbnail.jpg
 ---
