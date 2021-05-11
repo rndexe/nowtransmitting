@@ -10,18 +10,13 @@ description: >-
   Ever since their discovery, antibiotics have dramatically changed the
   management and treatment of infections in humans and animals. Paradoxically,
   their use and selective pressure leads to genetic changes in bacteria critical
-  for their survival, and gives rise to antimicrobial resistance (AMR). AMR has
-  now reached epidemic proportions and kills more than 700,000 persons per year,
-  a figure likely to increase to 10 million by 2050. This silent killer is
-  invisible and unknown to the general population as it is not a single disease
-  or illness, and its control requires a multisectoral approach addressing
-  antibiotic use in humans, animals, and their presence in the environment. 
+  for their survival, and gives rise to antimicrobial resistance (AMR).
 
 
-  Innovative approaches that harness the potential of diagnostics, updates in information technology and strategies for sustainable development are needed to transform the way we use antibiotics today. COVID 19 has demonstrated the power of infectious diseases to reset our lives, and unless AMR is tackled urgently, the antibiotics we take for granted today will be unavailable to the future generations to come. This talk will show how AMR has reached pandemic proportions, and cover a range of topics, questions, and concerns regarding the same.
+  COVID 19 has demonstrated the power of infectious diseases to reset our lives, and unless AMR is tackled urgently, the antibiotics we take for granted today will be unavailable to the future generations to come. This talk will show how AMR has reached pandemic proportions, and cover a range of topics, questions, and concerns regarding the same.
 link: http://bit.ly/lecture-joshi
 expertname: Jyoti Joshi
-expertbio: "Dr. Jyoti Joshi MBBS MD (Community Medicine) & MSc (Infectious
+expertbio: Dr. Jyoti Joshi MBBS MD (Community Medicine) & MSc (Infectious
   diseases) is Head - South Asia at the Center for Disease Dynamics, Economics &
   Policy (CDDEP) and an Adjunct Professor at Amity Institute of Public Health,
   Amity University, Uttar Pradesh, India.   A medical doctor with specialization
@@ -29,18 +24,8 @@ expertbio: "Dr. Jyoti Joshi MBBS MD (Community Medicine) & MSc (Infectious
   health programs for two decades. Her research interests include antimicrobial
   resistance (AMR), vaccines, infectious diseases, and health systems. As part
   of the Global Antibiotic Research Partnership (GARP) project at CDDEP, Dr.
-  Jyoti supported country working groups in 6 Asian countries (India, Pakistan,
-  Nepal, Bangladesh, Laos PDR and Vietnam) to develop projects to address AMR.
-  She has also worked with the World Health Organisation to undertake country
-  case studies to assess entry points for integrating AMR activities. This work
-  facilitated the Global guidance for taking National Action Plans for AMR from
-  paper to action by integrating AMR sensitive and AMR specific approaches
-  within existing health programs. The Scoping Report on the AMR research
-  landscape in India, co-authored by Dr Jyoti, led to landmark projects in AMR
-  in India, including two that she is currently implementing—Smart Regulation of
-  Antibiotics in India-Understanding, innovating and improving compliance as
-  well as Chicken or Egg: Drivers of antimicrobial resistance in poultry in
-  India (DARPI). "
+  Jyoti supported country working groups in 6 Asian countries to develop
+  projects to address AMR.
 expertpic: /static/img/pl_jyoti_portrait.png
 readinglist:
   - quadreadlink: https://www.who.int/docs/default-source/documents/no-time-to-wait-securing-the-future-from-drug-resistant-infections-en.pdf?sfvrsn=5b424d7_6
