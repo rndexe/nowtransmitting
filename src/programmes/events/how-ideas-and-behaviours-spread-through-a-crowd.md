@@ -48,7 +48,7 @@ watchinglist:
     quadwatchtxt: Using Neuroscience to Understand Collective Experience
     quadwatchvis: /static/img/A_EV_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: The Network Dynamics of Social Change
+  - quadeventtxt: The Network Dynamics of Social Change | Lecture by Damon Centola
     quadeventlink: http://bit.ly/lecture-centola
     quadeventvis: /static/img/PL_damon_thumbnail.jpg
 relatedlist: []
