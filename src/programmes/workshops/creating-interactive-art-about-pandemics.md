@@ -20,11 +20,11 @@ description: >-
 
   In this Masterclass, the director of Blast Theory, Matt Adams will take you behind-the-scenes to explore the process of making an interactive exhibit inspired by the events that occurred in Metropole Hotel on that fateful night. 
 condition: "This workshop is exclusively for 15 to 28 year olds. "
-link: http://bit.ly/masterclass-adams
+link: ""
 expertname: "Matt Adams "
 expertbio: Matt Adams cofounded Blast Theory, an artists’ group making
   interactive work, in 1991. Blast Theory is renowned for its multidisciplinary
-  approach, using new technologies in theater, games, and visual art. The group
+  approach, using new technologies in theatre, games, and visual art. The group
   has collaborated with scientists at the Mixed Reality Lab at the University of
   Nottingham since 1997. Blast Theory has shown work at the Venice Biennale, the
   Sundance Film Festival, and at Tate Britain. Commissioners include Channel 4,
@@ -34,22 +34,30 @@ expertpic: /static/img/a_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.artworkarchive.com/blog/why-we-need-arts-in-times-of-crisis
     quadreadtxt: Why We Need Arts in Times of Crisis
-    quadreadvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/A_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.theartnewspaper.com/analysis/art-pandemic
     quadreadtxt: "Pandemic Art: How Artists Have Depicted Disease"
-    quadreadvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/A_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.nytimes.com/2020/04/08/t-magazine/art-coronavirus.html
     quadreadtxt: What Can We Learn From the Art of Pandemics Past?
-    quadreadvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/A_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/1F9qY5up5QSKi3AfyZeskS
     quadlisttxt: Global Pandemics and Art
-    quadlistvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadlistvis: /static/img/A_WK_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/4FI8d8EN504Ud7KoVuKbDM
     quadlisttxt: "Contagion and Viruses "
-    quadlistvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadlistvis: /static/img/A_WK_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://vimeo.com/503796575
     quadwatchtxt: Cosmic Call
-    quadwatchvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadwatchvis: /static/img/A_WK_QUA_WATCHVIS_1.jpg
+eventlist:
+  - quadeventtxt: The Art of Pandemics | Lecture | Girish Sahane
+    quadeventlink: http://bit.ly/lecture-shahane
+    quadeventvis: /static/img/pl_girish.png
+relatedlist:
+  - quadrelatedtxt: A Cluster of 17 Cases | Blast Theory
+    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedvis: /static/img/H_Exhibit_Thumbnail.jpg
 ---
