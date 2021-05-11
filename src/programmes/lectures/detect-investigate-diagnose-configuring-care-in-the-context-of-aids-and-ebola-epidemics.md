@@ -16,7 +16,7 @@ description: >-
   prepare ourselves for the future. 
 
 
-  Drawing on ethnographic and historical research on HIV/AIDS care and support and the 2014-16 epidemic of Ebola in Sierra Leone, Benton will address some of the key ideologies, social practices, and political-economic factors underpinning epidemic response, as well as the means by which state and non-state actors configure care during an epidemic.
+  Drawing on ethnographic and historical research on HIV/AIDS care and support and the 2014-16 epidemic of Ebola in Sierra Leone, Benton will address some political-economic factors underpinning epidemic response, as well as the means by which state and non-state actors configure care during an epidemic.
 link: http://bit.ly/lecture-benton
 expertname: Adia Benton
 expertbio: "Adia Benton is an associate professor of Anthropology and African
