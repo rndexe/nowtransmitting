@@ -178,6 +178,7 @@ recbooklist:
       world center for the development of malariology as a medical discipline
       and launched the first national campaign to eradicate the disease.
     link: https://www.theguardian.com/books/2006/apr/08/featuresreviews.guardianreview3
+    coverimage: /static/img/rr_conquest-of-malaria_resized.png
   - title: "The House of Whispers "
     about: "*The House of Whispers* is a gothic tale set in a rambling house by the
       sea in which a maid cares for a mute old woman with a mysterious past,
