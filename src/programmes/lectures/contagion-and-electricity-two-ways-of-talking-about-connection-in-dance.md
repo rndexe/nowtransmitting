@@ -16,7 +16,7 @@ description: >-
   to be used increasingly for that connection: ‘contagion.’ 
 
 
-  Does social dance spread virally, or does it thrive through an electric connection? How does the competition between these metaphors relate to the formation of modernity’s social dances through colonialism, capitalism, and slavery, and how can we use them to understand the way we must dance during the pandemic?
+  How does the competition between these metaphors relate to the formation of modernity’s social dances and how can we use them to understand the way we must dance during the pandemic?
 link: http://bit.ly/lecture-kabir
 expertname: Ananya Kabir
 expertbio: "Ananya Jahanara Kabir is Professor of English Literature at King’s
