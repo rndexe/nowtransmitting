@@ -1,6 +1,6 @@
 ---
-title: Everything You Wanted To Know About Non-Western Covid Vaccines But Were
-  Afraid To Ask
+title: ಪೂರ್ವ ದೇಶಗಳಲ್ಲಿ ಉತ್ಪಾದಿತ ಕೋವಿಡ್‌ ಲಸಿಕೆಗಳ ಬಗೆಗೆ ಹಿಂಜರಿಕೆ, ನೀವು ಅರಿಯಲು
+  ಬಯಸಿದ್ದ  ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೂ ಸೂಕ್ತ ಸಮಾಧಾನ
 permalink: kn/programmes/lectures/about-non-western-covid-vacciners/
 cata: spillover
 catb: documenting
