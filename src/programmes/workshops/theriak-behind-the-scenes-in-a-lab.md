@@ -36,22 +36,27 @@ expertpic: /static/img/M_WK_SEC_VIS_1.jpg
 readinglist:
   - quadreadlink: https://www.scientificamerican.com/article/human-hosts-help-cholera/
     quadreadtxt: Human Hosts Help Cholera Bacterium Become More Infectious
-    quadreadvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+    quadreadvis: /static/img/M_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.smithsonianmag.com/science-nature/how-microbiologists-craft-stunning-art-using-pathogens-180977261/
     quadreadtxt: How Microbiologists Craft Stunning Art Using Pathogens
-    quadreadvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+    quadreadvis: /static/img/M_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.interaliamag.org/articles/sarah-craske-metamorphoses-in-art-science/
     quadreadtxt: Metamorphoses in Art & Science
-    quadreadvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+    quadreadvis: /static/img/M_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.npr.org/templates/story/story.php?storyId=4524673
     quadlisttxt: Artist Captures Wonder of Natural Phenomena
-    quadlistvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+    quadlistvis: /static/img/M_WK_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.npr.org/2004/10/11/4079067/from-microscopes-to-large-scale-sculpture
     quadlisttxt: From Microscopes to Large-Scale Sculpture
-    quadlistvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+    quadlistvis: /static/img/M_WK_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=IS_5WJteCC8
     quadwatchtxt: What If Art Could Truly Create Biological Life?
-    quadwatchvis: /static/img/e_exhibit_qua_atnvis_1.jpg
+    quadwatchvis: /static/img/M_WK_QUA_WATCHVIS_1.jpg
+eventlist: []
+relatedlist:
+  - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
+    quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
+    quadrelatedvis: /static/img/K_Exhibit_Thumbnail.jpg
 ---
