@@ -1,0 +1,179 @@
+---
+layout: default
+path: about
+---
+
+<body class="overflow-hidden bg-white" >
+    <div class="menu-container" id="menu-container">
+
+	<main class="block lg:flex lg:flex-col">
+
+		<div class="w-screen fixed">
+			<div class="bg-white">
+                <!-- top navbar for about page  -->
+                <!-- lg:flex -->
+
+                {% include "./_includes/partials/navbar.html" %}
+                {% include "./_includes/partials/menu.html" %}
+
+                <div id="about-content" class="bg-white"> 
+                    <h2 class="font-bold text-trueGray-750 
+		       {{"font-baloo" if kannada else "font-display"}}
+		    ">
+			    ವಿವರಣೆ
+		    </h2>
+
+                    <!-- top navbar for about page  -->
+                    <div id="nav-items-container" class="w-full font-bold text-base text-trueGray-400
+
+		       {{"font-tunga" if kannada else "font-trade"}}
+			    ">
+                        <ul id="nav-items" class="list-style-none flex flex-row justify-between">
+                            <li class="about hover:text-red-650">
+                                <a href="#about">
+					{{ "" if kannada else "About Contagion" }}
+				</a>
+                            </li>
+                            <li class="curators hover:text-red-650">
+                                <a href="#curators">
+					Curators</a>
+                            </li>
+                            <li class="academic-advisors hover:text-red-650">
+                                <a href="#academic-advisors">Academic Advisors</a>
+                            </li>
+                            <li class="content-partners hover:text-red-650">
+                                <a href="#content-partners">Content Partners</a>
+                            </li>
+                            <li class="programme-partners hover:text-red-650">
+                                <a href="#programme-partners">Programme Partners</a>
+                            </li>
+                            <li class="production hover:text-red-650">
+                                <a href="#production">Exhibition Design and Production</a>
+                            </li>
+                        </ul>
+                    </div>
+                
+                    <div id="main" class="flex flex-col lg:flex-row overflow-y-hidden overflow-x-hidden w-auto bg-white scroll-snap"> 
+                        <!-- {% include "./_includes/partials/navbar_top.html" %} -->
+                        {{ content | safe }}
+                        {% include "./_includes/partials/about1.html" %}
+                    </div>
+                </div>
+                
+			</div>
+		</div>
+	</main>
+    </div>
+</body>
+{% if path == "home" %}
+<!-- Netlify Identity Widget -->
+<!-- Needed only if you are using Netlify Identity feature -->
+<script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{% endif %}
+<script src="/static/js/menu.js"></script>
+
+<link rel="stylesheet" href="/static/css/about.css">
+<!-- <script type="text/javascript" src="/static/js/exhibit_scroll.js"></script> -->
+<script>
+    var main = document.getElementById('main')
+    main.addEventListener('wheel', (e) => {
+        main.scrollLeft += e.deltaY;
+    });
+
+    const scrollTo = (href) => {
+        let targetId = href.split("#").reverse()[0]
+        // console.log(targetId);
+        document.getElementById(targetId).scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"})
+    }
+
+    $(document).ready(function() {
+        let navULDom = document.getElementById('nav-items');
+        for(child of navULDom.children) {
+            let link = child.children.item(0)
+            
+            link.addEventListener('click', (event) => {
+                document.querySelectorAll("#nav-items > li > a").forEach((item) => {
+                    console.log(item);
+                    item.classList.remove('text-red-650')}
+                    )
+                link.classList.add('text-red-650')
+                scrollTo(link.href)
+                event.preventDefault();
+            });
+        }
+    });
+
+    $('#main').scroll(function() {
+        var scrollOffset = $('#about-content').offset().left;
+        var position = $(this).scrollLeft() + scrollOffset;
+        // console.log();
+
+        // $('#main > .section').each(function() {
+        //     var target = $(this).offset().left;
+        //     var id = "#" + $(this).attr('id');
+            
+        //     // console.log(document.querySelectorAll('#nav-items > li > a[href="' + id + '"]'));
+        //     if (position >= target) {
+        //         // console.log(id, position, target);
+        //         $('#nav-items > li > a').removeClass('text-red-650');
+        //         $('#nav-items > li > a[href="' + id + '"]').addClass('text-red-650');
+        //     }
+        // });
+
+        var offsets = [];
+        $('#main > .section').each(function() {
+                // calculate difference from offset
+                let diff = $(this).offset().left - scrollOffset;
+                var id = "#" + $(this).attr('id');
+                diff = Math.abs(diff);
+                offsets.push({id: id, diff: diff});
+        });
+
+        let diffs = [];
+        for(let i = 0; i < offsets.length; i++) {
+            diffs.push(offsets[i].diff);
+        }
+        var leastDiff = Math.min(...diffs);
+        console.log(leastDiff);
+
+        var idToHighlight = '';
+        for(let i = 0; i < offsets.length; i++) {
+            let o = offsets[i];
+            if(o.diff == leastDiff) {
+                idToHighlight = o.id;
+                break;
+            }
+        }
+
+        $('#nav-items > li > a').removeClass('text-red-650');
+        $('#nav-items > li > a[href="' + idToHighlight + '"]').addClass('text-red-650');
+    });
+
+    
+
+    // $('#main > .section').each(function() {
+    //         var target = $(this).offset().left;
+    //         var id = "#" + $(this).attr('id');
+            
+    //         console.log(document.querySelectorAll('#nav-items > li > a[href="' + id + '"]'));
+    //         if (position >= target) {
+    //             console.log(id, position, target);
+    //             $('#nav-items > li > a').removeClass('text-red-650');
+    //             $('#nav-items > li > a[href="' + id + '"]').addClass('text-red-650');
+    //         }
+    //     });
+
+    // $(document).ready(function() {
+    //     $('#nav-items>li>a').bind('click',function(event){
+    //         var $anchor = $(this);
+
+    //         console.log($($anchor.attr('href')).offset().left);
+    //         $('#main').stop().animate({
+    //             scrollLeft: $($anchor.attr('href')).offset().left
+    //         }, 1000);
+    //         event.preventDefault();
+    //     });
+    // });
+
+    
+</script>
