@@ -6,12 +6,12 @@ catb: documenting
 thumb: /static/img/g_exhibit_qua_atnvis_2.jpg
 cover: /static/img/C_WK_Coverimage.jpg
 date: 2021-05-15T08:30:00.000Z
-description: "This workshop explores the world of persuasive design and design
+description: This workshop explores the world of persuasive design and design
   tricks, which are design decisions on websites, apps, and in advertisements
   that provoke us emotionally and persuade us to click, share, and buy. By
   becoming aware of our physical and emotional responses to stressful stimuli
   and the persuasive designs of tech which are rooted in basic psychology, this
-  workshop will help you keep calm and spot the design tricks. "
+  workshop will help you keep calm and spot the design tricks.
 condition: "This workshop is exclusively for 15 to 28 year olds. "
 link: http://bit.ly/workshop-hisayasu
 expertname: Louise Hisayasu
@@ -43,11 +43,11 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=NUMa0QkPzns
     quadwatchvis: /static/img/C_WK_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: The Network Dynamics of Social Change  | Lecture by Damon Centola
+  - quadeventtxt: The Network Dynamics of Social Change  | Lecture | Damon Centola
     quadeventlink: http://bit.ly/lecture-centola
     quadeventvis: /static/img/C_WK_Coverimage.jpg
 relatedlist:
-  - quadrelatedtxt: "The Glassroom: Misinformation Edition by Tactical Tech and DensityDesign"
+  - quadrelatedtxt: "The Glassroom: Misinformation Edition | Tactical Tech and DensityDesign"
     quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
     quadrelatedvis: /static/img/G_Exhibit_Thumbnail.jpg
 ---
