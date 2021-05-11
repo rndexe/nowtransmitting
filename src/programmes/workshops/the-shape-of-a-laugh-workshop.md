@@ -49,7 +49,7 @@ watchinglist:
     quadwatchvis: /static/img/H_WK_QUA_WATCHVIS_1.jpg
 eventlist: []
 relatedlist:
-  - quadrelatedtxt: The Chameleon Project by Tina Gonsalves
+  - quadrelatedtxt: The Chameleon Project | Tina Gonsalves
     quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
     quadrelatedvis: /static/img/L_Exhibit_Thumbnail.jpg
 ---
