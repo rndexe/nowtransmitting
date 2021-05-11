@@ -4,7 +4,7 @@ permalink: programmes/lectures/control-consensus-chaos/
 cata: hindsight
 catb: documenting
 thumb: /static/img/pl_sheila.jpg
-cover: /static/img/1.-sheila-jasanoff-sketchnote-grey.png
+cover: /static/img/sketchnote-sheila-grey_resized.png
 date: 2021-04-30T13:00:00.000Z
 description: >
   Though COVID-19 has affected numerous countries across the globe, some nations
