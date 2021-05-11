@@ -48,11 +48,11 @@ watchinglist:
       and Fear"
     quadwatchvis: /static/img/J_WK_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: "COVID-19 Vaccines: Present and Future | Lecture by Gagandeep Kang"
+  - quadeventtxt: "COVID-19 Vaccines: Present and Future | Lecture | Gagandeep Kang"
     quadeventlink: http://bit.ly/lecture-kang
     quadeventvis: /static/img/pl_gagandeep.png
 relatedlist:
-  - quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazant, John Bush,
+  - quadrelatedtxt: COVID-19 Indoor Safety Guidelines | Martin Bazant, John Bush,
       and Kasim Khan
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
     quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
