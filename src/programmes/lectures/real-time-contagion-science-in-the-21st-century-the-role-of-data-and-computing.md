@@ -37,17 +37,17 @@ readinglist:
   - quadreadlink: https://www.thehindu.com/sci-tech/health/coronavirus-densely-packed-areas-in-cities-are-vulnerable-says-biocomplexity-expert-madhav-marathe/article31195212.ece
     quadreadtxt: Densely-packed Areas In Cities Are Vulnerable, Says Biocomplexity
       Expert Madhav Marathe
-    quadreadvis: /static/img/pl_madhav.png
+    quadreadvis: /static/img/V_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nature.com/articles/s41562-020-0884-z
     quadreadtxt: Using Social and Behavioural Science to Support COVID-19 Pandemic Response
-    quadreadvis: /static/img/pl_madhav.png
+    quadreadvis: /static/img/V_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://cacm.acm.org/magazines/2013/7/165478-computational-epidemiology/fulltext
     quadreadtxt: Computational Epidemiology
-    quadreadvis: /static/img/pl_madhav.png
+    quadreadvis: /static/img/V_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/58OnO6V0CJQu9T9k8P6jEK
     quadlisttxt: Smells Like Team Spirit
-    quadlistvis: /static/img/pl_madhav.png
+    quadlistvis: /static/img/V_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/5GOA5KbDJshKCLyWeHDYIP
     quadlisttxt: "Using Technology to Investigate the Inner Workings of Large Networks "
     quadlistvis: /static/img/pl_madhav.png
@@ -55,7 +55,7 @@ watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Js62DIn-BZ4
     quadwatchtxt: "Real-time Pandemic Planning And Response: Experiences From The
       COVID-19 Pandemic"
-    quadwatchvis: /static/img/pl_madhav.png
+    quadwatchvis: /static/img/V_PL_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventtxt: Why and How Should We Model Infectious Diseases? | Lecture by Gautam Menon
     quadeventlink: http://bit.ly/lecture-menon
