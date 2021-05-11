@@ -31,22 +31,30 @@ expertpic: /static/img/E_WK_SEC_VIS_1.jpg
 readinglist:
   - quadreadlink: https://www.wired.co.uk/article/world-of-warcraft-coronavirus-corrupted-blood
     quadreadtxt: World of Warcraft Perfectly Predicted Our Coronavirus Panic
-    quadreadvis: /static/img/wk_shreya-shreyas.png
+    quadreadvis: /static/img/E_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf
     quadreadtxt: The Yellow Wallpaper
-    quadreadvis: /static/img/wk_shreya-shreyas.png
+    quadreadvis: /static/img/E_WK_QUA_READVIS_2.jpg
   - quadreadlink: http://ala.keralascholars.org/issues/29/contagion-and-control-in-cinema-halls/
     quadreadtxt: "Miasmic Screens: Contagion and Control in Early 20th Century Cinema Halls"
-    quadreadvis: /static/img/wk_shreya-shreyas.png
+    quadreadvis: /static/img/E_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://soundcloud.com/scifri/learning-from-world-of-warcrafts-virtual-pandemic
     quadlisttxt: Learning From World Of Warcraft’s Virtual Pandemic
-    quadlistvis: /static/img/wk_shreya-shreyas.png
+    quadlistvis: /static/img/E_WK_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.npr.org/transcripts/803458265
     quadlisttxt: How Fictional Pandemics Can Help Fight Real-World Disease
-    quadlistvis: /static/img/wk_shreya-shreyas.png
+    quadlistvis: /static/img/E_WK_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=sbqKeF_y8_k
     quadwatchtxt: That Time an Accidental Plague Nearly Killed Everyone in World of Warcraft
-    quadwatchvis: /static/img/wk_shreya-shreyas.png
+    quadwatchvis: /static/img/E_WK_QUA_WATCHVIS_1.jpg
+eventlist:
+  - quadeventtxt: Dis-Ease | Film Discussion
+    quadeventlink: http://bit.ly/films-ghani
+    quadeventvis: /static/img/f_mariam.png
+relatedlist:
+  - quadrelatedtxt: Malware Museum by Mikko Hypponen
+    quadrelatedlink: https://nowtransmitting.com/exhibits/malware-museum/
+    quadrelatedvis: /static/img/J_Exhibit_Thumbnail.jpg
 ---
