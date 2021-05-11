@@ -61,44 +61,46 @@ description: >-
 
   ಈ ಪ್ರದರ್ಶಿಕೆಯಲ್ಲಿ, ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯಲ್ಲಿರುವ ಸಂಗ್ರಹಾಲಯದ ಕೊಡುಗೆಯಾದ ಹಲವು ಛಾಯಾಚಿತ್ರಗಳು, ಪ್ರತಿರೂಪಗಳು, ಅನುಕರಣಾತ್ಮಕ ಕೃತಿಗಳು ಪ್ರದರ್ಶಿತ ಗೊಂಡಿವೆ.  ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರು ತಮ್ಮ ಮೊದಲ ಅನ್ವೇಷಣೆಗಳನ್ನು ಕೈಗೊಂಡ  ಸ್ಥಳಗಳನ್ನು ಪ್ರಸ್ತುತ ಪಡಿಸಲಾಗಿದೆ.  ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ವಿರುದ್ಧ ಮಾನವರ ಸತತ ಹೋರಾಟಗಳು ಕಾಲಾಂತರದಲ್ಲಿ ಹೇಗೆ ವಿಕಸನ ಹೊಂದಿವೆ ಎಂಬುದನ್ನು  ಚಿಂತಿಸಬೇಕಾಗಿದೆ.
 essay: >-
-  Wolsztyn. Almost 14000 people live in this little town in modern day Poland. A
-  beautiful baroque church catches the eye when one walks down the street, where
-  Robert Koch once lived. It isn’t entirely clear why he was drawn to this town
-  hidden away in the Province of Posen, part of the Prussian empire between 1848
-  and 1919. Perhaps it was his chance to get closer to nature, his childhood
-  fascination. An epidemic that leaves many animals dead gets him involved as
-  district physician. It was here that Koch, in 1876, provides first evidence of
-  a link between a bacterium and an infectious disease: Anthrax
+  ಆಧುನಿಕ ಪೋಲ್ಯಾಂಡ್‌ ನ ಸಣ್ಣ ಉಪನಗರವಾದ ವೋಲ್ಸಿಟೈನ್‌ ನಲ್ಲಿ 14000 ಜನರು ವಾಸವಾಗಿದ್ದಾರೆ. 
+  ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರು ನಿವಾಸವಿದ್ದ ಬೀದಿಯಲ್ಲಿ ಸುಂದರವಾದ ಚರ್ಚ್‌ ಇದೆ.  1848 ಯಿಂದ 1919
+  ಕಾಲಾವಧಿಯಲ್ಲಿ,  ಪ್ರುಸಿಯನ್‌ ಸಾಮ್ರಾಜ್ಯದ ಭಾಗವಾಗಿದ್ದ ಪೊಸೆನ್‌ ಪ್ರಾಂತ್ಯದಲ್ಲಿ ರಾಬರ್ಟ್‌
+  ಕೋಕ್ ಏಕೆ ನೆಲೆಸಿದರು ಎಂಬುದು ನಿಗೂಢ ಸಂಗತಿ.  ಬಹುಷಃ ನಿಸರ್ಗದ ಒಡನಾಟ ಅವರ ಇಚ್ಛೆಯಾಗಿರ
+  ಬಹುದು.  ಇಲ್ಲಿ, ಜಿಲ್ಲಾ ವೈದ್ಯರಾಗಿದ್ದಾಗ, ರೋಗ ಪಿಡುಗಿನಿಂದ ಹಲವಾರು ಪ್ರಾಣಿಗಳು ಸಾವಿಗೆ
+  ತುತ್ತಾದವು. ಈ ಪ್ರಕರಣವನ್ನು ಅನುಸರಿಸಿ, ತಮ್ಮ ಸಂಶೋಧನೆಯ ಮೂಲಕ ಆಂತ್ರಾಕ್ಸ್‌ ಸಾಂಕ್ರಾಮಿಕ
+  ರೋಗ ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಂ ನಡುವಣ ಸಂಬಂಧವನ್ನು 1876ರಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ಸಾಕ್ಷಿ ಸಮೇತ
+  ನಿರೂಪಿಸಿದರು.
 
 
   *(Photos: Koch’s house in Wolsztyn, Koch’s anthrax sketch, Kochs microscopic anthrax  image)* 
 
 
-  Berlin. A city brimming with ideas, and a rich yet devastating history – it is now the second most populous city in Europe, with almost 3.8 million inhabitants. People from all walks of life, live and work here. The once distinctive sound of trotting on cobblestone streets has now been replaced with modern day engines. Despite several stately buildings being destroyed during the II World War, many still dominate the skyline, including the structures of the historic Royal Prussian Institute for Infectious Diseases. It was established as a research institute for Robert Koch owing to his enormous efforts and success in them identification of the causative agent of a disease, which in 1882 killed one in seven people: Tuberculosis.
+  **\
+
+  ಬರ್ಲಿನ್:‌** ಹೊಸ ಚಿಂತನೆಗಳ ಆಗರವಾಗಿರುವ, ಹಿಂದೆ ವಿನಾಶಕ್ಕೆ ಗುರಿಯಾಗಿದ್ದು ಈಗ ಅತಿ ಸಮೃದ್ಧವಾಗಿ ಬೆಳೆದಿರುವ ನಗರ,  ಬರ್ಲಿನ್.‌  3.8   ದಶಲಕ್ಷ ಜನಸಂಖ್ಯೆ ಹೊಂದಿದ್ದು, ಯೋರೋಪ್ ಖಂಡದಲ್ಲೀಯೇ ಎರಡನೇ ಅತಿ ಹೆಚ್ಚು ಜನ ಸಾಂದ್ರತೆಯುಳ್ಳ ನಗರವಾಗಿದೆ.  ಎಲ್ಲ ಬಗೆಯ ಜನರು ಇಲ್ಲಿ ವಾಸವಾಗಿದ್ದಾರೆ, ಕೆಲಸ ಮಾಡುತ್ತಾರೆ.  ಕಾಬಲ್‌ಸ್ಟೋನ್‌ ಬೀದಿಗಳಲ್ಲಿ ಕುದುರೆಗಳ ನೆಡಿಗೆಯ ಸಪ್ಪಳ ಕೇಳುತ್ತಿದ್ದ ಕಾಲವೊಂದಿತ್ತು.  ಈಗ ಆಧುನಿಕ ಇಂಜಿನ್ ಗಳ ಸದ್ದು ಕೇಳಿ ಬರುತ್ತದೆ.   ಎರಡನೇ ವಿಶ್ವ ಯುದ್ಧದಲ್ಲಿ ಅನೇಕ ಭವ್ಯ ಭವನಗಳು ನಾಶವಾಗಿದ್ದರೂ, ಇನ್ನೂ ಹಲವು ಅಂತಹ ಭವನಗಳು ಇಲ್ಲಿ ಇವೆ.  ಅವುಗಳಲ್ಲಿ , ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಬಗೆಗೆ ಸಂಶೋಧನೆ ನೆಡೆಯುವ ಐತಿಹಾಸಿಕ ರಾಯಲ್‌ ಪ್ರಶಿಯನ್‌ ಸಂಸ್ಥೆಯೂ ಸಹ ಒಂದು.   1882 ರಲ್ಲಿ ಏಳರಲ್ಲಿ ಒಬ್ಬರನ್ನು ಬಲಿ ತೆಗೆದು ಕೊಳ್ಳುತ್ತಿದ್ದ ಟ್ಯೂಬರ್‌ ಕ್ಯುಲಾಸಿಸ್‌ ರೋಗದ ಮೂಲ ಕಾರಣವನ್ನು ಪತ್ತೆ ಹಚ್ಚಲು, ರಾಬರ್ಟ್‌ ಕೋಚ್,‌ ಅಪಾರ ಪ್ರಯಾಸ ಪಟ್ಟಿದ್ದರು, ಸಫಲತೆಯನ್ನೂ ಕಂಡರು.  ಅವರ ಪ್ರಯತ್ನದ ಪ್ರತೀಕವಾಗಿ ಈ ಸಂಶೋಧನಾ ಸಂಸ್ಥೆಯನ್ನು ಸ್ಥಾಪಿಸಲಾಯಿತು.
 
 
   *(Photos: Koch’s manuscript in which he describes the etiology of TB, Tuberculin bottles  from Koch, Risk communication – spread of TB)* 
 
 
-  Kolkata. Also known as the city of joy, it is the third most densely inhabited metropolitan city in India, with a suburban population of over 14 million. Under the British Raj, Kolkata becomes the capital of British-held territories in India for over a century, with the Port of Kolkata being the oldest operating port in India. A walk through the city at noon leaves you seeking refuge in one of its beautiful old structures, like the Victoria Memorial, which stands proudly amidst luscious gardens. In 1883, an epidemic which spreads like fire, plagues Kolkata’s inhabitants and prompts Robert Koch to travel from Egypt to India to investigate: Cholera
+  **ಕೊಲ್ಕತ್ತ:** ಸಂತಸದ ನಗರವೆಂದೇ ಪ್ರಸಿದ್ಧವಾಗಿರುವ, ಭಾರತದಲ್ಲಿ ಮೂರನೇ ಅತಿ ಹೆಚ್ಚು ಜನ ಸಾಂದ್ರತೆಯುಳ್ಳ ಮಹಾನಗರ.  14 ದಶಲಕ್ಷ ಜನ ಸಂಖ್ಯೆಯನ್ನು ಹೊಂದಿದೆ.  ಕೊಲ್ಕತ್ತ , ಬ್ರಿಟಿಷ್‌ ಸಾಮ್ರಾಜ್ಯದಲ್ಲಿ , ಒಂದು ಶತಮಾನಕ್ಕೂ ಹೆಚ್ಚು ಕಾಲ, ಭಾರತದ ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತ ಪ್ರಾಂತ್ಯಗಳಿಗೆ ಮುಖ್ಯಾಲಯವಾಗಿತ್ತು.  ಕೊಲ್ಕತ್ತದಲ್ಲಿ ಭಾರತದ ಅತಿ ಪುರಾತನ  ಬಂದರು ಇದೆ. ದಿನದಲ್ಲಿ ನಗರವನ್ನು ಒಮ್ಮೆ ಸುತ್ತು ಹಾಕಿದರೆ, ಉದ್ಯಾನದ ಮಧ್ಯದಲ್ಲಿರುವ ವಿಕ್ಟೋರಿಯಾ ಮೆಮೋರಿಯಲ್‌ ತರಹದ ಸುಂದರ ತಾಣಗಳಲ್ಲಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯ ಬಹುದು.  1883ರಲ್ಲಿ, ಖಾಲೆರಾ ಎಂಬ ರೋಗವು ಕೊಲ್ಕತ್ತ ನಗರದ ನಿವಾಸಿಗರನ್ನು   ಮಹಾಮಾರಿಯಾಗಿ ವ್ಯಾಪಿಸಿ ಕಾಡಿದಾಗ, ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರು ಇಜಿಪ್ಟ್‌ ನಿಂದ ಭಾರತಕ್ಕೆ ಬರುವಂತಾಯಿತು.
 
 
   *(Photos: Koch’s cholera map (tracing sea routes of transmission), city map of Kolkata  during Koch’s time)* 
 
 
-  The threats that were once formidable continue to remain threats, each in their own measure. We now live in a global world. Increased urbanization has led to megacities, and international mobility is on a scale never seen before. A journey that took Robert Koch a  few weeks to complete now takes us a few hours. Even back in 1883, Robert Koch sketched out the most probable sea routes by which cholera, then thought of as a disease of the poor, was likely to find its way to the heart of Europe. Today scientists at the Robert Koch-Institute simulate the potential routes of deadly viruses via air traffic worldwide.
+  **ಒಂದು ಕಾಲದಲ್ಲಿ ಭಯಾನಕ ವಿಪತ್ತುಗಳಾಗಿ ಸಂಭವಿಸಿದ್ದ ರೋಗ ಪಿಡುಗುಗಳು ಇಂದಿಗೂ ತಮ್ಮದೇ ರೀತಿಯಲ್ಲಿ ವಿಪತ್ತುಗಳಾಗಿಯೇ ಉಳಿದಿವೆ.  ಈಗ ನಾವು ಜಾಗತಿಕ ವಿಶ್ವದಲ್ಲಿ ಇದ್ದೇವೆ.  ಅತಿಯಾದ ನಗರೀಕರಣದ ಫಲಸ್ವರೂಪವಾಗಿ, ಮಹಾ ನಗರಗಳು ಅಸ್ಥಿತ್ವಕ್ಕೆ ಬಂದಿವೆ. ಹಿಂದೆಂದೂ ಕಾಣದ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಮಟ್ಟದ  ಪ್ರಯಾಣ ಪ್ರವಾಸಗಳನ್ನು ಕಾಣುತ್ತಿದ್ದೇವೆ.  ರಾಬರ್ಟ್‌ ಕೋಕ್  ಅಂತಹವರಿಗೆ ವಾರಗಳೇ ಹಿಡಿದಿದ್ದ ಪ್ರಯಾಣವನ್ನು ನಾವು ಕೆಲವೇ ಗಂಟೆಗಳಲ್ಲಿ ಪೂರೈಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿದೆ. 1883  ರಲ್ಲಿ, ಬಡವರ ರೋಗವೆಂದೇ ಪ್ರಸಿದ್ಧವಾಗಿದ್ದಂತಹ ಖಾಲೆರಾ ರೋಗ ಪಿಡುಗು ಭಾರತದಿಂದ ಯೂರೋಪ್‌ ವರೆಗೂ ಹೇಗೆ ಸಂವನವಾಯಿತು ಎಂದು ರಾಬರ್ಟ್‌ ಕೋಚ್ ಅವರು‌ , ಸಂಭಾವ್ಯ ಸಮುದ್ರ ಮಾರ್ಗಗಳ ನಕ್ಷೆಯನ್ನು ರಚಿಸಿದ್ದರು.  ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯ ವಿಜ್ಞಾನಿಗಳು ಇಂದಿನ ದಿನಗಳಲ್ಲಿ, ವಾಯು ಮಾರ್ಗದಲ್ಲಿ ವಿಶ್ವದೆಲ್ಲೆಡೆ ಹರಡ ಬಹುದಾದ ಮಾರಣಾಂತಕ ವೈರಸ್‌ ಗಳ ಸಂವಹನದ ನಕ್ಷೆಗಳನ್ನು ಪತ್ತೆ ಮಾಡುವ ಕಾರ್ಯದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ.**
 
 
   *(Simulation (Dirk Brockmann) World air traffic, potential routes of deadly viruses)*
 
 
-  Robert Koch’s work changed the way we look at contagion and in the last century we have found ways to fight infectious diseases. But what if diseases like anthrax, tuberculosis and cholera are not the biggest threats to our existence anymore?
+  ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರ ಕೊಡುಗೆಯು , ಸಾಂಕ್ರಾಮಿಕ ವ್ಯಾಪನಗಳ ಬಗೆಗೆ ನಮ್ಮ ದೃಷ್ಟಿಕೋನವನ್ನೇ ಬದಲಿಸಿದೆ.  ಹಿಂದಿನ ಶತಮಾನದಲ್ಲಿ, ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳನ್ನು ಎದುರಿಸುವ ಮಾರ್ಗಗಳನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.  ಆದರೆ, ಆಂತ್ರಾಕ್ಸ್‌, ಟ್ಯೂಬರ್ ಕ್ಯುಲೋಸಿಸ್‌ ಮತ್ತು ಖಾಲೆರಾ ಅಂತಹ ರೋಗಗಳಿಗಿಂತಲೂ ಮಾರಣಾಂತಕ ರೋಗಗಳು ಮಾನವರ ಅಸ್ಥಿತ್ವಕ್ಕೆ ದೊಡ್ಡ ವಿಪತ್ತುಗಳಾಗಿ ಪರಿಣಮಿಸ ಬಹುದೇ?
 
 
-  In late 2019 the world was hit by the largest pandemic since the Spanish flu of 1918. COVID-19 has resulted in more than a 100 million cases and cost over 2.5 million lives worldwide. Evidence-based science and vaccination remain the most effective ways of preventing and treating infection. So how worried should we really be, when we start to see the cracks in these concrete structures now holding the world of infectious medicine together? What should we do when we find that the rate at which these cracks get bigger surpasses our ability to fix them? Today, many have lost faith in science, and evidence-based knowledge Robert Koch was the first to provide bacteriological proof that locally-occurring cholera outbreaks were caused by poor water quality.
+  1918 ರಲ್ಲಿ ಸಂಭವಿಸಿದ ಅತ್ಯಂತ ದೊಡ್ಡ ರೋಗ ಪಿಡುಗು ಸ್ಪ್ಯಾನಿಷ್‌ ಫ್ಲೂ ವಿನ ಬಳಿಕ  2019 ರ ಅಂತ್ಯದಲ್ಲಿ ವಿಶ್ವವನ್ನು ಅಪ್ಪಳಿಸಿರುವ ಕೋವಿಡ್‌-19 ,  100  ದಶ ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಜನರನ್ನು ಪೀಡಿಸಿದೆ ಹಾಗೂ ವಿಶ್ವದೆಲ್ಲೆಡೆ, 2.5 ದಶ ಲಕ್ಷ ಜನರು ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ.  ಸಾಕ್ಷಿ ಆಧಾರಿತ ವಿಜ್ಞಾನ ಮತ್ತು ಲಸಿಕೆಗಳ ಅವಿಶ್ಕಾರದ ಮೂಲಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳನ್ನು ಸಮರ್ಪಕವಾಗಿ ತಡೆಗಟ್ಟ ಬಹುದು.  ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ನಿವಾರಕ ಔಷಧಿಗಳನ್ನು ಪಡೆದಿರುವ ನಾವು, ಇಂತಹ ಬೃಹದಾಕಾರದ ಗಟ್ಟಿ ನಿಲುವಿನಲ್ಲಿ ಬಿರುಕುಗಳು ಗೋಚರಿಸಿದಾಗ, ನಿಜವಾಗಲೂ ಎಷ್ಟು ಚಿಂತಿಸ ಬೇಕು?  ಈ ಬಿರುಕುಗಳನ್ನು ಸರಿಪಡಿಸದೇ ಇರುವ ಸಂದರ್ಭ ಒದಗಿದರೆ ಏನು ಮಾಡ ಬೇಕು ?  ಇಂದು ಬಹಳ ಜನರು ವಿಜ್ಞಾನದ ಸಾಕ್ಷಿ ಆಧಾರಿತ ಅರಿವಿನ ಬಗೆಗೆ ತಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದಾರೆ. ಪ್ರಾದೇಶಿಕ ಖಾಲೆರಾ ರೋಗ ಸಾಂಕ್ರಾಮಿಕ ಪಿಡುಗು, ಕಳಪೆ ಗುಣಮಟ್ಟದ ನೀರಿನಿಂದಾಗಿ ಹರಡುತ್ತದೆ ಎಂದು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಅಧ್ಯಯನದ ಸಾಕ್ಷಿ ಒದಗಿಸಿ, ತಿಳಿಸಿ ಕೊಟ್ಟವರಲ್ಲಿ ರಾಬರ್ಟ್‌ ಕೋಕ್  ಮೊದಲಿಗರು.
 
 
-  In 1883, Robert Koch sketched out the most probable sea routes by which cholera was likely to be transmitted to Europe. It appears less likely to be accepted than fake news and rumours which often feed on our inner fears and emotions. Have we gone against our most powerful allies in the battle against infectious disease and is this contagion of disbelief spreading faster than a deadly virus?
+  1883 ರಲ್ಲಿ, ಸಮುದ್ರ ಮಾರ್ಗದಲ್ಲಿ ಖಾಲೆರಾ ರೋಗ ಸಾಂಕ್ರಾಮಿಕವು. ಯೂರೋಪ್‌ ಗೆ ಹರಡ ಬಹುದಾದ ಸಂಭಾವ್ಯ ಸಮುದ್ರ ಮಾರ್ಗಗಳ ಬಗೆಗೆ, ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರು ಚಿತ್ರ ನಕ್ಷೆ ಒದಗಿಸಿದರು.    ನಮ್ಮ ಕಿವಿಗೆ ತಲುಪುವ, ನಮ್ಮ ಆಂತರಿಕ ಭಯ ಮತ್ತು ಭಾವನೆಗಳ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರುವಂತಹ ಸುಳ್ಳು ಗಾಳಿ ಸುದ್ದಿಗಳು ಮತ್ತು  ಊಹಾಪೋಹಗಳನ್ನು ನಂಬುವಷ್ಟು ಸಲೀಸಾಗಿ , ಈ ವಿಷಯವನ್ನು ಸ್ವೀಕರಿಸುವುದು ಕಷ್ಟ ಸಾಧ್ಯ.  ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ವಿರುದ್ಧ ಸಾರಿರುವ ಹೋರಾಟದಲ್ಲಿ ಹಿನ್ನಡೆ ಆಗಿದೆಯೇನು , ಈ ಅಪನಂಬಿಕೆಯು ಮಾರಣಾಂತಕ ವೈರಸ್‌ ಗಿಂತಲೂ ಹೆಚ್ಚು ವೇಗವಾಗಿ ಹರಡುತ್ತಿದೆಯೇ?
 
 
   *(Photos: Crisis communication RKI examples….  )*
