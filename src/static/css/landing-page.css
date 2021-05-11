@@ -69,17 +69,7 @@ body, html{
     z-index:10000;
 }
 
-.legend{
-    visibility: hidden;
-    position: absolute;
-    top:0;
-    right:0;
-    margin-right:30px;
-    height:95%;
-    margin-top:30px;
-    text-align:center;
-    z-index:9999;
-}
+
 
 
 
@@ -106,10 +96,21 @@ body, html{
 }
 
 @media screen and (max-width: 1024px){
-    .opening-frame{
+    .opening-frame-mobile{
+        height:auto;
         width:100%;
-        height:auto; 
-        margin-top:20%;  
+        margin-top:-10%;
+    }
+    .legend{
+        visibility: hidden;
+        position: absolute;
+        top:0;
+        right:0;
+        margin-right:30px;
+        height:80%;
+        margin-top:30px;
+        text-align:center;
+        z-index:9999;
     }
     .popup-exhibit{
         width:95%;
@@ -120,7 +121,7 @@ body, html{
         margin-right:auto;
         margin-top:30px;
         background-color:white;
-        z-index:10000; 
+        z-index:9999; 
         display:flex;
         flex-direction:row;
     }
@@ -133,7 +134,7 @@ body, html{
         margin-right:auto;
         margin-top:30px;
         background-color:white; 
-        z-index:10000;
+        z-index:9999;
         display:flex;
         flex-direction:row;
     }
@@ -144,16 +145,31 @@ body, html{
         width:100px;
         height:100px;
         margin-right:30px;
-        margin-bottom:20%;
+        margin-bottom:25%;
         text-align:center;
         z-index:9997;
+    }
+    .mediator p{
+        font-size:8px;
+        line-height:12px;
     }
 }
 @media screen and (min-width: 1024px){
     
     .opening-frame{
         width:auto;
-        height:100%;  
+        height:100%;
+    }
+    .legend{
+        visibility: hidden;
+        position: absolute;
+        top:0;
+        right:0;
+        margin-right:30px;
+        height:95%;
+        margin-top:30px;
+        text-align:center;
+        z-index:9999;
     }
     .popup-exhibit{
         width:500px;
@@ -259,6 +275,7 @@ body, html{
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
     color: white;
+    z-index:10001;
 }
 .menu::after {
     position: absolute;

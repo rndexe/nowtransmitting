@@ -3,12 +3,13 @@ layout: default
 title: Contagion
 path: home
 ---
-{% include "./lp_json/thumbnail_data.html" %}
 
 <div class="content lg:ml-20">
   <div id="opening-frame" class="opening-frame-container">
-    <a href="/home"><img src="/static/img/lp_assets/opening-frame.png" alt="" class="opening-frame"></a> 
+    <a class="hidden lg:block h-screen" href="/home"><img src="/static/img/lp_assets/opening-frame.png" alt="" class="opening-frame"></a> 
+    <a class="block lg:hidden" href="/home"><img src="/static/img/lp_assets/opening-frame-mobile.svg" alt="" class="opening-frame-mobile"></a> 
   </div>
+  
 </div>
 
   

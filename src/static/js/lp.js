@@ -758,6 +758,17 @@ var bgedges = new vis.DataSet([
 ]);
 
 
+var blobRadius = 45;
+var offset = 10;
+var drag = false;
+var zoom = false;
+if(window.outerWidth < window.outerHeight){
+    blobRadius = 15;
+    offset = 5;
+    drag = true;
+    zoom=true;
+   
+}
 
 var container = document.getElementById("mynetwork");
 var data = {
@@ -776,8 +787,8 @@ var options = {
     },
     interaction: { 
         hover: true,
-        zoomView: false,
-        dragView:false,
+        zoomView: zoom,
+        dragView:drag,
     },
     // physics: {
     //     "repulsion": {
@@ -949,12 +960,6 @@ network.on("blurNode", function (params) {
 // });
 
 
-var blobRadius = 45;
-var offset = 10;
-if(window.outerWidth < window.outerHeight){
-    blobRadius = 15;
-    offset = 5;
-}
 
 function updater(){
     project.clear()
