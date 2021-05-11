@@ -31,20 +31,25 @@ expertpic: /static/img/h_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.scientificamerican.com/article/why-do-we-laugh/
     quadreadtxt: Why Do We Laugh?
-    quadreadvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadreadvis: /static/img/H_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.bbc.com/future/article/20160829-how-laughter-makes-us-better-people
     quadreadtxt: How Comedy Makes Us Better People
-    quadreadvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadreadvis: /static/img/H_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4445582/
     quadreadtxt: "Funny Science: Review: Ha! The Science of When We Laugh and Why
       and The Humor Code: A Global Search for What Makes Things Funny"
-    quadreadvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadreadvis: /static/img/H_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.npr.org/2020/09/25/916997530/laughter-the-best-medicine
     quadlisttxt: "Laughter: The Best Medicine"
-    quadlistvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadlistvis: /static/img/H_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=UxLRv0FEndM
     quadwatchtxt: Why We Laugh | Sophie Scott
-    quadwatchvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadwatchvis: /static/img/H_WK_QUA_WATCHVIS_1.jpg
+eventlist: []
+relatedlist:
+  - quadrelatedtxt: The Chameleon Project by Tina Gonsalves
+    quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
+    quadrelatedvis: /static/img/L_Exhibit_Thumbnail.jpg
 ---
