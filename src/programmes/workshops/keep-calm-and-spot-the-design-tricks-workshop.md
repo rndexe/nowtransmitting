@@ -43,11 +43,11 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=NUMa0QkPzns
     quadwatchvis: /static/img/C_WK_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: The Network Dynamics of Social Change  | Lecture | Damon Centola
+  - quadeventtxt: The Network Dynamics of Social Change  | Lecture by Damon Centola
     quadeventlink: http://bit.ly/lecture-centola
     quadeventvis: /static/img/C_WK_Coverimage.jpg
 relatedlist:
-  - quadrelatedtxt: "The Glassroom: Misinformation Edition | Tactical Tech and DensityDesign"
+  - quadrelatedtxt: "The Glassroom: Misinformation Edition by Tactical Tech and DensityDesign"
     quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
     quadrelatedvis: /static/img/G_Exhibit_Thumbnail.jpg
 ---
