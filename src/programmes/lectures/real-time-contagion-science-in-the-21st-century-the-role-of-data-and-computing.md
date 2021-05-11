@@ -14,24 +14,17 @@ description: >-
   ourselves unable to respond rapidly and effectively to pandemics.
 
 
-  In this lecture, Madhav Marathe will argue that pandemics are a complex systems problem and are intricately tied to the social, behavioral, medical, political and economic issues that go beyond human health and national boundaries. He will discuss how and if recent advances in computing, data and biological sciences can be harnessed to develop new techniques and engineering principles that can further advance the field and, in the end, help reduce the global burden of infectious diseases.
+  In this lecture, Dr. Marathe and his team will argue that pandemics are a complex systems problem that go beyond human health and national boundaries. They will discuss how and if recent advances in computing, data and biological sciences can be harnessed to develop new techniques and engineering principles that can further advance the field and, in the end, help reduce the global burden of infectious diseases.
 link: http://bit.ly/lecture-marathe
 expertname: Madhav Marathe
-expertbio: Madhav Marathe is a Distinguished Professor in Biocomplexity, the
-  division director of the Network Systems Science and Advanced Computing
-  Division at the Biocomplexity Institute and Initiative, and a Professor in the
-  Department of Computer Science at the University of Virginia (UVA).   He is a
-  passionate advocate and practitioner of transdisciplinary team
-  science.  During his 25-year professional career, he has established and led a
-  number of large transdisciplinary projects and groups. His research interests
-  are in network and data science, computational epidemiology, AI, foundations
-  of computing  and high performance computing. Throughout his career, he has
-  been studying contagion like phenomenon that occur in social and engineered
-  systems. This includes, (non)-infectious diseases, computer viruses, and
-  cascades in social and infrastructure systems. For instance, the division he
-  leads has supported federal and state authorities in their effort to combat
-  epidemics in real-time, including the  H1N1 pandemic in 2009, the Ebola
-  outbreak in 2014 and most recently the COVID-19 pandemic.
+expertbio: >-
+  Madhav Marathe is a Distinguished Professor in Biocomplexity, the division
+  director of the Network Systems Science and Advanced Computing Division at the
+  Biocomplexity Institute and Initiative, and a Professor in the Department of
+  Computer Science at the University of Virginia (UVA).  
+
+
+  He is a passionate advocate and practitioner of transdisciplinary team science.  During his 25-year professional career, he has established and led a number of large transdisciplinary projects and groups. His research interests are in network and data science, computational epidemiology, AI, foundations of computing  and high performance computing. Throughout his career, he has been studying contagion like phenomenon that occur in social and engineered systems.
 expertpic: /static/img/pl_madhav_portrait.png
 readinglist:
   - quadreadlink: https://www.thehindu.com/sci-tech/health/coronavirus-densely-packed-areas-in-cities-are-vulnerable-says-biocomplexity-expert-madhav-marathe/article31195212.ece
