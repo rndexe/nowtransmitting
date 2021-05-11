@@ -42,6 +42,7 @@ module.exports = {
          '720': '180rem',
          '768': '192rem',
          '1152': '288rem',
+         '2112': '528rem',
       },
       keyframes: {
         'fade-in-down': {

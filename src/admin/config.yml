@@ -1310,7 +1310,7 @@ collections:
       - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
       - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
-      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false, media_library: { config: {max_file_size: 512000}} }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "markdown", required: false }
       - { label: "Condition", name: "condition", widget: "string", required: false }
@@ -1372,7 +1372,7 @@ collections:
       - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
       - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
-      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false, media_library: { config: {max_file_size: 512000}}  }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "markdown", required: false }
       - { label: "Condition", name: "condition", widget: "string", required: false }
@@ -1433,7 +1433,7 @@ collections:
       - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
       - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
-      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false, media_library: { config: {max_file_size: 512000}}  }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "markdown", required: false }
       - { label: "Condition", name: "condition", widget: "string", required: false }
@@ -1496,7 +1496,7 @@ collections:
       - { label: "Category A", name: "cata", widget: "select", options: ["trigger", "transmission", "spillover", "hindsight"], required: false }
       - { label: "Category B", name: "catb", widget: "select", options: ["experimenting", "documenting", "mapping", "narrating"], required: false }
       - { label: "Thumbnail", name: "thumb", widget: "image", required: false }
-      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Cover Image", name: "cover", widget: "image", required: false , media_library: { config: {max_file_size: 512000}} }
       - { label: "Date", name: "date", widget: "datetime", required: false }
       - { label: "Description", name: "description", widget: "markdown", required: false }
       - { label: "Condition", name: "condition", widget: "string", required: false }
@@ -1659,7 +1659,7 @@ collections:
           name: "promptAlist"
           widget: "list"
           fields:
-          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false , media_library: { config: {max_file_size: 512000}} }
           - { label: "Caption", name: "caption", widget: "string", required: false }
           - { label: "Photographer", name: "name", widget: "string", required: false }
           - { label: "Photographer Bio", name: "bio", widget: "markdown", required: false }
@@ -1667,7 +1667,7 @@ collections:
           name: "promptBlist"
           widget: "list"
           fields:
-          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false , media_library: { config: {max_file_size: 512000}} }
           - { label: "Caption", name: "caption", widget: "string", required: false }
           - { label: "Photographer", name: "name", widget: "string", required: false }
           - { label: "Photographer Bio", name: "bio", widget: "markdown", required: false }
@@ -1675,7 +1675,7 @@ collections:
           name: "promptClist"
           widget: "list"
           fields:
-          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false , media_library: { config: {max_file_size: 512000}} }
           - { label: "Caption", name: "caption", widget: "string", required: false }
           - { label: "Photographer", name: "name", widget: "string", required: false }
           - { label: "Photographer Bio", name: "bio", widget: "markdown", required: false }
@@ -1683,7 +1683,7 @@ collections:
           name: "promptDlist"
           widget: "list"
           fields:
-          - { label: "Cover Image", name: "coverimage", widget: "image", required: false }
+          - { label: "Cover Image", name: "coverimage", widget: "image", required: false , media_library: { config: {max_file_size: 512000}} }
           - { label: "Caption", name: "caption", widget: "string", required: false }
           - { label: "Photographer", name: "name", widget: "string", required: false }
           - { label: "Photographer Bio", name: "bio", widget: "markdown", required: false }
