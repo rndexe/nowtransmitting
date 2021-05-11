@@ -4,7 +4,7 @@ permalink: programmes/lectures/model-infectious-diseases/
 cata: transmission
 catb: mapping
 thumb: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
-cover: /static/img/B_PL_Coverimage.jpg
+cover: /static/img/gautam-menon-sketchnote.png
 date: 2021-05-01T13:00:00.000Z
 description: >-
   Pandemics of infectious disease conjure up images of crowded hospitals,
@@ -16,7 +16,8 @@ description: >-
 
 
   Why are these models necessary? What insights can we gain from them? In this talk, Professor Gautam Menon will discuss these questions, as well as survey some epidemic models that are used to understand and model disease spread. Approaching these topics through a qualitative rather than technical lens, Menon will show how to develop the right intuition about what goes into modeling infectious diseases.
-link: http://bit.ly/lecture-menon
+link: ""
+reclink: https://www.youtube.com/embed/j5siL6RGILI
 expertname: Gautam I. Menon
 expertbio: Gautam I. Menon is a Professor of Physics and Biology at Ashoka
   University, an adjunct Professor at the Tata Institute of Fundamental
