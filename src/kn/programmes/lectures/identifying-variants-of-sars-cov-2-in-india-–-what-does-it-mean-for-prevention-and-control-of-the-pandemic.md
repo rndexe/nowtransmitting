@@ -19,7 +19,7 @@ description: >-
 
   To illustrate these points, Pattabiraman will share her work on SARS-CoV-2 variants that were imported and found circulating in Bengaluru between Nov 2020 – Jan 2021. She will also highlight India’s ongoing, countrywide sequencing effort to rapidly identify VoCs. Genomic information and early identification of variants is crucial since it can inform public health measures, suggest revisions to vaccines, and prepare the health care system for a surge in cases.
 link: http://bit.ly/lecture-pattabiraman
-expertname: Chitra Pattabiraman
+expertname: ಚಿತ್ರ ಪಟ್ಟಾಭಿರಾಮನ್‌
 expertbio: Chitra Pattabiraman is an Early Career Fellow at the Department of
   Neurovirology, NIMHANS, Bangalore. She is interested in viruses that are
   novel, emerging and/or cause human disease. She obtained her BSc in
@@ -61,11 +61,11 @@ eventlist:
     quadeventlink: https://bit.ly/lecture-farrar
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
-  - quadrelatedtxt: Contagion in the 21st Century
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedtxt: COVID-19 Indoor Safety Guideline by Martin Bazant, John Bush,
-      and Kasim Khan
+  - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಜ್ಹಾನ್‌ ಡಬಲ್ಯೂ, ಬುಶ್
+      ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್, ಕಾಸಿಮ್‌ ಖಾನ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
