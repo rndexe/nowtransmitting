@@ -53,7 +53,7 @@ watchinglist:
     quadwatchvis: /static/img/K_WK_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
-      Century India | Lecture | David Arnold"
+      Century India | Lecture by David Arnold"
     quadeventlink: http://bit.ly/lecture-arnold
     quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
