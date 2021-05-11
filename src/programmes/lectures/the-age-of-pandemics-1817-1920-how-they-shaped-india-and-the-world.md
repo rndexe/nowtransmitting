@@ -30,32 +30,32 @@ readinglist:
     quadreadvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
   - quadreadlink: https://web.iima.ac.in/faculty-and-research/research-and-publication/working-papers.html&rnp_id=14644
     quadreadtxt: Pandemics and Historical Mortality in India
-    quadreadvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadreadvis: /static/img/R_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://scroll.in/article/981666/what-we-have-forgotten-about-the-pandemics-that-killed-millions-of-indians-over-100-years-ago
     quadreadtxt: What We Have Forgotten About The Pandemics That Killed Millions Of
       Indians Over 100 Years Ago
-    quadreadvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadreadvis: /static/img/R_PL_QUA_READVIS_2.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/0SNjUHZawlNwOtBdDnbBbc
     quadlisttxt: India’s Tryst with Pandemics
-    quadlistvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadlistvis: /static/img/R_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://soundcloud.com/user-722693669/2020-podcast-with-chinmay-tumbe
     quadlisttxt: 2020 Podcast with Chinmay Tumbe
-    quadlistvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadlistvis: /static/img/R_PL_QUA_LISTVIS_2.jpg
   - quadlistlink: https://open.spotify.com/episode/3UxWHfsxXl4jX2AjHbHi3m
     quadlisttxt: The Age of Pandemics in India and the World
-    quadlistvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadlistvis: /static/img/R_PL_QUA_LISTVIS_3.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=8N0CrLEo1Fs
     quadwatchtxt: Migration & Pandemics
-    quadwatchvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadwatchvis: /static/img/R_PL_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-lynteris
-    quadeventtxt: Plague and the Emergence of Epidemic Photography | Lecture by
+    quadeventtxt: Plague and the Emergence of Epidemic Photography | Lecture |
       Christos Lynteris
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
-      Century India | Lecture by David Arnold"
+      Century India | Lecture | David Arnold"
     quadeventlink: http://bit.ly/lecture-arnold
     quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
