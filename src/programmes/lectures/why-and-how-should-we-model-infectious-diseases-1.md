@@ -4,7 +4,7 @@ permalink: programmes/lectures/model-infectious-diseases/
 cata: transmission
 catb: mapping
 thumb: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
-cover: /static/img/B_PL_Coverimage.jpg
+cover: /static/img/gautam-menon-sketchnote.png
 date: 2021-05-01T13:00:00.000Z
 description: >-
   Pandemics of infectious disease conjure up images of crowded hospitals,
