@@ -1,5 +1,6 @@
 ---
 title: "COVID-19 Vaccines: Present and Future"
+permalink: programmes/lectures/covid-19-vaccines-present-and-future/
 cata: spillover
 catb: experimenting
 thumb: /static/img/pl_gagandeep.png
@@ -24,5 +25,12 @@ listeninglist:
 watchinglist:
   - quadwatchvis: /static/img/O_PL_QUA_WATCHVIS_1.jpg
 eventlist:
-  - {}
+  - quadeventtxt: Everything You Wanted To Know About Non-Western Covid Vaccines But
+      Were Afraid To Ask
+    quadeventlink: https://www.eventbrite.com/e/145399912051
+    quadeventvis: /static/img/pl_achal.png
+relatedlist:
+  - quadrelatedtxt: COVID-19 Indoor Safety Guideline
+    quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
 ---
