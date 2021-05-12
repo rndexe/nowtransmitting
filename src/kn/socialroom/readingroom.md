@@ -130,13 +130,14 @@ recbooklist:
       ರಕ್ತ ಪರೀಕ್ಷೆಯ ಪರಿಸ್ಥಿತಿಯವರೆಗೂ ವಿವಿಧ ಬಗೆಯ ನೋಟಗಳನ್ನು ಚಿತ್ರಿಸಿದ್ದಾರೆ.
     link: https://www.hmsreview.org/covid/history-of-magic-bullets
   - coverimage: /static/img/RR_On Immunity.jpg
-    title: "On Immunity: An inoculation"
-    author: Eula Biss
-    about: On Immunity addresses our fear of the government, the medical
-      establishment, and what may be in our children's air, food, mattresses,
-      medicines, and vaccines. Reflecting on her own experience as a new mother,
-      Eula Biss suggests that we cannot immunize our children, or ourselves,
-      against the world.
+    title: "ಆನ್‌ ಇಮ್ಯೂನಿಟಿ: ಆನ್‌ ಇನೋಕುಲೇಶನ್‌"
+    author: ಯೂಲಾ ಬಿಸ್ಸ್
+    about: ಈ  ದಿಟ್ಟ, ಚಿತ್ತಾಕರ್ಷಕ  ಪುಸ್ತಕದಲ್ಲಿ, ಯೂಲಾ ಬಿಸ್ಸ್ ಅವರು ಆಡಳಿತ ಹಾಗೂ  ವೈದ್ಯಕೀಯ
+      ವ್ಯವಸ್ಥೆಗಳ, ಬಗೆಗೆ ಜನ ಸಾಮಾನ್ಯರ ಭೀತಿಯನ್ನು ಕುರಿತಂತೆ ಹಾಗೂ ನಮ್ಮ ಮಕ್ಕಳು ಸೇವಿಸುವ
+      ಗಾಳಿ, ಆಹಾರ, ಔಷಧಿಗಳು, ಹಾಸಿಗೆಗಳು ಮತ್ತು ಲಸಿಕೆಗಳ ಬಗೆಗೆ ಬರೆದಿದ್ದಾರೆ.  ಒಬ್ಬ ನವ
+      ಜಾತ ಶಿಶುವಿನ ತಾಯಿಯಾಗಿ ತನ್ನ ಸ್ವಂತ ಅನುಭವವನ್ನು ಹಂಚಿಕೊಳ್ಳುತ್ತಾರೆ.  ನಾವು ವಿಶ್ವದ
+      ಎಲ್ಲಾ ಪಿಡುಗುಗಳ ವಿರುದ್ಛ, ನಮಗೆ ಅಥವಾ ನಮ್ಮ ಮಕ್ಕಳಿಗೆ ರಕ್ಷಣೆ ಒದಗಿಸಲು
+      ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.
     link: https://www.brainpickings.org/2021/03/19/eula-biss-on-immunity/
   - title: "Pandemic: Tracking Contagions, From Cholera to Coronaviruses and Beyond"
     author: Sonia Shah
