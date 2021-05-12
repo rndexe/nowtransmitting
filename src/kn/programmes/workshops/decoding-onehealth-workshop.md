@@ -1,5 +1,5 @@
 ---
-title: Decoding OneHealth
+title: ಡಿಕೋಡಿಂಗ್‌ ಒನ್‌ ಹೆಲ್ಥ್‌
 permalink: kn/programmes/workshops/decoding-one-health/
 cata: hindsight
 catb: documenting
@@ -7,29 +7,31 @@ thumb: /static/img/wk_echo.png
 cover: /static/img/L_WK_Coverimage.jpg
 date: 2021-06-05T08:30:00.000Z
 description: >-
-  OneHealth is a strategy to simultaneously address the health of humans,
-  animals, and the environment. This pandemic highlights the disconnect among
-  human, environmental, animal, and wildlife health on the one hand, and
-  implementers, decision-makers, and academia on the other hand. This
-  interactive workshop will use expert interactions and gamification to engage
-  participants in the world of OneHealth.  
+  ಒನ್‌ ಹೆಲ್ಥ್‌ ಒಕ್ಕೂಟವು, ಮಾನವರು, ಪ್ರಾಣಿಗಳು ಮತ್ತು ಪರಿಸರದ ಸಮಸ್ಯೆಗಳಿಗೆ ಒಟ್ಟಿಗೆ
+  ಪರಿಹಾರ ಕಂಡುಕೊಳ್ಳಲು ಬಯಸುವ ವೇದಿಕೆಯಾಗಿದೆ. ಮಾನವ ಸಮುದಾಯ, ಪರಿಸರ ಮತ್ತು ಪ್ರಾಣಿಗಳ
+  ಆರೋಗ್ಯದ ಚಿಂತೆ ಒಂದು ಕಡೆಯಾದರೆ, ಇನ್ನೊಂದೆಡೆ, ನಿರ್ಣಾಯಕರು, ನಿರ್ಣಯಗಳನ್ನು
+  ಅನುಷ್ಠಾನಗೊಳಿಸುವ ಸಮುದಾಯ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ವರ್ಗದವರು, ಇವರೆಲ್ಲರ ನಡುವಣ ಸಂಪರ್ಕ
+  ಹೀನತೆಯನ್ನು ಈ ರೋಗ ಪಿಡುಗಿನ ಮುಖೇಣ ಕಣ್ಣಾರೆ ಕಂಡಿದ್ದೇವೆ. ಒನ್‌ ಹೆಲ್ಥ್‌ ಪ್ರಪಂಚದ ಈ
+  ಕಾರ್ಯಾಗಾರದಲ್ಲಿ, ನಿಪುಣರೊಂದಿಗೆ ಸಹಭಾಗಿಗಳ ಚರ್ಚೆ ಮತ್ತು ಆಟದ ಚಟುವಟಿಕೆಗಳನ್ನು
+  ಹಮ್ಮಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.
 
 
-  You will learn to recognize the interconnectedness amongst human, animal and environmental health, identify the need for and use of current OneHealth strategies at local, national and global levels, and understand how OneHealth strategies can be used in your homes and communities to improve human and environmental wellbeing. We are all OneHealth, and OneHealth is for all of us. Join us to learn how you, and everything around you is a vital part of our planet’s future.
-condition: "This workshop is exclusively for 15 to 28 year olds. "
+  ಮಾನವ ಸಮುದಾಯ ಮತ್ತು ಪಶು ಪಕ್ಷಿಗಳ ಹಾಗೂ ಪರಿಸರ ಆರೋಗ್ಯದ ಪರಸ್ಪರ ಹೊಂದಾಣಿಕೆಯನ್ನು ಅರಿಯುವಿರಿ.  ಒನ್‌ ಹೆಲ್ಥ್‌ ತಂತ್ರವನ್ನು ಬಳಸಿ ಕೊಂಡು ಪ್ರಾದೇಶಿಕ, ರಾಷ್ಟ್ರೀಯ ಹಾಗೂ ಜಾಗತಿಕ ಮಟ್ಟದಲ್ಲಿ, ಮನೆಗಳಲ್ಲಿ ಮತ್ತು ಸಮುದಾಯದಲ್ಲಿ, ಮಾನವ ಮತ್ತು ಪರಿಸರದ ಸ್ವಾಸ್ಥ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳ ಬಹುದು. ನಾವು ಒನ್‌ ಹೆಲ್ಥ್‌ ಮತ್ತು ನಮಗಾಗಿ ಒನ್‌ ಹೆಲ್ಥ್.‌  ನೀವು , ನಿಮ್ಮ ಸುತ್ತಮುತ್ತಲಿರುವ ಎಲ್ಲವೂ, ಈ ಗ್ರಹದ ಭವಿಷ್ಯಕ್ಕೆ ಕಾರಕರಾದ  ಅತಿ ಮುಖ್ಯ ಅಂಶಗಳೆಂದು ಅರಿತುಕೊಳ್ಳಿ.
+condition: "15-28 ವರ್ಷ ವಯೋಮಿತಿಯೊಳಗಿನ ಯುವಕರಿಗೆ ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು. "
 link: http://bit.ly/workshop-onehealth
-expertname: "Bengaluru OneHealth City Consoritum and the echo network "
-expertbio: "The Bengaluru OneHealth City Consortium is a group of
-  multi-disciplinary scientists, NGO’s, municipal bodies and citizens dedicated
-  to promoting OneHealth through citizen awareness of disease ecology themes,
-  citizen/government participation in science for infectious disease
-  surveillance, and an interdisciplinary approach to studying disease ecology at
-  an urban centre in India.  The echo network is a social innovation partnership
-  steered by the Principal Scientific Adviser to the Government of India. They
-  have built a 800+ strong international community spanning 10 countries that
-  provides a platform of scientific awareness, exchange, and insight to enable
-  people across the world generate a shared purpose and take action for the
-  sustainability of India and our planet through science and technology. "
+expertname: ಬೆಂಗಳೂರು ಒನ್‌ ಹೆಲ್ಥ್‌ ನಗರ ಒಕ್ಕೂಟ ಮತ್ತು ಏಖೋ ಅಂತರ್ಜಾಲ
+expertbio: ʼದಿ ಬೆಂಗಳೂರು ಒನ್‌ ಹೆಲ್ಥ್‌ ಸಿಟಿ ಕಂಸೋರ್ಶಿಯಮ್”‌, ಸಂಸ್ಥೆಯ ಅಡಿಯಲ್ಲಿ, ವಿವಿಧ
+  ವರ್ಗದ ವಿಜ್ಞಾನಿಗಳು, ಸರ್ಕಾರೇತರ ಸಂಸ್ಥೆಗಳು, ಪುರಸಭಾ ಸಂಸ್ಥೆಗಳು ಮತ್ತು ನಾಗರೀಕರು,
+  ಒಡಗೂಡಿದ್ದಾರೆ. ಈ ಸದಸ್ಯರು, ರೋಗ ಪರಿಸರ ವಿಜ್ಞಾನದ ಮೂಲಕ ನಾಗರೀಕರಲ್ಲಿ ಅರಿವು ಮೂಡಿಸಿ
+  ಸ್ವಾಸ್ಥ್ಯವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುವುದು, ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಮೂಲವನ್ನು ಪತ್ತೆ ಮಾಡಲು ನಾಗರೀಕ
+  / ಆಡಳಿತ ವರ್ಗದ ಸಹಭಾಗಿತ್ವ, ಮತ್ತು ಭಾರತದ ನಗರ ಕೇಂದ್ರದಲ್ಲಿ, ರೋಗ ಪರಿಸರದ ಅಧ್ಯಯನ ಹಾಗೂ
+  ಹಲವು ಬಗೆಗಳಿಂದ ರೋಗ ನಿದಾನ ಕಂಡುಕೊಳ್ಳುವ ಮಾರ್ಗವನ್ನು ಅನ್ವೇಷಿಸುತ್ತಾರೆ.  ಭಾರತ ಸರ್ಕಾರದ
+  ಮುಖ್ಯ ವೈಜ್ಞಾನಿಕ ಸಲಹೆಗಾರರ ಮೂಲಕ ʼಈಖೋ ನೆಟ್‌ ವರ್ಕ್‌ʼ ಎಂಬ ಸಾಮಾಜಿಕ ಸೃಜನಶೀಲ ಸಹಭಾಗಿತ್ವ
+  ಪ್ರಾರಂಭವಾಗಿದೆ.  ಈ ಸಮುದಾಯದಲ್ಲಿ, 10 ರಾಷ್ಟ್ರಗಳಲ್ಲಿ ನೆಲಸಿರುವ, 800ಕ್ಕೂ ಹೆಚ್ಚು
+  ಸದಸ್ಯರು ಇದ್ದು, ವೈಜ್ಞಾನಿಕ ಅರಿವು, ವಿನಿಮಯ ಮತ್ತು ವಿಮರ್ಶೆಯನ್ನು ಒದಗಿಸಿ,
+  ವಿಶ್ವದೆಲ್ಲೆಡೆಯ ಜನರೊಂದಿಗೆ ಸಂಪರ್ಕ ಕಲ್ಪಿಸಿಕೊಂಡಿದ್ದಾರೆ, ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ದ
+  ಮೂಲಕ ಭಾರತದ ಮತ್ತು ಇಡೀ ವಿಶ್ವದ ಸುಸ್ಥಿರತೆಯನ್ನು ಮುಖ್ಯ ಉದ್ದೇಶವಾಗಿಸಿಕೊಂಡು ಕಾರ್ಯ
+  ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.
 expertpic: /static/img/l_wk_sec_vis_1.png
 readinglist:
   - quadreadlink: https://theconversation.com/the-one-health-concept-must-prevail-to-allow-us-to-prevent-pandemics-148378
