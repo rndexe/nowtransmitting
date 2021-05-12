@@ -64,10 +64,10 @@ eventlist:
     quadeventlink: https://bit.ly/lecture-jasanoff
     quadeventvis: /static/img/pl_sheila.jpg
 relatedlist:
-  - quadrelatedtxt: Moulding Modern Medicine
+  - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
     quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedtxt: Contagion in the 21st Century by Esther-Maria Antao
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
