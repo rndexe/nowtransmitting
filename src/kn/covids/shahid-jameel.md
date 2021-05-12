@@ -1,12 +1,12 @@
 ---
 title: "ವೈರಾಣುಗಳು, ವೈವಿದ್ಯತೆ ಮತ್ತು ಲಸಿಕೆಗಳು "
-desc: "**ವೈರಾಣುಗಳು ವಿಚಿತ್ರವಾದವು.  ಹಲವು ವಿವರಣೆಗಳ ಪ್ರಕಾರ ಅವು ಜೀವಿಗಳಲ್ಲ, ಆದರೆ ಅವು
+desc: ವೈರಾಣುಗಳು ವಿಚಿತ್ರವಾದವು.  ಹಲವು ವಿವರಣೆಗಳ ಪ್ರಕಾರ ಅವು ಜೀವಿಗಳಲ್ಲ, ಆದರೆ ಅವು
   ನಿರ್ಜೀವಿಗಳೆಂದು ಸಹ ಪರಿಗಣಿಸಲಾಗುವುದಿಲ್ಲ.  ಕೋವಿಡ್-‌19 ರ ಪ್ರಸಕ್ತ ಪಿಡುಗನ್ನು
   ಗಮನಿಸಿದರೆ ವೈರಾಣುಗಳು ಎಷ್ಟು ಗಂಭೀರವಾದವು ಎಂದು ತಿಳಿಯುತ್ತದೆ.  ಇಂತಹ ಮಹಾಮಾರಿಗಳಿಗೆ ಕೇವಲ
   ವೈರಾಣುಗಳೇ ಕಾರಣವಲ್ಲ.  ಮಾನವ ಮತ್ತು ಪಶು-ಪಕ್ಷಿಗಳ ಒಡನಾಟ, ನಾವು ವಾಸಿಸುವ ಪರಿಸರ, ಮುಂತಾದ
   ಅನೇಕ ಅಂಶಗಳು ಒಟ್ಟಾಗಿ ಸೇರಿಕೊಂಡು ಪಿಡುಗಿನ ರೂಪ ತಾಳುತ್ತವೆ.  ಶಹಿದ್‌ ಜಮೀಲ್ , ಭಾರತದ
   ಗೌರವಾನ್ವಿತ ವೈರಾಣು ತಜ್ಞರು.  ಸಾರ್ಸ್-ಕೋವಿಡ್-‌2 ವೈರಾಣುವನ್ನು ಮೀರಿ ಪಿಡುಗಿನ ಕಾರಣಗಳ
-  ಬಗೆಗೆ, ನಾವು ಏಕೆ ಚಿಂತಿಸ ಬೇಕು ಎಂದು ವಿವರಿಸುತ್ತಾರೆ.**"
+  ಬಗೆಗೆ, ನಾವು ಏಕೆ ಚಿಂತಿಸ ಬೇಕು ಎಂದು ವಿವರಿಸುತ್ತಾರೆ.
 speakername: ಶಹಿದ್‌ ಜಮೀಲ್
 speakerimage: /static/img/I_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/I_CO_THUMBNAIL.png
@@ -22,30 +22,28 @@ speakerbio: >-
   ಕಾಲ ಸಂಶೋಧನೆ ನೆಡೆಸಿದ್ದಾರೆ.   
 
 
-  **\
-
-  ಡಿ.ಬಿ.ಟಿ / ವೆಲ್ಲ್‌ ಕಮ್‌ ಟ್ರಸ್ಟ್‌ ಇಂಡಿಯಾ ಅಲಯನ್ಸ್‌ ಸಂಸ್ಥೆಯಲ್ಲಿ  2013 ರಿಂದ 2020 ರ ವರೆಗೂ ಮುಖ್ಯ ಕಾರ್ಯಕಾರಿ ಅಧಿಕಾರಿಯಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ.  ಈಗ, ಅಶೋಕ ವಿಶ್ವವಿದ್ಯಾಲದಲ್ಲಿ ತ್ರಿವೇದಿ ಜೀವ ವಿಜ್ಞಾನ ಕೇಂದ್ರದ ನಿರ್ದೇಶಕರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.  ಶ್ರೀ ಜಮೀಲ್‌ , ಶಾಂತಿ ಸ್ವರೂಪ್‌ ಭಟ್ನಾಗರ್‌ ಪುರಸ್ಕಾರವನ್ನು ಪಡೆದಿದ್ದಾರೆ, ಭಾರತದ ವೈಜ್ಞಾನಿಕ ಶಿಕ್ಷಣದ ನಿರ್ವಾಚಿತ ಫೆಲೋ ಆಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.**
+  ಡಿ.ಬಿ.ಟಿ / ವೆಲ್ಲ್‌ ಕಮ್‌ ಟ್ರಸ್ಟ್‌ ಇಂಡಿಯಾ ಅಲಯನ್ಸ್‌ ಸಂಸ್ಥೆಯಲ್ಲಿ  2013 ರಿಂದ 2020 ರ ವರೆಗೂ ಮುಖ್ಯ ಕಾರ್ಯಕಾರಿ ಅಧಿಕಾರಿಯಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ.  ಈಗ, ಅಶೋಕ ವಿಶ್ವವಿದ್ಯಾಲದಲ್ಲಿ ತ್ರಿವೇದಿ ಜೀವ ವಿಜ್ಞಾನ ಕೇಂದ್ರದ ನಿರ್ದೇಶಕರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.  ಶ್ರೀ ಜಮೀಲ್‌ , ಶಾಂತಿ ಸ್ವರೂಪ್‌ ಭಟ್ನಾಗರ್‌ ಪುರಸ್ಕಾರವನ್ನು ಪಡೆದಿದ್ದಾರೆ, ಭಾರತದ ವೈಜ್ಞಾನಿಕ ಶಿಕ್ಷಣದ ನಿರ್ವಾಚಿತ ಫೆಲೋ ಆಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.
 videosrc: https://player.vimeo.com/video/533115377
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/science-nature/compare-flu-pandemic-1918-and-covid-19-caution-180975040/
-    quadreadtxt: The Past is not a Prediction
+    quadreadtxt: ಪಾಸ್ಟ್‌ ಇಸ಼್ ನಾಟ್ ಎ ಪ್ರಿಡಿಕ್ಶನ್‌
     quadreadvis: /static/img/I_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/fact-or-fiction-the-ebola-virus-will-go-airborne/
-    quadreadtxt: Could Ebola Become Airborne
+    quadreadtxt: ಕುಡ್‌ ಎಬೊಲಾ ಬಿಕಂ  ಏರ್ಬೋರ್ನ್
     quadreadvis: /static/img/I_CO_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theatlantic.com/science/archive/2017/10/pandemic-prediction-challenge/543954/
-    quadreadtxt: Is It Possible to Predict the next Pandemic?
+    quadreadtxt: ಕ್ಯಾನ್‌ ವಿ ಪ್ರಿಡಿಕ್ಟ್‌ ದಿ ಪ್ಯಾಂಡಮಿಕ್
     quadreadvis: /static/img/I_CO_QUA_READVIS_3.jpg
 permalink: kn/covids/viruses-variants-vaccines/
 listeninglist:
   - quadlistlink: https://www.bbc.co.uk/sounds/play/w3csywyw
-    quadlisttxt: "The ‘Spanish’ Flu  "
+    quadlisttxt: ದ ಸ್ಪ್ಯಾನಿಶ್‌ ಪ್ಲೂ
     quadlistvis: /static/img/I_CO_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.bbc.co.uk/sounds/play/w3cszjv8
-    quadlisttxt: "The 1918 Spanish Flu: The Mother Of All Pandemics"
+    quadlisttxt: ಮದರ್‌ ಆಫ್‌ ಆಲ್‌ ಪ್ಯಾನ್ಡಮಿಕ್ಸ್‌
     quadlistvis: /static/img/I_CO_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=m8DA7mh_qVw
-    quadwatchtxt: Interview with Shahid Jameel
+    quadwatchtxt: ಕೋವಿಡ್‌ 19 ಕೇಸಸ್‌ ಇನ್ ಇಂಡಿಯ‌
     quadwatchvis: /static/img/I_CO_QUA_WATCHVIS_1.jpg
 ---
