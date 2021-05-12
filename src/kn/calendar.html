@@ -183,7 +183,7 @@ permalink: kn/programmes/
                                                   <template x-for="event in shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() )">	
                                                       <div class="py-1 overflow-hidden flex">  
                                                             <p class="text-xs align-top"
-                                                            :class="{'text-green-650': event.type.split(',')[0] == 'event', 'text-red-650': event.type.split(',')[0] == 'lecture', 'text-blue-pg': event.type.split(',')[0] == 'workshop', 'text-yellow-650': event.type.split(',')[0] == 'filmscreening'}"
+                                                            :class="{'text-green-650': event.type.split(',')[0] == 'kn_event', 'text-red-650': event.type.split(',')[0] == 'kn_lecture', 'text-blue-pg': event.type.split(',')[0] == 'kn_workshop', 'text-yellow-650': event.type.split(',')[0] == 'kn_film screening'}"
                                                             style="width:10px; margin-right:5px;">&#9679;</p>
                                                             <p x-html="event.time.substring(0,5) + ' ' +event.title" class="text-sm truncate font-tunga " style="vertical-align: text-bottom;"></p>
                                                       </div>
@@ -346,22 +346,22 @@ permalink: kn/programmes/
                                   
                                   if(lectures.checked){
                                     this.shownEvents = this.shownEvents.filter((event)=>{
-                                      return event.type.split(",")[0] == 'lecture'
+                                      return event.type.split(",")[0] == 'kn_lecture'
                                     })
                                   }
                                   if(events.checked){
                                     this.shownEvents =  this.shownEvents.filter((event)=>{
-                                      return event.type.split(",")[0] == 'event'
+                                      return event.type.split(",")[0] == 'kn_event'
                                     })
                                   }
                                   if(workshops.checked){
                                     this.shownEvents = this.shownEvents.filter((event)=>{
-                                      return event.type.split(",")[0] == 'workshop'
+                                      return event.type.split(",")[0] == 'kn_workshop'
                                     })
                                   }
                                   if(films.checked){
                                     this.shownEvents = this.shownEvents.filter((event)=>{
-                                      return event.type.split(",")[0] == 'film screening'
+                                      return event.type.split(",")[0] == 'kn_film screening'
                                     })
                                   }
                                   console.log(this.shownEvents)
@@ -393,7 +393,7 @@ permalink: kn/programmes/
                                         `<div class="flex">
                                           <p class="text-sm"
                                           style="width:10px; margin-right:15px;"
-                                          :class="{'text-green-650': '${arr[i].type.split(',')[0]}' == 'event', 'text-red-650': '${arr[i].type.split(',')[0]}' == 'lecture', 'text-blue-pg': '${arr[i].type.split(',')[0]}' == 'workshop', 'text-yellow-650': '${arr[i].type.split(',')[0]}' == 'filmscreening'}">
+                                          :class="{'text-green-650': '${arr[i].type.split(',')[0]}' == 'kn_event', 'text-red-650': '${arr[i].type.split(',')[0]}' == 'kn_lecture', 'text-blue-pg': '${arr[i].type.split(',')[0]}' == 'kn_workshop', 'text-yellow-650': '${arr[i].type.split(',')[0]}' == 'kn_film screening'}">
                                             &#9679;
                                           </p> 
                                           <a href='${arr[i].url}'>

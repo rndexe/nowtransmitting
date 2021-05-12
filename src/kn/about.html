@@ -3,64 +3,63 @@ layout : default
 kannada: true 
 ---
 
+<body class="overflow-hidden bg-white" >
+    <div class="menu-container" id="menu-container">
 
+	<main class="block lg:flex lg:flex-col">
 
+		<div class="w-screen fixed">
+			<div class="bg-white">
+                <!-- top navbar for about page  -->
+                <!-- lg:flex -->
 
                 {% include "../_includes/partials/navbar.html" %}
                 {% include "../_includes/partials/menu.html" %}
 
-        <main class="block lg:flex lg:flex-col">
-
-            <div class="w-screen fixed">
-                <div class="bg-white">
-                    <!-- top navbar for about page  -->
-                    <!-- lg:flex -->
-
-                    {% include "../_includes/partials/navbar.html" %}
-                    {% include "../_includes/partials/menu.html" %}
-
                     <div id="about-content" class="bg-white">
-                        <h2 class="font-bold text-trueGray-750 font-baloo">
+                        <h2 class="font-bold text-trueGray-750 font-baloo text-4xl">
                             ವಿವರಣೆ
                         </h2>
 
                         <!-- top navbar for about page  -->
-                        <div id="nav-items-container" class="w-full font-bold text-base text-trueGray-400
-
-		       {{" font-tunga " if kannada else "font-trade "}}
-			    ">
+                        <div id="nav-items-container" class="w-full font-bold text-base text-trueGray-400 font-tunga">
                             <ul id="nav-items" class="list-style-none flex flex-row justify-between">
                                 <li class="about hover:text-red-650">
                                     <a href="#about">
-					{{ "ಪರಿಚಯ ಸೋಂಕು" if kannada else "About Contagion" }}
-				</a>
+                                        ಪರಿಚಯ ಸೋಂಕ
+                                    </a>
                                 </li>
                                 <li class="curators hover:text-red-650">
                                     <a href="#curators">
-                                        ವ್ಯವಸ್ಥಾಪಕರು</a>
+                                        ವ್ಯವಸ್ಥಾಪಕರು
+                                    </a>
                                 </li>
                                 <li class="academic-advisors hover:text-red-650">
                                     <a href="#academic-advisors">
-                                        ಶೈಕ್ಷಣಿಕ ಸಲಹಾಗಾರರು</a>
+                                        ಶೈಕ್ಷಣಿಕ ಸಲಹಾಗಾರರು
+                                    </a>
                                 </li>
                                 <li class="content-partners hover:text-red-650">
                                     <a href="#content-partners">
-                                        ವಿಷಯ ವಸ್ತು ಕೊಡುಗೆ</a>
+                                        ವಿಷಯ ವಸ್ತು ಕೊಡುಗೆ
+                                    </a>
                                 </li>
                                 <li class="programme-partners hover:text-red-650">
                                     <a href="#programme-partners">
-                                        ಕಾರ್ಯಕ್ರಮ ಸಹಭಾಗಿಗಳು</a>
+                                        ಕಾರ್ಯಕ್ರಮ ಸಹಭಾಗಿಗಳು
+                                    </a>
                                 </li>
                                 <li class="production hover:text-red-650">
                                     <a href="#production">
-                                        ಪ್ರದರ್ಶನ ವಿನ್ಯಾಸ ಮತ್ತು ನಿರ್ಮಾಣ</a>
+                                        ಪ್ರದರ್ಶನ ವಿನ್ಯಾಸ ಮತ್ತು ನಿರ್ಮಾಣ
+                                    </a>
                                 </li>
                             </ul>
                         </div>
 
                         <div id="main" class="flex flex-col lg:flex-row overflow-y-hidden overflow-x-hidden w-auto bg-white scroll-snap">
-
-                            {{ content | safe }} {% include "../_includes/partials/about1_COPY.html" %}
+                            {{ content | safe }}
+                            {% include "../_includes/partials/kn_about1.html" %}
                         </div>
                     </div>
 
