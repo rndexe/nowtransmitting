@@ -68,8 +68,8 @@ eventlist:
   - quadeventtxt: ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ | ಉಪನ್ಯಾಸ | ಡೇವಿಡ್‌  ಆರ್ನಲ್ಡ್
     quadeventlink: https://www.eventbrite.com/e/145397629223
     quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
-  - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
-      Christos Lynteris "
+  - quadeventtxt: ಪ್ಲೇಗ್‌ ಮತ್ತು ರೋಗ ಪಿಡುಗಿನ ಛಾಯಾಗ್ರಹಣದ ಉದ್ಭವ | ಉಪನ್ಯಾಸ | ಕ್ರಿಸ್ಟೋಸ್‌
+      ಲಿಂಟೆರಿಸ್‌
     quadeventlink: https://www.eventbrite.com/e/145228050007
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
