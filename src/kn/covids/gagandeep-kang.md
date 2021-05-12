@@ -1,5 +1,5 @@
 ---
-title: How Pandemics Advance Science
+title: How Pandemics Advance Science ---
 desc: There’s no single solution to prevent the spread of the SARS-CoV-2, but
   the rapid development and rollout of vaccines that can protect communities is
   crucial. Gagandeep Kang, a physician and scientist at the Christian Medical
@@ -7,7 +7,6 @@ desc: There’s no single solution to prevent the spread of the SARS-CoV-2, but
   She reflects on key research questions around the human immune response which
   could potentially shape more efficient and targeted responses to the COVID-19
   pandemic.
-permalink: kn/covids/pandemics-advance-science/
 speakername: Gagandeep Kang
 speakerimage: /static/img/J_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/J_CO_THUMBNAIL.png
@@ -29,6 +28,7 @@ readinglist:
   - quadreadlink: https://www.thehindubusinessline.com/blink/cover/gagandeep-kang-many-if-not-most-will-eventually-get-infected/article31244533.ece
     quadreadtxt: " Infection in India"
     quadreadvis: /static/img/J_CO_QUA_READVIS_3.jpg
+permalink: kn/covids/pandemics-advance-science/
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/1V7AvwAk9HXn5u05qb6XZV
     quadlisttxt: Search for a Cure
