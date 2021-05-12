@@ -66,7 +66,7 @@ relatedlist:
   - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedtxt: ಥೇರಿಯಾಕ್‌  | ರೋಗ ನಕ್ಷೆ | ಸಾರಾ ಕ್ರಾಸ್ಕ್
+  - quadrelatedtxt: ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ | ಸಾರಾ ಕ್ರಾಸ್ಕ್
     quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
     quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---
