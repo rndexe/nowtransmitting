@@ -1,52 +1,50 @@
 ---
-title: Science and Common Sense in a Pandemic
-desc: After many long nights, government bodies in countries across the world
-  have announced the roll-out of vaccines that can prevent the spread of
-  coronavirus. Lothar H. Wieler, President of the Robert Koch Institute, speaks
-  about the speed with which these vaccines have been developed and the science
-  behind them. However, as the leader of a public health organisation in
-  Germany, he believes that no single intervention can be successful in
-  preventing disease. Stressing on the importance of combining science with
-  common sense, he explains why personal as well as collective responsibility is
-  important in the battle against COVID-19.
-permalink: kn/covids/science-sense-in-pandemic/
-speakername: Lothar H. Wieler
+title: "ಮಹಾಮಾರಿಯ ಕಾಲದಲ್ಲಿ ವಿಜ್ಞಾನ ಮತ್ತು ಸಾಮಾನ್ಯ ಜ್ಞಾನ "
+desc: ಬಹಳ ಕಾಲದ ನಂತರ, ವಿಶ್ವದ ಅನೇಕ ದೇಶಗಳ ಸರ್ಕಾರಗಳು, ಕರೋನ ವೈರಾಣುವಿನ ವ್ಯಾಪಕತೆಯನ್ನು
+  ತಡೆಯಲು ಲಸಿಕೆಗಳನ್ನು ಹಾಕಲು ಪ್ರಾರಂಭಿಸಿದ್ದಾರೆ.  ರಾಬರ್ಟ್‌ ಕೋಚ್‌ ಸಂಸ್ಥೆ ಯ
+  ನಿರ್ದೇಶಕರಾದ ಲೋಥರ್ ಎಚ್ ವ್ಹೀಲರ್ ಇವರು, ಈ ಲಸಿಕೆಗಳ ಹಿಂದೆ ಅಡಗಿರುವ ವಿಜ್ಞಾನ ಮತ್ತು
+  ಎಷ್ಟು ವೇಗವಾಗಿ ಈ ಲಸಿಕೆಯನ್ನು ವಿಕಸನಗೊಳಿಸಲಾಗಿದೆ ಎಂಬುದರ ಬಗೆಗೆ ಚರ್ಚಿಸುತ್ತಾರೆ. 
+  ಜರ್ಮನಿಯಲ್ಲಿ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯ ಮುಖ್ಯಸ್ಥರಾಗಿ , ಕೇವಲ ಒಂದು ಅವಿಷ್ಕಾರದಿಂದ ಈ
+  ರೋಗವನ್ನು ಪರಿಪೂರ್ಣವಾಗಿ ತಡೆಯುವುದು ಕಷ್ಟ ಸಾಧ್ಯ ಎಂದು ನಂಬಿದ್ದಾರೆ.   ಸಾಮಾನ್ಯ
+  ಜ್ಞಾನವನ್ನು ಒಡಗೂಡಿದ ವಿಜ್ಞಾನದ ಮಹತ್ವವನ್ನು ವಿವರಿಸುತ್ತಾ, ಕೋವಿಡ್-19‌ ರೋಗವನ್ನು
+  ಯಶಸ್ವಿಯಾಗಿ ನಿಯಂತ್ರಿಸಲು, ವ್ಯಕ್ತಿಗತ ಹಾಗೂ ಸಮಗ್ರ ಹೊಣೆಗಾರಿಕೆಯ ಅಗತ್ಯವಿದೆ ಎಂದು
+  ಹೇಳುತ್ತಾರೆ.
+speakername: "ಲೋಥರ್‌ ಎಚ್‌ ವ್ಹೀಲರ್‌ "
 speakerimage: /static/img/B_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/B_CO_THUMBNAIL.png
-speakerfield: Zoonotic Diseases Expert
+speakerfield: "ಜೂನೋಟಿಕ್‌ ರೋಗಗಳ ತಜ್ಞರು "
 speakerbio: >-
-  Prof. Lothar H. Wieler is president of the Robert Koch Institute in Berlin,
-  the national Public Health Institute in Germany. His research focusses on
-  zoonotic diseases in a One health concept, i.e. infections that are passed
-  between animals and humans, and account for many of the newly (re-)emerging
-  infectious diseases. A particular research interest of Prof. Wieler are the
-  molecular mechanisms, which enable bacterial zoonotic pathogens such as *e.
-  coli* and *s. aureus* to infect different hosts, and develop resistance to
-  antibiotics.
+   ಪ್ರೊ. ಲೋಥರ್ ಎಚ್ ವ್ಹೀಲರ್, ʼಜರ್ಮನಿʼಯ  ʼಬರ್ಲಿನ್‌ʼ ನಲ್ಲಿರುವ ರಾಬರ್ಟ್‌ ಕೋಚ್‌
+  ಸಂಸ್ಥೆಯ ಅಧ್ಯಕ್ಷರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.  ಜೂನೋಟಿಕ್‌ ರೋಗಗಳು ಅಂದರೆ,
+  ಪಶು-ಪಕ್ಷಿಗಳಿಂದ ಮಾನವರಿಗೆ ಹರಡುವ ಸೋಂಕು ರೋಗಗಳು ಹಾಗೂ ಈ ಪ್ರಕ್ರಿಯೆಯ ಕಾರಣದಿಂದಾಗಿ
+  ಹೊರಹೊಮ್ಮಿರುವ ವಿವಿಧ ಹೊಸ ಬಗೆಯ ರೋಗಗಳ ತಜ್ಞರು.   ಈ.ಕೋಲಿ , ಎಸ್.ಆರಸ್‌ ಮುಂತಾದ
+  ಸೂಕ್ಷ್ಮಾಣುಗಳ, ಸೂಕ್ಷ್ಮ ಕಣಗಳ ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ ಬೇರೆ ಬೇರೆ ಜೀವ ತಾಣಗಳಲ್ಲಿ ಸೋಂಕು ಹರಡುವ
+  ಮತ್ತು ಅನೇಕ ಬಗೆಯ ಜೀವನಿರೋಧಕ ಔಷಧಗಳನ್ನು ತಡೆದುಕೊಂಡು ವಿಕಸನಗಳ್ಳುವ ಪ್ರಣಾಲಿಯ ಬಗೆಗೆ 
+  ಪ್ರೊ.ವ್ಹೀಲರ್, ವಿಶೇಷ ಅಧ್ಯಯನ ನೆಡೆಸಿದ್ದಾರೆ.   
 
 
-  Since 2010, he is also an elected member of the German National Academy of Sciences, where he also holds the position of a senator. In 2020 he was nominated to the member board of the One Health Global Leaders Group on Antimicrobial Resistance, launched by the Food and Agriculture Organization of the United Nations (FAO), the World Organisation for Animal Health (OIE) and the World Health Organization (WHO).
+  **ಪ್ರೊ. ಲೋಥರ್, 2010 ರಲ್ಲಿ ಜರ್ಮನ್‌ ರಾಷ್ಟ್ರೀಯ ವಿಜ್ಞಾನ ಅಕಾಡಮಿಗೆ ಸದಸ್ಯರಾಗಿ ಆಯ್ಕೆಯಾಗಿದ್ದಾರೆ.  ಅಕಾಡಮಿಯಲ್ಲಿ ಸೆನೇಟರ್‌ ಆಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.  2020 ರಲ್ಲಿ, ಸೂಕ್ಷ್ಮ ಜೀವರೋಧಕಗಳ ಪ್ರತಿರೋಧ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕುರಿತಂತೆ, ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರಗಳ ಆಹಾರ ಮತ್ತು ಕೃಷಿ ಸಂಸ್ಥೆ (ಎಫ್.ಏ.ಒ), ವಿಶ್ವ ಪಶು ಆರೋಗ್ಯ ಸಂಸ್ಥೆ (ಓ.ಐ.ಈ) ಮತ್ತು ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆ (ಡಬ್ಲ್ಯೂ.ಎಚ್.ಓ) ಗಳ ವತಿಯಿಂದ ಪ್ರಾರಂಭವಾಗಿರುವ ʼಒನ್‌ ಹೆಲ್ತ್‌ ಗ್ಲೋಬಲ್‌ ಲೀಡರ್ಸ್‌ ಗ್ರೂಪ್‌ʼ ಮಂಡಳಿಯ ಸದಸ್ಯರಾಗಿ ನಾಮಾಂಕನ ಗೊಂಡಿದ್ದಾರೆ.**
 videosrc: https://player.vimeo.com/video/514243048
 readinglist:
-  - quadreadtxt: Perceptions of Health Care Use in Germany
+  - quadreadtxt: "ಹೆಲ್ಥ್ ಕೇರ್‌ ಯೂಸ಼್‌‌ "
     quadreadlink: https://pubmed.ncbi.nlm.nih.gov/33327486/
     quadreadvis: /static/img/B_CO_QUA_READVIS_1.jpg
-  - quadreadtxt: Does COVID-19 Threaten Global Solidarity?
+  - quadreadtxt: ಗ್ಲೋಬಲ್ ಸೊಲಿಡಾರಿಟಿ
     quadreadlink: https://www.sciencedirect.com/science/article/pii/S0305750X20304848
     quadreadvis: /static/img/B_CO_QUA_READVIS_2.jpg
-  - quadreadtxt: A New Way of Developing Vaccines for COVID-19 Could Help the World
-      to Prepare for Future Outbreaks
+  - quadreadtxt: ಪ್ಯಾಂಡೆಮಿಕ್ ಪ್ರಿಪೇರ್ಡ್ನೆಸ್‌
     quadreadlink: https://wellcome.org/news/new-way-developing-vaccines-covid-19-could-help-world-prepare-future-outbreaks
     quadreadvis: /static/img/B_CO_QUA_READVIS_3.jpg
+permalink: kn/covids/science-sense-in-pandemic/
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5cO2zn48DjhR25dKASkxGp
-    quadlisttxt: "Coronavirus: Shots, Shots, Shots!"
+    quadlisttxt: ಶಾಟ್ಸ್‌ ! ಶಾಟ್ಸ್‌ !
     quadlistvis: /static/img/B_CO_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.bbc.co.uk/programmes/m000rmht
-    quadlisttxt: Vaccination Strategies
+    quadlisttxt: ವ್ಹ್ಯಾಕ್ಸಿನೇಶನ್ ಸ್ಟ್ರಾಟೆಜೀಸ್‌
     quadlistvis: /static/img/B_CO_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=8n9bWR0CCBc
-    quadwatchtxt: COVID-19 Won’t End With One Vaccine
+    quadwatchtxt: ಕೋವಿಡ್‌ ವೋಂಟ್‌ ಎನ್ದ್‌ ವಿತ್‌ ವ್ಯಾಕ್ಸೀನ್ಸ್‌
     quadwatchvis: /static/img/B_CO_QUA_WATCHVIS_1.jpg
 ---
