@@ -1,5 +1,5 @@
 ---
-title: ಸರ್ವೈವರ್ಸ್‌  Survivors
+title: ಸರ್ವೈವರ್ಸ್‌
 permalink: kn/programmes/films/survivors/
 cata: spillover
 catb: documenting
@@ -16,14 +16,9 @@ description: >-
 
   ಸರ್ವೈವರ್ಸ್‌  ಚಲನ ಚಿತ್ರದಲ್ಲಿ, ದೇಶದ ಮುಖ್ಯ ಆಪತ್ಕಾಲೀನ ವಾಹನ ಡಿಸ್ಪ್ಯಾಚ್‌ ನ ಹಿರಿಯ ಆಂಬುಲೆಂಸ್‌ ವಾಹನ ಚಾಲಕ ʼಮೊಹಮದ್‌ ಬಂಗುರʼ ಮತ್ತು ಆಪತ್ಕಾಲೀನ ಎಬೋಲ ಚಿಕಿತ್ಸಾ ಕೇಂದ್ರದಲ್ಲಿ ದಾದಿಯಾಗಿ ರೋಗಿಗಳ ಆರೈಕೆಯ ಕೆಲಸ ನಿರ್ವಹಿಸುತ್ತಿರುವ ʼಮಾರ್ಗರೇಟ್‌ ಕಬ್ಬಾ ಸೆಸೇʼ ಅವರ ವೀರ ಗಾಥೆ ಇದಾಗಿದೆ.
 link: http://bit.ly/films-pratt
-expertname: ""
-expertbio: >-
-  Arthur is a co-founder of the Freetown Media Centre in Sierra Leone, which
-  serves as a hub for local production, 
-
-
+expertname: ಆರ್ಥರ್‌ ಪ್ರಾಟ್‌
+expertbio: |-
   ***ನಿರ್ದೇಶಕರು***
-
 
   ಆರ್ಥರ್‌ ಪ್ರಾಟ್‌,  ಸಿಯರ್ರ ಲಿಯೋನ್‌ ನ ಪ್ಯಾಸ್ಟರ್‌ ಮತ್ತು ಚಲನ ಚಿತ್ರಗಾರರು.
 expertpic: /static/img/C_FS_SEC_VIS_1.jpg
