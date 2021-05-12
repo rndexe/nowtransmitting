@@ -18,10 +18,21 @@ expertbio: "Thomas Abraham is adjunct associate professor at the University of
   has been an adviser to the World Health Organization."
 readinglist:
   - quadreadvis: /static/img/s_pl_qua_readvis_1.jpg
+    quadreadlink: https://www.theguardian.com/global/commentisfree/2020/jan/23/china-coronavirus-sars-cover-up-beijing-disease-dissent
+    quadreadtxt: "China’s Response To The Coronavirus Shows What It Learned From the
+      SARS Cover-Up "
   - quadreadvis: /static/img/s_pl_qua_readvis_2.jpg
+    quadreadlink: https://www.scientificamerican.com/article/lessons-from-past-outbreaks-could-help-fight-the-coronavirus-pandemic1/
+    quadreadtxt: Lessons from Past Outbreaks Could Help Fight the Coronavirus Pandemic
   - quadreadvis: /static/img/s_pl_qua_readvis_3.jpg
+    quadreadlink: https://www.theatlantic.com/international/archive/2020/03/hong-kong-sars-china-coronavirus-covid19/608131/
+    quadreadtxt: A Glimpse of the Coronavirus’s Possible Legacy
 listeninglist:
   - quadlistvis: /static/img/s_pl_qua_listvis_1.jpg
+    quadlistlink: https://open.spotify.com/episode/6ybey3OXAR3beQMjzEHBjB
+    quadlisttxt: "Coronavirus: Epidemiology 101"
 watchinglist:
   - quadwatchvis: /static/img/s_pl_qua_watchvis_1.jpg
+    quadwatchlink: https://www.youtube.com/watch?v=KAuwReLSRQg&t=17s
+    quadwatchtxt: Why Did SARS and MERS Disappear Quicker?
 ---
