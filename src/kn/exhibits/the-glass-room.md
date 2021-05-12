@@ -95,7 +95,7 @@ eventlist:
   - quadeventtxt: ಮಾಹಿತಿ… ಇದು ಕ್ಲಿಷ್ಟಕರ ವಿಷಯ | ಕಾರ್ಯಾಗಾರ | ಮುಹಮ್ಮದ್‌ ರದವಾನ್‌
     quadeventvis: /static/img/g_exhibit_qua_atnvis_1.jpg
     quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
-  - quadeventtxt: "Keep Calm and Spot the Design Tricks | Workshop by Louise Hisayasu "
+  - quadeventtxt: ತಾಳ್ಮೆಯಿಂದ ವಿನ್ಯಾಸದ ತಂತ್ರಗಳನ್ನು ಪತ್ತೆ ಮಾಡಿ | ಕಾರ್ಯಾಗಾರ | ಲುಯಿಸ್ ಹಿಸಾಯಸು
     quadeventvis: /static/img/g_exhibit_qua_atnvis_2.jpg
     quadeventlink: https://www.eventbrite.com/e/keep-calm-and-spot-the-design-tricks-workshop-registration-148145012721
 ---
