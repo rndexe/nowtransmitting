@@ -1,5 +1,5 @@
 ---
-title: ಎ ಹ್ಯೂಮನ್‌ ಕ್ವೆಸ್ಚನ್‌ A Human Question
+title: ಎ ಹ್ಯೂಮನ್‌ ಕ್ವೆಸ್ಚನ್‌
 permalink: kn/programmes/films/a-human-question/
 cata: spillover
 catb: documenting
@@ -53,15 +53,16 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=fd2Mz6vBykI
     quadwatchvis: /static/img/D_FS_QUA_WATCHVIS_1.jpg
 eventlist:
-  - quadeventtxt: "Detect, Investigate, Diagnose: Configuring Care in the Context of
-      AIDS and Ebola Epidemics | Lecture by Adia Benton"
+  - quadeventtxt: "ಗುರಿತಿಸಿ, ಪರಿಶೀಲಿಸಿ, ನಿರ್ಣಯಿಸಿ: ಏಡ್ಸ್‌ ಮತ್ತು ಎಬೋಲ ಸಾಂಕ್ರಾಮಿಕ
+      ರೋಗಗಳಲ್ಲಿ ಆರೈಕೆಯ ಪದ್ಧತಿ | ಉಪನ್ಯಾಸ | ಅಡಿಯಾ ಬೇಂಟನ್‌"
     quadeventlink: http://bit.ly/lecture-benton
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
-  - quadeventtxt: "After the End of Epidemics: A Cold War View | Lecture by Dora Vargha "
+  - quadeventtxt: "ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳು ಅಂತ್ಯಗೊಂಡ ನಂತರ: ಶೀತಲ ಸಮರದ ದೃಷ್ಟಿಕೋನ |
+      ಉಪನ್ಯಾಸ | ಡೋರಾ ವರ್ಘ"
     quadeventlink: http://bit.ly/lecture-vargha
     quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
-  - quadrelatedtxt: "Fluid Dialogues by Basse Sttitgen "
+  - quadrelatedtxt: ದ್ರವ ಸಂವಾದಗಳು | ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
     quadrelatedvis: /static/img/M_Exhibit_Thumbnail.jpg
 ---
