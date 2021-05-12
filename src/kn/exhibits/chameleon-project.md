@@ -1,19 +1,31 @@
 ---
 layout: chameleon-project
-authortype: Artist
+authortype: ಕಲಾವಿದರು
 thumb: /static/img/L_Exhibit_Thumbnail.jpg
 title: "ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ "
 subtitle: "ದೂರ ನಿಯಂತ್ರಣ:  ಭಾವನೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ವ್ಯಾಪನಗಳು  "
 medium: ಪಠ್ಯ ಸಾಹಿತ್ಯ , ಪ್ರತಿಕೃತಿಗಳು, ವೀಡಿಯೋಗಳು
 year: "2010"
-description: ""
+description: >-
+  ದಿನ ನಿತ್ಯದ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ, ಜನರು ತಮಗೆ ಅರಿವಿಲ್ಲದೇ,  ತಮ್ಮ ಮುಖ ಭಾವಗಳು, ದ್ವನಿ, ಚಲನ
+  ವಲನ ,  ನೆಡವಳಿಕೆ , ಹೀಗೆ ಹತ್ತು ಹಲವು ಬಗೆಯಲ್ಲಿ ಒಬ್ಬರನ್ನು ಒಬ್ಬರು ಅನುಕರಿಸುತ್ತಾ
+  ಸಹಜವಾಗಿಯೇ ಏಕರೂಪತ್ವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಾರೆ. ಕೆಲವೊಮ್ಮೆ ಈ ಚರ್ಯೆಗಳು ಕೆಲವೇ
+  ಗಳಿಗೆಗಳಲ್ಲಿ ವ್ಯಕ್ತವಾಗಿರುತ್ತವೆ.  ಒಬ್ಬರೊಂದಿಗೆ ಇನ್ನೊಬ್ಬರ ಭಾವನಾತ್ಮಕ ಸಂಬಂಧದ ಕಾರಣ ಈ
+  ಅಭಿವ್ಯಕ್ತಿಗಳು ರೂಪ ತಾಳುತ್ತವೆ.  ಮಾತನಾಡುವುದಕ್ಕೂ ಮೊದಲೇ, ಸಹಜ ಹಾವ ಭಾವಗಳ ಮೂಲಕ ಮಾನವರು
+  ತಮ್ಮ ಮನದಾಳದ ಅನಿಸಿಕೆಗಳನ್ನು ತಮ್ಮ ಸಹಚರರಿಗೆ ರವಾನಿಸಿರುತ್ತಾರೆ. ಭಾವನೆಗಳು ಸಹ
+  ವ್ಯಾಪನಗಳು.  ಜನ ಸಮುದಾಯದಲ್ಲಿ ಸಹಜವಾಗಿ ಅಭಿವ್ಯಕ್ತಿಗೊಳ್ಳುವ ಸಾಂಕ್ರಾಮಿಕ ಭಾವನೆಗಳ
+  ಅನುಭೂತಿಯನ್ನು, ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸಿಕೊಂಡು ವೀಡಿಯೋ ಸ್ಥಾವರದ ಮೂಲಕ ʼದಿ ಕೆಮೇಲಿಯನ್‌
+  ಪ್ರಾಜೆಕ್ಟ್‌ ʼ ರೂಪದಲ್ಲಿ ಪ್ರದರ್ಶಿಸುತ್ತಿದ್ದಾರೆ. 
+
+
+  ತಾದಾತ್ಮ್ಯ ಅನುಭೂತಿಗಳು, ಸಾಮಾಜಿಕ ಸಮೂಹ ನೆಡವಳಿಕೆಗಳು ಮತ್ತು ಸಂಬಂಧಗಳು ಮುಂತಾದ ಭಾವನಾತ್ಮಕ ವ್ಯಾಪನಗಳನ್ನು ಅರ್ಥೈಸುವ ಸಿದ್ಧಾಂತಗಳ ಅಧ್ಯಯನದ ಹಾದಿಯಲ್ಲಿ ಈ ಪರಿಯೋಜನೆಯು ಬಹು ಪ್ರಮುಖ ತಿರುವುವಾಗಿ ಪರಿಣಮಿಸಿದೆ.
 exhibitvideos:
   - privis: https://player.vimeo.com/video/537610834
     pritxt: "ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್. ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌ ಅವರ ಕೊಡುಗೆ. "
   - privis: https://player.vimeo.com/video/537604249
     pritxt: "ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್. ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌ ಅವರ ಕೊಡುಗೆ. "
 authorimage: /static/img/L_EXHIBIT_SEC_VIS_1.jpg
-authorname: "ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌  | ಕ್ರಿಸ್‌ ಫ್ರಿಥ್‌ , ಬ್ರೂನೋ ಅವರ್‌ ಬೆಕ್‌, ಯೂಸೆಫ್‌
+authorname: "ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌  | ಕ್ರಿಸ್‌ ಫ್ರಿಥ್‌, ಬ್ರೂನೋ ಅವರ್‌ ಬೆಕ್‌, ಯೂಸೆಫ್‌
   ಕಶೆಫ್‌, ಅಬದಲ್‌ ರೆಹಮಾನ ಎನ್.‌ ಮೊಹಮ್ಮದ್ದ್‌, ರಾನಾ ಎಲ್‌ ಕಲ್ಯೂಬಿ, ರೋಸಾ ಲಿಂಡ್‌
   ಪಿಕಾರ್ಡ್‌, ನಾಡಿಯಾ ಬರ್ಥ್‌ಹೌಸ್‌, ಮ್ಯಾಟ್‌ ಇಕೋಬಿನಿ, ಹ್ಯೂಗೋ ಕ್ರಿಟ್ಚಲೇ, ಹೆಲೆನ್‌
   ಸ್ಲೋಅನ್‌ ಇವರುವಳ ಸಹಭಾಗಿತ್ವ "
@@ -65,19 +77,19 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=VW1PH6B9p20
     quadwatchvis: /static/img/L_EXHIBIT_QUA_WATCHVIS_2.jpg
 play:
-  - quadplaytxt: The Wisdom and/or Madness of Crowds
+  - quadplaytxt: "ದಿ ವಿಸ್ಡಮ್ ಅಂಡ್ ಮದ್ನ್ಸ್ ಒಫ್ ಕ್ರೌಡ್ಸ್ "
     quadplaylink: https://ncase.me/crowds/
     quadplayvis: /static/img/L_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
   - quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533
-    quadeventtxt: "The Shape of A Laugh | Workshop by Anais Tondeur "
+    quadeventtxt: ನಗುವಿನ ರೂಪ | ಕಾರ್ಯಾಗಾರ | ಆನೈಸ್‌ ಟಾಂಡೆರ್‌
   - quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event by Prof.
       Daniel Richardson
     quadeventlink: https://www.eventbrite.com/e/how-ideas-and-behaviours-spread-through-a-crowd-event-registration-145820000547
 relatedlist:
-  - quadrelatedtxt: "When the World Was A Laugh by Anais Tondeur "
+  - quadrelatedtxt: ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ  | ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್
     quadrelatedvis: /static/img/L_EXHIBIT_QUA_EXPTVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
 ---
