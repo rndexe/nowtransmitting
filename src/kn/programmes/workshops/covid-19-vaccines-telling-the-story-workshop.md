@@ -1,5 +1,5 @@
 ---
-title: "ಕೋವಿಡ್-19‌ : ಕಥನ"
+title: "ಕೋವಿಡ್-19‌: ಕಥನ"
 permalink: kn/programmes/workshops/covid-19-vaccines-telling-the-story/
 cata: trigger
 catb: documenting
