@@ -887,6 +887,23 @@ function showStuff(x){
     
 }
 
+
+
+network.on("zoom",function(){
+    var scaleOption = { scale : network.getScale()*1.2};
+    newnetwork.moveTo(scaleOption);
+})
+
+//Adding movement of bg nodes on drag
+
+// network.on("dragStart",function(){
+//     console.log("hahaha")
+//     newnetwork.moveNode(1,network.getPosition(10).x,network.getViewPosition(10).y)
+//     newnetwork.moveNode(2,network.getPosition(15).x,network.getViewPosition(15).y)
+//     newnetwork.moveNode(3,network.getPosition(23).x,network.getViewPosition(23).y)
+
+// })
+
 var moving = false;
 
 network.on("hoverNode",function (params){
