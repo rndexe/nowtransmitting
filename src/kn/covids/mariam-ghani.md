@@ -1,34 +1,36 @@
 ---
-title: "The Language of Pandemics "
-desc: From “immunogenicity” to “RT-PCR”, COVID-19 has made many once-obscure
-  words a part of our everyday conversation. As government bodies, scientists,
-  and medical professionals race to combat the virus, more such terms have been
-  added to our vocabularies to describe new ways of thinking. The language that
-  we use to define the COVID-19 pandemic suggests that it is a cruel enemy that
-  must be defeated through our war rooms and the efforts of our frontline
-  workers. But, are we at war with COVID-19? How does our language and cultural
-  discourse influence the way we think about the scientific discourse around
-  pathogens? Mariam Ghani, an artist, writer, and filmmaker, who has been
-  observing the language and metaphors of illness in her latest project,
-  Dis-Ease, contemplates these questions.
-permalink: kn/covids/language-of-pandemics/
-speakername: Mariam Ghani
+title: " ರೋಗ ಮಹಾಮಾರಿಗಳ ಭಾಷೆ"
+desc: ಕೋವಿಡ್‌ 19 ರೋಗದ ಕಾರಣದಿಂದಾಗಿ, “ಇಮುನೋಜೆನಿಸಿಟಿ” ಇಂದ ಹಿಡಿದು ʼಆರ್‌.ಟಿ-ಪಿಸಿಆರ್‌ʼ
+  ತನಕ ಹಲವು ಅಸ್ಪಷ್ಟ ಪದಗಳು, ದಿನನಿತ್ಯದ ಮಾತುಕತೆಯಲ್ಲಿ ಅನೇಕ ಬಾರಿ ಕೇಳಿ ಬರುತ್ತಿವೆ. ಆಡಳಿತ
+  ಸಂಸ್ಥೆಗಳು, ವಿಜ್ಞಾನಿಗಳು, ಮತ್ತು ವೈದ್ಯಕೀಯ ವೃತ್ತಿಯಲ್ಲಿರುವವರು, ವೈರಾಣು ಸಂತತಿಯನ್ನು
+  ಎದುರಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ, ಜೊತೆ ಜೊತೆಗೆ ಇಂತಹ ಹೆಚ್ಚು ಹೆಚ್ಚು
+  ಪದಗುಚ್ಚಗಳು ನಿತ್ಯದ ಮಾತುಗಳಲ್ಲಿ ಸೇರಿಕೊಂಡು ಹೊಸ ಚಿಂತನೆಗೆ ದಾರಿಮಾಡಿಕೊಟ್ಟಿವೆ.
+  ದೇಶದಲ್ಲೆಲ್ಲಾ ವ್ಯಾಪಿಸಿಕೊಂಡಿರುವ ಕೊವಿಡ್‌ 19ನ್ನು ವರ್ಣಿಸುವುದಾದರೆ, ಈ ರೋಗವು ಒಂದು
+  ಕ್ರೂರ ಶತ್ರುವಾಗಿ ಕಾಣುತ್ತಿದೆ, ಮುಂಚೂಣಿಯಲ್ಲಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿರುವ  ಹಲವು ವೃತ್ತಿ
+  ಪರರು ಇದನ್ನು ನಿವಾರಿಸುವ ಪ್ರಯಾಸದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ ಎಂಬ ಭಾವನೆ ಮೂಡುತ್ತದೆ.  ಆದರೆ
+  ನಿಜವಾಗಿಯೂ ನಾವು ಕೊವಿಡ್‌ 19 ಪಿಡುಗಿನ ವಿರುದ್ಧ ಹೋರಾಡ ಬೇಕಾಗಿದೆಯೇ ? ನಮ್ಮ ಸುತ್ತ ಮುತ್ತ
+  ಇರುವ ವೈರಾಣುವಿನ ಬಗ್ಗೆ ನಮ್ಮ ಭಾಷೆ , ಸಂಸ್ಕೃತಿ, ವ್ಯವಸ್ಥಿತ ಅಧ್ಯಯನ ಹೇಗೆ ಪ್ರಭಾವ
+  ಬೀರುತ್ತವೆ? ಮರಿಯಂ  ಘಾನಿ ಈ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳನ್ನು ಅವರ ಇತ್ತೀಚಿನ ಸಂಶೋಧನೆಯಲ್ಲಿ
+  ಚಿಂತಿಸಿದ್ದಾರೆ.
+speakername: ಮರಿಯಂ  ಘಾನಿ
 speakerimage: /static/img/O_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/O_CO_THUMBNAIL.png
-speakerfield: Artist
+speakerfield: ಕಲಾವಿದರು
 speakerbio: >-
-  Mariam Ghani is an artist, writer, and filmmaker. Her work spans multiple
-  disciplines and looks at places, spaces, and moments where social, political,
-  and cultural structures take on visible forms. Her films have screened at the
-  Berlinale, CPH:DOX, DOC NYC, Sheffield Doc/Fest, SFFILM, and Ann Arbor, among
-  other festivals. Her work has also been exhibited and screened at the
-  Guggenheim, MoMA, Met Breuer, and Queens Museum in New York, the National
-  Gallery in Washington, D.C., and the Saint Louis Art Museum, among others. Her
-  early interactive work was preserved by Rhizome for Net Art Anthology, their
-  history of net art in 100 works. 
+  ಮರಿಯಂ  ಘಾನಿ , ಒಬ್ಬ ಕಲಾವಿದೆ, ಬರಹಗಾರ್ತಿ, ಚಲನಚಿತ್ರ ನಿರ್ಮಾಪಕಿ. ಅವರ ಕೆಲಸವು ಅನೇಕ
+  ವಿಭಾಗಗಳಲ್ಲಿ ವ್ಯಾಪಿಸಿದೆ.  ಸಾಮಾಜಿಕ, ರಾಜಕೀಯ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ವಿಷಯಗಳು, ತಮ್ಮ
+  ರಚನೆಗಳಲ್ಲಿ ವಿಭಿನ್ನ ದೃಶ್ಯಗಳಾಗಿ, ಸ್ಥಳಗಳಾಗಿ ಮತ್ತು ಕ್ಷಣಗಳಾಗಿ ಗೋಚರಿಸುತ್ತವೆ. ಇವರ
+  ಚಲನಚಿತ್ರಗಳು ʼಬರ್ಲಿನೇಲ್ʼ, ʼಸಿಪಿಹೆಚ್:‌ ಡ್.ಒ.ಎಕ್ಸ್ʼ, ʼಡಿಒಸಿʼ, ʼಎನ್ವೈಸಿʼ,
+  ʼಶೆಫೀಲ್ಡ್‌ʼ, ʼಡಿಒಸಿʼ /ಫೆಸ್ಟ್‌ʼ, ʼಎಸ್‌ ಎಫ್‌ ಫಿಲ್ಮ್‌ʼ,  , ಆನ್‌ ಅರ್ಬರ್‌, ಗಳಲ್ಲಿ
+  ಪ್ರದರ್ಶಿಸಲಾಗಿದೆ. ಇವರ ಕೃತಿಗಳನ್ನು ʼಗುಗ್ಗೆನ್‌ ಹಿಮ್‌ʼ ʼಎಮ್‌ ಒ ಮ್‌ ಎʼ, ʼಮೆಟ್‌
+  ಬ್ರೆರ್‌ʼ , ಮತ್ತು ʼನ್ಯೂಯಾರ್ಕ್‌ʼ ನಲ್ಲಿ ಇರುವ ʼಕ್ವೀನ್ಸ್‌ ಮ್ಯೂಸಿಯಂʼ, ʼವಾಷಿಂಗ್ಟನ್‌
+  ಡಿ ಸಿʼ ಯಲ್ಲಿ ಇರುವ ನ್ಯಾಷನಲ್‌ ಗ್ಯಾಲರಿ ಮತ್ತು ʼಸೆಂಟ್‌ ಲೂಯೀಸ್‌ ಆರ್ಟ್‌ ಮ್ಯೂಸಿಯಂʼ
+  ಗಳಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲಾಗಿದೆ . 100 ಕೃತಿಗಳ  ನೆಟ್‌ ಆರ್ಟ್‌ ಇತಿಹಾಸವಿರುವ ʼರಿಜೋಮ್‌ ಫಾರ್‌
+  ನೆಟ್‌ ಆರ್ಟ್‌ ಆಂಥಾಲಜಿʼ ಯವರು, ಮರಿಯಂ  ಘಾನಿ ಅವರ ಆರಂಭಿಕ ಸಂವಾದಾತ್ಮಕ ಕೃತಿನ್ನು
+  ಸಂರಕ್ಷಿಸಿದ್ದಾರೆ.
 
 
-  Some of her recent texts have been published in e-Flux, Frieze, Foreign Policy, Triple Canopy, and the readers Assuming Boycott: Resistance, Agency and Cultural Production, and Critical Writing Ensembles, among others. Ms Ghani has received a number of fellowships, awards, grants, and residencies, most recently from Creative Capital, the New York State Council on the Arts, the New York Public Library, and the 18th Street Arts Center in Los Angeles, among others.
+  ಇವರ ಇತ್ತೀಚಿನ ಕೃತಿಗಳು, ಈ-ಫ್ಲಕ್ಸ್‌ , ಫೀಜ್‌, ಫಾರಿನ್‌ ಪಾಲಿಸಿ, ಟ್ರಿಪಲ್‌ ಕೆನೋಪಿ, ದಿ ರೀಡರ್ಸ್‌ ಅಸ್ಯೂಮಿಂಗ್‌ ಬೋಯ್ಕಾಟ್‌: ರೆಸಿಸ್ಟೆಂಸ್‌ , ಏಜೆಂಸಿ ಮತ್ತು ಕಲ್ಚರಲ್‌ ಪ್ರೊಡಕ್ಷನ್‌, ಹಾಗೂ ಕ್ರಿಟಿಕಲ್‌ ರೈಟಿಂಗ್‌ ಎಂಸೆಂಬ್ಲೀಸ್‌  ಗಳಲ್ಲಿ ಪ್ರಕಾಶಿತಗೊಂಡಿವೆ. ಮಿಸ್ ಮರಿಯಂ  ಘಾನಿ ಯವರು, ಅನೇಕ ಫೆಲೋಶಿಪ್‌ ಗಳು, ಪುರಸ್ಕಾರಗಳು, ಅನುದಾನಗಳು ಮತ್ತು ರೆಸಿಡೆಂಸಿಗಳನ್ನು ಕ್ರಿಯೇಟಿವ್‌ ಕ್ಯಾಪಿಟಲ್‌, ದಿ ನ್ಯೂಯಾರ್ಕ್‌ ಸ್ಟೇಟ್‌ ಕೌಂಸಿಲ್‌ ಆನ್‌ ಆರ್ಟ್ಸ್‌, ದಿ ನ್ಯೂಯಾರ್ಕ್‌ ಪಬ್ಲಿಕ್‌ ಲೈಬ್ರರಿ ಮತ್ತು 18 ತ್‌ ಸ್ಟ್ರೀಟ್‌ ಆರ್ಟ್ಸ್‌ ಸೆಂಟರ್‌, ಲಾಸ್‌ ಏಂಜಲ್ಸ್‌ ಈ ಸಂಸ್ಥೆಗಳಿಂದ ಪಡೆದಿದ್ದಾರೆ.
 readinglist:
   - quadreadlink: https://www.cabinetmagazine.org/kiosk/scherlis_lily_30_april_2020.php
     quadreadtxt: Distanciated Communities
@@ -39,6 +41,7 @@ readinglist:
   - quadreadlink: https://www.thenation.com/article/society/pandemic-definition-covid/
     quadreadtxt: It’s Time to Tell a New Story About the Coronavirus—Our Lives Depend on It
     quadreadvis: /static/img/O_CO_QUA_READVIS_2.jpg
+permalink: kn/covids/language-of-pandemics/
 listeninglist:
   - quadlistlink: https://soundcloud.com/newmodels/ep23-tentacular-disease
     quadlisttxt: DIS-EASE Podcast
