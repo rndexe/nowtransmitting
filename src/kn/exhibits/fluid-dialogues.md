@@ -1,10 +1,10 @@
 ---
 layout: fluid-dialogues
-authortype: Team
+authortype: ತಂಡ
 thumb: /static/img/M_Exhibit_Thumbnail.jpg
 title: ಫ್ಲೂಯಿಡ್‌ ಡೈಲಾಗ್ಸ್‌
-subtitle: ಕಳಂಕದ ಹೊರೆ.
-medium: ಫಿಲ್ಮ್
+subtitle: ಕಳಂಕದ ಹೊರೆ
+medium: ಚಲನ ಚಿತ್ರ
 year: "2021"
 description: >-
   ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳು ಮಾನವರ ಆರೋಗ್ಯಕ್ಕೆ ಅಪಾಯಕಾರಿ, ಜೊತೆಗೆ ಕಳಂಕದ ರುವಾರಿಗಳೂ ಹೌದು. 
@@ -43,7 +43,7 @@ exhibitauthor:
       ಭಾಷೆಗಳ ಮೇಲೆ ಆಗುವ ಪ್ರಭಾವಗಳ ಕುರಿತಂತೆ ಸಂಶೋಧನೆ ನೆಡೆಸಿದ್ದಾರೆ. 
 
 
-      http://j-a-g.net/info.html
+      <http://j-a-g.net/info.html>
   - authorimage: /static/img/m_exhibit_sec_vis_4.jpg
     authorbio: ಆಂಡ್ರೆಸ್‌ ಗಾರ್ಸಿಯಾ ವೈಡಲ್‌ (ಸೆವಿಲ್ಲಾ, 1991), ದ್ವನಿ ಅಧ್ಯಯನದ
       ಚೌಕಟ್ಟಿನಲ್ಲಿ , ಮುಖ್ಯವಾಗಿ ಶೃತಿ ಸ್ಮೃತಿಗಳು,  ಲಾವಣಿ, ಜಾನಪದ ಹಾಡು, ಮೇಳಗಳಂತಹ
@@ -64,7 +64,7 @@ exhibitauthor:
       ಸಂಸ್ಥೆ ಸ್ಥಾಪಿತಗೊಂಡಿದೆ.
 processimages:
   - tertxt: "ಡಿ. ಐ.ಸಿ ಸೂಕ್ಷ್ಮ ದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ಕೆಂಪು ರಕ್ತ ಕಣಗಳು,  400 x ಪಟ್ಟು
-      ಸಂವರ್ಧನೆ. ನೆರವು : ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್"
+      ಸಂವರ್ಧನೆ. ನೆರವು: ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್"
     tervis: /static/img/m_exhibit_ter_vis_1.jpeg
   - tertxt: "ಡಿ. ಐ.ಸಿ ಸೂಕ್ಷ್ಮ ದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ಕೆಂಪು ರಕ್ತದ ಹೆಪ್ಪುಗಟ್ಟವಿಕೆ. 400 x
       ಪಟ್ಟು ಸಂವರ್ಧನೆ. ನೆರವು: ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್"
@@ -85,7 +85,7 @@ listeninglist:
     quadlistvis: /static/img/M_EXHIBIT_QUA_LISVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=DR8GOoE91Lk
-    quadwatchtxt: ಕಳಂಕವು ಅಗೋಚರ ಮಾರಕವೇ ?
+    quadwatchtxt: ಕಳಂಕವು ಅಗೋಚರ ಮಾರಕವೇ?
     quadwatchvis: /static/img/M_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=8SxHl2XK7Sk
     quadwatchtxt: "ಏಡ್ಸ್‌ ರೋಗದ ನಿರ್ವಹಣೆ: ಆಕ್ರಮಣಕಾರಿ ಮತ್ತು ವಿನಾಶಕಾರಿ ಕಳಂಕಗಳು: ವಿ.ಕೆ
@@ -95,18 +95,18 @@ watchinglist:
     quadwatchtxt: "ಸೂಕ್ಷ್ಮ ದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ಕೆಂಪು ರಕ್ತ ಕಣಗಳು "
     quadwatchvis: /static/img/m_exhibit_qua_watchvis_3.jpg
 relatedlist:
-  - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+  - quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
-  - quadrelatedtxt: COVID-19 Indoor Safety Guideline by Martin Bazant, John Bush, Kasim Khan
+  - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
 authorname: Basse Stittgen
 eventlist:
-  - quadeventtxt: Detect, Investigate, Diagnose | Lecture by Adia Benton
+  - quadeventtxt: ಗುರಿತಿಸಿ, ಪರಿಶೀಲಿಸಿ, ನಿರ್ಣಯಿಸಿ | ಉಪನ್ಯಾಸ | ಅಡಿಯಾ ಬೇಂಟನ್‌
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/145400778643
-  - quadeventtxt: "A Human Question | Film Screening and Discussion with T. Jayashree "
+  - quadeventtxt: ಎ ಹ್ಯೂಮನ್‌ ಕ್ವೆಸ್ಚನ್‌ | ಚಲನ ಚಿತ್ರ ಚರ್ಚೆ | ಟಿ ಜಯಶ್ರೀ
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147
 authorbio: The work of Basse Stittgen is positioned at the intersection of
