@@ -288,13 +288,13 @@ speakerbooklist:
       ಹಬ್ಬಿಸಲು, ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳನ್ನು ಹೇಗೆ ಬಳಸ ಬಹುದು ಎಂಬುದರ ಬಗೆಗೆ ದಶಕಕ್ಕೂ ಹೆಚ್ಚು
       ಕಾಲ ನಡೆಸಿರುವ ಸಂಶೋಧನೆಯಿಂದ ಅರಿತ ಹಲವು ವಿಷಯಗಳನ್ನು,  “ಹೌ ಬಿಹೇವಿಯರ್‌
       ಸ್ಪ್ರೆಡ್ಸ್‌”  ಕೃತಿಯಲ್ಲಿ  ಡಾಮನ್‌ ಸೆಂಟೋಲಾ  ಪ್ರಸ್ತುತ ಪಡಿಸಿದ್ದಾರೆ.
-  - title: "Till We Win: India's Fight Against The Covid-19 Pandemic"
-    author: "Chandrakant Lahariya, et al. "
+  - title: ಇಂಡಿಯಾಸ್‌ ಫೈಟ್‌ ಅಗೇಂಸ್ಟ್‌ ದಿ ಕೋವಿಡ್-19‌  ಪ್ಯಾಂಡಮಿಕ್‌
+    author: ಚಂದ್ರಕಾಂತ್‌ ಲಹರಿಯಾ, ಗಗನ್‌ ದೀಪ್‌ ಕಾಂಗ್‌ ಮತ್ತು ರಣದೀಪ್‌ ಗುಲೇರಿಯಾ
     link: https://www.thehindu.com/books/books-reviews/till-we-win-indias-fight-against-the-covid-19-pandemic-review-how-to-fight-a-terror-virus/article34333406.ece
-    about: Offering insights on how India continues to fight the pandemic, *Till We
-      Win* is a book for the people, for political leaders, policymakers and
-      physicians, with the promise and potential to transform public health in
-      India.
+    about: ಭಾರತವು  ಕೋವಿಡ್-19‌  ರೋಗ ಪಿಡುಗಿನ ವಿರುದ್ಧ ಹೋರಾಡುತ್ತಿರುವ ವರ್ಣನೆಯ ಜೊತೆಗೆ,
+      ಸಾಮಾನ್ಯ ಜನರು, ರಾಜಕೀಯ ಮುಖಂಡರು, ನೀತಿ ನಿರೂಪಕರು , ವೈದ್ಯರು ಮುಂತಾದವರೆಲ್ಲರೂ ಕೂಡಿ
+      ಭಾರತದಲ್ಲಿ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯವನ್ನು ಹೇಗೆ ಪರಿವರ್ತನೆಯ ಹಾದಿಗೆ ತರುವ ಶಕ್ತಿ ಸಾಮರ್ಥ್ಯ
+      ಹೊಂದಿದ್ದಾರೆ ಎಂಬುದರ ವಿವರಣೆ ಹಾಗೂ ಆಶ್ವಾಸನೆಯು ಸಹ ಈ ಪುಸ್ತಕದಲ್ಲಿ ಇದೆ.
     coverimage: /static/img/RR_Gagandeep_RR_Till We Win.jpg
   - title: "Animals and the Shaping Of Modern Medicine : One Health And Its
       Histories "
