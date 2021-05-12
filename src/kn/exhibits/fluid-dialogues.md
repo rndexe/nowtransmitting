@@ -4,7 +4,7 @@ authortype: ತಂಡ
 thumb: /static/img/M_Exhibit_Thumbnail.jpg
 title: ಫ್ಲೂಯಿಡ್‌ ಡೈಲಾಗ್ಸ್‌
 subtitle: ಕಳಂಕದ ಹೊರೆ
-medium: ಫಿಲ್ಮ್
+medium: ಚಲನ ಚಿತ್ರ
 year: "2021"
 description: >-
   ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳು ಮಾನವರ ಆರೋಗ್ಯಕ್ಕೆ ಅಪಾಯಕಾರಿ, ಜೊತೆಗೆ ಕಳಂಕದ ರುವಾರಿಗಳೂ ಹೌದು. 
