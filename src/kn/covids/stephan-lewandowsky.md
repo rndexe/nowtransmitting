@@ -1,26 +1,28 @@
 ---
-title: Conspiracies and Trust in a Pandemic
-desc: The pandemic has revealed weaknesses in our society, but it has also
-  opened avenues for radical change; for conversations about how science can
-  save humanity, how populism functions in a democracy, and how we should govern
-  social media to prevent the rapid spread of misinformation. Stephan
-  Lewandowsky is a cognitive scientist who studies how people think and make
-  decisions. He investigates how trust and emotions are manipulated in a global
-  health crisis.
-permalink: kn/covids/conspiracies-trust-in-pandemic/
-speakername: Stephan Lewandowsky
+title: "ಪಿಡುಗಿನ ವೇಳೆಯಲ್ಲಿ  ನಂಬಿಕೆ ಮತ್ತು ಒಳಸಂಚು   "
+desc: "**ಮಹಾಮಾರಿಗಳು ಸಮಾಜದ ಕುಂದು ಕೊರತೆಗಳನ್ನು ನಮ್ಮ ಮುಂದೆ ತೆರೆದಿಟ್ಟಿವೆ.  ಆದರೆ, ಹೊಸ
+  ಬಗೆಯ ಬದಲಾವಣೆಗೂ ಸಾಕಷ್ಟು ಅವಕಾಶಗಳನ್ನು ಕಲ್ಪಿಸಿವೆ.  ವಿಜ್ಞಾನದ ಅವಿಷ್ಕಾರಗಳು ಮಾನವ
+  ಸಮಾಜವನ್ನು ಹೇಗೆ ಉಳಿಸ ಬಹುದು, ಪ್ರಜಾತಂತ್ರದಲ್ಲಿ ಜನಪ್ರಿಯತೆ ಹೇಗೆ ಪ್ರಭಾವಿಯಾಗುತ್ತದೆ,
+  ತಪ್ಪು ಮಾಹಿತಿ ಹರಡದಂತೆ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸ ಬೇಕು, ಮುಂತಾದ ಅನೇಕ
+  ಚರ್ಚೆಗಳಿಗೆ ಆಸ್ಪದವಾಗಿವೆ.   ಸ್ಟೀಫನ್ ಲಾವಂಡೋಸ್ಕಿ  , ಪ್ರಜ್ಞಾಶಾಸ್ತ್ರದ
+  ವಿಜ್ಞಾನಿಯಾಗಿದ್ದು, ಸಾಮಾನ್ಯವಾಗಿ ಜನರು ಹೇಗೆ ಚಿಂತಿಸುತ್ತಾರೆ ಮತ್ತು ನಿರ್ಧಾರಗಳನ್ನು
+  ತೆಗೆಯುತ್ತಾರೆ ಎಂಬುದರ ಅಧ್ಯಯನ ಮಾಡಿದ್ದಾರೆ.  ಜಾಗತಿಕ ಆರೋಗ್ಯ ವಿಪತ್ತಿನ ಕಾಲದಲ್ಲಿ,
+  ವಿಶ್ವಾಸ ಮತ್ತು ಭಾವನೆಗಳ ಗತಿಯ ಬಗೆಗೆ ಸಂಶೋಧನೆ ನೆಡೆಸಿದ್ದಾರೆ.**"
+speakername: "ಸ್ಟೀಫನ್ ಲಾವಂಡೋಸ್ಕಿ "
 speakerimage: /static/img/F_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/F_CO_THUMBNAIL.png
-speakerfield: Cognitive Scientist
-speakerbio: Stephan Lewandowsky is a cognitive scientist with an interest in how
-  people update their memories if information they believe turns out to be
-  false. This has led him to examine the persistence of misinformation and
-  spread of fake news in society, including conspiracy theories. He is
-  particularly interested in the variables that determine whether or not people
-  accept scientific evidence, for example evidence surrounding vaccinations or
-  climate science. Because his research speaks to important contemporary events,
-  he contributes to public debate through opinion pieces in the media and public
-  engagement.
+speakerfield: "ಪ್ರಜ್ಞಾಶಾಸ್ತ್ರ ವಿಜ್ಞಾನಿ "
+speakerbio: >-
+  ಸ್ಟೀಫನ್ ಲಾವಂಡೋಸ್ಕಿ,  ಪ್ರಜ್ಞಾಶಾಸ್ತ್ರದ ವಿಜ್ಞಾನಿಯಾಗಿದ್ದು, ಜನರು ತಾವು ನಂಬಿದ
+  ಮಾಹಿತಿಯು ತಪ್ಪು ಎಂಬ ವಿಷಯವು ತಿಳಿದಾಗ ಹೇಗೆ ಹೊಸ ತಿಳುವಳಿಕೆಯನ್ನು
+  ಸ್ಮೃತಿಯಲ್ಲಿಟ್ಟುಕೊಳ್ಳುತ್ತಾರೆ ಎಂಬ ವಿಷಯದ ಬಗೆಗೆ ಅಧ್ಯಯನ ನೆಡೆಸಿದ್ದಾರೆ.  ಸಮಾಜದಲ್ಲಿ,
+  ಸುಳ್ಳು ಸುದ್ದಿ, ಸಂಚುಗಳು ಮತ್ತು ತಪ್ಪು ತಿಳುವಳಿಕೆಯ ವ್ಯಾಪಕತೆಯ ಬಗೆಗೆ ಸಂಶೋಧನೆಯಲ್ಲಿ
+  ತೊಡಗಿದ್ದಾರೆ.  ಜನರು ಯಾವ ಅಂಶಗಳ  ಆಧಾರದ ಮೇಲೆ ವೈಜ್ಞಾನಿಕ ಸಾಕ್ಷಿಗಳನ್ನು
+  ಸ್ವೀಕರಿಸುತ್ತಾರೆ , ಉದಾಹರಣೆಗೆ, ಜನರ ವಿಶ್ವಾಸವು  ಲಸಿಕೆಗಳ ಬಗೆಗೆ ಅಥವಾ ಹವಾಮಾನ ವಿಜ್ಞಾನದ
+  ಬಗೆಗೆ ಯಾವ ಅಂಶಗಳನ್ನು ಅವಲಂವಿಸಿವೆ ಎಂದು ಅರಿಯುವುದು ಇವರ ಸಂಶೋಧನೆಯ ಪ್ರಮುಖ ವಿಷಯ.  
+
+
+  ಇವರ ಸಂಶೋಧನೆಯು ಪ್ರಮುಖ ಸಮಕಾಲೀನ ಪ್ರಕರಣಗಳ ಬಗೆಗೆ ಇರುವುದರಿಂದ, ಮಾಧ್ಯಮಗಳು ಮತ್ತು ಸಾರ್ವಜನಿಕ ಒಕ್ಕೂಟಗಳ ಮೂಲಕ ಸಾರ್ವಜನಿಕ ಚರ್ಚೆಯ  ವಿಷಯವಾಗಿದೆ.
 videosrc: https://player.vimeo.com/video/526094930
 readinglist:
   - quadreadlink: https://www.researchgate.net/publication/342205771_Populism_and_the_Pandemic_A_Collaborative_Report
@@ -32,6 +34,7 @@ readinglist:
   - quadreadlink: https://journals.sagepub.com/doi/full/10.1177/0725513620970804
     quadreadtxt: Paradoxes of Populism During the Pandemic
     quadreadvis: /static/img/F_CO_QUA_READVIS_2.jpg
+permalink: kn/covids/conspiracies-trust-in-pandemic/
 listeninglist:
   - quadlistlink: https://www.nature.com/articles/d41586-020-01475-6
     quadlisttxt: Fighting the Misinformation Pandemic
