@@ -26,67 +26,71 @@ openbooklist:
       ವಿವರಿಸಲಾಗಿದೆ. ಹೊಸ ಬಗೆಯ ಪೆಪ್ಟೈಡ್‌ ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕಗಳನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿ
       ಪರೀಕ್ಷಿಸುವುದು, ಈ ಪರಿಯೋಜನೆಯ ಮೂಖ್ಯ ಉದ್ದೇಶ ವಾಗಿತ್ತು.
     listlink: https://e.issuu.com/embed.html?d=the-art-of-antibiotics&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
-  - title: Polio Across the Iron Curtain
-    author: Dora Vargha
-    about: In *Polio Across the Iron Curtain*, ಶೀಥಲ ಸಮರದ ನಡುವೆ, ಸಮತಾವಾದಿ ಹಂಗೇರಿಯಲ್ಲಿ
-      ಇದ್ದಂತಹ ಪರಿಸ್ಥಿತಿಗಳು ಹಾಗೂ ಜಾಗತಿಕ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ವಿಪತ್ತು, ಹೀಗೆ ಹಲವು
-      ವಿಚಾರಗಳನ್ನು ವಿವರಿಸಲು,  ಡೋರಾ ವಾರ್ಘ ಅವರು, ಪೋಲಿಯೋ ರೋಗ ಪಿಡುಗಿನ ಸರಣಿ
+  - title: ಪೋಲಿಯೋ ಅಕ್ರಾಸ್‌ ದಿ ಐರನ್‌ ಕರ್ಟನ್‌
+    author: ಡೋರಾ ವಾರ್ಘ
+    about: ಪೋಲಿಯೊ ಅಕ್ರಾಸ್ ದಿ ಐರನ್ ಕರ್ಟನ್ ದಲ್ಲಿ, ಶೀಥಲ ಸಮರದ ನಡುವೆ, ಸಮತಾವಾದಿ
+      ಹಂಗೇರಿಯಲ್ಲಿ ಇದ್ದಂತಹ ಪರಿಸ್ಥಿತಿಗಳು ಹಾಗೂ ಜಾಗತಿಕ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ವಿಪತ್ತು,
+      ಹೀಗೆ ಹಲವು ವಿಚಾರಗಳನ್ನು ವಿವರಿಸಲು,  ಡೋರಾ ವಾರ್ಘ ಅವರು, ಪೋಲಿಯೋ ರೋಗ ಪಿಡುಗಿನ ಸರಣಿ
       ನಿದರ್ಶನಗಳನ್ನು ಈ ಪುಸ್ತಕದಲ್ಲಿ ಬೆಳಕಿಗೆ ತಂದಿದ್ದಾರೆ.
     listlink: https://e.issuu.com/embed.html?d=dora_vargha&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
-  - title: The Last Man
-    author: Mary Shelley
-    about: "*The Last Man* is an eerily prescient tale describing a future Earth of
-      the late 21st century, which is ravaged by an unknown pandemic."
+  - title: ದಿ ಲಾಸ್ಟ್‌ ಮ್ಯಾನ್
+    author: ಮೇರಿ ಶೆಲ್ಲಿ
+    about: “ದಿ ಲಾಸ್ಟ್‌ ಮ್ಯಾನ್” ಫ್ರಾಂಕನ್‌ ಸ್ಟೀನ್‌ ನ ಹೊಸ ಬಗೆಯ ಭಯಾನಕವಾದ ವೈಜ್ಞಾನಿಕ
+      ಕಾಲ್ಪನಿಕ ಕಾದಂಬರಿ. ಕೃತಿಗಾರರು ಮೇರಿ ಶೆಲ್ಲಿ.  ಇಪ್ಪತ್ತೊಂದನೇ ಶತಮಾನದ ಅಂತ್ಯದಲ್ಲಿ 
+      ಭೂಮಿಯನ್ನು ಆವರಿಸಿರುವ ಅಪರಿಚಿತ ರೋಗ ಪಿಡುಗಿನ ಸುತ್ತ ಹೆಣೆದಿರುವ ಕಥೆ ಇಲ್ಲಿದೆ.
     listlink: https://e.issuu.com/embed.html?d=the_last_man&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
-  - title: The Virus
-    author: Aleksandra Bartoszko, and Marcin Ponomarew
-    about: "*The Virus* is an ethnographic comic book which explores the experiences
-      of patients who live with Hepatitis C."
+  - title: ದಿ ವೈರಸ್
+    author: ಅಲೆಕ್ಸಾಂಡ್ರಾ ಬಾರ್ಟೋಸ್ಜ್ಕೋ, ಮಾರ್ಸಿನ್‌ ಪೊನೋಮಾರೆವ್‌
+    about: ಬುಡಕಟ್ಟು ಜನಾಂಗವನ್ನು ಕುರಿತಂತಹ ಈ ಹಾಸ್ಯ ಕೃತಿಯು, ಸಾಮಾಜಿಕ ಮಾನವಶಾಸ್ತ್ರಜ್ಞರು,
+      ಗ್ರಾಫಿಕ್‌ ಕಲಾವಿದರು ಮತ್ತು ಸಕ್ರಿಯ ಹಾಗೂ ಪೂರ್ವಕಾಲಿಕ ಚುಚ್ಚು ಮದ್ದು ಬಳಕೆದಾರರ
+      ಸಹಯೋಗದಲ್ಲಿ ರಚಿತವಾಗಿದೆ.
     listlink: https://e.issuu.com/embed.html?d=the_virus&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
-  - title: The Yellow Wallpaper
-    author: Charlotte Perkins Gilman
-    about: "*The Yellow Wallpaper* is a short story describing a woman’s gradual
-      descent into psychosis as she recovers from childbirth."
+  - title: ದಿ ಯೆಲ್ಲೋ ವಾಲ್‌ ಪೇಪರ್
+    author: ಶಾರ್ಲೆಟ್ಟ್‌ ಪರ್ಕಿಂಸ್‌ ಗಿಲ್ಮನ್
+    about: ಪ್ರಸವದಿಂದ  ಚೇತರಿಸಿಕೊಂಡ ಹೆಣ್ಣೊಬ್ಬಳು ಹೇಗೆ ನಿಧಾನವಾಗಿ ಮಾನಸಿಕ ಅಸ್ವಸ್ಥತೆಗೆ
+      ಜಾರುತ್ತಾಳೆ ಎಂಬುದನ್ನು ವಿವರಿಸುವ ಸಣ್ಣ ಕಥೆ.
     listlink: https://e.issuu.com/embed.html?d=the-yellow-wall-paper&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
-  - title: "Animals and the Shaping Of Modern Medicine : One Health And Its Histories"
-    author: Abigail Woods, et al.
-    about: "*Animals and the Shaping of Modern Medicine* breaks new ground by
-      situating animals and their diseases at the very heart of modern medicine.
-      In demonstrating their historical significance as subjects and shapers of
-      medicine, it reveals that what we think of as human medicine was in fact
-      deeply zoological."
+  - title: "ಅನಿಮಲ್ಸ್‌ ಆಂಡ್‌ ದಿ ಶೇಪಿಂಗ್‌ ಆಫ್‌ ಮಾಡರ್ನ್‌ ಮೆಡಿಸಿನ್‌: ಒನ್‌ ಹೆಲ್ಥ್‌ ಆಂಡ್‌
+      ಇಟ್ಸ್‌ ಹಿಸ್ಟರೀಸ್‌"
+    author: ಅಭಿಗೇಲ್‌ ವೂಡ್ಸ್‌, ಮೈಖೇಲ್‌ ಬ್ರಸೇಲಿಯರ್‌, ಎಂಜೆಲಾ ಕ್ಯಾಸಿಡಿ, ರಾಚೆಲ್‌ ಮೇಸನ್‌
+      ಡೆಂಟಿಂಗರ್‌
+    about: ಆಧುನಿಕ ವೈದ್ಯಕೀಯದ ವಿಕಸನಕ್ಕೆ , ಮುಖ್ಯವಾಗಿ ಪ್ರಾಣಿಗಳು ಮತ್ತು ಅವುಗಳನ್ನು ಕಾಡುವ
+      ರೋಗಗಳೇ ಕಾರಣ ಎಂಬ ಹೊಸ ಚಿಂತನೆಯು ಈ ಕೃತಿಯಲ್ಲಿದೆ.ಮೂಲತಃ ಪ್ರಾಣಿ ಸಂಕುಲಕ್ಕೆ
+      ಬಳಸಲಾಗುತ್ತಿದ್ದ ಔಷಧ ವಿಧಾನಗಳ ಐತಿಹಾಸಿಕ ಮಹತ್ವ ಮತ್ತು ಮಾನವ ಸಮುದಾಯಕ್ಕೆ ಈ ಔಷಧಿಗಳು
+      ಎಷ್ಟು ಸೂಕ್ತ ಎಂಬುದನ್ನು ವಿಮರ್ಶಿಸಲಾಗಿದೆ.
     listlink: https://e.issuu.com/embed.html?d=animals_and_the_shaping_of_modern_medicine&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
 recbooklist:
-  - title: Blindness
-    author: Jose Saramago
+  - title: ಬ್ಲೈಂಡ್‌ ನೆಸ್‌
+    author: ಜೋಸ್‌ ಸೆರಾಮೆಗೊ
     link: https://www.npr.org/2010/12/28/132292587/in-saramagos-blindness-a-vision-of-human-nature
-    about: A city is hit by an epidemic of "white blindness" which spares no one.
-      *Blindness* details the natural breakdown of a society that follows upon
-      this unnatural disaster.
+    about: ಒಂದು ನಗರವನ್ನು, “ವ್ಹೈಟ್‌ ಬ್ಲೈಂಡ್ನೆಸ್” ರೋಗ ಪಿಡುಗು  ಆವರಿಸಿದೆ, ಯಾರೂ ಈ ರೋಗಕ್ಕೆ
+      ಹೊರತಲ್ಲ. ಇಂತಹ ಅಸಹಜ  ವಿಪತ್ತಿನೊಂದಿಗೆ, ಸಹಜ ವಿಲಕ್ಷಣ ಪರಿಸ್ಥಿತಿಗಳು ಸಮಾಜವನ್ನು
+      ಇನ್ನಷ್ಟು ಹದಗೆಡಿಸುವ ದೃಶ್ಯಗಳನ್ನು , ʼಬ್ಲೈಂಡ್‌ ನೆಸ್‌ ʼ ಕೃತಿಯಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ.
     coverimage: /static/img/RR_Blindness.jpg
-  - title: "Blue Pills: A Positive Love Story"
-    author: Frederik Peeters
+  - title: "ಬ್ಲೂ ಪಿಲ್ಸ್‌ : ಎ ಪಾಸಿಟಿವ್‌ ಲವ್‌ ಸ್ಟೋರಿ"
+    author: ಫ್ರೆಡರಿಕ್‌ ಪೀಟರ್ಸ್‌
     link: https://www.theguardian.com/books/2008/mar/23/culture.features
     about: In an autobiographical account about love in the time of AIDS, Frederik
       meets Cati and falls in love. *Blue Pills* reveals the many obstacles the
       couple faces because Cati is HIV positive, just like her three-year-old
       son.
     coverimage: /static/img/rr_blue-pills.jpg
-  - title: "Contagious: Why Things Catch On"
-    author: Jonah Berger
+  - title: "ಕಂಟೇಜಿಯಸ್‌: ವೈ ಥಿಂಗ್ಸ್‌ ಕ್ಯಾಚ್‌ ಆನ್‌"
+    author: ಜೋನಹ ಬರ್ಗರ್
     link: https://hbr.org/webinar/2016/08/contagious-why-things-catch-on
-    about: In *Contagious*, Berger reveals the secret science behind word-of-mouth
-      and social transmission. Discover how six basic principles drive all sorts
-      of things to become contagious, from consumer products and policy
-      initiatives to workplace rumors and YouTube videos.
+    about: ಬರ್ಗರ್ ಅವರು, “ಕಂಟೇಜಿಯಸ್‌“ ಪುಸ್ತಕದಲ್ಲಿ, ಒಬ್ಬರಿಂದ ಒಬ್ಬರಿಗೆ ಮಾತಿನಲ್ಲೇ ಹರಡುವ
+      ವಿಷಯಗಳು ಮತ್ತು ಸಾಮಾಜಿಕ ಸಂವಹನದ ಹಿಂದೆ ಅಡಗಿರುವ ನಿಗೂಢ ವಿಜ್ಞಾನವನ್ನು
+      ವಿಶ್ಲೇಷಿಸಿದ್ದಾರೆ.  ಯಾವುದೇ ವಿಷಯವು ಹರಡಲು ಆರು ಮೂಲ ತತ್ವಗಳು ಬಹು ಪ್ರಮುಖ ಪಾತ್ರ
+      ವಹಿಸುತ್ತವೆ.
     coverimage: /static/img/RR_Contagious.jpg
-  - title: I Am Thinking of My Darling
-    author: Vincent McHugh
+  - title: ಐ ಆಮ್‌ ಥಿಂಕಿಂಗ್‌ ಆಫ್‌ ಮೈ ಡಾರ್ಲಿಂಗ್‌
+    author: ವಿನ್ಸೆಂಟ್  ಮೆಕ್ ಹ್ಯೂ
     link: https://www.publishersweekly.com/978-1-878274-05-2
-    about: In *I Am Thinking of My Darling*, a mysterious virus descends on New York
-      City, leaving its "victims" inhibition-free, irresponsible, and happy.
-      Acting mayor Jim Rowan has his hands full trying to prevent the spread of
-      the epidemic and keep the city running.
+    about: ನ್ಯೂಯಾರ್ಕ್‌ ನಗರವನ್ನು ವಿಚಿತ್ರವಾದ ವೈರಸ್‌ ಒಂದು ಆವರಿಸಿದೆ, ರೋಗಕ್ಕೆ ತುತ್ತಾದ
+      ಜನರು, ಯಾವುದೇ ಅಡ್ಡಿ ಆತಂಕ ಪ್ರತಿಬಂಧನವಿಲ್ಲದೇ, ಬೇಜವಾಬ್ದಾರಿಯಾಗಿ ಸಂತೋಷವಾಗಿ
+      ಆಹ್ಲಾದಮಯವಾಗಿ ಇರುತ್ತಾರೆ. ಅಲ್ಲಿನ ಮೇಯರ್‌ ಜಿಮ್‌ ರೋವನ್‌ ಈ ಸಾಂಕ್ರಾಮಿಕವು ಹರಡದಂತೆ
+      ತಡೆದು, ನಗರವು ಸಾಮಾನ್ಯವಾಗಿ ಮುಂದುವರೆಯುವಂತೆ ಮಾಡಲು ಎಲ್ಲಾ ಪ್ರಯತ್ನ
+      ಮಾಡುತ್ತಿದ್ದಾರೆ.
     coverimage: /static/img/RR_I am thinking of my darling.jpg
   - title: I Contain Multitudes
     author: Ed Yong
