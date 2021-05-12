@@ -1,7 +1,8 @@
 {
     "layout" : "programmes/layout_lecture",
-    "path" : "kn-events",
+    "kannada" : "true",
+    "path" : "events",
     "tags": [
-        "kn-event", "kn-programme"
+        "kn_event", "kn_programme"
     ]
 }

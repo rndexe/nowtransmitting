@@ -1,7 +1,8 @@
 {
     "layout" : "programmes/layout_filmscreening",
-    "path" : "kn-filmscreenings",
+    "kannada" : "true",
+    "path" : "filmscreenings",
     "tags": [
-        "kn-film screening", "kn-programme"
+        "kn_film screening", "kn_programme"
     ]
 }

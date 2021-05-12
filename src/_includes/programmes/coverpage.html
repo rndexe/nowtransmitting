@@ -1,19 +1,41 @@
 <section id="home"  class="block w-full lg:w-screen lg:flex-none lg:flex-col lg:flex-nowrap lg:pl-20 bg-trueGray-750">
 	<div class="float-left flex w-screen lg:w-5/12 lg:h-full pl-10 lg:pl-20 lg:pt-36">
 		<div class="flex flex-col h-2/3 w-full py-4">
-			<p class="text-5xl w-auto font-trade font-bold text-white drop-shadow-md">{{title}}</p>
-			<p class="text-base w-auto font-trade text-white">By {{expertname}}</p>
-			<p class="mb-2 mt-auto text-base w-auto font-trade text-white"><span class="font-bold">Date :</span> {{date.toDateString()}}</p>
-			<p class="mb-4 text-base w-auto font-trade text-white"><span class="font-bold">Time :</span> {{date.toTimeString()}}</p>
+			<p class="text-5xl w-auto font-bold text-white drop-shadow-md
+			  {{ "font-tunga" if kannada else "font-trade" }}
+			">{{title}}</p>
+			<p class="text-base w-auto text-white
+			  {{ "font-tunga" if kannada else "font-trade" }}
+			">By {{expertname}}</p>
+			<p class="mb-2 mt-auto text-base w-auto text-white
+			  {{ "font-tunga" if kannada else "font-trade" }}
+			">
+				<span class="font-bold">
+					{{ "ದಿನಾಂಕ :" if kannada else "Date :" }}
+				</span> 
+					{{date.toDateString()}}
+			</p>
+			<p class="mb-4 text-base w-auto font-trade text-white
+			  {{ "font-tunga" if kannada else "font-trade" }}
+			">
+				<span class="font-bold">
+					{{ "ಸಮಯ :" if kannada else "Time :"}}
+				</span>
+					{{date.toTimeString()}}
+			</p>
 			{% if link %}
 			<a href="{{link}}" target="_blank">
-				<button class="text-base py-2 px-12  font-trade text-white rounded-sm border border-solid border-white">
+				<button class="text-base py-2 px-12  text-white rounded-sm border border-solid border-white
+				  {{ "font-tunga" if kannada else "font-trade" }}
+				">
 					Click to register
 				</button>
 			</a>
 			{% elseif reclink %}
 				<a href="{{reclink}}" target="_blank">
-				<button class="text-base py-2 px-12  font-trade text-white rounded-sm border border-solid border-white">
+				<button class="text-base py-2 px-12 text-white rounded-sm border border-solid border-white
+				  {{ "font-tunga" if kannada else "font-trade" }}
+				">
 					Missed the Lecture? Watch here
 				</button>
 			</a>
@@ -22,7 +44,11 @@
 		</div>
 	</div>
 	<div id="scroll-arrow" class="hidden lg:flex lg:flex-none fixed top-10 right-10">
-		<span class="text-white m-1 font-trade" >Scroll to know more</span>
+		<span class="text-white m-1
+		{{ "font-tunga" if kannada else "font-trade"}}
+		" >
+			{{ "ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಸ್ಕ್ರಾಲ್‌ ಮಾಡಿ" if kannada else "Scroll to know more" }}
+		</span>
 		<!-- <svg  class="w-6 transform rotate-180" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path	d="M1.02698 11.9929L5.26242 16.2426L6.67902 14.8308L4.85766 13.0033L22.9731 13.0012L22.9728 11.0012L4.85309 11.0033L6.6886 9.17398L5.27677 7.75739L1.02698 11.9929Z" 
 			fill="#fff" />

@@ -1,7 +1,8 @@
 {
     "layout" : "programmes/layout_lecture",
-    "path" : "kn-lectures",
+    "kannada" : true,
+    "path" : "lectures",
     "tags": [
-        "kn-lecture", "kn-programme"
+        "kn_lecture", "kn_programme"
     ]
 }
