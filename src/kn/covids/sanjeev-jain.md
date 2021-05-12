@@ -1,26 +1,23 @@
 ---
-title: Lessons from History in a Pandemic
-desc: Every known civilisation has battled epidemics of diseases like the
-  bubonic plague, cholera, typhoid, and smallpox. Societies’ responses to
-  epidemics have shaped our history and continue to influence how we think of
-  pandemics in the present day. Connections between past epidemics and
-  contemporary society intrigue psychiatrists like Sanjeev Jain, who has worked
-  extensively on the history of medicine and mental health in South Asia.
-permalink: kn/covids/lessons-from-history/
-speakername: Sanjeev Jain
+title: "ಇತಿಹಾಸದ ಪಿಡುಗುಗಳಿಂದ ಅರಿಯಬೇಕಾದ ಅಂಶಗಳು   "
+desc: >-
+  **\
+
+  ನಮಗೆ ಗೊತ್ತಿರುವ ಪ್ರತಿಯೊಂದು ಮಾನವ ಸಂಸ್ಕೃತಿಯು , ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌, ಖಾಲರಾ, ಟೈಫಾಯ್ಡ್‌,  ಸ್ಮಾಲ್ಪಾಕ್ಸ್ ಮುಂತಾದ  ಹಲವಾರು ಮಹಾಮಾರಿಗಳನ್ನು ಎದುರಿಸಿವೆ.  ಈ ಪಿಡುಗುಗಳಿಗೆ ಸಮಾಜದ ಪ್ರತಿಕ್ರಿಯೆಗಳು ಇತಿಹಾಸವನ್ನು  ರೂಪಿಸಿವೆ, ವರ್ತಮಾನದ ಜೀವನದ ಮೇಲೂ ಪರಿಣಾಮ ಬೀರುತ್ತಿವೆ.   ಡಾ. ಸಂಜೀವ್‌ ಜೈನ್  ರಂತಹ  ಮನೋವಿಜ್ಞಾನಿಗಳಿಗೆ ಭೂತ-ಪೂರ್ವ ಪಿಡುಗುಗಳು ಮತ್ತು ವರ್ತಮಾನ ಯುಗದ ಸಮಾಜದ ನಡುವಣ ಸಂಬಂಧವು ಕುತೂಹಲ ಕೆರಳಿಸಿದೆ,  ಇವರು ದಕ್ಷಿಣ ಏಷಿಯಾದ ವೈದ್ಯಕೀಯ ಇತಿಹಾಸ ಮತ್ತು ಮಾನಸಿಕ ಆರೋಗ್ಯದ ವಿಷಯದಲ್ಲಿ ವಿಸ್ತೃತ ಅಧ್ಯಯನ ನೆಡೆಸಿದ್ದಾರೆ.**
+speakername: ಸಂಜೀವ್‌ ಜೈನ್
 speakerimage: /static/img/h_co_sec_vis.png
 thumbnailimage: /static/img/H_CO_THUMBNAIL.png
-speakerfield: Psychiatrist
-speakerbio: Sanjeev Jain teaches at the Department of Psychiatry at National
-  Institute of Mental Health And Neurological Sciences (NIMHANS). There, in
-  addition to being a clinician, he researches the genetic and genomic
-  correlates of psychiatric and neurological diseases using both genetic
-  analyses and model systems. He has an abiding interest in studying the
-  symptoms and outcomes of psychoses as well as their social and biological
-  correlates. He has also  studied historical and social responses to mental
-  health issues, including the development of psychiatric care, medical
-  sciences, and health policy in south Asia, from the colonial and post-colonial
-  periods.
+speakerfield: ಮನೋವಿಜ್ಞಾನಿಗಳು
+speakerbio: "**ಸಂಜೀವ್‌ ಜೈನ್ , ರಾಷ್ಟ್ರೀಯ ಮಾನಸಿಕ ಆರೋಗ್ಯ ಮತ್ತು ನರ ವಿಜ್ಞಾನ
+  ಸಂಸ್ಥೆಯಲ್ಲಿ (ನಿಮ್ಹಾನ್ಸ್)‌ ಅಧ್ಯಾಪಕರಾಗಿದ್ದಾರೆ.  ತಪಾಸಣಾ ವೈದ್ಯರಾಗಿ ಸೇವೆ
+  ಸಲ್ಲಿಸುವುದರೊಂದಿಗೆ, ಅನುವಂಶಿಕ  ಮತ್ತು ವಂಶವಾಹಕಗಳಿಂದಾಗಿ, ಮಾನಸಿಕ ಹಾಗೂ ನರ ವೈಜ್ಞಾನಿಕ
+  ರೋಗ ಲಕ್ಷಣಗಳನ್ನು ಅನುವಂಶಿಕ ಪ್ರತಿಕೃತಿಗಳ ಅಧ್ಯಯನ ಹಾಗೂ ವಿಮರ್ಶೆಯ ಮೂಲಕ ಸಂಶೋಧನೆಯ
+  ಕಾರ್ಯದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ.   ಮನೋವಿಕಾರದ ಲಕ್ಷಣಗಳು ಹಾಗೂ, ಸಾಮಾಜಿಕ ಮತ್ತು ಜೈವಿಕ
+  ಜಗತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದ  ಪರಿಣಾಮಗಳ ಅಧ್ಯಯನದಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ ತೋರಿದ್ದಾರೆ.  ಮಾನಸಿಕ
+  ಆರೋಗ್ಯ ಸಮಸ್ಯೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಐತಿಹಾಸಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪ್ರತಿಕ್ರಿಯೆಯ ಅಧ್ಯಯನ
+  ಮಾಡಿದ್ದಾರೆ, ದಕ್ಷಿಣ ಏಷಿಯಾದಲ್ಲಿ, ಸ್ವತಂತ್ರ ಪೂರ್ವ ಮತ್ತು ಸ್ವತಂತ್ರೋತ್ತರ ಕಾಲದ
+  ಮನೋವೈದ್ಯಕೀಯ ಆರೈಕೆ,  ವೈದ್ಯಕೀಯ ವಿಜ್ಞಾನ, ಆರೋಗ್ಯ ನೀತಿಗಳನ್ನು ಕುರಿತ ವಿಷಯದ ಅಧ್ಯಯನ
+  ಮಾಡಿದ್ದಾರೆ.**"
 videosrc: https://player.vimeo.com/video/530275264
 readinglist:
   - quadreadlink: https://fiftytwo.in/story/asylum/
@@ -32,6 +29,7 @@ readinglist:
   - quadreadlink: https://www.bbc.com/worklife/article/20201021-coronavirus-the-possible-long-term-mental-health-impacts
     quadreadtxt: "Coronavirus: The Possible Long-Term Mental Health Impacts"
     quadreadvis: /static/img/H_CO_QUA_READVIS_3.jpg
+permalink: kn/covids/lessons-from-history/
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/6Jk8r31r276ey4gQCfh6G0
     quadlisttxt: Understanding the Enduring Consequences of COVID-19
