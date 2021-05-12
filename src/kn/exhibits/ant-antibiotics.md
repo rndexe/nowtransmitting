@@ -1,7 +1,7 @@
 ---
 layout: ant-antibiotics
 featured: true
-authortype: Team
+authortype: ತಂಡ
 thumb: /static/img/F_Exhibit_Thumbnail.jpg
 title: ಜೀವರೋಧಕಗಳಲ್ಲಿ ಇರುವೆಗಳು
 subtitle: ನಮ್ಮ ರಕ್ಷಣೆಗಾಗಿ ಸೂಕ್ಷ್ಮ ಜೀವಿಗಳು
@@ -19,7 +19,8 @@ essay: >-
   ದಕ್ಷಿಣ ಅಮೇರಿಕಾದ ಎಲೆ ಕಟುಕ ಇರುವೆಗಳು / ಗೊದ್ದಗಳು ತಮ್ಮ ನಿವಾಸ ಗೂಡನ್ನು, ಕ್ರಿಮಿಗಳು
   ಮತ್ತು ಇತರೆ ವೈರಿಗಳಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು, ʼಆರ್ಸೆನಲ್”‌ ಎಂಬ ರಾಸಾಯನಿಕ ದ್ರವವನ್ನು
   ಸೂಸುತ್ತವೆ ಎಂದು ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ  ಮತ್ತು ಈಸ್ಟ್‌ ಏಂಜಲಿಯಾ (ಯೂ.ಏ.ಯಿ) ಸಂಸ್ಥೆಗಳ
-  ಸಂಶೋಧಕರಿಗೆ ತಿಳಿದು ಬಂದಿದೆ.    
+  ಸಂಶೋಧಕರಿಗೆ ತಿಳಿದು ಬಂದಿದೆ.
+
 
   ಎಲೆ ಕಟುಕ ಗೊದ್ದಗಳ (ಕೆಂಜಿಗೆ) ಮೀಸೆಗಳ ಮೇಲೆ ಲಭ್ಯವಾಗುವ ಸೂಕ್ಷ್ಮ ಜೀವಿಗಳು, ʼಆಕ್ಟಿನೋಮೈಸೈಟ್”‌ ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಹೇರಳವಾಗಿ ಹೊಂದಿರುತ್ತವೆ.  ಈ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ವಿವಿಧ ಬಗೆಯ ನೈಸರ್ಗಿಕ ಜೀವರೋಧಕ ಉತ್ಪನ್ನಗಳನ್ನು ಹೊರಹೊಮ್ಮಿಸುತ್ತವೆ.  ಇವುಗಳಲ್ಲಿರುವ ಹಲವು ಜೀವ ರೋಧಕಗಳನ್ನು ಔಷಧ ತಯಾರಿಕೆಗೆ ಬಳಸಲಾಗುತ್ತದೆ.  
 
@@ -56,29 +57,33 @@ essay: >-
 exhibitstream: https://antcam.nbi.ac.uk/view/view.shtml?id=612982&imagepath=%2Fmjpg%2Fvideo.mjpg%3Fcamera%3D1&size=1
 exhibitimages:
   - privis: /static/img/F_EXHIBIT_PRI_VIS_1.jpg
-    pritxt: "Ant fungus garden. Courtesy of the John Innes Centre. "
+    pritxt: "ಗೊದ್ದ – ಶಿಲೀಂದ್ರಗಳ ಉದ್ಯಾನ: ಕೊಡುಗೆ: ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರ "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_2.jpg
-    pritxt: "Ant fungus garden. Courtesy of the John Innes Centre. "
+    pritxt: "ಗೊದ್ದ – ಶಿಲೀಂದ್ರಗಳ ಉದ್ಯಾನ: ಕೊಡುಗೆ: ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರ "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_3.jpg
-    pritxt: "Ant fungus garden. Courtesy of the John Innes Centre. "
+    pritxt: "ಗೊದ್ದ – ಶಿಲೀಂದ್ರಗಳ ಉದ್ಯಾನ: ಕೊಡುಗೆ: ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರ  "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_4.jpg
-    pritxt: "Ant carrying leaf fragments. Courtesy of John Innes Centre. "
+    pritxt: ಎಲೆಗಳ ತುಂಡುಗಳನ್ನು ಒಯ್ಯುತ್ತಿರುವ ಗೊದ್ದಗಳು . ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರದ
+      (ಜೆ.ಐ.ಸಿ) ಕೊಡುಗೆ.
   - privis: /static/img/F_EXHIBIT_PRI_VIS_5.jpg
-    pritxt: "Ant carrying a flower petal. Courtesy of the John Innes Centre. "
+    pritxt: "ಹೂವಿನ ಪಕಳೆಯನ್ನು ಒಯ್ಯುತ್ತಿರುವ ಗೊದ್ದ: ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರದ ಕೊಡುಗೆ.  "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_6.jpg
-    pritxt: "Ant carrying a flower petal. Courtesy of the John Innes Centre. "
+    pritxt: ಹೂವಿನ ಪಕಳೆಯನ್ನು ಒಯ್ಯುತ್ತಿರುವ ಗೊದ್ದ. ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರದ ಕೊಡುಗೆ.
   - privis: /static/img/F_EXHIBIT_PRI_VIS_7.jpg
-    pritxt: "Pseudonocardia on the heads. Courtesy of Kim Findlay, JIC Bioimaging. "
+    pritxt: "ಸೂಡೊನೋಕಾರ್ಡಿಯಾ ಆನ್‌ ದಿ ಹೆಡ್ಸ್:‌ ಕಿಮ್‌ ಫಿಂಡ್ಲೇ, ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌
+      ಕೊಡುಗೆ. "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_8.jpg
-    pritxt: "Pseudonocardia on the heads. Courtesy of Kim Findlay, JIC Bioimaging. "
+    pritxt: "ಸೂಡೊನೋಕಾರ್ಡಿಯಾ ಆನ್‌ ದಿ ಹೆಡ್ಸ್:‌ ಕಿಮ್‌ ಫಿಂಡ್ಲೇ, ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌
+      ಕೊಡುಗೆ. "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_9.jpg
-    pritxt: "Pseudonocardia on the heads. Courtesy of Kim Findlay, JIC Bioimaging. "
+    pritxt: "ಸೂಡೊನೋಕಾರ್ಡಿಯಾ ಆನ್‌ ದಿ ಹೆಡ್ಸ್:‌ ಕಿಮ್‌ ಫಿಂಡ್ಲೇ, ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌
+      ಕೊಡುಗೆ.  "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_10.jpg
-    pritxt: "Acromyrmex echinatior leafcutter ants. Courtesy of Kim Findlay, JIC
-      Bioimaging. "
+    pritxt: ಆಕ್ರೋಮೈರ್ಮೆಕ್ಸ್‌ ಎಖಿನೇಶಿಯರ್‌ ಎಲೆ ಕಟುಕ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು. ಕಿಮ್‌ ಫಿಂಡ್ಲೇ,
+      ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌ ಕೊಡುಗೆ.
   - privis: /static/img/F_EXHIBIT_PRI_VIS_11.jpg
-    pritxt: "Acromyrmex echinatior leafcutter ants. Courtesy of Kim Findlay, JIC
-      Bioimaging. "
+    pritxt: "ಆಕ್ರೋಮೈರ್ಮೆಕ್ಸ್‌ ಎಖಿನೇಶಿಯರ್‌ ಎಲೆ ಕಟುಕ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು.ಕಿಮ್‌ ಫಿಂಡ್ಲೇ,
+      ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌ ಕೊಡುಗೆ. "
 exhibitauthor:
   - authorimage: /static/img/F_EXHIBIT_SEC_VIS_2.jpg
     authorname: "ಬ್ಯಾರಿ ವಿಲ್ಕಿನ್ಸನ್‌ "
