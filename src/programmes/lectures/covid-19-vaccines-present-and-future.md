@@ -18,12 +18,22 @@ expertname: Gagandeep Kang
 expertpic: /static/img/pl_gagandeep_portrait.png
 readinglist:
   - quadreadvis: /static/img/O_PL_QUA_READVIS_1.jpg
+    quadreadtxt: "Vaccination in India: A Historical Enquiry through Comics"
+    quadreadlink: https://drawinghistoryofscience.wordpress.com/2021/04/01/vaccination-in-india-a-historical-inquiry-through-comics/
   - quadreadvis: /static/img/O_PPL_QUA_READVIS_2.jpg
+    quadreadtxt: COVID-19 Vaccination Charts, Maps And Eligibility By Country
+    quadreadlink: https://graphics.reuters.com/world-coronavirus-tracker-and-maps/vaccination-rollout-and-access/
   - quadreadvis: /static/img/O_PL_QUA_READVIS_3.jpg
+    quadreadlink: https://openthemagazine.com/essay/vaccine-vexations/
+    quadreadtxt: "Vaccine Vexations "
 listeninglist:
   - quadlistvis: /static/img/O_PL_QUA_LISTVIS_1.jpg
+    quadlisttxt: Getting A Coronavirus Reality Check
+    quadlistlink: https://open.spotify.com/episode/7aKaGqjoLxjJpLQP5zpFD4
 watchinglist:
   - quadwatchvis: /static/img/O_PL_QUA_WATCHVIS_1.jpg
+    quadwatchlink: https://www.youtube.com/watch?v=0sXjcKcBJc8
+    quadwatchtxt: Prof. Gagandeep Kang Talks About The Rotavirus Vaccine Story
 eventlist:
   - quadeventtxt: Everything You Wanted To Know About Non-Western Covid Vaccines But
       Were Afraid To Ask
