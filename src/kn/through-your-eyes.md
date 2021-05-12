@@ -1,15 +1,14 @@
 ---
 promptd: Isolation
-layout: rooms/throughyoureyes
 kannada: true
-title: Through your Eyes
+layout: rooms/throughyoureyes
+title: ನಿಮ್ಮ ದೃಷ್ಟಿಯಲ್ಲಿ
 description: >-
-  With the pandemic reducing physical contact between people, photographs and
-  images have now become crucial to stay connected, to convey our emotions, and
-  to document unprecedented events in our lives. 
+  ರೋಗ ಪಿಡುಗಿನ ನಡುವೆ,  ಪ್ರತಿಯೊಬ್ಬರೂ ಸಾಮಾಜಿಕ ಅಂತರ ಪಾಲಿಸಬೇಕಾದ ಸಂದರ್ಭದಲ್ಲಿ,
+  ಛಾಯಾಚಿತ್ರಗಳು ಮತ್ತು ಪ್ರತಿಕೃತಿಗಳು ನಮ್ಮನ್ನು ಒಟ್ಟಾಗಿಡಲು, ಭಾವನೆಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು,
+  ನಮ್ಮ ಜೀವನದ ಅಭೂತಪೂರ್ವ ಕ್ಷಣಗಳನ್ನು ದಾಖಲಿಸಲು, ಬಹಳ ಮುಖ್ಯವಾಗಿವೆ.
 
-
-  Look at the photos shared with us, and tell us what clicks with you.
+  ನಮ್ಮೊಂದಿಗೆ ಹಂಚಿಕೊಂಡಿರುವ ಈ ಛಾಯಾ ಚಿತ್ರಗಳನ್ನು ನೋಡಿ, ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವನ್ನು ತಿಳಿಸಿ.
 icon: /static/img/through-your-eyes.svg
 prompta: Behind the Mask
 promptb: Bubble
