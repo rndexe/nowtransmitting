@@ -43,12 +43,12 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=0sXjcKcBJc8
     quadwatchtxt: Prof. Gagandeep Kang Talks About The Rotavirus Vaccine Story
 eventlist:
-  - quadeventtxt: Everything You Wanted To Know About Non-Western Covid Vaccines But
-      Were Afraid To Ask
+  - quadeventtxt: ಪೂರ್ವ ದೇಶಗಳಲ್ಲಿ ಉತ್ಪಾದಿತ ಕೋವಿಡ್‌ ಲಸಿಕೆಗಳ ಬಗೆಗೆ ಹಿಂಜರಿಕೆ, ನೀವು
+      ಅರಿಯಲು ಬಯಸಿದ್ದ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೂ ಸೂಕ್ತ ಸಮಾಧಾನ | ಉಪನ್ಯಾಸ | ಅಚಲ ಪ್ರಭಾಲ
     quadeventlink: https://www.eventbrite.com/e/145399912051
     quadeventvis: /static/img/pl_achal.png
 relatedlist:
-  - quadrelatedtxt: COVID-19 Indoor Safety Guideline
+  - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
 ---
