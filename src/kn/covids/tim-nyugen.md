@@ -1,0 +1,43 @@
+---
+title: "ಮಾಹಿತಿ   ಹರಿವು ನಿರ್ವಹಣೆ "
+desc: ವಿಶ್ವದೆಲ್ಲೆಡೆ ಕೋವಿಡ್-19 ಹರಡುವುದರ ಜೊತೆಗೆ, ಈ ರೋಗದ ಬಗೆಗೆ ಅನೇಕ ತಪ್ಪು ಮಾಹಿತಿಗಳೂ
+  ಹರಡಿ ಬಿಟ್ಟಿವೆ.  ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ರಕ್ಷಣೆಗೆ ವಿಶ್ವಾಸಾರ್ಹ ವೈಜ್ಞಾನಿಕ ಸಾಕ್ಷಿಗಳು,
+  ಮುಖ್ಯವಾಗಿರುವ ಸಂದರ್ಭದಲ್ಲಿ, ಹಲವು ಸುಳ್ಳು ಸುದ್ದಿಗಳು, ತಪ್ಪು ಅಭಿಪ್ರಾಯಗಳು, ಊಹಾಪೋಹಗಳು
+  ವೇಗವಾಗಿ ವ್ಯಾಪಿಸಿವೆ.   ಶ್ರೀ ಟಿಮ್‌ ಗ್ಯೂಯನ್ ಅಂತಹ ಸಂಶೋಧಕರು, ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯ
+  ತುರ್ತು ಸ್ವಾಸ್ಥ್ಯ ಕಾರ್ಯಕ್ರಮಗಳ ಮೂಲಕ ಇಂತಹ ಮಾಹಿತಿಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಕಾರ್ಯದಲ್ಲಿ
+  ದಿನ-ರಾತ್ರಿ ತೊಡಗಿದ್ದಾರೆ.
+speakername: ಟಿಮ್‌ ಗ್ಯೂಯನ್
+speakerimage: /static/img/L_CO_SEC_VIS.jpg
+thumbnailimage: /static/img/L_CO_THUMBNAIL.png
+speakerfield: "ಮಾಹಿತಿ ಹರಿವು ನಿರ್ವಾಹಕರು "
+speakerbio: ಟಿಮ್‌ ಗ್ಯೂಯನ್, ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯ ತುರ್ತು ಸ್ವಾಸ್ಥ್ಯ ಕಾರ್ಯಕ್ರಮಗಳ,
+  ʼಜಾಗತಿಕ ಸಾಂಕ್ರಾಮಿಕ ಕುಪ್ರಭಾವ ತಯಾರಿʼ ವಿಭಾಗದ, ʼಅತಿ ಹೆಚ್ಚು ಪ್ರಭಾವಪೂರ್ಣ ಪ್ರಕರಣಗಳ
+  ಘಟಕʼದ ಮುಖ್ಯಸ್ಥರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ. ಇವರ ತಂಡವು ರೋಗ ಮಹಾಮಾರಿಗಳಿಗೆ
+  ಸಂಬಂಧಿಸಿದ ಮಾಹಿತಿ ಜಾಲತಾಣವನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ. ಈ  ಘಟಕವು, ʼಇಂಫ್ಲುಯೆಂಜಾ ಮತ್ತು
+  ಸ್ಮಾಲ್ಪಾಕ್ಸ್‌ʼ ಅಂತಹ ರೋಗ ಮಹಾಮಾರಿಗಳನ್ನೂ ಒಳಗೊಂಡಂತೆ ಕ್ರಮಬದ್ಧವಾಗಿ ವೈಶ್ವಿಕ ಔಷಧ
+  ನಿರ್ವಹಣೆಯ ಮಾಧ್ಯಮ ಹಾಗೂ  ತುರ್ತು ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ರೋಗಗಳ ಬಗೆಗೆ ಮಾಹಿತಿ ಸಾಂದ್ರತೆಯನ್ನು
+  ನಿರ್ವಹಿಸುವ ವೇದಿಕೆಯಾಗಿದೆ.
+videosrc: https://player.vimeo.com/video/541533684
+readinglist:
+  - quadreadlink: https://www.jmir.org/2020/6/e19659/
+    quadreadtxt: ಪ್ರೇಂವರ್ಕ್‌ ಪಾ಼ರ್ ಮ್ಯಾನೇಜಿಂಗ್‌ ಇನ್ಫರ್‌ ಮೇಶನ್
+    quadreadvis: /static/img/L_CO_QUA_READVIS_1.jpg
+  - quadreadlink: https://www.who.int/news-room/feature-stories/detail/immunizing-the-public-against-misinformation
+    quadreadtxt: ಇಮ್ಯೂನೈಸಿಂಗ್‌ ದಿ ಪಬ್ಲಿಕ್‌
+    quadreadvis: /static/img/L_CO_QUA_READVIS_2.jpg
+  - quadreadlink: https://www.theguardian.com/commentisfree/2020/mar/03/coronavirus-conspiracy-theories-virus-social-media
+    quadreadtxt: ಸ್ಪ್ರೆಡ್‌ ಆಫ್ ಕಾನ್ಸ್ಪಿರಸಿ ಥಿಯರೀಸ್‌
+    quadreadvis: /static/img/L_CO_QUA_READVIS_2.jpg
+permalink: kn/covids/managing-infodemics/
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/2YooSretkFTX53wdUaqepa
+    quadlisttxt: "ಮಿಸ್‌ ಇಂಫರ್ಮೇಶನ್‌ ಪ್ಯಾಂಡಮಿಕ್‌ "
+    quadlistvis: /static/img/L_CO_QUA_LISTVIS_1.jpg
+  - quadlistlink: https://open.spotify.com/episode/3r2mabPMpZk9RtbptfJXGa
+    quadlisttxt: ಮಿಸ್‌ ಇನ್ಫರ್ಮೆಶನ್‌ ಮೇಲ್‌ ಬ್ಯಾಗ್‌
+    quadlistvis: /static/img/L_CO_QUA_LISTVIS_2.jpg
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=EjixdgNz7cU&feature=youtu.be&ab_channel=purnatt
+    quadwatchtxt: ಡಬಲ್ಯು ಹೆಚ್‌ ಒ ಇನ್ಪಹೊಡೆಮಿಕ್‌ ಮ್ಯಾನೆಜ್ಮೆನ್ಟ್‌
+    quadwatchvis: /static/img/L_CO_QUA_WATCHVIS_2.jpg
+---

@@ -1,0 +1,17 @@
+---
+permalink: lp_json/kn_programme_data.json
+---
+[
+  {% for post in collections.kn_programme  %}
+    {% set data = post.data %}
+    {
+      "title": "{{ data.title }}",
+      "date": "{{ data.date.toDateString() }}",
+      "time": "{{ data.date.toTimeString() }}",
+      "type":"{{data.tags}}",
+      "link":"{{data.link}}",
+      "url": "{{ post.url }}",
+      "thumbnail": "{{ post.data.thumb }}"
+    }{{ '' if loop.last else ',' }}
+  {% endfor  %}
+]

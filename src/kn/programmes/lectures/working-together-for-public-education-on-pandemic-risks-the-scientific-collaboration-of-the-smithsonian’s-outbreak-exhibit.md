@@ -1,6 +1,6 @@
 ---
-title: "Working Together For Public Education On Pandemic Risks: The Scientific
-  Collaboration Of The Smithsonian’s Outbreak Exhibit"
+title: ರೋಗ ಪಿಡುಗುಗಳಿಂದ ಉಂಟಾಗುವ ವಿಪತ್ತುಗಳನ್ನು ಎದುರಿಸಲು ಸಾರ್ವಜನಿಕ ಅರಿವು
+  :ಸ್ಮಿತ್ಸೋನಿಯನ್‌ ನ ರೋಗ ಸ್ಫೋಟ ಪ್ರದರ್ಶಿಕೆ ಯ ವೈಜ್ಞಾನಿಕ ಸಹಭಾಗಿತ್ವ
 permalink: kn/programmes/lectures/public-education-on-pandemic-risks/
 cata: hindsight
 catb: documenting
@@ -8,25 +8,29 @@ thumb: /static/img/h_exhibit_qua_atnvis_1.jpg
 cover: /static/img/U_PL_Coverimage.jpg
 date: 2021-06-11T13:00:55.795Z
 description: >-
-  Since 2018, the Smithsonian’s exhibit ‘Outbreak: Epidemics in a Connected
-  World’ has demonstrated the power of museums in public education about
-  pandemic risks. For the National Museum of Natural History, the exhibit has
-  been a remarkable success made possible by the extraordinary support of
-  scientific partners and collaborators in the global health community.
+  ರೋಗ ಪಿಡುಗುಗಳಿಂದ ಉಂಟಾಗುವ ವಿಪತ್ತುಗಳ ಬಗೆಗೆ ಸಾರ್ವಜನಿಕ  ಅರಿವನ್ನು ಮೂಡಿಸುವಲ್ಲಿ 
+  ಪ್ರದರ್ಶನಾಲಯಗಳು ಸಮರ್ಪವಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತವೆ ಎಂಬುದಕ್ಕೆ, 2018  ರಿಂದಲೂ 
+   ಪ್ರದರ್ಶಿತವಾಗುತ್ತಿರುವ, ಸ್ಮಿತ್ಸೋನಿಯನ್‌  ನ:”ಔಟ್ ಬ್ರೇಕ್‌ : ಎಪಿಡೆಮಿಕ್ಸ್‌ ಇನ್‌ ಎ
+  ಕನೆಕ್ಟೆಡ್‌ ವರ್ಲ್ಡ್”  ಪ್ರದರ್ಶಿಕೆಯು, ನಿದರ್ಶನವಾಗಿದೆ . ಜಾಗತಿಕ ಆರೋಗ್ಯ ಸಮುದಾಯದ
+  ಸಹಕಾರದಲ್ಲಿ, ವೈಜ್ಞಾನಿಕ ಸಹಯೋಗ ಮತ್ತು ಸಹಭಾಗಿತ್ವದ ಮೂಲಕ ದೊರೆತ ಅಪಾರ ಬೆಂಬಲದ ಪರಿಣಾಮ
+  ಸ್ವರೂಪವಾಗಿ ನೈಸರ್ಗಿಕ ಇತಿಹಾಸವಿರುವ ರಾಷ್ಟ್ರೀಯ ಸಂಗ್ರಹಾಲಯದ ಪ್ರದರ್ಶಿಕೆಗೆ, ಗಮನಾರ್ಹವಾದ
+  ಸಫಲತೆ ದೊರಕಿದೆ.  
 
 
-  In this lecture, Sabrina Sholts, the curator of the ‘Outbreak’ exhibit, will discuss how she and her team worked with countless experts—from infectious disease physicians like Daniel Lucey (Georgetown University) to wildlife veterinarians like Jonathan Epstein (EcoHealth Alliance) to government scientists like Anthony Fauci (National Institutes of Health)—to help people understand how novel viruses emerge and spread in our interconnected world. She will share insights into a process of science communication that began before the COVID-19 pandemic started and continues as this new disease, and those yet to come, remain threats to us all.
+  ಮಾನವರು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಪರಸ್ಪರ ಅವಲಂಬಿಸಿರುವ ಈ ವಿಶ್ವದಲ್ಲಿ , ಹೊಸ ಬಗೆಯ ವೈರಾಣುಗಳು ಹೇಗೆ ಉಗಮಿಸಿ,   ಹರಡುತ್ತವೆ, ಎಂಬುದನ್ನು ಸಾರ್ವಜನಿಕರಿಗೆ ಅರ್ಥವಾಗುವಂತೆ ವಿವರಿಸಿ ತಿಳಿಸುವ ಸಲುವಾಗಿ, “ಔಟ್ ಬ್ರೇಕ್‌” ಪ್ರದರ್ಶಿಕೆಯ ವ್ಯವಸ್ಥಾಪಕರಾದ ಡಾ.ಶೋಲ್ಟ್ಸ್ ಮತ್ತು ತಂಡದ ಸದಸ್ಯರು, ಈ ಪ್ರದರ್ಶಿಕೆಯನ್ನು ಸಜ್ಜುಗೊಳಿಸಲು, ರೋಗ ತಜ್ಞ ವೈದ್ಯರಾದ ಡೇನಿಯಲ್‌ ಲೂಸೀ, (ಜಾರ್ಜ್‌ ಟೌನ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ), ಸರ್ಕಾರಿ ವಿಜ್ಞಾನಿಗಳಾದ ಆಂಟನಿ ಫೌಸಿ (ರಾಷ್ಟ್ರೀಯ ಆರೋಗ್ಯ ಸಂಸ್ಥೆ) , ಮುಂತಾದ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಹಲವು ತಜ್ಞರೊಂದಿಗೆ ಸಂವಾದ ನೆಡೆಸಿ ಯಾವ ಬಗೆಯಲ್ಲಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸ ಬೇಕಾಯಿತು ಎಂದು ಈ ಉಪನ್ಯಾಸದಲ್ಲಿ ವಿವರಿಸಲಿದ್ದಾರೆ.
 link: http://bit.ly/lecture-sholts
-expertname: Sabrina Sholts
-expertbio: "Sabrina Sholts is a Curator of Biological Anthropology at the
-  Smithsonian’s National Museum of Natural History in Washington, D.C. She is
-  the Lead Curator of the Outbreak: Epidemics in a Connected World exhibition,
-  and a World Economic Forum Young Scientist. As a biological anthropologist,
-  she uses museum collections to study intersections of human, animal, and
-  environmental health in the past and present. She received her PhD in
-  Anthropology at UC Santa Barbara and completed her postdoctoral work at UC
-  Berkeley in the Department of Integrative Biology and at Stockholm University
-  in the Department of Biophysics and Biochemistry."
+expertname: ಸಬ್ರೀನಾ ಶೋಲ್ಟ್ಸ್
+expertbio: 'ಡಾ.ಸಬ್ರೀನಾ ಶಾಲ್ಟ್ಸ್, “ ಔಟ್‌ ಬ್ರೇಕ್‌ : ”ವಾಶಿಂಗ್ಟನ್‌ ಡಿ.ಸಿ ಯಲ್ಲಿ ,
+  ಸ್ಮಿತ್ಸೋನಿಯನ್‌ ರಾಷ್ಟ್ರೀಯ  ಪ್ರಾಕೃತಿಕ ಇತಿಹಾಸ ಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ಜೀವ ಮಾನವಶಾಸ್ತ್ರದ
+  ವ್ಯವಸ್ಥಾಪಕರಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ. “ದಿ ಔಟ್‌ ಬ್ರೇಕ್:‌ ಎಪಿಡೆಮಿಕ್ಸ್‌ ಇನ್‌ ಎ
+  ಕನೆಕ್ಟೆಡ್‌ ವರ್ಲ್ಡ್‌ " ಪ್ರದರ್ಶನದ ಮುಖ್ಯ  ವ್ಯವಸ್ಥಾಪಕರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸಿದ್ದಾರೆ.
+  ಇವರು ವಿಶ್ವ ಆರ್ಥಿಕ ಫೋರಮ್‌ ನ ಯುವ ವಿಜ್ಞಾನಿ ಸಹ ಆಗಿದ್ದಾರೆ.  ಜೀವ ಮಾನವ ಶಾಸ್ತ್ರಜ್ಞ
+  ರಾಗಿರುವ ಕಾರಣ, ಸಂಗ್ರಹಾಲಯದಲ್ಲಿರುವ ಸಂಗ್ರಹಣೆಯನ್ನು, ಗತ ಕಾಲದಲ್ಲಿ ಹಾಗೂ ವರ್ತಮಾನದಲ್ಲಿ,
+  ಮಾನವರು, ಪ್ರಾಣಿಗಳು ಮತ್ತು ಪರಿಸರ ಆರೋಗ್ಯದ  ನಡುವಣ ಘನಿಷ್ಠ ಸಂಬಂಧದ ಬಗೆಗೆ ಅಧ್ಯಯನ
+  ನೆಡೆಸಲು ಬಳಸುತ್ತಾರೆ.  ಯೂ.ಸಿ ಸಾಂತಾ ಬರ್ಬರಾ  ದಲ್ಲಿ ಮಾನವ ಶಾಸ್ತ್ರದಲ್ಲಿ ಪಿ.ಎಚ್‌.ಡಿ
+  ಪದವಿ ಪಡೆದಿದ್ದಾರೆ. ಬರ್ಕಲಿ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಸಮಗ್ರ ಜೀವ ಶಾಸ್ತ್ರ ವಿಭಾದಲ್ಲಿ ಹಾಗೂ
+  ಸ್ಟಾಕ್ಹೋಮ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಜೀವ ಭೌತಶಾಸ್ತ್ರ ಮತ್ತು ಜೀವ ರಾಸಾಯನಿಕ ಶಾಸ್ತ್ರದ
+  ವಿಭಾಗದಲ್ಲಿ, ಡಾಕ್ಟರಲ್‌ ನಂತರದ ಸಂಶೋಧನೆಯನ್ನು ಮಾಡಿದ್ದಾರೆ.'
 expertpic: /static/img/pl_sabrina_portrait.png
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/why-this-pandemic-wont-be-last-180977135/
@@ -51,17 +55,18 @@ watchinglist:
     quadwatchvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-ramakrishnan
-    quadeventtxt: One Health | Lecture by Uma Ramakrishnan
+    quadeventtxt: One Health | ಉಪನ್ಯಾಸ | Uma Ramakrishnan
     quadeventvis: /static/img/pl_uma.png
-  - quadeventtxt: "Contagion Across Species: Global Histories and Ecologies of
-      Zoonotic Diseases | Lecture by Michael Bresalier"
+  - quadeventtxt: "ಪ್ರಭೇದಗಳ ನಡುವೆ ವ್ಯಾಪನಗಳು: ಪ್ರಾಣಿ-ಪಕ್ಷಿ ಮೂಲದಿಂದ ಹರಡುವ ರೋಗಗಳ
+      ಪರಿಸರಗಳು ಮತ್ತು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಜಾಗತಿಕ ಇತಿಹಾಸ | ಉಪನ್ಯಾಸ | ಮೈಖೇಲ್‌
+      ಬ್ರಸೇಲಿಯರ್‌"
     quadeventlink: https://www.eventbrite.com/e/145405729451
     quadeventvis: /static/img/pl_michael.png
 relatedlist:
-  - quadrelatedtxt: 2020 Vision by Robert Good
+  - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedtxt: THERIAK | The Disease Map by Sarah Craske
+  - quadrelatedtxt: ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ | ಸಾರಾ ಕ್ರಾಸ್ಕ್
     quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
     quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---

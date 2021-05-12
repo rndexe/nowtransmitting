@@ -1,7 +1,8 @@
 {
-    "layout" : "programmes/layout_workshops",
-    "path" : "kn-workshops",
+    "layout" : "programmes/layout_lecture",
+    "kannada" : "true",
+    "path" : "workshops",
     "tags": [
-        "kn-workshop", "kn-programme"
+        "kn_workshop", "kn_programme"
     ]
 }

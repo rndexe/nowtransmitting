@@ -1,0 +1,102 @@
+---
+layout: default
+path: about
+---
+
+<body class="overflow-hidden bg-white" >
+    <div class="menu-container" id="menu-container">
+
+	<main class="block lg:flex lg:flex-col">
+
+		<div class="w-screen fixed">
+			<div class="bg-gray-500">
+                <!-- top navbar for about page  -->
+                <!-- lg:flex -->
+
+                {% include "./_includes/partials/navbar.html" %}
+                {% include "./_includes/partials/menu.html" %}
+
+                <div class="ml-20 h-screen bg-trueGray-750" > 
+                   
+                    <div id="main" class="flex flex-col lg:flex-row overflow-y-hidden overflow-x-hidden w-auto h-screen bg-white scroll-snap"> 
+                        <!-- {% include "./_includes/partials/navbar_top.html" %} -->
+                        {{ content | safe }}
+                        {% include "./_includes/partials/mediator-sessions.html" %}
+                    </div>
+                </div>
+                
+			</div>
+		</div>
+	</main>
+    </div>
+</body>
+{% if path == "home" %}
+<!-- Netlify Identity Widget -->
+<!-- Needed only if you are using Netlify Identity feature -->
+<script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{% endif %}
+<script src="/static/js/menu.js"></script>
+
+<link rel="stylesheet" href="/static/css/about.css">
+<!-- <script type="text/javascript" src="/static/js/exhibit_scroll.js"></script> -->
+<script>
+    var main = document.getElementById('main')
+    main.addEventListener('wheel', (e) => {
+        main.scrollLeft += e.deltaY;
+    });
+
+    const scrollTo = (href) => {
+        let targetId = href.split("#").reverse()[0]
+        // console.log(targetId);
+        document.getElementById(targetId).scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"})
+    }
+
+    
+
+    $('#main').scroll(function() {
+        var position = $(this).scrollLeft() + scrollOffset;
+        // console.log();
+
+        // $('#main > .section').each(function() {
+        //     var target = $(this).offset().left;
+        //     var id = "#" + $(this).attr('id');
+            
+        //     // console.log(document.querySelectorAll('#nav-items > li > a[href="' + id + '"]'));
+        //     if (position >= target) {
+        //         // console.log(id, position, target);
+        //         $('#nav-items > li > a').removeClass('text-red-650');
+        //         $('#nav-items > li > a[href="' + id + '"]').addClass('text-red-650');
+        //     }
+        // });
+
+        var offsets = [];
+        $('#main > .section').each(function() {
+                // calculate difference from offset
+                let diff = $(this).offset().left - scrollOffset;
+                var id = "#" + $(this).attr('id');
+                diff = Math.abs(diff);
+                offsets.push({id: id, diff: diff});
+        });
+
+        let diffs = [];
+        for(let i = 0; i < offsets.length; i++) {
+            diffs.push(offsets[i].diff);
+        }
+        var leastDiff = Math.min(...diffs);
+        console.log(leastDiff);
+
+        var idToHighlight = '';
+        for(let i = 0; i < offsets.length; i++) {
+            let o = offsets[i];
+            if(o.diff == leastDiff) {
+                idToHighlight = o.id;
+                break;
+            }
+        }
+    });
+
+    
+
+    
+    
+</script>

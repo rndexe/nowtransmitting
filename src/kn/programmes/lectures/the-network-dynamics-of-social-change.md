@@ -1,5 +1,5 @@
 ---
-title: "The Network Dynamics of Social Change "
+title: "No kand- The Network Dynamics of Social Change "
 permalink: kn/programmes/lectures/the-network-dynamics-of-social-change/
 cata: transmission
 catb: experimenting
@@ -67,14 +67,14 @@ eventlist:
       Richardson
     quadeventlink: http://bit.ly/event-richardson
     quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
-  - quadeventtxt: Keep Calm and Spot the Design Tricks | Workshop by Louise Hisayasu
+  - quadeventtxt: ತಾಳ್ಮೆಯಿಂದ ವಿನ್ಯಾಸದ ತಂತ್ರಗಳನ್ನು ಪತ್ತೆ ಮಾಡಿ | ಕಾರ್ಯಾಗಾರ | ಲುಯಿಸ್ ಹಿಸಾಯಸು
     quadeventlink: http://bit.ly/workshop-hisayasu
     quadeventvis: /static/img/g_exhibit_qua_atnvis_2.jpg
 relatedlist:
-  - quadrelatedtxt: The Chameleon Project by Tina Gonsalves
+  - quadrelatedtxt: ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ | ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
-  - quadrelatedtxt: "2020 Vision by Robert Good "
+  - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
