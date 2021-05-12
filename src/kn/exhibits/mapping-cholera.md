@@ -25,19 +25,15 @@ subtitle: "ಖಾಲೆರಾ ಇತಿಹಾಸಗಳ ಅಧ್ಯಯನದ ನ
 medium: Interactive Maps
 year: "2014"
 description: >-
-  The Mapping Cholera project looks at two cholera epidemics almost two
-  centuries apart: one in 1832 in New York and the other in 2010 in Haiti. The
-  epidemic in Haiti was the worst cholera outbreak in recent history and it left
-  the country reeling. The spread of the disease, unlike during the epidemic in
-  New York, was diligently documented by Doctors Without Borders and Sonia Shah.
-  The challenge was to digitally map the New York epidemic that took place two
-  decades before John Snow’s famous mapping of cholera in London (1854). Sonia
-  took historical records from doctors of the time and combined them with 19th
-  century maps of the city, which had been geocoded by the New York Public
-  Library.
+  ಅನೇಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಕಾರಕಗಳ ಸತತ ಉಳಿವು, ಪುನರಾವರ್ತನೆ ಮತ್ತು ಅನುವಂಶಿಕ ಬದಲಾವಣೆಯ 
+  ಸ್ವರೂಪ, ಹೀಗೆ, 21 ನೇ ಶತಮಾನದ ʼ ರೋಗ ಪಿಡುಗು ಕಥನ” ವು ಗಂಭೀರ ಸಮಸ್ಯೆಯ ರೂಪ ತಾಳಿದೆ.  21
+  ನೇ ಶತಮಾನದ ಆದಿಯಿಂದ ಹಿಡಿದು, ಇಲ್ಲಿಯವರೆಗೂ ಪರಸ್ಪರ ಘನಿಷ್ಠ ಸಂಬಂಧವಿರುವ ಜಾಗತಿಕ ರೋಗ
+  ಪಿಡುಗುಗಳು ಸರಣಿಯಲ್ಲಿ ಸಂಭವಿಸಿರುವುದರಿಂದ, ಆಗಿಂದಾಗ್ಗೆ  ಕಾಡುವ ಈ ರೋಗಗಳ ಪ್ರಾರಂಭಿಕ ಹಂತ,
+  ಅತಿ ಅಪಾಯಕಾರಿ ವಿಪತ್ತಿನ ಹಂತ ಮತ್ತು ಅಂತ್ಯ ಸ್ವರೂಪವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುವುದು
+  ಕಷ್ಟಕರವಾಗಿದೆ. 
 
 
-  In mapping the two cholera outbreaks, this project allows us to visualise the spread of the disease, the differences and similarities between the two epidemics, and renders visible the magnitude and scale of this disease.
+  ಯೂರೋಪ್‌ ನ‌ ಪೂರ್ವ ಭಾಗಕ್ಕಿರುವ ದೇಶಗಳ ದೃಷ್ಟಿಕೋನದಿಂದ, ಪೋಲಿಯೋ ಲಸಿಕೆ ಮತ್ತು ಚಿಕಿತ್ಸೆಯ ಇತಿಹಾಸದ ಒಳನೋಟ ಮತ್ತು ವಿಮರ್ಶೆಯು, ರೋಗ ಪಿಡುಗಿನ ಅಂತ್ಯವನ್ನು ನಿರ್ಧರಿಸಲು ಸಹಕಾರಿಯಾಗ ಬಹುದು.  ಯಾವಾಗ, ಹೇಗೆ ಮತ್ತು ಎಂಥವರಿಗೆ ಈ ರೋಗಗಳು  ತಗಲುವುದಿಲ್ಲ, ರೋಗ ಪಿಡುಗಿನ ಅಂತ್ಯ ಹೇಗೆ ಮತ್ತು ತದನಂತರದ ಸ್ಥಿತಿ ಏನು ಎಂಬುದರ ಬಗೆಗೆ ಡಾ.ಡೋರಾ ವರ್ಘ ಉಪನ್ಯಾಸ ನೀಡಲಿದ್ದಾರೆ
 readinglist:
   - quadreadlink: https://m.dailyhunt.in/news/bangladesh/english/the+federal+english-epaper-thefeden/contact+tracing+hotspots+and+plodding+through+sewers+cholera+in+bangalore+1895-newsid-n179325830
     quadreadtxt: "1895 ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸಂಭವಿಸಿದ ಖಾಲೆರಾ ರೋಗ: ಸೋಂಕನ್ನು ಪತ್ತೆ
@@ -61,10 +57,10 @@ watchinglist:
     quadwatchtxt: ಖಾಲೆರಾದಿಂದ ಎಬೋಲಾವರೆಗೂ ಮತ್ತು ಅದರಿಂದಾಚೆಗೆ, ಸಾಂಕ್ರಾಮಿಕದ ಜಾಡು
     quadwatchvis: /static/img/k_exhibit_qua_watchvis_1.jpg
 eventlist:
-  - quadeventtxt: Drawing the Bombay Plague | Workshop by Ranjit Kandalgaonkar
+  - quadeventtxt: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ (ಪ್ರೇರಿತ) ಚಿತ್ರಾಕೃತಿ | ಕಾರ್ಯಾಗಾರ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/drawing-from-the-bombay-plague-workshop-registration-148222681029
-  - quadeventtxt: Outbreak | Lecture by Sabrina Sholts
+  - quadeventtxt: ವೈಜ್ಞಾನಿಕ | ಉಪನ್ಯಾಸ | ಸಬ್ರೀನಾ ಶಾಲ್ಟ್ಸ್‌
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/148315625027
 relatedlist:
