@@ -27,22 +27,21 @@ speakerbio: >-
 videosrc: https://player.vimeo.com/video/544446414
 readinglist:
   - quadreadlink: http://www.medanthrotheory.org/index.php/mat/article/view/5033
-    quadreadtxt: The ‘Fake Probe’ in Global Health
+    quadreadtxt: ಪೇ಼ಕ್‌ ಪ್ರೊಬ್‌ ಇನ್‌ ಗ್ಲೋಬಲ್ ಹೆಲ್ಥ್‌
     quadreadvis: /static/img/M_CO_QUA_READVIS_2.jpg
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/09581596.2019.1605155
-    quadreadtxt: Why the Pseudo Matters to Global Health
+    quadreadtxt: ವೈ ಸ್ಯೂಡೊ ಮ್ಯಾಟರ್ಸ್‌
     quadreadvis: /static/img/M_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://theconversation.com/misinformation-tech-companies-are-removing-harmful-coronavirus-content-but-who-decides-what-that-means-144534
-    quadreadtxt: Tech Companies are Removing ‘Harmful’ Coronavirus Content – But who
-      Decides what that Means?
+    quadreadtxt: ರಿಮೂವಿಂಗ್‌ ಕೋವಿಡ್‌ ಕಾನ್ಸ್ಪಿರಸೀಸ್‌
     quadreadvis: /static/img/M_CO_QUA_READVIS_3.jpg
 permalink: kn/covids/fakes-facts-in-pandemic/
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/3K3x3KvmzCPzHtI64mEdbh?si=T5spec15RGao0ithDHmdEg
-    quadlisttxt: Exploring the Genuine Fake
+    quadlisttxt: ಎಕ್ಸ್ಪ್ಲೊರಿಂಗ್ ಜೆನ್ಯೂಯಿನ್‌ ಫೇಕ್ಸ್‌
     quadlistvis: /static/img/M_CO_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=_oOQOse8clE
-    quadwatchtxt: Who Holds the Power in Global Health?
+    quadwatchtxt: "ಹೂ ಹೋಲ್ಡ್ಸ್‌ ದಿ ಪವರ್‌ "
     quadwatchvis: /static/img/M_CO_QUA_WATCHVIS_1.jpg
 ---
