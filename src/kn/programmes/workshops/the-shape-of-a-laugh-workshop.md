@@ -1,5 +1,5 @@
 ---
-title: ದಿ ಶೇಪ್‌ ಆಫ್‌ ಎ ಲಾಫ್‌
+title: ನಗುವಿನ ರೂಪ
 permalink: kn/programmes/workshops/the-shape-of-a-laugh/
 cata: transmission
 catb: documenting
