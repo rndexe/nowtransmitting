@@ -48,7 +48,7 @@ exhibitimages2:
       ದಾಖಲೆಗಳಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ
     privis: /static/img/O_EXHIBIT_PRI_VIS_13.jpg
 quadreadvis: ""
-authortype: Team
+authortype: ತಂಡ
 year: "2019"
 description: >-
   ಗತ ರೋಗ ಪಿಡುಗುಗಳ ನಿಯಂತ್ರಣ  ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ನಿರ್ವಹಣೆಯಲ್ಲಿ ಅಡಗಿರುವ ವಿಜ್ಞಾನ
@@ -88,25 +88,22 @@ essay: >-
   *(Photos: Koch’s cholera map (tracing sea routes of transmission), city map of Kolkata  during Koch’s time)* 
 
 
-  **ಒಂದು ಕಾಲದಲ್ಲಿ ಭಯಾನಕ ವಿಪತ್ತುಗಳಾಗಿ ಸಂಭವಿಸಿದ್ದ ರೋಗ ಪಿಡುಗುಗಳು ಇಂದಿಗೂ ತಮ್ಮದೇ ರೀತಿಯಲ್ಲಿ ವಿಪತ್ತುಗಳಾಗಿಯೇ ಉಳಿದಿವೆ.  ಈಗ ನಾವು ಜಾಗತಿಕ ವಿಶ್ವದಲ್ಲಿ ಇದ್ದೇವೆ.  ಅತಿಯಾದ ನಗರೀಕರಣದ ಫಲಸ್ವರೂಪವಾಗಿ, ಮಹಾ ನಗರಗಳು ಅಸ್ಥಿತ್ವಕ್ಕೆ ಬಂದಿವೆ. ಹಿಂದೆಂದೂ ಕಾಣದ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಮಟ್ಟದ  ಪ್ರಯಾಣ ಪ್ರವಾಸಗಳನ್ನು ಕಾಣುತ್ತಿದ್ದೇವೆ.  ರಾಬರ್ಟ್‌ ಕೋಕ್  ಅಂತಹವರಿಗೆ ವಾರಗಳೇ ಹಿಡಿದಿದ್ದ ಪ್ರಯಾಣವನ್ನು ನಾವು ಕೆಲವೇ ಗಂಟೆಗಳಲ್ಲಿ ಪೂರೈಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿದೆ. 1883  ರಲ್ಲಿ, ಬಡವರ ರೋಗವೆಂದೇ ಪ್ರಸಿದ್ಧವಾಗಿದ್ದಂತಹ ಖಾಲೆರಾ ರೋಗ ಪಿಡುಗು ಭಾರತದಿಂದ ಯೂರೋಪ್‌ ವರೆಗೂ ಹೇಗೆ ಸಂವನವಾಯಿತು ಎಂದು ರಾಬರ್ಟ್‌ ಕೋಚ್ ಅವರು‌ , ಸಂಭಾವ್ಯ ಸಮುದ್ರ ಮಾರ್ಗಗಳ ನಕ್ಷೆಯನ್ನು ರಚಿಸಿದ್ದರು.  ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯ ವಿಜ್ಞಾನಿಗಳು ಇಂದಿನ ದಿನಗಳಲ್ಲಿ, ವಾಯು ಮಾರ್ಗದಲ್ಲಿ ವಿಶ್ವದೆಲ್ಲೆಡೆ ಹರಡ ಬಹುದಾದ ಮಾರಣಾಂತಕ ವೈರಸ್‌ ಗಳ ಸಂವಹನದ ನಕ್ಷೆಗಳನ್ನು ಪತ್ತೆ ಮಾಡುವ ಕಾರ್ಯದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ.**
+  ಒಂದು ಕಾಲದಲ್ಲಿ ಭಯಾನಕ ವಿಪತ್ತುಗಳಾಗಿ ಸಂಭವಿಸಿದ್ದ ರೋಗ ಪಿಡುಗುಗಳು ಇಂದಿಗೂ ತಮ್ಮದೇ ರೀತಿಯಲ್ಲಿ ವಿಪತ್ತುಗಳಾಗಿಯೇ ಉಳಿದಿವೆ.  ಈಗ ನಾವು ಜಾಗತಿಕ ವಿಶ್ವದಲ್ಲಿ ಇದ್ದೇವೆ.  ಅತಿಯಾದ ನಗರೀಕರಣದ ಫಲಸ್ವರೂಪವಾಗಿ, ಮಹಾ ನಗರಗಳು ಅಸ್ಥಿತ್ವಕ್ಕೆ ಬಂದಿವೆ. ಹಿಂದೆಂದೂ ಕಾಣದ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಮಟ್ಟದ  ಪ್ರಯಾಣ ಪ್ರವಾಸಗಳನ್ನು ಕಾಣುತ್ತಿದ್ದೇವೆ.  ರಾಬರ್ಟ್‌ ಕೋಕ್  ಅಂತಹವರಿಗೆ ವಾರಗಳೇ ಹಿಡಿದಿದ್ದ ಪ್ರಯಾಣವನ್ನು ನಾವು ಕೆಲವೇ ಗಂಟೆಗಳಲ್ಲಿ ಪೂರೈಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿದೆ. 1883  ರಲ್ಲಿ, ಬಡವರ ರೋಗವೆಂದೇ ಪ್ರಸಿದ್ಧವಾಗಿದ್ದಂತಹ ಖಾಲೆರಾ ರೋಗ ಪಿಡುಗು ಭಾರತದಿಂದ ಯೂರೋಪ್‌ ವರೆಗೂ ಹೇಗೆ ಸಂವನವಾಯಿತು ಎಂದು ರಾಬರ್ಟ್‌ ಕೋಚ್ ಅವರು‌ , ಸಂಭಾವ್ಯ ಸಮುದ್ರ ಮಾರ್ಗಗಳ ನಕ್ಷೆಯನ್ನು ರಚಿಸಿದ್ದರು.  ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯ ವಿಜ್ಞಾನಿಗಳು ಇಂದಿನ ದಿನಗಳಲ್ಲಿ, ವಾಯು ಮಾರ್ಗದಲ್ಲಿ ವಿಶ್ವದೆಲ್ಲೆಡೆ ಹರಡ ಬಹುದಾದ ಮಾರಣಾಂತಕ ವೈರಸ್‌ ಗಳ ಸಂವಹನದ ನಕ್ಷೆಗಳನ್ನು ಪತ್ತೆ ಮಾಡುವ ಕಾರ್ಯದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ.
 
 
   *(Simulation (Dirk Brockmann) World air traffic, potential routes of deadly viruses)*
 
 
-  ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರ ಕೊಡುಗೆಯು , ಸಾಂಕ್ರಾಮಿಕ ವ್ಯಾಪನಗಳ ಬಗೆಗೆ ನಮ್ಮ ದೃಷ್ಟಿಕೋನವನ್ನೇ ಬದಲಿಸಿದೆ.  ಹಿಂದಿನ ಶತಮಾನದಲ್ಲಿ, ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳನ್ನು ಎದುರಿಸುವ ಮಾರ್ಗಗಳನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.  ಆದರೆ, ಆಂತ್ರಾಕ್ಸ್‌, ಟ್ಯೂಬರ್ ಕ್ಯುಲೋಸಿಸ್‌ ಮತ್ತು ಖಾಲೆರಾ ಅಂತಹ ರೋಗಗಳಿಗಿಂತಲೂ ಮಾರಣಾಂತಕ ರೋಗಗಳು ಮಾನವರ ಅಸ್ಥಿತ್ವಕ್ಕೆ ದೊಡ್ಡ ವಿಪತ್ತುಗಳಾಗಿ ಪರಿಣಮಿಸ ಬಹುದೇ?
+  Robert Koch’s work changed the way we look at contagion and in the last century we have found ways to fight infectious diseases. But what if diseases like anthrax, tuberculosis and cholera are not the biggest threats to our existence anymore?
 
 
-  1918 ರಲ್ಲಿ ಸಂಭವಿಸಿದ ಅತ್ಯಂತ ದೊಡ್ಡ ರೋಗ ಪಿಡುಗು ಸ್ಪ್ಯಾನಿಷ್‌ ಫ್ಲೂ ವಿನ ಬಳಿಕ  2019 ರ ಅಂತ್ಯದಲ್ಲಿ ವಿಶ್ವವನ್ನು ಅಪ್ಪಳಿಸಿರುವ ಕೋವಿಡ್‌-19 ,  100  ದಶ ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಜನರನ್ನು ಪೀಡಿಸಿದೆ ಹಾಗೂ ವಿಶ್ವದೆಲ್ಲೆಡೆ, 2.5 ದಶ ಲಕ್ಷ ಜನರು ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ.  ಸಾಕ್ಷಿ ಆಧಾರಿತ ವಿಜ್ಞಾನ ಮತ್ತು ಲಸಿಕೆಗಳ ಅವಿಶ್ಕಾರದ ಮೂಲಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳನ್ನು ಸಮರ್ಪಕವಾಗಿ ತಡೆಗಟ್ಟ ಬಹುದು.  ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ನಿವಾರಕ ಔಷಧಿಗಳನ್ನು ಪಡೆದಿರುವ ನಾವು, ಇಂತಹ ಬೃಹದಾಕಾರದ ಗಟ್ಟಿ ನಿಲುವಿನಲ್ಲಿ ಬಿರುಕುಗಳು ಗೋಚರಿಸಿದಾಗ, ನಿಜವಾಗಲೂ ಎಷ್ಟು ಚಿಂತಿಸ ಬೇಕು?  ಈ ಬಿರುಕುಗಳನ್ನು ಸರಿಪಡಿಸದೇ ಇರುವ ಸಂದರ್ಭ ಒದಗಿದರೆ ಏನು ಮಾಡ ಬೇಕು ?  ಇಂದು ಬಹಳ ಜನರು ವಿಜ್ಞಾನದ ಸಾಕ್ಷಿ ಆಧಾರಿತ ಅರಿವಿನ ಬಗೆಗೆ ತಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದಾರೆ. ಪ್ರಾದೇಶಿಕ ಖಾಲೆರಾ ರೋಗ ಸಾಂಕ್ರಾಮಿಕ ಪಿಡುಗು, ಕಳಪೆ ಗುಣಮಟ್ಟದ ನೀರಿನಿಂದಾಗಿ ಹರಡುತ್ತದೆ ಎಂದು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಅಧ್ಯಯನದ ಸಾಕ್ಷಿ ಒದಗಿಸಿ, ತಿಳಿಸಿ ಕೊಟ್ಟವರಲ್ಲಿ ರಾಬರ್ಟ್‌ ಕೋಕ್  ಮೊದಲಿಗರು.
+  In late 2019 the world was hit by the largest pandemic since the Spanish flu of 1918. COVID-19 has resulted in more than a 100 milliion cases and cost over 2.5 million lives worldwide.
 
 
-  1883 ರಲ್ಲಿ, ಸಮುದ್ರ ಮಾರ್ಗದಲ್ಲಿ ಖಾಲೆರಾ ರೋಗ ಸಾಂಕ್ರಾಮಿಕವು. ಯೂರೋಪ್‌ ಗೆ ಹರಡ ಬಹುದಾದ ಸಂಭಾವ್ಯ ಸಮುದ್ರ ಮಾರ್ಗಗಳ ಬಗೆಗೆ, ರಾಬರ್ಟ್‌ ಕೋಕ್ ಅವರು ಚಿತ್ರ ನಕ್ಷೆ ಒದಗಿಸಿದರು.    ನಮ್ಮ ಕಿವಿಗೆ ತಲುಪುವ, ನಮ್ಮ ಆಂತರಿಕ ಭಯ ಮತ್ತು ಭಾವನೆಗಳ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರುವಂತಹ ಸುಳ್ಳು ಗಾಳಿ ಸುದ್ದಿಗಳು ಮತ್ತು  ಊಹಾಪೋಹಗಳನ್ನು ನಂಬುವಷ್ಟು ಸಲೀಸಾಗಿ , ಈ ವಿಷಯವನ್ನು ಸ್ವೀಕರಿಸುವುದು ಕಷ್ಟ ಸಾಧ್ಯ.  ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ವಿರುದ್ಧ ಸಾರಿರುವ ಹೋರಾಟದಲ್ಲಿ ಹಿನ್ನಡೆ ಆಗಿದೆಯೇನು , ಈ ಅಪನಂಬಿಕೆಯು ಮಾರಣಾಂತಕ ವೈರಸ್‌ ಗಿಂತಲೂ ಹೆಚ್ಚು ವೇಗವಾಗಿ ಹರಡುತ್ತಿದೆಯೇ?
+  Evidence-based science and vaccination remain the most effective ways of preventing and treating infection. So how worried should we really be, when we start to see the cracks in these concrete structures now holding the world of infectious medicine together? What should we do when we find that the rate at which these cracks get bigger surpasses our ability to fix them? Today, many have lost faith in science, and evidence-based knowledge appears less likely to be accepted than fake news and rumours which often feed on our inner fears and emotions. Have we gone against our most powerful allies in the battle against infectious disease and is this contagion of disbelief spreading faster than a deadly virus?
 
 
   *(Photos: Crisis communication RKI examples….  )*
-
-
-  **The Robert Koch Institute, as a National Public Health Institute, faces many new challenges but remains a pillar of knowledge, evidence-based research,  communication and surveillance of public health. We connect with international  players in a quest to find solutions for global health problems.**
 exhibitimages:
   - pritxt: ವೋಲ್ಸಿಟಿನ್‌ ಅಲ್ಲಿರುವ ಕೋಕ್ ಕುಟುಂಬದ ಮನೆ  1930. ಕೋಕ್ ಅವರ ನಿವಾಸ ಗೃಹ ಮತ್ತು
       ಅಧ್ಯಯನ ಕೊಠಡಿಯು ಮೊದಲನೆಯ ಮಹಡಿಯಲ್ಲಿತ್ತು.  1996 ರಿಂದ ಇವರ ಹೆಸರಿನ ರಸ್ತೆಯಲ್ಲಿರುವ
