@@ -1,50 +1,44 @@
 ---
 layout: rooms/arcade
-title: Arcade
-description: "Explore contagion beyond labs in games, applications, and
-  interactives. Immerse yourself in the arcade: investigate outbreaks, become a
-  con-tagious con-artist, or create your own infectious networks! "
+title: ಮೊಗಸಾಲೆ
+description: ಕ್ರೀಡೆಗಳು, ಪರಸ್ಪರ ಸಂವಾದಗಳು ಮತ್ತು ವಿವಿಧ ಆಪ್‌ ಗಳ ಮೂಲಕ ಸಾಂಕ್ರಾಮಿಕಗಳ
+  ಅನುಭೂತಿಯನ್ನು ನಿಮ್ಮದಾಗಿಸಿಕೊಳ್ಳಿ. ಪ್ರದರ್ಶನದಲ್ಲಿ ಭಾಗಿಯಾಗಿ, ರೋಗ ಸ್ಫೋಟಗಳನ್ನು
+  ಪತ್ತೆಮಾಡಿ, ವ್ಯಾಪನ ಕಲಾವಿದರಾಗಿ, ನಿಮ್ಮದೇ ಸಾಂಕ್ರಾಮಿಕ ಜಾಲಗಳನ್ನು ಸೃಷ್ಠಿಸಿ.
 icon: /static/img/arcade-square.svg
 gameslist:
   - listlink: https://www.cdc.gov/mobile/applications/sto/web-app.html
-    about: "The US Centers for Disease Control and Prevention trains people to be
-      ‘disease detectives,’ whose job is to investigate infectious diseases.
-      This game gives you a chance to step into these detectives’ shoes, and try
-      to solve different outbreaks that are occurring. The game requires you to
-      carefully read and analyze the clues, find potential causes for the
-      disease, and think of ways to help curb the spread. "
-    title: CDC Solve the Outbreak
+    about: ಸಂಯುಕ್ತ ರಾಜ್ಯಗಳ ರೋಗ ನಿಯಂತ್ರಣ ಮತ್ತು ನಿವಾರಣ ಕೇಂದ್ರಗಳು, ʼಸಾಂಕ್ರಾಮಿಕ
+      ರೋಗಗಳನ್ನು ಪತ್ತೆ ಮಾಡಲುʼ ಜನರಿಗೆ ತರಬೇತಿ ನೀಡುತ್ತದೆ. “ ರೋಗ ಪತ್ತೆದಾರ” ರಾಗಿ,
+      ರೋಗಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಸುಳುಹುಗಳನ್ನು  ವಿಮರ್ಶಿಸಿ, ರೋಗದ ಸಂಭಾವ್ಯ ಕಾರಣಗಳನ್ನು
+      ಹಡುಕಿ, ಚಿಂತನೆಯ ಮೂಲಕ ರೋಗ ಹರಡುವುದನ್ನು ತಡೆಗಟ್ಟಲು ನೆರವಾಗಿ.
+    title: "ಸಿ.ಡಿ.ಸಿ: ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಸ್ಫೋಟದ ಪರಿಹಾರ"
     playimage: /static/img/a_ar_sec_vis.png
   - listlink: https://www.goviralgame.com/en/
-    title: Go Viral
-    about: This quick 5-minute game challenges you to create viral content. In the
-      process of playing it you may discern patterns and strategies used in the
-      transmission of COVID-19 misinformation. So while COVID vaccines are being
-      administered, you can inoculate yourself against the parallel spread of
-      the infodemic.
+    title: ಗೋ ವೈರಲ್‌
+    about: ಐದು ನಿಮಿಷಗಳ ಈ ಆಟದಲ್ಲಿ, ನೀವು ವ್ಯಾಪಕವಾಗಿ ಹರಡುವ ವಿಷಯವನ್ನು ಸೃಷ್ಟಿಸ ಬೇಕು.  ಈ
+      ಆಟದ ಮೂಲಕ, ಕೋವಿಡ್-‌19 ರೋಗದ ಬಗೆಗೆ ಮಾಹಿತಿಗಳು ಮತ್ತು ವದಂತಿಗಳು ಹರಡುವ ರೂಪು
+      ರೇಖೆಗಳನ್ನು ಅರಿಯ ಬಹುದು.  ಕೋವಿಡ್‌-‌19  ರೋಗವನ್ನು ಎದುರಿಸಲು, ಲಸಿಕೆಯನ್ನು
+      ಪಡೆಯುವುದರೊಂದಿಗೆ,  ವದಂತಿಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳುವ ಮಾರ್ಗವನ್ನೂ ಕಂಡುಕೊಳ್ಳಿ.
     playimage: /static/img/b_ar_sec_vis.png
   - listlink: https://www.getbadnews.com/#intro
-    title: Bad News
+    title: ಬ್ಯಾಡ ನ್ಯೂಸ್
     about: >
-      Become a superspreader of fake news in this game, where the only goal is
-      to increase your followers while maintaining a mirage of authenticity.
-      Find out how to create false narratives that are just believable enough,
-      become a successful fake news-monger, and use your new-found skills to
-      keep an eye out for such tactics on social media!
+      ಈ ಆಟದಲ್ಲಿ ನೀವು ಸುಳ್ಳು ಸುದ್ದಿ ಒದಗಿಸುವ ವದಂತಿಕಾರ ʼಸೂಪರ್‌ ಸ್ಪ್ರೆಡರ್ʼ‌ ಆಗ
+      ಬಹುದು. ನಿಮ್ಮ ಮಾಹಿತಿಯು ಸರಿ ಎಂಬ ಭ್ರಮೆಯನ್ನು ಸೃಷ್ಟಿಸಿ, ನಿಮ್ಮ ಅನುಯಾಯಿಗಳ
+      ಸಂಖ್ಯೆಯನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳ ಬಹುದು. ಈ ಆಟದಿಂದ ದೊರೆತ ಹೊಸ ಅನುಭವದಿಂದ, ಸಾಮಾಜಿಕ
+      ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಜಾಗರೂಕತೆ ವಹಿಸ ಬಹುದು.
     playimage: /static/img/c_ar_sec_vis.png
   - listlink: https://ncase.me/crowds/
-    title: The Wisdom and/or Madness of Crowds
-    about: Have you ever felt carried away by the crowd? Find out how social
-      networks influence human behaviour, and how connections between different
-      people can change the way they think and behave. This multiple-level game
-      invites you to create your own networks and simulations to observe social
-      contagion.
+    title: "ದಿ ವಿಸ್ಡಮ್ ಅಂಡ್ ಮದ್ನ್ಸ್ ಆ ಕ್ರೌಡ್ಸ್ "
+    about: ನೀವು ಎಂದಾದರೂ ಜನಗಳ ಮಾತಿಗೆ ಮರುಳಾಗಿದ್ದೀರಾ ?  ಏಕೆ ಎಂದು ಯೋಚಿಸಿದದೀರಾ ?  ಸಾಮಾಜಿಕ
+      ಜಾಲತಾಣಗಳು, ಮಾನವ ಚಿಂತನೆಗಳ ಮತ್ತು ನೆಡವಳಿಕೆಗಳ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರ ಬಹುದು.  ಈ ಬಹು
+      ಹಂತದ ಕ್ರೀಡೆಯು, ನಿಮ್ಮದೇ ಜಾಲತಾಣಗಳನ್ನು ಮತ್ತು ಪ್ರತಿರೂಪಗಳನ್ನು ಸೃಷ್ಟಿಸಿ ಸಾಮಾಜಿಕ
+      ಸಾಂಕ್ರಾಮಿಕತೆಯನ್ನು ಗಮನಿಸಲು ಆಹ್ವಾನಿಸುತ್ತದೆ.
     playimage: /static/img/d_ar_sec_vis.png
-  - title: The Zombie Outbreak
+  - title: "ದಿ ಜೊಂಬಿ ಔಟ್ಬ್ರೇಕ್ "
     listlink: https://www.theguardian.com/science/2015/oct/26/can-you-solve-it-how-many-will-the-zombie-outbreak-infect
-    about: A sinister zombie virus is taking over...and it’s up to you to calculate
-      how many people will get infected. Your analytical skills are sure to be
-      put through the test as you attempt to figure out how many people will
-      cease to be human soon.
+    about: ಒಂದು ವಿಚಿತ್ರ ಜೊಂಬಿ ವೈರಾಣು ಎಲ್ಲ ಕಡೆ ಹರಡುತ್ತಿದೆ. ಎಷ್ಟು ಜನರು ಈ ಸಾಂಕ್ರಾಮಿಕ
+      ಸೋಂಕಿಗೆ ತುತ್ತಾಗುತ್ತಾರೆ ಎಂದು ನೀವೇ ಅರಿತುಕೊಳ್ಳ ಬೇಕು.  ಎಷ್ಟು ಜನರು ಮಾನವತ್ವವನ್ನು
+      ತೊರೆಯುತ್ತಾರೆ ಎಂದು ವಿಮರ್ಶಿಸಿ.
     playimage: /static/img/e_ar_sec_vis.png
 ---
