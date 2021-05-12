@@ -33,27 +33,27 @@ readinglist:
   - quadreadlink: https://www.jstor.org/stable/3655231?seq=1#metadata_info_tab_contents
     quadreadtxt: "Natural Histories of Infectious Disease: Ecological Vision in
       Twentieth-Century Biomedical Science"
-    quadreadvis: /static/img/pl_michael.png
+    quadreadvis: /static/img/P_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/14586/Keck_2018_MAT_Zoonosis_CC.pdf?sequence=1&isAllowed=y
     quadreadtxt: "Zoonosis: Prospects And Challenges For Medical Anthropology"
-    quadreadvis: /static/img/pl_michael.png
+    quadreadvis: /static/img/P_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://wellcomecollection.org/works/pe6ntmsb
     quadreadtxt: "Animals And The Shaping Of Modern Medicine: One Health And Its Histories"
-    quadreadvis: /static/img/pl_michael.png
+    quadreadvis: /static/img/P_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/show/5VdARoGzm0TTw7aCjlQFQN
     quadlisttxt: "Body Politics: Where History, Medicine And Society Collide"
-    quadlistvis: /static/img/pl_michael.png
+    quadlistvis: /static/img/P_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/0DrN5kRRAERJjmojrwZvTY
     quadlisttxt: "Zoonosis: How New Diseases Appear"
-    quadlistvis: /static/img/pl_michael.png
+    quadlistvis: /static/img/P_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=r7Fph_eBVtw
     quadwatchtxt: Society for Social History of Medicine
-    quadwatchvis: /static/img/pl_michael.png
+    quadwatchvis: /static/img/P_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=xjcsrU-ZmgY
     quadwatchtxt: How Do Viruses Jump from Animals to Humans?
-    quadwatchvis: /static/img/pl_michael.png
+    quadwatchvis: /static/img/P_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/workshop-onehealth
     quadeventtxt: ಡಿಕೋಡಿಂಗ್‌ ಒನ್‌ ಹೆಲ್ಥ್‌ | ಕಾರ್ಯಾಗಾರ | ಒನ್‌ ಹೆಲ್ಥ್‌ ಅಂತರ್ಜಾಲ

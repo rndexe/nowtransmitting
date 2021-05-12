@@ -41,28 +41,28 @@ readinglist:
     quadreadvis: /static/img/K_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nature.com/articles/450033a
     quadreadtxt: Technologies of Humility
-    quadreadvis: /static/img/pl_sheila.jpg
+    quadreadvis: /static/img/K_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.hks.harvard.edu/faculty-research/policy-topics/health/fallacies-hard-truths-and-lessons-learned-global-response
     quadreadtxt: Fallacies, Hard Truths, and Lessons Learned from the Global
       Response to COVID-19
-    quadreadvis: /static/img/pl_sheila.jpg
+    quadreadvis: /static/img/K_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://upclose.unimelb.edu.au/episode/370-twin-engines-truth-how-science-and-law-interact-construct-our-world
     quadlisttxt: Twin Engines Of Truth? How Science and Law Interact to Construct Our World
-    quadlistvis: /static/img/pl_sheila.jpg
+    quadlistvis: /static/img/K_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/5l3bDEqrhJhJj3sSUppndY?si=ldL-e0_mRS6xg4gfm92IlQ
     quadlisttxt: "COVID-19: Can We Compare Different Countries?"
-    quadlistvis: /static/img/pl_sheila.jpg
+    quadlistvis: /static/img/K_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=0idthcqapD8
     quadwatchtxt: " Can Science Make Sense of Life?"
-    quadwatchvis: /static/img/pl_sheila.jpg
+    quadwatchvis: /static/img/K_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=VrzpfnpS4LA
     quadwatchtxt: What is Uncertainty, and Why Does It Matter?
-    quadwatchvis: /static/img/pl_sheila.jpg
+    quadwatchvis: /static/img/K_PL_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=i3uG3JWkTOI
     quadwatchtxt: " Ignorance Is Bliss: COVID-19 and the Politics of Knowledge"
-    quadwatchvis: /static/img/pl_sheila.jpg
+    quadwatchvis: /static/img/k_pl_qua_watchvis_3.jpg
 eventlist:
   - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
       ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌

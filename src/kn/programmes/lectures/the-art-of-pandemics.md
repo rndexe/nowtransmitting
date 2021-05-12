@@ -50,7 +50,7 @@ watchinglist:
     quadwatchvis: /static/img/d_pl_qua_watchvis_1.png
 eventlist:
   - quadeventtxt: ರೋಗ ಪಿಡುಗುಗಳ ಬಗೆಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲೆಯ ಸೃಷ್ಟಿ | ಕಾರ್ಯಾಗಾರ | ಮ್ಯಾಟ್ಟ್‌ ಆಡಮ್ಸ್
-    quadeventlink: http://bit.ly/masterclass-adams
+    quadeventlink: https://nowtransmitting.com/programmes/workshops/creating-interactive-art-about-pandemics/
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
   - quadeventtxt: ಎ ಹ್ಯೂಮನ್‌ ಕ್ವೆಸ್ಚನ್‌ | ಚಲನ ಚಿತ್ರ ಚರ್ಚೆ | ಟಿ ಜಯಶ್ರೀ
     quadeventlink: http://bit.ly/films-jayashree
