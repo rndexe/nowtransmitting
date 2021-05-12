@@ -9,19 +9,16 @@ medium: ʼಮಟ್ಹೌಸ್‌ ಮೆರಿಯನ್‌ʼ ಅವರ ʼಬಸ
   ವಿಭಿನ್ನ ಹಂತಗಳ ಚಿತ್ರ ಪ್ರದರ್ಶಿಕೆ. 5 ನಿಮಿಷ. 3 ಸೆಕೆಂಡುಗಳು.
 year: 2017 – 2019
 description: >-
-  Disease maps are a long-standing scientific tool used to understand the spread
-  of disease across populations. Sarah Craske’s The Disease Map takes an
-  engraving of Basel, Switzerland by Matthäus Merian (1593-1650), and turns it
-  into a disease map by engraving it onto a custom-made petri dish, within which
-  *Vibrio cholerae* was painted (onto agar) over several days while also being
-  inhibited with synthetic peptides that Craske designed. This process was
-  recorded using time-lapse photography. This ebb and flow becomes a metaphor
-  for our relationship with cholera, for the continuous fight against emerging
-  diseases and new strains, and the pressing need to address the global
-  existential crises that antimicrobial resistance presents.
+  ಹಲವು ಸಮುದಾಯಗಳ ನಡುವೆ, ರೋಗ ಹರಡುವಿಕೆಯನ್ನು ಅರಿಯಲು , ರೋಗ ನಕ್ಷೆಯ ರೇಖಾಚಿತ್ರವನ್ನು ಬಹು
+  ಕಾಲದಿಂದಲೂ ಬಳಸಲಾಗುತ್ತಿದೆ.  ಕ್ರಾಸ್ಕೆ ಅವರು ʼಮಟ್ಹೌಸ್‌ ಮೆರಿಯನ್‌ʼ ಅವರ ʼಬಸೆಲ್‌ʼ ನ
+  ರೂಪಚಿತ್ರಣವನ್ನು (ಎಂಗ್ರೇವಿಂಗ್‌ ಆಫ್‌ ಬಸೆಲ್ ‌1593-1650) ಬಳಸಿಕೊಂಡು, ತಟ್ಟೆಯೊಂದರೊಳಗೆ
+  (ಪೆಟ್ರಿ ಡಿಶ್)  ಹೊಂದಿಸಿ, ‌ʼಅಗರ್ʼ ದ್ರವದ ಜೊತೆಗೆ, ಸ್ವತಃ ಸಂಸ್ಕರಿಸಿದ ಪೆಪ್ಟೈಡ್‌ ಲೇಪನ
+  ಮಾಡಿ, ಅದರ ಮೇಲೆ  ಖಾಲೆರಾ ಸೂಕ್ಷ್ಮಾಣುವಿನ ರೋಗ ನಕ್ಷೆಯ ಚಿತ್ರರೂಪವನ್ನು ಹಲವು ದಿನಗಳ ಕಾಲ
+  ವಿನ್ಯಾಸಗೊಳಿಸಿದ್ದಾರೆ. ಆಗಿಂದಾಗ್ಗೆ , ಬೆಳವಣಿಗೆ ಪ್ರಕ್ರಿಯೆಯ, ಪ್ರತಿ ಹಂತದ
+  ಛಾಯಾಚಿತ್ರವನ್ನು ಸಹ ತೆಗೆದುಕೊಂಡಿದ್ದಾರೆ.
 
 
-  The protocols for this work were designed through collaborative and experimental work with Dr Irene Wüthrich and Dr Steven Schmitt from the Department of Biosystems Science and Engineering (D-BSSE) at ETH Zurich. Through observational inquiry and collaborative discussion while working at the D-BSSE, the artist learnt about contemporary synthetic biological approaches to fighting infectious diseases. Whilst critically reflecting on these approaches, she worked closely with scientists to develop new ideas and practical experiments that combined both scientific and artistic practice.
+  ಈ.ಟಿ.ಎಚ್‌, ಜೂರಿಚ್‌ ಅಲ್ಲಿರುವ ಬಯೋ ಸಿಸ್ಟಮ್ಸ್‌ ಆಂಡ್‌ ಇಂಜಿನೀಯರಿಂಗ್‌ ವಿಭಾಗದ (ಡಿ-ಬಿ.ಎಸ್.ಎಸ್.ಈ) ಡಾ.ಐರೀನ್‌ ವುಥ್ರಿಚ್‌ ಮತ್ತು ಡಾ.ಸ್ಟೇವನ್‌ ಸ್ಕ್ಮಿಟ್ಟ್‌ ಅವರ ಸಹಭಾಗಿತ್ವ ಮತ್ತು ಪ್ರಯೋಗ ಕಾರ್ಯಗಳೊಡನೆ, ಈ ಕೃತಿಯನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ.
 privis: https://player.vimeo.com/video/537297813
 pritxt: "ʼಕಾಲ ಕಳೆದಂತೆʼ, ʼಟೈಮ್‌ ಲ್ಯಾಪ್ಸ್‌, ಫಿಲಮ್‌ ಆಫ್‌ ವಿಬ್ರಿಯೋ ಖಲೆರೇʼ ಸಂಸ್ಕರಿಸಿದ
   ಪೆಪಟೈಡ್ ಗಳೊಂದಿಗೆ, ಬ್ಯಾಸೆಲ್‌ ಅವರ ನಕ್ಷೆ ಯ ಮೂಲಕ , ಎನ್ಗ್ರೇವರ್‌ ಮಾಟ್ಹೂಸ್‌ ಮೆರಿಯನ್‌
@@ -123,10 +120,10 @@ watchinglist:
     quadwatchtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳು ಹರಡುವ ರೀತಿಯನ್ನು ಅಂಕಿತಗೊಳಿಸಲಾಗಿದೆ
     quadwatchvis: /static/img/e_exhibit_qua_watchvis_3.jpg
 eventlist:
-  - quadeventtxt: "THERIAK: Behind the Scenes in a Lab | Workshop by Sarah Craske"
+  - quadeventtxt: "ಥೇರಿಯಾಕ್‌ : ದೃಶ್ಯಗಳ ಹಿಂಬದಿಯ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ | ಕಾರ್ಯಾಗಾರ | ಸಾರಾ ಕ್ರಾಸ್ಕ್"
     quadeventvis: /static/img/e_exhibit_qua_atnvis_1.jpg
     quadeventlink: https://www.eventbrite.com/e/theriak-behind-the-scenes-in-a-lab-workshop-registration-145820165039
-  - quadeventtxt: After the End of Epidemics | Lecture by Dora Vargha
+  - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳು ಅಂತ್ಯಗೊಂಡ ನಂತರ | ಉಪನ್ಯಾಸ | ಡೋರಾ ವಾರ್ಘ
     quadeventlink: https://www.eventbrite.com/e/145227026947
     quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
