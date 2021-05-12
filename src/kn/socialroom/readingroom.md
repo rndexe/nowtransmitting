@@ -28,9 +28,10 @@ openbooklist:
     listlink: https://e.issuu.com/embed.html?d=the-art-of-antibiotics&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: Polio Across the Iron Curtain
     author: Dora Vargha
-    about: In *Polio Across the Iron Curtain*, Dóra Vargha uses a series of polio
-      epidemics in communist Hungary to understand the response to a global
-      public health emergency in the midst of the Cold War.
+    about: In *Polio Across the Iron Curtain*, ಶೀಥಲ ಸಮರದ ನಡುವೆ, ಸಮತಾವಾದಿ ಹಂಗೇರಿಯಲ್ಲಿ
+      ಇದ್ದಂತಹ ಪರಿಸ್ಥಿತಿಗಳು ಹಾಗೂ ಜಾಗತಿಕ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ವಿಪತ್ತು, ಹೀಗೆ ಹಲವು
+      ವಿಚಾರಗಳನ್ನು ವಿವರಿಸಲು,  ಡೋರಾ ವಾರ್ಘ ಅವರು, ಪೋಲಿಯೋ ರೋಗ ಪಿಡುಗಿನ ಸರಣಿ
+      ನಿದರ್ಶನಗಳನ್ನು ಈ ಪುಸ್ತಕದಲ್ಲಿ ಬೆಳಕಿಗೆ ತಂದಿದ್ದಾರೆ.
     listlink: https://e.issuu.com/embed.html?d=dora_vargha&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: The Last Man
     author: Mary Shelley
