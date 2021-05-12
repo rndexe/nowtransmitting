@@ -1,26 +1,26 @@
 ---
-title: Managing the Pandemic in India
-desc: With more than 10 million cases, India has the second-highest infection
-  load in the world after the United States. However, with cutting-edge
-  research, invention of new biomedical devices, and a very ambitious
-  vaccination program, it could soon become a global leader in the fight against
-  COVID-19. Vinod. K. Paul, a member of the National Institution for
-  Transforming India (NITI) Aayog, and Head of the National Task Force Against
-  COVID-19, shares key questions arising from the journey so far and considers a
-  future where India emerges as a hub for innovative biomedical research.
-permalink: kn/covids/managing-pandemic-india/
-speakername: Vinod K Paul
+title: "ಭಾರತದಲ್ಲಿ ಮಹಾಮಾರಿಯನ್ನು ನಿಯಂತ್ರಿಸುವ ಬಗೆ  "
+desc: ಒಂದು ಕೋಟಿಗೂ ಹೆಚ್ಚು ಪ್ರಕರಣಗಳಿರುವ ಭಾರತವು, ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರಗಳ ನಂತರ ಎರಡನೇ ಅತಿ
+  ಹೆಚ್ಚು ಸೋಂಕು ಸಾಂದ್ರತೆ  ಇರುವ ರಾಷ್ಟ್ರವಾಗಿದೆ.  ಆದರೂ ವೇಗವಾದ ಸಂಶೋಧನೆಗಳು, ಜೀವ
+  ವಿಜ್ಞಾನ ಉಪಕರಣಗಳ ಹೊಸ ಅವಿಷ್ಕಾರಗಳು, ವ್ಯಾಪಕ ಲಸಿಕೆ ಕಾರ್ಯಕ್ರಮ ಇವೆಲ್ಲದರ ಪರಿಣಾಮವಾಗಿ,
+  ಕೋವಿಡ್-‌19 ರೋಗವನ್ನು  ಭಾರತವು ಜಾಗತಿಕ ಮಟ್ಟದಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಿ ನಿಯಂತ್ರಿಸ ಬಲ್ಲದು ಎಂಬ
+  ಭರವಸೆ ಇದೆ.  ರಾಷ್ಟ್ರೀಯ ಭಾರತ ಪರಿವರ್ತನ ಸಂಸ್ಥಾನದ (ನೀತಿ ಆಯೋಗ) ಸದಸ್ಯರು ಮತ್ತು
+  ಕೋವಿಡ್-19‌ ರ ರಾಷ್ಟ್ರೀಯ ಕಾರ್ಯಪಡೆಯ ಮುಖ್ಯಸ್ಥರು ಆಗಿರುವ ಶ್ರೀ ವಿನೋದ್‌ ಕೆ ಪೌಲ್, ಕೆಲವು
+  ಪ್ರಮುಖ ವಿಷಯಗಳನ್ನು ವಿವರಿಸುತ್ತಾ, ಇಲ್ಲಿಯವರೆಗಿನ  ಘಟಿನೆಗಳು ಇವುಗಳಿಂದ ಉದ್ಭವಿಸಿರುವ
+  ಮುಖ್ಯ ಪ್ರಶ್ನೆಗಳು ಮತ್ತು ಜೀವ ವಿಜ್ಞಾನದ ಸೃಜನಾತ್ಮಕ ಸಂಶೋಧನೆಯಲ್ಲಿ ಭಾರತದ  ಪ್ರಮುಖ
+  ಪಾತ್ರವನ್ನು ಹಾಗೂ ಭವಿಷ್ಯದ ಸಾಧ್ಯತೆಗಳ ಬಗೆಗೆ ಚರ್ಚಿಸುತ್ತಾರೆ.
+speakername: "ವಿನೋದ್‌ ಕೆ ಪೌಲ್‌ "
 speakerimage: /static/img/A_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/A_CO_THUMBNAIL.png
-speakerfield: Pediatrician
+speakerfield: "ಮಕ್ಕಳ ತಜ್ಞರು "
 speakerbio: >-
-  Prof. Vinod K. Paul, a paediatrician by training, was on the faculty of the
-  Department of Paediatrics, All India Institute of Medical Sciences, New Delhi,
-  since 1985, and served as the Head of the Department for nearly a decade.  He
-  is a globally recognised medical scientist and public health expert. 
+  ಪ್ರೋ. ವಿನೋದ್‌ ಕೆ ಪೌಲ್‌ , ಮಕ್ಕಳ ತಜ್ಞರು. ನವ ದೆಹಲಿಯಲ್ಲಿರುವ ಅಖಿಲ ಭಾರತೀಯ ವೈದ್ಯಕೀಯ
+  ವಿಜ್ಞಾನ ಸಂಸ್ಥೆಯಲ್ಲಿ  1985 ನೇ ಇಸವಿ ಯಿಂದ ಅಧ್ಯಾಪಕರಾಗಿ ಮತ್ತು ವಿಭಾಗದ ಮುಖ್ಯಸ್ಥರಾಗಿ
+  ಹತ್ತು ವರ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಕಾಲ ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ.  ಇವರು ಜಾಗತಿಕ ಮಟ್ಟದಲ್ಲಿ ವೈದ್ಯಕೀಯ
+  ವಿಜ್ಞಾನಿಯಾಗಿ ಹಾಗೂ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ನಿರೂಪಕರಾಗಿ ಪ್ರಖ್ಯಾತಿ ಹೊಂದಿದ್ದಾರೆ.  
 
 
-  The Government of India appointed Dr Paul as a Member of the National Institution for Transforming India, the NITI Aayog, in August 2017 where he leads the Health, Nutrition and HRD verticals. He has played a pivotal role in formulating the Ayushman Bharat-PMJAY and Ayushman Bharat Health and Wellness Centre Scheme and POSHAN Abhiyaan.
+  ಭಾರತ ಸರ್ಕಾರವು, ಡಾ. ಪೌಲ್‌ ಅವರನ್ನು ರಾಷ್ಟ್ರೀಯ ಭಾರತ ಪರಿವರ್ತನ ಸಂಸ್ಥಾನದ (ನೀತಿ ಆಯೋಗ) ಸದಸ್ಯರಾಗಿ ಆಗಸ್ಟ್‌, 2017 ರಲ್ಲಿ ನೇಮಕ ಗೊಳಿಸಿದೆ. ಇವರು ಆರೋಗ್ಯ, ಪೌಷ್ಟಿಕಾಂಶ ಮತ್ತು ಮಾನವ ಸಂಸಾಧನ ವಿಕಾಸ ಕ್ಷೇತ್ರಗಳ ಮುಖ್ಯಸ್ಥರಾಗಿದ್ದಾರೆ.  ಆಯುಶ್ಮಾನ್‌ ಭಾರತ (ಪಿ.ಎಂ.ಜೆ.ಏ.ವಯ್‌) ಆಯುಶ್ಮಾನ್‌ ಭಾರತ ಆರೋಗ್ಯ ಮತ್ತು  ಕ್ಷೇಮ ಕೇಂದ್ರ ಪರಿಯೋಜನೆ  ಹಾಗೂ ಪೋಷಣ್‌ ಅಭಿಯಾನಗಳನ್ನು ರೂಪಿಸುವಲ್ಲಿ  ಡಾ. ಪೌಲ್‌ , ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದ್ದಾರೆ.
 videosrc: https://player.vimeo.com/video/511531639
 readinglist:
   - quadreadtxt: Prepare for the Next Pandemic Now
@@ -32,6 +32,7 @@ readinglist:
   - quadreadtxt: Are we Ready for the Next Pandemic
     quadreadlink: https://www.theleaflet.in/are-we-ready-for-the-next-pandemic-analyzing-indias-social-fiscal-and-legal-preparedness/#
     quadreadvis: /static/img/A_CO_QUA_READVIS_3.jpg
+permalink: kn/covids/managing-pandemic-india/
 listeninglist:
   - quadlistlink: https://www.npr.org/2020/11/23/938003401/explaining-the-science-behind-an-mrna-vaccine-for-covid-19
     quadlisttxt: Science Behind an mRNA vaccine
