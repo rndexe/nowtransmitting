@@ -1,5 +1,5 @@
 ---
-title: Why And How Should We Model Infectious Diseases?
+title: "ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಪ್ರತಿರೂಪಗಳನ್ನು ಏಕೆ ರೂಪಿಸ ಬೇಕು, ಹೇಗೆ ರೂಪಿಸ ಬೇಕು? "
 permalink: kn/programmes/lectures/model-infectious-diseases/
 cata: transmission
 catb: mapping
@@ -7,27 +7,28 @@ thumb: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
 cover: /static/img/B_PL_Coverimage.jpg
 date: 2021-05-01T13:00:00.000Z
 description: >-
-  Pandemics of infectious disease conjure up images of crowded hospitals,
-  medical staff in protective gear and bodies, loads of them. They certainly
-  don’t suggest images of people working at computers or at boards, writing down
-  equations and looking at graphs and figures. Yet, understanding what might be
-  the probable trajectory of a disease and how best to reduce its impact is a
-  problem that lies squarely in the realm of mathematical modelling. 
+  ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳು, ಎಂದೊಡನೆಯೇ, ಜನ ನಿಭಿಡ ಆಸ್ಪತ್ರೆಗಳು, ಸುರಕ್ಷಾ ಕವಚ ಮತ್ತು
+  ಮುಸುಕುಗಳನ್ನು ಧರಿಸಿದ ವೈದ್ಯಕೀಯ ಕಾರ್ಮಿಕರ ಗುಂಪುಗಳು, ಇವೇ, ಕಣ್ಣ ಮುಂದೆ ಬರುವ ಸಹಜ
+  ದೃಶ್ಯಗಳು. ನಾವು ಸಾಮಾನ್ಯವಾಗಿ ಕಂಪ್ಯೂಟರ್‌ ಗಳ ಮುಂದೆ ಇಲ್ಲವೇ ಬೋರ್ಡ್‌ ಮುಂದೆ ಗಣಿತ
+  ಒಗಟುಗಳನ್ನು ಬಿಡಿಸುತ್ತಿರುವ, ಗ್ರಾಫ್‌ ರೇಖಾಚಿತ್ರಣಗಳನ್ನು ಮತ್ತು ಅಂಕಿ ಸಂಖ್ಯೆಗಳನ್ನು
+  ಪರಿಶೀಲಿಸುತ್ತಿರುವ ಗಣಿತಜ್ಞರು, ವಿಜ್ಞಾನಿಗಳ ಬಗ್ಗೆ ಚಿಂತನೆ ಮಾಡುವುದಿಲ್ಲ. ಯಾವುದೇ ರೋಗ
+  ಸಾಂಕ್ರಾಮಿಕವು ಯಾವಾಗ, ಎಷ್ಟು ವ್ಯಾಪಿಸಬಹುದು , ಅದರಿಂದಾಗುವ ಹಾನಿಯನ್ನು ತಡೆಯುವುದು ಹೇಗೆ,
+  ಎಂಬುದನ್ನು ಅಂದಾಜು ಮಾಡುವುದು, ಗಣಿತದ ಕಾರ್ಯಕ್ಷೇತ್ರ. ಈ ಮಾಡಲ್‌ ಗಳ ಮೂಲಕ ಹಲವು
+  ಸಮಸ್ಯೆಗಳನ್ನು ವಿಮರ್ಶಿಸಿ, ಪರಿಹಾರ ಕಂಡುಕೊಳ್ಳ ಬಹುದಾಗಿದೆ.
 
 
-  Why are these models necessary? What insights can we gain from them? In this talk, Professor Gautam Menon will discuss these questions, as well as survey some epidemic models that are used to understand and model disease spread. Approaching these topics through a qualitative rather than technical lens, Menon will show how to develop the right intuition about what goes into modeling infectious diseases.
+  ಈ ಪ್ರತಿರೂಪಗಳು ಏಕೆ ಅವಶ್ಯಕ?  ಇವುಗಳಿಂದ ಯಾವ ಬಗೆಯ ಒಳನೋಟಗಳನ್ನು ಪಡೆಯ ಬಹುದು? ಈ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳನ್ನು ಕುರಿತಂತೆ ಹಾಗೂ ಕೆಲವು ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳಿಗೆ  ಸಂಬಂಧಿಸಿದಂತೆ ವಿವಿಧ ಮಾಡಲ್ ಗಳ ಬಗೆಗೆ ಭಾಷಣದಲ್ಲಿ ಡಾ.ಮೆನನ್‌, ಮಾತನಾಡುತ್ತಾರೆ.
 link: http://bit.ly/lecture-menon
-expertname: Gautam I. Menon
-expertbio: Gautam I. Menon is a Professor of Physics and Biology at Ashoka
-  University, an adjunct Professor at the Tata Institute of Fundamental
-  Research, Mumbai and a Professor at the Institute of Mathematical Sciences,
-  Chennai. He spent two decades as Professor with the Theoretical Physics and
-  Computational Biology groups at the Institute of Mathematical Sciences,
-  Chennai, where he was the founding Dean of the Computational Biology group. He
-  completed a Ph.D. from the Indian Institute of Science, Bangalore followed by
-  post-doctoral work at the TIFR, Mumbai and Simon Fraser University in
-  Vancouver. He is a physicist and mathematical modeller by training, with
-  interests in biophysics, disease epidemiology and science communication.
+expertname: ಗೌತಮ್‌ ಐ. ಮೆನನ್‌
+expertbio: ಡಾ.ಗೌತಮ್‌ ಐ. ಮೆನನ್, ಅಶೋಕ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಭೌತಶಾಸ್ತ್ರ ಮತ್ತು
+  ಜೀವಶಾಸ್ತ್ರದ ಪ್ರೊಫೆಸರ್‌ ಆಗಿ ಮತ್ತು ಮುಂಬಯಿ ನ ಟಾಟಾ ಮೂಲಭೂತ ಸಂಶೋಧನಾ ಸಂಸ್ಥೆಯಲ್ಲಿ
+  ಅಡಜಂಕ್ಟ್‌ ಪ್ರೊಫೆಸರ್‌ ರೂಪದಲ್ಲಿ ಹಾಗೂ ಚೆನ್ನೈ ನ ಗಣಿತ ವಿಜ್ಞಾನಗಳ ಸಂಸ್ಥೆಯಲ್ಲಿ
+  ಪ್ರೊಫೆಸರ್‌ ಆಗಿ ಕಾರ್ಯ ನಿರತರಾಗಿದ್ದಾರೆ.  ಇವರು, ಚೆನ್ನೈ ನ ಗಣಿತ ವಿಜ್ಞಾನಗಳ
+  ಸಂಸ್ಥೆಯಲ್ಲಿ ಪ್ರೊಫೆಸರ್‌ ರೂಪದಲ್ಲಿ, ಥಿಯರಿಟಿಕಲ್‌ ಭೌತಶಾಸ್ತ್ರ ಮತ್ತು ಕಂಪ್ಯುಟೇಷನಲ್‌
+  ಜೀವ ಶಾಸ್ತ್ರದ ತಂಡದೊಡನೆ  20 ದಶಕಗಳ ಕಾಲ ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ,  ಇವರು ಕಂಪ್ಯುಟೇಷನಲ್‌
+  ಜೀವ ಶಾಸ್ತ್ರ ತಂಡದ ಸಂಸ್ಥಾಪಕ ಡೀನ್‌ ಆಗಿದ್ದರು. ಮೂಲತಃ ಭೌತಶಾಸ್ತ್ರಜ್ಞರು ಮತ್ತು ಗಣಿತ
+  ಪ್ರತಿರೂಪವನ್ನು ಸಂವರ್ಧನೆಗೊಳಿಸಲು ತರಬೇತಿ ಪಡೆದಿದ್ದಾರೆ.  ಜೀವ ಭೌತಶಾಸ್ತ್ರ, ರೋಗ ಪಿಡುಗು
+  ಅಧ್ಯಯನ ಮತ್ತು ವೈಜ್ಞಾನಿಕ ಸಂವಹನ ವಿಷಯಗಳಲ್ಲಿ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ.
 expertpic: /static/img/pl_gautam.png
 readinglist:
   - quadreadlink: https://science.thewire.in/the-sciences/covid-19-pandemic-infectious-disease-transmission-sir-seir-icmr-indiasim-agent-based-modelling/
@@ -62,10 +63,11 @@ eventlist:
       and Computing | Lecture by Madhav Marathe"
     quadeventvis: /static/img/pl_madhav.png
 relatedlist:
-  - quadrelatedtxt: COVID-19 Indoor Safety Guide by Martin Bazant, John Bush, and Kasim Khan
+  - quadrelatedtxt: "ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಜ್ಹಾನ್‌ ಡಬಲ್ಯೂ ಬುಶ್,
+      ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್, ಕಾಸಿಮ್‌ ಖಾನ್‌ "
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
-    quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
+    quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
