@@ -120,12 +120,12 @@ watchinglist:
     quadwatchtxt: "ಸೂಕ್ಷ್ಮ ಜೀವ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕ ಶಕ್ತಿಯ ವಿಕಸನವನ್ನು ಗಮನಿಸಿ "
     quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_4.jpg
 eventlist:
-  - quadeventtxt: "Antimicrobial Resistance: The Pandemic in the Shadows | Lecture
-      by Dr. Jyoti Joshi"
+  - quadeventtxt: ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧ (ಏ.ಎಂ.ಆರ್):‌ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ
+      ನೆರಳಿನಲ್ಲಿ | ಉಪನ್ಯಾಸ | ಜ್ಯೋತಿ ಜೋಶಿ
     quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/145225482327
-  - quadeventtxt: "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies
-      | Lecture by Dr. George Peter Lomonossoff"
+  - quadeventtxt: "ಕಂಟೇಜಿಯಮ್ ವೈವಮ್‌ ಫ್ಲುಯಿಡಮ್‌ : ಸಸ್ಯ ವೈರಾಣುಗಳು ವೈರಿಗಳಲ್ಲ, ಸಹಚರ
+      ಸ್ನೇಹಿತರು | ಉಪನ್ಯಾಸ | ಜಾರ್ಜ್‌ ಲೊಮೊನೋಸೊಫ್ಫ್‌"
     quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/145398876955
 relatedlist:
