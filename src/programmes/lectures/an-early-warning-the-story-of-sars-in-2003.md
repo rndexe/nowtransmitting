@@ -15,4 +15,12 @@ expertbio: "Thomas Abraham is adjunct associate professor at the University of
   Hong Kong and a writer on health and disease. He is the author of Twenty First
   Century Plague: The Story of SARS and Polio: The Odyssey of Eradication. He
   has been an adviser to the World Health Organization."
+readinglist:
+  - quadreadvis: /static/img/s_pl_qua_readvis_1.jpg
+  - quadreadvis: /static/img/s_pl_qua_readvis_2.jpg
+  - quadreadvis: /static/img/s_pl_qua_readvis_3.jpg
+listeninglist:
+  - quadlistvis: /static/img/s_pl_qua_listvis_1.jpg
+watchinglist:
+  - quadwatchvis: /static/img/s_pl_qua_watchvis_1.jpg
 ---
