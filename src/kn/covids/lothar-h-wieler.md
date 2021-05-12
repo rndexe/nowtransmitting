@@ -26,26 +26,25 @@ speakerbio: >-
   **ಪ್ರೊ. ಲೋಥರ್, 2010 ರಲ್ಲಿ ಜರ್ಮನ್‌ ರಾಷ್ಟ್ರೀಯ ವಿಜ್ಞಾನ ಅಕಾಡಮಿಗೆ ಸದಸ್ಯರಾಗಿ ಆಯ್ಕೆಯಾಗಿದ್ದಾರೆ.  ಅಕಾಡಮಿಯಲ್ಲಿ ಸೆನೇಟರ್‌ ಆಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.  2020 ರಲ್ಲಿ, ಸೂಕ್ಷ್ಮ ಜೀವರೋಧಕಗಳ ಪ್ರತಿರೋಧ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಕುರಿತಂತೆ, ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರಗಳ ಆಹಾರ ಮತ್ತು ಕೃಷಿ ಸಂಸ್ಥೆ (ಎಫ್.ಏ.ಒ), ವಿಶ್ವ ಪಶು ಆರೋಗ್ಯ ಸಂಸ್ಥೆ (ಓ.ಐ.ಈ) ಮತ್ತು ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆ (ಡಬ್ಲ್ಯೂ.ಎಚ್.ಓ) ಗಳ ವತಿಯಿಂದ ಪ್ರಾರಂಭವಾಗಿರುವ ʼಒನ್‌ ಹೆಲ್ತ್‌ ಗ್ಲೋಬಲ್‌ ಲೀಡರ್ಸ್‌ ಗ್ರೂಪ್‌ʼ ಮಂಡಳಿಯ ಸದಸ್ಯರಾಗಿ ನಾಮಾಂಕನ ಗೊಂಡಿದ್ದಾರೆ.**
 videosrc: https://player.vimeo.com/video/514243048
 readinglist:
-  - quadreadtxt: Perceptions of Health Care Use in Germany
+  - quadreadtxt: "ಹೆಲ್ಥ್ ಕೇರ್‌ ಯೂಸ಼್‌‌ "
     quadreadlink: https://pubmed.ncbi.nlm.nih.gov/33327486/
     quadreadvis: /static/img/B_CO_QUA_READVIS_1.jpg
-  - quadreadtxt: Does COVID-19 Threaten Global Solidarity?
+  - quadreadtxt: ಗ್ಲೋಬಲ್ ಸೊಲಿಡಾರಿಟಿ
     quadreadlink: https://www.sciencedirect.com/science/article/pii/S0305750X20304848
     quadreadvis: /static/img/B_CO_QUA_READVIS_2.jpg
-  - quadreadtxt: A New Way of Developing Vaccines for COVID-19 Could Help the World
-      to Prepare for Future Outbreaks
+  - quadreadtxt: ಪ್ಯಾಂಡೆಮಿಕ್ ಪ್ರಿಪೇರ್ಡ್ನೆಸ್‌
     quadreadlink: https://wellcome.org/news/new-way-developing-vaccines-covid-19-could-help-world-prepare-future-outbreaks
     quadreadvis: /static/img/B_CO_QUA_READVIS_3.jpg
 permalink: kn/covids/science-sense-in-pandemic/
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5cO2zn48DjhR25dKASkxGp
-    quadlisttxt: "Coronavirus: Shots, Shots, Shots!"
+    quadlisttxt: ಶಾಟ್ಸ್‌ ! ಶಾಟ್ಸ್‌ !
     quadlistvis: /static/img/B_CO_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.bbc.co.uk/programmes/m000rmht
-    quadlisttxt: Vaccination Strategies
+    quadlisttxt: ವ್ಹ್ಯಾಕ್ಸಿನೇಶನ್ ಸ್ಟ್ರಾಟೆಜೀಸ್‌
     quadlistvis: /static/img/B_CO_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=8n9bWR0CCBc
-    quadwatchtxt: COVID-19 Won’t End With One Vaccine
+    quadwatchtxt: ಕೋವಿಡ್‌ ವೋಂಟ್‌ ಎನ್ದ್‌ ವಿತ್‌ ವ್ಯಾಕ್ಸೀನ್ಸ್‌
     quadwatchvis: /static/img/B_CO_QUA_WATCHVIS_1.jpg
 ---
