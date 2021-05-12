@@ -1,6 +1,6 @@
 ---
-title: "Working Together For Public Education On Pandemic Risks: The Scientific
-  Collaboration Of The Smithsonian’s Outbreak Exhibit"
+title: ರೋಗ ಪಿಡುಗುಗಳಿಂದ ಉಂಟಾಗುವ ವಿಪತ್ತುಗಳನ್ನು ಎದುರಿಸಲು ಸಾರ್ವಜನಿಕ ಅರಿವು
+  :ಸ್ಮಿತ್ಸೋನಿಯನ್‌ ನ ರೋಗ ಸ್ಫೋಟ ಪ್ರದರ್ಶಿಕೆ ಯ ವೈಜ್ಞಾನಿಕ ಸಹಭಾಗಿತ್ವ
 permalink: kn/programmes/lectures/public-education-on-pandemic-risks/
 cata: hindsight
 catb: documenting
