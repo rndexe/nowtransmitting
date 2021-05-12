@@ -2,22 +2,30 @@
 	<div class = "flex flex-row h-full">
 		<div class="mr-16 w-auto h-full">
 			<div class="h-auto">
-				<p class="text-4xl font-display mb-3">{{prompta}}</p>
+				<p class="text-4xl mb-3
+					  {{ "font-baloo" if kannada else "font-display" 
+				">
+					{{prompta}}
+				</p>
 				<div class="w-20 h-0 border border-solid border-red-650"></div>
 			</div>
 			<div class="flex flex-row mt-6 h-4/6">
 				{%- for entry in promptAlist -%}
 				<div class="flex flex-row mr-16 h-full ">
 					{% if entry.name %}
-					<div class="ml-16 mr-10 mt-48">
-						<p class="text-sm mb-2 w-96 font-bold font-trade text-trueGray-750"> Photographer: {{entry.name}}</p>
-						<p class="text-sm mb-10 w-96 font-normal font-trade text-trueGray-750">{{entry.bio}}</p>
+					<div class="ml-16 mr-10 mt-48 
+						    {{ "font-tunga" if kannada else "font-trade" }}
+					">
+						<p class="text-sm mb-2 w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
 					</div>
 					{% endif %}
 					<div class= "flex flex-col w-auto h-full">
 						<img class="object-contain h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
 						<div class="w-96 pt-10">
-							<p class="text-xs font-normal font-trade text-trueGray-400">{{entry.caption}}</p>
+							<p class="text-xs font-normal text-trueGray-400
+							    {{ "font-tunga" if kannada else "font-trade" }}
+							">{{entry.caption}}</p>
 						</div>
 					</div>
 				</div>
@@ -26,22 +34,30 @@
 		</div>
 		<div class="mr-16 w-auto h-full">
 			<div class="h-auto">
-				<p class="text-4xl font-display mb-3">{{promptb}}</p>
+				<p class="text-4xl mb-3
+					  {{ "font-baloo" if kannada else "font-display" 
+				">
+					{{promptb}}
+				</p>
 				<div class="w-20 h-0 border border-solid border-red-650"></div>
 			</div>
 			<div class="flex flex-row mt-6 h-4/6">
 				{%- for entry in promptBlist -%}
 				<div class="flex flex-row mr-16 h-full ">
 					{% if entry.name %}
-					<div class="ml-16 mr-10 mt-48">
-						<p class="text-sm mb-2 w-96 font-bold font-trade text-trueGray-750"> Photographer: {{entry.name}}</p>
-						<p class="text-sm mb-10 w-96 font-normal font-trade text-trueGray-750">{{entry.bio}}</p>
+					<div class="ml-16 mr-10 mt-48
+					     {{ "font-tunga" if kannada else "font-trade" }}
+					">
+						<p class="text-sm mb-2 w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
 					</div>
 					{% endif %}
 					<div class= "flex flex-col w-auto h-full">
 						<img class="object-contain h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
 						<div class="w-96 pt-10">
-							<p class="text-xs font-normal font-trade text-trueGray-400">{{entry.caption}}</p>
+							<p class="text-xs font-normal text-trueGray-400
+							   {{ "font-tunga" if kannada else "font-trade" }}
+							">{{entry.caption}}</p>
 						</div>
 					</div>
 				</div>
@@ -50,7 +66,12 @@
 		</div>
 		<div class="mr-16 w-auto h-full">
 			<div class="h-auto">
-				<p class="text-4xl font-display mb-3">{{promptc}}</p>
+
+				<p class="text-4xl mb-3
+					  {{ "font-baloo" if kannada else "font-display" 
+				">
+					{{promptc}}
+				</p>
 				<div class="w-20 h-0 border border-solid border-red-650"></div>
 			</div>
 			<div class="flex flex-row mt-6 h-4/6">
@@ -75,7 +96,11 @@
 
 		<div class="mr-16 w-auto h-full">
 			<div class="h-auto">
-				<p class="text-4xl font-display mb-3">{{promptd}}</p>
+				<p class="text-4xl mb-3
+					  {{ "font-baloo" if kannada else "font-display" 
+				">
+					{{promptd}}
+				</p>
 				<div class="w-20 h-0 border border-solid border-red-650"></div>
 			</div>
 			<div class="flex flex-row mt-6 h-4/6">

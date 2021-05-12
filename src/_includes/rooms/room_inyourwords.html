@@ -10,10 +10,12 @@
 					{%- for entry in prompts.wplist -%}
 					<div class= "flex flex-row w-auto h-full">
 						<iframe class="w-192 h-full" allowfullscreen="true" style="border:none;" src="{{entry.link}}"></iframe>
-						<div class="ml-16 self-end w-96">
-							<p class="text-xl font-normal font-trade text-trueGray-400">{{entry.title}}</p>
-							<p class="text-base font-bold font-trade text-trueGray-400">By {{entry.name}}</p>
-							<p class="text-base font-normal font-trade text-trueGray-400">{{entry.bio}}</p>
+						<div class="ml-16 self-end w-96 
+						     {{ "font-tunga" if kannada else "font-trade" }}
+							">
+							<p class="text-xl font-normal text-trueGray-400">{{entry.title}}</p>
+							<p class="text-base font-bold text-trueGray-400">By {{entry.name}}</p>
+							<p class="text-base font-normal text-trueGray-400">{{entry.bio}}</p>
 						</div>
 					</div>
 					{%- endfor -%}
