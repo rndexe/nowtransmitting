@@ -92,37 +92,42 @@ recbooklist:
       ತಡೆದು, ನಗರವು ಸಾಮಾನ್ಯವಾಗಿ ಮುಂದುವರೆಯುವಂತೆ ಮಾಡಲು ಎಲ್ಲಾ ಪ್ರಯತ್ನ
       ಮಾಡುತ್ತಿದ್ದಾರೆ.
     coverimage: /static/img/RR_I am thinking of my darling.jpg
-  - title: I Contain Multitudes
-    author: Ed Yong
-    about: Many people think of microbes as germs to be eradicated, but those that
-      live with us build our bodies, and play an important role in our health.
-      In *I Contain Multitudes*, we go on a grand tour through our microbial
-      partners, and learn more about the scientists on the front lines of
-      discovery.
+  - title: ಐ ಕಂಟೇನ್‌ ಮಲ್ಟಿಟ್ಯೂಡ್ಸ್‌
+    author: ಎಡ್ ಯೊಂಗ್
+    about: ಬಹಳ ಜನರು, ಸೂಕ್ಷ್ಮಾಣುಗಳು ಸಹ ಕ್ರಿಮಿ ಕೀಟಗಳಂತೆ ಎಂದು ಭಾವಿಸಿ ಅವುಗಳನ್ನು
+      ನಿರ್ಮೂಲನಗೊಳಿಸಲು ಚಿಂತಿಸುತ್ತಾರೆ.  ಆದರೆ, ನಮ್ಮೊಂದಿಗೆ ಜೀವಿಸುವ ಸೂಕ್ಮ್ಮಾಣುಗಳು,
+      ನಮ್ಮ ದೇಹವನ್ನು ಸದೃಢವಾಗಿಡಲು ಮತ್ತು ಆರೋಗ್ಯವನ್ನು ಕಾಪಾಡಲು ಬಹು ಮುಕ್ಯ ಪಾತ್ರ
+      ವಹಿಸುತ್ತವೆ. “ಐ  ಕಂಟೇನ್‌ ಮಲ್ಟಿಟ್ಯೂಡ್ಸ್‌” ಕೃತಿಯಲ್ಲಿ, ನಮ್ಮೊಂದಿಗೆ ಜೀವಿಸುವ
+      ಸೂಕ್ಮ್ಮಾಣುಗಳ ಬಗೆಗೆ ಹಾಗೂ ಈ ಕುರಿತಂತೆ  ಪ್ರಮುಖ ಸಂಶೋಧನೆಗಳನ್ನು ನೆಡೆಸಿರುವ
+      ವಿಜ್ಞಾನಿಗಳ ಬಗೆಗೆ ಅರಿತುಕೊಳ್ಳುತ್ತೇವೆ.
     link: https://www.brainpickings.org/2016/08/10/i-contain-multitudes-ed-yong/
     coverimage: /static/img/RR_I contain multitudes.jpg
-  - title: Illness As a Metaphor
-    author: Susan Sontag
-    about: "*Illness As a Metaphor* shows us how the metaphors and myths surrounding
-      certain illnesses add greatly to the suffering of patients and inhibit
-      them from seeking proper treatment. By demystifying the fantasies
-      surrounding cancer, Sontag shows cancer for what it is--just a disease."
+  - title: ಇಲ್ನೆಸ್‌ ಆಸ್‌ ಎ ಮೆಟಫರ್‌
+    author: ಸುಸ್ಟಾನ್‌ ಸಾಂನ್ಟ್ಯಾಗ್
+    about: “ಇಲ್ನೆಸ್‌ ಆಸ್‌ ಎ ಮೆಟಫರ್‌”, ಕೃತಿಯಲ್ಲಿ,  ಕೆಲವು ರೋಗಗಳ ಬಗೆಗೆ ಜನರಲ್ಲಿ ಇರುವ
+      ಊಹಾಪೋಹಗಳು ಮತ್ತು ತಪ್ಪು ಕಲ್ಪನೆಗಳ ಕಾರಣದಿಂದ ರೋಗಿಗಳು ಹೇಗೆ ಹೆಚ್ಚು ಬಳಲುತ್ತಾರೆ,
+      ಮತ್ತು ಸರಿಯಾದ ಚಿಕಿತ್ಸೆ ಪಡೆಯುವುದು ಸಹ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ ಎಂಬುದನ್ನು ತಿಳಿಯ
+      ಬಹುದು.  ಸಾಂನ್ಟ್ಯಾಗ್, ಈ ಕೃತಿಯಲ್ಲಿ, ಕ್ಯಾನ್ಸರ್‌ ರೋಗವನ್ನು ಸುತ್ತುವರೆದಿರುವ
+      ಸುಳ್ಳು ವದಂತಿಗಳನ್ನು ಬಯಲು ಮಾಡಿ, ಕ್ಯಾನ್ಸರ್, ಚಿಕಿತ್ಸೆ ನೀಡಬೇಕಾದ ರೋಗ ಅಷ್ಟೆ, ಎಂಬ
+      ಸತ್ಯದ ಅರಿವನ್ನು ಮೂಡಿಸಿದ್ದಾರೆ.
     link: https://www.nybooks.com/articles/1978/01/26/illness-as-metaphor/
     coverimage: /static/img/RR_illness as metaphor.jpg
   - coverimage: /static/img/RR_My Own Country.jpg
-    title: "My Own Country: A Doctor’s Story"
-    author: Abraham Verghese
-    about: In *My Own Country*, an Indian physician Abraham Verghese recalls his
-      experience practicing in the remote, conservative town of Johnson City,
-      Tennessee, when HIV first emerged there in 1985.
+    title: "ಮೈ ಓನ್‌ ಕಂಟ್ರಿ: ಎ ಡಾಕ್ಟರ್ಸ್‌ ಸ್ಟೋರಿ"
+    author: ಅಬ್ರಹಾಮ್‌ ವರ್ಘೀಸ್‌
+    about: ಭಾರತೀಯ ವೈದ್ಯರಾದ ಅಬ್ರಹಾಮ್‌ ವರ್ಘೀಸ್‌ ಅವರು, ಟೆನ್ನೀಸೆನ ಬಹು ದೂರ ಒಳ ಭಾಗದಲ್ಲಿರುವ
+      ಜ್ಹಾನ್ಸನ್‌ ನಗರದಲ್ಲಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದ ಸಮಯ, 1985 ರಲ್ಲಿ ಎಚ್.ಐ.ವಿ   ರೋಗವು ಈ
+      ಊರನ್ನು ಕಾಡಿತ್ತು.  ಅವರು ತಮ್ಮ ಅನುಭವಗಳನ್ನು, “ಮೈ ಓನ್‌ ಕಂಟ್ರಿ” ಕೃತಿಯಲ್ಲಿ 
+      ವಿವರಿಸಿದ್ದಾರೆ.
     link: https://www.abrahamverghese.org/books/
   - coverimage: /static/img/RR_no magic bullet.jpg
-    title: No Magic Buller
-    author: Allan Brandt
-    about: Allan M. Brandt recounts the medical, military, and public health
-      responses that have arisen over the years--a broad spectrum that ranges
-      from the incarceration of sex-workers during World War I to the
-      establishment of required premarital blood tests.
+    title: ನೋ ಮ್ಯಾಜಿಕ್‌ ಬುಲೆಟ್
+    author: ಆಲನ್‌ ಬ್ರಾಂಡ್ಟ್
+    about: “ನೋ ಮ್ಯಾಜಿಕ್‌ ಬುಲೆಟ್”‌ ಕೃತಿಯಲ್ಲಿ ಆಲನ್‌ ಬ್ರಾಂಡ್ಟ್ ಅವರು, ಬಹು ಕಾಲದಿಂದ
+      ವೈದ್ಯಕೀಯ, ಸೈನಿಕ ಹಾಗೂ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಪ್ರತಿಕ್ರಿಯೆಗಳ ಅಭಿವೃದ್ಧಿಯನ್ನು
+      ವಿವರಿಸುತ್ತಾ -   ಮೊದಲನೇ ವಿಶ್ವ ಯುದ್ಧದ ಸಮಯದಲ್ಲಿ ವೇಶ್ಯೆಯರನ್ನು ಬಂಧಿಸಿ
+      ಸೆರೆಯಲ್ಲಿಡುವುದರಿಂದ ಪ್ರಾರಂಭಿಸಿ ಇತ್ತೀಚೆಗೆ ಪ್ರಚಲಿತವಾಗಿರುವ, ಮದುವೆಗೆ ಮುಂಚಿನ
+      ರಕ್ತ ಪರೀಕ್ಷೆಯ ಪರಿಸ್ಥಿತಿಯವರೆಗೂ ವಿವಿಧ ಬಗೆಯ ನೋಟಗಳನ್ನು ಚಿತ್ರಿಸಿದ್ದಾರೆ.
     link: https://www.hmsreview.org/covid/history-of-magic-bullets
   - coverimage: /static/img/RR_On Immunity.jpg
     title: "On Immunity: An inoculation"
@@ -142,7 +147,7 @@ recbooklist:
       today.
     link: https://www.thelancet.com/pdfs/journals/lanres/PIIS2213-2600(16)00107-7.pdf
     coverimage: /static/img/RR_Pandemics.jpg
-  - title: Plague Ki Chudail
+  - title: ಪ್ಲೇಗ್‌ ಕೀ ಚುಡೈಲ್
     author: Master Bhagwan Das
     about: "*Plague Ki Chudail* explores grief, fear and mortality in a town struck
       by the plague."
