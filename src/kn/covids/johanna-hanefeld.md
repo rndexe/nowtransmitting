@@ -1,22 +1,23 @@
 ---
-title: Learning from a Pandemic
-desc: Though COVID-19 is primarily a global health crisis, its ripple effect has
-  been felt in various spheres of life. It has changed how we work, how we
-  relax, and how we connect with each other. However, the effect of the pandemic
-  has varied significantly on a global level, with countries responding in
-  vastly different ways. Johanna Hanefeld, a social scientist at the Robert Koch
-  Institute, has been working on international pandemic preparedness and
-  responses. She explores how lessons learned from the current pandemic can help
-  us envision a more equitable response to future crises.
-permalink: kn/covids/learning-from-pandemic/
-speakername: Johanna Hanefeld
+title: ಪಿಡುಗಿನಿಂದ ಕಲಿಕೆ
+desc: ಕೋವಿಡ್-‌ 19, ಮೂಲತಃ ಜಾಗಗತಿಕ ಆರೋಗ್ಯ ವಿಪತ್ತಾಗಿದ್ದರೂ, ಇದರ ಬಹುಮುಖ ಪರಿಣಾಮಗಳು
+  ಜೀವನದ ಹಲವು ಕ್ಷೇತ್ರಗಳಿಗೂ ಆವರಿಸಿವೆ. ನಮ್ಮ ಕಾರ್ಯ ವೈಖರಿ, ವಿಶ್ರಾಂತಿ, ಪರಸ್ಪರ ಒಡನಾಟ
+  ಎಲ್ಲದರ ಮೇಲೂ ಬಹಳವಾಗಿ ಪರಿಣಾಮ ಬೀರಿದೆ.  ಆದಾಗ್ಯೂ, ಈ ಪಿಡುಗಿನಿಂದಾಗಿ,  ಜಾಗತಿಕ
+  ಮಟ್ಟದಲ್ಲಿ, ವಿವಿಧ ರಾಷ್ಟ್ರಗಳ ಪ್ರತಿಕ್ರಿಯೆಗಳ ಮೇಲೂ ಹಲವು ಬದಲಾವಣೆಯನ್ನು ತಂದಿದೆ. 
+   ಜೊಹನ್ನ ಹ್ಯಾನ್ಫೆಲ್ಡ್, ʼರಾಬರ್ಟ್‌ ಕೋಚ್‌ ಸಂಸ್ಥೆʼ ಯಲ್ಲಿ ಸಾಮಾಜಿಕ ವಿಜ್ಞಾನಿಯಾಗಿ ಕಾರ್ಯ
+  ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.  ಇವರು ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಮಟ್ಟದಲ್ಲಿ ಪಿಡುಗನ್ನು ಎದುರಿಸಲು ತಯಾರಿ
+  ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆಗಳ ಬಗೆಗೆ ಅಧ್ಯಯನ ನೆಡೆಸಿದ್ದಾರೆ.    ವರ್ತಮಾನ ಪಿಡುಗಿನ ವಾತಾವರಣದಿಂದ
+  ಅರಿತ ವಿಷಯಗಳ ಆಧಾರದ ಮೇಲೆ ಭವಿಷ್ಯವನ್ನು ಹೇಗೆ ಉತ್ತಮ ರೀತಿಯಲ್ಲಿ ಕಟ್ಟಿಕೊಳ್ಳಬಹುದು,
+  ಭವಿಷ್ಯದ ವಿಪತ್ತನ್ನು ಎದುರಿಸಲು ಸನ್ನದ್ಧರಾಗ ಬಹುದು ಎಂದು ಸಂಶೋಧನೆ ನೆಡೆಸುತ್ತಿದ್ದಾರೆ.
+speakername: ಜೊಹಾನ್ನ ಹೆನಾಫೆಲ್ಡ್
 speakerimage: /static/img/N_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/N_CO_THUMBNAIL.png
-speakerfield: Social Scientist
-speakerbio: Johanna Hanefeld is the Director of the Centre for International
-  Health Protection (ZIG), Robert Koch Institute, Berlin, and an Associate
-  Professor of Health Policy and Systems at the London School of Hygiene and
-  Tropical Medicine.
+speakerfield: "ಸಮಾಜ ವಿಜ್ಞಾನಿ "
+speakerbio: ಜೊಹಾನ್ನ ಹೆನಾಫೆಲ್ಡ್, ʼಬರ್ಲಿನ್‌ʼ ನ ʼರಾಬರ್ಟ್‌ ಕೋಚ್‌ ಸಂಸ್ಥೆʼ ಯಲ್ಲಿ 
+  ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಆರೋಗ್ಯ ಸಂರಕ್ಷಣೆ ಕೇಂದ್ರದಲ್ಲಿ (ಜಿಗ್)‌ ನಿರ್ದೇಶಕರಾಗಿ ಸೇವೆ
+  ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ. ಇವರು, ಲಂಡನ್‌ ಸ್ಕೂಲ್‌ ಆಫ್‌ ಹೈಜೀನ್‌ ಆಂಡ್‌ ಟ್ರಾಪಿಕಲ್‌
+  ಮೆಡಿಸಿನ್‌ ʼ ಸಂಸ್ಥೆಯಲ್ಲಿ ಆರೋಗ್ಯ ನೀತಿ ಮತ್ತು ವ್ಯವಸ್ಥೆಗಳ  ಸಹ ವಿರ್ವಹಣೆ ಕಾರ್ಯವನ್ನೂ
+  ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ.
 readinglist:
   - quadreadlink: https://www.bbc.com/news/world-africa-54418613
     quadreadtxt: "Coronavirus in Africa: Five Reasons Why Covid-19 Has Been Less
@@ -26,9 +27,9 @@ readinglist:
     quadreadtxt: Lessons on Building More Equal and Sustainable Societies
     quadreadvis: /static/img/N_CO_QUA_READVIS_3.jpg
   - quadreadlink: https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-020-00645-5
-    quadreadtxt: "Assessing COVID-19 Through The Lens Of Health Systems’
-      Preparedness: Time For A Change"
+    quadreadtxt: ಪ್ಯಾನ್ಡಮಿಕ್ ಪ್ರಿಪೇರ್ಡ್ನೆಸ್
     quadreadvis: /static/img/N_CO_QUA_READVIS_1.jpg
+permalink: kn/covids/learning-from-pandemic/
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/2ZGpbI0B2SYfWt6PO8NPGt
     quadlisttxt: "COVID-19: How are African Countries Coping?"
