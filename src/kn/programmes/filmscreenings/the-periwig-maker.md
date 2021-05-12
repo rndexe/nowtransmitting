@@ -1,5 +1,5 @@
 ---
-title: "ದಿ ಪೆರಿವಿಗ್‌ ಮೇಕರ್ The Periwig-Maker "
+title: ದಿ ಪೆರಿವಿಗ್‌ ಮೇಕರ್
 permalink: kn/programmes/films/the-periwig-maker/
 cata: spillover
 catb: narrating
@@ -52,10 +52,10 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-tumbe
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
-  - quadrelatedtxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar "
+  - quadrelatedtxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್‌  ಚಿತ್ರಾಕೃತಿ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ "
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
-  - quadrelatedtxt: "Controlling the Plague in British India by Christos Lynteris "
+  - quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
