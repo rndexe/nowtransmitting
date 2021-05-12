@@ -1,5 +1,5 @@
 ---
-title: Drawing (from) the Bombay Plague
+title: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ (ಪ್ರೇರಿತ) ಚಿತ್ರಾಕೃತಿ
 permalink: kn/programmes/workshops/drawing-from-the-bombay-plague/
 cata: spillover
 catb: narrating
@@ -20,7 +20,7 @@ description: >-
   ಬಾಂಬೆ ಪ್ಲೇಗ್‌ (ಪ್ರೇರಿತ) ಚಿತ್ರಾಕೃತಿ ಗೆ ಸಂಬಂಧಿಸಿದ ಈ ಕಾರ್ಯಾಗಾರದಲ್ಲಿ ಐತಿಹಾಸಿಕ ರೋಗ ಪಿಡುಗಿನ ಸಂದರ್ಭದ ಅನುಭವದೊಂದಿಗೆ, ವರ್ತಮಾನ ರೋಗ ಪಿಡುಗಿನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಹೋಲಿಸಿ ವಿಮರ್ಶೆ ಮಾಡುವ ಅವಕಾಶ ದೊರೆಯುವುದು.
 condition: "15-28 ವರ್ಷ ವಯೋಮಿತಿಯೊಳಗಿನ ಯುವಕರಿಗೆ ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು. "
 link: http://bit.ly/workshop-kandalgaonkar
-expertname: "Ranjit Kandalgaonkar "
+expertname: ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌
 expertbio: >-
   ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ ಅವರು ಮುಂಬೈನ ನಿವಾಸಿ. ಇಲ್ಲಿಯೇ ಅವರು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ. 
   ನಗರೀಕರಣದ ಕುರಿತಂತೆ ಅಧ್ಯಯನ ಮಾಡುತ್ತಿದ್ದಾರೆ.  ʼಸಿಟಿ ಇನ್‌ ಫ್ಲಕ್ಸ್‌, ಜೆಂಟ್ರಿಸಿಟಿ,
