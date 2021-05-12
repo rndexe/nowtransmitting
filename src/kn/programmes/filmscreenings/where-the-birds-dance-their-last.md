@@ -1,5 +1,5 @@
 ---
-title: ವ್ಹೇರ್ ಬರ್ಡ್ಸ್‌ ಡ್ಯಾನ್ಸ್‌ ಧೇರ್‌ ಲಾಸ್ಟ್‌ Where the Birds Dance Their Last
+title: ವ್ಹೇರ್ ಬರ್ಡ್ಸ್‌ ಡ್ಯಾನ್ಸ್‌ ಧೇರ್‌ ಲಾಸ್ಟ್‌
 permalink: kn/programmes/films/where-the-birds-dance-their-last/
 cata: transmission
 catb: documenting
@@ -51,18 +51,19 @@ watchinglist:
     quadwatchvis: /static/img/B_FS_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-bresalier
-    quadeventtxt: "Contagion Across Species: Global Histories and Ecologies of
-      Zoonotic Diseases | Lecture by Michael Bresalier "
+    quadeventtxt: "ಪ್ರಭೇದಗಳ ನಡುವೆ ವ್ಯಾಪನಗಳು: ಪ್ರಾಣಿ-ಪಕ್ಷಿ ಮೂಲದಿಂದ ಹರಡುವ ರೋಗಗಳ
+      ಪರಿಸರಗಳು ಮತ್ತು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಜಾಗತಿಕ ಇತಿಹಾಸ | ಉಪನ್ಯಾಸ | ಮೈಖೇಲ್‌
+      ಬ್ರಸೇಲಿಯರ್‌"
     quadeventvis: /static/img/pl_michael.png
   - quadeventtxt: "Decoding One Health | Workshop by Bengaluru One Health City
       Consortium and the echo network "
     quadeventlink: http://bit.ly/workshop-onehealth
     quadeventvis: /static/img/wk_echo.png
 relatedlist:
-  - quadrelatedtxt: "Contagion in the 21st Century by Robert Koch Institute "
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedtxt: "A Cluster of 17 Cases "
+  - quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
