@@ -1,5 +1,5 @@
 ---
-title: "ಥೇರಿಯಾಕ್‌ : ದೃಶ್ಯಗಳ ಹಿಂಬದಿಯ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ"
+title: "ಥೇರಿಯಾಕ್‌: ದೃಶ್ಯಗಳ ಹಿಂಬದಿಯ ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ"
 permalink: kn/programmes/workshops/theriak-behind-the-scence-in-a-lab/
 cata: trigger
 catb: experimenting
