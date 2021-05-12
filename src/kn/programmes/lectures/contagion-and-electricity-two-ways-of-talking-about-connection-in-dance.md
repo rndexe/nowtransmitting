@@ -6,17 +6,15 @@ catb: documenting
 thumb: /static/img/pl_ananya.png
 cover: /static/img/M_PL_Coverimage.jpg
 date: 2021-05-23T13:00:00.000Z
-description: >-
-  Es como electricidad/ el mambo tiene la chispa’ (Mambo is like electricity; it
-  contains a spark): thus sang Afro-Cuban diva Celia Cruz in 1951, in ‘Mambo del
-  amor’, which celebrated the thrills of this new dance and music genre. From
-  the early 19th century onwards, it was commonplace to explain the connection
-  produced through social dancing as ‘electricity’. But as the science of
-  epidemiology developed through the 19th century, another metaphor also began
-  to be used increasingly for that connection: ‘contagion.’ 
-
-
-  Does social dance spread virally, or does it thrive through an electric connection? How does the competition between these metaphors relate to the formation of modernity’s social dances through colonialism, capitalism, and slavery, and how can we use them to understand the way we must dance during the pandemic?
+description: 1951ರಲ್ಲಿ ʼಮಾಂಬೋ ಡೆಲ್‌ ಅಮೋರ್‌ʼ ನವ ನೃತ್ಯ ಗಾಯನ ಸಂಚಿಕೆಯಲ್ಲಿ, ʼಮಾಂಬೋ
+  ವಿದ್ಯುತ್‌ ತರಹ, ಅದರಲ್ಲಿ ಕಿಡಿಯಿದೆ. ಎಂದು ಆಫ್ರೋ ಕ್ಯೂಬಾದ ʼದಿವಾ ಕೂಜ್”‌  
+  ಹಾಡಿದ್ದಾರೆ.  ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದ ಆದಿಯಿಂದಲೂ ಸಾಮಾಜಿಕ ನೃತ್ಯ ರೂಪಕಗಳಲ್ಲಿ,
+  ಸೃಷ್ಟಿಯಾಗುತ್ತಿದ್ದ ಸಂಬಂಧಗಳನ್ನು ವಿದ್ಯುತ್ತಿಗೆ ಹೋಲಿಸುವುದು, ಸರ್ವೇ ಸಾಮಾನ್ಯವಾಗಿದೆ. 
+  ಆದರೆ ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದಲ್ಲಿ ರೋಗ ಸಾಂಕ್ರಾಮಿಕಗಳ ಅಧ್ಯಯನವು ವಿಕಸನಗೊ ಳ್ಳುತ್ತಾ
+  ಹೋದಂತೆಲ್ಲ , ʼಕಂಟೇಜನ್”‌ “ವ್ಯಾಪನ”  ಪದವು ರೂಪಕದಂತೆ ಅಸ್ಥಿತ್ವ ತಾಳಿದೆ.  ಈ ಎರಡೂ
+  ರೂಪಕಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ  ನೃತ್ಯರೂಪಗಳು ಹೊಸ ಬಗೆಯ ಆಧುನಿಕ ಸಾಮಾಜಿಕ ನೃತ್ಯ ರೂಪಗಳಾಗಿ
+  ಪರಿಣಮಿಸಿವೆ , ಇವುಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ನಡುವೆಯೂ ಹೇಗೆ ನಲಿಯ
+  ಬೇಕು ಎಂಬುದರ ವಿವರಣೆ ಇಲ್ಲಿದೆ.
 link: http://bit.ly/lecture-kabir
 expertname: "ಅನನ್ಯ ಕಬೀರ್‌ "
 expertbio: "ಡಾ.ಅನನ್ಯ ಜಹನಾರಾ ಕಬೀರ್‌,  ಕಿಂಗ್ಸ್‌ ಕಾಲೇಜ್‌, ಲಂಡನ್‌ ಅಲ್ಲಿ ಇಂಗ್ಲಿಷ್‌
@@ -58,10 +56,10 @@ eventlist:
     quadeventlink: http://bit.ly/films-ghani
     quadeventvis: /static/img/f_mariam.png
 relatedlist:
-  - quadrelatedtxt: When the World Was A Laugh by Anais Tondeur
+  - quadrelatedtxt: ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ  | ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್
     quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
     quadrelatedvis: /static/img/B_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
-    quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+    quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
