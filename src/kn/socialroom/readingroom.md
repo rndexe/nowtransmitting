@@ -5,26 +5,26 @@ description: ರೋಗದ ಬಗೆಗೆ ನಮಗಿರುವ ಅನುಭವ�
   ಸಾಂಕ್ರಾಮಿಕಗಳನ್ನು ಕುರಿತಂತಹ ಅಧ್ಯಯನ ಸಾಮಗ್ರಿಯನ್ನು ಅನ್ವೇಷಿಸಿ.
 icon: /static/img/reading-room-square.svg
 openbooklist:
-  - title: A Journal of the Plague Year
-    author: Daniel Defoe
+  - title: ಜರ್ನಲ್‌ ಆಫ್‌ ದಿ ಪ್ಲೇಗ್‌ ಇಯರ್‌
+    author: ಡೇನಿಯಲ್‌ ಡೆಫೊ
     about: "*A Journal of the Plague Year* narrates the account of one man's
       experiences during 1665 when the bubonic plague struck the city of London.
       An amalgamation of history, and fiction this narrative represents a
       gripping report of life during the 'Great Plague.'"
     listlink: https://e.issuu.com/embed.html?d=journalofplagu00defo&hideIssuuLogo=true&hideShareButton=true&pageNumber=12&u=sciencegallerybengaluru
-  - title: "Laughter: An Essay on the Meaning of the Comic"
-    author: Henri Bergson
-    about: "*Laughter* is a collection of three essays by French philosopher Henri
-      Bergson, first published in 1900. In this collection, he explores why
-      people laugh and the role that laughter plays in social situations."
+  - title: ಲಾಫ್ಟರ್:‌ ಎನ್‌ ಎಸ್ಸೇ ಆನ್‌ ದಿ ಮೀನಿಂಗ್‌ ಆಫ್‌ ದಿ ಕಾಮಿಕ್‌
+    author: ಹೆನ್ರಿ ಬರ್ಗ್‌ ಸನ್‌
+    about: ಫ್ರೆಂಚ್‌ ತತ್ವಜ್ಞರಾದ ಹೆನ್ರಿ ಬರ್ಗ್‌ ಸನ್‌ ಅವರು  ಮೂರು ಪ್ರಬಂಧಗಳುಳ್ಳ, ʼಲಾಫ್ಟರ್ʼ
+      ಎಂಬ ಸಂಕಲನವನ್ನು 1900 ರಲ್ಲಿ ಪ್ರಕಟಗೊಳಿಸಿದರು.  ಈ ಸಂಕಲನದಲ್ಲಿ, ಜನರು ಸಾಮಾನ್ಯವಾಗಿ
+      ಏಕೆ ನಗುತ್ತಾರೆ, ಸಾಮಾಜಿಕ ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ನಗುವಿನ ಪಾತ್ರ ಏನು ಎಂಬುದನ್ನು ಹುಡುಕುವ
+      ಪ್ರಯತ್ನ ಮಾಡಿದ್ದಾರೆ.
     listlink: https://e.issuu.com/embed.html?d=laughter&hideIssuuLogo=true&hideShareButton=true&pageNumber=10&u=sciencegallerybengaluru
-  - title: The Art of Antibiotics
-    author: Markus Schmidt, et al.
-    about: "*The Art of Antibiotics* documents the artist in residency program that
-      was organized within SYNPEPTIDE, a project funded by the Seventh Framework
-      Programme of the European Commission. This booklet details the production
-      of Sarah Craske’s exhibit THERIAK | Disease Map, which was produced during
-      the residency."
+  - title: ದಿ ಆರ್ಟ್‌ ಆಫ್‌ ಆಂಟಿಬಯೋಟಿಕ್ಸ್‌
+    author: ಮಾರ್ಕಸ್‌ ಶ್ಮಿತ್ ಮತ್ತು ಇತರರು
+    about: ಈ.ಸಿ.ಎಫ್‌ಪಿ7 ಮುಖಾಂತರ ಅನುದಾನ ಪಡೆದು, ಸಿನ್‌ ಪೆಪ್ಟೈಡ್‌ ಪರಿಯೋಜನೆಯ ಅಡಿಯಲ್ಲಿ
+      ಆಯೋಜಿತವಾದ ನಿವಾಸಿ ಕಲಾವಿದರ ಕಾರ್ಯಕ್ರಮದ ವಿವರಣೆಗಳನ್ನು  ಈ ಕಿರು ಕೃತಿಯಲ್ಲಿ
+      ವಿವರಿಸಲಾಗಿದೆ. ಹೊಸ ಬಗೆಯ ಪೆಪ್ಟೈಡ್‌ ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕಗಳನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿ
+      ಪರೀಕ್ಷಿಸುವುದು, ಈ ಪರಿಯೋಜನೆಯ ಮೂಖ್ಯ ಉದ್ದೇಶ ವಾಗಿತ್ತು.
     listlink: https://e.issuu.com/embed.html?d=the-art-of-antibiotics&hideIssuuLogo=true&hideShareButton=true&u=sciencegallerybengaluru
   - title: Polio Across the Iron Curtain
     author: Dora Vargha
