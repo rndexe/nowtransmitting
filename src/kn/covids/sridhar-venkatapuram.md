@@ -24,24 +24,24 @@ speakerbio: ಶ್ರೀಧರ್ ವೆಂಕಟಪುರಂ ಶೈಕ್ಷಣ
 videosrc: https://player.vimeo.com/video/517024746
 readinglist:
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/19452829.2020.1786028
-    quadreadtxt: Human Capabilities and Pandemics
+    quadreadtxt: ಹ್ಯೂಮನ್‌ ಕೇಪೆಬಿಲಿಟೀಸ್‌
     quadreadvis: /static/img/C_CO_QUA_READVIS_2.jpg
   - quadreadlink: https://www.amazon.co.uk/Health-Justice-Argument-Capabilities-Approach/dp/074565035X
-    quadreadtxt: "Health Justice: An Argument for the Capabilities Approach "
+    quadreadtxt: ಹೆಲ್ಥ್‌ ಜಸ್ಟಿಸ್‌
     quadreadvis: /static/img/C_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nature.com/articles/nm1150
-    quadreadtxt: Risk Factors in the Emergence of Infectious Diseases
+    quadreadtxt: ರಿಸ್ಕ್‌ ಫ್ಯಾ಼ಕ್ಟರ್ಸ್‌
     quadreadvis: /static/img/C_CO_QUA_READVIS_3.jpg
 permalink: kn/covids/health-justice-in-pandemic/
 listeninglist:
   - quadlistlink: https://soundcloud.com/kingsghi/sets/bmj-public-health-covid
-    quadlisttxt: Public Health in Pandemic
+    quadlisttxt: ಪಬ್ಲಿಕ್‌ ಹೆಲ್ತ್‌ ಎತಿಕ್ಸ್‌
     quadlistvis: /static/img/C_CO_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/5O0ZWbh67SzGkxnjPfPLS5?si=DBK6Wuf2Rd-5JSv1VcrHKQ&nd=1
-    quadlisttxt: Global Health Ethics
+    quadlisttxt: ಗ್ಲೋಬಲ್ ಹೆಲ್ತ್‌ ಎತಿಕ್ಸ್‌
     quadlistvis: /static/img/C_CO_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Ex1AqnM6U9Y&feature=youtu.be&ab_channel=TEDxTalks
-    quadwatchtxt: Principles of Health Justice
+    quadwatchtxt: ಪ್ರಿನ್ಸಿಪಲ್ಸ್‌ ಆಫ್‌ ಹೆಲ್ಥ್‌ ಎಥಿಕ್ಸ್‌
     quadwatchvis: /static/img/C_CO_QUA_WATCHVIS_1.jpg
 ---
