@@ -83,10 +83,10 @@ listeninglist:
     quadlisttxt: ಸಾರ್ಸ್‌ ರೋಗದ ಕಥಾ ಯಾನ
     quadlistvis: /static/img/h_exhibit_qua_listvis_2.jpg
 eventlist:
-  - quadeventtxt: "Outbreak | Lecture by Sabrina Sholts "
+  - quadeventtxt: ವೈಜ್ಞಾನಿಕ  | ಉಪನ್ಯಾಸ | ಸಬ್ರೀನಾ ಶಾಲ್ಟ್ಸ್
     quadeventlink: https://www.eventbrite.com/e/148315625027
     quadeventvis: /static/img/h_exhibit_qua_atnvis_1.jpg
-  - quadeventtxt: Creating Interactive Art About Pandemics | Masterclass by Matt Adams
+  - quadeventtxt: ರೋಗ ಪಿಡುಗುಗಳ ಬಗೆಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲೆಯ ಸೃಷ್ಟಿ | ಪರಿಣತಿ ತರಗತಿ | ಮ್ಯಾಟ್ಟ್‌ ಆಡಮ್ಸ್
     quadeventlink: https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
 authorbio: >-
