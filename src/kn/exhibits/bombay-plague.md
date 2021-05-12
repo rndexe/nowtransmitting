@@ -41,20 +41,20 @@ tertxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್‌ (ಪ್ರೇರಿತ) ಚಿತ
   ವೆಲ್ಲ್ ಕಮ್‌ ಸಂಗ್ರಹಣೆ "
 readinglist:
   - quadreadlink: https://www.atlasobscura.com/articles/how-bombay-plague-changed-mumbai
-    quadreadtxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್  ಯಾವ ರೀತಿಯಲ್ಲಿ ಇಡೀ ಮುಂಬಯಿಯನ್ನು ಎಂದೆಂದಿಗೂ ಬದಲಾಯಿಸಿಬಿಟ್ಟಿತು. "
+    quadreadtxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್ ಯಾವ ರೀತಿಯಲ್ಲಿ ಇಡೀ ಮುಂಬಯಿಯನ್ನು ಎಂದೆಂದಿಗೂ ಬದಲಾಯಿಸಿಬಿಟ್ಟಿತು. "
     quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_1.jpg
-  - quadreadtxt: "ವಾಲ್ಡೆಮರ್‌ ಹಾಫ್ಕಿನ್‌ : ವಿಶ್ವವು ಮರೆತಿರುವ ಪ್ರಥಮ ಲಸಿಕೆ ತಯಾರಕರು. "
+  - quadreadtxt: "ವಾಲ್ಡೆಮರ್‌ ಹಾಫ್ಕಿನ್‌: ವಿಶ್ವವು ಮರೆತಿರುವ ಪ್ರಥಮ ಲಸಿಕೆ ತಯಾರಕರು. "
     quadreadlink: https://www.bbc.com/news/world-asia-india-55050012
     quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_2.jpg
   - quadreadtxt: ಇತಿಹಾಸದಲ್ಲಿ ಮಾನವರು ರೋಗ ಪಿಡುಗುಗಳಿಗೆ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯೆ ವ್ಯಕ್ತ
-      ಪಡಿಸಿದ್ದಾರೆ. – ದೃಶ್ಯ ಮಾರ್ಗದರ್ಶಿ
+      ಪಡಿಸಿದ್ದಾರೆ – ದೃಶ್ಯ ಮಾರ್ಗದರ್ಶಿ
     quadreadlink: https://www.theguardian.com/society/ng-interactive/2020/apr/29/how-humans-have-reacted-to-pandemics-through-history-a-visual-guide
     quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlisttxt: "ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯು ಬಾಂಬೆಯನ್ನು ಆವರಿಸಿದ ಸಂದರ್ಭ "
     quadlistlink: https://open.spotify.com/episode/5HjxQ9PO2RzMvUaIKrcq9A
     quadlistvis: /static/img/C_EXHIBIT_QUA_LISTVIS_1.jpg
-  - quadlisttxt: "ಪ್ಲೇಗ್‌ ಮತ್ತು ಕೋವಿಡ್‌ -19 ರೋಗ ಪಿಡುಗುಗಳ  ನಡುವಣ ಸಾಮ್ಯತೆ : ಪ್ರಶಾಂತ್‌ ಕಿಡಂಬಿ"
+  - quadlisttxt: "ಪ್ಲೇಗ್‌ ಮತ್ತು ಕೋವಿಡ್‌ -19 ರೋಗ ಪಿಡುಗುಗಳ  ನಡುವಣ ಸಾಮ್ಯತೆ: ಪ್ರಶಾಂತ್‌ ಕಿಡಂಬಿ"
     quadlistlink: https://podcasts.adorilabs.com/s/e?eid=IAUASrTk2esBNlB6
     quadlistvis: /static/img/C_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
@@ -62,11 +62,10 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=MYnMXEcHI7U&pbjreload=101
     quadwatchvis: /static/img/C_EXHIBIT_QUA_WATCH_VIS_1.jpg
 eventlist:
-  - quadeventtxt: "Workshop by Ranjit Kandalgaonkar "
+  - quadeventtxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್‌ (ಪ್ರೇರಿತ) ಚಿತ್ರಾಕೃತಿ | ಕಾರ್ಯಾಗಾರ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ "
     quadeventlink: https://www.eventbrite.com/e/drawing-from-the-bombay-plague-workshop-registration-148222681029
     quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
-  - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
-      Century India | Lecture by David Arnold"
+  - quadeventtxt: ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ | ಉಪನ್ಯಾಸ | ಡೇವಿಡ್‌  ಆರ್ನಲ್ಡ್
     quadeventlink: https://www.eventbrite.com/e/145397629223
     quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
   - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
