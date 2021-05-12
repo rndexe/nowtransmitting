@@ -139,13 +139,14 @@ recbooklist:
       ಎಲ್ಲಾ ಪಿಡುಗುಗಳ ವಿರುದ್ಛ, ನಮಗೆ ಅಥವಾ ನಮ್ಮ ಮಕ್ಕಳಿಗೆ ರಕ್ಷಣೆ ಒದಗಿಸಲು
       ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.
     link: https://www.brainpickings.org/2021/03/19/eula-biss-on-immunity/
-  - title: "Pandemic: Tracking Contagions, From Cholera to Coronaviruses and Beyond"
-    author: Sonia Shah
-    about: In *Pandemic*, Sonia Shah interweaves history, original reportage, and
-      personal narrative to explore the origins of epidemics, drawing parallels
-      between cholera―one of history’s most deadly and disruptive
-      pandemic-causing pathogens―and the new diseases that stalk humankind
-      today.
+  - title: ಪ್ಯಾಂಡಮಿಕ್:‌ ಟ್ರ್ಯಾಕಿಂಗ್‌ ಕಂಟೇಜನ್ಸ್‌, ಫ್ರಂ ಖಾಲೆರಾ ಟು ಕರೋನಾ ವೈರಸಸ್  ಆಂಡ್‌
+      ಬಿಯಾಂಡ್
+    author: ಸೋನಿಯಾ ಶಾ
+    about: “ಪ್ಯಾಂಡಮಿಕ್”, ಈ ಪುಸ್ತಕದಲ್ಲಿ ಸೋನಿಯಾ ಶಾ ಅವರು, ಇತಿಹಾಸದ ಘಟನೆಗಳು ಮತ್ತು ಮೂಲ
+      ವರದಿಗಳನ್ನು ಬಳಸಿಕೊಂಡು, ಸ್ವಂತ ಕಥನವನ್ನು ಹೆಣೆದು, ಇತಿಹಾಸದಲ್ಲಿಯೇ ಅತಿ ಮಾರಕವಾದ
+      ಮತ್ತು ಭಯಂಕರ ಮಹಾಮಾರಿಯಾಗಿ ರೂಪ ತಾಳಿದ ಖಾಲೆರಾ ರೋಗ ಕಾರಕಗಳು ಹಾಗೂ ಮಾನವ ಕುಲವನ್ನು
+      ಪ್ರಸಕ್ತ ಕಾಲದಲ್ಲಿ ಕಾಡುತ್ತಿರುವ  ಹಲವು ರೋಗಗಳ ಮೂಲವನ್ನು ಅರಿಯುವ ಪ್ರಯತ್ನ
+      ಮಾಡಿದ್ದಾರೆ.
     link: https://www.thelancet.com/pdfs/journals/lanres/PIIS2213-2600(16)00107-7.pdf
     coverimage: /static/img/RR_Pandemics.jpg
   - title: ಪ್ಲೇಗ್‌ ಕೀ ಚುಡೈಲ್
@@ -154,86 +155,94 @@ recbooklist:
       “ಪ್ಲೇಗ್‌ ಕೀ ಚುಡೈಲ್” ಕೃತಿಯಲ್ಲಿ ವಿಮರ್ಶಿಸಲಾಗಿದೆ.
     link: https://scroll.in/article/975441/plague-ki-chudail-this-bittersweet-short-story-from-1902-explores-grief-fear-and-mortality
     coverimage: /static/img/RR_PlagueKiChudail.jpg
-  - title: Plague and Quarantine
-    author: Rajinder Singh Bedi
-    about: "*Plague and Quarantine* tells the story of a sanitation worker who
-      treats patients with compassion and inspires a doctor to follow suit."
+  - title: ಪ್ಲೇಗ್‌ ಆಂಡ್‌ ಕ್ವಾರಂಟೈನ್‌
+    author: ರಾಜಿಂದರ್‌ ಸಿಂಗ್‌ ಬೇಡಿ
+    about: ರಾಜಿಂದರ್‌ ಸಿಂಗ್‌ ಬೇಡಿ ಯವರ “ಪ್ಲೇಗ್‌ ಆಂಡ್‌ ಕ್ವಾರಂಟೈನ್‌", ಕೃತಿಯಲ್ಲಿ ಶೌಚಾಲಯದ
+      ಕಾರ್ಮಿಕನೊಬ್ಬ ರೋಗಿಗಳಿಗೆ ಸಹಾನುಭೂತಿಯನ್ನು ತೋರುತ್ತಾನೆ. ವೈದ್ಯರು ಸಹ ಇಂತಹ
+      ವ್ಯಕ್ತಿತ್ವದಿಂದ ಪ್ರೇರಣೆ ಪಡೆಯುತ್ತಾರೆ.
     link: https://thewire.in/books/what-an-80-year-old-short-story-tells-us-about-ethics-during-qurantine
     coverimage: /static/img/RR_PlagueandQuarantine.jpg
-  - title: Pox Americana
-    author: Elizabeth Fenn
-    about: A horrifying epidemic of smallpox was sweeping across the Americas when
-      the American Revolution began, and yet we know almost nothing about it.
-      *Pox Americana* reveals how deeply smallpox affected the outcome of the
-      war in every colony and the lives of everyone in North America.
+  - title: ಪಾಕ್ಸ್‌ ಅಮೇರಿಕಾನ
+    author: ಎಲಿಜಿಬತ್ ಫೆನ್ನ್
+    about: ಅಮೇರಿಕಾದ ಕ್ರಾಂತಿಯ ನಡುವೆ, ಸಿಡುಬು ರೋಗದಂತಹ ಭಯಾನಕ ರೋಗ ಪಿಡುಗು ಅಮೇರಿಕಾ ಖಂಡವನ್ನೇ
+      ಆವರಿಸಿತ್ತು. ಆದರೆ ಈ ಪಿಡುಗಿನ ಬಗೆಗೆ ಜನಸಾಮಾನ್ಯರಿಗೆ ಹೆಚ್ಚು ಮಾಹಿತಿ ಇಲ್ಲ. ಯುದ್ಧದ
+      ಮೇಲೆ ವೆರಿಯೋಲಾ ಸಿಡುಬು ಬಹಳ ಆಳವಾದ ಪ್ರಭಾವವನ್ನು ಬೀರಿತು. ಉತ್ತರ ಅಮೇರಿಕಾದ
+      ಪ್ರತಿಯೊಬ್ಬರ ಜೀವನವನ್ನೇ ಬಹಳ ಮಟ್ಟಿಗೆ  ಪರಿವರ್ತನೆ ಮಾಡಿಬಿಟ್ಟಿತು. ಈ ಸತ್ಯವನ್ನು
+      ಬಯಲು ಮಾಡಿದ ಇತಿಹಾಸಕಾರರಲ್ಲಿ, ಎಲಿಜಿಬತ್ ಫೆನ್ನ್  ಮೊದಲಿಗರು.
     link: https://www.historytoday.com/reviews/pox-americana
     coverimage: /static/img/RR_pox americana.jpg
-  - title: Severance
-    author: Ling Ma
-    about: Maybe it’s the end of the world, but not for Candace Chen, a millennial,
-      first-generation American and office drone meandering her way into
-      adulthood in Ling Ma’s offbeat, wryly funny, apocalyptic satire,
-      *Severance*.
+  - title: ಸಿವಿಯರೆನ್ಸ್
+    author: ಲಿಂಗ್‌ ಮಾ
+    about: ಬಹುಶಃ ಇದು ವಿಶ್ವದ ಅಂತ್ಯವೇ ಇರ ಬಹುದು.  ಆದರೆ,  ಲಿಂಗ್‌ ಮಾ ಅವರ ಸಿವಿಯರೆನ್ಸ್
+      ಕೃತಿಯಲ್ಲಿ ಚಿತ್ರಿಸಿರುವ  ಪಾತ್ರ ʼಕ್ಯಾನ್ಡೇಸ್‌ ಚೆನ್‌ʼ ಗೆ ಖಂಡಿತ ಅಳಿವಿಲ್ಲ. ಸಹಸ್ರ
+      ವರ್ಷಗಳಲ್ಲಿ ಅಮೇರಿಕಾದ ಮೊದಲ ಪೀಳಿಗೆಯ ಆಫೀಸ್‌ ಡ್ರೋನ್‌ ವಿಹರಿಸುತ್ತಾ ತನ್ನ
+      ಪ್ರೌಢಾವಸ್ಥೆಗೆ ತಲುಪುವ ರೋಚಕ ಕಥನ, ವಿಚಿತ್ರವಾದ ಕಾಲ್ಪನಿಕ ವಿಡಂಬನೆ ಇಲ್ಲಿದೆ.
     link: https://www.pbs.org/newshour/arts/author-ling-ma-answers-your-questions-about-severance
     coverimage: /static/img/RR_severance.jpg
-  - about: "*The Barbary Plague* is a fascinating account of an outbreak of bubonic
-      plague in late Victorian San Francisco. Marilyn Chase shows how one city
-      triumphed over perhaps the most frightening and deadly of all scourges."
-    title: The Barbary Plague
-    author: Marilyn Chase
+  - about: ವಿಕ್ಟೋರಿಯಾ ಆಡಳಿತದ ಅಂತ್ಯಕಾಲದಲ್ಲಿ, ಸ್ಯಾನ್‌ ಫ್ರಾಂಸಿಸ್ಕೋ ನಗರವನ್ನು ಅಪ್ಪಳಿಸಿದ,
+      ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ಸ್ಫೋಟದ ಸವಿಸ್ತಾರ ವೃತ್ತಾಂತವನ್ನು, “ದಿ ಬಾರ್ಬರಿ ಪ್ಲೇಗ್‌ “
+      ಕೃತಿಯಲ್ಲಿ ಮಾರಿಲಿನ್‌ ಚೇಸ್ ವರ್ಣಿಸಿದ್ದಾರೆ. ಈ ನಗರವು ಅತಿ ಭಯಾನಕ ಮತ್ತು ಅಪಾಯಕಾರಿ
+      ಪಿಡುಗನ್ನು ಹಿಮ್ಮೆಟ್ಟಿ, ಗೆಲುವನ್ನು ಸಾಧಿಸಿದ ಕಥನ ಇದಾಗಿದೆ.
+    title: ದಿ ಬಾರ್ಬರಿ ಪ್ಲೇಗ್‌
+    author: ಮಾರಿಲಿನ್‌ ಚೇಸ್
     link: https://thetyee.ca/Views/2006/01/03/BarbaryPlague/
     coverimage: /static/img/RR_TheBarbaryPlague.jpg
-  - title: The Conquest of Malaria
-    author: Frank Snowden
-    about: In *The Conquest of Malaria*, Frank Snowden recounts how Italy became the
-      world center for the development of malariology as a medical discipline
-      and launched the first national campaign to eradicate the disease.
+  - title: "ದಿ ಕಾಂಕ್ವೆಸ್ಟ್‌ ಆಫ್‌ ಮಲೇರಿಯಾ "
+    author: ಫ್ರ್ಯಾಂಕ್‌ ಸ್ನೋಡೆನ್‌
+    about: ಇಟಲಿಯು ಹೇಗೆ ಮಲೇರಿಯಾ ರೋಗ ಅಧ್ಯಯನಕ್ಕಾಗಿ, ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದ ಅಭಿವೃದ್ಧಿ
+      ಕೇಂದ್ರವಾಯಿತು ಹಾಗೂ ಈ ರೋಗ ನಿರ್ಮೂಲನಕ್ಕೆ ಮೊದಲ ರಾಷ್ಟ್ರೀಯ ಅಭಿಯಾನಕ್ಕೆ ಪ್ರಚಾಲನೆ
+      ನೀಡಿತು ಎಂಬುದನ್ನು ಫ್ರ್ಯಾಂಕ್‌ ಸ್ನೋಡೆನ್‌ ಅವರು “ದಿ ಕಾಂಕ್ವೆಸ್ಟ್‌ ಆಫ್‌ ಮಲೇರಿಯಾ”
+      ಕೃತಿಯಲ್ಲಿ ವಿವರಿಸಿದ್ದಾರೆ.
     link: https://www.theguardian.com/books/2006/apr/08/featuresreviews.guardianreview3
     coverimage: /static/img/rr_conquest-of-malaria_resized.png
-  - title: "The House of Whispers "
-    about: "*The House of Whispers* is a gothic tale set in a rambling house by the
-      sea in which a maid cares for a mute old woman with a mysterious past,
-      alongside her superstitious staff."
-    author: Laura Purcell
+  - title: ದಿ ಹೌಸ್‌ ಆಫ್‌ ವ್ಹಿಸ್ಪರ್ಸ್‌
+    about: “ದಿ ಹೌಸ್‌ ಆಫ್‌ ವ್ಹಿಸ್ಪರ್ಸ್‌” ಕೃತಿ ಒಂದು ಗೋಥಿಕ್‌ ಕಥೆ.  ಸಮುದ್ರ ತೀರದ ಒಂದು
+      ಮನೆಯಲ್ಲಿ, ನಿಗೂಢ ಗತ ಚರಿತ್ರೆಯುಳ್ಳ ಮೂಕ ಮುದುಕಿಯ ಆರೈಕೆಯನ್ನು ನಿರ್ವಹಿಸುವ ಸೇವಕಿ
+      ಹಾಗೂ ಮೂಢ ನಂಬಿಕೆಯುಳ್ಳ ಹಲವು ಸಹಕಾರ್ಮಿಕರ ಚಿತ್ರಣವು ಕೃತಿಯಲ್ಲಿದೆ.
+    author: ಲೋರ ಪರ್ಸೆಲ್
     coverimage: /static/img/RR_thehouseofwhispers.jpg
     link: https://www.publishersweekly.com/978-0-14-313553-1
-  - about: In *The Making of a Social Disease*, David Barnes provides a much-needed
-      historical perspective on Tuberculosis. He argues that popular perceptions
-      of the disease owed more to the power structures of nineteenth-century
-      society than to medical science.
-    title: "The Making of a Social Disease: Tuberculosis in Nineteenth-Century"
-    author: David Barnes
+  - about: “ದಿ ಮೇಕಿಂಗ್‌ ಆಫ್‌ ಎ ಸೋಶಿಯಲ್‌ ಡಿಸೀಸ್‌” ಕೃತಿಯಲ್ಲಿ, ಕ್ಷಯರೋಗ (ಟ್ಯೂಬರ್‌
+      ಕ್ಯುಲಾಸಿಸ್)‌ ಪಿಡುಗಿನ ಬಗೆಗೆ ಐತಿಹಾಸಿಕ ದೃಷ್ಟಿಕೋನವನ್ನು ಒದಗಿಸುತ್ತಾರೆ. ಈ ರೋಗ
+      ಮಹಾಮಾರಿಯ ಬಗೆಗೆ ಪ್ರಚಲಿತವಾಗಿದ್ದ ಅರಿವಿಗೆ, ವೈದ್ಯಕೀಯ ಮತ್ತು ಚಿಕಿತ್ಸಾ
+      ವಿಧಾನಕ್ಕಿಂತಲೂ, ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದಲ್ಲಿದ್ದ ಪದ್ಧತಿಗಳ ಪ್ರಭಾವವೇ ಮುಖ್ಯ
+      ಕಾರಣವಾಗಿದ್ದವು ಎಂದು ವಿಶ್ಲೇಷಿಸುತ್ತಾರೆ.
+    title: "ದಿ ಮೇಕಿಂಗ್‌ ಆಫ್‌ ಎ ಸೋಶಿಯಲ್‌ ಡಿಸೀಸ್‌: ಟ್ಯೂಬರ್‌ ಕ್ಯುಲಾಸಿಸ್‌ ಇನ್‌ ನೈಂಟೀಂಥ್‌
+      ಸೆಂಚುರಿ"
+    author: ಡೇವಿಡ್‌ ಬಾರ್ನ್ಸ್‌
     coverimage: /static/img/RR_TheMakingOfASocialDisease.jpg
     link: https://courses.lumenlearning.com/sociology/chapter/the-social-construction-of-health/
-  - title: The Plague
-    author: Albert Camus
-    about: A haunting tale of human resilience and hope in the face of unrelieved
-      horror, Albert Camus' *The Plague* is a gripping account about an epidemic
-      ravaging people in a North African coastal town.
+  - title: ದಿ ಪ್ಲೇಗ್‌
+    author: ಆಲ್ಬರ್ಟ್‌ ಕ್ಯಾಮಸ್
+    about: ಉತ್ತರ ಆಫ್ರಿಕಾದ ಸಮುದ್ರ ತೀರದ ಊರಿನಲ್ಲಿ ಹರಡಿದ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗನ್ನು
+      ಕುರಿತಂತಹ ಕೃತಿ.   ಭಯಾನಕ ಸನ್ನಿವೇಶಗಳನ್ನು ಎದುರಿಸಿ ಮೆಟ್ಟಿ ನಿಲ್ಲಲು, ಮಾನವನ ಆಶಾ
+      ಭಾವನೆಯೇ ಕಾರಣ ಎಂದು ಆಲ್ಬರ್ಟ್‌ ಕ್ಯಾಮಸ್ ಅವರು, “ದಿ ಪ್ಲೇಗ್‌ “ ಕೃತಿಯಲ್ಲಿ 
+      ನಿರೂಸಿದ್ದಾರೆ.
     link: https://www.theguardian.com/books/booksblog/2015/jan/05/albert-camus-the-plague-fascist-death-ed-vulliamy
     coverimage: /static/img/RR_ThePlague.jpg
   - coverimage: /static/img/RR_TheRulesofContagion.jpg
-    about: From 'superspreaders' who might spark a pandemic or bring down a
-      financial system to the social dynamics that make loneliness catch on,
-      *The Rules of Contagion* offers compelling insights into human behaviour
-      and explains how we can get better at predicting what happens next.
-    title: "The Rules of Contagion: Why Things Spread - and Why they Stop"
-    author: Adam Kucharski
+    about: ಅತಿ ವೇಗವಾಗಿ ಹರಡುವ ಸಾಂಕ್ರಾಮಿಕಗಳಿಗೆ ಕಾರಣ ಕಾರಕಗಳು, ಇಡೀ ಅರ್ಥ ವ್ಯವಸ್ಥೆಯನ್ನೇ
+      ಅಸ್ಥ ವ್ಯಸ್ಥ ಗೊಳಿಸುವ ಪಿಡುಗುಗಳು , ಒಂಟಿತನಕ್ಕೆ ಕಾರಣವಾಗುವ ಸ್ವಭಾವಗಳು,
+      ಇವೆಲ್ಲವನ್ನೂ ಒಳಗೊಂಡಂತೆ ಮಾನವನ ನೆಡವಳಿಕೆಗಳ ಆಳಕ್ಕಿಳಿದು, ಭವಿಷ್ಯದ ಆಗು ಹೋಗುಗಳನ್ನು
+      ಊಹಿಸುವ ಅಂತಃ ಪ್ರಜ್ಞೆಯನ್ನು ದಿ ರೂಲ್ಸ್‌ ಆಫ್‌ ಕಂಟೇಜನ್ “  ನೀಡುತ್ತದೆ.
+    title: ದಿ ರೂಲ್ಸ್‌ ಆಫ್‌ ಕಂಟೇಜನ್:‌ ವೈ ಥಿಂಗ್ಸ್‌ ಸ್ಪ್ರೆಡ್‌ –ಆಂಡ್‌ ವೈ ಥೆ ಸ್ಟಾಪ್‌
+    author: ಆಡಮ್‌ ಕುಚರ್ಸ್ಕಿ
     link: https://wwwnc.cdc.gov/eid/article/27/2/20-4255_article
   - coverimage: /static/img/RR_TheUndying.jpg
-    title: The Undying
-    author: Anna Boyer
-    about: "*The Undying* is an elegant and unforgettable narrative about the
-      brutality of illness and the capitalism of cancer care in America."
+    title: ದಿ ಅನ್ಡೈಯಿಂಗ್‌
+    author: ಏನ್ ಬೋಯರ್‌
+    about: ರೋಗದ ಕ್ರೂರತೆ ಮತ್ತು ಅಮೇರಿಕದಲ್ಲಿ ಕ್ಯಾನ್ಸರ್‌ ಆರೈಕೆಯಲ್ಲಿ ಬಂಡವಾಳ ಶಾಹಿತನದ
+      ಅಚ್ಚಳಿಯದೇ ಉಳಿಯುವ ವಿವರಣೆಗಳು ಈ ಕೃತಿಯಲ್ಲಿವೆ.
     link: https://www.pulitzer.org/winners/anne-boyer
 speakerbooklist:
-  - title: "Can Science Make Sense of Life? "
-    author: Sheila Jasanoff
-    about: Since the discovery of the structure, a powerful vocabulary has emerged
-      to express science’s command over the matter of life. Yet, how far should
-      the capacity to manipulate what life is at the molecular level authorize
-      science to define what life is *for*? *Can Science Make Sense of Life?*
-      argues that science’s promises of perfectibility have gone too far.
+  - title: ಕ್ಯಾನ್‌ ಸೈನ್ಸ್‌ ಮೇಕ್‌ ಸೆಂಸ್‌ ಆಫ್‌ ಲೈಫ್?
+    author: ಶೀಲಾ ಜೆಸ್ನ್ನಾಫ್‌
+    about: ಜೀವ ಕಣಗಳ ಸಂರಚನೆಯ ಸಂಶೋಧನೆಗಳಿಂದಾಗಿ, ಜೀವ ಶಾಸ್ತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ವಿಜ್ಞಾನದ
+      ಪ್ರಾಬಲ್ಯವನ್ನು ಬಿಂಬಿಸುವ  ಭಂಡಾರವೇ ತೆರೆದುಕೊಂಡಿದೆ.  ಆದರೆ, ವಿಜ್ಞಾನವು, ಈ ಅತಿ
+      ಸೂಕ್ಷ್ಮ ಜೀವಕಣಗಳ ಒಳಗೆ, ಹೊಕ್ಕುವಂತಹ ಅಧಿಕಾರವನ್ನು ಎಷ್ಟರ ಮಟ್ಟಗೆ ಹೊಂದಿದೆ, ಎಂದು
+      ನಿರ್ಧರಿಸುವುದು ಬಹಳ ಕ್ಲಿಷ್ಟಕರ, ಸಂವೇದನಶೀಲ ವಿಷಯ. ವಿಜ್ಞಾನದ ಆಶ್ವಾಸನೆಗಳು ಬಹಳ ದೂರ
+      ಸಾಗಿರುವ ಬಗ್ಗೆ, “ಕ್ಯಾನ್‌ ಸೈನ್ಸ್‌ ಮೇಕ್‌ ಸೆಂಸ್‌ ಆಫ್‌ ಲೈಫ್” ? ಕೃತಿಯಲ್ಲಿ
+      ವಿಶ್ಲೇಷಣೆ ಇದೆ.
     link: https://blogs.lse.ac.uk/impactofsocialsciences/2019/08/04/book-review-can-science-make-sense-of-life-by-sheila-jasanoff/
     coverimage: /static/img/RR_Sheila_RR_Can Science Make Sense of Life.jpg
   - title: Ethnographic Plague
@@ -253,12 +262,14 @@ speakerbooklist:
       development of the British engagement in India.
     coverimage: /static/img/RR_David_RR_Science, Tech and Medicine.jpg
   - coverimage: /static/img/RR_Adia_RR_HIV Exceptionalism.jpg
-    title: "HIV Exceptionalism: Development through Disease in Sierra Leone "
-    author: Adia Benton
+    title: "ಎಚ್. ಐ.ವಿ ಎಕ್ಸೆಪ್ಶನಲಿಸಮ್‌: ಡೆವಲಪ್ ಮೆಂಟ್‌ ಥ್ರೂ ಡಿಸೀಸ್‌ ಇನ್‌ ಸಿಯಾರ್ರ ಲಿಯೋನ್"
+    author: ಏಡಿಯಾ ಬೆಂಟನ್
     link: https://nonprofitquarterly.org/sierra-leone-hiv-complicated-disclosure/
-    about: In *HIV Exceptionalism*, Adia Benton probes why the idea that HIV is an
-      exceptional disease requiring an exceptional response, continues to guide
-      approaches to tackling the epidemic worldwide and especially in Africa.
+    about: ಎಚ್‌.ಐ.ವಿ  ರೋಗವು ಏಕೆ ಅತಿ ವಿಭಿನ್ನವಾದ ರೋಗ  ಹಾಗೂ ಈ ರೋಗ ನಿವಾರಣೆಗೆ ಪ್ರತ್ಯೇಕವಾದ
+      ಪ್ರತಿಕ್ರಿಯೆಯ ಅವಶ್ಯಕತೆ ಇದೆ ಎಂದು  “‌ಎಚ್.ಐ.ವಿ ಎಕ್ಸೆಪ್ಶನಲಿಸಮ್‌”  ಕೃತಿಯಲ್ಲಿ
+      ಆಡಿಯಾ ಬೆಂಟನ್ ‌ ವಿವರಿಸಿದ್ದಾರೆ.  ವಿಶ್ವದಾದ್ಯಂತ ಅದರಲ್ಲೂ ಆಫ್ರಿಕಾದಂತಹ ಖಂಡದಲ್ಲಿ
+      ರೋಗ ಪಿಡುಗುಗಳನ್ನು ಹೇಗೆ ಎದುರಿಸ ಬೇಕು ಎಂಬುದರ ಮಾರ್ಗದರ್ಶನವನ್ನು ಸಹ ಈ ಕೃತಿಯಲ್ಲಿ
+      ಒದಗಿಸಿದ್ದಾರೆ
   - title: Paradise, Death and Doomsday in Anglo-Saxon Literature
     coverimage: /static/img/RR_Ananya_RR_Paradise, Death and Doomsday in Anglo-Saxon
       Literature.jpg
@@ -268,14 +279,15 @@ speakerbooklist:
       investigation into the Anglo-Saxon belief in the 'interim paradise':
       paradise as a temporary abode for good souls following death and pending
       the final decisions of Doomsday."
-  - title: "How Behavior Spreads: The Science of Complex Contagions "
+  - title: "ಹೌ ಬಿಹೇವಿಯರ್‌ ಸ್ಪ್ರೆಡ್ಸ್‌: ದಿ ಸೈನ್ಸ್‌ ಆಫ್‌ ಕಾಂಪ್ಲೆಕ್ಸ್‌ ಕಂಟೇಜನ್ಸ್ "
     coverimage: /static/img/RR_Damon_RR_How Behavior Spreads.jpg
-    author: Damon Centola
+    author: ಡಾಮನ್‌ ಸೆಂಟೋಲಾ
     link: https://blogs.sciencemag.org/books/2018/09/27/how-behavior-spreads/
-    about: In *How Behavior Spreads*, Damon Centola presents over a decade of
-      original research examining how changes in societal behavior—in voting,
-      health, technology, and finance―occur and the ways social networks can be
-      used to influence how behaviors propagate.
+    about: ಮತದಾನ, ಆರೋಗ್ಯ, ತಂತ್ರಜ್ಞಾನ, ಹಣಕಾಸು ಮುಂತಾದ ಕ್ಷೇತ್ರಗಳಿಗೆ ಅನ್ವಯಿಸುವಂತೆ
+      ಸಾಮಾಜಿಕ ನೆಡವಳಿಕೆಗಳಲ್ಲಿ  ಸಂಭವಿಸುವ ಬದಲಾವಣೆಗಳು ಮತ್ತು  ನೆಡವಳಿಕೆಗಳನ್ನು
+      ಹಬ್ಬಿಸಲು, ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳನ್ನು ಹೇಗೆ ಬಳಸ ಬಹುದು ಎಂಬುದರ ಬಗೆಗೆ ದಶಕಕ್ಕೂ ಹೆಚ್ಚು
+      ಕಾಲ ನಡೆಸಿರುವ ಸಂಶೋಧನೆಯಿಂದ ಅರಿತ ಹಲವು ವಿಷಯಗಳನ್ನು,  “ಹೌ ಬಿಹೇವಿಯರ್‌
+      ಸ್ಪ್ರೆಡ್ಸ್‌”  ಕೃತಿಯಲ್ಲಿ  ಡಾಮನ್‌ ಸೆಂಟೋಲಾ  ಪ್ರಸ್ತುತ ಪಡಿಸಿದ್ದಾರೆ.
   - title: "Till We Win: India's Fight Against The Covid-19 Pandemic"
     author: "Chandrakant Lahariya, et al. "
     link: https://www.thehindu.com/books/books-reviews/till-we-win-indias-fight-against-the-covid-19-pandemic-review-how-to-fight-a-terror-virus/article34333406.ece
