@@ -74,7 +74,7 @@ play:
     quadplayvis: /static/img/B_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
   - quadeventtxt: Infodemics | ಉಪನ್ಯಾಸ | Sylvie Briand
-    quadeventlink: https://www.eventbrite.com/e/148308301121
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/dealing-with-the-infodemic/
     quadeventvis: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: ಮಾಹಿತಿ… ಇದು ಕ್ಲಿಷ್ಟಕರ ವಿಷಯ | ಕಾರ್ಯಾಗಾರ | ಮುಹಮ್ಮದ್‌ ರದವಾನ್‌
     quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
