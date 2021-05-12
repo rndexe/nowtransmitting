@@ -78,7 +78,7 @@ exhibitembed1: https://indoor-covid-safety.herokuapp.com/
 eventlist:
   - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಪ್ರತಿರೂಪಗಳನ್ನು (ಮಾಡಲ್‌) ಏಕೆ ರೂಪಿಸ ಬೇಕು, ಹೇಗೆ ರೂಪಿಸ ಬೇಕು ?
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
-    quadeventlink: https://www.eventbrite.com/e/145213889653
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/model-infectious-diseases/
   - quadeventtxt: ""
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_2.jpg
 ---

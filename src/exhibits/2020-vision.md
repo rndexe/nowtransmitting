@@ -3,7 +3,7 @@ layout: 2020-vision
 featured: true
 authortype: Artist
 thumb: /static/img/B_Exhibit_Thumbnail.jpg
-title: "2020 Vision"
+title: 2020 Vision
 subtitle: Disentangling the Web of Information
 medium: Google News headlines, Google email alerts, Python code
 year: "2019"
@@ -71,9 +71,9 @@ play:
     quadplaylink: https://www.goviralgame.com/en/
     quadplayvis: /static/img/B_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
-  - quadeventtxt: Infodemics | Lecture by Sylvie Briand
+  - quadeventtxt: https://nowtransmitting.com/programmes/lectures/dealing-with-the-infodemic/
     quadeventlink: https://www.eventbrite.com/e/148308301121
-    quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadeventvis: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: Information...It’s Complicated | Workshop by Muhammad Radwan
     quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
     quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg

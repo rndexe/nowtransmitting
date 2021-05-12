@@ -1,11 +1,11 @@
 ---
 layout: rooms/inyourwords
 kannada: true
-title: In your Words
-description: Living through a pandemic has shown us how even speculative
-  scenarios can turn into reality overnight. In the run up to CONTAGION, we
-  invited you to submit responses to our writing prompts. Read a selection
-  below.
+title: ನಿಮ್ಮ ಪದಗಳಲ್ಲಿ
+description: ರೋಗ ಪಿಡುಗಿನ ನಡುವೆ ನಮ್ಮ ಜೀವನ ಯಾನದಲ್ಲಿ, ಊಹಾಪೋಹದ ಕಲ್ಪನೆಗಳು ಸಹ
+  ರಾತ್ರೋರಾತ್ರಿ ನೈಜ ರೂಪ ತಾಳ ಬಹುದು ಎಂದು ಅರಿತಿದ್ದೇವೆ.  ಕಂಟೇಜನ್‌ ʼಸೋಂಕುʼ ಪ್ರದರ್ಶನ
+  ಸಂಚಿಕೆಯ ಪೂರ್ವ ಸಿದ್ಧತೆಯಲ್ಲಿ ಬರಹ ಸುಳುಹುಗಳನ್ನು ನೀಡಿ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು
+  ಆಹ್ವಾನಿಸಿದ್ದೆವು.  ಅವುಗಳಲ್ಲಿ ಆಯ್ದ ಕೆಲವು ಕೃತಿಗಳು ಇಲ್ಲಿವೆ.
 icon: /static/img/in-your-words.svg
 promptlist:
   - wplist:
