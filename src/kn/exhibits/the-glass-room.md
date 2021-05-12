@@ -92,7 +92,7 @@ relatedlist:
 exhibitembed1: https://deepfakelab.theglassroom.org/
 exhibitembed2: https://doublecheck.theglassroom.org/
 eventlist:
-  - quadeventtxt: "Information…It’s Complicated | Workshop by Muhammad Radwan "
+  - quadeventtxt: ಮಾಹಿತಿ… ಇದು ಕ್ಲಿಷ್ಟಕರ ವಿಷಯ | ಕಾರ್ಯಾಗಾರ | ಮುಹಮ್ಮದ್‌ ರದವಾನ್‌
     quadeventvis: /static/img/g_exhibit_qua_atnvis_1.jpg
     quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
   - quadeventtxt: "Keep Calm and Spot the Design Tricks | Workshop by Louise Hisayasu "
