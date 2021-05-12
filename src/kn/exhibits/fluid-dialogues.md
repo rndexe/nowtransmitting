@@ -3,7 +3,7 @@ layout: fluid-dialogues
 authortype: ತಂಡ
 thumb: /static/img/M_Exhibit_Thumbnail.jpg
 title: ಫ್ಲೂಯಿಡ್‌ ಡೈಲಾಗ್ಸ್‌
-subtitle: ಕಳಂಕದ ಹೊರೆ.
+subtitle: ಕಳಂಕದ ಹೊರೆ
 medium: ಫಿಲ್ಮ್
 year: "2021"
 description: >-
@@ -106,7 +106,7 @@ eventlist:
   - quadeventtxt: ಗುರಿತಿಸಿ, ಪರಿಶೀಲಿಸಿ, ನಿರ್ಣಯಿಸಿ | ಉಪನ್ಯಾಸ | ಅಡಿಯಾ ಬೇಂಟನ್‌
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/145400778643
-  - quadeventtxt: "A Human Question | Film Screening and Discussion with T. Jayashree "
+  - quadeventtxt: ಎ ಹ್ಯೂಮನ್‌ ಕ್ವೆಸ್ಚನ್‌ | ಚಲನ ಚಿತ್ರ ಚರ್ಚೆ | ಟಿ ಜಯಶ್ರೀ
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147
 authorbio: The work of Basse Stittgen is positioned at the intersection of
