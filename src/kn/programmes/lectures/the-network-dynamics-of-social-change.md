@@ -1,5 +1,5 @@
 ---
-title: "The Network Dynamics of Social Change "
+title: "No kand- The Network Dynamics of Social Change "
 permalink: kn/programmes/lectures/the-network-dynamics-of-social-change/
 cata: transmission
 catb: experimenting
