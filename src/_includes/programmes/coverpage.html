@@ -13,7 +13,11 @@
 				<span class="font-bold">
 					{{ "ದಿನಾಂಕ :" if kannada else "Date :" }}
 				</span> 
+					{% if kannada %} 
+					{{date.toLocaleDateString('kn')}}
+					{% else %}
 					{{date.toDateString()}}
+					{% endif %}
 			</p>
 			<p class="mb-4 text-base w-auto font-trade text-white
 			  {{ "font-tunga" if kannada else "font-trade" }}
@@ -21,7 +25,12 @@
 				<span class="font-bold">
 					{{ "ಸಮಯ :" if kannada else "Time :"}}
 				</span>
+					{% if kannada %} 
+					{{date.toLocaleTimeString('kn')}}
+					{% else %}
 					{{date.toTimeString()}}
+					{% endif %}
+
 			</p>
 			{% if link %}
 			<a href="{{link}}" target="_blank">
