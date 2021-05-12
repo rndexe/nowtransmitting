@@ -1,19 +1,30 @@
 ---
 layout: moulding-modern-medicine
-authortype: Sources
+authortype: ಮೂಲಗಳು
 thumb: /static/img/N_Exhibit_Thumbnail.jpg
 title: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
 subtitle: "ಸೂಕ್ಷ್ಮಾಣು  ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಥೆಗಳು – ಪ್ರತಿರೋಧಕಗಳ ಅರಿವು ಇಲ್ಲಿದೆ  "
 medium: ಶಬ್ದ, ಪ್ರತಿ-ಆಕೃತಿಗಳು
 year: --
-description: ""
+description: >-
+  ಅಲೆಕ್ಸಾಂಡರ್‌ ಫ್ಲೆಮಿಂಗ್‌ (1881–1955), ಲಂಡನ್‌ ನ ಸೇಂಟ್‌ ಮೇರೀಸ್‌ ಹಾಸ್ಪಿಟಲ್‌
+  ಮೆಡಿಕಲ್‌ ಸ್ಕೂಲ್‌ ಅಲ್ಲಿ ಕಾರ್ಯನಿರತರಾಗಿದ್ದಂತಹ ಸ್ಕಾಟಿಶ್‌ ಬ್ಯಾಕ್ಟೀರಿಯಾ ತಜ್ಞರು. 
+  ಇವರು, ವಿಶ್ವದ ಮೊಟ್ಟ ಮೊದಲ  ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ (ಆಂಟಿ ಬಯೋಟಿಕ್)‌ ಪೆಂಸಿಲಿನ್‌ ಅನ್ನು
+  ಸಂಸ್ಕರಿಸಿದರು.  ಇದರ ಅವಿಶ್ಕಾರದಿಂದ  ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣುಗಳಿಂದ ಉಂಟಾಗುತ್ತಿದ್ದ
+  ಸೋಂಕುಗಳಿಂದಾಗಿ ಸಂಭವಿಸುತ್ತಿದ್ದ ಸಾವುಗಳನ್ನು, ತಡೆಯುವಲ್ಲಿ ಯಶಸ್ವಿಯನ್ನು ಸಾಧಿಸಲಾಯಿತು. 
+  ಅದರಲ್ಲೂ ಎರಡನೇ ವಿಶ್ವ ಯುದ್ಧದ ನಡುವೆ ಬಹು ಉಪಯೋಗವಾಯಿತು.  ಇಂದಿಗೂ ಬ್ಯಾಕ್ಟೀರಿಯಾ
+  ಸೋಂಕುಗಳನ್ನು ನಿವಾರಿಸಲು ಪೆಂಸಿಲಿನ್‌ ಬಳಸಲಾಗುತ್ತದೆ. 
+
+
+  ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪೆಂಸಿಲಿನ್‌ ನ ಅವಿಶ್ಕಾರ ಅಕಸ್ಮಾತ್ತಾಗಿ ಆಗಿದ್ದರೂ, ಪೆಂಸಿಲಿನ್‌ ನ ಬಳಕೆಯ ಬಗೆಗೆ ಫ್ಲೆಮಿಂಗ್‌ ಅವರ ಚಿಂತನೆಯು ಶ್ಲಾಘನೀಯ.  ಫ್ಲೆಮಿಂಗ್‌ ಅವರ ದ್ವನಿ ಮುದ್ರಿಕೆ, ಅವರ ಕಂಠ ಇಲ್ಲಿ ಪ್ರಸ್ತುತವಿದೆ. ಬ್ರಿಟಿಷ್‌ ಬ್ರಾಡ್‌ ಕಾಸ್ಟಿಂಗ್‌ ಕಂಪನಿ (ಬಿ.ಬಿ.ಸಿ) ಯಲ್ಲಿ 1945 ರಲ್ಲಿ ಪ್ರಸಾರವಾದ ಫ್ಲೆಮಿಂಗ್‌ ಅವರ ಭಾಷಣದ ಭಾಗವನ್ನು ಇಲ್ಲಿ ಪ್ರಸ್ತುತ ಪಡಿಸಲಾಗಿದೆ.
 priaudtxt: >
-  Sir Alexander Fleming: Discovery of Penicillin, BBC 1945, London. 
+  ಸರ್‌ ಅಲೆಕ್ಸಾಂಡರ್‌ ಫ್ಲೆಮಿಂಗ್‌ : ಪೆಂಸಿಲಿನ್‌ ನ ಆವಿಶ್ಕಾರ , ಬಿ.ಬಿ.ಸಿ, 1945 ,
+  ಲಂಡನ್‌. 
 
-  Courtesy of the Wellcome Collection. Shared under CC BY-NC 2.0
+  ಕೊಡುಗೆ : ವೆಲ್ಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ , ಸಿಸಿ ಬಿವೈ - ಎನ್‌ಸಿ 2.0  
 
 
-  This short excerpt of Sir Alexander Fleming’s speech proved to be prophetic in its warning about antibiotic resistance, as the world now faces a grave challenge in overcoming bacteria’s growing resistance to present-day antibiotics. 
+  ಸರ್‌ ಅಲೆಕ್ಸಾಂಡರ್‌ ಫ್ಲೆಮಿಂಗ್‌ ಅವರ ಭಾಷಣದ ಭಾಗವು ಇಲ್ಲಿದೆ, ಜೀವರೋಧಕಗಳ ವಿರುದ್ಧ ಪ್ರತಿರೋಧಕಗಳ ಬಗೆಗಿನ ಅವರ ಎಚ್ಚರಿಕೆಯ ಭವಿಷ್ಯವಾಣಿ ಇಂದು ನಿಜವಾಗುತ್ತಿದೆ. ಸೂಕ್ಷ್ಮಜೀವರೋಧಕಗಳ ವಿರುದ್ಧ, ಉಗಮವಾಗಿರುವ ಬಲಶಾಲಿ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಪ್ರತಿರೋಧಕಗಳು ಪ್ರಸಕ್ತ ವಿಶ್ವದ ಮುಂದಿರುವ ಗಂಭೀರ ಸವಾಲಾಗಿವೆ .
 exhibitimages:
   - privis: /static/img/N_EXHIBIT_PRI_VIS_2.jpg
     pritxt: >-
@@ -96,32 +107,32 @@ listeninglist:
     quadlistvis: /static/img/N_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=q2yd3lGN7xA
-    quadwatchtxt: ಪೆಂಸಿಲಿನ್‌ ಇಡೀ ವಿಶ್ವವನ್ನೇ ಹೇಗೆ ಬದಲಾಯಿಸಿತು ?
+    quadwatchtxt: ಪೆಂಸಿಲಿನ್‌ ಇಡೀ ವಿಶ್ವವನ್ನೇ ಹೇಗೆ ಬದಲಾಯಿಸಿತು?
     quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=etg9tFv-P6Q
     quadwatchtxt: "ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳು ಸೂಕ್ಷ್ಮ ಜೀವ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಹೇಗೆ
-      ಸಫಲವಾಗಿ ಬೆಳೆಸಿಕೊಳ್ಳುತ್ತವೆ ? "
+      ಸಫಲವಾಗಿ ಬೆಳೆಸಿಕೊಳ್ಳುತ್ತವೆ? "
     quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=ZvhFeGEDFC8
-    quadwatchtxt: "ಸೂಕ್ಷ್ಮ ಜೀವ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕದ ವಿಪತ್ತನ್ನು ಹೇಗೆ ನಿವಾರಿಸುವುದು ? "
+    quadwatchtxt: "ಸೂಕ್ಷ್ಮ ಜೀವ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕದ ವಿಪತ್ತನ್ನು ಹೇಗೆ ನಿವಾರಿಸುವುದು? "
     quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_3.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=yybsSqcB7mE
     quadwatchtxt: "ಸೂಕ್ಷ್ಮ ಜೀವ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕ ಶಕ್ತಿಯ ವಿಕಸನವನ್ನು ಗಮನಿಸಿ "
     quadwatchvis: /static/img/N_EXHIBIT_QUA_WATCHVIS_4.jpg
 eventlist:
-  - quadeventtxt: "Antimicrobial Resistance: The Pandemic in the Shadows | Lecture
-      by Dr. Jyoti Joshi"
+  - quadeventtxt: ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧ (ಏ.ಎಂ.ಆರ್):‌ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ
+      ನೆರಳಿನಲ್ಲಿ | ಉಪನ್ಯಾಸ | ಜ್ಯೋತಿ ಜೋಶಿ
     quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/145225482327
-  - quadeventtxt: "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies
-      | Lecture by Dr. George Peter Lomonossoff"
+  - quadeventtxt: "ಕಂಟೇಜಿಯಮ್ ವೈವಮ್‌ ಫ್ಲುಯಿಡಮ್‌ : ಸಸ್ಯ ವೈರಾಣುಗಳು ವೈರಿಗಳಲ್ಲ, ಸಹಚರ
+      ಸ್ನೇಹಿತರು | ಉಪನ್ಯಾಸ | ಜಾರ್ಜ್‌ ಲೊಮೊನೋಸೊಫ್ಫ್‌"
     quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/145398876955
 relatedlist:
-  - quadrelatedtxt: Putting the Ant in Antibiotics by John Innes Centre
+  - quadrelatedtxt: "ಜೀವರೋಧಕಗಳಲ್ಲಿ ಇರುವೆಗಳು | ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ "
     quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
   - quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
-    quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
+    quadrelatedtxt: "ವೆಂಡೆಲ್‌ ಸ್ಟಾನ್ಲೇ: ವೈರಾಣು ಇತಿಹಾಸದ ಚಿತ್ರಣ "
     quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
