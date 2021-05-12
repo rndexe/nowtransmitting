@@ -1,6 +1,6 @@
 ---
 layout: fluid-dialogues
-authortype: Team
+authortype: ತಂಡ
 thumb: /static/img/M_Exhibit_Thumbnail.jpg
 title: ಫ್ಲೂಯಿಡ್‌ ಡೈಲಾಗ್ಸ್‌
 subtitle: ಕಳಂಕದ ಹೊರೆ.
@@ -43,7 +43,7 @@ exhibitauthor:
       ಭಾಷೆಗಳ ಮೇಲೆ ಆಗುವ ಪ್ರಭಾವಗಳ ಕುರಿತಂತೆ ಸಂಶೋಧನೆ ನೆಡೆಸಿದ್ದಾರೆ. 
 
 
-      http://j-a-g.net/info.html
+      <http://j-a-g.net/info.html>
   - authorimage: /static/img/m_exhibit_sec_vis_4.jpg
     authorbio: ಆಂಡ್ರೆಸ್‌ ಗಾರ್ಸಿಯಾ ವೈಡಲ್‌ (ಸೆವಿಲ್ಲಾ, 1991), ದ್ವನಿ ಅಧ್ಯಯನದ
       ಚೌಕಟ್ಟಿನಲ್ಲಿ , ಮುಖ್ಯವಾಗಿ ಶೃತಿ ಸ್ಮೃತಿಗಳು,  ಲಾವಣಿ, ಜಾನಪದ ಹಾಡು, ಮೇಳಗಳಂತಹ
@@ -64,7 +64,7 @@ exhibitauthor:
       ಸಂಸ್ಥೆ ಸ್ಥಾಪಿತಗೊಂಡಿದೆ.
 processimages:
   - tertxt: "ಡಿ. ಐ.ಸಿ ಸೂಕ್ಷ್ಮ ದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ಕೆಂಪು ರಕ್ತ ಕಣಗಳು,  400 x ಪಟ್ಟು
-      ಸಂವರ್ಧನೆ. ನೆರವು : ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್"
+      ಸಂವರ್ಧನೆ. ನೆರವು: ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್"
     tervis: /static/img/m_exhibit_ter_vis_1.jpeg
   - tertxt: "ಡಿ. ಐ.ಸಿ ಸೂಕ್ಷ್ಮ ದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ಕೆಂಪು ರಕ್ತದ ಹೆಪ್ಪುಗಟ್ಟವಿಕೆ. 400 x
       ಪಟ್ಟು ಸಂವರ್ಧನೆ. ನೆರವು: ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್"
@@ -85,7 +85,7 @@ listeninglist:
     quadlistvis: /static/img/M_EXHIBIT_QUA_LISVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=DR8GOoE91Lk
-    quadwatchtxt: ಕಳಂಕವು ಅಗೋಚರ ಮಾರಕವೇ ?
+    quadwatchtxt: ಕಳಂಕವು ಅಗೋಚರ ಮಾರಕವೇ?
     quadwatchvis: /static/img/M_EXHIBIT_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=8SxHl2XK7Sk
     quadwatchtxt: "ಏಡ್ಸ್‌ ರೋಗದ ನಿರ್ವಹಣೆ: ಆಕ್ರಮಣಕಾರಿ ಮತ್ತು ವಿನಾಶಕಾರಿ ಕಳಂಕಗಳು: ವಿ.ಕೆ
