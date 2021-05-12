@@ -60,16 +60,16 @@ watchinglist:
     quadwatchvis: /static/img/e_pl_qua_watchvis_2.png
 eventlist:
   - quadeventlink: http://bit.ly/workshop-radwan
-    quadeventtxt: Information...It's Complicated | Workshop by Muhammad Radwan, Tactical Tech
+    quadeventtxt: ಮಾಹಿತಿ… ಇದು ಕ್ಲಿಷ್ಟಕರ ವಿಷಯ | ಕಾರ್ಯಾಗಾರ | ಮುಹಮ್ಮದ್‌ ರದವಾನ್‌
     quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
   - quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event
     quadeventlink: http://bit.ly/event-richardson
     quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
-  - quadrelatedtxt: 2020 Vision by Robert Good
+  - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
     quadrelatedvis: /static/img/B_Exhibit_Thumbnail.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
-    quadrelatedtxt: "The Glassroom: Misinformation Edition"
+    quadrelatedtxt: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ | ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್"
     quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
