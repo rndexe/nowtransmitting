@@ -64,19 +64,18 @@ watchinglist:
     quadwatchtxt: " Ignorance Is Bliss: COVID-19 and the Politics of Knowledge"
     quadwatchvis: /static/img/pl_sheila.jpg
 eventlist:
-  - quadeventtxt: "Science, Innovation and Society: What Have We Learnt From the
-      Covid-19 Pandemic? | Lecture by Sir Jeremy Farrar"
+  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
+      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
     quadeventlink: https://bit.ly/lecture-farrar
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
-  - quadeventtxt: Working Together For Public Education On Pandemic Risks | Lecture
-      by Sabrina Sholts
+  - quadeventtxt: ವೈಜ್ಞಾನಿಕ | ಉಪನ್ಯಾಸ | ಸಬ್ರೀನಾ ಶಾಲ್ಟ್ಸ್‌
     quadeventlink: http://bit.ly/lecture-sholts
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
-  - quadrelatedtxt: Contagion in the 21st Century by Esther Maria-Antao
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
-    quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazan, John Bush, Kasim Khan
+    quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

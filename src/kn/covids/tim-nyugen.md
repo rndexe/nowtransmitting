@@ -1,43 +1,43 @@
 ---
-title: Managing Infodemics
-desc: The spread of COVID-19 around the world has been accompanied by a deluge
-  of misinformation. At a time when reliable and scientific evidence is crucial
-  for public health, fake news, misinformation, and rumours seem to be spreading
-  faster than facts. Researchers like Tim Nguyen of the WHO Health Emergencies
-  Programme have been working around the clock to counter this infodemic.
-permalink: kn/covids/managing-infodemics/
-speakername: Tim Nguyen
+title: "ಮಾಹಿತಿ   ಹರಿವು ನಿರ್ವಹಣೆ "
+desc: ವಿಶ್ವದೆಲ್ಲೆಡೆ ಕೋವಿಡ್-19 ಹರಡುವುದರ ಜೊತೆಗೆ, ಈ ರೋಗದ ಬಗೆಗೆ ಅನೇಕ ತಪ್ಪು ಮಾಹಿತಿಗಳೂ
+  ಹರಡಿ ಬಿಟ್ಟಿವೆ.  ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ರಕ್ಷಣೆಗೆ ವಿಶ್ವಾಸಾರ್ಹ ವೈಜ್ಞಾನಿಕ ಸಾಕ್ಷಿಗಳು,
+  ಮುಖ್ಯವಾಗಿರುವ ಸಂದರ್ಭದಲ್ಲಿ, ಹಲವು ಸುಳ್ಳು ಸುದ್ದಿಗಳು, ತಪ್ಪು ಅಭಿಪ್ರಾಯಗಳು, ಊಹಾಪೋಹಗಳು
+  ವೇಗವಾಗಿ ವ್ಯಾಪಿಸಿವೆ.   ಶ್ರೀ ಟಿಮ್‌ ಗ್ಯೂಯನ್ ಅಂತಹ ಸಂಶೋಧಕರು, ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯ
+  ತುರ್ತು ಸ್ವಾಸ್ಥ್ಯ ಕಾರ್ಯಕ್ರಮಗಳ ಮೂಲಕ ಇಂತಹ ಮಾಹಿತಿಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಕಾರ್ಯದಲ್ಲಿ
+  ದಿನ-ರಾತ್ರಿ ತೊಡಗಿದ್ದಾರೆ.
+speakername: ಟಿಮ್‌ ಗ್ಯೂಯನ್
 speakerimage: /static/img/L_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/L_CO_THUMBNAIL.png
-speakerfield: Infodemic Manager
-speakerbio: Tim Nguyen is the Head of the Unit for High Impact Events in the
-  Global Infectious Hazard Preparedness Department of the WHO Health Emergencies
-  Programme (WHE). His team manages the WHO Information Network for Epidemics
-  (EPI-WIN), a platform to unite the work on managing disease infodemics during
-  emergencies; and  the strategic global governance of pharmaceutical
-  interventions, including pandemic influenza and smallpox vaccines as well as
-  influenza antivirals. In the COVID-19 pandemic response, he co-manages the
-  “Managing Infodemic” pillar.
+speakerfield: "ಮಾಹಿತಿ ಹರಿವು ನಿರ್ವಾಹಕರು "
+speakerbio: ಟಿಮ್‌ ಗ್ಯೂಯನ್, ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯ ತುರ್ತು ಸ್ವಾಸ್ಥ್ಯ ಕಾರ್ಯಕ್ರಮಗಳ,
+  ʼಜಾಗತಿಕ ಸಾಂಕ್ರಾಮಿಕ ಕುಪ್ರಭಾವ ತಯಾರಿʼ ವಿಭಾಗದ, ʼಅತಿ ಹೆಚ್ಚು ಪ್ರಭಾವಪೂರ್ಣ ಪ್ರಕರಣಗಳ
+  ಘಟಕʼದ ಮುಖ್ಯಸ್ಥರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ. ಇವರ ತಂಡವು ರೋಗ ಮಹಾಮಾರಿಗಳಿಗೆ
+  ಸಂಬಂಧಿಸಿದ ಮಾಹಿತಿ ಜಾಲತಾಣವನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ. ಈ  ಘಟಕವು, ʼಇಂಫ್ಲುಯೆಂಜಾ ಮತ್ತು
+  ಸ್ಮಾಲ್ಪಾಕ್ಸ್‌ʼ ಅಂತಹ ರೋಗ ಮಹಾಮಾರಿಗಳನ್ನೂ ಒಳಗೊಂಡಂತೆ ಕ್ರಮಬದ್ಧವಾಗಿ ವೈಶ್ವಿಕ ಔಷಧ
+  ನಿರ್ವಹಣೆಯ ಮಾಧ್ಯಮ ಹಾಗೂ  ತುರ್ತು ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ ರೋಗಗಳ ಬಗೆಗೆ ಮಾಹಿತಿ ಸಾಂದ್ರತೆಯನ್ನು
+  ನಿರ್ವಹಿಸುವ ವೇದಿಕೆಯಾಗಿದೆ.
 videosrc: https://player.vimeo.com/video/541533684
 readinglist:
   - quadreadlink: https://www.jmir.org/2020/6/e19659/
-    quadreadtxt: Framework for Managing the COVID-19 Infodemic
+    quadreadtxt: ಪ್ರೇಂವರ್ಕ್‌ ಪಾ಼ರ್ ಮ್ಯಾನೇಜಿಂಗ್‌ ಇನ್ಫರ್‌ ಮೇಶನ್
     quadreadvis: /static/img/L_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://www.who.int/news-room/feature-stories/detail/immunizing-the-public-against-misinformation
-    quadreadtxt: Immunizing the Public Against COVID-19
+    quadreadtxt: ಇಮ್ಯೂನೈಸಿಂಗ್‌ ದಿ ಪಬ್ಲಿಕ್‌
     quadreadvis: /static/img/L_CO_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/mar/03/coronavirus-conspiracy-theories-virus-social-media
-    quadreadtxt: Why Conspiracy Theories Spread Faster than the Virus
+    quadreadtxt: ಸ್ಪ್ರೆಡ್‌ ಆಫ್ ಕಾನ್ಸ್ಪಿರಸಿ ಥಿಯರೀಸ್‌
     quadreadvis: /static/img/L_CO_QUA_READVIS_2.jpg
+permalink: kn/covids/managing-infodemics/
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/2YooSretkFTX53wdUaqepa
-    quadlisttxt: A Misinformation Pandemic
+    quadlisttxt: "ಮಿಸ್‌ ಇಂಫರ್ಮೇಶನ್‌ ಪ್ಯಾಂಡಮಿಕ್‌ "
     quadlistvis: /static/img/L_CO_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/3r2mabPMpZk9RtbptfJXGa
-    quadlisttxt: Misinformation Mailbag
+    quadlisttxt: ಮಿಸ್‌ ಇನ್ಫರ್ಮೆಶನ್‌ ಮೇಲ್‌ ಬ್ಯಾಗ್‌
     quadlistvis: /static/img/L_CO_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=EjixdgNz7cU&feature=youtu.be&ab_channel=purnatt
-    quadwatchtxt: WHO Infodemic Management
+    quadwatchtxt: ಡಬಲ್ಯು ಹೆಚ್‌ ಒ ಇನ್ಪಹೊಡೆಮಿಕ್‌ ಮ್ಯಾನೆಜ್ಮೆನ್ಟ್‌
     quadwatchvis: /static/img/L_CO_QUA_WATCHVIS_2.jpg
 ---

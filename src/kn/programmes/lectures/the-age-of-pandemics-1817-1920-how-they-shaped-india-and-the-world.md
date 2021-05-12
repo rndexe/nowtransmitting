@@ -51,18 +51,17 @@ watchinglist:
     quadwatchvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-lynteris
-    quadeventtxt: Plague and the Emergence of Epidemic Photography | Lecture by
-      Christos Lynteris
+    quadeventtxt: ಪ್ಲೇಗ್‌ ಮತ್ತು ರೋಗ ಪಿಡುಗಿನ ಛಾಯಾಗ್ರಹಣದ ಉದ್ಭವ | ಉಪನ್ಯಾಸ | ಕ್ರಿಸ್ಟೋಸ್‌
+      ಲಿಂಟೆರಿಸ್‌
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
-  - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
-      Century India | Lecture by David Arnold"
+  - quadeventtxt: ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ | ಉಪನ್ಯಾಸ | ಡೇವಿಡ್‌ ಜ್ಹಾನ್‌ ಆರ್ನಾಲ್ಡ್‌
     quadeventlink: http://bit.ly/lecture-arnold
     quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
-  - quadrelatedtxt: Drawing the Bombay Plague by Ranjit Kandalgaonkar
+  - quadrelatedtxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್‌  ಚಿತ್ರಾಕೃತಿ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ "
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
-  - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+  - quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
 ---

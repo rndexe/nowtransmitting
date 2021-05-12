@@ -1,7 +1,7 @@
 function loadJSON(callback) {   
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
-    xobj.open('GET', '../lp_json/programme_data.json', true);
+    xobj.open('GET', '../..//lp_json/kn_programme_data.json', true);
     xobj.onreadystatechange = function () {
       if (xobj.readyState == 4 && xobj.status == "200") {
         callback(JSON.parse(xobj.responseText));
@@ -222,11 +222,6 @@ loadJSON(function(json) {
             "url": "/exhibits/indoor-safety-guidelines/",
             "thumbnail": "/static/img/I_Exhibit_Thumbnail.jpg"
           },
-          
-
-          
-
-          
 
         {
           "title": "When the World Was A Laugh",
