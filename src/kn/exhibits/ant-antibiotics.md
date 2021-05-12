@@ -122,26 +122,29 @@ tervis: /static/img/F_EXHIBIT_TER_VIS_1.jpg
 tertxt: "ಆಕರ್ಷಕ ಗೊದ್ದಗಳ ವಸಾಹತು (ಕ್ಯಾಪ್ಟೀವ್‌ ಆಂಟ್‌ ಕಾಲನಿ): ಮ್ಯಾಟ್‌  ಹಚಿಂಗ್ಸ್‌ ಕೊಡುಗೆ"
 readinglist:
   - quadreadlink: https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines-152647
-    quadreadtxt: "Why Resistance is Common in Antibiotics, But Rare in Vaccines "
+    quadreadtxt: ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಉತ್ಪತಿಯಾಗುತ್ತವೆ,
+      ಅದೇ ಲಸಿಕೆಗಳಿಗೆ ವಿರಳ ಏಕೆ?
     quadreadvis: /static/img/f_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://www.nationalgeographic.com/science/article/ants-evolution-corrie-moreau-women-in-biology
-    quadreadtxt: Meet the Woman Making Ants the Next Big Thing in Biology
+    quadreadtxt: ಜೀವ ಶಾಸ್ತ್ರದಲ್ಲಿ ಇರುವೆ ಗೊದ್ದಗಳನ್ನು ಭವಿಷ್ಯದ ಪ್ರಮುಖ ವಿಷಯವಾಗಿ
+      ಪರಿಗಣಿಸಿರುವ ಮಹಿಳೆಯನ್ನು ಭೇಟಿ ಮಾಡಿ.
     quadreadvis: /static/img/f_exhibit_qua_readvis_2.jpg
   - quadreadlink: https://science.thewire.in/health/antimicrobial-resistance-is-a-serious-threat-to-public-health-in-india/
-    quadreadtxt: Antimicrobial Resistance is a Serious Threat to India
+    quadreadtxt: ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕಗಳು, ಭಾರತಕ್ಕೆ ಗಂಭೀರ ವಿಪತ್ತು.
     quadreadvis: /static/img/f_exhibit_qua_readvis_3.jpg
 listeninglist:
-  - quadlisttxt: "What Research on Ants Can Teach Us About Ourselves "
+  - quadlisttxt: "ಇರುವೆ ಗೊದ್ದಗಳ ಮೇಲೆ ನೆಡೆದಿರುವ ಸಂಶೋಧನೆಯಿಂದ, ನಾವು ನಮ್ಮ ಬಗ್ಗೆ ಏನನ್ನು
+      ಅರಿತಿದ್ದೇವೆ? "
     quadlistlink: https://www.findinggeniuspodcast.com/podcasts/ants-ants-and-more-ants-what-research-on-ants-can-teach-us-about-ourselves-and-our-future-as-a-species/
     quadlistvis: /static/img/f_exhibit_qua_listvis_1.jpg
-  - quadlisttxt: "The Path of Most (Antibiotic) Resistance "
+  - quadlisttxt: ಬಹಳಷ್ಟು ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳ ಪ್ರತಿರೋಧಕಗಳ ಪಥ
     quadlistlink: https://open.spotify.com/episode/3J7mDz163YhLHiWCW87b9X
     quadlistvis: /static/img/f_exhibit_qua_listvis_2.jpg
-  - quadlisttxt: "Antman: The Biology of Ants"
+  - quadlisttxt: ಆಂಟ್‌ ಮ್ಯಾನ್:‌ ಇರುವೆ / ಗೊದ್ದಗಳ ಜೀವಶಾಸ್ತ್ರ
     quadlistlink: https://open.spotify.com/episode/1GsYvPa98REzDaK1CYJP55
     quadlistvis: /static/img/f_exhibit_qua_listvis_3.jpg
 watchinglist:
-  - quadwatchtxt: "Antimicrobial Resistance beyond COVID "
+  - quadwatchtxt: ಕೋವಿಡ್‌ ಪರಿಸ್ಥಿತಿಯನ್ನೂ ಮೀರಿ ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಎದುರಾಗುವ ಪ್ರತಿರೋಧಕಗಳು
     quadwatchlink: https://lshtm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9b68d250-2c98-43f0-a642-ac3f0136480d
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_1.jpg
   - quadwatchtxt: "Inside the Ant Colony "
@@ -151,12 +154,12 @@ watchinglist:
     quadwatchtxt: "The Antibiotic Resistance Crisis: Basic Science to the Rescue"
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_3.jpg
 eventlist:
-  - quadeventtxt: "Antimicrobial Resistance: the Pandemic in the Shadows | Lecture
-      by Dr. Jyoti Joshi"
+  - quadeventtxt: ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧ (ಏ.ಎಂ.ಆರ್):‌ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ
+      ನೆರಳಿನಲ್ಲಿ | ಉಪನ್ಯಾಸ | ಜ್ಯೋತಿ ಜೋಶಿ
     quadeventlink: https://www.eventbrite.com/e/145225482327
     quadeventvis: /static/img/f_exhibit_qua_atnvis_1.jpg
-  - quadeventtxt: "Science, Innovation and Society: What have we learnt from the
-      Covid-19 pandemic? | Lecture by Dr. Jeremy Farrar "
+  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
+      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
     quadeventlink: https://www.eventbrite.com/e/148321145539
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
