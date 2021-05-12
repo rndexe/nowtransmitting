@@ -1,5 +1,5 @@
 ---
-title: A Human Question
+title: ಎ ಹ್ಯೂಮನ್‌ ಕ್ವೆಸ್ಚನ್‌ A Human Question
 permalink: kn/programmes/films/a-human-question/
 cata: spillover
 catb: documenting
@@ -7,21 +7,22 @@ thumb: /static/img/fs_jayashree_thumbnail.png
 cover: /static/img/fs_jayashree_coverimage.png
 date: 2021-05-30T11:30:00.000Z
 description: >-
-  **2005 | 53 minutes | German, English, Kannada & Hindi with English subtitles
-  | Thailand, Germany, Switzerland & India** 
+  **2005 | 53 ನಿಮಿಷಗಳು | ಇಂಗ್ಲಿಷ್‌ ಉಪಶೀರ್ಷಿಕೆಯೊಂದಿಗೆ ಜರ್ಮನ್‌, ಇಂಗ್ಲಿಷ್‌, ಕನ್ನಡ
+  ಮತ್ತು ಹಿಂದಿ ಭಾಷೆಗಳಲ್ಲಿ ‌ | ಥೈಲ್ಯಾಂಡ್‌, ಜರ್ಮನ್, ಸ್ವಿಟ್ಜರ್ಲ್ಯಂಡ್‌ ಮತ್ತು
+  ಭಾರತದಲ್ಲಿ ಪ್ರದರ್ಶನಗೊಂಡಿದೆ.**
 
 
-  Tracing the story of the global struggle to make HIV/AIDS drugs more affordable and available, A Human Question raises key questions of whether private ownership of knowledge can be at the costs of human life? The film explores the complex world of Patents and HIV/AIDS medicines by connecting and contrasting personal narratives with those of international lobbyists and activists. 
+  ಹೆಚ್.‌ ಐ. ವಿ /ಎ.ಐ.ಡಿ.ಎಸ್‌ ಔಷಧಿಗಳನ್ನು ಕೈಗೆಟಕುವ ದರಗಳಲ್ಲಿ  ಲಭ್ಯವಾಗುವಂತೆ ಮಾಡುವ ಜಾಗತಿಕ ಹೋರಾಟದ ಕಥೆಗಳನ್ನು ಹೊಂದಿರುವ ಈ ಚಲನ ಚಿತ್ರವು ʼಎ ಹ್ಯೂಮನ್‌ ಕ್ವೆಸ್ಚನ್‌ʼ, ಔಷದ ಜ್ಞಾನದ ಖಾಸಗಿ ಮಾಲೀಕತ್ವವು, ಮಾನವ ಜೀವನಕ್ಕಿಂತಲೂ ಮಿಗಿಲಾದುದೇ ಎಂಬ ಪ್ರಮುಖ ಪ್ರಶ್ನೆಯನ್ನು ಹುಟ್ಟುಹಾಕುತ್ತದೆ. ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಗುಂಪುಗಾರಿಕೆ ಮತ್ತು ಕಾರ್ಯಕರ್ತರ ಹೇಳಿಕೆಗಳನ್ನು ವೈಯಕ್ತಿಕ ನಿರೂಪಣೆಗಳೊಂದಿಗೆ ಬೆಸೆದು, ಇವೆರಡರ ನಡುವಣ ಸಂಪರ್ಕ ಹಾಗೂ ವ್ಯತಿರಿಕ್ತ ತತ್ವಗಳ ಮೂಲಕ, ಪೇಟೆಂಟ್‌ ಮತ್ತು ಹೆಚ್‌ ಐ ವಿ /ಎಐಡಿಎಸ್‌ ಔಷಧಿಗಳ ಜಗತ್ತನ್ನು ಈ ಚಲನ ಚಿತ್ರವು ಪರಿಶೋಧಿಸುತ್ತದೆ. 
 
 
-  A Human Question makes the case that although AIDS cannot be cured, people can live longer and with a better quality of life given adequate health care and access to drugs, both of which are cause and consequence of social change.  This film has been screened at numerous international film festivals including HIMAL South Asian festival (2007), and Globale (2006).
+  ಎಡ್ಸ್‌ ಅನ್ನು ಗುಣಪಡಿಸಲು ಸಾದ್ಯವಾಗದಿದ್ದರೂ, ಜನರು ಹೆಚ್ಚುಕಾಲ ಬದುಕಲು ಮತ್ತು ಉತ್ತಮ ಮಟ್ಟದ ಜೀವನ ನೆಡೆಸಲು, ಔಷಧಿಯ ಲಭ್ಯತೆ ಮತ್ತು ಆರೋಗ್ಯ ಆರೈಕೆಯು ಲಾಭಕರವಾಗುತ್ತವೆ. ಇವೆರಡೂ ಸಾಮಾಜಿಕ ಬದಲಾವಣೆಯ ಮುಖ್ಯ ಕಾರಣಳು ಮತ್ತು ಪರಿಣಾಮಗಳಾಗಿವೆ. ಹಿಮಾಲ್‌ ದಕ್ಷಿಣ ಏಷ್ಯಾ ಉತ್ಸವ (2007), ಮತ್ತು ಗ್ಲೋಬೆಲ್‌ (2006) ಚಲನ ಚಿತ್ರೋತ್ಸವಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಹಲವಾರು ಅಂತರರಾಷ್ಟ್ರೀಯ ಚಲನಚಿತ್ರ ಉತ್ಸವಗಳಲ್ಲಿ, ಈ ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗಿದೆ.
 link: http://bit.ly/films-jayashree
-expertname: "T Jayashree "
+expertname: ""
 expertbio: >-
-  ***Filmmaker***
+  ***ನಿರ್ದೇಶಕರು***
 
 
-  T. Jayashree has written, produced and directed for International Television, Radio, Feature films and Independent Documentaries for over 2 decades. Her award winning work focuses on the intersection between Gender, Sexuality, Law and Public health. Her films are widely screened around the globe and can be viewed at her Vimeo Account. Queer Archive for Memory, Reflection and Activism (QAMRA) is an initiative grown out of her vast collection of raw footage on queer life and movement in India.
+  ಟಿ ಜಯಶ್ರೀಯವರು, ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ದೂರದರ್ಶನ, ರೇಡಿಯೋ, ಚಲನಚಿತ್ರಗಳು ಮತ್ತು ಸ್ವತಂತ್ರ ಸಾಕ್ಷ್ಯ ಚಿತ್ರಗಳಿಗಾಗಿ 2 ದಶಕಗಳಿಂದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿ, ನಿರ್ಮಿಸಿ ನಿರ್ದೇಶಿಸಿದ್ದಾರೆ. ಅವರ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಕೃತಿಗಳು ಸ್ತ್ರೀ-ಪುರುಷತ್ವದ ಸಮಾಗಮ, ಲೈಂಗಿಕತೆ, ಕಾನೂನು ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯವನ್ನು ಕೇಂದ್ರ ಬಿಂದುವನ್ನಾಗಿಸಿ ಕೊಂಡಿವೆ. ಅವರ ಚಲನಚಿತ್ರಗಳು, ಪ್ರಪಂಚದಾದ್ಯಂತ ವ್ಯಾಪಕವಾಗಿ ಪ್ರದರ್ಶಿಸಲಾಗಿವೆ. ಈ ಚಲನ ಚಿತ್ರಗಳನ್ನು ಇವರ ವಿಮಿಯೋ ಖಾತೆಯಲ್ಲಿ ಸಹ ವೀಕ್ಷಿಸಬಹುದು. ಭಾರತದಲ್ಲಿ ವಿಚಿತ್ರ ಜನಜೀವನ ಮತ್ತು ನಡವಳಿಕೆಯನ್ನು ಕುರಿತಾದ ನೇರ ಚಿತ್ರಣಗಳ ಅಪಾರ ಸಂಗ್ರಹದ ಮೂಲಕ  ಕ್ಯುಎಎಂಆರ್‌ಎ ಸಂಸ್ಥೆ
 expertpic: /static/img/m_exhibit_sec_vis_5.jpg
 disname: "Vikram Doctor "
 dispic: /static/img/d_fs_sec_vis_2.png
