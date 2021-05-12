@@ -1,32 +1,32 @@
 ---
-title: The Shape of A Laugh
+title: ನಗುವಿನ ರೂಪ “ದಿ ಶೇಪ್‌ ಆಫ್‌ ಎ ಲಾಫ್‌ ”
 permalink: kn/programmes/workshops/the-shape-of-a-laugh/
 cata: transmission
 catb: documenting
 thumb: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
 cover: /static/img/wk_anais_coverimage.png
 date: 2021-05-29T08:30:00.000Z
-description: Based on the artist’s exhibit ‘When the World Was A Laugh’, this
-  workshop is an invitation to delve into a collection of laughs from across the
-  world, and it will explore the making and the unfolding of a speculative
-  fiction out of this collection. In a back and forth interplay between
-  performative readings and the experimental modeling of a typology of laughs,
-  you will collectively reflect on the role of laughter in the social fabric of
-  human relations and beyond.
-condition: "This workshop is exclusively for 15 to 28 year olds. "
+description: ಈ ಕಾರ್ಯಾಗಾರವು, “ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ” ಎಂಬ ಕಲಾವಿದರ
+  ಪ್ರದರ್ಶಿಕೆಯನ್ನು ಆಧಾರವಾಗಿಸಿಕೊಂಡು, ವಿಶ್ವದೆಲ್ಲೆಡೆಯಿಂದ ನಗೆ ಹನಿಗಳನ್ನು ಕಲೆ ಹಾಕಿ,
+  ನಗುವಲ್ಲಿ ನಲಿಯಲು ಆಹ್ವಾನ ನೀಡುತ್ತಿದೆ.  ಈ ನಗೆಹನಿಗಳ ಸಂಗ್ರಹಣೆಯಿಂದಲೇ ಕಥೆಯ ಹಂದರವನ್ನು
+  ಹೆಣೆದು, ವಿಶಿಷ್ಟ ರೀತಿಯಲ್ಲಿ ಪ್ರಸ್ತುತ ಪಡಿಸಲಾಗುವುದು.  ಕಲಾತ್ಮಕವಾಗಿ ಓದುವ ವೈಖರಿ ಹಾಗೂ
+  ನಗುವಿನ ಹಲವು ಬಗೆಗಳ ಪ್ರಾಯೋಗಿಕ ಮಾದರಿಗಳ ನಡುವೆಯೇ, ಮಾನವ ಸಂಬಂಧಗಳಲ್ಲಿ ಮತ್ತು ಅದಕ್ಕೂ
+  ಮೀರಿ ಸಾಮಾಜಿಕ ಪರಿಸರದಲ್ಲಿ ನಗೆಯ ಪಾತ್ರವನ್ನು ಸಮಗ್ರವಾಗಿ ಅರ್ಥೈಸುವ ಪ್ರಯತ್ನ ಮಾಡಲಾಗಿದೆ.
+condition: "15-28 ವರ್ಷ ವಯೋಮಿತಿಯೊಳಗಿನ ಯುವಕರಿಗೆ ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು. "
 link: http://bit.ly/workshop-tondeur
-expertname: "Anais Tondeur "
+expertname: ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್
 expertbio: >-
-  Merging natural sciences and anthropology, myth-making, and new media, visual
-  artist Anaïs Tondeur’s practice is anchored in ecology thought. Creating
-  installations, photographs, or videos, she seeks a new aesthetic, in the sense
-  of a renewal of our modes of perception, to find other conditions of being in
-  the world. 
-
-  She has been an artist-in-residence in several art centers and scientific laboratories, which include LeCentQuatre-Grand Paris Express (2018-19), Artlink (Ireland, 2019), the Museum of Arts et Métiers (Paris, 2018-17), and the National Centre for Space Studies (CNES, Paris, 2016).
+  ಮಾನವ ಶಾಸ್ತ್ರ, ನೈಸರ್ಗಿಕ ವಿಜ್ಞಾನಗಳು, ಕಥಾ ಸೃಷ್ಟಿ, ಮತ್ತು ನವ ಮಾಧ್ಯಮವನ್ನು
+  ಒಟ್ಟುಗೂಡಿಸಿ, ದೃಶ್ಯ ಕಲಾವಿದರಾದ ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ಅವರು ಪರಿಸರದ ಚಿಂತನೆ
+  ನೆಡೆಸಿದ್ದಾರೆ.  ಛಾಯಾಚಿತ್ರಗಳು, ವೀಡಿಯೋಗಳು ಮತ್ತು ಸೃಜನಾತ್ಮಕ ಜೋಡಣೆಗಳ ಮೂಲಕ ಸುಂದರ
+  ಕಲಾರೂಪಕಗಳನ್ನು ರಚಿಸಿ, ಅಭಿಪ್ರಾಯಗಳಲ್ಲಿ ಹೊಸ ತನವನ್ನು ಮೂಡಿಸಿ, ಈ ಪ್ರಪಂಚದಲ್ಲಿನ ವಿವಿಧ
+  ಆಯಾಮದ ಅಸ್ಥಿತ್ವವನ್ನು ಹುಡುಕುವ ಪ್ರಯತ್ನ ಮಾಡುತ್ತಿದ್ದಾರೆ.  
 
 
-  She has presented and exhibited her work in international institutions such as the Center Pompidou (Paris), La Gaîté Lyrique (Paris), Serpentines Galleries (London), Bozar (Brussels), and Biennale Di Venezia, (Lieux Infinis). 
+  ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್, ʼಲೆ ಸೆಂಟ್‌ ಕ್ವಾಟ್ರೆ-ಗ್ರಾಂಡ್‌, ಪ್ಯಾರಿಸ್ ಎಕ್ಸ್ಪ್ರೆಸ್‌(2018-19)ʼ, ʼಆರ್ಟ್‌ ಲಿಂಕ್‌ (ಐರ್ಲ್ಯಾಂಡ್, 2019)ʼ‌, ʼದಿ ಮ್ಯೂಸಿಯಂ ಆಫ್‌ ಆರ್ಟ್ಸ್‌ ಎಟ್‌ ಮೀಟಿಯರ್ಸ್‌ (ಪ್ಯಾರಿಸ್‌, 2018-17)ʼ ಮತ್ತು ʼದಿ ನ್ಯಾಶನಲ್‌ ಸೆಂಟರ್‌ ಫಾರ್‌ ಸ್ಪೇಸ್‌ ಸ್ಟಡೀಸ್‌ʼ (ಸಿ.ಎನ.ಈ.ಎಸ್‌, ಪ್ಯಾರಿಸ್‌, 2016) ಮುಂತಾದ ಹಲವು ಕಲಾ ಕೇಂದ್ರಗಳಲ್ಲಿ ಮತ್ತು ವೈಜ್ಞಾನಿಕ ಪ್ರಯೋಗಾಲಯಗಳಲ್ಲಿ, ನಿವಾಸೀ ಕಲಾವಿದರಾಗಿ ಕಾರ್ಯಾನುಭವ ಪಡೆದಿದ್ದಾರೆ. 
+
+
+  ʼದಿ ಸೆಂಟರ್‌ ಪಾಂಪಿಡ್ಯು,(ಪ್ಯಾರಿಸ್)‌, ಲಾ ಗೈಟೆ ಲಿರಿಕ್‌ , ಸರ್ಪೆಂಟೈನ್ಸ್‌ ಗ್ಯಾಲರೀಸ್‌ (ಲಂಡನ್)‌ , ಬೋಜರ್‌ (ಬ್ರಸೆಲ್ಸ್)‌ , ಬೈನ್ನಲೆ ಡೀ ವೆನೇಜಿಯಾ (ಲಿಯಾಕ್ಸ್‌ ಇಂಫಿನಿಸ್)‌ ಮುಂತಾದ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಸಂಸ್ಥೆಗಳಲ್ಲಿ, ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್ ಅವರು  ತಮ್ಮ ಕೃತಿಗಳನ್ನು  ಪ್ರದರ್ಶಿಸಿದ್ದಾರೆ.
 expertpic: /static/img/h_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.scientificamerican.com/article/why-do-we-laugh/
