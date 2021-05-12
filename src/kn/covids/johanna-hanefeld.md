@@ -27,8 +27,7 @@ readinglist:
     quadreadtxt: Lessons on Building More Equal and Sustainable Societies
     quadreadvis: /static/img/N_CO_QUA_READVIS_3.jpg
   - quadreadlink: https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-020-00645-5
-    quadreadtxt: "Assessing COVID-19 Through The Lens Of Health Systems’
-      Preparedness: Time For A Change"
+    quadreadtxt: ಪ್ಯಾನ್ಡಮಿಕ್ ಪ್ರಿಪೇರ್ಡ್ನೆಸ್
     quadreadvis: /static/img/N_CO_QUA_READVIS_1.jpg
 permalink: kn/covids/learning-from-pandemic/
 listeninglist:
