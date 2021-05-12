@@ -15,4 +15,14 @@ description: >-
   Worldwide, several vaccines have been approved for COVID-19; however, questions have been raised about their efficacy and safety and what the future holds because of the emergence of important variants. To combat some of the hesitancy around COVID-19 vaccination, this talk will open up the processes behind COVID-19 vaccine development. In doing so, Dr Kang will also answer critical questions on the mechanisms of vaccination and its limits, for us to better grasp our role in the current global drive for vaccination.
 expertname: Gagandeep Kang
 expertpic: /static/img/pl_gagandeep_portrait.png
+readinglist:
+  - quadreadvis: /static/img/O_PL_QUA_READVIS_1.jpg
+  - quadreadvis: /static/img/O_PPL_QUA_READVIS_2.jpg
+  - quadreadvis: /static/img/O_PL_QUA_READVIS_3.jpg
+listeninglist:
+  - quadlistvis: /static/img/O_PL_QUA_LISTVIS_1.jpg
+watchinglist:
+  - quadwatchvis: /static/img/O_PL_QUA_WATCHVIS_1.jpg
+eventlist:
+  - {}
 ---
