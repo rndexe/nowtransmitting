@@ -95,15 +95,15 @@ watchinglist:
     quadwatchtxt: "ಸೂಕ್ಷ್ಮ ದರ್ಶಕದ ಅಡಿಯಲ್ಲಿ ಕೆಂಪು ರಕ್ತ ಕಣಗಳು "
     quadwatchvis: /static/img/m_exhibit_qua_watchvis_3.jpg
 relatedlist:
-  - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+  - quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
-  - quadrelatedtxt: COVID-19 Indoor Safety Guideline by Martin Bazant, John Bush, Kasim Khan
+  - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
 authorname: Basse Stittgen
 eventlist:
-  - quadeventtxt: Detect, Investigate, Diagnose | Lecture by Adia Benton
+  - quadeventtxt: ಗುರಿತಿಸಿ, ಪರಿಶೀಲಿಸಿ, ನಿರ್ಣಯಿಸಿ | ಉಪನ್ಯಾಸ | ಅಡಿಯಾ ಬೇಂಟನ್‌
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/145400778643
   - quadeventtxt: "A Human Question | Film Screening and Discussion with T. Jayashree "
