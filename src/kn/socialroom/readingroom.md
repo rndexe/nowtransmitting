@@ -1,8 +1,8 @@
 ---
 layout: rooms/readingroom
-title: Reading Room
-description: From our experience of disease to speculative imagination of future
-  pandemics - explore a selection of reading material on contagion.
+title: ವಾಚನಾಲಯ
+description: ರೋಗದ ಬಗೆಗೆ ನಮಗಿರುವ ಅನುಭವದೊಡನೆ, ಭವಿಷ್ಯದ ರೋಗ ಪಿಡುಗುಗಳ ಕಲ್ಪನೆ -
+  ಸಾಂಕ್ರಾಮಿಕಗಳನ್ನು ಕುರಿತಂತಹ ಅಧ್ಯಯನ ಸಾಮಗ್ರಿಯನ್ನು ಅನ್ವೇಷಿಸಿ.
 icon: /static/img/reading-room-square.svg
 openbooklist:
   - title: A Journal of the Plague Year
