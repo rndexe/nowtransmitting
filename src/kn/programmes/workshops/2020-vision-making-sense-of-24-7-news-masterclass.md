@@ -1,5 +1,5 @@
 ---
-title: "2020 Vision: Making Sense of 24/7 News"
+title: "2020 ದೂರ ದೃಷ್ಟಿ: ಅಹೋರಾತ್ರಿ 24/7 ಆನ್ಲೈನ್‌ ವಾರ್ತೆಗಳ ಅರ್ಥವೇನು?"
 permalink: kn/programmes/workshops/making-sense-of-24-7-news/
 cata: transmission
 catb: mapping
@@ -7,28 +7,28 @@ thumb: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
 cover: /static/img/F_WK_Coverimage.jpg
 date: 2021-05-22T08:30:00.000Z
 description: >-
-  On 18 April 1930, the announcer at the BBC in London declared "There is no
-  news", and the 15 minute news programme was replaced by piano music. Today, we
-  risk becoming overwhelmed by the 24/7 torrent of online news and information.
-  How can we possibly process it all? How can we decide what is real and what is
-  fake? How can we switch off?
+  18 ಏಪ್ರಿಲ್‌, 1930,   ಅಂದು, ಲಂಡನ್‌ನ ಬಿ.ಬಿ.ಸಿ ವಕ್ತಾರರು, ʼಇಂದು ಯಾವುದೇ ವಾರ್ತೆಯು
+  ಇಲ್ಲ “ ಎಂದು ಘೋಷಿಸಿದ್ದರು.  15 ನಿಮಿಷಗಳ ವಾರ್ತಾ ಸಮಯದಲ್ಲಿ ಪಿಯಾನೋ ಸಂಗೀತ
+  ಕಾರ್ಯಕ್ರಮವನ್ನು ಹಮ್ಮಿಕೊಳ್ಳಲಾಗಿತ್ತು.  ನಾವು ವಾರದ 7 ದಿನಗಳೂ, ದಿನದ 24 ಗಂಟೆಯೂ,
+  ಆಗಿಂದಾಗ್ಗೆ ಪ್ರಸಾರವಾಗುವ ವಾರ್ತೆಗಳು ಮತ್ತು ಅತಿಯಾದ ಮಾಹಿತಿಗಳಿಂದ ಆವರಿಸಿಕೊಂಡು
+  ಬಿಟ್ಟಿರುತ್ತೇವೆ.  ಈ ಎಲ್ಲಾ ವಿಷಯ ಮತ್ತು ಮಾಹಿತಿಗಳನ್ನು ಮನಸ್ಸಿನ ಮೂಲಕ ಅರಿಯುವುದು ಹೇಗೆ
+  ?    ಯಾವುದು  ಸತ್ಯ , ಯಾವುದು ಸುಳ್ಳು ಎಂದು ಅರಿಯುವುದು ಹೇಗೆ ?  ಸರಿಯಾದುದನ್ನು
+  ಆರಿಸಿಕೊಳ್ಳುವುದು ಹೇಗೆ? 
 
 
-  This masterclass discusses some of these problems, and how artists have responded to information in the age of the internet. The session will include a presentation on the move from analogue to digital information , a look at how some artists have chosen to respond to information overload and a conversation with Science Gallery Research Intern Vasudha Malani to investigate UK and Indian online search algorithms. How do search results differ by country, by region, and by language?
-
-
-  The session will conclude with an open discussion, where you can share your perspectives on the world of information overload and how we can make sense of it all.
-condition: "This workshop is exclusively for 15 to 28 year olds. "
+  ಈ ತರಗತಿಯಲ್ಲಿ ಇಂತಹ ಹಲವು ಸಮಸ್ಯೆಗಳನ್ನು ಚರ್ಚಿಸಲಾಗುವುದು, ಈ ಅಂತರ್ಜಾಲದ ಯುಗದಲ್ಲಿ ಕಲಾವಿದರು ಮಾಹಿತಿ ಅಪ್ಪಳಿಕೆಗೆ ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯೆ ತೋರಿದ್ದಾರೆ ಎಂಬುದರ ಬಗೆಗೆ ಅರಿವು ಮೂಡಿಸಲಾಗುವುದು.  ಆನಲಾಗ್‌ ತಂತ್ರಾಂಶದಿಂದ ಡಿಜಿಟಲ್‌ ತಂತ್ರಾಂಶಕ್ಕೆ ಮಾಹಿತಿ ಪಯಣ ದ ಬಗೆಗೆ ಪ್ರದರ್ಶಿಕೆ ಸೇರಿದೆ.  ಮಾಹಿತಿ ಹೊರೆಯಿಂದ, ಹೊರ ಬರಲು, ಹೇಗೆ ಕೆಲವು ಕಲಾವಿದರು ಪ್ರತಿಕ್ರಿಯೆ ವ್ಯಕ್ತ ಪಡಿಸುವ ವಿಭಿನ್ನ ಹಾದಿಗಳನ್ನು ಹುಡುಕಿಕೊಂಡಿದ್ದಾರೆ, ಎಂಬುದರ ಪರಿಚಯ ಮಾಡಲಾಗುತ್ತದೆ, ಜೊತೆಗೆ ವಿಜ್ಞಾನ ವೇದಿಕೆಯ ಸಹ ಸಂಶೋಧಕರಾದ ವಸುಧಾ ಮಲಾನಿ ಅವರೊಂದಿಗಿನ ಸಂವಾದದಲ್ಲಿ, ಸಂಯುಕ್ತ ರಾಷ್ತ್ರ ಹಾಗೂ ಭಾರತೀಯ ಆನ್‌ ಲೈನ್‌ ಸರ್ಚ್‌ ಆಲ್ಗರಿಥಮ್‌ ಹೇಗೆ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತವೆ ಎಂಬುದರ ಬಗೆಗೂ ಜ್ಞಾನ ಪಡೆಯ ಬಹುದು.  ಹೇಗೆ ಗೂಗಲ್‌ ಅನ್ವೇಷಣೆಯಲ್ಲಿ ದೊರಕುವ  ಮಾಹಿತಿಗಳು, ದೇಶ, ಭಾಷೆ ಮತ್ತು ಪ್ರದೇಶವನ್ನು ಅವಲಂಭಿಸಿರುತ್ತದೆ ಎಂದು ತಿಳಿಯ ಬಹುದು. ಪರಸ್ಪರ ಚರ್ಚೆಯ ಮೂಲಕ, ಪ್ರಪಂಚದ ಮಾಹಿತಿ ಹೊರೆಯ ಬಗ್ಗೆ ನಿಮ್ಮ ತಿಳುವಳಿಕೆ  ಮತ್ತು ಅಭಿಪ್ರಾಯವನ್ನು ಹಂಚಿಕೊಳ್ಳಬಹುದು,
+condition: 15-28 ವರ್ಷ ವಯೋಮಿತಿಯೊಳಗಿನ ಯುವಕರಿಗೆ ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು.
 link: http://bit.ly/masterclass-good
-expertname: "Robert Good "
+expertname: ರಾಬರ್ಟ್‌ ಗೂಡ್‌
 expertbio: >-
-  Robert Good is an artist based in Cambridge UK. He is editor of A New
-  Dictionary of Art and founder and director of the artist collective Art
-  Language Location. His podcast Something To Do With Art features discussions
-  with experimental artists about what they do and why.
+  ರಾಬರ್ಟ್‌ ಗೂಡ್‌, ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರದ ಕೇಂಬ್ರಿಡ್ಜ್‌ ಅಲ್ಲಿ ನೆಲೆಸಿರುವ ಕಲಾವಿದರು. ʼಎ
+  ನ್ಯೂ ಡಿಕ್ಷನರಿ ಆಫ್‌ ಆರ್ಟ್”‌ ನ ಸಂಪಾದಕರು ಮತ್ತು ʼಆರ್ಟಿಸ್ಟ್‌ ಕಲೆಕ್ಟೀವ್‌ ಆರ್ಟ್‌
+  ಲ್ಯಾಂಗ್ವೇಜ್‌ ಲೊಕೇಶನ್‌ʼ ನ ಸಂಸ್ಥಾಪಕರು ಹಾಗೂ ನಿರ್ದೇಶಕರು. ʼಸಂಥಿಂಗ್‌ ಟು ಡೂ ವಿಥ್‌
+  ಆರ್ಟ್‌ʼಎಂಬ  ಇವರ ಪೋಡ್ಕಾಸ್ಟ್‌ , ಪ್ರಾಯೋಗಿಕ ಕಲೆಗಾರರ ಕೃತಿಗಳ ಬಗೆಗೆ ಪರಿಚಯ ಮತ್ತು
+  ವಿಮರ್ಷೆಯನ್ನು ರೂಪಿಸುತ್ತದೆ .
 
 
-  Good uses the framework and conventions of contemporary art to offer fresh perspectives. He says: "My work is frequently propositional in nature. I like to analyse a situation, try to understand it and then make work that re-presents it, reflecting back both the limitations of my understanding and my responses to it. As such, my work functions in some ways like a scientific hypothesis - it is offered for others to consider, validate or falsify."
+  ಗೂಡ್‌ ಅವರು, ಸಮಕಾಲೀನ  ಕಲೆಯ ಸಂರಚನೆ ಮತ್ತು ಪದ್ಧತಿಗಳನ್ನು ಬಳಸಿಕೊಂಡು, ಅವುಗಳಿಗೆ ಹೊಸ  ಆಯಾಮ ನೀಡಿ ನವೀನ ಬಗೆಯಲ್ಲಿ ಪ್ರಸ್ತುತ ಪಡಿಸುತ್ತಾರೆ.  ಇವರು ಹೇಳುವಂತೆ, “ ನನ್ನ ಕಲಾಕೃತಿಗಳು ಸ್ವಾಭಾವಿಕವಾಗಿ ಸಮತೋಲನ ಹೊಂದಿರುತ್ತವೆ.  ಯಾವುದೇ ಪರಿಸ್ಥಿತಿಯನ್ನು ಚೆನ್ನಾಗಿ ವಿಶ್ಲೇಷಿಸಿ, ಅರ್ಥ ಮಾಡಿಕೊಂಡು, ಆ ಪರಿಕಲ್ಪನೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವಂತಹ ಕೃತಿಗಳನ್ನು ರಚಿಸುತ್ತೇನೆ.  ನನ್ನ ಅರಿವಿನ ಪರಿಮಿತಿ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆ ಎರಡೂ ವಿಷಯಗಳು ಈ ಕೃತಿಗಳಲ್ಲಿ ಅಡಕವಾಗಿರುತ್ತವೆ. ಸಾಮಾನ್ಯವಾಗಿ ನನ್ನ ಕೃತಿಗಳು ಬಹಳಷ್ಟು ಸಲ ವೈಜ್ಞಾನಿಕ ಹೈಪೋಥಿಸಿಸ್‌ ತರಹವೇ ಇರುತ್ತವೆ.  ಪ್ರೇಕ್ಷಕರ ವಿಚಾರ-ವಿಮರ್ಶೆ , ದೃಢಿಕರಣಕ್ಕೆ ಈ ಕೃತಿಗಳು ತೆರೆದಿರುತ್ತವೆ “.
 expertpic: /static/img/f_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/

@@ -16,10 +16,10 @@ promptc: Home
 promptAlist:
   - coverimage: /static/img/tye_4_loganathan_mask_a.jpg
     name: Sri Loganathan Velmurugan
-    bio: Sri Loganathan Velmurugan is pursuing his Bachelor's in Journalism at
-      Madras Christian College. He is also a founding member of Photo Meet
-      Chennai, a Tamil Nadu-based photo community that conducts photo walks and
-      various photography-related activities in Tamilnadu.
+    bio: Sri Loganathan is a Journalism graduate from Madras Christian College. His
+      interest in Photojournalism began at a very young age of 14. He aspires to
+      become a photojournalist and he involves himself to find distinctive
+      frames which speak for themselves.
     caption: An old man is seen showing his token to collect wine bottles from Tamil
       Nadu State Marketing Corporation (TASMAC) during lockdown.
   - coverimage: /static/img/tye_4_loganathan_mask_c.jpg
@@ -110,10 +110,10 @@ promptDlist:
       liquor from Tamil Nadu State Marketing Corporation (TASMAC) during
       lockdown.
     name: Sri Loganathan Velmurugan
-    bio: Sri Loganathan Velmurugan is pursuing his Bachelor's in Journalism at
-      Madras Christian College. He is also a founding member of Photo Meet
-      Chennai, a Tamil Nadu-based photo community that conducts photo walks and
-      various photography-related activities in Tamilnadu.
+    bio: Sri Loganathan is a Journalism graduate from Madras Christian College. His
+      interest in Photojournalism began at a very young age of 14. He aspires to
+      become a photojournalist and he involves himself to find distinctive
+      frames which speak for themselves.
   - coverimage: /static/img/tye_13_ananya_iso_a.jpg
     bio: Ananya Rao Kedige is pursuing her Master's in Bioinformatics at Manipal
       School of Life Sciences, MAHE, Manipal. She is currently working on

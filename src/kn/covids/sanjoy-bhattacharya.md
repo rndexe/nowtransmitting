@@ -1,57 +1,57 @@
 ---
-title: Lessons from the Past in a Pandemic
-desc: Outbreaks and epidemics have affected humanity throughout its existence,
-  often changing the course of history. There are many differences between how
-  we used to and how we currently respond to epidemics, but there are also many
-  points of practice from the past that remain relevant today. Sanjoy
-  Bhattacharya, a historian of medicine and health, is both fascinated and
-  devastated by his experience of living through the worst pandemic in the past
-  100 years. He reflects on how insights from history can help inform
-  contemporary health policy.
-permalink: kn/covids/lessons-from-past-pandemics/
-speakername: Sanjoy Bhattacharya
+title: "ಗತಕಾಲದ ಪಿಡುಗುಗಳಿಂದ ಕಲಿತ ಪಾಠ "
+desc: ಮಾನವ ಸಮಾಜವನ್ನು ಬಹು ಕಾಲದಿಂದಲೂ ಅನೇಕ ಪಿಡುಗುಗಳು ಮತ್ತು ಮಹಾಮಾರಿಗಳು ಪೀಡಿಸಿವೆ,
+  ಕೆಲವು ಇತಿಹಾಸದ ಹಾದಿಯನ್ನೇ ಬದಲಿಸಿ ಬಿಟ್ಟಿವೆ.  ನಾವು ಹಿಂದೆ ಪಿಡುಗುಗಳನ್ನು
+  ಎದುರಿಸುತ್ತಿದ್ದ ರೀತಿಗೂ ಇಂದಿನ ಪ್ರತಿಕ್ರಿಯೆಗೂ ಸಾಕಷ್ಟು ವ್ಯತ್ಯಾಸಗಳು ಕಂಡು ಬಂದಿವೆ. 
+  ಆದರೆ ಇತಿಹಾಸದ ಪಿಡುಗುಗಳಿಂದ ಕೆಲವು ಪ್ರಮುಖ ವಿಷಯಗಳನ್ನು ಖಂಡಿತವಾಗಿಯೂ ಗ್ರಹಿಸಿ
+  ಅನುಸರಿಸುವುದು ಇಂದಿಗೂ ಔಚಿತ್ಯಪೂರ್ಣವಾಗಿದೆ.  ಆರೋಗ್ಯ ಮತ್ತು ವೈದ್ಯಕೀಯ ಇತಿಹಾಸಕಾರರಾದ
+  ಶ್ರೀ ಸಂಜೋಯ್ ಭಟ್ಟಾಚಾರ್ಯ ಅವರು,  ನೂರು ವರ್ಷಗಳ  ಹಿಂದಿನಿಂದ ಮಾನವರನ್ನು ಕಾಡಿರುವ
+  ಪಿಡುಗುಗಳನ್ನು ಕುರಿತಂತೆ , ದಿಗ್ಬ್ರಾಂತಿ ಮತ್ತು ಅಚ್ಚರಿ ಎರಡೂ ಭಾವನೆಗಳನ್ನು ವ್ಯಕ್ತ
+  ಪಡಿಸುತ್ತಾರೆ.  ನಾವು ಇತಿಹಾಸದ ಒಳನೊಟ ಮತ್ತು ವಿಮರ್ಶೆಯಿಂದ    ವರ್ತಮಾನದ ಆರೋಗ್ಯ
+  ನೀತಿಯನ್ನು ಹೇಗೆ  ರೂಪಿಸಿಕೊಳ್ಳ ಬಹುದು ಎಂದು ವಿವರಿಸುತ್ತಾರೆ.
+speakername: "ಸಂಜೋಯ್‌ ಭಟ್ಟಾಚಾರ್ಯ "
 speakerimage: /static/img/D_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/D_CO_THUMBNAIL.png
-speakerfield: Historian of Medicine and Health
-speakerbio: >-
-  Sanjoy Bhattacharya is Co-Director of the History Department’s Centre for
-  Global Health Histories, Professor in the History of Medicine, a Wellcome
-  Trust Senior Investigator and the Head of the WHO Collaborating Centre for
-  Global Health Histories at the University of York. Sanjoy specialises in the
-  health, medical, political and social history of nineteenth and twentieth
-  century South Asia, as well as the history and contemporary workings of
-  international and global health organisations, and their programmes around the
-  world.
-
-
-  Sanjoy has always worked in inter-disciplinary ways and within inter-sectoral settings, and remains actively involved in health policy research and evaluation work in national and international agencies. He is a co-founder of the World Health Organization’s Global Health Histories project (GHH), which works across the WHO HQ in Geneva, WHO Regional Offices in Copenhagen and Cairo, and multiple WHO Country Offices.
+speakerfield: "ಔಷಧ ಮತ್ತು ಆರೋಗ್ಯ ಇತಿಹಾಸಕರರು, "
+speakerbio: ಸಂಜೋಯ್ ಭಟ್ಟಾಚಾರ್ಯ, ವೆಲ್ಲ್‌ ಕಮ್‌ ಟ್ರಸ್ಟ್‌ ನ ಹಿರಿಯ ತಜ್ಞರಾಗಿ, ಜಾಗತಿಕ
+  ಆರೋಗ್ಯ ಇತಿಹಾಸ ವಿಭಾಗದ ಸಹ ನಿರ್ದೇಶಕರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.   ಯೋರ್ಕ್‌
+  ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ , ವಿಶ್ವ ಆರೋಗ್ಯ  ಸಂಸ್ಥೆಯ ಅಂಗ-ಸಂಸ್ಥೆಯಾದ ಜಾಗತಿಕ ಆರೋಗ್ಯ ಇತಿಹಾಸ
+  ಕೇಂದ್ರದ  ಮುಖ್ಯಸ್ಥರಾಗಿದ್ದಾರೆ.  ಇವರು, ದಕ್ಷಿಣ ಏಶಿಯಾದ ಹತ್ತೊಂಬತ್ತನೇ ಮತ್ತು ಇಪ್ಪತ್ತನೇ
+  ಶತಮಾನದ ಆರೋಗ್ಯ, ವೈದ್ಯಕೀಯ, ರಾಜಕೀಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಇತಿಹಾಸದ ವಿಷಯಗಳಲ್ಲಿ ವಿಶೇಷ ಅಧ್ಯಯನ
+  ಮಾಡಿದ್ದಾರೆ, ಅಲ್ಲದೇ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಹಾಗೂ ಜಾಗತಿಕ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಗಳ ಭೂತಪೂರ್ವ ಮತ್ತು
+  ವರ್ತಮಾನ ಕಾರ್ಯಪ್ರಣಾಲಿಕೆ ಮತ್ತು ವಿಶ್ವದೆಲ್ಲೆಡೆ ಅವುಗಳು ಆಯೋಜಿಸುವ ಕಾರ್ಯಕ್ರಮಗಳ ಸಂಶೋಧನೆ
+  ನೆಡೆಸಿದ್ದಾರೆ.  ಪ್ರೊಫೆಸರ್ ಭಟ್ಟಾಚಾರ್ಯ, ವಿವಿಧ ಶಿಕ್ಷಣ ಪ್ರಕಾರಗಳನ್ನು ಒಳಗೊಂಡ ಅಂತರ
+  ವಿಭಾಗೀಯ ವೇದಿಕೆಗಳಲ್ಲಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸಿದ್ದಾರೆ, ರಾಷ್ಟ್ರೀಯ ಹಾಗೂ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ
+  ಸಂಸ್ಥೆಗಳ ಆರೋಗ್ಯ ನೀತಿಗಳ ಸಂಶೋಧನೆ ಮತ್ತು ಪರಿಶೀಲನಾ ಕಾರ್ಯದಲ್ಲಿ ತಮ್ಮನ್ನು
+  ತೊಡಗಿಸಿಕೊಂಡಿದ್ದಾರೆ.  ಪ್ರೊಫೆಸರ್ ಭಟ್ಟಾಚಾರ್ಯ, ವಿಶ್ವ ಆರೋಗ್ಯ  ಸಂಸ್ಥೆಯಲ್ಲಿ  ಜಾಗತಿಕ
+  ಆರೋಗ್ಯ ಇತಿಹಾಸ ಪರಿಯೋಜನೆಯ (ಜಿ.ಎಚ್.ಎಚ್)‌ ಸಹ ಸಂಸ್ಥಾಪಕರು.  ಈ ಯೋಜನೆಯು, ʼಜಿನೇವʼ ದಲ್ಲಿ
+  ಇರುವ ವಿಶ್ವ ಆರೋಗ್ಯ  ಸಂಸ್ಥೆಯ ಮುಖ್ಯ ಕಛೇರಿ, ʼಕೋಪನ್ ಹಾಗನ್‌ʼ ಮತ್ತು ʼಕೈರೋʼ
+  ಪ್ರದೇಶದಲ್ಲಿರುವ ವಿಶ್ವ ಆರೋಗ್ಯ  ಸಂಸ್ಥೆಯ ಪ್ರಾದೇಶಿಕ ಕಛೇರಿಗಳು ಮತ್ತು ಅನ್ಯ
+  ದೇಶಗಳಲ್ಲಿರುವ ವಿಶ್ವ ಆರೋಗ್ಯ  ಸಂಸ್ಥೆಯ ವಿವಿಧ ಕಛೇರಿಗಳಲ್ಲಿ ಕಾರ್ಯ ರೂಪಕ್ಕೆ ಬಂದಿದೆ.
 videosrc: https://player.vimeo.com/video/519856382
 readinglist:
   - quadreadlink: https://www.cambridge.org/core/journals/medical-history/article/international-health-and-the-limits-of-its-global-influence-bhutan-and-the-worldwide-smallpox-eradication-programme/439B3BCA121FD269945B4645B1DE37CE#
-    quadreadtxt: "International Health and the Limits of its Global Influence:
-      Bhutan and the Worldwide Smallpox Eradication Programme"
+    quadreadtxt: ಇಂಟರ್ನ್ಯಾಶನಲ್ ಹೆಲ್ಥ್‌
     quadreadvis: /static/img/D_CO_QUA_READVIS_2.jpg
   - quadreadlink: https://www.nature.com/articles/s41599-020-0491-7
-    quadreadtxt: "Humanities, Criticality and Transparency: Global Health Histories
-      and the Foundations of Inter-Sectoral Partnerships for the Democratisation
-      of Knowledge"
+    quadreadtxt: ಹ್ಯೂಮ್ಯಾನಿಟೀಸ್‌, ಕ್ರಿಟಿಕಲಿ
     quadreadvis: /static/img/D_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://www.cambridge.org/core/journals/medical-history/article/reassessing-the-foundations-worldwide-smallpox-eradication-195767/A95275198E1EC0668D7B15B240EBF1F0
-    quadreadtxt: "Re-assessing the Foundations: Worldwide Smallpox Eradication, 1957–67 "
+    quadreadtxt: "ರೀ-ಅಸೆಸಿಂಗ್‌  ದಿ ಫೌ಼ಂಡೇಶನ್ಸ್ "
     quadreadvis: /static/img/D_CO_QUA_READVIS_3.jpg
+permalink: kn/covids/lessons-from-past-pandemics/
 listeninglist:
   - quadlistlink: https://soundcloud.com/uclsound/coronavirus-the-whole-story-what-can-we-learn-from-the-history-of-pandemics
-    quadlisttxt: What Can We Learn from the History of Pandemics?
+    quadlisttxt: ವಾಟ್‌ ವಿ ಕ್ಯಾನ್‌ ಲರ್ನ್‌
     quadlistvis: /static/img/D_CO_QUA_LISTVIS_2.jpg
   - quadlistlink: https://open.spotify.com/episode/1pPkezVpOoqZ0IiB3su49v
-    quadlisttxt: A Disease Sleuth in Bangalore
+    quadlisttxt: ಡಿಸೀಜ್‌ ಸ್ಲೂತ್‌ ಇನ್‌ ಬೆಂಗಳೂರು
     quadlistvis: /static/img/D_CO_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=A9gJtJfSX74&ab_channel=CentreforSocialandEconomicProgress
-    quadwatchtxt: "Smallpox Eradication: Inclusive Histories as Meaningful Roadmaps
-      for Global Health"
+    quadwatchtxt: ಇನ್ಕ್ಲೂಸಿವ್‌ ಹಿಸ್ಟರೀಸ್‌
     quadwatchvis: /static/img/D_CO_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=P45SpT8EEck&feature=youtu.be&ab_channel=UniversityofYorkAudioVisualCentre
-    quadwatchtxt: COVID19 Interdisciplinary Approaches
+    quadwatchtxt: ಇನ್ಟರ್ಡಿಸಿಪ್ಲಿನರಿ ಅಪ್ರೋಚಸ್‌
     quadwatchvis: /static/img/D_CO_QUA_WATCHVIS_1.jpg
 ---
