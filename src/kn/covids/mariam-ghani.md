@@ -33,27 +33,24 @@ speakerbio: >-
   ಇವರ ಇತ್ತೀಚಿನ ಕೃತಿಗಳು, ಈ-ಫ್ಲಕ್ಸ್‌ , ಫೀಜ್‌, ಫಾರಿನ್‌ ಪಾಲಿಸಿ, ಟ್ರಿಪಲ್‌ ಕೆನೋಪಿ, ದಿ ರೀಡರ್ಸ್‌ ಅಸ್ಯೂಮಿಂಗ್‌ ಬೋಯ್ಕಾಟ್‌: ರೆಸಿಸ್ಟೆಂಸ್‌ , ಏಜೆಂಸಿ ಮತ್ತು ಕಲ್ಚರಲ್‌ ಪ್ರೊಡಕ್ಷನ್‌, ಹಾಗೂ ಕ್ರಿಟಿಕಲ್‌ ರೈಟಿಂಗ್‌ ಎಂಸೆಂಬ್ಲೀಸ್‌  ಗಳಲ್ಲಿ ಪ್ರಕಾಶಿತಗೊಂಡಿವೆ. ಮಿಸ್ ಮರಿಯಂ  ಘಾನಿ ಯವರು, ಅನೇಕ ಫೆಲೋಶಿಪ್‌ ಗಳು, ಪುರಸ್ಕಾರಗಳು, ಅನುದಾನಗಳು ಮತ್ತು ರೆಸಿಡೆಂಸಿಗಳನ್ನು ಕ್ರಿಯೇಟಿವ್‌ ಕ್ಯಾಪಿಟಲ್‌, ದಿ ನ್ಯೂಯಾರ್ಕ್‌ ಸ್ಟೇಟ್‌ ಕೌಂಸಿಲ್‌ ಆನ್‌ ಆರ್ಟ್ಸ್‌, ದಿ ನ್ಯೂಯಾರ್ಕ್‌ ಪಬ್ಲಿಕ್‌ ಲೈಬ್ರರಿ ಮತ್ತು 18 ತ್‌ ಸ್ಟ್ರೀಟ್‌ ಆರ್ಟ್ಸ್‌ ಸೆಂಟರ್‌, ಲಾಸ್‌ ಏಂಜಲ್ಸ್‌ ಈ ಸಂಸ್ಥೆಗಳಿಂದ ಪಡೆದಿದ್ದಾರೆ.
 readinglist:
   - quadreadlink: https://www.cabinetmagazine.org/kiosk/scherlis_lily_30_april_2020.php
-    quadreadtxt: Distanciated Communities
+    quadreadtxt: ನಾಟ್‌ ಸೋಲ್ಜರ್ಸ್‌ ಬಟ್‌ ಪೈರ್‌ ಫೈಟರ್ಸ್‌
     quadreadvis: /static/img/O_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://nationalinterest.org/feature/why-trump-cant-go-war-against-coronavirus-140777
-    quadreadtxt: Why Trump Can’t Go to ‘War’ Against the Coronavirus
+    quadreadtxt: ಪ್ಯಾಂಡಮಿಕ್ ಆಂಡ್‌ ಇಟ್ಸ್‌ ಮೆಟಪೊ಼ರ್ಸ್‌
     quadreadvis: /static/img/O_CO_QUA_READVIS_3.jpg
   - quadreadlink: https://www.thenation.com/article/society/pandemic-definition-covid/
-    quadreadtxt: It’s Time to Tell a New Story About the Coronavirus—Our Lives Depend on It
+    quadreadtxt: ಅಗೆನ್ಸ್ಟ್‌ ವೇಜಿಂಗ್‌ ಎ ವಾರ್‌ ಆನ್‌ ಕೋವಿಡ್
     quadreadvis: /static/img/O_CO_QUA_READVIS_2.jpg
 permalink: kn/covids/language-of-pandemics/
 listeninglist:
   - quadlistlink: https://soundcloud.com/newmodels/ep23-tentacular-disease
-    quadlisttxt: DIS-EASE Podcast
+    quadlisttxt: "ಡಿಸ್- ಏಸ್‌ ಪೋಡ್‌ ಕಾಸ್ಟ್‌ "
     quadlistvis: /static/img/O_CO_QUA_LISTVIS_1.jpg
-  - quadlistlink: https://podcasts.apple.com/gb/podcast/shaking-the-viral-tree-a-conversation-with-david-quammen/id1368790239?i=1000469512251
-    quadlisttxt: Shaking the Viral Tree – A Conversation with David Quammen
-    quadlistvis: /static/img/O_CO_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=A9UPPLUAeo4&t=120s
-    quadwatchtxt: Understanding Illness through Metaphor
+    quadwatchtxt: "ಇಲ್ಲ್‌ ನೆಸ್‌ ಥ್ರೂ ಮೆಟಫರ್‌ "
     quadwatchvis: /static/img/O_CO_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=M5cjcAL7KCs
-    quadwatchtxt: "War and Pandemic: A Philosophical Analysis of the Analogy"
+    quadwatchtxt: "ವಾರ್‌ ಆಂಡ್‌ ಪ್ಯಾಂಡಮಿಕ್‌ "
     quadwatchvis: /static/img/O_CO_QUA_WATCHVIS_2.jpg
 ---
