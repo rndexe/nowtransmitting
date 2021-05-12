@@ -1,180 +1,183 @@
 ---
 layout: plague-british-india
 featured: false
-authortype: Scholar
+authortype: ವಿದ್ವಾಂಸರು
 thumb: /static/img/A_Exhibit_Thumbnail.jpg
-title: "Controlling the Plague in British India"
-subtitle: "A Visual History of the Plague "
-medium: Photographs
+title: ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ
+subtitle: "ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗಿನ ಇತಿಹಾಸದ ದೃಶ್ಯ ಪ್ರತಿಬಿಂಬ  "
+medium: ಛಾಯಾಚಿತ್ರಗಳು
 year: 1896 – 1898
 description: >-
-  The third plague pandemic broke out in Yunnan, China in 1855 and swept across
-  the globe until 1955, causing the death of approximately 12 million people.
-  Apart from being the first bubonic plague epidemic to reach all continents, it
-  was also the first epidemic to be photographed extensively. These photographs
-  provide a visual narrative with diverse perspectives on an epidemic that
-  deeply impacted methods of disease control and response across the world.
+  1855 ರಲ್ಲಿ, ಚೀನಾದ ಯೂನನ್‌ ಪ್ರದೇಶದಲ್ಲಿ, ಪ್ಲೇಗ್ ರೋಗ ಪಿಡುಗು ಮೂರನೇ ಬಾರಿ ಹರಡಿತು,
+  1955  ರವರೆಗೂ ಇಡೀ ವಿಶ್ವವನ್ನೇ ಮಾಹಾಮಾರಿಯಾಗಿ ಪ್ಲೇಗ್‌ ಕಾಡಿತ್ತು. ಸುಮಾರು 12 ದಶ ಲಕ್ಷ
+  ಜನರು ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯಿಂದ ಸಾವನ್ನಪ್ಪಿದ್ದರು.  ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ರೋಗ  ಸಾಂಕ್ರಾಮಿಕವು,
+  ಎಲ್ಲಾ ಜನ ನಿಬಿಢ ಖಂಡಗಳನ್ನು ತಲುಪಿತ್ತು, ಮೊದಲ ಬಾರಿಗೆ ಪ್ಲೇಗ್‌ ಕುರಿತಂತೆ ವಿಸ್ತೃತ 
+  ಛಾಯಾಚಿತ್ರಗಳನ್ನು ತೆಗೆದು ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಪ್ರಕಟಿಸಿದರು.  ಛಾಯಾಚಿತ್ರಣ, ವಿಶ್ವದ ಹಲವು
+  ಭಾಗಗಳಲ್ಲಿ ಪ್ಲೇಗ್‌ ರೋಗ ಸಾಂಕ್ರಾಮಿಕದ ಸ್ಫೋಟ, ರೋಗ ನಿವಾರಣೆ ಮತ್ತು ಪಿಡುಗಿನ ಹತೋಟಿಯ
+  ಬಗೆಗೆ ವಿವಿಧ ಕಥನಗಳ ಮಾಹಿತಿ ನೀಡುವಂತಹ, ದೃಶ್ಯ ಮಾಧ್ಯಮವಾಯಿತು.  
 
 
-  An essay accompanies this exhibit written by social anthropologist Christos Lynteris that explores the measures taken by colonial authorities in order to control the spread of the third plague pandemic in India. The exhibit also contains photographs courtesy of the research project on “Visual Representations of the Third Plague Pandemic” led by Christos. 
-
-
-  The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/European Research Council grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository [Apollo](https://www.repository.cam.ac.uk/handle/1810/280684). 
+  ಭಾರತದಲ್ಲಿ ಮೂರನೇ ಬಾರಿಗೆ ಹರಡಿದ ಪ್ಲೇಗ್ ರೋಗ ಪಿಡುಗನ್ನು ನಿಯಂತ್ರಿಸಲು, ಆಡಳಿತ ಪ್ರಾಧಿಕಾರವು ತೆಗೆದುಕೊಂಡ ಕ್ರಮಗಳ ಬಗೆಗೆ , ಮಾನವ ಶಾಸ್ತ್ರ ತಜ್ಞರಾದ ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌ ಅವರು ಈ ಪ್ರದರ್ಶಿಕೆಯೊಂದಿಗೆ ತಮ್ಮ ಪ್ರಬಂಧವನ್ನೂ ಪ್ರಸ್ತುತ ಪಡಿಸಿದ್ದಾರೆ.  ಇವರು ಮುನ್ನೆಡೆಸಿರುವ “ಮೂರನೇ ಬಾರಿಯ ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗಿನ ದೃಶ್ಯ ಪ್ರತಿಬಿಂಬ” ಎಂಬ ಕಾರ್ಯಯೋಜನೆಯಲ್ಲಿ ಕಲೆ ಹಾಕಿದ ಅನೇಕ ಛಾಯಾಚಿತ್ರ ಗಳನ್ನು ಸಹ ಇಲ್ಲಿ ಪ್ರಸ್ತುತ ಪಡಿಸಲಾಗಿದೆ.
 essay: >-
-  The third plague pandemic lasted from c.1855 to 1959 and was the first time
-  that bubonic plague reached all inhabited continents, establishing long-term
-  endemic foci in Sub-Saharan Africa, North and South America. The pandemic
-  struck successively at major cities such as Hong Kong (1894), Bombay (1896),
-  Karachi (1897), Porto (1899), Honolulu (1899), Alexandria (1899), Santos
-  (1899), Asuncion (1899), Sydney (1900), Cape Town (1900), Buenos Aires (1900),
-  Rio de Janeiro (1900), San Francisco (1900), Glasgow (1900), Harbin (1910),
-  Havana (1912), Paris (1920), Antananarivo (1924), Los Angeles (1924), and
-  Dakar (1944). This was the first time that plague was examined
-  bacteriologically, with the bacillus causing the disease being isolated in
-  Hong Kong in the summer of 1894. However the discovery of the bacillus did not
-  mean that the mode of transmission was immediately understood. It would take
-  another decade before the role of the rat and the flea was properly
-  acknowledged and only in 1911 was the airborne human-to-human transmission of
-  the pneumonic form of plague universally accepted. 
+  ಮೂರನೇ ಬಾರಿ ಹರಡಿದ ಪ್ಲೇಗ್ ರೋಗ ಪಿಡುಗು, 1855 ರಿಂದ 1959 ರವರೆಗೂ ಇಡೀ ವಿಶ್ವವನ್ನೇ
+  ಕಾಡಿತ್ತು.  ಬುಬೋನಿಕ್‌ ಪ್ಲೇಗ್, ಮೊದಲ ಬಾರಿಗೆ , ಎಲ್ಲಾ ಜನ ನಿಬಿಢ ಖಂಡಗಳನ್ನು ತಲುಪಿತ್ತು,
+  ಆಫ್ರಿಕಾದ ಸಹಾರ ಪ್ರದೇಶಗಳು, ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಅಮೇರಿಕಾ ಖಂಡದಲ್ಲಿ ಧೀರ್ಘಕಾಲಿಕ ಬೃಹತ್‌
+  ಮಹಾಮಾರಿಯ ರೂಪವನ್ನು ತಾಳಿತ್ತು.  ಹಾಂಗ್ಕಾಂಗ್‌(1894), ಬಾಂಬೆ(1896), ಕರಾಚಿ (1897),
+  ಪೋರ್ಟೋ (1899), ಹೊನೊಲುಲು (1899), ಅಲೆಕ್ಸಾಂಡ್ರಿಯಾ (1899), ಸಂಟೋಸ್ (1899),
+  ಆಸನ್ಶಾನ್‌ (1899), ಸಿಡ್ನಿ (1900), ಕೇಪ್‌ ಟೌನ್ (1900), ಬೋನಸ್‌ ಏರಿಸ್‌ (1900), ರಿಯೋ
+  ಡಿ ಜನೇರಿಯೋ (1900), ಸಾನ್‌ ಫ್ರಾಂಸಿಸ್ಕೋ (1900), ಗ್ಲಾಸ್ಗೋ (1900), ಹಾರ್ಬಿನ್‌,
+  (1910), ಹವಾನಾ (1912), ಪ್ಯಾರಿಸ್ (1920), ಆಂಟಾನನಾರಿಯೊ (1924), ಲಾಸ್‌ ಏಂಜಲ್ಸ್
+  (1924), ಡಕರ್‌(1944)  ಮುಂತಾದ ಪ್ರಮುಖ ನಗರಗಳಲ್ಲಿ ಪದೇ ಪದೇ ರೋಗವು ಹರಡಿತು. ಮೊದಲ ಬಾರಿಗೆ
+  ಬ್ಯಾಕ್ಟಿರಿಯಾ ಶಾಸ್ತ್ರದ ಅಡಿಯಲ್ಲಿ ಪ್ಲೇಗ್‌ ರೋಗದ  ಅಧ್ಯಯನ ನೆಡೆಸಲಾಯಿತು, 1894
+  ರ,  ಬೇಸಿಗೆಯ ಕಾಲದಲ್ಲಿ, ಹಾಂಗ್‌ ಕಾಂಗ್‌ ಅಲ್ಲಿ ಪ್ಲೇಗ್‌ ರೋಗಕ್ಕೆ ಕಾರಣವಾದ ಬ್ಯಾಸಿಲಸ್‌
+  ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಬೇರ್ಪಡಿಸಲಾಯಿತು. ರೋಗ ಸಾಂಕ್ರಾಮಿಕದ ಬಗೆಗೆ ಅರಿವು ಇನ್ನೂ
+  ಮೂಡಿರಲಿಲ್ಲ.  ಪ್ಲೇಗ್‌ ಹರಡುವಿಕೆಗೆ ಇಲಿ / ಹೆಗ್ಗಣಗಳು  ಮತ್ತು  ಅವುಗಳ ಮೇಲೆ ಇರುವ ಕ್ರಿಮಿ
+  ಕೀಟಗಳು ಕಾರಣ ಎಂಬುದನ್ನು ಮುಂದಿನ ಹತ್ತು ವರ್ಷಗಳಲ್ಲಿ ಪತ್ತೆ ಹಚ್ಚಲಾಯಿತು.  ಮಾನವರಿಂದ
+  ಮಾನವರಿಗೆ ಗಾಳಿಯ ಮೂಲಕ ಪ್ಲೇಗ್‌ ರೋಗ ಹರಡುತ್ತದೆ ಎಂದು 1911 ರಲ್ಲಿ ವಿಶ್ವವ್ಯಾಪಿಯಾಗಿ
+  ಬೆಳಕಿಗೆ ಬಂತು.  
+
+  ಸುಮಾರು 12 ದಶ ಲಕ್ಷ ಜನರು ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯಿಂದ ಸಾವನ್ನಪ್ಪಿದ್ದರು.  ಪ್ಲೇಗ್‌ ರೋಗದಿಂದ ಪೀಡಿತ ಪ್ರದೇಶಗಳನ್ನು ವಿಶೇಷ ನಿಯಂತ್ರಣ ವಲಯಗಳಾಗಿಸಿ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತಿತ್ತು .  ರೋಗ ಪೀಡಿತ ಜನ ಸಮೂಹವು ಇಂತಹ ಕ್ರಮಕ್ಕೆ ಬಹುತೇಕವಾಗಿ ವಿರೋಧ ವ್ಯಕ್ತ ಪಡಿಸುತ್ತಿದ್ದರು.  ಹಾಗೆಯೇ ವೈದ್ಯಕೀಯ ಸಮೂಹದಲ್ಲಿಯೂ ಬಿರುಕು, ಗುಂಪು-ಘರ್ಷಣೆಗಳು ಸೃಷ್ಟಿಯಾಗುತ್ತಿದ್ದವು.  ಎರಡನೇ ವಿಶ್ವ ಯುದ್ಧದ ನಂತರ, ಪ್ಲೇಗ್ ಜೀವರೋಧಕ ಔಷಧಿಯ ಅವಿಶ್ಕಾರ ಮತ್ತು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಕೀಟ-ನಾಶಗಳ ಬಳಕೆಯಿಂದಾಗಿ ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯನ್ನು ಗಮನಾರ್ಹವಾಗಿ ನಿಯಂತ್ರಿಸಲು ಸಾಧ್ಯವಾಯಿತು.   
 
 
-  The pandemic would lead to an estimated 12 million dead. Plague-affected locations witnessed the implementation of extraordinary measures for its containments. These were often met with resistance by affected populations, whilst also splitting the medical community in rival camps. It was only with the discovery of antibiotics and the use of effective anti-flea insecticides, after the Second World War, that the pandemic was brought under comprehensive control.
+  ಮೂರನೇ ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗನ್ನು ಮೊದಲ ಬಾರಿಗೆ ಚಿತ್ರೀಕರಿಸಲಾಯಿತು.  ಇಂತಹ ಚಿತ್ರೀಕರಣಗಳಿಂದಾಗಿ, ವಿಶ್ವದೆಲ್ಲೆಡೆ ಹರಡಿದ ರೋಗ ಪಿಡುಗಿನ  ದೃಶ್ಯಗಳು ಬೆಳಕಿಗೆ ಬಂದವು, ಜೊತೆಗೆ ಈ ರೋಗವು ಹರಡಲು ಕಾರಣಗಳೇನು, ಇಂತಹ ಸಂದರ್ಭದಲ್ಲಿ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸಲು ಯಾವ ಕ್ರಮ ಕೈಗೊಳ್ಳ ಬೇಕು ಎಂಬ ಮಾಹಿತಿಯನ್ನು ಸಾರ್ವಜನಿಕರಿಗೆ ಒದಗಿಸಲು ಸಹಾಯಕವಾವಾಯಿತು. ವ್ಯಾಪಾರ ವಹಿವಾಟುಗಳ ಮೇಲೆ ರೋಗ ಪಿಡುಗಿನ ನಿಯಂತ್ರಣದ ಪರಿಣಾಮಗಳು, ರಾಜ್ಯ ಹಾಗೂ ಪ್ರಾದೇಶಿಕ ಸಾರ್ವಭೌಮತ್ವ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸ್ವಾತಂತ್ರ್ಯ, ನಿಯಂತ್ರಣ ವಲಯಗಳ ಕಾರ್ಯ ಪ್ರಯೋಜನ, ಪ್ಲೇಗ್‌ ಹರಡುವಿಕೆಯಿಂದ ಸಾಮಾಜಿಕವಾಗಿ ಜನಾಂಗಗಳ ಮೇಲೆ ಉಂಟಾಗುವ ಪರಿಣಾಮ, ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಸುರಕ್ಷತೆಯ ಕ್ರಮವಾಗಿ ಪ್ರತ್ಯೇಕವಾಗಿರುವುದರ ಉಪಯೋಗ, ನಗರ ಯೋಜನೆಗಳು , ವಿಭಿನ್ನ ಜನ ಸಮೂಹಗಳ ಮೇಲೆ ರೋಗ ಕಾರಕದ ಪ್ರಭಾವ, ಪ್ಲೇಗ್‌ ಹರಡುವಿಕೆಯಲ್ಲಿ ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾದ ಪಾತ್ರ, ಇಲಿ ಹೆಗ್ಗಣಗಳು ಮತ್ತು ಇತರೆ ಪ್ರಾಣಿ ಪಕ್ಷಿಗಳು ರೋಗ ಸಂವಹನೆಗೆ ಹೇಗೆ ಕಾರಣವಾಗುತ್ತವೆ, ಇವೆಲ್ಲದರ ಮಾಹಿತಿಯನ್ನು ಕ್ರೂಡೀಕರಿಸಿ ದೃಶ್ಯ ಮಾಧ್ಯಮದ ಮೂಲಕ ಚಿಂತನೆ ಮತ್ತು ವಿಮರ್ಶೆ, ಹಾಗೂ ಜಾಗತಿಕ ರೋಗ ಪಿಡುಗಿನ ಹಲವು ಅಂಶಳನ್ನು ದಾಖಲಿಸಲು ಫೋಟೋಗ್ರಾಫಿಯನ್ನು ಸಮರ್ಪಕವಾಗಿ ಬಳಸಲಾಯಿತು.  
+
+  ಜಾಗತಿಕವಾಗಿ ಪ್ಲೇಗ್‌ ರೋಗದ ದೃಶ್ಯಗಳನ್ನು ಚಿತ್ರಿಸುವುದಲ್ಲದೇ, ರೋಗ ಪಿಡುಗಿನ ನಿಯಂತ್ರಣ ಮತ್ತು ನಿವಾರಣೆಗೆ ಪ್ಲೇಗ್‌ ರೋಗದ ಚಿತ್ರೀಕರಣ ಹೊಸ ಆಯಾಮವನ್ನೂ ಕಲ್ಪಿಸಿತು.   
+
+  ಈ ಚಿತ್ರಗಳು ವೈದ್ಯಕೀಯ ಪ್ರಕಾಶನಗಳಲ್ಲಿ ಬಳಕೆಯಾಗುವುದರ ಜೊತೆಗೆ, ಎಲ್ಲ ಬಗೆಯ ದೈನಂದಿಕ ಪತ್ರಿಕೆಗಳು, ಸಚಿತ್ರ ಪತ್ರ-ಪತ್ರಿಗಳಲ್ಲಿಯೂ ಪ್ರಕಾಶನಗೊಂಡವು, ರೋಗ ಪಿಡುಗಿನ ಹಾನಿಕಾರಕ ದೃಶ್ಯಗಳು ಮತ್ತು ವೈಜ್ಞಾನಿಕ ತಂತ್ರಜ್ಞಾನದ ಮೂಲಕ ರೋಗ ನಿವಾರಣೆಯ ಪರಿಹಾರದ ಸಾಕ್ಷಿಗಳನ್ನು ಸಹ ಈ ಚಿತ್ರಗಳು ಪ್ರತಿಬಿಂಬಿಸಿದವು.  ಪ್ಲೇಗ್‌ ಕುರಿತ ಛಾಯಾಚಿತ್ರಣ, ವಿಶ್ವದ ಹಲವು ಭಾಗಗಳಲ್ಲಿ ಪ್ಲೇಗ್‌ ರೋಗ ಸಾಂಕ್ರಾಮಿಕದ ಸ್ಫೋಟ, ರೋಗ ನಿವಾರಣೆ ಮತ್ತು ಪಿಡುಗಿನ ಹತೋಟಿಯ ಬಗೆಗೆ ವಿವಿಧ ಕಥನಗಳ ಸಮಗ್ರ ಮಾಹಿತಿ ನೀಡುವಂತಹ, ದೃಶ್ಯ ಮಾಧ್ಯಮವಾಯಿತು.  “ಬ್ಲ್ಯಾಕ್‌ ಡೆಥ್” ನ ಚಿತ್ರಣಗಳೊಂದಿಗೆ ರೋಗ ಪಿಡುಗಿನ ಬಗೆಗೆ ವೈದ್ಯಕೀಯ ಹಾಗೂ ಜನಸಾಮಾನ್ಯರ ಅನುಭವಗಳನ್ನು, ಛಾಯಾಚಿತ್ರ ಮುಖೇಣ ಮೊದಲ ಬಾರಿಗೆ ಒಂದೇ ಸೂತ್ರದಲ್ಲಿ ಬೆಸೆಯಲಾಗಿತ್ತು.
 
 
-  The third plague pandemic was the first epidemic to be photographed. This extensive photographic record did not simply depict individual outbreaks across the globe. It also played a role in the public negotiation of what caused these epidemics, and how they should be best handled. Issues like the impact of epidemic control on free trade, state and local sovereignty and civil liberties, as well as the efficacy of quarantine, imagined class and race aspects of plague transmission, and the use of segregation as a public health measure, urban planning and the pathogenic potential of native forms of habitation, the role of modern technology in the spread of plague, and the implication of rats and other animals in the spread of the disease were visually commented and negotiated through the unprecedented use of photography in documenting a global pandemic. Plague photography thus contributed not just to a vision of plague as a global scourge, but also to the emergence of a broader pandemic imaginary. 
+  ಮುಂಬೈ(ಬಾಂಬೆ) ಯಲ್ಲಿ, ಪ್ಲೇಗ್‌ ರೋಗವು ಸೆಪ್ಟೆಂಬರ್‌, 1896 ರಲ್ಲಿ ಹರಡಿತು.  ಹಾಂಗ್ ಕಾಂಗ್‌ ನಿಂದ ಬಂದ ಹಡಗುಗಳ ಮೂಲಕ ಈ ರೋಗವು ಪ್ರಸರಿಸಿರ ಬಹುದು. ತತ್ಕಾಲೀನ ಬ್ರಿಟಿಷ್‌ ಸಾಮ್ರಾಜ್ಯದ ಪ್ರಮುಖ ವಾಣಿಜ್ಯ ಕೇಂದ್ರವಾದ ಬಾಂಬೆಯಲ್ಲಿ ಪ್ಲೇಗ್ ರೋಗ ಪಿಡುಗು ಹರಡಿದುದರ ಕಾರಣ, ಲಂಡನ್‌ ಅಲ್ಲಿ ಭಯ ಉಂಟಾಯಿತು.  ಭೂ-ರಾಜಕೀಯ ದೃಷ್ಟಿಯಿಂದಲೂ ಬಾಂಬೆ, ಪ್ರಮುಖ ಪ್ರದೇಶವಾಗಿತ್ತು, ಹೀಗಾಗಿ, ಅಂದಿನ ಭಾರತ ಸರ್ಕಾರವು ಇಂತಹ ರೋಗ ಸ್ಫೋಟಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸುವಲ್ಲಿ ಬಹಳ ತಡ ಮಾಡಿದೆ ಎಂದು ಹಲವರ ಭಾವನೆಯಾಗಿತ್ತು. ಬಾಂಬೆ ಯಿಂದ ಬೇರೆ ನಗರಗಳಿಗೆ ಪ್ಲೇಗ್‌ ವ್ಯಾಪಿಸಲು ಪ್ರಾರಂಭವಾದಾಗ, ಬ್ರಿಟಿಷ್‌ ಭಾರತದಲ್ಲಿ ಅಧಿಕಾರದಲ್ಲಿದ್ದ ಹಲವಾರು ಕರ್ನಲ್‌ ಅಧಿಕಾರಿಗಳು ವಿಚಿತ್ರವಾಗಿ ತಮ್ಮದೇ ನಿಟ್ಟಿನಲ್ಲಿ ವರ್ತಿಸಿದರು.  ಫೆಬ್ರವರಿ 1897 ರಲ್ಲಿ ಭಾರತ ಸರ್ಕಾರವು ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಅಧಿನಿಯಮವನ್ನು ರೂಪಿಸಿತು.  ಇದರಿಂದಾಗಿ ಪ್ಲೇಗ್‌ ವಿರುದ್ಧ ಹೋರಾಡಲು, ತುರ್ತು ಪರಿಸ್ಥಿತಿ ನಿರ್ಮಾಣವಾಯಿತು.  ಮುಖ್ಯ ನಗರಗಳಲ್ಲಿ, ಸೈನಿಕರು ಮನೆ ಮನೆಯನ್ನೂ ಪರಿಶೋಧಿಸಿ ಪ್ಲೇಗ್‌ ಪೀಡಿತರನ್ನು ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲು ಪಡಿಸಿದರು, ಸೋಂಕು ನಿವಾರಣೆಗಾಗಿ ಮನೆಗಳ ಛಾವಣಿಗಳನ್ನು ಕಿತ್ತೊಗೆದು, ಮನೆಗಳನ್ನೇ ಸುಟ್ಟು ಬಿಡುತ್ತಿದ್ದರು, ಇಲ್ಲವೇ ಅತಿ ಆಮ್ಲೀಯ ದ್ರವಗಳನ್ನು ಸುರಿಯುತ್ತಿದ್ದರು. ಪ್ಲೇಗ್‌ ರೋಗವು ಸ್ಥಳೀಯ ರೋಗವೆಂಬ ತಪ್ಪು ತಿಳುವಳಿಕೆಯಿಂದ ಇಂತಹ ಅತಿರೇಕದ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲಾಗುತ್ತಿತ್ತು.
+
+  ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ರೋಗವು  ಸಾಂಕ್ರಾಮಿಕವಾದುದು, (ಮಾನವರಿಂದ ಮಾನವರಿಗೆ ನೇರವಾಗಿ ಹರಡುವುದು) ಎಂಬ ತಪ್ಪು ಕಲ್ಪನೆಯಿಂದ ಸ್ಥಳೀಯ ಅಧಿಕಾರಿಗಳು, ನಗರಗಳಲ್ಲಿ ಮತ್ತು ಹಳ್ಳಿಗಳಲ್ಲಿ ವಾಸವಾಗಿದ್ದ ಜನರನ್ನು ಅಲ್ಲಿಂದ ಗುಳೆ ಎಬ್ಬಿಸಿ ಊರುಗಳನ್ನೇ ಖಾಲಿ ಮಾಡಿಸಿ ಹಲವಾರು ಪ್ಲೇಗ್‌ ಬಿಡಾರಗಳಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿರಿಸಿಸುತ್ತಿದ್ದರು  ಹೀಗಾಗಿ ಅಸಮಾಧಾನವು ರೋಗ ಸಂತ್ರಸ್ತರಲ್ಲಿ ಮನೆ ಮಾಡಿತ್ತು, ಈ ಕ್ರಮಗಳ ಫಲಸ್ವರೂಪವಾಗಿ, ಸ್ಥಳೀಯ ಜನರು, ಬ್ರಿಟಿಷ್‌ ಸರ್ಕಾರವನ್ನು ಪ್ರಭಲವಾಗಿ ವಿರೋಧಿಸಿದ್ದರು. ಕೊನೆಗೂ ಸರ್ಕಾರವು ಮಧ್ಯಮ ಮಾರ್ಗವನ್ನು ಅನುಸರಿಸ ಬೇಕಾಯಿತು.  ಸ್ವಯಂ ಪ್ರೇರಿತ ಪ್ಲೇಗ್‌ ರೋಧಕ ಕಾರ್ಯಾಚರಣೆ ನೆಡೆಸಲು ಮುಂದಾಯಿತು.  ಭಾರತದಲ್ಲಿ ಇನ್ನೂ ಹಲವು ದಶಕಗಳ ಕಾಲ ಪ್ಲೇಗ್‌ ಪಿಡುಗು ಇತ್ತು,  1896 ರಿಂದ 1921 ವರೆಗೂ 10 ದಶ ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಜನರು ಪ್ಲೇಗ್‌ ರೋಗ ಮಹಾಮಾರಿಯಿಂದ ಸಾವನ್ನಪ್ಪಿದ್ದರು.  ಭಾರತದಲ್ಲೂ ಪ್ರಮುಖ ವೈಜ್ಞಾನಿಕ ಸಂಶೋಧನೆಗಳು ನೆಡೆದವು.  ಪ್ಲೇಗ್‌ ಹರಡುವಿಕೆಗೆ ಇಲಿ / ಹೆಗ್ಗಣಗಳು  ಮತ್ತು  ಅವುಗಳ ಮೇಲೆ ಇರುವ ಕೀಟಗಳು ಮುಖ್ಯವಾಗಿ ಕಾರಣ ಎಂಬುದನ್ನು 1898 ರಲ್ಲಿ ಪ್ಯಾಸ್ಟರೇನಿಯನ್‌ ವೈದ್ಯರಾದ ಪೌಲ್-‌ ಲೂಯಿ ಸೈಮಂಡ್‌ ಅವರು ನಿರೂಪಿಸಿದರು.  ಭಾರತ ಭೂ-ಖಂಡದಲ್ಲಿ ಇಪ್ಪತ್ತನೇ ಶತಮಾನದ ಮೊದಲ ಎರಡು ದಶಕಗಳಲ್ಲಿ ನೆಡೆದ ಹಲವು ವೈಜ್ಞಾನಿಕ ಸಂಶೋಧನೆಗಳು, ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ರೋಗದ ಮೂಲವನ್ನು ಅರಿಯಲು ಸಹಕಾರಿಯಾದವು.
 
 
-  These photographs were carried not simply in medical publications but across the lay daily and illustrated press, creating a spectacle of epidemic destruction and technoscientific salvation. Plague photography connected different outbreaks of the disease across the globe in a common aetiological and epidemic control narrative, mobilising visual tropes of the “Black Death” and fostering for the first time a medical and lay experience of the “pandemic”. 
+  ಸಂದರ್ಭ ಸಾಹಿತ್ಯ 
 
 
-  Plague arrived in Mumbai (Bombay) in September 1896, probably carried there by steamships from Hong Kong. The existence of plague in Bombay – one of the major commercial centres of the British Empire at the time – caused immediate panic in London, where it was felt that the Indian Government were being too slow to respond to an outbreak that had potentially major geopolitical significance. Colonial officials responded in a draconian and largely incoherent manner as plague began to spread from Bombay to other major cities across British India. In February 1897, the government of India promulgated the Epidemic Diseases Act, which effectively created a state of emergency around anti-plague measures. In major cities, far-reaching campaigns were unleashed that involved house-to-house searches by soldiers, forced hospitalisation, and the compulsory disinfection of houses. Disinfection involved a range of measures including deroofing and burning down houses or hosing them with highly acidic solutions, and was based upon the false idea that plague was a disease of ‘locality’. At the same time, colonial authorities implemented the evacuation of cities, towns and villages and the segregation of their inhabitants in a range of plague camps, also based on a false idea that bubonic plague was contagious (i.e. directly transmissible between humans). These invasive measures were, unsurprisingly, deeply unpopular among the affected population, and resulted in sustained resistance and a political crisis for the colonial government. Eventually, the colonial government decided to pursue a more moderate path, and placed an emphasis upon the voluntary nature of anti-plague work. Plague remained in India for several more decades, and between 1896 and 1921 killed an estimated 10 million people. It was, however, also in India that major scientific breakthroughs took place. Most importantly, in 1898 the Pasteurian doctor Paul-Louis Simond established that rats’ fleas were the plague's principal vector. Indeed, scientific work undertaken in the subcontinent in the first two decades of the twentieth century was instrumental in creating new understandings of bubonic plague.
+  ಡೇವಿಡ್‌ ಅರ್ನಾಲ್ಡ್‌,  ಕಾಲೊನೈಸಿಂಗ್‌ ದಿ ಬೋಡಿ: ಸ್ಟೇಟ್‌ ಮೆಡಿಸಿನ್‌ ಆಂಡ್‌ ಎಪಿಡೆಮಿಕ್‌ ಡಿಸೀಸ್‌ ಇನ್‌ ನೈಂಟೀಂಥ್‌ ಸೆಂಚುರಿ ಇಂಡಿಯ (ಕೇಂಬ್ರಿಡ್ಜ್‌ : ಕೇಂಬ್ರಿಡ್ಜ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ ಮುದ್ರಣಾಲಯ, 1993).  
 
 
-  References
-
-  David Arnold, Colonizing the Body: State Medicine and Epidemic Disease in Nineteenth Century India (Cambridge: Cambridge University Press, 1993).
+  ಇಯಾನ್‌ ಕಟನಾಕ್‌,"ಪ್ಲೇಗ್‌ ಆಂಡ್‌ ದಿ ಟೆಂಶನ್ಸ್‌ ಆಫ್‌ ಎಂಪೈರ್:‌ ಇಂಡಿಯಾ, 1896–1918,” ಇನ್‌ ಡೇವಿಡ್‌ ಆರ್ನಾಲ್ಟ್‌ (ಇ.ಡಿ) ಇಂಪೀರಿಯಲ್‌ ಮೆಡಿಸಿನ್‌ ಆಂಡ್‌ ಇಂಡಿಜಿನಸ್‌ ಸೊಸೈಟೀಸ್,‌ ಪಿ ಪಿ. 149–71, (ಮ್ಯಾಂಚಿಸ್ಟರ್:‌ ಮ್ಯಾಂಚಿಸ್ಟರ್ ಯೂನಿವರ್ಸಿಟಿ ಪ್ರೆಸ್‌,  1988). 
 
 
-  Ian Catanach, “Plague and the Tensions of Empire: India, 1896–1918,” In David Arnold (ed.), Imperial Medicine and Indigenous Societies, pp. 149–71 (Manchester: Manchester University Press, 1988).
+  ಪ್ರತಿಕ್‌ ಚಕ್ರಬೊರ್ತಿ, ಬ್ಯಾಕ್ಟೀರಿಯೋಲಾಜಿ ಇನ್‌ ಬ್ರಿಟಿಷ್‌ ಇಂಡಿಯಾ: ಲ್ಯಾಬೋರೇಟರಿ ಮೆಡಿಸಿನ್‌ ಆಂಡ್‌ ದಿ ಟ್ರೋಪಿಕ್ಸ್‌ (ಯೂನಿವರ್ಸಿಟಿ ಆಫ್‌ ರೋಚೆಸ್ಟರ್‌ ಪ್ರೆಸ್‌, 2012).
 
 
-  Pratik Chakrabarti, Bacteriology in British India: Laboratory Medicine and the Tropics (University of Rochester Press, 2012).
+  ಆರ್‌ ಚಂದಾವರ್‌ಕರ್, “ಪ್ಲೇಗ್‌ ಪ್ಯಾನಿಕ್‌ ಆಂಡ್‌ ಎಪಿಡೆಮಿಕ್‌ ಪಾಲಿಟಿಕ್ಸ್‌ ಇನ್‌ ಇಂಡಿಯಾ,  1896–1914,”,  ಇನ್‌ ಪಿ ಸ್ಲಾಕ್‌ (ಇ.ಡಿ), ಎಪಿಡೆಮಿಕ್ಸ್‌ ಆಂಡ್‌ ಐಡಿಯಾಸ್:‌ ಎಸ್ಸೇಸ್‌ ಆನ್‌ ದಿ ಹಿಸಟಾರಿಕಲ್‌ ಪರ್ಸೆಪ್‌ಶನ್ ಆಫ್‌ ಪೆಸ್ಟಿಲೆಂಸ್‌,ಪಿ.ಪಿ 203–40 (ಕೇಂಬ್ರಿಡ್ಜ್‌ : ಕೇಂಬ್ರಿಡ್ಜ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ ಮುದ್ರಣಾಲಯ, 1992)
 
 
-  R. Chandavarkar, “Plague Panic and Epidemic Politics in India, 1896–1914,” in P. Slack (ed.), Epidemics and Ideas: Essays on the Historical Perception of Pestilence, pp. 203–40 (Cambridge: Cambridge University Press, 1992).  
+  ನಿಖೋಲಸ್‌ ಇವಾನ್ಸ್‌, "ಬ್ಲೇಮಿಂಗ್‌ ದಿ ರಾಟ್‌ (ರ್ಯಾಟ್) ? ಅಕೌಂಟಿಂಗ್‌ ಫಾರ್‌ ಪ್ಲೇಗ್‌ ಇನ್‌ ಕಾಲೋನಿಯಲ್‌ ಇಂಡಿಯನ್‌ ಮೆಡಿಸಿನ್‌,” ಮೆಡಿಸಿನ್ ಆಂತ್ರೋಪೋಲೋಜಿ, ಥಿಯರಿ 5:3 (2018): 15-42.
 
 
-  Nicholas Evans, “Blaming the Rat? Accounting for Plague in Colonial Indian Medicine,” Medicine, Anthropology, Theory 5:3 (2018): 15-42.
+  ಐಡೆನ್‌ ಫೋರ್ಥ್‌, ಬಾರ್ಬಡ್‌ -ವೈರ್‌ ಇಂಪೀರಿಯಲಿಸಮ್:‌ ಬ್ರಿಟೇನ್ಸ್‌ ಎಂಪೈರ್‌ ಆಫ್ ಕ್ಯಾಂಪ್ಸ್‌, 1876-1903   (ಬರ್ಕಲಿ: ಯೂನಿವರ್ಸಿಟಿ ಆಫ್‌ ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ‌ ಪ್ರೆಸ್, 2018).   
 
 
-  Aiden Forth, Barbed-Wire Imperialism: Britain’s Empire of Camps, 1876-1903 (Berkeley: The University of California Press, 2018).
+  ಪ್ರಶಾಂತ್‌ ಕಿಡಂಬಿ, "ಆನ್‌ ಇಂಫೆಕ್ಷನ್‌ ಆಫ್‌ ಲೊಕ್ಯಾಲಿಟಿ”: ಪ್ಲೇಗ್‌, ಪೈಥೋಜೆನಿಸಿಸ್‌ ಆಂಡ್‌ ದಿ ಪೂರ್‌ ಇನ್‌ ಬಾಂಬೆ, ಸಿ. 1896–1905,”  ಅರ್ಬಾನ್‌ ಹಿಸ್ಟರಿ 31 (2004): 249­267.   
 
 
-  Prashant Kidambi, “An Infection of Locality’: Plague, Pythogenesis and the Poor in Bombay, c. 1896–1905,” Urban History 31 (2004): 249­267.
+  ಇರಾ ಕ್ಲೇನ್‌, “ ಪ್ಲೇಗ್‌, ಪಾಲಿಸಿ ಆಂಡ್‌ ಪಾಪುಲರ್‌ ಅನ್‌ ರೆಸ್ಟ್‌ ಇನ್‌ ಬ್ರಿಟಿಷ್‌ ಇಂಡಿಯಾ,” ಮಾಡರ್ನ್‌ ಏಷಿಯನ್‌ ಸ್ಟಡೀಸ್‌ 22: 4 (1988): 723–55.
 
 
-  Ira Klein, “Plague, Policy and Popular Unrest in British India,” Modern Asian Studies 22: 4 (1988): 723–55.
+  ಅಭಿನಂದನೆಗಳು
 
 
+  ಸಾಮಾಜಿಕ ಮಾನವಶಾಸ್ತ್ರಜ್ಞ, ಡಾ. ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌ (ಸೇಂಟ್‌ ಆಂಡ್ರೂಸ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ) ಇವರು ಮುನ್ನೆಡೆಸಿರುವ “ಮೂರನೇ ಬಾರಿಯ ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗಿನ ದೃಶ್ಯ ಪ್ರತಿಬಿಂಬ” ಎಂಬ ಕಾರ್ಯಯೋಜನೆಯ ಪ್ರದರ್ಶಿಕೆ. ಈ ಪರಿಯೋಜನೆಗೆ, ಯೂರೋಪಿಯನ್‌ ಒಕ್ಕೂಟದ ಏಳನೇ ಫ್ರೇಂವರ್ಕ ಕಾರ್ಯ ಯೋಜನೆ / ಈ.ಆರ್.ಸಿ ಅನುದಾನ ಒಪ್ಪಂದ ಸಂಖ್ಯೆ 336564 ಅಡಿಯಲ್ಲಿ ಯೂರೋಪಿಯನ್‌ ಸಂಶೋಧನಾ ಪರಿಷತ್‌ ಮೂಲಕ ಅನುದಾನ ದೊರಕಿದೆ, ಅಧ್ಯಯನ ಸಹಿತ “ಮೂರನೇ ಬಾರಿಯ ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗಿನ ದೃಶ್ಯ ಪ್ರತಿಬಿಂಬ” ವು ರೋಗ ಸಾಂಕ್ರಾಮಿಕದ ಛಾಯಾಚಿತ್ರಣಕ್ಕೆ ನಿದರ್ಶನವಾಗಿದೆ.  ಈ ಪರಿಯೋಜನೆಯ ಅಡಿಯಲ್ಲಿ ಪ್ಲೇಗ್‌ ರೋಗಕ್ಕೆ ಕುರಿತ ಅನೇಕ ಛಾಯಾಚಿತ್ರಗಳು ಕೇಂಬ್ರಿಡ್ಜ್‌ ರಿಪೋಸಿಟೋರಿ ಅಪೋಲೋ ಮೂಲಕ ಸಾರವಜನಿಕರಿಗೆ ಲಭ್ಯವಾಗಿವೆ. 
 
-  Acknowledgment: 
-
-
-  This exhibit is an output of the Visual Representations of the Third Plague Pandemic research project led by social anthropologist, Dr Christos Lynteris (University of St. Andrews). The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/ERC grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository Apollo: [https://www.repository.cam.ac.uk/handle/1810/280684](https://www.repository.cam.ac.uk/handle/1810/280684)
+  : https://www.repository.cam.ac.uk/handle/1810/280684
 
 
-  Photographs 1, 5, 6,7, and 8 are available via Wellcome Collection, Attribution 4.0 International (CC BY 4.0). Photographs 4, 9, and 10 are reproduced here courtesy of the Centre for South Asia Studies of the University of Cambridge. Photographs 2 and 3 are available via The British Library, Public Domain Mark 1.0.
+  1, 5, 6,7, ಮತ್ತು 8 ಛಾಯಾಚಿತ್ರಗಳನ್ನು ವೆಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ ಮುಖೇಣ , ಗುಣವಿಶೇಷಣ 4.0 ಅಂತರಾಷ್ಟ್ರೀಯ (ಸಿಸಿ 4.0).  4, 9, ಮತ್ತು 10 ಛಾಯಾಚಿತ್ರಗಳನ್ನು ಕೇಂಬ್ರಿಡ್ಜ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದ ದಕ್ಷಿಣ ಏಷಿಯಾ ಅಧ್ಯಯನ ಸಂಕಲನ ಕೇಂದ್ರದ ಮೂಲಕ 2 ಮತ್ತು 3 ಛಾಯಾಚಿತ್ರಗಳನ್ನು ದಿ ಬ್ರಿಟಿಷ್ ಲೈಬ್ರರಿ ಯ ಸಾರ್ವಜನಿಕ ತಾಣ ಸೂಚಿ 1.0  ಮುಖೇಣ ಲಭ್ಯವಾಗಿವೆ.   
 exhibitimages:
   - privis: /static/img/A_EXHIBIT_PRI_VIS_1.jpg
-    pritxt: “Barber at work in one of the camps”, 1897, Karachi Plague Committee
-      Album, Photograph probably by R. Jalbhoy, Wellcome Collection.
+    pritxt: "ಬಿಡಾರವೊಂದರಲ್ಲಿ ಕಾರ್ಯ ನಿರತ ಕ್ಷೌರಿಕ, 1897, ಕರಾಚಿ ಪ್ಲೇಗ್‌ ಕಮಿಟಿ ಆಲ್ಬಮ್‌,
+      ಛಾಯಾಚಿತ್ರಣ :ಬಹುಶಃ ಆರ್.ಜಲ್ಬಾಯ್‌ , ವೆಲ್ಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ "
   - privis: /static/img/A_EXHIBIT_PRI_VIS_2-0.jpg
-    pritxt: "“Burning a badly infected quarter”, 1896-1898, Lieut-Colonel John Lloyd
-      Thomas Jones (Indian Medical Service) Collection: Album of miscellaneous
-      views including the Plague Hospital at Poona, 578/4 (61), The British
-      Library."
+    pritxt: "ಬಹಳವಾಗಿ ಸೋಂಕಿತವಾದ ನಿವಾಸವನ್ನು ಸುಡುತ್ತಿರುವುದು, 1896-1898, ಲೆಫ್ಟನೆಂಟ್‌
+      ಕರ್ನಲ್‌ ಜ್ಹಾನ್‌ ಲಾಯಿಡ್‌ ಥಾಮಸ್‌ ಜೋನ್ಸ್‌ (ಭಾರತೀಯ ವೈದ್ಯಕೀಯ ಸೇವೆ) ಸಂಗ್ರಹಣೆ:
+      ಪೂನಾದಲ್ಲಿರುವ ಪ್ಲೇಗ್‌ ಆಸ್ಪತ್ರೆಯನ್ನು ಒಳಗೊಂಡಂತೆ ವಿವಿಧ ಛಾಯಾಚಿತ್ರಗಳುಳ್ಳ
+      ಆಲ್ಬಮ್‌, 578/4 (61), ದಿ ಬ್ರಿಟಿ಼ಷ್‌ ಲೈಬ್ರರಿ. "
   - privis: /static/img/A_EXHIBIT_PRI_VIS_3-0.jpg
-    pritxt: "“Camp for householders from whose houses plague cases have been
-      removed”, 1896-1898, Lieut-Colonel John Lloyd Thomas Jones (Indian Medical
-      Service) Collection: Album of miscellaneous views including the Plague
-      Hospital at Poona, 578/4 (32), The British Library."
+    pritxt: " ಪ್ಲೇಗ್‌ ರೋಗಿಗಳು ಕಂಡುಬಂದಂತಹ ಮನೆಗಳಲ್ಲಿನ ಇತರೆ ಸದಸ್ಯರನ್ನು ಇರಿಸಲಾಗುತ್ತಿದ್ದ
+      ಬಿಡಾರ, 1896-1898, ಲೆಫ್ಟನೆಂಟ್‌ ಕರ್ನಲ್‌ ಜ್ಹಾನ್‌ ಲಾಯಿಡ್‌ ಥಾಮಸ್‌ ಜೋನ್ಸ್‌
+      (ಭಾರತೀಯ ವೈದ್ಯಕೀಯ ಸೇವೆ) ಸಂಗ್ರಹಣ: ಪೂನಾದಲ್ಲಿರುವ ಪ್ಲೇಗ್‌ ಆಸ್ಪತ್ರೆಯನ್ನು
+      ಒಳಗೊಂಡಂತೆ ವಿವಿಧ ಛಾಯಾಚಿತ್ರಗಳುಳ್ಳ ಆಲ್ಬಮ್‌, 578/4 (32), ದಿ ಬ್ರಿಟಿ಼ಷ್‌
+      ಲೈಬ್ರರಿ."
   - privis: /static/img/A_EXHIBIT_PRI_VIS_4.jpg
-    pritxt: “Disinfecting of Allahabad (Plague). T.W.A.F”, 1901/1902, Fullerton
-      Collection, Centre for South Asia Studies Archive, University of
-      Cambridge.
+    pritxt: ಅಲಹಾಬಾದ್‌ ಸೋಂಕು ನಿವಾರಣೆ  (ಪ್ಲೇಗ್‌). ಟಿ.ಡಬಲ್ಯು.ಏ.ಎಫ್, 1901/1902,
+      ಫುಲರ್ಟನ್‌ ಸಂಗ್ರಹಣೆ, ದಕ್ಷಿಣ ಏಷಿಯಾ ಅಧ್ಯಯನಗಳ ಸಂಕಲನ ಕೇಂದ್ರ, ಕೇಂಬ್ರಿಡ್ಜ್‌
+      ವಿಶ್ವವಿದ್ಯಾಲಯ.
   - privis: /static/img/A_EXHIBIT_PRI_VIS_5.jpg
-    pritxt: “Disinfecting Trans-Lyari plague sufferers in wooden tubs”, 1897,
-      Karachi Plague Committee Album, Photograph probably by R. Jalbhoy,
-      Wellcome Collection.
+    pritxt: ಮರದ ಬಾನಿಗಳಲ್ಲಿ ಟ್ರಾಂಸ್‌-ಲ್ಯಾರಿ ಪ್ಲೇಗ್‌ ರೋಗಿಗಳ ಸೋಂಕಿಗೆ ಚಿಕಿತ್ಸೆ,1897,
+      ಕರಾಚಿ ಪ್ಲೇಗ್‌ ಕಮಿಟಿ ಆಲ್ಬಮ್, ಛಾಯಾಚಿತ್ರ :ಬಹುಶಃ ಆರ್.ಜಲ್ಬಾಯ್‌ , ವೆಲ್ಲ್‌ ಕಮ್‌
+      ಸಂಗ್ರಹಣೆ.
   - privis: /static/img/A_EXHIBIT_PRI_VIS_6.jpg
-    pritxt: "“Flushing engine cleaning infected houses”, Moss, C., Captain, fl. ca.
-      1897. The Bombay plague epidemic of 1896-1897: work of the Bombay Plague
-      Committee. Photographs attributed to Capt. C. Moss, 1897, Wellcome
-      Collection."
+    pritxt: "ಫ್ಲಶಿಂಗ್‌ ಇಂಜಿನ್‌ ಮೂಲಕ ಸೋಂಕಿತ ಮನೆಗಳನ್ನು ಶುಚಿಗೊಳಿಸುವ ದೃಶ್ಯ, ಮೋಸ್, ಸಿ
+      ಕ್ಯಾಪ್ಟನ್.,  ಎಫೆಎಲ್. ಸಿ ಎ. 1897. ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಸಾಂಕ್ರಾಮಿಕ ಪಿಡುಗು
+      1896-1897: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಸಮಿತಿಯ ಕೃತಿ. ಛಾಯಾಚಿತ್ರಗಳನ್ನು ಕ್ಯಾಪ್ಟನ್ ಸಿ ಮೋಸ್ ಗೆ
+      ಅರ್ಪಿಸಲಾಗಿದೆ, 1897, ವೆಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ."
   - privis: /static/img/A_EXHIBIT_PRI_VIS_7.jpg
-    pritxt: "“Lime-washers at work on a badly infected house”, Moss, C., Captain,
-      fl. ca. 1897. The Bombay plague epidemic of 1896-1897: work of the Bombay
-      Plague Committee. Photographs attributed to Capt. C. Moss, 1897, Wellcome
-      Collection."
+    pritxt: "ಬಹಳವಾಗಿ ಸೋಂಕಿತವಾದ ನಿವಾಸಕ್ಕೆ ಸುಣ್ಣ ಬಳೆಯುತ್ತಿರುವ ಕೆಲಸಗಾರರು, ಮೋಸ್, ಸಿ
+      ಕ್ಯಾಪ್ಟನ್,  ಎಫ್‌ ಎಲ್. ಸಿ.ಎ. 1897. ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಸಾಂಕ್ರಾಮಿಕ ಪಿಡುಗು
+      1896-1897: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಸಮಿತಿಯ ಕೃತಿ. ಛಾಯಾಚಿತ್ರಗಳನ್ನು ಕ್ಯಾಪ್ಟನ್ ಸಿ ಮೋಸ್ ಗೆ
+      ಅರ್ಪಿಸಲಾಗಿದೆ, 1897, ವೆಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ."
   - privis: /static/img/A_EXHIBIT_PRI_VIS_8.jpg
-    pritxt: “Mekrani Segregation Camp”, 1897, Karachi Plague Committee Album,
-      Photograph probably by R. Jalbhoy, Wellcome Collection.
+    pritxt: "ಮೇಕ್ರಾನಿಯಲ್ಲಿನ ಪ್ರತ್ಯೇಕತೆ ಬಿಡಾರ, 1897, ಕರಾಚಿ ಪ್ಲೇಗ್‌ ಕಮಿಟಿ ಆಲ್ಬಮ್‌,
+      ಛಾಯಾಚಿತ್ರ :ಬಹುಶಃ ಆರ್.ಜಲ್ಬಾಯ್‌ , ವೆಲ್‌ಕಮ್‌ ಸಂಗ್ರಹಣೆ "
   - privis: /static/img/A_EXHIBIT_PRI_VIS_9.jpg
-    pritxt: “Persuading an objector to have his house disinfected. (Allahabad,
-      1901-02) T.W.A.F. partially hidden by Indian in the centre”, 1901/1902,
-      Fullerton Collection, Centre for South Asia Studies Archive, University of
-      Cambridge.
+    pritxt: "ಮನೆಗೆ ಸೋಂಕು ನಿವಾರಕವನ್ನು ಸಿಂಪಡಿಸಲು ಆಕ್ಷೇಪಣೆ ವ್ಯಕ್ತ ಪಡಿಸಿದ ವ್ಯಕ್ತಿಯನ್ನು
+      ಒಪ್ಪಿಸುತ್ತಿರುವ ದೃಶ್ಯ. (ಅಲಹಾಬಾದ್, 1901-02) ಟಿ.ಡಬಲ್ಯು.ಏ.ಎಫ್. ಮಧ್ಯದಲ್ಲಿರುವ
+      ಭಾರತೀಯ ವ್ಯಕ್ತಿಯೊಬ್ಬರು ಭಾಗಶಃ ಮರೆ ಒಡ್ಡಿದ್ದಾರೆ”, 1901/1902, ಫುಲರ್ಟನ್‌
+      ಸಂಗ್ರಹಣೆ, ದಕ್ಷಿಣ ಏಷಿಯಾ ಅಧ್ಯಯನದ ಸಂಕಲನ ಕೇಂದ್ರ, ಕೇಂಬ್ರಿಡ್ಜ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ. "
   - privis: /static/img/A_EXHIBIT_PRI_VIS_10.jpg
-    pritxt: “Plague Camp”, 1901/1902, Fullerton Collection, Centre for South Asia
-      Studies Archive, University of Cambridge.
+    pritxt: ಪ್ಲೇಗ್‌ ಬಿಡಾರ,1901/1902, ಫುಲರ್ಟನ್‌ ಸಂಗ್ರಹಣೆ, ದಕ್ಷಿಣ ಏಷಿಯಾ ಅಧ್ಯಯನಗಳ ಸಂಕಲನ
+      ಕೇಂದ್ರ, ಕೇಂಬ್ರಿಡ್ಜ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ.
 authorimage: /static/img/A_EXHIBIT_SEC_VIS_1.jpg
-authorname: Christos Lynteris
+authorname: ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌
 authorbio: >-
-  Christos Lynteris is a medical anthropologist at the University of St Andrews.
-  His research concerns the anthropological and historical examination of
-  epidemics, zoonosis, epidemiological epistemology, medical visual culture,
-  colonial medicine, and pandemics as events posing an existential risk to
-  humanity.
+  ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌, ವೈದ್ಯಕೀಯ ಮಾನವಶಾಸ್ತ್ರಜ್ಞರು.  ಮಾನವ ಕುಲಕ್ಕೆ ಸದಾ ಸಂಭವನೀಯ
+  ಆಪತ್ತುಗಳಾಗಿ, ಕಾಡುವ, ಸಾಂಕ್ರಾಮಿಕಗಳು, ಪಶುಪಕ್ಷಿಗಳಿಂದ ಹರಡುವ ರೋಗಗಳು, ಸಾಂಕ್ರಾಮಿಕ ರೋಗ
+  ಮೂಲದ  ಅಧ್ಯಯನ, ವೈದ್ಯಕೀಯ ದೃಶ್ಯ ಸಂಸ್ಕರಣೆ, ಸಮೂಹ ಚಿಕಿತ್ಸೆ, ಮತ್ತು ರೋಗ ಪಿಡುಗುಗಳ ಬಗೆಗೆ
+  ಮಾನವ ಶಾಸ್ತ್ರ ಹಾಗೂ ಐತಿಹಾಸಿಕ ಪರಿಶೀಲನೆಯನ್ನು ಒಳಗೊಂಡ ಸಂಶೋಧನೆ ನೆಡೆಸಿದ್ದಾರೆ.  
 
 
-  Funded by the Wellcome Trust with an Investigator Award in the Humanities and Social Sciences, Christos’s new project, The Global War Against the Rat and the Epistemic Emergence of Zoonosis (2019-2024), will examine the global history of a foundational but historically neglected process in the development of scientific approaches to zoonosis: the global war against the rat (1898-1948). 
+  ವೆಲ್‌ಕಮ್‌ ಟ್ರಸ್ಟ್‌ ನ ಅನುದಾನ ಪಡೆದಿರುವ. ಮಾನವ ಶಾಸ್ತ್ರ ಮತ್ತು ಸಾಮಾಜಿಕ ವಿಜ್ಞಾನ ವಿಷಯಗಳಲ್ಲಿ ಅನ್ವೇಷಕ ಪುರಸ್ಕಾರ ಪಡೆದಿರುವ ಕ್ರಿಸ್ಟೋ ಅವರ, ‌ʼಮೂಷಿಕದ ವಿರುದ್ಧ ಜಾಗತಿಕ ಹೋರಾಟ ಮತ್ತು ಜೂನೋಸಿಸ್ ರೋಗದ ಅವಿರ್ಭಾವದ ಅರಿವು”, ʼದಿ ಗ್ಲೋಬಲ್‌ ವಾರ್‌ ಅಗೇನ್ಸಟ್‌ ದಿ ರ್ಯಾಟ್‌ ಆಂಡ್‌ ದಿ ಎಪಿಸ್ಟೆಮಿಕ್‌ ಎಮರ್ಜೆನ್ಸ್‌ ಆಫ್‌ ಜೂನೋಸಿಸ್” (2019-2024), ಎಂಬ ಹೊಸ ಅಧ್ಯಯನವಾಗಿದೆ. ಈ ಮೂಲಕ, ಐತಿಹಾಸಿಕವಾಗಿ ಕಡೆಗಣಿಸಲಾಗಿದ್ದರೂ ಮೂಲ ವಿಷಯವಾಗಿರುವ, ಪಶುಪಕ್ಷಿಗಳಿಂದ ಹರಡುವ ರೋಗಗಳ ಜಾಗತಿಕ ಇತಿಹಾಸದ ಬಗೆಗೆ ವೈಜ್ಞಾನಿಕ  ಸಂಶೋಧನೆ ನೆಡೆಸಿದ್ದಾರೆ.  ʼದಿ ಗ್ಲೋಬಲ್‌ ವಾರ್‌ ಅಗೇನ್ಸಟ್‌ ದಿ ರ್ಯಾಟ್‌ (1898-1948).
 readinglist:
   - quadreadlink: https://www.theatlantic.com/international/archive/2021/02/where-are-iconic-images-covid-19-pandemic/618036/?utm_source=pocket-newtab-global-en-GB
-    quadreadtxt: Where are the iconic images of the COVID-19 pandemic?
+    quadreadtxt: ಕೋವಿಡ್-19‌  ರೋಗ ಪಿಡುಗಿನ ಅಪ್ರತಿಮ ವ್ಯಕ್ತಿಗಳು ಎಲ್ಲಿದ್ದಾರೆ?
     quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_1.jpg
-  - quadreadtxt: Plague panic and epidemic politics in India, 1896–1914
+  - quadreadtxt: ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ಭೀತಿ ಮತ್ತು ರೋಗ ರಾಜಕೀಯ, 1896–1914
     quadreadlink: https://www.cambridge.org/core/books/epidemics-and-ideas/plague-panic-and-epidemic-politics-in-india-18961914/0C7AD36256D3711FF139E179A43E5E92
     quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_2.jpg
-  - quadreadtxt: Photography and the Unseen
+  - quadreadtxt: ಅಗೋಚರ ಮತ್ತು ಛಾಯಾಗ್ರಹಣ
     quadreadlink: https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/var.12174
     quadreadvis: /static/img/A_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://soundcloud.com/user-37146541-886167096/christos-lynteris-march-2018
-    quadlisttxt: Visual Representations of the Third Plague Pandemic
+    quadlisttxt: ಮೂರನೇ ಬಾರಿಯ ಪ್ಲೇಗ್‌ ರೋಗ ಪಿಡುಗಿನ ದೃಶ್ಯ ಪ್ರತಿಬಿಂಬಗಳು
     quadlistvis: /static/img/A_EXHIBIT_QUA_LISTVIS_1.jpg
-  - quadlisttxt: Plague Years
+  - quadlisttxt: ಪ್ಲೇಗ್‌  ವರ್ಷಗಳು
     quadlistlink: https://anchor.fm/terry-shoemaker/episodes/Episode-4---How-Tribal-Communities-Have-Dealt-with-the-Pandemic-elqe84?fbclid=IwAR2Ht5Mteg-VRjnygYDrIQiLHMXqbWn5EXvmBNQaU-hELxrZrys7_QIwI_4
     quadlistvis: /static/img/A_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.museumoflondon.org.uk/museum-london/whats-on/exhibitions/disease-x
-    quadwatchtxt: "Disease X: London’s Next Epidemic?"
+    quadwatchtxt: "ರೋಗ ಎಕ್ಸ್‌: ಲಂಡನ್‌ ನ ಮುಂದಿನ ರೋಗ ಪಿಡುಗು?"
     quadwatchvis: /static/img/A_EXHIBIT_QUA_WATCHVIS_1.jpg
-  - quadwatchtxt: Politics and Aesthetics of a Post-Pandemic Condition
+  - quadwatchtxt: "ರೋಗ ಪಿಡುಗಿನ ನಂತರದ ಸ್ಥಿತಿ-ಗತಿಗಳು ಮತ್ತು ರಾಜಕೀಯ "
     quadwatchlink: https://www.youtube.com/watch?v=aPowJrioMAc&ab_channel=CEFCHongKong
     quadwatchvis: /static/img/A_EXHIBIT_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
-      Christos Lynteris "
+  - quadeventtxt: ಪ್ಲೇಗ್‌ ಮತ್ತು ರೋಗ ಪಿಡುಗಿನ ಛಾಯಾಗ್ರಹಣದ ಉದ್ಭವ | ಉಪನ್ಯಾಸ | ಕ್ರಿಸ್ಟೋಸ್‌
+      ಲಿಂಟೆರಿಸ್‌
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/145228050007
-  - quadeventtxt: Age of Pandemics | Lecture by Chinmay Tumbe
+  - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಯುಗ | ಉಪನ್ಯಾಸ | ಚಿನ್ಮಯ್‌ ತುಂಬೆ
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/148314096455
 relatedlist:
-  - quadrelatedtxt: "Drawing the Bombay Plague - Ranjit Kandalgaonkar "
+  - quadrelatedtxt: ಬಾಂಬೆ ಪ್ಲೇಗ್‌  ಚಿತ್ರಾಕೃತಿ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
-  - quadrelatedtxt: "Contagion in the 21st Century | Esther Maria Antao "
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
 ---
