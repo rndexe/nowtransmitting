@@ -56,11 +56,11 @@ watchinglist:
     quadwatchvis: /static/img/b_pl_qua_watchvis_2.jpg
 eventlist:
   - quadeventlink: "http://bit.ly/masterclass-adams  "
-    quadeventtxt: Creating Interactive Art About Pandemics
+    quadeventtxt: "ರೋಗ ಪಿಡುಗುಗಳ ಬಗೆಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲೆಯ ಸೃಷ್ಟಿ | ಕಾರ್ಯಾಗಾರ | ಮ್ಯಾಟ್ಟ್‌ ಆಡಮ್ಸ್ "
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
   - quadeventlink: http://bit.ly/lecture-marathe
-    quadeventtxt: "Real-Time Contagion Science in the 21st Century: The Role of Data
-      and Computing | Lecture by Madhav Marathe"
+    quadeventtxt: "21 ನೇ ಶತಮಾನದಲ್ಲಿ ಪ್ರಸಕ್ತ ವ್ಯಾಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಜ್ಞಾನ:
+      ಅಂಕಿ-ಸಂಖ್ಯೆ ವಿವರಣೆಗಳು ಮತ್ತು ಗಣಕ ಶಾಸ್ತ್ರ | ಉಪನ್ಯಾಸ | ಮಾಧವ್ ಮರಾಠೆ "
     quadeventvis: /static/img/pl_madhav.png
 relatedlist:
   - quadrelatedtxt: "ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಜ್ಹಾನ್‌ ಡಬಲ್ಯೂ ಬುಶ್,
