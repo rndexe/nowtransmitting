@@ -148,9 +148,9 @@ recbooklist:
     link: https://www.thelancet.com/pdfs/journals/lanres/PIIS2213-2600(16)00107-7.pdf
     coverimage: /static/img/RR_Pandemics.jpg
   - title: ಪ್ಲೇಗ್‌ ಕೀ ಚುಡೈಲ್
-    author: Master Bhagwan Das
-    about: "*Plague Ki Chudail* explores grief, fear and mortality in a town struck
-      by the plague."
+    author: ಮಾಸ್ಟರ್‌ ಭಗವಾನ್‌ ದಾಸ್
+    about: ‌ಸಿಡುಬು ರೋಗ ಪಿಡುಗು ಹರಡಿರುವ ನಗರದಲ್ಲಿ, ದುಃಖ, ಭಯ ಮತ್ತು ನಶ್ವರತೆಯ ಭಾವನೆಗಳನ್ನು
+      “ಪ್ಲೇಗ್‌ ಕೀ ಚುಡೈಲ್” ಕೃತಿಯಲ್ಲಿ ವಿಮರ್ಶಿಸಲಾಗಿದೆ.
     link: https://scroll.in/article/975441/plague-ki-chudail-this-bittersweet-short-story-from-1902-explores-grief-fear-and-mortality
     coverimage: /static/img/RR_PlagueKiChudail.jpg
   - title: Plague and Quarantine
