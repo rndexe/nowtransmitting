@@ -64,10 +64,10 @@ eventlist:
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/148315625027
 relatedlist:
-  - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+  - quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
-  - quadrelatedtxt: "The Glassroom: Misinformation Edition by Tactical Tech"
+  - quadrelatedtxt: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ | ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್"
     quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
 privis: /static/img/K_EXHIBIT_PRI_VIS_1.mp4
