@@ -178,7 +178,7 @@ eventlist:
   - quadeventtxt: Robert Koch Institute Museum Walkthrough | Event
     quadeventvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/walkthrough-of-the-museum-at-robert-koch-institute-event-registration-148309895891
-  - quadeventtxt: ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ | Lecture | ಡೇವಿಡ್‌ ಜ್ಹಾನ್‌ ಆರ್ನಾಲ್ಡ್‌
+  - quadeventtxt: ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ | ಉಪನ್ಯಾಸ | ಡೇವಿಡ್‌ ಜ್ಹಾನ್‌ ಆರ್ನಾಲ್ಡ್‌
     quadeventvis: /static/img/O_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/145397629223
 ---
