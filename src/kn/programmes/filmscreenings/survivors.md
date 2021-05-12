@@ -1,5 +1,5 @@
 ---
-title: Survivors
+title: ಸರ್ವೈವರ್ಸ್‌  Survivors
 permalink: kn/programmes/films/survivors/
 cata: spillover
 catb: documenting
@@ -7,29 +7,25 @@ thumb: /static/img/f_arthur.png
 cover: /static/img/E_FS_Coverimage.jpg
 date: 2021-05-16T11:30:00.000Z
 description: >-
-  Through the eyes of Sierra Leonean filmmaker Arthur Pratt, Survivors presents
-  a heart-connected portrait of his country during the Ebola outbreak, exposing
-  the complexity of the epidemic and the sociopolitical turmoil that lies in its
-  wake. The film chronicles the remarkable stories of two Sierra Leonean
-  healthcare workers during what is now widely regarded as the most acute public
-  health crisis of the modern era.
+  **2018 | 84 ನಿಮಿಷಗಳು | ಇಂಗ್ಲಿಷ್ ಉಪಶೀರ್ಷಿಕೆಗಳೊಂದಿಗೆ  ಇಂಗ್ಲಿಷ್‌ ಮತ್ತು ಕ್ರಿಯೋ
+  ಭಾಷೆಗಳಲ್ಲಿ |  ಸಿಯರ್ರ ಲಿಯೋನ್**
 
 
-  Survivors interweaves the heroic stories of Mohamed Bangura, the senior ambulance driver at the country’s main emergency vehicle dispatch; and Margaret Kabba Sesay, a nurse who works at the Emergency Ebola Treatment Center, caring for some of the sickest patients. As Sierra Leone moves towards containment of the outbreak, we see international organizations draw down their support and begin to understand how the future of the region will be profoundly shaped by the complex decisions made and actions taken by individuals like Margaret, Mohammed, and Arthur. In this way, Survivors explores what it means to be Sierra Leonean at this critical juncture in the country’s history. The film was broadcast on PBS's award winning series POV and was nominated for Peabody and Emmy awards in 2019.
+  ಚಲನ ಚಿತ್ರಗಾರ, ಆರ್ಥರ್‌ ಪ್ರಾಟ್‌, ʼಸರ್ವೈವರ್ಸ್‌ʼ ಚಲನ ಚಿತ್ರದಲ್ಲಿ,  ಸಿಯರ್ರ ಲಿಯೋನ್ ಪಾತ್ರಗಳ ಮೂಲಕ, ಎಬೋಲ ರೋಗ ಮಹಾಮಾರಿಯ ಸಂಕಷ್ಟದ ಕಾಲದ, ತಮ್ಮ ದೇಶದ ಚಿತ್ರಣವನ್ನು ಪ್ರಸ್ತುತ ಪಡಿಸಿದ್ದಾರೆ.  ರೋಗ ಸಾಂಕ್ರಾಮಿಕದ ಜಠಿಲತೆ, ಆ ಸಮಯದಲ್ಲಿ, ಅಲ್ಲಿ ಇದ್ದಂತಹ ಸಾಮಾಜಿಕ ರಾಜಕೀಯ ಪರಿಸ್ಥಿತಿ,  ಎಲ್ಲವನ್ನೂ ತೆರೆಯ ಮೇಲೆ ತಂದಿದ್ದಾರೆ. ಆಧುನಿಕ ಶತಮಾನದ ಅತಿ ಗಂಭೀರವಾದ ಸಾರ್ವಜನಿಕ ರೋಗ ಮಹಾಮಾರಿ ಎಂದೇ ಹೆಸರಾಗಿರುವ ಎಬೋಲ ಸಾಂಕ್ರಾಮಿಕ ಸಂಕಷ್ಟದಲ್ಲಿ , ಸಿಯರ್ರ ಲಿಯೋನ್ ನ ಇಬ್ಬರು ಆರೋಗ್ಯ ಕಾರ್ಯಕರ್ತರ ಸುತ್ತಲಿನ ಘಟನಾವಳಿಯ ಬಗೆಗೆ, ಚಲನಚಿತ್ರದಲ್ಲಿ ಗಮನ ಸೆಳೆಯಲಾಗಿದೆ.   
+
+
+  ಸರ್ವೈವರ್ಸ್‌  ಚಲನ ಚಿತ್ರದಲ್ಲಿ, ದೇಶದ ಮುಖ್ಯ ಆಪತ್ಕಾಲೀನ ವಾಹನ ಡಿಸ್ಪ್ಯಾಚ್‌ ನ ಹಿರಿಯ ಆಂಬುಲೆಂಸ್‌ ವಾಹನ ಚಾಲಕ ʼಮೊಹಮದ್‌ ಬಂಗುರʼ ಮತ್ತು ಆಪತ್ಕಾಲೀನ ಎಬೋಲ ಚಿಕಿತ್ಸಾ ಕೇಂದ್ರದಲ್ಲಿ ದಾದಿಯಾಗಿ ರೋಗಿಗಳ ಆರೈಕೆಯ ಕೆಲಸ ನಿರ್ವಹಿಸುತ್ತಿರುವ ʼಮಾರ್ಗರೇಟ್‌ ಕಬ್ಬಾ ಸೆಸೇʼ ಅವರ ವೀರ ಗಾಥೆ ಇದಾಗಿದೆ.
 link: http://bit.ly/films-pratt
-expertname: "Arthur Pratt "
+expertname: ""
 expertbio: >-
   Arthur is a co-founder of the Freetown Media Centre in Sierra Leone, which
-  serves as a hub for local production, media education and professional
-  development where he serves as Manager in charge of Education and Creative
-  Initiative; he is also a Christian Evangelist and community leader. Starting
-  as a playwright, stage director and actor. Arthur helped develop and acted in
-  three of WeOwnTV-produced short films, CHARITY, BEND DOWN THE CORNER, AND THE
-  CRIPPLE AND THE WITCH HUNTER, which were shown in the Madrid Film Festival in
-  2009/2010. 
+  serves as a hub for local production, 
 
 
-  Arthur’s interest then grew from a man displaying his talents in front of the camera to man working behind it. In 2010, he shot, and produced his first short film, BLACK SUGAR. Later in the same year, he wrote, directed and produced the widely acclaimed short film on the Trans- Atlantic slave trade, THEY RESISTED, which was screened in Clap Ivoir (Ivory Coast film festival). Arthur has also played the role of cinematographer and editor in films such as M’PORA, CRY OF THE COUNTRY VIRGIN, WHY ME?, WINTER IN FREETOWN, HUSTLER, LAND GRAB, SOCIAL INJUSTICES  and several documentaries which were aired on the Sierra Leone Broadcasting Corporation Television (SLBC).
+  ***ನಿರ್ದೇಶಕರು***
+
+
+  ಆರ್ಥರ್‌ ಪ್ರಾಟ್‌,  ಸಿಯರ್ರ ಲಿಯೋನ್‌ ನ ಪ್ಯಾಸ್ಟರ್‌ ಮತ್ತು ಚಲನ ಚಿತ್ರಗಾರರು.
 expertpic: /static/img/C_FS_SEC_VIS_1.jpg
 disname: "David Heymann "
 dispic: /static/img/C_FS_SEC_VIS_2.jpg
