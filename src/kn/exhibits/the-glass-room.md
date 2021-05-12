@@ -29,27 +29,25 @@ exhibitimages:
   - privis: /static/img/G_EXHIBIT_PRI_VIS_7.jpg
   - privis: /static/img/G_EXHIBIT_PRI_VIS_8.jpg
 exhibitauthor:
-  - authorbio: DensityDesign is a Research Lab in the Design Department of the
-      Politecnico di Milano. It focuses on the visual representation of complex
-      social, organizational and urban phenomena.
-    authorname: "DensityDesign "
+  - authorbio: ಡೆಂಸಿಟಿ ಡಿಸೈನ್‌, ಪೋಲಿಟೆಕ್ನಿಕೊ ಡಿ ಮಿಲಾನೋ ಸಂಸ್ಥೆಯ ವಿನ್ಯಾಸ ವಿಭಾಗದ
+      ಸಂಶೋಧನಾ ಪ್ರಯೋಗಾಲಯವಾಗಿದೆ. ಜಠಿಲ ಸಾಮಾಜಿಕ, ಸಂಘಟನಾತ್ಮಕ ಮತ್ತು ನಗರ ವಿದ್ಯಮಾನಗಳ,
+      ದೃಶ್ಯ ಮೂಲ ನಿರೂಪಣೆಯ ಬಗ್ಗೆ ಗಮನ ಹರಿಸಿದೆ.
+    authorname: ಡೆಂಸಿಟಿ ಡಿಸೈನ್‌
     authorimage: /static/img/G_EXHIBIT_SEC_VIS_1.png
   - authorbio: >-
-      The Glass Room is a public intervention that provides an interactive, fun,
-      and challenging experience that brings to life the most pressing
-      challenges facing people and the tech industry today. As technology
-      reaches a global scale and becomes embedded in every part of our lives and
-      our environments, The Glass Room examines its impacts and helps visitors
-      explore practical solutions to mitigate them.
+      ಗಾಜಿನ ಕೊಠಡಿ ಯು, ಸಾರ್ವಜನಿಕ ಸಂದರ್ಶನ ಆವರಣವಾಗಿದ್ದು, ಪರಸ್ಪರ ಚರ್ಚೆ, ಕ್ರೀಡೆ,
+      ಸವಾಲುಗಳ, ಒಗಟುಗಳ ರೂಪದಲ್ಲಿ ಹೊಸ ಅನುಭವವನ್ನು ನೀಡಿ, ವರ್ತಮಾನದಲ್ಲಿ ಸಾಮಾನ್ಯ ಜನರು
+      ಹಾಗೂ ತಾಂತ್ರಿಕ ಉದ್ಯೋಗಗಳನ್ನು ಸಮನಾಗಿ ಕಾಡುತ್ತಿರುವ ಅನೇಕ ಪ್ರಮುಖ ಸಮಸ್ಯೆಗಳು, ಇಂತಹ
+      ಸವಾಲುಗಳನ್ನು ಸಮರ್ಪಕವಾಗಿ ನಿವಾರಿಸುವುದರ ಬಗೆಗೆ ಚಿಂತನೆ ನೆಡೆಸುವ ಕೇಂದ್ರವಾಗಿದೆ.
 
 
-      The Glass Room was originally conceived and produced in the context of the exhibition Nervous Systems with support from Haus der Kulturen der Welt in the framework of “100 Years of Now”, and is based on an original concept developed by Stephanie Hankey and Marek Tuszynski shown in March-May 2016 at the HKW in Berlin, Germany.
-    authorname: The Glass Room
+      ಜರ್ಮನಿಯ ಬರ್ಲಿನ್‌ ನ ಎಚ್.ಕೆ.ಡಬಲ್ಯೂ ಕೇಂದ್ರದಲ್ಲಿ,  ಮಾರ್ಚ್-ಮೇ, 2016 ರಲ್ಲಿ ಪ್ರದರ್ಶನ ಕಂಡಂತಹ ಸ್ಟೆಫನಿ ಹ್ಯಾಂಕಿ ಮತ್ತು ಮರೇಕ್ ತುಸಿಂಸ್ಕಿ ಅವರ ಮೂಲ ಪರಿಕಲ್ಪನೆಯನ್ನು ಆಧಾರವಾಗಿಸಿಕೊಂಡು,  ಹೌಸ್‌ ಡರ್‌ ಕುಲ್ಟುರೆನ್‌ ಡರ್‌ ವೆಲ್ಟ್‌ ಇವರ ಸಹಯೋಗದಲ್ಲಿ “100 ಇಯರ್ಸ್‌ ಆಫ್‌ ನೌ” ಎಂಬ ರಚನೆಯ ಮೂಲಕ ನರ್ವಸ್‌ ಸಿಸ್ಟಮ್ಸ್‌ (ನರ ವ್ಯವಸ್ಥೆ) ಪ್ರದರ್ಶನ ಸಂಚಿಕೆಗಾಗಿ ಗಾಜಿನ ಕೊಠಡಿ ಎಂಬ ಈ ಪ್ರದರ್ಶಿಕೆಯನ್ನು ವಿಕಸನಗೊಳಿಸಲಾಗಿತ್ತು,  ಆ ರಚನೆಯ ಪ್ರತಿರೂಪವನ್ನು ಇಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲಾಗಿದೆ.
+    authorname: "ದಿ ಗ್ಲಾಸ್ ರೂಮ್ "
     authorimage: /static/img/G_EXHIBIT_SEC_VIS_2.png
-  - authorbio: Tactical Tech is an international NGO that engages with citizens and
-      civil-society organisations to explore and mitigate the impacts of
-      technology on society.
-    authorname: Tactical Tech
+  - authorbio: ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್,‌  ಎಂಬ ಸ್ವಯಂ ಸೇವಕ ಸಂಸ್ಥೆಯು, ಸಮಾಜದ ಮೇಲೆ ತಂತ್ರಜ್ಞಾನದ
+      ಪ್ರಭಾವವನ್ನು ಅನ್ವೇಷಿಸಿ ಪರಿಹರಿಸಲು, ನಾಗರೀಕರೊಂದಿಗೆ ನಗರ ಸಂಘ-ಸಂಸ್ಥೆಗಳೊಡನೆ
+      ಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ.
+    authorname: ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್‌
     authorimage: /static/img/G_EXHIBIT_SEC_VIS_3.png
 readinglist:
   - quadreadlink: https://science.thewire.in/the-sciences/misinformation-online-virality-liberals-conservatives-older-people-epidemiology/
@@ -85,7 +83,7 @@ watchinglist:
     quadwatchvis: /static/img/g_exhibit_qua_watchvis_3.jpg
 play:
   - quadplayvis: /static/img/g_exhibit_qua_playvis_1.jpg
-    quadplaytxt: ತಪ್ಪು ಮಾಹಿತಿ
+    quadplaytxt: ಗೆಟ್ ಬ್ಯಾಡ ನ್ಯೂಸ್
     quadplaylink: https://www.getbadnews.com/#intro
 relatedlist:
   - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
