@@ -1,26 +1,26 @@
 ---
-title: Health and Justice in a Pandemic
-desc: Sridhar Venkatapuram brings health-related natural and social sciences
-  together with philosophy in order to understand and address health
-  inequalities and injustices. Recently, he has been thinking about the systems
-  which allowed the SARS-CoV-2 virus to spread at an unprecedented rate. This
-  line of enquiry challenges us to think beyond the virus as the only cause of
-  the pandemic, and encourages us to reexamine the socioeconomic systems which
-  play a critical role in both spreading and controlling disease.
-permalink: kn/covids/health-justice-in-pandemic/
-speakername: Sridhar Venkatapuram
+title: "ಪಿಡುಗಿನ ವೇಳೆಯಲ್ಲಿ ಆರೋಗ್ಯ ಮತ್ತು ನ್ಯಾಯ "
+desc:  ಶ್ರೀ ಶ್ರೀಧರ್ ವೆಂಕಟಪುರಂ, ಆರೋಗ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಪ್ರಾಕೃತಿಕ ವಿಜ್ಞಾನ, ಸಮಾಜ
+  ವಿಜ್ಞಾನ ಹಾಗೂ ತತ್ವಶಾಸ್ತ್ರವನ್ನು ಒಗ್ಗೂಡಿಸಿ ಸ್ವಾಸ್ಥ್ಯದ ಅಸಂಭದ್ದತೆಗಳನ್ನು ಮತ್ತು
+  ಅನ್ಯಾಯಗಳನ್ನು ಅರ್ಥೈಸುವ ಕಾಯಕದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ.    ಇತ್ತೀಚೆಗೆ, ಪ್ರಸಕ್ತ ವ್ಯವಸ್ಥೆಗಳ
+  ಕಾರಣದಿಂದಾಗಿ, ಸಾರ್ಸ್-ಕೋವಿಡ್-2‌ ವೈರಾಣುವು ಊಹೆಗೂ ಮೀರಿ ಹರಡಿರುವುದರ ಬಗೆಗೆ ಚಿಂತನೆ
+  ನೆಡೆಸಿದ್ದಾರೆ.  ಸಮಾಜದಲ್ಲಿ ಯಾವುದೇ ಪಿಡುಗು ಆವರಿಸಲು ಕೇವಲ ವೈರಾಣುವೇ ಕಾರಣವಲ್ಲ, ಅದನ್ನೂ
+  ಮೀರಿ ವ್ಯವಸ್ಥೆಯ ಬಗೆಗೆ ಚಿಂತನೆ ನೆಡೆಸಬೇಕಾಗುತ್ತದೆ, ರೋಗವು ಹರಡುವುದನ್ನು ತಡೆದು,
+  ನಿಯಂತ್ರಿಸಲು, ಬಹು ಮುಖ್ಯ ಪಾತ್ರ ವಹಿಸುವ ನಮ್ಮ ಸಾಮಾಜಿಕ ಮತ್ತು ಅರ್ಥ ವ್ಯವಸ್ಥೆಗಳ ಬಗೆಗೆ
+  ಹೆಚ್ಚು ಗಮನ ಹರಿಸ ಬೇಕಾದ  ಪರಿಸ್ಥಿತಿ ಇದೆ.
+speakername: "ಶ್ರೀಧರ್ ವೆಂಕಟಪುರಂ "
 speakerimage: /static/img/C_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/C_CO_THUMBNAIL.png
-speakerfield: Academic Practitioner
-speakerbio: >-
-  Sridhar Venkatapuram is an academic researcher, educator, and practitioner in
-  global health and philosophy. His work brings health-related natural and
-  social sciences together with philosophy in order to understand and address
-  health inequalities and injustice. He recently spent one year at the Global
-  Health Ethics Unit of the World Health Organization in Geneva.
-
-
-  Dr Venkatapuram’s most well known work relates to applying the Capabilities Approach to health and health inequalities, particularly the argument for the moral and human right to the capability to be healthy. Health capability, seen as a basic freedom, like other freedoms are socially created and distributed.
+speakerfield: "ಶೈಕ್ಷಣಿಕ ವೈದ್ಯರು "
+speakerbio: ಶ್ರೀಧರ್ ವೆಂಕಟಪುರಂ ಶೈಕ್ಷಣಿಕ ಸಂಶೋಧಕರು, ಶಿಕ್ಷಣ ತಜ್ಞರು, ಮತ್ತು ಜಾಗತಿಕ
+  ಆರೋಗ್ಯ ಹಾಗೂ ತತ್ವ ಶಾಸ್ತ್ರಗಳ ವೃತ್ತಿಪರರು. ಶ್ರೀ ಶ್ರೀಧರ್ ವೆಂಕಟಪುರಂ, ಆರೋಗ್ಯಕ್ಕೆ
+  ಸಂಬಂಧಿಸಿದಂತೆ ಪ್ರಾಕೃತಿಕ ಮತ್ತು ಸಮಾಜ ವಿಜ್ಞಾನ ಹಾಗೂ ತತ್ವಶಾಸ್ತ್ರವನ್ನು ಒಗ್ಗೂಡಿಸಿ
+  ಸ್ವಾಸ್ಥ್ಯದ ಅಸಂಭದ್ದತೆಗಳು ಮತ್ತು ಅನ್ಯಾಯಗಳನ್ನು ಅರ್ಥೈಸುವ ಕಾಯಕದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ. 
+  ʼಜಿನೇವʼ ದಲ್ಲಿರುವ ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯ ಜಾಗತಿಕ ಆರೋಗ್ಯ ನೀತಿಶಾಸ್ತ್ರದ ಘಟಕದಲ್ಲಿ ಒಂದು
+  ವರ್ಷ ಕಾಲ ಅಧ್ಯಯನ ಮಾಡಿದ್ದಾರೆ.  ಡಾ. ವೆಂಕಟಪುರಂ ಅವರ ಸಂಶೋಧನೆಯು, ಆರೋಗ್ಯ ಮತ್ತು
+  ಸ್ವಾಸ್ಥ್ಯ ಅಸಂಭದ್ದತೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಆರೋಗ್ಯವು ಮಾನವನ  ಹಕ್ಕು ಮತ್ತು ನೈತಿಕತೆ ಎಂಬ
+  ವಿಷಯವನ್ನು ಕುರಿತಾಗಿದೆ.  ಮಾನವನ ಮೂಲಭೂತ ಸ್ವತಂತ್ರಗಳಲ್ಲಿ, ಸ್ವಾಸ್ಥ್ಯವು ಸಹ ಮುಖ್ಯವಾದ
+  ಮೂಲ ಭೂತ ಹಕ್ಕು, ಆದರೆ, ವಿಡಂಬನೆ ಎಂದರೆ, ಇದು ಸಮಾಜಿಕ ವ್ಯವಸ್ಥೆಯನ್ನು ಅವಲಂಬಿಸಿದೆ.
 videosrc: https://player.vimeo.com/video/517024746
 readinglist:
   - quadreadlink: https://www.tandfonline.com/doi/full/10.1080/19452829.2020.1786028
@@ -32,6 +32,7 @@ readinglist:
   - quadreadlink: https://www.nature.com/articles/nm1150
     quadreadtxt: Risk Factors in the Emergence of Infectious Diseases
     quadreadvis: /static/img/C_CO_QUA_READVIS_3.jpg
+permalink: kn/covids/health-justice-in-pandemic/
 listeninglist:
   - quadlistlink: https://soundcloud.com/kingsghi/sets/bmj-public-health-covid
     quadlisttxt: Public Health in Pandemic
