@@ -245,16 +245,16 @@ speakerbooklist:
       ವಿಶ್ಲೇಷಣೆ ಇದೆ.
     link: https://blogs.lse.ac.uk/impactofsocialsciences/2019/08/04/book-review-can-science-make-sense-of-life-by-sheila-jasanoff/
     coverimage: /static/img/RR_Sheila_RR_Can Science Make Sense of Life.jpg
-  - title: Ethnographic Plague
-    author: Christos Lynteris
+  - title: ಎಥ್ನೋಗ್ರಾಫಿಕ್‌ ಪ್ಲೇಗ್‌
+    author: ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌
     link: http://www.crassh.cam.ac.uk/blog/post/ethnographic-plague-qa-with-christos-lynteris
-    about: Challenging the idea that the study of plague in the late eighteen
-      hundreds was dominated by bacteriology, *Ethnographic Plague* argues for
-      the role of ethnography as a vital contributor to the configuration of
-      plague at the turn of the nineteenth century.
+    about: ಪ್ಲೇಗ್‌ ರೋಗ ಕಾರಕಗಳನ್ನು ಪತ್ತೆ ಮಾಡಲು,  ಹದಿನೆಂಟರ ಶತಮಾನದ ಅಂತ್ಯದಲ್ಲಿ, ಹಲವು
+      ಪ್ರಕಾರದ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸಂಶೋಧನೆಗಳು ನೆಡೆದವು.  ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದ ಹೊತ್ತಿಗೆ ,
+      ವಿವಿಧ ಜನಾಂಗಗಳ ಇರುಸರಿಕೆ ಮತ್ತು ಪಾರಂಪರಿಕ ಜೀವನ ಕ್ರಮಗಳು ಪ್ಲೇಗ್‌ ರೋಗದ ಸೋಂಕು
+      ಮತ್ತು ಸಾಂಕ್ರಾಮಿಕತೆಗೆ ಬಹಳ ಮುಖ್ಯ ಪಾತ್ರ ವಹಿಸುತ್ತವೆ ಎಂಬುದು ತಿಳಿದು ಬಂತು
     coverimage: /static/img/RR_Christos_RR_Ethnographic Plague.jpg
-  - title: Science, Technology And Medicine In Colonial India
-    author: David Arnold
+  - title: ಸೈನ್ಸ್‌, ಟೆಕ್ನಾಲಾಜಿ ಆಂಡ್‌ ಮೆಡಿಸಿನ್‌ ಇನ್‌ ಕಲೋನಿಯಲ್‌ ಇಂಡಿಯಾ
+    author: ಡೇವಿಡ್‌  ಆರ್ನಲ್ಡ್
     link: https://www.livemint.com/mint-lounge/features/when-the-1897-bubonic-plague-ravaged-india-11587876174403.html
     about: Spanning the period from the establishment of East India Company rule
       through to Independence, David Arnold demonstrates the importance of
@@ -270,10 +270,10 @@ speakerbooklist:
       ಆಡಿಯಾ ಬೆಂಟನ್ ‌ ವಿವರಿಸಿದ್ದಾರೆ.  ವಿಶ್ವದಾದ್ಯಂತ ಅದರಲ್ಲೂ ಆಫ್ರಿಕಾದಂತಹ ಖಂಡದಲ್ಲಿ
       ರೋಗ ಪಿಡುಗುಗಳನ್ನು ಹೇಗೆ ಎದುರಿಸ ಬೇಕು ಎಂಬುದರ ಮಾರ್ಗದರ್ಶನವನ್ನು ಸಹ ಈ ಕೃತಿಯಲ್ಲಿ
       ಒದಗಿಸಿದ್ದಾರೆ
-  - title: Paradise, Death and Doomsday in Anglo-Saxon Literature
+  - title: ಪ್ಯಾರಡೈಸ್‌, ಡೆಥ್‌ ಆಂಡ್‌ ಡೂಮ್ಸ್‌ ಡೇ ಇನ್‌ ಆಂಗ್ಲೋ ಸ್ಯಾಕ್ಸನ್‌ ಲಿಟರೇಚರ್‌
     coverimage: /static/img/RR_Ananya_RR_Paradise, Death and Doomsday in Anglo-Saxon
       Literature.jpg
-    author: Ananya Jahanara Kabir
+    author: ಅನನ್ಯ ಜಹನಾರಾ ಕಬೀರ್‌
     link: https://assets.cambridge.org/97805218/06008/excerpt/9780521806008_excerpt.pdf
     about: "In Paradise, Death and Doomsday, Ananya Jahanara Kabir presents an
       investigation into the Anglo-Saxon belief in the 'interim paradise':
@@ -296,9 +296,10 @@ speakerbooklist:
       ಭಾರತದಲ್ಲಿ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯವನ್ನು ಹೇಗೆ ಪರಿವರ್ತನೆಯ ಹಾದಿಗೆ ತರುವ ಶಕ್ತಿ ಸಾಮರ್ಥ್ಯ
       ಹೊಂದಿದ್ದಾರೆ ಎಂಬುದರ ವಿವರಣೆ ಹಾಗೂ ಆಶ್ವಾಸನೆಯು ಸಹ ಈ ಪುಸ್ತಕದಲ್ಲಿ ಇದೆ.
     coverimage: /static/img/RR_Gagandeep_RR_Till We Win.jpg
-  - title: "Animals and the Shaping Of Modern Medicine : One Health And Its
-      Histories "
-    author: Abigail Woods, et al.
+  - title: "ಅನಿಮಲ್ಸ್‌ ಆಂಡ್‌ ದಿ ಶೇಪಿಂಗ್‌ ಆಫ್‌ ಮಾಡರ್ನ್‌ ಮೆಡಿಸಿನ್‌: ಒನ್‌ ಹೆಲ್ಥ್‌ ಆಂಡ್‌
+      ಇಟ್ಸ್‌ ಹಿಸ್ಟರೀಸ್‌"
+    author: ಅಭಿಗೇಲ್‌ ವೂಡ್ಸ್‌ , ಮೈಖೇಲ್‌ ಬ್ರಸೇಲಿಯರ್‌, ಎಂಜೆಲಾ ಕ್ಯಾಸಿಡಿ, ರಾಚೆಲ್‌ ಮೇಸನ್‌
+      ಡೆಂಟಿಂಗರ್‌
     link: https://wellcomecollection.org/works/pe6ntmsb
     about: "*Animals and the Shaping of Modern Medicine* breaks new ground by
       situating animals and their diseases at the very heart of modern medicine.
@@ -306,36 +307,37 @@ speakerbooklist:
       medicine, it reveals that what we think of as human medicine was in fact
       deeply zoological."
     coverimage: /static/img/RR_Michael Bresalier_RR_Animals and Modern Medicine.jpg
-  - title: "Age Of Pandemics (1817-1920): How They Shaped India and the World"
-    author: Chinmay Tumbe
+  - title: "ಏಜ್‌ ಆಫ್‌ ಪ್ಯಾಂಡಮಿಕ್ಸ್ (1817-1920): ಹೌ ಧೆ ಶೇಪ್ಡ್‌ ಇಂಡಿಯಾ ಆಂಡ್‌ ದಿ
+      ವರ್ಲ್ಡ್‌"
+    author: ಚಿನ್ಮಯ್‌ ತುಂಬೆ
     coverimage: /static/img/RR_Chinmay_RR_Age of Pandemics.jpg
     link: https://www.thehindu.com/books/books-reviews/the-age-of-pandemics-review-lessons-for-a-pandemic/article33820062.ece
-    about: From lockdowns to lockups, viruses to vaccination, the movement of people
-      to the movement of bowels, and more, *The Age of Pandemics* chronicles the
-      many facets of the cholera, plague and influenza pandemics, which claimed
-      over 70 million lives between 1817 and 1920, with India being the
-      epicentre in all these episodes.
-  - about: "*Twenty-First Century Plague* traces the emergence of Severe Acute
-      Respiratory Syndrome, in the process examining the global politics and
-      economics of disease. It provides the first behind-the-scenes account of
-      how the global battle against SARS was fought and the incredible research
-      efforts that finally led to identification of the virus."
+    about: ಲಾಕ್‌ ಡೌನ್‌ ಗಳಿಂದ ಹಿಡಿದು ಲಾಕಪ್‌ ಗಳ ವರೆಗೂ, ವೈರಾಣುಗಳು, ಅವುಗಳನ್ನು ಎದುರಿಸಲು
+      ಲಸಿಕೆಗಳು, ಆಹಾರ ಚಳುವಳಿ, ದೇಶದ ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಚಳುವಳಿ, ಇಲಿ ಹೆಗ್ಗಣಗಳು,
+      ಬೆಕ್ಕು ಮುಂತಾದ ಪ್ರಾಣಿ ಸಂಕುಲದಿಂದ ಒದಗಿದ ಸಂಕಷ್ಟಗಳು, ಬಗೆ ಬಗೆಯಲ್ಲಿ ತಲೆದೋರಿದ
+      ವ್ಯಾಪಕ ಸಮಸ್ಯೆಗಳು, 1817 ರಿಂದ 1920 ವರೆಗಿನ ಕಾಲದಲ್ಲಿ 70 ದಶ ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು
+      ಜನರಿಗೆ ಮಾರಕವಾದ ಖಾಲೆರಾ, ಪ್ಲೇಗ್‌ ಮತ್ತು ಇಂಫ್ಲುಯೆಂಸಾ ಮುಂತಾದ ರೋಗ ಪಿಡುಗುಗಳು ಹೀಗೆ
+      ಅನೇಕ ಇತಿಹಾಸದ ಅಧ್ಯಾಯಗಳಿಗೆ ಭಾರತವು ಕೇಂದ್ರ ಬಿಂದುವಾಗಿತ್ತು.
+  - about: ಈ ಕೃತಿಯಲ್ಲಿ,  ಸಾರ್ಸ್‌ ರೋಗದ ಉದ್ಭವ , ರೋಗ ಪಿಡುಗಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಜಾಗತಿಕ
+      ರಾಜನೀತಿ ಮತ್ತು ಅರ್ಥವ್ಯವಸ್ಥೆಯ ಬಗ್ಗೆ ಅಧ್ಯಯನವನ್ನು ಒಳಗೊಂಡಿದೆ. ಸಾರ್ಸ್‌ ರೋಗದ
+      ವಿರುದ್ಧ  ಅಜ್ಞಾತ ಜಾಗತಿಕ ಹೋರಾಟ ಮತ್ತು ಸಂಶೋಧನೆಯ ಪ್ರಯತ್ನಗಳಿಂದಾಗಿ ವೈರಾಣುವು
+      ಕೊನೆಗೂ ಪತ್ತೆಯಾದ ಸಂಪೂರ್ಣ ದೃಶ್ಯಗಳು ಈ ಕೃತಿಯಲ್ಲಿ ಅಂಕಿತವಾಗಿವೆ.
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107295/
-    author: Thomas Abraham
-    title: "Twenty-First Century Plague: The Story of SARS"
+    author: ಥಾಮಸ್‌ ಅಬ್ರಹಾಮ್‌
+    title: "ಟ್ವೆಂಟಿ – ಫಸ್ಟ್‌ ಸೆಂಚುರಿ ಪ್ಲೇಗ್‌”: ದಿ ಸ್ಟೋರಿ ಆಫ್‌ ಸಾರ್ಸ್‌"
     coverimage: /static/img/RR_Thomas_RR_Story of SARS.jpg
-  - title: "Expunging Variola: The Control and Eradication of Smallpox in India
-      1947-1977"
-    author: Sanjoy Bhattacharya
+  - title: "ಎಕ್ಸ್‌ ಪಂಜಿಂಗ್‌ ವೇರಿಯೋಲಾ:  1947 – 1977 ರ ನಡುವೆ ಭಾರತದಲ್ಲಿ ಸಿಡುಬು ರೋಗದ
+      ನಿಯಂತ್ರಣ ಮತ್ತು ನಿವಾರಣೆ"
+    author: ಸಂಜೊಯ್‌ ಭಟ್ಟಾಚಾರ್ಯ
     link: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)60692-7/fulltext
     about: "*Expunging Variola* is a wide-ranging study, based on extensive archival
       research in India, Britain, Switzerland and the United States of America.
       It assesses the many complexities in the formulation and implementation of
       the smallpox eradication programme in the subcontinent."
     coverimage: /static/img/RR_Sanjoy_RR_Expunging Variola.jpg
-  - title: "Soft Law and Global Health Problems: Lessons from Responses to HIV/AIDS,
-      Malaria and Tuberculosis"
-    author: Sharifah Sekalala
+  - title: "ಸಾಫ್ಟ್‌ ಲಾ ಆಂಡ್‌ ಗ್ಲೋಬಲ್‌ ಹೆಲ್ಥ್‌ ಪ್ರಾಬ್ಲಮ್ಸ್‌: ಲೆಸಂಸ್‌ ಫ್ರಂ ರೆಸ್ಪಾಂಸಸ್‌
+      ಟು ಎಚ್. ಐ.ವಿ /ಏಡ್ಸ್‌ , ಮಲೇರಿಯಾ ಆಂಡ್‌ ಟ್ಯೂಬರ್‌ ಕ್ಯುಲಾಸಿಸ್‌"
+    author: ಶರೀಫ ಸೆಖಲಾಲ
     coverimage: /static/img/RR_Sharifah_RR_Soft Law and Global Health Problems.jpg
     link: https://rcni.com/nursing-standard/opinion/reviews/book-review-soft-law-and-global-health-problems-126671
     about: "*Soft Law and Global Health Problems* focuses on the millions of people
