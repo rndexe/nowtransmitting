@@ -52,7 +52,7 @@ eventlist:
   - quadeventtxt: ರೋಗ ಪಿಡುಗುಗಳ ಬಗೆಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲೆಯ ಸೃಷ್ಟಿ | ಕಾರ್ಯಾಗಾರ | ಮ್ಯಾಟ್ಟ್‌ ಆಡಮ್ಸ್
     quadeventlink: http://bit.ly/masterclass-adams
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
-  - quadeventtxt: A Human Question | Film Discussion
+  - quadeventtxt: ಎ ಹ್ಯೂಮನ್‌ ಕ್ವೆಸ್ಚನ್‌ | ಚಲನ ಚಿತ್ರ ಚರ್ಚೆ | ಟಿ ಜಯಶ್ರೀ
     quadeventlink: http://bit.ly/films-jayashree
     quadeventvis: /static/img/fs_jayashree_thumbnail.png
 relatedlist:
