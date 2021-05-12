@@ -55,10 +55,11 @@ watchinglist:
     quadwatchvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-ramakrishnan
-    quadeventtxt: One Health | Lecture by Uma Ramakrishnan
+    quadeventtxt: One Health | ಉಪನ್ಯಾಸ | Uma Ramakrishnan
     quadeventvis: /static/img/pl_uma.png
-  - quadeventtxt: "Contagion Across Species: Global Histories and Ecologies of
-      Zoonotic Diseases | Lecture by Michael Bresalier"
+  - quadeventtxt: "ಪ್ರಭೇದಗಳ ನಡುವೆ ವ್ಯಾಪನಗಳು: ಪ್ರಾಣಿ-ಪಕ್ಷಿ ಮೂಲದಿಂದ ಹರಡುವ ರೋಗಗಳ
+      ಪರಿಸರಗಳು ಮತ್ತು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಜಾಗತಿಕ ಇತಿಹಾಸ | ಉಪನ್ಯಾಸ | ಮೈಖೇಲ್‌
+      ಬ್ರಸೇಲಿಯರ್‌"
     quadeventlink: https://www.eventbrite.com/e/145405729451
     quadeventvis: /static/img/pl_michael.png
 relatedlist:
