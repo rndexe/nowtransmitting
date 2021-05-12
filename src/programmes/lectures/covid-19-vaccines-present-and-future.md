@@ -14,7 +14,15 @@ description: >-
   \
 
   Worldwide, several vaccines have been approved for COVID-19; however, questions have been raised about their efficacy and safety and what the future holds because of the emergence of important variants. To combat some of the hesitancy around COVID-19 vaccination, this talk will open up the processes behind COVID-19 vaccine development. In doing so, Dr Kang will also answer critical questions on the mechanisms of vaccination and its limits, for us to better grasp our role in the current global drive for vaccination.
+link: https://www.eventbrite.com/e/145403685337
 expertname: Gagandeep Kang
+expertbio: >-
+  Gagandeep Kang is a Professor of Microbiology at Wellcome Trust Research
+  Laboratory, and the Division of Gastrointestinal Sciences at the Christian
+  Medical College (CMC) in Vellore. 
+
+
+  She and her conduct inter-disciplinary research on enteric infections and child health. They work on gut infections in children, nutrition, water and sanitation. Their team does everything from geographic information systems to human immunology. They have evaluated vaccines in pre-clinical and clinical phase 1-3 studies for rotavirus and cholera, and are now working on typhoid and SARS-CoV2.
 expertpic: /static/img/pl_gagandeep_portrait.png
 readinglist:
   - quadreadvis: /static/img/O_PL_QUA_READVIS_1.jpg
