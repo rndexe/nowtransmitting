@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Vaccines: Present and Future"
-permalink: programmes/lectures/covid-19-vaccines-present-and-future/
+permalink: kn/programmes/lectures/covid-19-vaccines-present-and-future/
 cata: spillover
 catb: experimenting
 thumb: /static/img/pl_gagandeep.png
