@@ -69,6 +69,15 @@ body, html{
     z-index:10000;
 }
 
+.languagebutton{
+    position: absolute;
+    top:0;
+    right:3%;
+    padding:10px;
+    margin:20px;
+    z-index:10000;
+}
+
 .legend{
     visibility: hidden;
     position: absolute;
@@ -169,7 +178,7 @@ body, html{
     }
     .popup-programme{
         width:500px;
-        height:200px;
+        height:250px;
         border-radius:10px;
         position:fixed;
         background-color:white; 

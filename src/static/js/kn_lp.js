@@ -1,7 +1,7 @@
 function loadJSON(callback) {   
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
-    xobj.open('GET', '../../lp_json/programme_data.json', true);
+    xobj.open('GET', '../../lp_json/kn_programme_data.json', true);
     xobj.onreadystatechange = function () {
       if (xobj.readyState == 4 && xobj.status == "200") {
         callback(JSON.parse(xobj.responseText));
@@ -108,7 +108,13 @@ function createProgramPopup(title,type,thumbnail,dateText,timeText,url){
 
     typeText.style = "color:#2d2d2d; z-index:101; overflow-wrap: break-word;  font-size:15px;"
     typeText.className = "w-full font-trade"
-    typeText.innerText = type;
+    switch(type){
+        case "KN_LECTURE": typeText.innerText = "ಉಪನ್ಯಾಸ";
+        case "KN_FILM SCREENING": typeText.innerText = "ಚಲನ ಚಿತ್ರ ಪ್ರದರ್ಶನ";
+        case "KN_WORKSHOP": typeText.innerText = "ಕಾರ್ಯಾಗಾರ";
+        case "KN_EVENT": typeText.innerText = "ಕಾರ್ಯಕ್ರಮ";
+    }
+    //typeText.innerText = type;
 
     date.style = "color:#2d2d2d; z-index:101; overflow-wrap: break-word;  font-size:15px;"
     date.className = "w-full font-trade"
@@ -734,10 +740,10 @@ else if((d >= new Date('2021-5-7')) && (d <= new Date('2021-5-13')) ){
 
 
 var bgnodes = new vis.DataSet([
-    { id: 1, shape:"image", image: DIR + "kn-trigger.svg", size:100, x:800,y:0,group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>TRIGGER</b>"*/},
-    { id: 2, shape:"image", image: DIR + "kn-spillover.svg", size:220, x:0,y:800,  group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>SPILL</b>\n<b>OVER</b>"*/},
-    { id: 3, shape:"image", image: DIR + "kn-transmission.svg", size:220, x:1600,y:800,  group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>TRANS</b>\n<b>MISSION</b>"*/},
-    { id: 4, shape:"image", image: DIR + "kn-hindsight.svg", size:100, x:800,y:800,  group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>HINDSIGHT</b>"*/},
+    { id: 1, shape:"image", image: DIR + "kn-trigger.svg", size:200, x:800,y:0,group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>TRIGGER</b>"*/},
+    { id: 2, shape:"image", image: DIR + "kn-spillover.svg", size:200, x:0,y:800,  group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>SPILL</b>\n<b>OVER</b>"*/},
+    { id: 3, shape:"image", image: DIR + "kn-transmission.svg", size:200, x:1600,y:800,  group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>TRANS</b>\n<b>MISSION</b>"*/},
+    { id: 4, shape:"image", image: DIR + "kn-hindsight.svg", size:200, x:800,y:800,  group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>HINDSIGHT</b>"*/},
 ]);
 
 
