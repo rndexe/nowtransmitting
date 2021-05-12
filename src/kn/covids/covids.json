@@ -1,7 +1,8 @@
 {
     "layout" : "covids/layout_covids",
     "path" : "covids",
+    "kannada " : "true",
     "tags": [
-        "covid"
+        "kn_covid"
     ]
 }

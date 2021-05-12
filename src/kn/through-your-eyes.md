@@ -1,6 +1,7 @@
 ---
 promptd: Isolation
 layout: rooms/throughyoureyes
+kannada: true
 title: Through your Eyes
 description: >-
   With the pandemic reducing physical contact between people, photographs and

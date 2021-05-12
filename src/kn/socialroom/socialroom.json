@@ -1,6 +1,7 @@
 {
     "path" : "rooms",
+    "kannada" : "true",
     "tags": [
-        "rooms"
+        "kn_rooms"
     ]
 }

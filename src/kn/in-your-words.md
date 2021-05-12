@@ -1,5 +1,6 @@
 ---
 layout: rooms/inyourwords
+kannada: true
 title: In your Words
 description: Living through a pandemic has shown us how even speculative
   scenarios can turn into reality overnight. In the run up to CONTAGION, we
