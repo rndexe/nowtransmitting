@@ -76,7 +76,7 @@ relatedlist:
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
 exhibitembed1: https://indoor-covid-safety.herokuapp.com/
 eventlist:
-  - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಪ್ರತಿರೂಪಗಳನ್ನು (ಮಾಡಲ್‌) ಏಕೆ ರೂಪಿಸ ಬೇಕು, ಹೇಗೆ ರೂಪಿಸ ಬೇಕು ?
+  - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಪ್ರತಿರೂಪಗಳನ್ನು (ಮಾಡಲ್‌) ಏಕೆ ರೂಪಿಸ ಬೇಕು, ಹೇಗೆ ರೂಪಿಸ ಬೇಕು?
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://nowtransmitting.com/programmes/lectures/model-infectious-diseases/
   - quadeventtxt: "21 ನೇ ಶತಮಾನದಲ್ಲಿ ಪ್ರಸಕ್ತ ವ್ಯಾಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಜ್ಞಾನ | ಉಪನ್ಯಾಸ |
