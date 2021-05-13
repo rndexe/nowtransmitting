@@ -33,27 +33,28 @@ expertbio: ಡಾ.ಗೌತಮ್‌ ಐ. ಮೆನನ್, ಅಶೋಕ ವಿ�
 expertpic: /static/img/pl_gautam.png
 readinglist:
   - quadreadlink: https://science.thewire.in/the-sciences/covid-19-pandemic-infectious-disease-transmission-sir-seir-icmr-indiasim-agent-based-modelling/
-    quadreadtxt: "COVID-19 Pandemic: Should You Believe What the Models Say About India?"
+    quadreadtxt: "ಕೋವಿಡ್-19‌ ರೋಗ ಪಿಡುಗು: ಭಾರತದ ಬಗೆಗೆ ಗಣಕ-ಮಾದರಿಗಳು ಹೇಳುವುದನ್ನು ನಂಬ ಬೇಕೇ? "
     quadreadvis: /static/img/b_pl_qua_readvis_1.jpg
   - quadreadlink: https://science.thewire.in/the-sciences/coronavirus-pandemic-infectious-disease-transmission-modelling-kermack-mckendrick-theory-seir-model/
-    quadreadtxt: How Do Scientists Model the Spread of an Infectious Disease?
+    quadreadtxt: ರೋಗ ಸಾಂಕ್ರಾಮಿಕತೆಯ ಗಣಕ-ಮಾದರಿಗಳನ್ನು ವಿಜ್ಞಾನಿಗಳು ಹೇಗೆ ರಚಿಸುತ್ತಾರೆ?
     quadreadvis: /static/img/b_pl_qua_readvis_2.jpg
   - quadreadlink: https://theconversation.com/how-to-model-a-pandemic-134187
-    quadreadtxt: How to Model a Pandemic
+    quadreadtxt: "ರೋಗ ಪಿಡುಗಿನ ಗಣಕ-ಮಾದರಿಗಳನ್ನು ರಚಿಸುವುದು ಹೇಗೆ? "
     quadreadvis: /static/img/b_pl_qua_readvis_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/4h5qTVcKXUGM9DAqRzEGOU
-    quadlisttxt: A Mathematical Model to Reflect Local Realities
+    quadlisttxt: ಪ್ರಾದೇಶಿಕ ವಾಸ್ತವಿಕತೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ ಗಣಕ-ಮಾದರಿಗಳು
     quadlistvis: /static/img/b_pl_qua_listvis_1.jpg
   - quadlistlink: https://soundcloud.com/social-media-the-federal/what-is-indian-exceptionalism-explains
-    quadlisttxt: Gautam Menon Explains 'Super-spreaders' Concept Behind COVID-19
+    quadlisttxt: ಕೋವಿಡ್-19‌ ರೋಗ ಪಿಡುಗಿನ ಅತಿ ವೇಗ ಸಾಂಕ್ರಾಮಿಕತೆಗೆ ಕಾರಣ ಕಾರಕಗಳನ್ನು
+      ಪ್ರೊಫೆಸರ್‌ ಗೌತಮ್‌ ಮೆನನ್‌ ವಿವರಿಸುತ್ತಾರೆ.
     quadlistvis: /static/img/b_pl_qua_listvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=0Q2ef89dn8I
-    quadwatchtxt: Engaging COVID-19 Using Data and Science
+    quadwatchtxt: ಕೋವಿಡ್-19‌  ರೋಗವನ್ನು ಎದುರಿಸಲು ವಿಜ್ಞಾನ ಮತ್ತು ಅಂಕಿ-ಸಂಖ್ಯೆ ಮಾಹಿತಿಗಳ ಬಳಕೆ
     quadwatchvis: /static/img/b_pl_qua_watchvis_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=uGBmStFmFOw
-    quadwatchtxt: What Do We Know About COVID-19?
+    quadwatchtxt: ಕೋವಿಡ್-19‌  ರೋಗದ ಬಗೆಗೆ ನಮಗೇನು ತಿಳಿದಿದೆ?
     quadwatchvis: /static/img/b_pl_qua_watchvis_2.jpg
 eventlist:
   - quadeventlink: "http://bit.ly/masterclass-adams  "
