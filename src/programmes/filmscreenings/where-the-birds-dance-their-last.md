@@ -16,19 +16,26 @@ description: Lena Bui, provides a crucial perspective on the threat of bird flu
   beyond the aspect of health.
 link: https://www.eventbrite.com/e/where-birds-dance-their-last-film-screening-discussion-registration-145820558215
 expertname: Lena Bui
-expertbio: >-
-  ***Filmmaker***
-
-
-  Lêna Bùi lives and works in Saigon, Vietnam. Her works are sometimes amusing anecdotes and other times in-depth articulations of the impact of rapid development on people's relationship with nature. She reflects on ways that intangible aspects of life, such as faith, death and dreams influence behaviour and perception. Bùi’s works have been included in group exhibitions and presentations at Sharjah Art Foundation, UAE (2018); Mansfield Freeman Center, Wesleyan University, United States (2018); Haus der Kulturen der Welt, Berlin (2017); The Factory Contemporary Arts Centre, Vietnam (2016); and the Wellcome Collection, London (2013) amongst other venues.
+expertbio: "***Filmmaker*** | Lêna Bùi lives and works in Saigon, Vietnam. Her
+  works are sometimes amusing anecdotes and other times in-depth articulations
+  of the impact of rapid development on people's relationship with nature. She
+  reflects on ways that intangible aspects of life, such as faith, death and
+  dreams influence behaviour and perception. Bùi’s works have been included in
+  group exhibitions and presentations at Sharjah Art Foundation, UAE (2018);
+  Mansfield Freeman Center, Wesleyan University, United States (2018); Haus der
+  Kulturen der Welt, Berlin (2017); The Factory Contemporary Arts Centre,
+  Vietnam (2016); and the Wellcome Collection, London (2013) amongst other
+  venues."
 expertpic: /static/img/B_FS_SEC_VIS_1.jpg
 disname: Frederic Keck
 dispic: /static/img/b_fs_sec_vis_2.png
-disbio: >-
-  ***Discussant***
-
-
-  Frédéric Keck is a Senior Researcher at the Laboratory of Social Anthropology (CNRS-Collège de France-EHESS). After studying philosophy at the Ecole Normale Supérieure in Paris and Anthropology at the University of California at Berkeley , he has investigated the history of social anthropology and contemporary biopolitical questions raised by avian influenza. He was the director of the research department of the musée du quai Branly between 2014 and 2018. He published Claude Lévi-Strauss, une introduction (Pocket-La découverte, 2005), Lucien Lévy-Bruhl, entre philosophie et anthropologie (CNRS Editions, 2008) Un monde grippé ( Flammarion, 2010) and Avian Reservoirs : Virus Hunters and Birdwatchers in Chinese Sentinel Posts, (Duke University Press, 2020),. He has co-edited (with A. Lakoff) Sentinel devices,, Limn, 2013 and (with A. Kelly and C. Lynteris) Anthropology of Epidemics (Routledge, 2019).
+disbio: "***Discussant*** | Frédéric Keck is a Senior Researcher at the
+  Laboratory of Social Anthropology (CNRS-Collège de France-EHESS). After
+  studying philosophy at the Ecole Normale Supérieure in Paris and Anthropology
+  at the University of California at Berkeley , he has investigated the history
+  of social anthropology and contemporary biopolitical questions raised by avian
+  influenza. He was the director of the research department of the musée du quai
+  Branly between 2014 and 2018."
 readinglist:
   - quadreadtxt: " Asian Reservoirs: A Conversation with Frédéric Keck"
     quadreadlink: https://madeinchinajournal.com/2020/06/30/asian-reservoirs-a-conversation-with-frederic-keck/
@@ -64,7 +71,7 @@ relatedlist:
   - quadrelatedtxt: "Contagion in the 21st Century by Robert Koch Institute "
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedtxt: "A Cluster of 17 Cases "
+  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
