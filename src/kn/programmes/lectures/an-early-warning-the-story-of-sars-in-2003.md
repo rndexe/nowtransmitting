@@ -11,6 +11,7 @@ description: The world was taken by surprise when Covid-19 erupted in early
   disease it resulted in, was a forewarning of what we are experiencing today.
   This lecture looks at what happened during SARS and the lessons the world
   learned, and failed to learn from it.
+link: https://www.eventbrite.com/e/an-early-warning-the-story-of-sars-in-2003-lecture-tutorial-registration-152304148809
 expertname: Thomas Abraham
 expertbio: "Thomas Abraham is adjunct associate professor at the University of
   Hong Kong and a writer on health and disease. He is the author of Twenty First
