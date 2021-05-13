@@ -1,5 +1,6 @@
 ---
 title: Visualising mutations in the spike protein of the contagious agent SARS-CoV-2
+permalink: programmes/workshops/visualising-mutations-in-the-spike-protein-of-SARS-CoV-2/
 date: 2021-05-12T14:44:18.159Z
 description: “Mutations” has become a buzzword in the pandemic. Mutations are
   one of the factors behind the changing nature of contagions. Often they are
