@@ -12,7 +12,7 @@ description: Come be a part of a live experiment on collective behaviour and
   then come be a part of this event! Hear Daniel Richardson speak about
   fundamental ideas in social psychology, and learn from examples of the latest
   research on collective behaviour.
-link: https://www.eventbrite.com/e/how-ideas-and-behaviours-spread-through-a-crowd-event-registration-145820000547
+link: http://bit.ly/event-richardson
 expertname: "Daniel Richardson "
 expertbio: Daniel Richardson is a Professor of Experimental Psychology at
   University College London. Prior to that, he was an undergraduate at Magdalen
