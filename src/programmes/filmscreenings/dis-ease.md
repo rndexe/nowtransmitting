@@ -25,7 +25,7 @@ disbio: >-
   ***Discussant***
 
 
-  Rashmi Sawhney is a Bangalore-based cultural theorist and associate professor in Film and Cultural Studies at Christ University. She writes on cinema and the visual arts and is co-founder with Lucia Imaz King, of VisionMix (www.visionmix.info), an international network of artists, filmmakers and researchers. Curatorial projects include: Future Orbits and Video Vortex XI, both as collaterals of the 2017 Kochi Muziris Biennial; Set.Reset on ‘Cinema and Labour’ at The House of Inquiry, Goa, 2018; and Loss and Transience, Hong-Gah Museum, Taipei, March-May 2021. Recent edited volumes include: Women at Work: the Cultural and Creative Industries (2020) & The Moving Image: South Asian Trajectories (2018).
+  Rashmi Sawhney is a Bangalore-based cultural theorist and associate professor in Film and Cultural Studies at Christ University. She writes on cinema and the visual arts and is co-founder with Lucia Imaz King, of VisionMix ([www.visionmix.info](www.visionmix.info)), an international network of artists, filmmakers and researchers. Curatorial projects include: Future Orbits and Video Vortex XI, both as collaterals of the 2017 Kochi Muziris Biennial; Set.Reset on ‘Cinema and Labour’ at The House of Inquiry, Goa, 2018; and Loss and Transience, Hong-Gah Museum, Taipei, March-May 2021. Recent edited volumes include: Women at Work: the Cultural and Creative Industries (2020) & The Moving Image: South Asian Trajectories (2018).
 readinglist:
   - quadreadlink: https://www.theatlantic.com/health/archive/2014/08/the-trouble-with-medicines-metaphors/374982/
     quadreadtxt: The Trouble With Medicine's Metaphors
