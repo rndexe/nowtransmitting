@@ -32,21 +32,21 @@ expertbio: ಡಾ. ಗಿರೀಶ್‌ ಶಹಾನೆ ಮೂಲತಃ ಮು�
 expertpic: /static/img/pl_girish_portrait.png
 readinglist:
   - quadreadlink: https://thepolyphony.org/2020/06/16/art-in-isolation-artistic-responses-to-covid-19/
-    quadreadtxt: "Art in Isolation: Artistic Responses to COVID-19"
+    quadreadtxt: "ಪ್ರತ್ಯೇಕತೆಯ ನಡುವೆ ಕಲೆ : ಕೋವಿಡ್-19‌ ರೋಗಕ್ಕೆ ಕಲಾತ್ಮಕ ಪ್ರತಿಕ್ರಿಯೆ"
     quadreadvis: /static/img/d_pl_qua_readvis_1.png
   - quadreadlink: https://visualaids.org/gallery/detail/art-aids-and-activism
-    quadreadtxt: Art, AIDS, And Activism
+    quadreadtxt: ಕಲೆ, ಏಡ್ಸ್‌ ಮತ್ತು ಸಕ್ರಿಯತೆ
     quadreadvis: /static/img/d_pl_qua_readvis_2.png
   - quadreadlink: https://www.bbc.com/culture/article/20200514-how-art-has-depicted-plagues
-    quadreadtxt: What Plague Art Tells Us About Today
+    quadreadtxt: "ಪ್ಲೇಗ್ ಕುರಿತಂತಹ ಕಲೆಯು ವರ್ತಮಾನದ ಬಗೆಗೆ ಏನನ್ನು ತಿಳಿಸುತ್ತದೆ "
     quadreadvis: /static/img/d_pl_qua_readvis_3.png
 listeninglist:
   - quadlistlink: https://soundcloud.com/theucipodcast/the-arts-respond-to-covid-19
-    quadlisttxt: The Arts Respond to COVID-19
+    quadlisttxt: ಕೋವಿಡ್-19‌  ರೋಗಕ್ಕೆ ಕಲೆಯ ಮೂಲಕ ಪ್ರತಿಕ್ರಿಯೆ
     quadlistvis: /static/img/d_pl_qua_listvis_1.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=ul0LUuRp2oc
-    quadwatchtxt: How Pandemics Impact Art
+    quadwatchtxt: "ಕಲೆಯ ಮೇಲೆ ರೋಗ ಪಿಡುಗುಗಳ ಪ್ರಭಾವ "
     quadwatchvis: /static/img/d_pl_qua_watchvis_1.png
 eventlist:
   - quadeventtxt: ರೋಗ ಪಿಡುಗುಗಳ ಬಗೆಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲೆಯ ಸೃಷ್ಟಿ | ಕಾರ್ಯಾಗಾರ | ಮ್ಯಾಟ್ಟ್‌ ಆಡಮ್ಸ್
