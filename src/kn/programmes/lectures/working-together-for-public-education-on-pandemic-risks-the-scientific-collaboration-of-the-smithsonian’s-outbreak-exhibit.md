@@ -20,7 +20,7 @@ description: >-
   ಮಾನವರು ಮತ್ತು ಪ್ರಾಣಿಗಳು ಪರಸ್ಪರ ಅವಲಂಬಿಸಿರುವ ಈ ವಿಶ್ವದಲ್ಲಿ , ಹೊಸ ಬಗೆಯ ವೈರಾಣುಗಳು ಹೇಗೆ ಉಗಮಿಸಿ,   ಹರಡುತ್ತವೆ, ಎಂಬುದನ್ನು ಸಾರ್ವಜನಿಕರಿಗೆ ಅರ್ಥವಾಗುವಂತೆ ವಿವರಿಸಿ ತಿಳಿಸುವ ಸಲುವಾಗಿ, “ಔಟ್ ಬ್ರೇಕ್‌” ಪ್ರದರ್ಶಿಕೆಯ ವ್ಯವಸ್ಥಾಪಕರಾದ ಡಾ.ಶೋಲ್ಟ್ಸ್ ಮತ್ತು ತಂಡದ ಸದಸ್ಯರು, ಈ ಪ್ರದರ್ಶಿಕೆಯನ್ನು ಸಜ್ಜುಗೊಳಿಸಲು, ರೋಗ ತಜ್ಞ ವೈದ್ಯರಾದ ಡೇನಿಯಲ್‌ ಲೂಸೀ, (ಜಾರ್ಜ್‌ ಟೌನ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯ), ಸರ್ಕಾರಿ ವಿಜ್ಞಾನಿಗಳಾದ ಆಂಟನಿ ಫೌಸಿ (ರಾಷ್ಟ್ರೀಯ ಆರೋಗ್ಯ ಸಂಸ್ಥೆ) , ಮುಂತಾದ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಹಲವು ತಜ್ಞರೊಂದಿಗೆ ಸಂವಾದ ನೆಡೆಸಿ ಯಾವ ಬಗೆಯಲ್ಲಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸ ಬೇಕಾಯಿತು ಎಂದು ಈ ಉಪನ್ಯಾಸದಲ್ಲಿ ವಿವರಿಸಲಿದ್ದಾರೆ.
 link: http://bit.ly/lecture-sholts
 expertname: ಸಬ್ರೀನಾ ಶೋಲ್ಟ್ಸ್
-expertbio: 'ಡಾ.ಸಬ್ರೀನಾ ಶಾಲ್ಟ್ಸ್, “ ಔಟ್‌ ಬ್ರೇಕ್‌ : ”ವಾಶಿಂಗ್ಟನ್‌ ಡಿ.ಸಿ ಯಲ್ಲಿ ,
+expertbio: 'ಡಾ.ಸಬ್ರೀನಾ ಶಾಲ್ಟ್ಸ್, ಔಟ್‌ ಬ್ರೇಕ್‌: ವಾಶಿಂಗ್ಟನ್‌ ಡಿ.ಸಿ ಯಲ್ಲಿ ,
   ಸ್ಮಿತ್ಸೋನಿಯನ್‌ ರಾಷ್ಟ್ರೀಯ  ಪ್ರಾಕೃತಿಕ ಇತಿಹಾಸ ಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ಜೀವ ಮಾನವಶಾಸ್ತ್ರದ
   ವ್ಯವಸ್ಥಾಪಕರಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ. “ದಿ ಔಟ್‌ ಬ್ರೇಕ್:‌ ಎಪಿಡೆಮಿಕ್ಸ್‌ ಇನ್‌ ಎ
   ಕನೆಕ್ಟೆಡ್‌ ವರ್ಲ್ಡ್‌ " ಪ್ರದರ್ಶನದ ಮುಖ್ಯ  ವ್ಯವಸ್ಥಾಪಕರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸಿದ್ದಾರೆ.
@@ -34,10 +34,10 @@ expertbio: 'ಡಾ.ಸಬ್ರೀನಾ ಶಾಲ್ಟ್ಸ್, “ ಔಟ್
 expertpic: /static/img/pl_sabrina_portrait.png
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/why-this-pandemic-wont-be-last-180977135/
-    quadreadtxt: Why This Pandemic Won't Be the Last
+    quadreadtxt: ಈ ರೋಗ ಪಿಡುಗು ಅಂತ್ಯವಲ್ಲ , ಏಕೆ?
     quadreadvis: /static/img/U_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.weforum.org/agenda/2020/03/science-communication-covid-coronavirus/
-    quadreadtxt: "COVID-19: Never Has Clear Science Been More Vital"
+    quadreadtxt: "ಕೋವಿಡ್-19‌: ಶುದ್ಧ ವಿಜ್ಞಾನವು ಎಂದೂ ಇಷ್ಟು ಮುಖ್ಯವಾಗಿ ಕಂಡಿರಲಿಲ್ಲ"
     quadreadvis: /static/img/U_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/how-museums-can-help-public-make-sense-pandemics-180974281/
     quadreadtxt: How Museums Can Help the Public Make Sense of Pandemics
