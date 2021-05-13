@@ -2,7 +2,7 @@
 title: Visualising mutations in the spike protein of the contagious agent SARS-CoV-2
 permalink: programmes/workshops/visualising-mutations/
 cata: transmission
-catb: mapping
+catb: experimenting
 thumb: /static/img/wk_saurabh_thumbnail.png
 cover: /static/img/wk_saurabh_coverimage.png
 date: 2021-05-29T12:30:00.000Z
