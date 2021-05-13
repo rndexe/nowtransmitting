@@ -1,5 +1,6 @@
 ---
 title: "Knowledge Transmission: A Quiz on Contagions"
+permalink: programmes/events/knowledge-transmission-a-quiz-on-contagions/
 date: 2021-05-13T07:01:26.852Z
 description: Think you know all that there is to know about pandemics past,
   present and future? Then come take part in this quiz exploring all things
