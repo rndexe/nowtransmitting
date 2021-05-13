@@ -5,7 +5,7 @@ authortype: ತಂಡ
 thumb: /static/img/G_Exhibit_Thumbnail.jpg
 title: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ"
 subtitle: ದಿನನಿತ್ಯದ ತಂತ್ರಜ್ಞಾನದಲ್ಲಿರುವ ನಿಗೂಢತೆಯನ್ನು ಭೇದಿಸುವ ಪರಿ
-medium: "Explorables "
+medium: "ಅನ್ವೇಷಣಾತ್ಮಕ "
 year: "2016 "
 description: >-
   ಪ್ರಸಕ್ತ, ಬಹಳ ಸುಲಭವಾಗಿ ಯಾವುದೇ ಮಾಹಿತಿಯನ್ನು ನಾವು ಪಡೆಯ ಬಹುದಾಗಿದೆ.  ಆದರೆ, ಬಹಳಷ್ಟು
