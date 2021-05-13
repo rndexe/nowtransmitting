@@ -40,26 +40,24 @@ readinglist:
     quadreadtxt: "ಕೋವಿಡ್-19‌: ಶುದ್ಧ ವಿಜ್ಞಾನವು ಎಂದೂ ಇಷ್ಟು ಮುಖ್ಯವಾಗಿ ಕಂಡಿರಲಿಲ್ಲ"
     quadreadvis: /static/img/U_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/how-museums-can-help-public-make-sense-pandemics-180974281/
-    quadreadtxt: How Museums Can Help the Public Make Sense of Pandemics
+    quadreadtxt: ರೋಗ ಮಹಾಮಾರಿಗಳನ್ನು ಅರಿಯಲು ಸಂಗ್ರಹಾಲಯಗಳು ಹೇಗೆ ಸಹಕಾರಿಯಾಗುತ್ತವೆ?
     quadreadvis: /static/img/U_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.nature.com/articles/d41586-020-01589-x
-    quadlisttxt: "Coronavirus Conversations: Science Communication During A Pandemic"
+    quadlisttxt: ಕರೋನ ವೈರಾಣುವಿನ ಸಂವಾದಗಳು :ರೋಗ ಪಿಡುಗಿನ ನಡುವೆ ವೈಜ್ಞಾನಿಕ ಸಂಪರ್ಕ
     quadlistvis: /static/img/U_PL_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=lz2OzA5DcTQ
-    quadwatchtxt: Epidemics in a Connected World
+    quadwatchtxt: ಸಂಬದ್ಧ ವಿಶ್ವದಲ್ಲಿ ರೋಗ ಪಿಡುಗುಗಳು
     quadwatchvis: /static/img/U_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=PxOADSjadT0
-    quadwatchtxt: "Outbreak Week: Preventing Epidemics"
+    quadwatchtxt: "ಆಸ್ಫೋಟ ಸಪ್ತಾಹ: ರೋಗ ಪಿಡುಗುಗಳ ನಿವಾರಣೆ"
     quadwatchvis: /static/img/U_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-ramakrishnan
     quadeventtxt: One Health | ಉಪನ್ಯಾಸ | Uma Ramakrishnan
     quadeventvis: /static/img/pl_uma.png
-  - quadeventtxt: "ಪ್ರಭೇದಗಳ ನಡುವೆ ವ್ಯಾಪನಗಳು: ಪ್ರಾಣಿ-ಪಕ್ಷಿ ಮೂಲದಿಂದ ಹರಡುವ ರೋಗಗಳ
-      ಪರಿಸರಗಳು ಮತ್ತು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಜಾಗತಿಕ ಇತಿಹಾಸ | ಉಪನ್ಯಾಸ | ಮೈಖೇಲ್‌
-      ಬ್ರಸೇಲಿಯರ್‌"
+  - quadeventtxt: ಪ್ರಭೇದಗಳ ನಡುವೆ ವ್ಯಾಪನಗಳು | ಉಪನ್ಯಾಸ | ಮೈಖೇಲ್‌ ಬ್ರಸೇಲಿಯರ್‌
     quadeventlink: https://www.eventbrite.com/e/145405729451
     quadeventvis: /static/img/pl_michael.png
 relatedlist:
