@@ -1,5 +1,7 @@
 ---
 title: Creating Computer Viruses
+cata: trigger
+catb: mapping
 thumb: /static/img/wk_saurabh_thumbnail.png
 cover: /static/img/wk_saurabh_coverimage.png
 date: 2021-05-22T04:30:00.000Z
