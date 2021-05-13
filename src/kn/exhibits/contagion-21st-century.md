@@ -94,13 +94,13 @@ essay: >-
   *(Simulation (Dirk Brockmann) World air traffic, potential routes of deadly viruses)*
 
 
-  Robert Koch’s work changed the way we look at contagion and in the last century we have found ways to fight infectious diseases. But what if diseases like anthrax, tuberculosis and cholera are not the biggest threats to our existence anymore?
+  ರಾಬರ್ಟ್‌ ಕೋ ಕ್ ಅವರ ಕೊಡುಗೆಯು , ಸಾಂಕ್ರಾಮಿಕ ವ್ಯಾಪನಗಳ ಬಗೆಗೆ ನಮ್ಮ ದೃಷ್ಟಿಕೋನವನ್ನೇ ಬದಲಿಸಿದೆ.  ಹಿಂದಿನ ಶತಮಾನದಲ್ಲಿ, ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳನ್ನು ಎದುರಿಸುವ ಮಾರ್ಗಗಳನ್ನು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.  ಆದರೆ, ಆಂತ್ರಾಕ್ಸ್‌, ಟ್ಯೂಬರ್ ಕ್ಯುಲೋಸಿಸ್‌ ಮತ್ತು ಖಾಲೆರಾ ಅಂತಹ ರೋಗಗಳು ಮಾನವರ ಅಸ್ಥಿತ್ವಕ್ಕೆ ಮಾರಣಾಂತಕವಾಗಿ ಉಳಿದಿಲ್ಲವೇನೋ ಅನ್ನಿಸುತ್ತದೆ ? 
 
 
-  In late 2019 the world was hit by the largest pandemic since the Spanish flu of 1918. COVID-19 has resulted in more than a 100 milliion cases and cost over 2.5 million lives worldwide.
+  1918 ರಲ್ಲಿ ಸಂಭವಿಸಿದ ಅತ್ಯಂತ ದೊಡ್ಡ ರೋಗ ಪಿಡುಗು ಸ್ಪ್ಯಾನಿಷ್‌ ಫ್ಲೂ ವಿನ ಬಳಿಕ  2019 ರ ಅಂತ್ಯದಲ್ಲಿ ವಿಶ್ವವನ್ನು ಅಪ್ಪಳಿಸಿರುವ ಕೋವಿಡ್‌-19, 100 ದಶ ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಜನರನ್ನು ಪೀಡಿಸಿದೆ ಹಾಗೂ ವಿಶ್ವದೆಲ್ಲೆಡೆ, 2.5 ದಶ ಲಕ್ಷ ಜನರು ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ.  
 
 
-  Evidence-based science and vaccination remain the most effective ways of preventing and treating infection. So how worried should we really be, when we start to see the cracks in these concrete structures now holding the world of infectious medicine together? What should we do when we find that the rate at which these cracks get bigger surpasses our ability to fix them? Today, many have lost faith in science, and evidence-based knowledge appears less likely to be accepted than fake news and rumours which often feed on our inner fears and emotions. Have we gone against our most powerful allies in the battle against infectious disease and is this contagion of disbelief spreading faster than a deadly virus?
+  ಸಾಕ್ಷಿ ಆಧಾರಿತ ವಿಜ್ಞಾನ ಮತ್ತು ಲಸಿಕೆಗಳ ಅವಿಶ್ಕಾರದ ಮೂಲಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳನ್ನು ಸಮರ್ಪಕವಾಗಿ ತಡೆಗಟ್ಟ ಬಹುದು. ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ನಿವಾರಕ ಔಷಧಿಗಳನ್ನು ಪಡೆದಿರುವ ನಾವು, ಇಂತಹ ಬೃಹದಾಕಾರದ ಗಟ್ಟಿ ನಿಲುವಿನಲ್ಲಿ ಬಿರುಕುಗಳು ಗೋಚರಿಸಿದಾಗ, ನಿಜವಾಗಲೂ ಎಷ್ಟು ಚಿಂತಿಸ ಬೇಕು?  ಈ ಬಿರುಕುಗಳನ್ನು ಸರಿಪಡಿಸದೇ ಇರುವ ಸಂದರ್ಭ ಒದಗಿದರೆ ಏನು ಮಾಡ ಬೇಕು?  ಇಂದು ಬಹಳ ಜನರು ವಿಜ್ಞಾನದ ಸಾಕ್ಷಿ ಆಧಾರಿತ ಅರಿವಿನ ಬಗೆಗೆ ತಮ್ಮ ವಿಶ್ವಾಸವನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದಾರೆ. ನಮ್ಮ ಆಂತರಿಕ ಭೀತಿ ಮತ್ತು ಭಾವನೆಗಳನ್ನು ಜೊತೆಗೆ ಆಟ ಆಡುವ ಸುಳ್ಳು ಸುದ್ದಿಗಳು ಮತ್ತು ವದಂತಿಗಳನ್ನು ನಂಬುವಷ್ಟು ಸುಲಭವಾಗಿ ಸಾಕ್ಷಿ ಆಧಾರಿತ ಜ್ಞಾನವನ್ನು ಜನರು ಸ್ವೀಕರಿಸುವುದಿಲ್ಲ.  ಈ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳನ್ನು ಎದುರಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ, ನಮ್ಮ ಶಕ್ತಿಶಾಲಿ ಸಹಚರರ ವಿರುದ್ಧ ಸೆಣೆಸಾಡುತ್ತಿದ್ದೇವೆಯೇ ಮತ್ತು ಅಪನಂಬಿಕೆಯ ಸಾಂಕ್ರಾಮಿಕತೆಯು ಮಾರಣಾಂತಕ ವೈರಾಣುವಿಗಿಂತಲೂ ಹೆಚ್ಚು ರಬಸಸವಾಗಿ ಹರಡುತ್ತಿದೆಯೇ?
 
 
   *(Photos: Crisis communication RKI examples….  )*

@@ -60,13 +60,13 @@ listeninglist:
     quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Q4mTlRUbWwM
-    quadwatchtxt: COVID-19 Information Overload
+    quadwatchtxt: ಕೋವಿಡ್-19‌ ಮಾಹಿತಿ ಹೊರೆ
     quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_1.jpg
-  - quadwatchtxt: Is Social Media Hurting Your Mental Health
+  - quadwatchtxt: "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳು ನಿಮ್ಮ ಮಾನಸಿಕ ಆರೋಗ್ಯವನ್ನು ಕೆಡಸುತ್ತಿವೆಯೇ "
     quadwatchlink: https://www.youtube.com/watch?v=Czg_9C7gw0o&pbjreload=101
     quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
-    quadwatchtxt: Breaking the News Cycle
+    quadwatchtxt: ವಾರ್ತಾ ಆವರ್ತನವನ್ನು ಭೇದಿಸುತ್ತಾ
     quadwatchvis: /static/img/b_exhibit_qua_watchvis_3.jpg
 play:
   - quadplaytxt: ಗೋ ವೈರಲ್‌
