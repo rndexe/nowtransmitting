@@ -58,7 +58,7 @@ watchinglist:
     quadwatchvis: /static/img/M_WK_QUA_WATCHVIS_1.jpg
 eventlist: []
 relatedlist:
-  - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
+  - quadrelatedtxt: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎರಡು ನಗರದ ಕಥೆಗಳು | ಸೋನಿಯಾ ಶಾ"
     quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
     quadrelatedvis: /static/img/K_Exhibit_Thumbnail.jpg
 ---
