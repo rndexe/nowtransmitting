@@ -5,7 +5,7 @@ cata: spillover
 catb: experimenting
 thumb: /static/img/pl_gagandeep.png
 cover: /static/img/O_PL_Coverimage.jpg
-date: 2021-05-12T05:10:36.371Z
+date: 2021-05-28T13:00:00.000Z
 description: >-
   The COVID-19 pandemic has reinforced the role of science in society, policy,
   and public health communication. It is clear that we need accurate and
