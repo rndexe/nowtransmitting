@@ -35,7 +35,7 @@ readinglist:
 listeninglist:
   - quadlistvis: /static/img/s_pl_qua_listvis_1.jpg
     quadlistlink: https://open.spotify.com/episode/6ybey3OXAR3beQMjzEHBjB
-    quadlisttxt: "ಕರೋನ ವೈರಾಣು : ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಶಾಸ್ತ್ರ 101"
+    quadlisttxt: "ಕರೋನ ವೈರಾಣು: ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಶಾಸ್ತ್ರ 101"
 watchinglist:
   - quadwatchvis: /static/img/s_pl_qua_watchvis_1.jpg
     quadwatchlink: https://www.youtube.com/watch?v=KAuwReLSRQg&t=17s
