@@ -1,13 +1,16 @@
 ---
 title: "Knowledge Transmission: A Quiz on Contagions"
 permalink: programmes/events/knowledge-transmission-a-quiz-on-contagions/
-date: 2021-05-13T07:01:26.852Z
+thumb: /static/img/ev_quiz_thumbnail.png
+cover: /static/img/ev_quiz_coverimage.png
+date: 2021-05-23T08:30:00.000Z
 description: Think you know all that there is to know about pandemics past,
   present and future? Then come take part in this quiz exploring all things
   contagious! Questions will be around various interesting facts and stories
   regarding epidemics and contagions. For all the registered participants, there
   will be a preliminary round from which the top 8 participants will make it to
   the finals. The prelims will be held on WikiQuiz and the finals on Zoom.
+link: http://bit.ly/quiz-udupa
 expertname: Thejaswi Udupa
 expertbio: >-
   Thejaswi Udupa is the Chief Technology Officer at RoofandFloor, a digital real
