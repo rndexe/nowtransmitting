@@ -30,8 +30,7 @@ expertbio: >-
 expertpic: /static/img/pl_madhav_portrait.png
 readinglist:
   - quadreadlink: https://www.thehindu.com/sci-tech/health/coronavirus-densely-packed-areas-in-cities-are-vulnerable-says-biocomplexity-expert-madhav-marathe/article31195212.ece
-    quadreadtxt: Densely-packed Areas In Cities Are Vulnerable, Says Biocomplexity
-      Expert Madhav Marathe
+    quadreadtxt: ಸಂಗಣಕಾತ್ಮಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಶಾಸ್ತ್ರ ಹಾಗೂ ಸಾಮಾಜಿಕ
     quadreadvis: /static/img/V_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nature.com/articles/s41562-020-0884-z
     quadreadtxt: Using Social and Behavioural Science to Support COVID-19 Pandemic Response
@@ -41,15 +40,15 @@ readinglist:
     quadreadvis: /static/img/V_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/58OnO6V0CJQu9T9k8P6jEK
-    quadlisttxt: Smells Like Team Spirit
+    quadlisttxt: ತಂಡದ ಸ್ಪೂರ್ತಿಯೇನೋ ಎಂಬಂತೆ ತೋರುತ್ತದೆ
     quadlistvis: /static/img/V_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/5GOA5KbDJshKCLyWeHDYIP
-    quadlisttxt: "Using Technology to Investigate the Inner Workings of Large Networks "
+    quadlisttxt: ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸಿಕೊಂಡು, ಬೃಹತ್‌ ಜಾಲತಾಣಗಳ ಆಂತರಿಕ ಕಾರ್ಯ ನಿರ್ವಹಣೆಯ ತನಿಕೆ
     quadlistvis: /static/img/pl_madhav.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Js62DIn-BZ4
-    quadwatchtxt: "Real-time Pandemic Planning And Response: Experiences From The
-      COVID-19 Pandemic"
+    quadwatchtxt: "ನೈಜ ಕಾಲಮಾನದಲ್ಲಿ ರೋಗ ಪಿಡುಗಿಗೆ ಯೋಜನೆಗಳು ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆ:
+      ಕೋವಿಡ್-19‌ ಪಿಡುಗಿನಿಂದ ದೊರೆತ ಅನುಭವಗಳು"
     quadwatchvis: /static/img/V_PL_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಪ್ರತಿರೂಪಗಳನ್ನು (ಮಾಡಲ್‌) ಏಕೆ ರೂಪಿಸ ಬೇಕು, ಹೇಗೆ
