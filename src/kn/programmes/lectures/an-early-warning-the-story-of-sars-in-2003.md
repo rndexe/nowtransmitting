@@ -22,20 +22,20 @@ expertbio: "Thomas Abraham is adjunct associate professor at the University of
 readinglist:
   - quadreadvis: /static/img/s_pl_qua_readvis_1.jpg
     quadreadlink: https://www.theguardian.com/global/commentisfree/2020/jan/23/china-coronavirus-sars-cover-up-beijing-disease-dissent
-    quadreadtxt: "China’s Response To The Coronavirus Shows What It Learned From the
-      SARS Cover-Up "
+    quadreadtxt: "ಕರೋನ ವೈರಾಣುವಿನ ವಿರುದ್ಧ ಚೀನಾ ದೇಶದ ಪ್ರತಿಕ್ರಿಯೆಯು, ಸಾರ್ಸ್‌ ರೋಗ
+      ಪಿಡುಗಿನಿಂದ ಚೀನಾ ಪಡೆದ ಕಲಿಕೆಯನ್ನು ನಿದರ್ಶಿಸುತ್ತದೆ. "
   - quadreadvis: /static/img/s_pl_qua_readvis_2.jpg
     quadreadlink: https://www.scientificamerican.com/article/lessons-from-past-outbreaks-could-help-fight-the-coronavirus-pandemic1/
-    quadreadtxt: Lessons from Past Outbreaks Could Help Fight the Coronavirus Pandemic
+    quadreadtxt: ಗತ ಪಿಡುಗುಗಳಿಂದ ದೊರೆತ ಅನುಭವವು, ಕರೋನ ರೋಗ ಪಿಡುಗನ್ನು ಎದುರಿಸಲು ಸಹಕಾರಿಯಾಗ ಬಹುದು.
   - quadreadvis: /static/img/s_pl_qua_readvis_3.jpg
     quadreadlink: https://www.theatlantic.com/international/archive/2020/03/hong-kong-sars-china-coronavirus-covid19/608131/
-    quadreadtxt: A Glimpse of the Coronavirus’s Possible Legacy
+    quadreadtxt: ಕರೋನ ವೈರಾಣುವಿನ ಸಂಭಾವ್ಯ ಪರಂಪರೆಯ ಒಂದು ನೋಟ
 listeninglist:
   - quadlistvis: /static/img/s_pl_qua_listvis_1.jpg
     quadlistlink: https://open.spotify.com/episode/6ybey3OXAR3beQMjzEHBjB
-    quadlisttxt: "Coronavirus: Epidemiology 101"
+    quadlisttxt: "ಕರೋನ ವೈರಾಣು : ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಶಾಸ್ತ್ರ 101"
 watchinglist:
   - quadwatchvis: /static/img/s_pl_qua_watchvis_1.jpg
     quadwatchlink: https://www.youtube.com/watch?v=KAuwReLSRQg&t=17s
-    quadwatchtxt: Why Did SARS and MERS Disappear Quicker?
+    quadwatchtxt: ಸಾರ್ಸ್‌ ಮತ್ತು ಮೆರ್ಸ್‌ ರೋಗಗಳು ಏಕೆ ಬಹು ಬೇಗ ಮರೆಯಾದವು ?
 ---
