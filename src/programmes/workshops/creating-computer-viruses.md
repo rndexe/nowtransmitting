@@ -1,5 +1,6 @@
 ---
 title: Creating Computer Viruses
+permalink: programmes/workshops/creating-computer-viruses/
 cata: trigger
 catb: mapping
 thumb: /static/img/wk_saurabh_thumbnail.png
