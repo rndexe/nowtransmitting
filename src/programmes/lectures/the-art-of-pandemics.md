@@ -47,17 +47,17 @@ watchinglist:
     quadwatchtxt: How Pandemics Impact Art
     quadwatchvis: /static/img/d_pl_qua_watchvis_1.png
 eventlist:
-  - quadeventtxt: Creating Interactive Art About Pandemics | Workshop by Matt Adams
-    quadeventlink: http://bit.ly/masterclass-adams
+  - quadeventtxt: Creating Interactive Art About Pandemics | Masterclass | Matt Adams
+    quadeventlink: https://nowtransmitting.com/programmes/workshops/creating-interactive-art-about-pandemics/
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
   - quadeventtxt: A Human Question | Film Discussion
     quadeventlink: http://bit.ly/films-jayashree
     quadeventvis: /static/img/fs_jayashree_thumbnail.png
 relatedlist:
-  - quadrelatedtxt: "A Cluster of 17 Cases by Blast Theory\t"
+  - quadrelatedtxt: "A Cluster of 17 Cases | Blast Theory\t"
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedtxt: "Fluid Dialogues by Basse Stittgen\t"
+  - quadrelatedtxt: "Fluid Dialogues | Basse Stittgen\t"
     quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_1.jpg
 ---

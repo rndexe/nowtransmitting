@@ -1,5 +1,5 @@
 ---
-title: "The Periwig-Maker "
+title: ದಿ ಪೆರಿವಿಗ್‌ ಮೇಕರ್
 permalink: kn/programmes/films/the-periwig-maker/
 cata: spillover
 catb: narrating
@@ -7,16 +7,18 @@ thumb: /static/img/A_FS_Screenings.jpg
 cover: /static/img/A_FS_Screenings.jpg
 date: 2021-05-03T07:56:39.229Z
 description: >-
-  **1999 | English | 15 Minutes | Germany and UK** 
+  **1999 | ಇಂಗ್ಲಿಷ್ | 15 ನಿಮಿಷಗಳು | ಜರ್ಮನಿ ಮತ್ತು ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರ**  
 
 
-  London, 1665. The plague has reached its peak. The periwig-maker has sealed himself off from the outside to escape the danger of infection. Through his shop window he observes the dying in the street and reflects on the causes and consequences of the epidemic. When a young girl seeks his help he makes a fateful decision. This Oscar nominated film is loosely based on Daniel Defoe’s ‘A Journal of the Plague Year’, and has been screened at over 100 international film festivals.
+  ಲಂಡನ್, 1665. ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯು ಎಲ್ಲೆಲ್ಲಿಯೂ ಹರಡಿದೆ.  ಕೃತಕ ಆಲಂಕಾರಿಕ ಕೇಶ ರಚನಾಕಾರನು ಸಾಂಕ್ರಾಮಿಕದಿಂದ ತನ್ನನ್ನು ರಕ್ಷಿಸಿಕೊಳ್ಳಲು, ತನ್ನ ಅಂಗಡಿಯ ಎಲ್ಲಾ ಕದ ಕಿಟಕಿಗಳನ್ನೂ ಭದ್ರವಾಗಿ ಹಾಕಿಕೊಂಡು ಒಳಗೇ ಇದ್ದಾನೆ. ಅಂಗಡಿಯ ಕಿಟಕಿಯಿಂದ ರಸ್ತೆಯಲ್ಲಿ ಈ ರೋಗ ಮಹಾಮಾರಿಗೆ  ತುತ್ತಾಗಿ ಸಾಯುತ್ತಿರುವವರನ್ನು ನೋಡಿ, ಈ ಪಿಡುಗಿನ ಕಾರಣಗಳು ಮತ್ತು ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ತನ್ನಲ್ಲೇ ಚಿಂತಿಸುತ್ತಾನೆ.  ಒಬ್ಬ ಚಿಕ್ಕ ವಯಸ್ಸಿನ ಹುಡುಗಿಯು ಸಹಾಯ ಬೇಡಿದಾಗ , ಅದೃಷ್ಟವನ್ನು ನಂಬಿ,  ಬಹು ಮುಖ್ಯವಾದ ನಿರ್ಣಯವನ್ನು ಮಾಡುತ್ತಾನೆ.  ಆಸ್ಕರ್‌ ಪುರಸ್ಕಾರಕ್ಕೆ ನಾಮಾಂಕಿತಗೊಂಡ ಈ ಚಲನಚಿತ್ರವು, ʼಡೇನಿಯಲ್ ಡೆಫೋʼ ಅವರ ʼಎ ಜರ್ನಲ್‌ ಆಫ್‌ ದಿ ಪ್ಲೇಗ್‌ ಇಯರ್‌ ʼ ಕೃತಿಯನ್ನು ಆಧರಿಸಿ ರಚಿಸಲಾಗಿದೆ. 100  ಕ್ಕೂ ಹೆಚ್ಚು ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಚಲನ ಚಿತ್ರ ಉತ್ಸವಗಳಲ್ಲಿ , ಈ ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗಿದೆ.
 link: ""
 reclink: https://player.vimeo.com/video/543012409
-expertname: Ideal Standard Film
-expertbio: >
-  
-  Annette and Steffen Schäffler, sister and brother, studied at film schools in Germany and founded their production company Ideal Standard Film in 1994. They went on to produce several short films and a 60 minute documentary. In most of their projects Steffen is the director and Annette the producer. The Periwig-Maker was their first animated short film, won more than 30 international prizes and was nominated for a Bafta and an Oscar.
+expertname: "ಸ್ಟೆಫನ್‌ ಶ್ಯಾಫ್ಲರ್‌  "
+expertbio: >-
+  ***ನಿರ್ದೇಶಕರು***
+
+
+  ಅನೆಟ್‌ ಮತ್ತು ಸ್ಟೆಫನ್‌ ಶ್ಯಾಫ್ಲರ್‌ :    ಅನೆಟ್‌ ಮತ್ತು ಸ್ಟೆಫನ್‌ ಶ್ಯಾಫ್ಲರ್‌  , ಈ   ಸೋದರ ಸೋದರಿ ಯರ ಜೋಡಿಯು ಜರ್ಮನಿಯ ಚಲನ ಚಿತ್ರ ಶಾಲೆಗಳಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಿ, “ಐಡಿಯಲ್‌ ಸ್ಟಾಂಡರ್ಡ್‌ “ ಎಂಬ ಹೆಸರಿನ ತಮ್ಮದೇ ಚಲನ ಚಿತ್ರ ನಿರ್ಮಾಣ ಕಂಪನಿಯನ್ನು  1994 ರಲ್ಲಿ ಸ್ಥಾಪಿಸಿದರು.  ಅನೇಕ ಕಿರು ಚಲನ ಚಿತ್ರಗಳನ್ನು ಮತ್ತು 60 ನಿಮಿಷದ  ಒಂದು ಸಾಕ್ಷ್ಯ ಚಿತ್ರವನ್ನು ನಿರ್ಮಿಸಿದ್ದಾರೆ.  ತಮ್ಮ ಬಹಳಷ್ಟು ಚಿತ್ರ ಯೋಜನೆಗಳಲ್ಲಿ, ಸ್ಟೆಫನ್‌, ನಿರ್ದೇಶಕರಾಗಿಯೂ ಮತ್ತು ಅನೆಟ್‌ ನಿರ್ಮಾಪಕರಾಗಿಯೂ ಕಾರ್ಯ ನಿರ್ವಹಿಸಿದ್ದಾರೆ. ‘ದಿ ಪೆರಿವಿಗ್‌ ಮೇಕರ್ʼ‌, ಈ    ಜೋಡಿಯು  ನಿರ್ಮಿಸಿದ ಮೊದಲ ಸಂಚಾಲಿತ‌ (ಆನಿಮೇಟೆಡ್) ಕಿರು ಚಿತ್ರವಾಗಿದೆ.  ಈ ಚಿತ್ರಕ್ಕೆ  30 ಕ್ಕೂ ಹೆಚ್ಚು ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಪುರಸ್ಕಾರಗಳು ಲಭಿಸಿವೆ, ಹಾಗೂ ʼಬಾಫ್ತʼ ಮತ್ತು ʼಆಸ್ಕರ್ʼ‌ ಪುರಸ್ಕಾರಕ್ಕೆ ನಾಮಾಂಕಿತಗೊಂಡಿದೆ.
 expertpic: /static/img/A_FS_SEC_VIS_1.jpg
 readinglist:
   - quadreadtxt: "Quarantine Culture Recommendations: “Better Call Saul,” “Designing
@@ -50,10 +52,10 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-tumbe
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
-  - quadrelatedtxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar "
+  - quadrelatedtxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್‌  ಚಿತ್ರಾಕೃತಿ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ "
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
-  - quadrelatedtxt: "Controlling the Plague in British India by Christos Lynteris "
+  - quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
 ---

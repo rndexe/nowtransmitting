@@ -34,40 +34,40 @@ readinglist:
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/oct/12/covid-19-treatable-vaccines-treatments
     quadreadtxt: Soon Covid-19 Will Be Treatable, But It Shouldn't Just Be The Rich
       Who Benefit
-    quadreadvis: /static/img/f_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/W_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.weforum.org/agenda/2019/08/important-tool-in-healthcare-is-trust-vaccines-africa/
     quadreadtxt: Why The Most Important Tool In Healthcare Is Trust
-    quadreadvis: /static/img/f_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/W_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/apr/18/coronavirus-knows-no-international-borders-neither-must-its-eventual-cure
     quadreadtxt: Coronavirus Knows No International Borders, Neither Must Its Eventual Cure
-    quadreadvis: /static/img/f_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/W_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/0SA3JUaHWsla4tnYJSATJV
     quadlisttxt: Pandemics Past and Present
-    quadlistvis: /static/img/f_exhibit_qua_atnvis_2.jpg
+    quadlistvis: /static/img/W_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/2IoTsZSFVqBwIzCSEM2k4o
     quadlisttxt: "Coronavirus Crisis Update: Live from Munich"
-    quadlistvis: /static/img/f_exhibit_qua_atnvis_2.jpg
+    quadlistvis: /static/img/W_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=ef-0Ytnd4Wg
     quadwatchtxt: How We Can Outsmart Epidemics
-    quadwatchvis: /static/img/f_exhibit_qua_atnvis_2.jpg
+    quadwatchvis: /static/img/W_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=W7LOiIHuhTU
     quadwatchtxt: Strategies to Mitigate the Rippling Impact of COVID-19
-    quadwatchvis: /static/img/f_exhibit_qua_atnvis_2.jpg
+    quadwatchvis: /static/img/W_PL_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: Visualising the Virus | Workshop by Gabriela Aquije Zegarra
+  - quadeventtxt: Visualising the Virus | Workshop | Gabriela Aquije Zegarra
     quadeventlink: http://bit.ly/workshop-aquije
     quadeventvis: /static/img/wk_gabriela.png
   - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
-      Lecture by Sheila Jasanoff"
-    quadeventlink: https://bit.ly/lecture-jasanoff
+      Lecture | Sheila Jasanoff"
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/control-consensus-chaos/
     quadeventvis: /static/img/pl_sheila.jpg
 relatedlist:
-  - quadrelatedtxt: Moulding Modern Medicine
+  - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
     quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedtxt: Contagion in the 21st Century by Esther-Maria Antao
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

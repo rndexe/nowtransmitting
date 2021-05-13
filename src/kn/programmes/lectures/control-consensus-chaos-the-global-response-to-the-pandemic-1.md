@@ -41,42 +41,41 @@ readinglist:
     quadreadvis: /static/img/K_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nature.com/articles/450033a
     quadreadtxt: Technologies of Humility
-    quadreadvis: /static/img/pl_sheila.jpg
+    quadreadvis: /static/img/K_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.hks.harvard.edu/faculty-research/policy-topics/health/fallacies-hard-truths-and-lessons-learned-global-response
     quadreadtxt: Fallacies, Hard Truths, and Lessons Learned from the Global
       Response to COVID-19
-    quadreadvis: /static/img/pl_sheila.jpg
+    quadreadvis: /static/img/K_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://upclose.unimelb.edu.au/episode/370-twin-engines-truth-how-science-and-law-interact-construct-our-world
     quadlisttxt: Twin Engines Of Truth? How Science and Law Interact to Construct Our World
-    quadlistvis: /static/img/pl_sheila.jpg
+    quadlistvis: /static/img/K_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/5l3bDEqrhJhJj3sSUppndY?si=ldL-e0_mRS6xg4gfm92IlQ
     quadlisttxt: "COVID-19: Can We Compare Different Countries?"
-    quadlistvis: /static/img/pl_sheila.jpg
+    quadlistvis: /static/img/K_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=0idthcqapD8
     quadwatchtxt: " Can Science Make Sense of Life?"
-    quadwatchvis: /static/img/pl_sheila.jpg
+    quadwatchvis: /static/img/K_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=VrzpfnpS4LA
     quadwatchtxt: What is Uncertainty, and Why Does It Matter?
-    quadwatchvis: /static/img/pl_sheila.jpg
+    quadwatchvis: /static/img/K_PL_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=i3uG3JWkTOI
     quadwatchtxt: " Ignorance Is Bliss: COVID-19 and the Politics of Knowledge"
-    quadwatchvis: /static/img/pl_sheila.jpg
+    quadwatchvis: /static/img/k_pl_qua_watchvis_3.jpg
 eventlist:
-  - quadeventtxt: "Science, Innovation and Society: What Have We Learnt From the
-      Covid-19 Pandemic? | Lecture by Sir Jeremy Farrar"
+  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
+      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
     quadeventlink: https://bit.ly/lecture-farrar
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
-  - quadeventtxt: Working Together For Public Education On Pandemic Risks | Lecture
-      by Sabrina Sholts
+  - quadeventtxt: ವೈಜ್ಞಾನಿಕ | ಉಪನ್ಯಾಸ | ಸಬ್ರೀನಾ ಶಾಲ್ಟ್ಸ್‌
     quadeventlink: http://bit.ly/lecture-sholts
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
-  - quadrelatedtxt: Contagion in the 21st Century by Esther Maria-Antao
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
-    quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazan, John Bush, Kasim Khan
+    quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

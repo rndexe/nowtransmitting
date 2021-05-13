@@ -19,34 +19,21 @@ description: >-
 link: http://bit.ly/films-pratt
 expertname: "Arthur Pratt "
 expertbio: >-
-  Arthur is a co-founder of the Freetown Media Centre in Sierra Leone, which
-  serves as a hub for local production, media education and professional
-  development where he serves as Manager in charge of Education and Creative
-  Initiative; he is also a Christian Evangelist and community leader. Starting
-  as a playwright, stage director and actor. Arthur helped develop and acted in
-  three of WeOwnTV-produced short films, CHARITY, BEND DOWN THE CORNER, AND THE
-  CRIPPLE AND THE WITCH HUNTER, which were shown in the Madrid Film Festival in
-  2009/2010. 
+  ***Filmmaker***
+
+
+  Arthur is a co-founder of the Freetown Media Centre in Sierra Leone, which serves as a hub for local production, media education and professional development where he serves as Manager in charge of Education and Creative Initiative; he is also a Christian Evangelist and community leader. Starting as a playwright, stage director and actor. Arthur helped develop and acted in three of WeOwnTV-produced short films, CHARITY, BEND DOWN THE CORNER, AND THE CRIPPLE AND THE WITCH HUNTER, which were shown in the Madrid Film Festival in 2009/2010. 
 
 
   Arthur’s interest then grew from a man displaying his talents in front of the camera to man working behind it. In 2010, he shot, and produced his first short film, BLACK SUGAR. Later in the same year, he wrote, directed and produced the widely acclaimed short film on the Trans- Atlantic slave trade, THEY RESISTED, which was screened in Clap Ivoir (Ivory Coast film festival). Arthur has also played the role of cinematographer and editor in films such as M’PORA, CRY OF THE COUNTRY VIRGIN, WHY ME?, WINTER IN FREETOWN, HUSTLER, LAND GRAB, SOCIAL INJUSTICES  and several documentaries which were aired on the Sierra Leone Broadcasting Corporation Television (SLBC).
 expertpic: /static/img/C_FS_SEC_VIS_1.jpg
 disname: "David Heymann "
 dispic: /static/img/C_FS_SEC_VIS_2.jpg
-disbio: David Heymann is a medical epidemiologist and Professor of Infectious
-  Disease Epidemiology at LSHTM, is a distinguished fellow at the Centre on
-  Universal Health at Chatham House (London), and was chairman of the board of
-  Public Health England from 2009 - 2015. From 1989 to 2009 he held various
-  leadership positions in infectious diseases at WHO, and in 2003 headed the WHO
-  global response to SARS in his role as executive director of communicable
-  diseases. In 1976, after spending two years working in India on smallpox
-  eradication, Heymann was a member of the CDC (Atlanta) team to investigate the
-  first Ebola outbreak in DRC and stayed on in sub-Saharan Africa for 13 years
-  in various field research positions on Ebola, monkeypox, Lassa Fever, malaria
-  and other tropical diseases. Heymann has published over 250 peer reviewed
-  articles and book chapters, is editor of the Control of Communicable Diseases
-  Manual, and is an elected member of the UK Academy of Medical Sciences and the
-  US National Academy of Medicine.
+disbio: >-
+  ***Discussant***
+
+
+  David Heymann is a medical epidemiologist and Professor of Infectious Disease Epidemiology at LSHTM, is a distinguished fellow at the Centre on Universal Health at Chatham House (London), and was chairman of the board of Public Health England from 2009 - 2015. From 1989 to 2009 he held various leadership positions in infectious diseases at WHO, and in 2003 headed the WHO global response to SARS in his role as executive director of communicable diseases. In 1976, after spending two years working in India on smallpox eradication, Heymann was a member of the CDC (Atlanta) team to investigate the first Ebola outbreak in DRC and stayed on in sub-Saharan Africa for 13 years in various field research positions on Ebola, monkeypox, Lassa Fever, malaria and other tropical diseases. Heymann has published over 250 peer reviewed articles and book chapters, is editor of the Control of Communicable Diseases Manual, and is an elected member of the UK Academy of Medical Sciences and the US National Academy of Medicine.
 readinglist:
   - quadreadtxt: "Survivors: Community Engagement and Education"
     quadreadlink: https://pov-tc.pbs.org/pov/downloads/2018/pov-survivors-discussion-guide.pdf

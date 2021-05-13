@@ -28,23 +28,32 @@ readinglist:
   - quadreadlink: https://theconversation.com/vaccine-hesitancy-is-not-new-history-tells-us-we-should-listen-not-condemn-150884
     quadreadtxt: Vaccine Hesitancy Is Not New – History Tells Us We Should Listen,
       Not Condemn
-    quadreadvis: /static/img/wk_hannah.png
+    quadreadvis: /static/img/J_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/how-cia-fake-vaccination-campaign-endangers-us-all/
     quadreadtxt: How the CIA’s Fake Vaccination Campaign Endangers Us All
-    quadreadvis: /static/img/wk_hannah.png
+    quadreadvis: /static/img/J_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://wellcomecollection.org/articles/WsT4Ex8AAHruGfXd
     quadreadtxt: The Child Whose Town Rejected Vaccines
-    quadreadvis: /static/img/wk_hannah.png
+    quadreadvis: /static/img/J_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/27cKa1Mve5fwYSyJERPwUP
     quadlisttxt: "Invisible Impact: How Vaccines Seem to Make Diseases Disappear"
-    quadlistvis: /static/img/wk_hannah.png
+    quadlistvis: /static/img/J_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=O6pL1YpI2x8
     quadwatchtxt: What Lies Ahead For COVID-19 Vaccines In 2021?
-    quadwatchvis: /static/img/wk_hannah.png
+    quadwatchvis: /static/img/J_WK_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=H41EukE3fxg
     quadwatchtxt: "Vaccines in 2021: COVID-19 Vaccine Communication, Misinformation,
       and Fear"
-    quadwatchvis: /static/img/wk_hannah.png
+    quadwatchvis: /static/img/J_WK_QUA_WATCHVIS_2.jpg
+eventlist:
+  - quadeventtxt: "COVID-19 Vaccines: Present and Future | Lecture by Gagandeep Kang"
+    quadeventlink: http://bit.ly/lecture-kang
+    quadeventvis: /static/img/pl_gagandeep.png
+relatedlist:
+  - quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazant, John Bush,
+      and Kasim Khan
+    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+    quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
 ---

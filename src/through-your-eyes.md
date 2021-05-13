@@ -1,4 +1,5 @@
 ---
+promptd: Isolation
 layout: rooms/throughyoureyes
 title: Through your Eyes
 description: >-
@@ -12,14 +13,13 @@ icon: /static/img/through-your-eyes.svg
 prompta: Behind the Mask
 promptb: Bubble
 promptc: Home
-promptd: Isolation
 promptAlist:
   - coverimage: /static/img/tye_4_loganathan_mask_a.jpg
     name: Sri Loganathan Velmurugan
-    bio: Sri Loganathan Velmurugan is pursuing his Bachelor's in Journalism at
-      Madras Christian College. He is also a founding member of Photo Meet
-      Chennai, a Tamil Nadu-based photo community that conducts photo walks and
-      various photography-related activities in Tamilnadu.
+    bio: Sri Loganathan is a Journalism graduate from Madras Christian College. His
+      interest in Photojournalism began at a very young age of 14. He aspires to
+      become a photojournalist and he involves himself to find distinctive
+      frames which speak for themselves.
     caption: An old man is seen showing his token to collect wine bottles from Tamil
       Nadu State Marketing Corporation (TASMAC) during lockdown.
   - coverimage: /static/img/tye_4_loganathan_mask_c.jpg
@@ -42,10 +42,9 @@ promptAlist:
       eyes is to draw attention to how we've physically and mentally withdrawn
       ourselves from each other during the pandemic.
     name: "Syona Thomas "
-    bio: Syona Thomas is pursuing her Master’s in Botany Master's at St. Joseph’s
-      College, Bangalore. Apart from being a full-time student, she loves taking
-      photographs, playing the guitar, watching stars, and questioning the birth
-      and purpose of the universe.
+    bio: Syona is pursuing her Master's in Botany at St. Joseph's College,
+      Bengaluru. Apart from being a full-time student, she loves taking
+      photographs, playing the guitar and watching the stars.
 promptBlist:
   - coverimage: /static/img/tye_3_aakanksha_bubble_a.jpg
     caption: Like a thin membrane holding a drop of water in a dewdrop, our lives
@@ -67,12 +66,12 @@ promptBlist:
       through a deadly pandemic.
 promptClist:
   - coverimage: /static/img/9_kamesh_home_a.jpg
-    bio: "Kamesh Bharadwaj is a documentary photographer and film-maker based in
+    bio: Kamesh Bharadwaj is a documentary photographer and film-maker based in
       Bangalore. His interests lie primarily in stories related to the
       environment, culture, and its various intersections in Indian society.
       Through his photographs, he hopes to engage in conversations around
       climate change, action, and justice; and document its immediate and
-      indirect effects in the Global South."
+      indirect effects in the Global South.
     name: Kamesh Bharadwaj
     caption: "Like many of us in 2020 I, too, was fascinated by the concept of home.
       What is it about these boxes we build and shut ourselves in that are so
@@ -111,10 +110,10 @@ promptDlist:
       liquor from Tamil Nadu State Marketing Corporation (TASMAC) during
       lockdown.
     name: Sri Loganathan Velmurugan
-    bio: Sri Loganathan Velmurugan is pursuing his Bachelor's in Journalism at
-      Madras Christian College. He is also a founding member of Photo Meet
-      Chennai, a Tamil Nadu-based photo community that conducts photo walks and
-      various photography-related activities in Tamilnadu.
+    bio: Sri Loganathan is a Journalism graduate from Madras Christian College. His
+      interest in Photojournalism began at a very young age of 14. He aspires to
+      become a photojournalist and he involves himself to find distinctive
+      frames which speak for themselves.
   - coverimage: /static/img/tye_13_ananya_iso_a.jpg
     bio: Ananya Rao Kedige is pursuing her Master's in Bioinformatics at Manipal
       School of Life Sciences, MAHE, Manipal. She is currently working on

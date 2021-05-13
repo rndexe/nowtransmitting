@@ -4,7 +4,7 @@ permalink: programmes/lectures/model-infectious-diseases/
 cata: transmission
 catb: mapping
 thumb: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
-cover: /static/img/B_PL_Coverimage.jpg
+cover: /static/img/gautam-menon-sketchnote.png
 date: 2021-05-01T13:00:00.000Z
 description: >-
   Pandemics of infectious disease conjure up images of crowded hospitals,
@@ -15,8 +15,9 @@ description: >-
   problem that lies squarely in the realm of mathematical modelling. 
 
 
-  Why are these models necessary? What insights can we gain from them? In this talk, Professor Gautam Menon will discuss these questions, as well as survey some epidemic models that are used to understand and model disease spread. Approaching these topics through a qualitative rather than technical lens, Menon will show how to develop the right intuition about what goes into modeling infectious diseases.
-link: http://bit.ly/lecture-menon
+  Why are these models necessary? What insights can we gain from them? In this talk, Professor Gautam Menon will discuss these questions, as well as survey some epidemic models that are used to understand and model disease spread.
+link: ""
+reclink: https://www.youtube.com/embed/j5siL6RGILI
 expertname: Gautam I. Menon
 expertbio: Gautam I. Menon is a Professor of Physics and Biology at Ashoka
   University, an adjunct Professor at the Tata Institute of Fundamental
@@ -24,10 +25,8 @@ expertbio: Gautam I. Menon is a Professor of Physics and Biology at Ashoka
   Chennai. He spent two decades as Professor with the Theoretical Physics and
   Computational Biology groups at the Institute of Mathematical Sciences,
   Chennai, where he was the founding Dean of the Computational Biology group. He
-  completed a Ph.D. from the Indian Institute of Science, Bangalore followed by
-  post-doctoral work at the TIFR, Mumbai and Simon Fraser University in
-  Vancouver. He is a physicist and mathematical modeller by training, with
-  interests in biophysics, disease epidemiology and science communication.
+  is a physicist and mathematical modeller by training, with interests in
+  biophysics, disease epidemiology and science communication.
 expertpic: /static/img/pl_gautam.png
 readinglist:
   - quadreadlink: https://science.thewire.in/the-sciences/covid-19-pandemic-infectious-disease-transmission-sir-seir-icmr-indiasim-agent-based-modelling/

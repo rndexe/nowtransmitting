@@ -1,166 +1,172 @@
 ---
 layout: ant-antibiotics
 featured: true
-authortype: Team
+authortype: ತಂಡ
 thumb: /static/img/F_Exhibit_Thumbnail.jpg
-title: "Putting the Ant into Antibiotics"
-subtitle: Microbes to the rescue
-medium: Photographs and video
+title: ಜೀವರೋಧಕಗಳಲ್ಲಿ ಇರುವೆಗಳು
+subtitle: ನಮ್ಮ ರಕ್ಷಣೆಗಾಗಿ ಸೂಕ್ಷ್ಮ ಜೀವಿಗಳು
+medium: "ಛಾಯಾಚಿತ್ರ ಮತ್ತು ವೀಡಿಯೋ "
 year: "2019"
 description: >-
-  Scientists at the John Innes Centre (JIC) in Norwich, United Kingdom are
-  turning to a range of ants in the search for new antibiotics. Though humans
-  have been using antibiotics for nearly a century, we are now facing the
-  problem of antimicrobial resistance, where the bacteria that cause diseases in
-  our body have become resistant to antibiotics. 
+  ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರಗಳ  ನಾರ್ವಿಚ್‌ ಅಲ್ಲಿರುವ  ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರದ ವಿಜ್ಞಾನಿಗಳು,
+  ಜೀವರೋಧಕಗಳ ಸಂಸ್ಕರಣೆಗಾಗಿ ಇರುವೆ / ಗೊದ್ದಗಳ ಗುಂಪಿನ ಹುಡುಕಾಟ ನೆಡೆಸಿದ್ದಾರೆ.  ಈಗ ಸುಮಾರು
+  ಶತಮಾನದಿಂದಲೂ ಮಾವರು, ಜೀವರೋಧಕಗಳನ್ನು ಬಳಸುತ್ತಿದ್ದಾರೆ, ಜೀವರೋಧಕಗಳ ವಿರುದ್ಧ, ಬಲಶಾಲಿ
+  ಪ್ರತಿರೋಧಕ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ಉಗಮವಾಗುತ್ತವೆ.
 
 
-  Ants have been using antibiotics in their fight against pathogens for a much longer time. Scientists believe that investigating the chemical ecology of the ant colonies, and the microbes produced by them can help us tackle the crisis of antimicrobial resistance. An essay by Adrian Galvin accompanies this exhibit, exploring the work done in this field by Prof. Barrie Wilkinson, Prof. Matt Hutchings and Victor Soria-Carrasco all at JIC. We also have here photographs of the ants as well as a live-stream of the ants courtesy of the John Innes Centre. 
+  ಇರುವೆ ಗೊದ್ದಗಳ ವಸಾಹತುಗಳಲ್ಲಿ ಇರುವ ರಾಸಾಯನಿಕ ಪರಿಸರದ ಸಂಶೋಧನೆಯನ್ನು ಮಾಡಿದರೆ, ಜೀವರೋಧಕಗಳ ವಿರುದ್ಧ, ಉತ್ಪತ್ತಿಯಾಗುವ ಬಲಶಾಲಿ ಪ್ರತಿರೋಧಕವನ್ನು ಗೆಲ್ಲಲು ಸಾಧ್ಯವಾಗ ಬಹುದು ಎಂಬ ಅನಿಸಿಕೆ ಇದೆ.  ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ, ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರದ ವಿಜ್ಞಾನಿಗಳಾದ ಪ್ರೊಫೆಸರ್‌ ಬ್ಯಾರಿ ವಿಲ್ಕಿಂಸನ್, ಪ್ರೊಫೆಸರ್‌ ಮ್ಯಾಟ್‌  ಹಚಿಂಗ್ಸ್‌ ಮತ್ತು ಡಾ. ವಿಕ್ಟರ್‌ ಸೋರಿಯ ಕರಾಸ್ಕೋ ಅವರ ಅದ್ಯಯನವನ್ನು ಕುರಿತಂತೆ ಆಂಡ್ರಿಯಾನ್‌ ಗ್ಯಾಲ್ವಿನ್, ಅವರು, ಬರೆದಿರುವ ಪ್ರಬಂಧವು ಸಹ ಈ ಪ್ರದರ್ಶಿಕೆಯೊಂದಿಗೆ ಪ್ರಸ್ತುತವಾಗಿದೆ.
 essay: >-
-  Researchers at the John Innes Centre and University of East Anglia (UEA) have
-  investigated the chemical arsenal employed by species such as South American
-  leafcutter ants in defending colonies against rivals and pathogens.
+  ದಕ್ಷಿಣ ಅಮೇರಿಕಾದ ಎಲೆ ಕಟುಕ ಇರುವೆಗಳು / ಗೊದ್ದಗಳು ತಮ್ಮ ನಿವಾಸ ಗೂಡನ್ನು, ಕ್ರಿಮಿಗಳು
+  ಮತ್ತು ಇತರೆ ವೈರಿಗಳಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು, ʼಆರ್ಸೆನಲ್”‌ ಎಂಬ ರಾಸಾಯನಿಕ ದ್ರವವನ್ನು
+  ಸೂಸುತ್ತವೆ ಎಂದು ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ  ಮತ್ತು ಈಸ್ಟ್‌ ಏಂಜಲಿಯಾ (ಯೂ.ಏ.ಯಿ) ಸಂಸ್ಥೆಗಳ
+  ಸಂಶೋಧಕರಿಗೆ ತಿಳಿದು ಬಂದಿದೆ.
 
 
-  The microbiome found on the cuticles of leafcutter ants is a rich source of actinomycete bacteria. This family of bacteria produce diverse natural products from which half of all antibiotics already in clinical use originate.
+  ಎಲೆ ಕಟುಕ ಗೊದ್ದಗಳ (ಕೆಂಜಿಗೆ) ಮೀಸೆಗಳ ಮೇಲೆ ಲಭ್ಯವಾಗುವ ಸೂಕ್ಷ್ಮ ಜೀವಿಗಳು, ʼಆಕ್ಟಿನೋಮೈಸೈಟ್”‌ ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಹೇರಳವಾಗಿ ಹೊಂದಿರುತ್ತವೆ.  ಈ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ವಿವಿಧ ಬಗೆಯ ನೈಸರ್ಗಿಕ ಜೀವರೋಧಕ ಉತ್ಪನ್ನಗಳನ್ನು ಹೊರಹೊಮ್ಮಿಸುತ್ತವೆ.  ಇವುಗಳಲ್ಲಿರುವ ಹಲವು ಜೀವ ರೋಧಕಗಳನ್ನು ಔಷಧ ತಯಾರಿಕೆಗೆ ಬಳಸಲಾಗುತ್ತದೆ.  
+
+  ಕೆಂಜಿಗೆಗಳು, ಹುಟ್ಟುತ್ತಲೇ ಗೊಡ್ಡಾಗಿರುತ್ತವೆ ಹಾಗೂ  ರೋಗ ನಿರೋಧಕʼಆಕ್ಟಿನೋಮೈಸೈಟ್”‌ ಸೂಕ್ಷಾಣುಗಳು ಇವುಗಳ ದೇಹವನ್ನು ಆವರಿಸಿಕೊಳ್ಳುತ್ತವೆ.  ಬೇರೆ ವಿಧದ ಸೋಂಕಿನ  ಸೂಕ್ಷ್ಮಾಣುಗಳು, ಈ ಕೆಂಜಿಗೆಗಳ ಮೀಸೆಯ ಮೇಲಿರುವ ಸೂಕ್ಷ್ಮಾಣುಗಳನ್ನು ಎದುರಿಸಿ, ತಮ್ಮ ಅಧಿಪತ್ಯ ಸಾಧಿಸಲು, ಅವಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಲಶಾಲಿಯಾದ ಪ್ರತಿರೋಧಕ ದ್ರವ ಹೊಂದಿರ ಬೇಕಾಗುತ್ತದೆ.  
+
+  ಹೀಗಾಗಿ, ಜೀವತಂತ್ರಜ್ಞಾನಕ್ಕೆ ಪೂರಕವಾಗಿ ನವೀನ ರಸಾಯನಶಾಸ್ತ್ರದ ಅಧ್ಯಯನ ಮತ್ತು ಅರಿವಿಗೆ , ಕೆಂಜಿಗೆಗಳು ಪುಷ್ಕಳವಾದ ಸೂಕ್ಷ್ಮ ಜೀವ ಪರಿಸರದ ಮೂಲವಾಗಿ ಪರಿಣಮಿಸಿವೆ.   
 
 
-  The ants are born sterile and get inoculated soon after birth with an actinomycete species that blooms over their body. Other microbes which encounter this niche must have strong genetic resistance to the antibiotics produced on the cuticle and be able to kill the native strain to invade.
+  ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ  ಮತ್ತು ಯೂ.ಏ.ಯಿ ಸಂಸ್ಥೆಗಳ ಸಂಶೋಧಕರ ತಂಡವು, ಎಲೆ ಕಟುಕ ಕೆಂಜಿಗೆಗಳಿಂದ ಹಿಡಿದು ಆಫ್ರಿಕಾದ ಟೆಟ್ರಾಪೊನೇರಾ ವನ್ನು ಒಳಗೊಂಡಂತೆ ಇರುವೆ / ಗೊದ್ದಗಳ ವಿವಿಧ ತಳಿಗಳಲ್ಲಿ ಕಂಡು ಬರುವ  ಸುಮಾರು 400 ಕ್ಕೂ ಹೆಚ್ಚು ಬಗೆಯ ಆಕ್ಟಿನೋಮೈಸೈಟ್‌ ವಂಶವಾಹಕ ಎಲೆಗಳ ಸಂಕಲನ ಮಾಡಿದ್ದಾರೆ.  ಸಂಶೋಧಕರು, ಇಂತಹ 100 ಕ್ಕೂ ಹೆಚ್ಚು ಅಣುವಂಶೀಯ ಎಲೆಗಳನ್ನು ಸಂವರ್ಧನಗೊಳಿಸಿ, ಹೊಸ ಬಗೆಯ ಸೂಕ್ಷ್ಮಾಣುರೋಧಕ ಕಣಗಳ ಹಡುಕಾಟ ನೆಡೆಸಿದ್ದಾರೆ.  ಹೊಸ ಬಗೆಯ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿಕೊಂಡು, ಈ ಸೂಕ್ಷ್ಮ ಕಣಗಳ ಜೈವಿಕ ಸಂಸ್ಕರಣೆಗೆ ಕಾರಣವಾಗಿರುವ ವಂಶವಾಹಕಗಳ ಗುಂಪನ್ನು ಸುಲಭವಾಗಿ ಕಂಡು ಹಿಡಿಯಲಾಗುತ್ತದೆ.  
+    ಸಸ್ಯ –ಕೆಂಜಿಗೆಗಳ ನಡುವಣ ರಾಸಾಯನಿಕ ಸಂಬಂಧದ ಅನ್ವೇಷಣೆಯಿಂದಾಗಿ,  ಸಹಜವಾಗಿಯೇ ಕ್ರಮಬದ್ಧ ಜೀವನ ಚರ್ಯೆ ಉಳ್ಳ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು ತಮ್ಮ ವಸಾಹತು ತಾಣಗಳನ್ನು ತೊರೆಯುವ ಪ್ರಕ್ರಿಯೆಯು ಬೆಳಕಿಗೆ ಬಂದಿದೆ.  2018ರಲ್ಲಿ ಪ್ರಕಾಶಿತಗೊಂಡಿರುವ ಸಂಶೋಧನಾ ಪತ್ರದ ಪ್ರಕಾರ, ಎಲೆ ಕಟುಕ ಕೆಂಜಿಗೆಗಳ ಜೊತೆಗೆ ಸುಮಾರು 50 ದಶ ಲಕ್ಷ ವರ್ಷಗಳಿಂದ  ʼಎಸ್ಕೋವೋಪ್ಸಿಸ್‌ʼಎಂಬ ಸಹಚರ ಫಂಗಸ್(ಶಿಲೀಂದ್ರ)‌, ವಿಕಸನಗೊಂಡಿವೆ.  ಈ  ಪರಜೀವಿಗಳು, ವತ್ತಡದ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ, ಕೆಂಜಿಗೆಗಳ ನೆಡವಳಿಕೆಯನ್ನು ಹೋಲುವ ಸ್ವಭಾವ ಪರಿವರ್ತಕ ರಾಸಾಯನಿಕಗಳನ್ನು ಸ್ರವಿಸಿ ಇಡೀ ಕೆಂಜಿಗೆಗಳ ವಸಾಹತ್ತಿನ ಮೇಲೆ ಅಸ್ಥಿತ್ವ ಸಾಧಿಸುತ್ತವೆ.  ಪರಿಣಾಮ ಸ್ವರೂಪವಾಗಿ, ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು ತಮ್ಮ ಗೂಡನ್ನು ಬರಿದು ಮಾಡಿ ತೊರೆಯುತ್ತವೆ.    
+
+  “ಕುತೂಹಲ ಸಹಿತವಾದ ವೈಜ್ಞಾನಿಕ ಸಂಶೋಧನೆಯು ಎಣಿಸಲಾಗದ ಹೊಸ ಅನ್ವೇಷಣೆಗಳಿಗೆ ಹೇಗೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತವೆ ಎಂಬುದಕ್ಕೆ ಇದು ಒಳ್ಳೆಯ ಉದಾಹರಣೆ” ಎಂದು ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್‌ ಅಭಿಪ್ರಾಯ ಪಟ್ಟಿದ್ದಾರೆ.  “ನಾವು ರಾಸಾಯನಿಕ ಪರಿಸರ ವಿಜ್ಞಾನವನ್ನು ಅರಿಯುವ ಸಲುವಾಗಿ , ಈ ಇಡೀ ಕೆಂಜಿಗೆ ಗೂಡಿನ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಆಸಕ್ತಿ ತೋರಿದ್ದೆವು, ಜೀವರೋಧಕಗಳ ಅಧ್ಯನ ಮಾಡಲು ಹೋಗಿರಲಿಲ್ಲ.  ಈಗಲೂ ನಾವು ಕಂಡುಹಿಡಿದಿರುವ ರಾಸಾಯನಿಕಗಳ ವಾಣಿಜ್ಯ ಮೂಲ್ಯ ಎಷ್ಟು ಎಂಬ ಅರಿವು ನಮಗೆ ಇಲ್ಲ.  ಆದರೆ ಈ ರಾಸಾಯನಿಕಗಳ ಸಹಾಯದಿಂದ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸ ಬಹುದು ಎಂಬ ಮಾಹಿತಿ ದೊರಕ ಬಹುದು .  ನಾವು ಗೊದ್ದ / ಇರುವೆಗಳ ಸೂಕ್ಷ್ಮ ಜೀವ ಪರಿಸರದ ಸಂಶೋಧನೆಯನ್ನು ಮುಂದುವರೆಸುತ್ತೇವೆ, ಹಾಗೆಯೇ ಸಸ್ಯಗಳ ಬೇರುಗಳು ಮತ್ತು ಸಸ್ಯ ಅಂತರ್ಜೀವಿಗಳ ಅಧ್ಯಯನವನ್ನು ಸಹ ಮಾಡುವೆವು” ಎಂದು ಹೇಳುತ್ತಾರೆ. 
 
 
-  Consequently, the ant microbiome is a dynamic, transitory place that offers a pre-screened source of novel chemistry for biotechnology.
+  ಜೀವರೋಧಕಗಳು ಸೂಕ್ಷ್ಮಾಣುಗಳನ್ನು ಯಾವ ರೀತಿ ಉದ್ದೇಶಿಸುತ್ತವೆ, ಎಂಬುದು ಸಹ ಈ ಸಂಶೋಧಕ ತಂಡದ ಆಸಕ್ತಿಯ ವಿಷಯವಾಗಿದೆ.  ಪೆಸಿಲಿನ್‌ ಸಮೂಹಕ್ಕೆ ಸೇರಿದ ಜೀವರೋಧಕಗಳು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣುಗಳ ಕೋಶ ಪೊರೆಯನ್ನು ಹೊಕ್ಕಿ ನಾಶ ಮಾಡುತ್ತವೆ.  ʼಏಜಿತ್ರೋಮೈಸಿನ್‌ʼ ಎಂಬ ಮತ್ತೊಂದು ಜೀವರೋಧಕವು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಜೀವ ಕಣಗಳು ಪ್ರೋಟೀನ್ನ ಸಂಸ್ಕರಣವನ್ನು ಮಾಡದಂತೆ ತಡೆಯುತ್ತವೆ.  
 
 
-  From a range of ants, including leafcutters and African Tetraponera species, the team at the John Innes Centre and UEA have assembled a library of more than 400 strains of actinomycetes. Nearly 100 of these have been genome sequenced and researchers are continuing to mine this resource for new antibacterial molecules. It is a search aided by new tools which identify more rapidly the clusters of genes responsible for the biosynthesis of molecules.
+  ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್‌ ಅವರು ವಿವರಿಸುವಂತೆ, “ಜೀವ ಕಣಗಳ ಉಳಿವು ಮತ್ತು ಬೆಳವಣಿಗೆಗೆ  ಅತ್ಯಾವಶ್ಯಕವಾಗಿ ಬೇಕಾಗಿರುವ ಎನ್ಸೈಮ್‌, ರಿಸೆಪ್ಟರ್‌ ಅಂತಹ ಯಾವುದೇ ರಾಸಾಯನಿಕವನ್ನು ನಾಶ ಮಾಡಿದರೂ ಸಹ ಅವುಗಳ ಬೆಳವಣಿಗೆ ಕುಂದುತ್ತದೆ, ಅವು ಅಳಿಯುತ್ತವೆ.  ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧದ ವಿರುದ್ಧ ಹೋರಾಡಲು, ಹೊಸ ಲಕ್ಷ್ಯಗಳನ್ನು  ಹುಡುಕುವುದು ಸಹ ಹೊಸ ಬಗೆಯ ಜೀವ ರೋಧಕಗಳನ್ನು ಸಂಸ್ಕರಿಸುವಷ್ಟೇ ಮುಖ್ಯವಾದುದು. ಹೊಸ ಕಣಗಳ ಸಂಸ್ಕರಣದಲ್ಲಿ,  ನೈಸರ್ಗಿಕ ಲಕ್ಷ್ಯಗಳ ಸ್ವಭಾವದ ಅರಿವು, ಬಹು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತವೆ”.   
 
 
-  Interest in exploiting plant ant chemistry led to an increasing fascination with the phenomenon of colony collapse, where the normally meticulous leafcutter ants down tools and desert their nest. The secret, according to a study published in 2018, lies in a behaviour-modifying chemical weapon produced by Escovopsis, a fungal parasite that has co-evolved with the leafcutter ants over the past 50 million years. At times of stress, compounds produced by the parasite overpower the colony by manipulating the behaviour of ants, ultimately resulting in nest abandonment.
+  (ಏ.ಎಂ.ಆರ್)‌ ಸೂಕ್ಷ್ಮಾಣುರೋಧಕದ ಪ್ರತಿರೋಧವು ಜಾಗತಿಕ ವಿಪತ್ತಾಗಿ ಪರಿಣಮಿಸಿದೆ.  ಜೀವರೋಧಕಗಳನ್ನು ವಿರೋಧಿಸುವ ಸೂಪರ್ಬಗ್‌ ಗಳು ಅಸ್ಥಿತ್ವಕ್ಕೆ ಬಂದಿವೆ. 
 
 
-  It’s an example of how curiosity-driven science leads to unexpected new avenues of exploration says Professor Wilkinson,“We became fascinated with the ecology of the whole nest system – not so much due to antibiotic discovery but to understand the chemical ecology. We don’t yet know if the compounds we discovered have any value commercially, but maybe they can tell us something about how you might control ants. We will continue to investigate the ant microbiome, but we are also looking at plant roots and plant endophytes – the bacteria from inside plants.”
+  ಅಲೆಕ್ಸಾಂಡರ್‌ ಫ್ಲೆಮಿಂಗ್‌ , 1928 ರಲ್ಲಿ ಪೆಂಸಿಲಿನ್‌ ಅನ್ನು ಅವಿಶ್ಕರಿಸಿದರು.  ಮಣ್ಣಿನಲ್ಲಿರುವ ಸೂಕ್ಷ್ಮಾಣುಗಳನ್ನು ಸಂಸ್ಕರಿಸಿ, ಈ ಹೊಸ ಬಗೆಯ ಔಷಧವನ್ನು ತಯಾರಿಸಲಾಗಿತ್ತು.  1900ರ ಶತಮಾನದಲ್ಲಿ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣುಗಳಿಂದ ಉಂಟಾಗುತ್ತಿದ್ದ ಸೋಂಕುಗಳಿಂದಾಗಿ ಹಲವರು ಸಾಯುತ್ತಿದ್ದರು.  ಈ ಅವಿಶ್ಕಾರದಿಂದಾಗಿ, ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣುಗಳಿಂದ ಉಂಟಾಗುತ್ತಿದ್ದ ಬಹುತೇಕ ಸೋಂಕುಗಳಿಗೆ 1960 ರ ಹೊತ್ತಿಗೆ, ತ್ವರಿತ ಗತಿಯಲ್ಲಿ ಕಡಿಮೆ ಬೆಲೆಯಲ್ಲಿ ಚಿಕಿತ್ಸೆ ನೀಡ ಬಹುದಾಯಿತು. 
 
 
-  Another area of focus for the group lies in identifying the molecular targets of antibiotics. The penicillin group of antibiotics, for example, work by targeting bacterial cell walls; another antibiotic, azithromycin, works by stopping the bacterial cell from making proteins.
+  ಜೀವರೋಧಕಗಳ ಹೇರಳ ಬಳಕೆ ಮತ್ತು ದುರ್ಬಳಕೆಯ ಕಾರಣದಿಂದ, ಜೀವರೋಧಕಗಳ ವಿರುದ್ಧ, ಬಲಶಾಲಿ ಪ್ರತಿರೋಧಕ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ಉಗಮವಾಗಿ, 2050ರ ಹೊತ್ತಿಗೆ,  ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣುಗಳಿಂದ ಉಂಟಾಗುವ ಸೋಂಕುಗಳು, ಬಹುಶಃ ಕ್ಯಾನ್ಸರ್‌ ಪೀಡಿತರ ಸಂಖ್ಯೆಗಳನ್ನೂ ಹಿಂದೆಹಾಕಿ, ಮುಂದುವರೆಯ ಬಹುದು, ಅತಿ ಹೆಚ್ಚು ಮರಣಕಾರಕವಾಗಿ ಪರಿಣಮಿಸ ಬಹುದು ಎಂದು ಅಂದಾಜು ಮಾಡಲಾಗಿದೆ.  ಆದ್ದರಿಂದ, ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ  ಮತ್ತು ಯೂ.ಏ.ಯಿ ಸಂಸ್ಥೆಗಳ ಸಂಶೋಧನೆಗಳ ಮೂಲಭೂತ ಕಾರ್ಯವು ಜಾಗತಿಕ ಆರೋಗ್ಯ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಯಾವ ಹಂತ ತಲುಪುತ್ತದೆ ?   
 
 
-  Explains Professor Wilkinson. “That can be anything, an enzyme, a receptor – something that is essential for the organism to survive. If you disrupt that then it dies or stops growing. Highlighting new targets is potentially just as valuable as finding new antibiotics in the fight against antimicrobial resistance. By understanding how natural products work we can start to design new molecules for those targets.”
+  “ನಾವು ಈ ಪ್ರಕ್ರಿಯೆಯ ಪ್ರಾರಂಭಿಕ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದೇವೆ.  ಹೊಸ ಬಗೆಯ ಸೂಕ್ಷ್ಮ ಕಣವನ್ನು ಅವಿಶ್ಕರಿಸಿದರೆ, ಅವುಗಳ ಲಕ್ಷ್ಯವನ್ನು ಕಂಡು ಹಿಡಿಯ ಬೇಕು, ಹಾಗೆಯೇ ಚಿಕಿತ್ಸೆಗೆ ಅವು ಯೋಗ್ಯವೇ ಎಂದು ಅರಿಯ ಬೇಕು.  ಲಕ್ಷ್ಯವನ್ನು ಪತ್ತೆ ಮಾಡಿದ ನಂತರ, ಅವುಗಳನ್ನು ತಡೆಯ ಬಲ್ಲ ಕಣಗಳನ್ನು ಸಂಸ್ಕರಿಸ ಬೇಕು.  ಹೀಗೆ ಚಿಕಿತ್ಸೆಗೆ ಅನುಕೂಲಕರವಾದ ಔಷಧವನ್ನು ಸಂಸ್ಕರಿಸಲು 10-15  ವರ್ಷವಾದರೂ ಹಿಡಿದು ಬಿಡುತ್ತದೆ” ಎಂದು ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್‌ ಅಭಿಪ್ರಾಯ ಪಟ್ಟಿದ್ದಾರೆ 
 
 
-  The backdrop to this is a global crisis caused by antimicrobial resistance (AMR), the emergence of so-called superbugs that are resistant to antibiotics. The discovery of penicillin by Alexander Fleming in 1928 heralded a new era of drug discovery with research particularly successful in harnessing molecules from soil bacteria. By the 1960s, bacterial infections which had been the leading global killer in 1900 could be treated swiftly and inexpensively.
-
-
-  With the emergence of bacteria resistant to antibiotics, partly due to overuse and misuse, it is estimated that bacterial infections could move ahead of cancer as a cause of death by 2050. So where does the fundamental work carried out by the John Innes Centre and the UEA figure in this global health race?
-
-
-  “We are very early in the process, if we find a new molecule we have to find its target and whether that would be useful in the clinical sense. Then once you have found your target you must figure out how to design compounds to inhibit them. So, any of our projects are 10-15 years away from something ending up in the clinic,” says Professor Wilkinson.
-
-
-  Professor Wilkinson spent 16 years in drug discovery biotechnology before joining the John Innes Centre. “One of the reasons for coming back to academia is that I don’t want to be constrained with thinking about the end product. In industry you are always looking towards a therapeutic output, ultimately to make money. We had to let go of all kinds of interesting science that might lead to even more interesting outcomes. Here we are driven by scientific curiosity to understand how microbes make molecules.”
+  ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್ ಅವರು ಸುಮಾರು 16 ವರ್ಷಗಳ ಕಾಲ ಔಷಧಗಳ ತಯಾರಿಕೆಗೆ ಅವಶ್ಯಕವಾದ ಜೀವ ತಂತ್ರಜ್ಞಾನದ ಸಂಶೋಧನೆಯಲ್ಲಿ ತೊಡಗಿದ್ದರು.  ನಂತರ ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ ದಲ್ಲಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ.  “ಶೈಕ್ಷಣಿಕ ರಂಗಕ್ಕೆ ಮರಳಲು ಮುಖ್ಯ ಕಾರಣ ವೆಂದರೆ, ನಾನು ಯಾವುದೇ ಅಂತಿಮ ಉತ್ಪಾದನೆಯ ಬಗ್ಗೆ ಚಿಂತಿಸಲು ಇಚ್ಛಿಸುವುದಿಲ್ಲ.  ಔಷಧ ಉದ್ಯೋಗದಲ್ಲಿ , ಚಿಕಿತ್ಸೆಗೆ ಅನುಕೂಲಕರ ಔಷಧಿಯ ಉತ್ಪಾದನೆಯಿಂದ ಲಭ್ಯವಾಗುವ, ಹಣಕ್ಕೆ ಪ್ರಾಧಾನ್ಯತೆ ನೀಡಲಾಗುತ್ತದೆ.  ಕುತೂಹಲಕಾರಿಯಾದ ವಿಜ್ಞಾನದ ಸಂಶೋಧನೆಗಳನ್ನು, ಅದರಿಂದ ಹೊರ ಹೊಮ್ಮುವ ಹೊಸ ಅವಿಶ್ಕಾರ ಮತ್ತು ಜ್ಞಾನವನ್ನು ಬದಿಗೊತ್ತ ಬೇಕಾಗುತ್ತದೆ.  ಇಲ್ಲಿ ವೈಜ್ಞಾನಿಕ ಕುತೂಹಲ, ಸೂಕ್ಷ್ಮ ಕಣಗಳಿಗೆ ಕಾರಣವಾದ ಸೂಕ್ಷ್ಮಾಣುಗಳನ್ನು ಅರಿಯ ಬಹುದು” ಎಂದು ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್‌ ಅಭಿಪ್ರಾಯ ಪಟ್ಟಿದ್ದಾರೆ. 
 exhibitstream: https://antcam.nbi.ac.uk/view/view.shtml?id=612982&imagepath=%2Fmjpg%2Fvideo.mjpg%3Fcamera%3D1&size=1
 exhibitimages:
   - privis: /static/img/F_EXHIBIT_PRI_VIS_1.jpg
-    pritxt: "Ant fungus garden. Courtesy of the John Innes Centre. "
+    pritxt: "ಗೊದ್ದ – ಶಿಲೀಂದ್ರಗಳ ಉದ್ಯಾನ: ಕೊಡುಗೆ: ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರ "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_2.jpg
-    pritxt: "Ant fungus garden. Courtesy of the John Innes Centre. "
+    pritxt: "ಗೊದ್ದ – ಶಿಲೀಂದ್ರಗಳ ಉದ್ಯಾನ: ಕೊಡುಗೆ: ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರ "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_3.jpg
-    pritxt: "Ant fungus garden. Courtesy of the John Innes Centre. "
+    pritxt: "ಗೊದ್ದ – ಶಿಲೀಂದ್ರಗಳ ಉದ್ಯಾನ: ಕೊಡುಗೆ: ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರ  "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_4.jpg
-    pritxt: "Ant carrying leaf fragments. Courtesy of John Innes Centre. "
+    pritxt: ಎಲೆಗಳ ತುಂಡುಗಳನ್ನು ಒಯ್ಯುತ್ತಿರುವ ಗೊದ್ದಗಳು . ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರದ
+      (ಜೆ.ಐ.ಸಿ) ಕೊಡುಗೆ.
   - privis: /static/img/F_EXHIBIT_PRI_VIS_5.jpg
-    pritxt: "Ant carrying a flower petal. Courtesy of the John Innes Centre. "
+    pritxt: "ಹೂವಿನ ಪಕಳೆಯನ್ನು ಒಯ್ಯುತ್ತಿರುವ ಗೊದ್ದ: ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರದ ಕೊಡುಗೆ.  "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_6.jpg
-    pritxt: "Ant carrying a flower petal. Courtesy of the John Innes Centre. "
+    pritxt: ಹೂವಿನ ಪಕಳೆಯನ್ನು ಒಯ್ಯುತ್ತಿರುವ ಗೊದ್ದ. ಜ್ಹಾನ್‌ ಇನ್ಸ್‌ ಕೇಂದ್ರದ ಕೊಡುಗೆ.
   - privis: /static/img/F_EXHIBIT_PRI_VIS_7.jpg
-    pritxt: "Pseudonocardia on the heads. Courtesy of Kim Findlay, JIC Bioimaging. "
+    pritxt: "ಸೂಡೊನೋಕಾರ್ಡಿಯಾ ಆನ್‌ ದಿ ಹೆಡ್ಸ್:‌ ಕಿಮ್‌ ಫಿಂಡ್ಲೇ, ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌
+      ಕೊಡುಗೆ. "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_8.jpg
-    pritxt: "Pseudonocardia on the heads. Courtesy of Kim Findlay, JIC Bioimaging. "
+    pritxt: "ಸೂಡೊನೋಕಾರ್ಡಿಯಾ ಆನ್‌ ದಿ ಹೆಡ್ಸ್:‌ ಕಿಮ್‌ ಫಿಂಡ್ಲೇ, ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌
+      ಕೊಡುಗೆ. "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_9.jpg
-    pritxt: "Pseudonocardia on the heads. Courtesy of Kim Findlay, JIC Bioimaging. "
+    pritxt: "ಸೂಡೊನೋಕಾರ್ಡಿಯಾ ಆನ್‌ ದಿ ಹೆಡ್ಸ್:‌ ಕಿಮ್‌ ಫಿಂಡ್ಲೇ, ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌
+      ಕೊಡುಗೆ.  "
   - privis: /static/img/F_EXHIBIT_PRI_VIS_10.jpg
-    pritxt: "Acromyrmex echinatior leafcutter ants. Courtesy of Kim Findlay, JIC
-      Bioimaging. "
+    pritxt: ಆಕ್ರೋಮೈರ್ಮೆಕ್ಸ್‌ ಎಖಿನೇಶಿಯರ್‌ ಎಲೆ ಕಟುಕ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು. ಕಿಮ್‌ ಫಿಂಡ್ಲೇ,
+      ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌ ಕೊಡುಗೆ.
   - privis: /static/img/F_EXHIBIT_PRI_VIS_11.jpg
-    pritxt: "Acromyrmex echinatior leafcutter ants. Courtesy of Kim Findlay, JIC
-      Bioimaging. "
+    pritxt: "ಆಕ್ರೋಮೈರ್ಮೆಕ್ಸ್‌ ಎಖಿನೇಶಿಯರ್‌ ಎಲೆ ಕಟುಕ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು.ಕಿಮ್‌ ಫಿಂಡ್ಲೇ,
+      ಜೆ.ಐ.ಸಿ ಬಯೋ-ಇಮೇಜಿಂಗ್‌ ಕೊಡುಗೆ. "
 exhibitauthor:
   - authorimage: /static/img/F_EXHIBIT_SEC_VIS_2.jpg
-    authorname: Barrie Wilkinson
-    authorbio: Barrie Wilkinson researches the discovery and biosynthesis of
-      microbial natural products at the John Innes Centre. He is particularly
-      interested in identifying new compounds with antibiotic and antifungal
-      properties, and in characterising the biosynthetic pathways and
-      biochemical mechanisms by which they are made. Barrie’s research involves
-      investigating the targets for these compounds and elucidating their mode
-      of action.
+    authorname: "ಬ್ಯಾರಿ ವಿಲ್ಕಿನ್ಸನ್‌ "
+    authorbio: ಬ್ಯಾರಿ ವಿಲ್ಕಿನ್ಸನ್, ಇವರು ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ ದಲ್ಲಿ ಸೂಕ್ಷ್ಮಾಣುಗಳಿಂದ
+      ಸಂಸ್ಕರಿಸಲಾಗುವ ನೈಸರ್ಗಿಕ ಉತ್ಪನ್ನಗಳು ಮತ್ತು ಅವುಗಳ ಅವಿಶ್ಕಾರಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ
+      ಸಂಶೋಧನೆ ನೆಡೆಸುತ್ತಿದ್ದಾರೆ.  ಜೀವರೋಧಕ ಮತ್ತು ಫಂಗಸ್ ರೋಧಕ ಗುಣಗಳುಳ್ಳ ಕಣಗಳನ್ನು
+      ಪತ್ತೆಹಚ್ಚುವ ಕಾರ್ಯ, ಮತ್ತು ಆ ಕಣಗಳ ಜೀವ ರಾಸಾಯನಿಕ ಪ್ರಕ್ರಿಯೆಗಳು ಹಾಗೂ ಜೈವಿಕ
+      ಸಂಸ್ಕರಣದ ಉಪಾಯಗಳನ್ನು ರೂಪಿಸುವ ಕಾರ್ಯದಲ್ಲಿ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ.  ಈ ಸಂಯುಕ್ತ ಕಣಗಳ
+      ಲಕ್ಷ್ಯವನ್ನು ಕಂಡು ಹಿಡಿದು , ಸಫಲವಾಗಿ ಕಾರ್ಯರೂಪಕ್ಕೆ ತರುವ ಮಾರ್ಗಗಳನ್ನು ಕುರಿತಂತೆ
+      ಅಧ್ಯಯನ ನೆಡೆಸಿದ್ದಾರೆ.
   - authorimage: /static/img/F_EXHIBIT_SEC_VIS_3.jpg
-    authorbio: Matt Huchings’s group at the John Innes Centre works on the
-      specialised metabolites made by Streptomyces species and closely related
-      actinomycete bacteria, which include more than half of all known
-      antibiotics. They are particularly interested in the chemical ecology of
-      these bacteria and their natural products.
-    authorname: Matt Huchings
+    authorbio: ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರದಲ್ಲಿ, ಮ್ಯಾಟ್‌  ಹಚಿಂಗ್ಸ್‌  ಇವರ ತಂಡವು
+      ಸ್ಟ್ರೆಪ್ಟೋಮೈಸೈಟ್‌ ಮತ್ತು ಆಕ್ಟಿನೋಮೈಸೈಟ್‌ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣು ನಮೂನೆಗಳಿಂದ
+      ಸಂಸ್ಕರಿಸಲ್ಪಡುವಂತಹ, ಪಚನ ಕ್ರಿಯೆಗೆ ಸಹಕಾರಿಯಾದ  ವಿಶೇಷ ಉತ್ಪನ್ನಗಳ (ನಮಗೆ ತಿಳಿದಿರುವ
+      ಜೀವರೋಧಕಗಳ ಅರ್ಧದಷ್ಟು ಉತ್ಪನ್ನಗಳು) ಬಗೆಗೆ ಸಂಶೋಧನೆ ನೆಡೆಸಿದ್ದಾರೆ. ಈ
+      ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ರಾಸಾಯನಿಕ ಪರಿಸರ ಮತ್ತು  ಅವುಗಳಿಂದ ಹೊರಹೊಮ್ಮುವ ಉತ್ಪನ್ನಗಳಲ್ಲಿ
+      ವಿಶೇಷ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ.
+    authorname: ಮ್ಯಾಟ್‌  ಹಚಿಂಗ್ಸ್‌
   - authorimage: /static/img/F_EXHIBIT_SEC_VIS_4.jpg
-    authorbio: "Victor Soria-Carrasco is the Head of the Entomology and Insectary
-      Facility at the John Innes Centre. He aims to expand the capacities of
-      this facility by using genomic approaches to assist with the diagnose and
-      tracking of population dynamics of pests and pest-associated plant
-      pathogens, the genetic mapping of relevant invertebrate traits, and the
-      eventual development of new pest and plant pathogen control methods using
-      evolutionary approaches and gene editing tools. "
-    authorname: Dr. Victor Soria-Carrasco
+    authorbio: ಡಾ. ವಿಕ್ಟರ್‌ ಸೋರಿಯ-ಕರಾಸ್ಕೋ, ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರದಲ್ಲಿ ಕೀಟಶಾಸ್ತ್ರ
+      ಮತ್ತು ಕೀಟ ಸಾಕಣೆ ಸೌಕರ್ಯ ವಿಭಾಗದ ಮುಖ್ಯಸ್ಥರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ. 
+      ವಂಶವಾಹಕ ಮೂಲಗಳ ಮುಖೇಣ, ಕ್ರಿಮಿ ಕೀಟಗಳ ಸಂತಾನ ಉತ್ಪತ್ತಿ ಪ್ರಕ್ರಿಯೆ , ಸಸ್ಯ
+      ರೋಗಾಣುಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಕೀಟಗಳ ಜೀವ ಪ್ರಕ್ರಿಯೆ, ಸಂದರ್ಭೋಚಿತವಾದ ಕೀಟ ಸ್ವಭಾವಗಳ
+      ಅನುವಂಶಿಕ ವಿನ್ಯಾಸ ಮತ್ತು ಇದರಿಂದಾಗಿ ಹೊಸ ಬಗೆಯ ಕೀಟಗಳ ವಿಕಸನ, ಹೀಗೆ ಹಲವು ವಂಶವಾಹಕ
+      ಪರಿಶ್ಕರಣೆಗೆ ಸಂಬಂಧಿಸಿದ ಸಲಕರಣೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು, ಆ ಮೂಲಕ ಸಸ್ಯ ರೋಗಾಣು
+      ನಿಯಂತ್ರಣಕ್ಕೆ ಮಾರ್ಗಗಳನ್ನು ಅನ್ವೇಷಿಸುವ ಉದ್ದೇಶ ಹೊಂದಿದ್ದಾರೆ.
+    authorname: ಡಾ. ವಿಕ್ಟರ್‌ ಸೋರಿಯ-ಕರಾಸ್ಕೋ
   - authorimage: /static/img/F_EXHIBIT_SEC_VIS_1.jpg
-    authorbio: Adrian Galvin is the Communications and Media Manager at the John
-      Innes Centre (JIC).  He is responsible for the Communications planning,
-      managing media output for JIC and The Sainsbury Laboratory. He spends his
-      time dealing with public affairs and building relationships with local,
-      national and international media organisations.
-    authorname: Adrian Galvin
+    authorbio: ಎಡ್ರಿಯನ್ ಗ್ಯಾಲ್ವಿನ್, ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರದಲ್ಲಿ ಸಂಪರ್ಕ ಮತ್ತು ಮಾಧ್ಯಮ
+      ವ್ಯವಸ್ಥಾಪಕರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.  ‌ ಇವರು ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ
+      ಮತ್ತು ಸೇಂಸ್‌ ಬರ್ರಿ ಪ್ರಯೋಗಾಲಯದ  ಸಂಪರ್ಕ ಮಾಧ್ಯಮ ಕಾರ್ಯಯೋಜನೆ, ಮಾಧ್ಯಮ ಪ್ರದರ್ಶನಗಳ
+      ಹೊಣೆಗಾರಿಗೆ ವಹಿಸಿಕೊಂಡಿದ್ದಾರೆ. ಸ್ಥಳೀಯ, ರಾಷ್ಟ್ರೀಯ ಹಾಗೂ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಮಾಧ್ಯಮ
+      ಸಂಸ್ಥೆಗಳೊಡನೆ ಸಂಪರ್ಕ ಕಲ್ಪಿಸಿ ಸಾರ್ವಜನಿಕ ವ್ಯವಹಾರಗಳನ್ನು ನಿಭಾಯಿಸುತ್ತಾರೆ.
+    authorname: "ಎಡ್ರಿಯನ್ ಗ್ಯಾಲ್ವಿನ್‌ "
 tervis: /static/img/F_EXHIBIT_TER_VIS_1.jpg
-tertxt: "Captive ant colony. Courtesy of Matt Hutchings. "
+tertxt: "ಆಕರ್ಷಕ ಗೊದ್ದಗಳ ವಸಾಹತು (ಕ್ಯಾಪ್ಟೀವ್‌ ಆಂಟ್‌ ಕಾಲನಿ): ಮ್ಯಾಟ್‌  ಹಚಿಂಗ್ಸ್‌ ಕೊಡುಗೆ"
 readinglist:
   - quadreadlink: https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines-152647
-    quadreadtxt: "Why Resistance is Common in Antibiotics, But Rare in Vaccines "
+    quadreadtxt: ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಉತ್ಪತಿಯಾಗುತ್ತವೆ,
+      ಅದೇ ಲಸಿಕೆಗಳಿಗೆ ವಿರಳ ಏಕೆ?
     quadreadvis: /static/img/f_exhibit_qua_readvis_1.jpg
   - quadreadlink: https://www.nationalgeographic.com/science/article/ants-evolution-corrie-moreau-women-in-biology
-    quadreadtxt: Meet the Woman Making Ants the Next Big Thing in Biology
+    quadreadtxt: ಜೀವ ಶಾಸ್ತ್ರದಲ್ಲಿ ಇರುವೆ ಗೊದ್ದಗಳನ್ನು ಭವಿಷ್ಯದ ಪ್ರಮುಖ ವಿಷಯವಾಗಿ
+      ಪರಿಗಣಿಸಿರುವ ಮಹಿಳೆಯನ್ನು ಭೇಟಿ ಮಾಡಿ.
     quadreadvis: /static/img/f_exhibit_qua_readvis_2.jpg
   - quadreadlink: https://science.thewire.in/health/antimicrobial-resistance-is-a-serious-threat-to-public-health-in-india/
-    quadreadtxt: Antimicrobial Resistance is a Serious Threat to India
+    quadreadtxt: ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕಗಳು, ಭಾರತಕ್ಕೆ ಗಂಭೀರ ವಿಪತ್ತು.
     quadreadvis: /static/img/f_exhibit_qua_readvis_3.jpg
 listeninglist:
-  - quadlisttxt: "What Research on Ants Can Teach Us About Ourselves "
+  - quadlisttxt: "ಇರುವೆ ಗೊದ್ದಗಳ ಮೇಲೆ ನೆಡೆದಿರುವ ಸಂಶೋಧನೆಯಿಂದ, ನಾವು ನಮ್ಮ ಬಗ್ಗೆ ಏನನ್ನು
+      ಅರಿತಿದ್ದೇವೆ? "
     quadlistlink: https://www.findinggeniuspodcast.com/podcasts/ants-ants-and-more-ants-what-research-on-ants-can-teach-us-about-ourselves-and-our-future-as-a-species/
     quadlistvis: /static/img/f_exhibit_qua_listvis_1.jpg
-  - quadlisttxt: "The Path of Most (Antibiotic) Resistance "
+  - quadlisttxt: ಬಹಳಷ್ಟು ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳ ಪ್ರತಿರೋಧಕಗಳ ಪಥ
     quadlistlink: https://open.spotify.com/episode/3J7mDz163YhLHiWCW87b9X
     quadlistvis: /static/img/f_exhibit_qua_listvis_2.jpg
-  - quadlisttxt: "Antman: The Biology of Ants"
+  - quadlisttxt: ಆಂಟ್‌ ಮ್ಯಾನ್:‌ ಇರುವೆ / ಗೊದ್ದಗಳ ಜೀವಶಾಸ್ತ್ರ
     quadlistlink: https://open.spotify.com/episode/1GsYvPa98REzDaK1CYJP55
     quadlistvis: /static/img/f_exhibit_qua_listvis_3.jpg
 watchinglist:
-  - quadwatchtxt: "Antimicrobial Resistance beyond COVID "
+  - quadwatchtxt: ಕೋವಿಡ್‌ ಪರಿಸ್ಥಿತಿಯನ್ನೂ ಮೀರಿ ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಎದುರಾಗುವ ಪ್ರತಿರೋಧಕಗಳು
     quadwatchlink: https://lshtm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9b68d250-2c98-43f0-a642-ac3f0136480d
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_1.jpg
-  - quadwatchtxt: "Inside the Ant Colony "
+  - quadwatchtxt: ಇರುವೆ ಗೊದ್ದಗಳ ಗೂಡಿನೊಳಗೆ
     quadwatchlink: https://www.youtube.com/watch?v=vG-QZOTc5_Q
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=UONwJTYZqwc
-    quadwatchtxt: "The Antibiotic Resistance Crisis: Basic Science to the Rescue"
+    quadwatchtxt: "ಜೀವ ರೋಧ ಪ್ರತಿರೋಧಕ ಆಪತ್ತು : ಮೂಲ ವಿಜ್ಞಾನದ ನೆರವಿಗೆ ಮೊರೆ"
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_3.jpg
 eventlist:
-  - quadeventtxt: "Antimicrobial Resistance: the Pandemic in the Shadows | Lecture
-      by Dr. Jyoti Joshi"
+  - quadeventtxt: ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧ (ಏ.ಎಂ.ಆರ್):‌ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ
+      ನೆರಳಿನಲ್ಲಿ | ಉಪನ್ಯಾಸ | ಜ್ಯೋತಿ ಜೋಶಿ
     quadeventlink: https://www.eventbrite.com/e/145225482327
     quadeventvis: /static/img/f_exhibit_qua_atnvis_1.jpg
-  - quadeventtxt: "Science, Innovation and Society: What have we learnt from the
-      Covid-19 pandemic? | Lecture by Dr. Jeremy Farrar "
+  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
+      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
     quadeventlink: https://www.eventbrite.com/e/148321145539
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
-  - quadrelatedtxt: Moulding Modern Medicine
+  - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
     quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
     quadrelatedvis: /static/img/f_exhibit_qua_exptvis_1.jpg
-  - quadrelatedtxt: "THERIAK | The Disease Map by Sarah Craske "
+  - quadrelatedtxt: ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ | ಸಾರಾ ಕ್ರಾಸ್ಕ್
     quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
     quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---

@@ -34,22 +34,30 @@ expertpic: /static/img/l_wk_sec_vis_1.png
 readinglist:
   - quadreadlink: https://theconversation.com/the-one-health-concept-must-prevail-to-allow-us-to-prevent-pandemics-148378
     quadreadtxt: The 'One Health' Concept Must Prevail To Allow Us To Prevent Pandemics
-    quadreadvis: /static/img/wk_echo.png
+    quadreadvis: /static/img/L_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nytimes.com/2012/09/11/science/vets-and-physicians-find-parallels-in-medical-research.html?_r=1&smid=tw-share
     quadreadtxt: Vets and Physicians Find Parallels in Medical Research
-    quadreadvis: /static/img/wk_echo.png
+    quadreadvis: /static/img/L_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7232973/#:~:text=One%20Health%20(OH)%20is%20a,plants%2C%20and%20their%20shared%20environment
     quadreadtxt: One Health Approach to Address Zoonotic Diseases
-    quadreadvis: /static/img/wk_echo.png
+    quadreadvis: /static/img/L_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/64l5jYSFXBJZbWsY8N2LOs
     quadlisttxt: "Cracking One Health: Dr. Eric Fèvre "
-    quadlistvis: /static/img/wk_echo.png
+    quadlistvis: /static/img/L_WK_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/0WaImGM3jYwXcB6FNm4VGv
     quadlisttxt: "Cracking One Health: Dr. Steven Osofsky"
-    quadlistvis: /static/img/wk_echo.png
+    quadlistvis: /static/img/L_WK_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=cZfzP3J2VxY
     quadwatchtxt: A New Way To Fight Infectious Diseases And Predict Outbreaks
-    quadwatchvis: /static/img/wk_echo.png
+    quadwatchvis: /static/img/L_WK_QUA_WATCHVIS_1.jpg
+eventlist:
+  - quadeventtxt: One Health | Lecture by Uma Ramakrishnan
+    quadeventlink: http://bit.ly/lecture-ramakrishnan
+    quadeventvis: /static/img/pl_uma.png
+relatedlist:
+  - quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
+    quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
+    quadrelatedvis: /static/img/P_Exhibit_Thumbnail.jpg
 ---

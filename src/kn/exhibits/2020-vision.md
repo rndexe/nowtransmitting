@@ -17,7 +17,7 @@ description: >-
 
   ರಾಬರ್ಟ್‌ ಗೂಡ್‌ ಅವರು ಸಂಯೋಜಿಸಿರುವ ಪ್ರದರ್ಶಿಕೆ ʼ2020 ದೂರ ದೃಷ್ಟಿʼ  ಅಲ್ಲಿ ,  ಆನಿಮೇಷನ್‌ ಚಿತ್ರಸಂಚಲನ ರೂಪದಲ್ಲಿ ಮುಖ್ಯಾಂಶಗಳು ಪರದೆಯ ಮೇಲೆ ಪ್ರಕಟಗೊಳ್ಳುತ್ತವೆ.  ಅವುಗಳಲ್ಲಿ ಅಡಗಿರುವ ಮಾಹಿತಿಯಿಂದ ನಮ್ಮಲಿ ಹಲವಾರು ಕುತೂಹಲಕಾರಿ ಪ್ರಶ್ನೆಗಳು ಉದ್ಭವಿಸುತ್ತವೆ.  ಪೆಟ್ರಿ ಡಿಶ್‌ ಅಲ್ಲಿ ವೈರಾಣುಗಳು ಬೆಳೆಯುವಂತೆ, ಪರದೆಯ ಮೇಲೆ ಈ ಚಿತ್ರ ಸಂಚಲನಗಳು ಮೂಡಿ ಮರೆಯಾಗುತ್ತವೆ.
 privis: https://player.vimeo.com/video/537188834
-pritxt: "ಭವಿಷ್ಯದಲ್ಲಿ ಏನು ಕಾದಿದೆ ?  2019ರ ಸಾಲಿನ ಗೂಗಲ್‌ ವಾರ್ತಾ ಸರಣಿಯ ಶೀರ್ಷಿಕೆಗಳು,
+pritxt: "ಭವಿಷ್ಯದಲ್ಲಿ ಏನು ಕಾದಿದೆ? 2019ರ ಸಾಲಿನ ಗೂಗಲ್‌ ವಾರ್ತಾ ಸರಣಿಯ ಶೀರ್ಷಿಕೆಗಳು,
   ನಮ್ಮ ಕಾತುರತೆಯ ಪ್ರಶ್ನೆಗಳಾಗಿಯೇ ಇವೆ.  ಟೆಕ್ಸ್ ಟ್‌  ಆನಿಮೇಶನ್‌, 2'07\". "
 authorimage: /static/img/B_EXHIBIT_SEC_VIS_1.jpg
 authorname: ರಾಬರ್ಟ್‌ ಗೂಡ್‌
@@ -60,23 +60,23 @@ listeninglist:
     quadlistvis: /static/img/B_EXHIBIT_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Q4mTlRUbWwM
-    quadwatchtxt: COVID-19 Information Overload
+    quadwatchtxt: ಕೋವಿಡ್-19‌ ಮಾಹಿತಿ ಹೊರೆ
     quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_1.jpg
-  - quadwatchtxt: Is Social Media Hurting Your Mental Health
+  - quadwatchtxt: "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳು ನಿಮ್ಮ ಮಾನಸಿಕ ಆರೋಗ್ಯವನ್ನು ಕೆಡಸುತ್ತಿವೆಯೇ "
     quadwatchlink: https://www.youtube.com/watch?v=Czg_9C7gw0o&pbjreload=101
     quadwatchvis: /static/img/B_EXHIBIT_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=aPZrxvSn8VM
-    quadwatchtxt: Breaking the News Cycle
+    quadwatchtxt: ವಾರ್ತಾ ಆವರ್ತನವನ್ನು ಭೇದಿಸುತ್ತಾ
     quadwatchvis: /static/img/b_exhibit_qua_watchvis_3.jpg
 play:
   - quadplaytxt: ಗೋ ವೈರಲ್‌
     quadplaylink: https://www.goviralgame.com/en/
     quadplayvis: /static/img/B_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
-  - quadeventtxt: Infodemics | Lecture by Sylvie Briand
-    quadeventlink: https://www.eventbrite.com/e/148308301121
-    quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
-  - quadeventtxt: Information...It’s Complicated | Workshop by Muhammad Radwan
+  - quadeventtxt: Infodemics | ಉಪನ್ಯಾಸ | Sylvie Briand
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/dealing-with-the-infodemic/
+    quadeventvis: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
+  - quadeventtxt: ಮಾಹಿತಿ… ಇದು ಕ್ಲಿಷ್ಟಕರ ವಿಷಯ | ಕಾರ್ಯಾಗಾರ | ಮುಹಮ್ಮದ್‌ ರದವಾನ್‌
     quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
     quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
