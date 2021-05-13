@@ -3,7 +3,7 @@ title: "Knowledge Transmission: A Quiz on Contagions"
 permalink: programmes/events/knowledge-transmission-a-quiz-on-contagions/
 thumb: /static/img/ev_quiz_thumbnail.png
 cover: /static/img/ev_quiz_coverimage.png
-date: 2021-05-13T07:01:26.852Z
+date: 2021-05-23T08:30:00.000Z
 description: Think you know all that there is to know about pandemics past,
   present and future? Then come take part in this quiz exploring all things
   contagious! Questions will be around various interesting facts and stories
