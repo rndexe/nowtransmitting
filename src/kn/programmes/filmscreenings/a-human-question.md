@@ -28,7 +28,7 @@ expertbio: "***ನಿರ್ದೇಶಕರು*** | ಟಿ ಜಯಶ್ರೀಯ�
 expertpic: /static/img/m_exhibit_sec_vis_5.jpg
 disname: "Vikram Doctor "
 dispic: /static/img/d_fs_sec_vis_2.png
-disbio: "***Discussant*** |Vikram Doctor is a Goa based journalist who has
+disbio: "***Discussant*** | Vikram Doctor is a Goa based journalist who has
   worked with publications like the Times of India and Economic Times for over
   20 years. He was also involved with the GayBombay community support group and
   also with helping and documenting the 18 year campaign to decriminalise
