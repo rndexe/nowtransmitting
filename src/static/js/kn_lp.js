@@ -188,7 +188,7 @@ loadJSON(function(json) {
           },
           {
             "title": "ದ್ರವ ಸಂವಾದಗಳು",
-            "subtitle": "The burden of stigma",
+            "subtitle": "ಕಳಂಕದ ಹೊರೆ",
             "url": "/kn/exhibits/fluid-dialogues/",
             "thumbnail": "/static/img/M_Exhibit_Thumbnail.jpg"
           },
