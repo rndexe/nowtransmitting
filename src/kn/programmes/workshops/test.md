@@ -26,23 +26,25 @@ expertbio: ಶ್ರೇಯ ಚಕ್ರಬೊರ್ತಿ, ಬೆಂಗಳೂರ
 expertpic: /static/img/b_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.sciencedirect.com/science/article/pii/S0040162517315536
-    quadreadtxt: "Ten Years Of Research Change Using Google Trends: From The
-      Perspective Of Big Data Utilizations And Applications"
+    quadreadtxt: "ಹತ್ತು ವರ್ಷಗಳ ಸಂಶೋಧನೆಗಳು, ಗೂಗಲ್‌ ಪ್ರವೃತ್ತಿಗಳ ಬಳಕೆಯನ್ನೇ ಬದಲಾಯಿಸಿವೆ :
+      ಬೃಹತ್‌ ಮಾಹಿತಿ ಬಳಕೆ ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್‌ ಗಳು."
     quadreadvis: /static/img/B_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7438693/
-    quadreadtxt: "Prediction of COVID-19 Outbreaks Using Google Trends in India: A
-      Retrospective Analysis"
+    quadreadtxt: "ಗೂಗಲ್‌ ಪ್ರವೃತ್ತಿಗಳ ಬಳಸಿಕೊಂಡು ಕೋವಿಡ್-19‌  ರೋಗ ಆಸ್ಫೋಟದ ಊಹೆ : ಹಿನ್ನೋಟ
+      ವಿಮರ್ಶೆ"
     quadreadvis: /static/img/B_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.weforum.org/agenda/2020/09/google-search-trend-data-coronavirus-health-global-epidemiology/
-    quadreadtxt: Here's What Google Trends Can Tell Us About The Spread Of Coronavirus
+    quadreadtxt: ಕರೋನ ವೈರಾಣುವಿನ ಸಾಂಕ್ರಾಮಿಕತೆಯನ್ನು ಕುರಿತಂತೆ ಗೂಗಲ್‌ ಪ್ರವೃತ್ತಿಗಳು ಏನು
+      ಹೇಳುತ್ತವೆ ಎಂಬುದು ಇಲ್ಲಿದೆ.
     quadreadvis: /static/img/B_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/31l4XGaNRHTjgS6y3LWxZi
-    quadlisttxt: Coronavirus—Science in the Pandemic
+    quadlisttxt: ಕರೋನ ವೈರಾಣು – ರೋಗ ಪಿಡುಗಿನಲ್ಲಿ ವಿಜ್ಞಾನ
     quadlistvis: /static/img/B_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=vJTHNobkh18
-    quadwatchtxt: Correlations Between COVID-19 Cases & Google Trends Data in the US
+    quadwatchtxt: ಸಂಯುಕ್ತ ರಾಜ್ಯಗಳಲ್ಲಿ, ಕೋವಿಡ್-19‌ ಪ್ರಕರಣಗಳು ಮತ್ತು ಗೂಗಲ್‌ ಪ್ರವೃತ್ತಿಗಳ
+      ಅಂಕಿ-ಸಂಖ್ಯೆಗಳ ನಡುವೆ ಸಾಮ್ಯತೆ
     quadwatchvis: /static/img/B_WK_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventtxt: "Real-Time Contagion Science in the 21st Century: The Role of Data
