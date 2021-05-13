@@ -31,25 +31,25 @@ expertbio: ಡಾ.ಜಾರ್ಜ್‌ ಪೀಟರ್‌ ಲೊಮೊನೋಸ
 expertpic: /static/img/pl_george_portrait.png
 readinglist:
   - quadreadlink: https://theconversation.com/plant-viruses-from-crop-pathogens-to-key-players-in-bio-nanotechnology-47235
-    quadreadtxt: "Plant Viruses: From Crop Pathogens To Key Players In Bio-Nanotechnology"
+    quadreadtxt: "ಸಸ್ಯ ವೈರಾಣುಗಳು: ಬೆಳೆಗೆ ತಗುಲುವ ಕ್ರಿಮಿಗಳಿಂದ ಜೀವ-ನ್ಯಾನೋ-ತಂತ್ರಜ್ಞಾನದ
+      ವರೆಗೂ ಪ್ರಮುಖ ಜೀವ ಕಣಗಳು"
     quadreadvis: /static/img/c_pl_qua_readvis_1.png
   - quadreadlink: https://www.livemint.com/Science/pX447h0j0ynbvUvlBJ1rZM/Plant-based-polio-vaccine-developed-scientists.html
-    quadreadtxt: Plant Based Polio Vaccine Developed
+    quadreadtxt: ಸಸ್ಯ ಆಧಾರಿತ ಪೋಲಿಯೋ ಲಸಿಕೆ ವಿಕಸನಗೊಂಡಿದೆ
     quadreadvis: /static/img/c_pl_qua_readvis_2.png
   - quadreadlink: https://moelling.ch/wordpress/wp-content/uploads/2018/01/Rev_Roum-_Tulipomania-3.pdf
-    quadreadtxt: The First Financial Crisis By Viruses
+    quadreadtxt: ವೈರಾಣುಗಳಿಂದ ಉಂಟಾಗಿರುವ ಮೊದಲ ಹಣಕಾಸು ಬಿಕ್ಕಟ್ಟು
     quadreadvis: /static/img/c_pl_qua_readvis_3.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/40AbuVcZfal45SJrjtV8HL
-    quadlisttxt: " Behind the Leaf Podcast "
+    quadlisttxt: ನೇಪಥ್ಯದಲ್ಲಿ ಎಲೆಯ ಪೋಡ್ ಕ್ಯಾಸ್ಟ್
     quadlistvis: /static/img/c_pl_qua_listvis_1.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=pzJ_mILGYL8
-    quadwatchtxt: "Studying A Plant Virus: Fundamental Research To Application And
-      Back Again"
+    quadwatchtxt: "ಸಸ್ಯ ವೈರಾಣುವಿನ ಅಧ್ಯಯನ: ಬಳಕೆ ಮತ್ತು ಪುನರ್ಬಳಕೆಗೆ ಮೂಲಭೂತ ಸಂಶೋಧನೆ "
     quadwatchvis: /static/img/c_pl_qua_watchvis_1.png
   - quadwatchlink: https://www.youtube.com/watch?v=jeLwY4Ez4V8
-    quadwatchtxt: Shaping The Future Virtual Seminar On Vaccine Development
+    quadwatchtxt: "ಲಸಿಕೆಗಳ ವಿಕಸನವನ್ನು ಕುರಿತಂತಹ ಭವಿಷ್ಯದ ವಾಸ್ತವ ಸಮ್ಮೇಳನಗಳನ್ನು ರೂಪಿಸುವ ಬಗೆ "
     quadwatchvis: /static/img/c_pl_qua_watchvis_2.png
 eventlist:
   - quadeventlink: http://bit.ly/lecture-ramakrishnan
