@@ -3,7 +3,11 @@ layout: exhibit_common
 ---
 
 	{% include "./partials/coverpage.html" %}
-	{% set quote="Ants have been using antibiotics in their fight against pathogens for a much longer time." %}	
+	{% if kannada == 'true' %}
+		{% set quote="ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರದ ವಿಜ್ಞಾನಿಗಳು, ಜೀವರೋಧಕಗಳ ಸಂಸ್ಕರಣೆಗಾಗಿ ಇರುವೆ / ಗೊದ್ದಗಳ ಗುಂಪಿನ ಹುಡುಕಾಟ ನೆಡೆಸಿದ್ದಾರೆ." %}	
+	{% else %}
+		{% set quote="Ants have been using antibiotics in their fight against pathogens for a much longer time." %}	
+	{% endif %}
 	{% include "./partials/about_section.html" %}
 	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
 		<div class="flex flex-row w-auto h-full pt-36">
@@ -17,7 +21,32 @@ layout: exhibit_common
 	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
 		<div class = "flex flex-row w-auto h-full pt-36">
 			<div class="h-full flex-initial w-240">
-				<p class="text-base h-5/6 xl:text-md ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">
+				<p class="text-base h-5/6 xl:text-md ml-32 pr-16 font-normal whitespace-pre-wrap
+				{{"font-tunga" if kannada else "font-trade"}}
+				">
+				{{
+					
+					"
+					ದಕ್ಷಿಣ ಅಮೇರಿಕಾದ ಎಲೆ ಕಟುಕ ಇರುವೆಗಳು / ಗೊದ್ದಗಳು ತಮ್ಮ ನಿವಾಸ ಗೂಡನ್ನು, ಕ್ರಿಮಿಗಳು
+					ಮತ್ತು ಇತರೆ ವೈರಿಗಳಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು, ʼಆರ್ಸೆನಲ್”‌ ಎಂಬ ರಾಸಾಯನಿಕ ದ್ರವವನ್ನು
+					ಸೂಸುತ್ತವೆ ಎಂದು ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ  ಮತ್ತು ಈಸ್ಟ್‌ ಏಂಜಲಿಯಾ (ಯೂ.ಏ.ಯಿ) ಸಂಸ್ಥೆಗಳ
+					ಸಂಶೋಧಕರಿಗೆ ತಿಳಿದು ಬಂದಿದೆ.
+					<br><br>
+
+					ಎಲೆ ಕಟುಕ ಗೊದ್ದಗಳ (ಕೆಂಜಿಗೆ) ಮೀಸೆಗಳ ಮೇಲೆ ಲಭ್ಯವಾಗುವ ಸೂಕ್ಷ್ಮ ಜೀವಿಗಳು, ʼಆಕ್ಟಿನೋಮೈಸೈಟ್”‌ ಬ್ಯಾಕ್ಟೀರಿಯಾವನ್ನು ಹೇರಳವಾಗಿ ಹೊಂದಿರುತ್ತವೆ.  ಈ ಸೂಕ್ಷ್ಮಜೀವಿಗಳು ವಿವಿಧ ಬಗೆಯ ನೈಸರ್ಗಿಕ ಜೀವರೋಧಕ ಉತ್ಪನ್ನಗಳನ್ನು ಹೊರಹೊಮ್ಮಿಸುತ್ತವೆ.  ಇವುಗಳಲ್ಲಿರುವ ಹಲವು ಜೀವ ರೋಧಕಗಳನ್ನು ಔಷಧ ತಯಾರಿಕೆಗೆ ಬಳಸಲಾಗುತ್ತದೆ.  
+					<br><br>
+					ಕೆಂಜಿಗೆಗಳು, ಹುಟ್ಟುತ್ತಲೇ ಗೊಡ್ಡಾಗಿರುತ್ತವೆ ಹಾಗೂ  ರೋಗ ನಿರೋಧಕʼಆಕ್ಟಿನೋಮೈಸೈಟ್”‌ ಸೂಕ್ಷಾಣುಗಳು ಇವುಗಳ ದೇಹವನ್ನು ಆವರಿಸಿಕೊಳ್ಳುತ್ತವೆ.  ಬೇರೆ ವಿಧದ ಸೋಂಕಿನ  ಸೂಕ್ಷ್ಮಾಣುಗಳು, ಈ ಕೆಂಜಿಗೆಗಳ ಮೀಸೆಯ ಮೇಲಿರುವ ಸೂಕ್ಷ್ಮಾಣುಗಳನ್ನು ಎದುರಿಸಿ, ತಮ್ಮ ಅಧಿಪತ್ಯ ಸಾಧಿಸಲು, ಅವಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಲಶಾಲಿಯಾದ ಪ್ರತಿರೋಧಕ ದ್ರವ ಹೊಂದಿರ ಬೇಕಾಗುತ್ತದೆ.  
+					<br><br>
+					ಹೀಗಾಗಿ, ಜೀವತಂತ್ರಜ್ಞಾನಕ್ಕೆ ಪೂರಕವಾಗಿ ನವೀನ ರಸಾಯನಶಾಸ್ತ್ರದ ಅಧ್ಯಯನ ಮತ್ತು ಅರಿವಿಗೆ , ಕೆಂಜಿಗೆಗಳು ಪುಷ್ಕಳವಾದ ಸೂಕ್ಷ್ಮ ಜೀವ ಪರಿಸರದ ಮೂಲವಾಗಿ ಪರಿಣಮಿಸಿವೆ.   
+					<br><br>
+
+					ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ  ಮತ್ತು ಯೂ.ಏ.ಯಿ ಸಂಸ್ಥೆಗಳ ಸಂಶೋಧಕರ ತಂಡವು, ಎಲೆ ಕಟುಕ ಕೆಂಜಿಗೆಗಳಿಂದ ಹಿಡಿದು ಆಫ್ರಿಕಾದ ಟೆಟ್ರಾಪೊನೇರಾ ವನ್ನು ಒಳಗೊಂಡಂತೆ ಇರುವೆ / ಗೊದ್ದಗಳ ವಿವಿಧ ತಳಿಗಳಲ್ಲಿ ಕಂಡು ಬರುವ  ಸುಮಾರು 400 ಕ್ಕೂ ಹೆಚ್ಚು ಬಗೆಯ ಆಕ್ಟಿನೋಮೈಸೈಟ್‌ ವಂಶವಾಹಕ ಎಲೆಗಳ ಸಂಕಲನ ಮಾಡಿದ್ದಾರೆ.  ಸಂಶೋಧಕರು, ಇಂತಹ 100 ಕ್ಕೂ ಹೆಚ್ಚು ಅಣುವಂಶೀಯ ಎಲೆಗಳನ್ನು ಸಂವರ್ಧನಗೊಳಿಸಿ, ಹೊಸ ಬಗೆಯ ಸೂಕ್ಷ್ಮಾಣುರೋಧಕ ಕಣಗಳ ಹಡುಕಾಟ ನೆಡೆಸಿದ್ದಾರೆ.  ಹೊಸ ಬಗೆಯ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿಕೊಂಡು, ಈ ಸೂಕ್ಷ್ಮ ಕಣಗಳ ಜೈವಿಕ ಸಂಸ್ಕರಣೆಗೆ ಕಾರಣವಾಗಿರುವ ವಂಶವಾಹಕಗಳ ಗುಂಪನ್ನು ಸುಲಭವಾಗಿ ಕಂಡು ಹಿಡಿಯಲಾಗುತ್ತದೆ.  
+					" 
+					| safe
+				
+				if kannada else 
+				
+					"
 					Researchers at the John Innes Centre and University of East Anglia (UEA) have
 					investigated the chemical arsenal employed by species such as South American
 					leafcutter ants in defending colonies against rivals and pathogens.
@@ -33,14 +62,31 @@ layout: exhibit_common
 					<br><br>
 
 					From a range of ants, including leafcutters and African Tetraponera species, the team at the John Innes Centre and UEA have assembled a library of more than 400 strains of actinomycetes. Nearly 100 of these have been genome sequenced and researchers are continuing to mine this resource for new antibacterial molecules. It is a search aided by new tools which identify more rapidly the clusters of genes responsible for the biosynthesis of molecules.
+					"
+					| safe}}
 
 				</p>
 			</div>	
 
 			<div class="h-full flex-initial w-240">
-				<p class="text-base xl:text-md ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">
+				<p class="text-base xl:text-md ml-32 pr-16 font-normal whitespace-pre-wrap
+				{{"font-tunga" if kannada else "font-trade"}}
+				">
+				{{
+					"ಸಸ್ಯ –ಕೆಂಜಿಗೆಗಳ ನಡುವಣ ರಾಸಾಯನಿಕ ಸಂಬಂಧದ ಅನ್ವೇಷಣೆಯಿಂದಾಗಿ,  ಸಹಜವಾಗಿಯೇ ಕ್ರಮಬದ್ಧ ಜೀವನ ಚರ್ಯೆ ಉಳ್ಳ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು ತಮ್ಮ ವಸಾಹತು ತಾಣಗಳನ್ನು ತೊರೆಯುವ ಪ್ರಕ್ರಿಯೆಯು ಬೆಳಕಿಗೆ ಬಂದಿದೆ.  2018ರಲ್ಲಿ ಪ್ರಕಾಶಿತಗೊಂಡಿರುವ ಸಂಶೋಧನಾ ಪತ್ರದ ಪ್ರಕಾರ, ಎಲೆ ಕಟುಕ ಕೆಂಜಿಗೆಗಳ ಜೊತೆಗೆ ಸುಮಾರು 50 ದಶ ಲಕ್ಷ ವರ್ಷಗಳಿಂದ  ʼಎಸ್ಕೋವೋಪ್ಸಿಸ್‌ʼಎಂಬ ಸಹಚರ ಫಂಗಸ್(ಶಿಲೀಂದ್ರ)‌, ವಿಕಸನಗೊಂಡಿವೆ.  ಈ  ಪರಜೀವಿಗಳು, ವತ್ತಡದ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ, ಕೆಂಜಿಗೆಗಳ ನೆಡವಳಿಕೆಯನ್ನು ಹೋಲುವ ಸ್ವಭಾವ ಪರಿವರ್ತಕ ರಾಸಾಯನಿಕಗಳನ್ನು ಸ್ರವಿಸಿ ಇಡೀ ಕೆಂಜಿಗೆಗಳ ವಸಾಹತ್ತಿನ ಮೇಲೆ ಅಸ್ಥಿತ್ವ ಸಾಧಿಸುತ್ತವೆ.  ಪರಿಣಾಮ ಸ್ವರೂಪವಾಗಿ, ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು ತಮ್ಮ ಗೂಡನ್ನು ಬರಿದು ಮಾಡಿ ತೊರೆಯುತ್ತವೆ.    
+					<br><br>
+					“ಕುತೂಹಲ ಸಹಿತವಾದ ವೈಜ್ಞಾನಿಕ ಸಂಶೋಧನೆಯು ಎಣಿಸಲಾಗದ ಹೊಸ ಅನ್ವೇಷಣೆಗಳಿಗೆ ಹೇಗೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತವೆ ಎಂಬುದಕ್ಕೆ ಇದು ಒಳ್ಳೆಯ ಉದಾಹರಣೆ” ಎಂದು ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್‌ ಅಭಿಪ್ರಾಯ ಪಟ್ಟಿದ್ದಾರೆ.  “ನಾವು ರಾಸಾಯನಿಕ ಪರಿಸರ ವಿಜ್ಞಾನವನ್ನು ಅರಿಯುವ ಸಲುವಾಗಿ , ಈ ಇಡೀ ಕೆಂಜಿಗೆ ಗೂಡಿನ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಆಸಕ್ತಿ ತೋರಿದ್ದೆವು, ಜೀವರೋಧಕಗಳ ಅಧ್ಯನ ಮಾಡಲು ಹೋಗಿರಲಿಲ್ಲ.  ಈಗಲೂ ನಾವು ಕಂಡುಹಿಡಿದಿರುವ ರಾಸಾಯನಿಕಗಳ ವಾಣಿಜ್ಯ ಮೂಲ್ಯ ಎಷ್ಟು ಎಂಬ ಅರಿವು ನಮಗೆ ಇಲ್ಲ.  ಆದರೆ ಈ ರಾಸಾಯನಿಕಗಳ ಸಹಾಯದಿಂದ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸ ಬಹುದು ಎಂಬ ಮಾಹಿತಿ ದೊರಕ ಬಹುದು .  ನಾವು ಗೊದ್ದ / ಇರುವೆಗಳ ಸೂಕ್ಷ್ಮ ಜೀವ ಪರಿಸರದ ಸಂಶೋಧನೆಯನ್ನು ಮುಂದುವರೆಸುತ್ತೇವೆ, ಹಾಗೆಯೇ ಸಸ್ಯಗಳ ಬೇರುಗಳು ಮತ್ತು ಸಸ್ಯ ಅಂತರ್ಜೀವಿಗಳ ಅಧ್ಯಯನವನ್ನು ಸಹ ಮಾಡುವೆವು” ಎಂದು ಹೇಳುತ್ತಾರೆ. 
+					<br><br>
+				  
+					ಜೀವರೋಧಕಗಳು ಸೂಕ್ಷ್ಮಾಣುಗಳನ್ನು ಯಾವ ರೀತಿ ಉದ್ದೇಶಿಸುತ್ತವೆ, ಎಂಬುದು ಸಹ ಈ ಸಂಶೋಧಕ ತಂಡದ ಆಸಕ್ತಿಯ ವಿಷಯವಾಗಿದೆ.  ಪೆಸಿಲಿನ್‌ ಸಮೂಹಕ್ಕೆ ಸೇರಿದ ಜೀವರೋಧಕಗಳು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣುಗಳ ಕೋಶ ಪೊರೆಯನ್ನು ಹೊಕ್ಕಿ ನಾಶ ಮಾಡುತ್ತವೆ.  ʼಏಜಿತ್ರೋಮೈಸಿನ್‌ʼ ಎಂಬ ಮತ್ತೊಂದು ಜೀವರೋಧಕವು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಜೀವ ಕಣಗಳು ಪ್ರೋಟೀನ್ನ ಸಂಸ್ಕರಣವನ್ನು ಮಾಡದಂತೆ ತಡೆಯುತ್ತವೆ.  
+					<br><br>
+				  
+					ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್‌ ಅವರು ವಿವರಿಸುವಂತೆ, “ಜೀವ ಕಣಗಳ ಉಳಿವು ಮತ್ತು ಬೆಳವಣಿಗೆಗೆ  ಅತ್ಯಾವಶ್ಯಕವಾಗಿ ಬೇಕಾಗಿರುವ ಎನ್ಸೈಮ್‌, ರಿಸೆಪ್ಟರ್‌ ಅಂತಹ ಯಾವುದೇ ರಾಸಾಯನಿಕವನ್ನು ನಾಶ ಮಾಡಿದರೂ ಸಹ ಅವುಗಳ ಬೆಳವಣಿಗೆ ಕುಂದುತ್ತದೆ, ಅವು ಅಳಿಯುತ್ತವೆ.  ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧದ ವಿರುದ್ಧ ಹೋರಾಡಲು, ಹೊಸ ಲಕ್ಷ್ಯಗಳನ್ನು  ಹುಡುಕುವುದು ಸಹ ಹೊಸ ಬಗೆಯ ಜೀವ ರೋಧಕಗಳನ್ನು ಸಂಸ್ಕರಿಸುವಷ್ಟೇ ಮುಖ್ಯವಾದುದು. ಹೊಸ ಕಣಗಳ ಸಂಸ್ಕರಣದಲ್ಲಿ,  ನೈಸರ್ಗಿಕ ಲಕ್ಷ್ಯಗಳ ಸ್ವಭಾವದ ಅರಿವು, ಬಹು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತವೆ”."
+					| safe
 
-					Interest in exploiting plant ant chemistry led to an increasing fascination with the phenomenon of colony collapse, where the normally meticulous leafcutter ants down tools and desert their nest. The secret, according to a study published in 2018, lies in a behaviour-modifying chemical weapon produced by Escovopsis, a fungal parasite that has co-evolved with the leafcutter ants over the past 50 million years. At times of stress, compounds produced by the parasite overpower the colony by manipulating the behaviour of ants, ultimately resulting in nest abandonment.
+					if kannada else
+
+					"Interest in exploiting plant ant chemistry led to an increasing fascination with the phenomenon of colony collapse, where the normally meticulous leafcutter ants down tools and desert their nest. The secret, according to a study published in 2018, lies in a behaviour-modifying chemical weapon produced by Escovopsis, a fungal parasite that has co-evolved with the leafcutter ants over the past 50 million years. At times of stress, compounds produced by the parasite overpower the colony by manipulating the behaviour of ants, ultimately resulting in nest abandonment.
 					<br><br>
 				  
 					It’s an example of how curiosity-driven science leads to unexpected new avenues of exploration says Professor Wilkinson,“We became fascinated with the ecology of the whole nest system – not so much due to antibiotic discovery but to understand the chemical ecology. We don’t yet know if the compounds we discovered have any value commercially, but maybe they can tell us something about how you might control ants. We will continue to investigate the ant microbiome, but we are also looking at plant roots and plant endophytes – the bacteria from inside plants.”
@@ -50,14 +96,32 @@ layout: exhibit_common
 					<br><br>
 					
 					Explains Professor Wilkinson. “That can be anything, an enzyme, a receptor – something that is essential for the organism to survive. If you disrupt that then it dies or stops growing. Highlighting new targets is potentially just as valuable as finding new antibiotics in the fight against antimicrobial resistance. By understanding how natural products work we can start to design new molecules for those targets.”
-
+					" | safe
+				}}
 				</p>
 			</div>	
 
 			<div class="h-full flex-initial w-240">
-				<p class="text-base xl:text-md ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">
+				<p class="text-base xl:text-md ml-32 pr-16 font-normal whitespace-pre-wrap
+				{{"font-tunga" if kannada else "font-trade"}}
+				">
+					{{
+						"(ಏ.ಎಂ.ಆರ್)‌ ಸೂಕ್ಷ್ಮಾಣುರೋಧಕದ ಪ್ರತಿರೋಧವು ಜಾಗತಿಕ ವಿಪತ್ತಾಗಿ ಪರಿಣಮಿಸಿದೆ.  ಜೀವರೋಧಕಗಳನ್ನು ವಿರೋಧಿಸುವ ಸೂಪರ್ಬಗ್‌ ಗಳು ಅಸ್ಥಿತ್ವಕ್ಕೆ ಬಂದಿವೆ. 
+						<br><br>
 
-					The backdrop to this is a global crisis caused by antimicrobial resistance (AMR), the emergence of so-called superbugs that are resistant to antibiotics. The discovery of penicillin by Alexander Fleming in 1928 heralded a new era of drug discovery with research particularly successful in harnessing molecules from soil bacteria. By the 1960s, bacterial infections which had been the leading global killer in 1900 could be treated swiftly and inexpensively.
+						ಅಲೆಕ್ಸಾಂಡರ್‌ ಫ್ಲೆಮಿಂಗ್‌ , 1928 ರಲ್ಲಿ ಪೆಂಸಿಲಿನ್‌ ಅನ್ನು ಅವಿಶ್ಕರಿಸಿದರು.  ಮಣ್ಣಿನಲ್ಲಿರುವ ಸೂಕ್ಷ್ಮಾಣುಗಳನ್ನು ಸಂಸ್ಕರಿಸಿ, ಈ ಹೊಸ ಬಗೆಯ ಔಷಧವನ್ನು ತಯಾರಿಸಲಾಗಿತ್ತು.  1900ರ ಶತಮಾನದಲ್ಲಿ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣುಗಳಿಂದ ಉಂಟಾಗುತ್ತಿದ್ದ ಸೋಂಕುಗಳಿಂದಾಗಿ ಹಲವರು ಸಾಯುತ್ತಿದ್ದರು.  ಈ ಅವಿಶ್ಕಾರದಿಂದಾಗಿ, ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣುಗಳಿಂದ ಉಂಟಾಗುತ್ತಿದ್ದ ಬಹುತೇಕ ಸೋಂಕುಗಳಿಗೆ 1960 ರ ಹೊತ್ತಿಗೆ, ತ್ವರಿತ ಗತಿಯಲ್ಲಿ ಕಡಿಮೆ ಬೆಲೆಯಲ್ಲಿ ಚಿಕಿತ್ಸೆ ನೀಡ ಬಹುದಾಯಿತು. 
+						<br><br>
+					  
+						ಜೀವರೋಧಕಗಳ ಹೇರಳ ಬಳಕೆ ಮತ್ತು ದುರ್ಬಳಕೆಯ ಕಾರಣದಿಂದ, ಜೀವರೋಧಕಗಳ ವಿರುದ್ಧ, ಬಲಶಾಲಿ ಪ್ರತಿರೋಧಕ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ಉಗಮವಾಗಿ, 2050ರ ಹೊತ್ತಿಗೆ,  ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸೂಕ್ಷ್ಮಾಣುಗಳಿಂದ ಉಂಟಾಗುವ ಸೋಂಕುಗಳು, ಬಹುಶಃ ಕ್ಯಾನ್ಸರ್‌ ಪೀಡಿತರ ಸಂಖ್ಯೆಗಳನ್ನೂ ಹಿಂದೆಹಾಕಿ, ಮುಂದುವರೆಯ ಬಹುದು, ಅತಿ ಹೆಚ್ಚು ಮರಣಕಾರಕವಾಗಿ ಪರಿಣಮಿಸ ಬಹುದು ಎಂದು ಅಂದಾಜು ಮಾಡಲಾಗಿದೆ.  ಆದ್ದರಿಂದ, ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ  ಮತ್ತು ಯೂ.ಏ.ಯಿ ಸಂಸ್ಥೆಗಳ ಸಂಶೋಧನೆಗಳ ಮೂಲಭೂತ ಕಾರ್ಯವು ಜಾಗತಿಕ ಆರೋಗ್ಯ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಯಾವ ಹಂತ ತಲುಪುತ್ತದೆ ?   
+						<br><br>
+					  
+						“ನಾವು ಈ ಪ್ರಕ್ರಿಯೆಯ ಪ್ರಾರಂಭಿಕ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದೇವೆ.  ಹೊಸ ಬಗೆಯ ಸೂಕ್ಷ್ಮ ಕಣವನ್ನು ಅವಿಶ್ಕರಿಸಿದರೆ, ಅವುಗಳ ಲಕ್ಷ್ಯವನ್ನು ಕಂಡು ಹಿಡಿಯ ಬೇಕು, ಹಾಗೆಯೇ ಚಿಕಿತ್ಸೆಗೆ ಅವು ಯೋಗ್ಯವೇ ಎಂದು ಅರಿಯ ಬೇಕು.  ಲಕ್ಷ್ಯವನ್ನು ಪತ್ತೆ ಮಾಡಿದ ನಂತರ, ಅವುಗಳನ್ನು ತಡೆಯ ಬಲ್ಲ ಕಣಗಳನ್ನು ಸಂಸ್ಕರಿಸ ಬೇಕು.  ಹೀಗೆ ಚಿಕಿತ್ಸೆಗೆ ಅನುಕೂಲಕರವಾದ ಔಷಧವನ್ನು ಸಂಸ್ಕರಿಸಲು 10-15  ವರ್ಷವಾದರೂ ಹಿಡಿದು ಬಿಡುತ್ತದೆ” ಎಂದು ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್‌ ಅಭಿಪ್ರಾಯ ಪಟ್ಟಿದ್ದಾರೆ 
+						<br><br>
+					  
+						ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್ ಅವರು ಸುಮಾರು 16 ವರ್ಷಗಳ ಕಾಲ ಔಷಧಗಳ ತಯಾರಿಕೆಗೆ ಅವಶ್ಯಕವಾದ ಜೀವ ತಂತ್ರಜ್ಞಾನದ ಸಂಶೋಧನೆಯಲ್ಲಿ ತೊಡಗಿದ್ದರು.  ನಂತರ ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ ದಲ್ಲಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ.  “ಶೈಕ್ಷಣಿಕ ರಂಗಕ್ಕೆ ಮರಳಲು ಮುಖ್ಯ ಕಾರಣ ವೆಂದರೆ, ನಾನು ಯಾವುದೇ ಅಂತಿಮ ಉತ್ಪಾದನೆಯ ಬಗ್ಗೆ ಚಿಂತಿಸಲು ಇಚ್ಛಿಸುವುದಿಲ್ಲ.  ಔಷಧ ಉದ್ಯೋಗದಲ್ಲಿ , ಚಿಕಿತ್ಸೆಗೆ ಅನುಕೂಲಕರ ಔಷಧಿಯ ಉತ್ಪಾದನೆಯಿಂದ ಲಭ್ಯವಾಗುವ, ಹಣಕ್ಕೆ ಪ್ರಾಧಾನ್ಯತೆ ನೀಡಲಾಗುತ್ತದೆ.  ಕುತೂಹಲಕಾರಿಯಾದ ವಿಜ್ಞಾನದ ಸಂಶೋಧನೆಗಳನ್ನು, ಅದರಿಂದ ಹೊರ ಹೊಮ್ಮುವ ಹೊಸ ಅವಿಶ್ಕಾರ ಮತ್ತು ಜ್ಞಾನವನ್ನು ಬದಿಗೊತ್ತ ಬೇಕಾಗುತ್ತದೆ.  ಇಲ್ಲಿ ವೈಜ್ಞಾನಿಕ ಕುತೂಹಲ, ಸೂಕ್ಷ್ಮ ಕಣಗಳಿಗೆ ಕಾರಣವಾದ ಸೂಕ್ಷ್ಮಾಣುಗಳನ್ನು ಅರಿಯ ಬಹುದು” ಎಂದು ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್‌ ಅಭಿಪ್ರಾಯ ಪಟ್ಟಿದ್ದಾರೆ. "
+						| safe
+						if kannada else 
+					"The backdrop to this is a global crisis caused by antimicrobial resistance (AMR), the emergence of so-called superbugs that are resistant to antibiotics. The discovery of penicillin by Alexander Fleming in 1928 heralded a new era of drug discovery with research particularly successful in harnessing molecules from soil bacteria. By the 1960s, bacterial infections which had been the leading global killer in 1900 could be treated swiftly and inexpensively.
 					<br><br>
 				  
 					With the emergence of bacteria resistant to antibiotics, partly due to overuse and misuse, it is estimated that bacterial infections could move ahead of cancer as a cause of death by 2050. So where does the fundamental work carried out by the John Innes Centre and the UEA figure in this global health race?
@@ -67,6 +131,8 @@ layout: exhibit_common
 					<br><br>
 				  
 					Professor Wilkinson spent 16 years in drug discovery biotechnology before joining the John Innes Centre. “One of the reasons for coming back to academia is that I don’t want to be constrained with thinking about the end product. In industry you are always looking towards a therapeutic output, ultimately to make money. We had to let go of all kinds of interesting science that might lead to even more interesting outcomes. Here we are driven by scientific curiosity to understand how microbes make molecules.”
+					" | safe 
+					}}
 				</p>
 			</div>	
 

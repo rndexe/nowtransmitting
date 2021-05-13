@@ -3,7 +3,11 @@ layout: exhibit_common
 ---
 {% set embedwebsite="true" %}
 {% include "./partials/coverpage.html" %}
-{% set quote="The Bombay Plague of 1896 marked a turning point in disease control in India." %}	
+{% if kannada == 'true' %}
+    {% set quote="1896 ರ ಬಾಂಬೆ ಪ್ಲೇಗ್‌, ಭಾರತದಲ್ಲಿಯೇ ಹೊಸ ತಿರುವಿಗೆ ನಾಂದಿ ಹಾಡಿತು." %}	
+{% else %}
+    {% set quote="The Bombay Plague of 1896 marked a turning point in disease control in India." %}	
+{% endif %}
 {% include "./partials/about_section.html" %}
 
 
