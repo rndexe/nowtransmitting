@@ -16,7 +16,8 @@ description: >-
 
 
   ಯೂರೋಪ್‌ ನ‌ ಪೂರ್ವ ಭಾಗಕ್ಕಿರುವ ದೇಶಗಳ ದೃಷ್ಟಿಕೋನದಿಂದ, ಪೋಲಿಯೋ ಲಸಿಕೆ ಮತ್ತು ಚಿಕಿತ್ಸೆಯ ಇತಿಹಾಸದ ಒಳನೋಟ ಮತ್ತು ವಿಮರ್ಶೆಯು, ರೋಗ ಪಿಡುಗಿನ ಅಂತ್ಯವನ್ನು ನಿರ್ಧರಿಸಲು ಸಹಕಾರಿಯಾಗ ಬಹುದು.  ಯಾವಾಗ, ಹೇಗೆ ಮತ್ತು ಎಂಥವರಿಗೆ ಈ ರೋಗಗಳು  ತಗಲುವುದಿಲ್ಲ, ರೋಗ ಪಿಡುಗಿನ ಅಂತ್ಯ ಹೇಗೆ ಮತ್ತು ತದನಂತರದ ಸ್ಥಿತಿ ಏನು ಎಂಬುದರ ಬಗೆಗೆ ಡಾ.ಡೋರಾ ವರ್ಘ ಉಪನ್ಯಾಸ ನೀಡಲಿದ್ದಾರೆ.
-link: http://bit.ly/lecture-vargha
+link: ""
+reclink: https://www.youtube.com/embed/e1nxmtCyTrE
 expertname: ಡೋರಾ ವಾರ್ಘ
 expertbio: ಡಾ. ಡೋರಾ ವರ್ಘ,  ಎಕ್ಸೆಟರ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದ , ವೆಲ್ಲ್‌ಕಮ್ ಆರೋಗ್ಯ,
   ಸಂಸ್ಕೃತಿ ಮತ್ತು ಪರಿಸರ‌ ಕೇಂದ್ರದ ಇತಿಹಾಸದ ವಿಭಾಗದಲ್ಲಿ ಹಿರಿಯ ಉಪನ್ಯಾಸಕರಾಗಿ ಸೇವೆ
@@ -31,24 +32,24 @@ expertpic: /static/img/pl_dora.png
 readinglist:
   - quadreadlink: https://www.cambridge.org/core/books/polio-across-the-iron-curtain/883EE15249730CF62FC95A52F555096C#fndtn-information
     quadreadtxt: " Polio Across the Iron Curtain"
-    quadreadvis: /static/img/e_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/H_PL_QUA_READVIS_1.jpg
   - quadreadlink: http://bostonreview.net/science-nature/jeremy-greene-dora-vargha-how-epidemics-end
     quadreadtxt: How Epidemics End
-    quadreadvis: /static/img/e_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/H_PL_QUA-READVIS_2.jpg
   - quadreadlink: https://www.nytimes.com/2020/05/10/health/coronavirus-plague-pandemic-history.html
     quadreadtxt: How Pandemics End
-    quadreadvis: /static/img/e_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/H_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/1BsDbDO6fv7XbLYHeD4LXy?si=7i8f1dcfT4ORl9_-o9aELg
     quadlisttxt: Polio Across the Iron Curtain
-    quadlistvis: /static/img/e_exhibit_qua_atnvis_2.jpg
+    quadlistvis: /static/img/H_PL_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=J_y_i8tvkb4
     quadwatchtxt: How Long Will the Coronavirus Last
-    quadwatchvis: /static/img/e_exhibit_qua_atnvis_2.jpg
+    quadwatchvis: /static/img/H_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=26uWfY7MFbA
     quadwatchtxt: No End in Sight? Epidemic Temporalities and Narratives in Modern Europe
-    quadwatchvis: /static/img/e_exhibit_qua_atnvis_2.jpg
+    quadwatchvis: /static/img/H_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventtxt: Vaccines | ಉಪನ್ಯಾಸ | Gagandeep Kang
     quadeventlink: http://bit.ly/lecture-kang

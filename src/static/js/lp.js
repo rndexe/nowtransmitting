@@ -130,7 +130,6 @@ function createProgramPopup(title,type,thumbnail,dateText,timeText,url){
 var exhibitcards = document.getElementById('exhibit-card')
 
 loadJSON(function(json) {
-   console.log(json)
     var newjson = [
         {
             "title": "Mapping Cholera: A Tale of Two Cities",
@@ -239,19 +238,15 @@ loadJSON(function(json) {
        document.getElementById("buttonpath").setAttribute('d','M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z');
 
        var n = this.getNodeAt(params.pointer.DOM)
-       console.log(`Node is ${n}`)
        //window.location = json[n-8].url;
        //Once programmes are added, check for 8 < n < 23 here and check for n > 23 again for programmes
        if(n!=undefined){
             if(n>23){
-                console.log("Node is event node!")
                 var d = new Date()
                 var date = d.getDate()
                 var month = d.getMonth()
                 var year = d.getFullYear()
-                console.log(d)
                 if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
-                    console.log("Weeek 1")
                     if(n==24){
                         var pop = createProgramPopup(
                             "Antimicrobial Resistance: The Pandemic in the Shadows by Jyoti Joshi",
@@ -329,12 +324,9 @@ loadJSON(function(json) {
                     }
                 }
                 else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-3')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-9')) ){
-                    console.log("Week 2")
                     var newjs = json.filter((event)=>{
                         return (new Date(event.date) >= new Date('2021-5-3')) && (new Date(event.date) <= new Date('2021-5-9'))
                     });
-                    console.log("JSON IS ")
-                    console.log(newjs)
                     var pop = createProgramPopup(
                         newjs[n-24].title,
                         newjs[n-24].type.split(",")[0],
@@ -352,12 +344,9 @@ loadJSON(function(json) {
                     
                 }
                 else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-10')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-16')) ){
-                    console.log("New week 1")
                     var newjs = json.filter((event)=>{
                         return (new Date(event.date) >= new Date('2021-5-10')) && (new Date(event.date) <= new Date('2021-5-16'))
                     });
-                    console.log("JSON IS ")
-                    console.log(newjs)
                     var pop = createProgramPopup(
                         newjs[n-24].title,
                         newjs[n-24].type.split(",")[0].toUpperCase(),
@@ -596,12 +585,9 @@ var newEdges = new vis.DataSet([
 
 //add stuff to check for date here
 var d = new Date()
-console.log(d)
 var date = d.getDate()
 var month = d.getMonth()
-console.log(d.getUTCMonth())
 var year = d.getFullYear()
-console.log(`${year}-${month}-${date}`)
 if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
     nodes.add({ id: 24, opacity:0.9,  shape:"circle", group: 1,x:1960,y:500, borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25, opacity:0.9,  shape:"circle", group: 1,x:1930,y:600,  borderWidth: 0,  font: { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -613,10 +599,8 @@ if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
     newEdges.add({from: 25, to: 23, length:500, color:{opacity:opac}})
     newEdges.add({from: 26, to: 20, length:500, color:{opacity:opac}})
     newEdges.add({from: 28, to: 17, length:100, color:{opacity:opac}})
-    console.log("Week 1")
 
 }else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-3')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-9')) ){
-    console.log("Week 2")
     nodes.add({ id: 24, opacity:0.9,  shape:"circle", group: 1,x:0,y:300,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25, opacity:0.9,  shape:"circle", group: 1,x:0,y:350,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26, opacity:0.9,  shape:"circle", group: 1,x:0,y:360,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -890,8 +874,6 @@ network.on("hoverNode",function (params){
         showStuff(4)
     }
     if(id>23){
-        console.log("Hovered on programme")
-        console.log(id)
         var date = d.getDate()
                 var month = d.getMonth()
                 var year = d.getFullYear()
@@ -919,7 +901,6 @@ network.on("hoverNode",function (params){
         }
         else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-10')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-16'))){
             if(id == 24 || id == 25 || id == 28){
-                console.log(3)
                 showStuff(3)
             }
             else if(id == 26 || id == 29 || id == 30 || id == 31){

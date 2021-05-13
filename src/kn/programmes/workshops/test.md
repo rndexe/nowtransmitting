@@ -28,20 +28,30 @@ readinglist:
   - quadreadlink: https://www.sciencedirect.com/science/article/pii/S0040162517315536
     quadreadtxt: "Ten Years Of Research Change Using Google Trends: From The
       Perspective Of Big Data Utilizations And Applications"
-    quadreadvis: /static/img/wk_shreya.png
+    quadreadvis: /static/img/B_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7438693/
     quadreadtxt: "Prediction of COVID-19 Outbreaks Using Google Trends in India: A
       Retrospective Analysis"
-    quadreadvis: /static/img/wk_shreya.png
+    quadreadvis: /static/img/B_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.weforum.org/agenda/2020/09/google-search-trend-data-coronavirus-health-global-epidemiology/
     quadreadtxt: Here's What Google Trends Can Tell Us About The Spread Of Coronavirus
-    quadreadvis: /static/img/wk_shreya.png
+    quadreadvis: /static/img/B_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/31l4XGaNRHTjgS6y3LWxZi
     quadlisttxt: Coronavirus—Science in the Pandemic
-    quadlistvis: /static/img/wk_shreya.png
+    quadlistvis: /static/img/B_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=vJTHNobkh18
     quadwatchtxt: Correlations Between COVID-19 Cases & Google Trends Data in the US
-    quadwatchvis: /static/img/wk_shreya.png
+    quadwatchvis: /static/img/B_WK_QUA_WATCHVIS_1.jpg
+eventlist:
+  - quadeventtxt: "Real-Time Contagion Science in the 21st Century: The Role of Data
+      and Computing | Lecture by Madhav Marathe"
+    quadeventlink: http://bit.ly/lecture-marathe
+    quadeventvis: /static/img/pl_madhav.png
+relatedlist:
+  - quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazant, John Bush,
+      and Kasim Khan
+    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+    quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
 ---

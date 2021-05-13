@@ -33,33 +33,33 @@ expertpic: /static/img/pl_achal_portrait.png
 readinglist:
   - quadreadlink: https://www.nytimes.com/2020/12/07/opinion/covid-vaccines-patents.html
     quadreadtxt: Want Vaccines Fast? Suspend Intellectual Property Rights
-    quadreadvis: /static/img/pl_achal.png
+    quadreadvis: /static/img/J_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nytimes.com/2021/02/05/opinion/covid-vaccines-china-russia.html
     quadreadtxt: It’s Time to Trust China’s and Russia’s Vaccines
-    quadreadvis: /static/img/pl_achal.png
+    quadreadvis: /static/img/J_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theguardian.com/commentisfree/2021/apr/02/india-in-charge-of-developing-world-covid-vaccine-supply-unsustainable
     quadreadtxt: The World's Poorest Countries Are At India's Mercy For Vaccines.
       It's Unsustainable
-    quadreadvis: /static/img/pl_achal.png
+    quadreadvis: /static/img/J_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlisttxt: Global Vaccine Apartheid with Achal Prabhala
     quadlistlink: https://open.spotify.com/episode/4ATNMBEPMb4BDJcD3vfn9T
-    quadlistvis: /static/img/pl_achal.png
+    quadlistvis: /static/img/J_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://soundcloud.com/rttv/renegade-inc-wrappin-our-flags-around-our-jabs
     quadlisttxt: "Renegade Inc.: Wrappin’ Our Flags Around Our Jabs?"
-    quadlistvis: /static/img/pl_achal.png
+    quadlistvis: /static/img/J_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=V40m8wizb_w
     quadwatchtxt: U.S. & Other Wealthy Nations Block Effort to Waive Vaccine Patent
       Rights in Blow to Global South
-    quadwatchvis: /static/img/pl_achal.png
+    quadwatchvis: /static/img/J_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=SvNNsdRz2dA
     quadwatchtxt: "Human Rights and the COVID Vaccine: Distribution and Access"
-    quadwatchvis: /static/img/pl_achal.png
+    quadwatchvis: /static/img/J_PL_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=-98je4OUw1I
     quadwatchtxt: "People's Vaccine: Calls Grow for Equal Access to Coronavirus
       Vaccine as Rich Countries Hoard Supply"
-    quadwatchvis: /static/img/pl_achal.png
+    quadwatchvis: /static/img/J_PL_QUA_WATCHVIS_3.jpg
 eventlist:
   - quadeventtxt: Vaccines | ಉಪನ್ಯಾಸ | Gagandeep Kang
     quadeventlink: http://bit.ly/lecture-kang
