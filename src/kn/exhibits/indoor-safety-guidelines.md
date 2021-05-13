@@ -1,6 +1,6 @@
 ---
 layout: indoor-safety-guidelines
-authortype: Team
+authortype: ತಂಡ
 thumb: /static/img/I_Exhibit_Thumbnail.jpg
 title: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ
 subtitle: "ವೈರಾಣುವಿನ, ಒಳಾಂಗಣ ಜೀವನ "
