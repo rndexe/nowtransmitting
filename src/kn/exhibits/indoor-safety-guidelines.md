@@ -79,6 +79,8 @@ eventlist:
   - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಪ್ರತಿರೂಪಗಳನ್ನು (ಮಾಡಲ್‌) ಏಕೆ ರೂಪಿಸ ಬೇಕು, ಹೇಗೆ ರೂಪಿಸ ಬೇಕು ?
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://nowtransmitting.com/programmes/lectures/model-infectious-diseases/
-  - quadeventtxt: ""
-    quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_2.jpg
+  - quadeventtxt: "21 ನೇ ಶತಮಾನದಲ್ಲಿ ಪ್ರಸಕ್ತ ವ್ಯಾಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಜ್ಞಾನ | ಉಪನ್ಯಾಸ |
+      ಮಾಧವ್ ಮರಾಠೆ "
+    quadeventvis: /static/img/pl_madhav.png
+    quadeventlink: https://www.eventbrite.com/e/148316583895
 ---
