@@ -47,13 +47,12 @@ watchinglist:
       ಅಂಕಿ-ಸಂಖ್ಯೆಗಳ ನಡುವೆ ಸಾಮ್ಯತೆ
     quadwatchvis: /static/img/B_WK_QUA_WATCHVIS_1.jpg
 eventlist:
-  - quadeventtxt: "Real-Time Contagion Science in the 21st Century: The Role of Data
-      and Computing | Lecture by Madhav Marathe"
+  - quadeventtxt: "21 ನೇ ಶತಮಾನದಲ್ಲಿ ಪ್ರಸಕ್ತ ವ್ಯಾಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಜ್ಞಾನ | ಉಪನ್ಯಾಸ |
+      ಮಾಧವ್ ಮರಾಠೆ "
     quadeventlink: http://bit.ly/lecture-marathe
     quadeventvis: /static/img/pl_madhav.png
 relatedlist:
-  - quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazant, John Bush,
-      and Kasim Khan
+  - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
     quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
 ---
