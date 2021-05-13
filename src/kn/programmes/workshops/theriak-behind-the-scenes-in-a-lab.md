@@ -36,28 +36,29 @@ expertbio: >-
 expertpic: /static/img/M_WK_SEC_VIS_1.jpg
 readinglist:
   - quadreadlink: https://www.scientificamerican.com/article/human-hosts-help-cholera/
-    quadreadtxt: Human Hosts Help Cholera Bacterium Become More Infectious
+    quadreadtxt: ಖಾಲೆರಾ ಸೂಕ್ಷ್ಮಾಣುವು ಹೆಚ್ಚು ಸಾಂಕ್ರಾಮಿಕವಾಗಲು ರೋಗಿಗಳೇ ಹೆಚ್ಚು  ಕಾರಣರಾಗುತ್ತಾರೆ
     quadreadvis: /static/img/M_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.smithsonianmag.com/science-nature/how-microbiologists-craft-stunning-art-using-pathogens-180977261/
-    quadreadtxt: How Microbiologists Craft Stunning Art Using Pathogens
+    quadreadtxt: ರೋಗ ಕಾರಕಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಸೂಕ್ಷ್ಮ ಜೀವ ಶಾಸ್ತ್ರಜ್ಞರು ಅದ್ಭುತ ಕಲೆಯನ್ನು
+      ಸೃಷ್ಟಿಸುತ್ತಾರೆ
     quadreadvis: /static/img/M_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.interaliamag.org/articles/sarah-craske-metamorphoses-in-art-science/
-    quadreadtxt: Metamorphoses in Art & Science
+    quadreadtxt: ಕಲೆ ಮತ್ತು ವಿಜ್ಞಾನದಲ್ಲಿ ರೂಪಾಂತರಣ
     quadreadvis: /static/img/M_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.npr.org/templates/story/story.php?storyId=4524673
-    quadlisttxt: Artist Captures Wonder of Natural Phenomena
+    quadlisttxt: ಕಲಾವಿದರು, ನೈಸರ್ಗಿಗ ಪ್ರಕಿಯೆಯ ಅದ್ಭುತಗಳನ್ನು ಕಲೆಯಲ್ಲಿ ಸೆರೆ ಹಿಡಿಯುತ್ತಾರೆ.
     quadlistvis: /static/img/M_WK_QUA_LISTVIS_1.jpg
   - quadlistlink: https://www.npr.org/2004/10/11/4079067/from-microscopes-to-large-scale-sculpture
-    quadlisttxt: From Microscopes to Large-Scale Sculpture
+    quadlisttxt: ಸೂಕ್ಷ್ಮ ದರ್ಶಕಗಳಿಂದ ಬೃಹದಾಕಾರದ ಶಿಲ್ಪಗಳ ವರೆಗೂ
     quadlistvis: /static/img/M_WK_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=IS_5WJteCC8
-    quadwatchtxt: What If Art Could Truly Create Biological Life?
+    quadwatchtxt: ಜೈವಿಕ ಬದುಕನ್ನು ಕಲೆಯೇ ನಿಜವಾಗಲೂ ಸೃಷ್ಟಿಸುವಂತಿದ್ದರೆ ಹೇಗಿರುತ್ತಿತ್ತು?
     quadwatchvis: /static/img/M_WK_QUA_WATCHVIS_1.jpg
 eventlist: []
 relatedlist:
-  - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
+  - quadrelatedtxt: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎರಡು ನಗರದ ಕಥೆಗಳು | ಸೋನಿಯಾ ಶಾ"
     quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
     quadrelatedvis: /static/img/K_Exhibit_Thumbnail.jpg
 ---
