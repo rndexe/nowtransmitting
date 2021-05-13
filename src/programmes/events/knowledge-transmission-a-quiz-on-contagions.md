@@ -10,6 +10,7 @@ description: Think you know all that there is to know about pandemics past,
   regarding epidemics and contagions. For all the registered participants, there
   will be a preliminary round from which the top 8 participants will make it to
   the finals. The prelims will be held on WikiQuiz and the finals on Zoom.
+link: http://bit.ly/quiz-udupa
 expertname: Thejaswi Udupa
 expertbio: >-
   Thejaswi Udupa is the Chief Technology Officer at RoofandFloor, a digital real
