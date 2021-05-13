@@ -1,11 +1,11 @@
 <section id="home"  class="block w-full lg:w-screen lg:flex-none lg:flex-col lg:flex-nowrap lg:pl-20 bg-trueGray-750">
 	<div class="float-left flex w-screen lg:w-5/12 lg:h-full pl-10 lg:pl-20 lg:pt-36">
 		<div class="flex flex-col h-2/3 w-full py-4">
-			<p class="text-5xl w-auto font-bold text-white drop-shadow-md
-			  {{ "font-tunga" if kannada else "font-trade" }}
+			<p class="w-auto font-bold text-white drop-shadow-md
+			  {{ "font-tunga text-4xl leading-normal" if kannada else "font-trade text-5xl" }}
 			">{{title}}</p>
-			<p class="text-base w-auto text-white
-			  {{ "font-tunga" if kannada else "font-trade" }}
+			<p class="w-auto text-white
+			  {{ "font-tunga text-xl" if kannada else "font-trade text-base" }}
 			">- {{expertname}}</p>
 			<p class="mb-2 mt-auto text-base w-auto text-white
 			  {{ "font-tunga" if kannada else "font-trade" }}
