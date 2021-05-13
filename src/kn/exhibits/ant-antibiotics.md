@@ -147,19 +147,17 @@ watchinglist:
   - quadwatchtxt: ಕೋವಿಡ್‌ ಪರಿಸ್ಥಿತಿಯನ್ನೂ ಮೀರಿ ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಎದುರಾಗುವ ಪ್ರತಿರೋಧಕಗಳು
     quadwatchlink: https://lshtm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9b68d250-2c98-43f0-a642-ac3f0136480d
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_1.jpg
-  - quadwatchtxt: "Inside the Ant Colony "
+  - quadwatchtxt: ಇರುವೆ ಗೊದ್ದಗಳ ಗೂಡಿನೊಳಗೆ
     quadwatchlink: https://www.youtube.com/watch?v=vG-QZOTc5_Q
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=UONwJTYZqwc
-    quadwatchtxt: "The Antibiotic Resistance Crisis: Basic Science to the Rescue"
+    quadwatchtxt: "ಜೀವ ರೋಧ ಪ್ರತಿರೋಧಕ ಆಪತ್ತು: ಮೂಲ ವಿಜ್ಞಾನದ ನೆರವಿಗೆ ಮೊರೆ"
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_3.jpg
 eventlist:
-  - quadeventtxt: ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧ (ಏ.ಎಂ.ಆರ್):‌ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ
-      ನೆರಳಿನಲ್ಲಿ | ಉಪನ್ಯಾಸ | ಜ್ಯೋತಿ ಜೋಶಿ
+  - quadeventtxt: ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧ (ಏ.ಎಂ.ಆರ್) | ಉಪನ್ಯಾಸ | ಜ್ಯೋತಿ ಜೋಶಿ
     quadeventlink: https://www.eventbrite.com/e/145225482327
     quadeventvis: /static/img/f_exhibit_qua_atnvis_1.jpg
-  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
-      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
+  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
     quadeventlink: https://www.eventbrite.com/e/148321145539
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
