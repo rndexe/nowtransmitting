@@ -3,8 +3,8 @@ title: Creating Computer Viruses
 permalink: programmes/workshops/creating-computer-viruses/
 cata: trigger
 catb: mapping
-thumb: /static/img/wk_saurabh_thumbnail.png
-cover: /static/img/wk_saurabh_coverimage.png
+thumb: ""
+cover: ""
 date: 2021-05-22T04:30:00.000Z
 description: Computer systems are just as vulnerable in the faces of viruses as
   humans are. Cybercriminals are taking advantage of the current global health
