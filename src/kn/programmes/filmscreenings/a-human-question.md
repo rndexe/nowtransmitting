@@ -18,43 +18,48 @@ description: >-
   ಎಡ್ಸ್‌ ಅನ್ನು ಗುಣಪಡಿಸಲು ಸಾದ್ಯವಾಗದಿದ್ದರೂ, ಜನರು ಹೆಚ್ಚುಕಾಲ ಬದುಕಲು ಮತ್ತು ಉತ್ತಮ ಮಟ್ಟದ ಜೀವನ ನೆಡೆಸಲು, ಔಷಧಿಯ ಲಭ್ಯತೆ ಮತ್ತು ಆರೋಗ್ಯ ಆರೈಕೆಯು ಲಾಭಕರವಾಗುತ್ತವೆ. ಇವೆರಡೂ ಸಾಮಾಜಿಕ ಬದಲಾವಣೆಯ ಮುಖ್ಯ ಕಾರಣಳು ಮತ್ತು ಪರಿಣಾಮಗಳಾಗಿವೆ. ಹಿಮಾಲ್‌ ದಕ್ಷಿಣ ಏಷ್ಯಾ ಉತ್ಸವ (2007), ಮತ್ತು ಗ್ಲೋಬೆಲ್‌ (2006) ಚಲನ ಚಿತ್ರೋತ್ಸವಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಹಲವಾರು ಅಂತರರಾಷ್ಟ್ರೀಯ ಚಲನಚಿತ್ರ ಉತ್ಸವಗಳಲ್ಲಿ, ಈ ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗಿದೆ.
 link: http://bit.ly/films-jayashree
 expertname: ""
-expertbio: >-
-  ***ನಿರ್ದೇಶಕರು***
-
-
-  ಟಿ ಜಯಶ್ರೀಯವರು, ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ದೂರದರ್ಶನ, ರೇಡಿಯೋ, ಚಲನಚಿತ್ರಗಳು ಮತ್ತು ಸ್ವತಂತ್ರ ಸಾಕ್ಷ್ಯ ಚಿತ್ರಗಳಿಗಾಗಿ 2 ದಶಕಗಳಿಂದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿ, ನಿರ್ಮಿಸಿ ನಿರ್ದೇಶಿಸಿದ್ದಾರೆ. ಅವರ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಕೃತಿಗಳು ಸ್ತ್ರೀ-ಪುರುಷತ್ವದ ಸಮಾಗಮ, ಲೈಂಗಿಕತೆ, ಕಾನೂನು ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯವನ್ನು ಕೇಂದ್ರ ಬಿಂದುವನ್ನಾಗಿಸಿ ಕೊಂಡಿವೆ. ಅವರ ಚಲನಚಿತ್ರಗಳು, ಪ್ರಪಂಚದಾದ್ಯಂತ ವ್ಯಾಪಕವಾಗಿ ಪ್ರದರ್ಶಿಸಲಾಗಿವೆ. ಈ ಚಲನ ಚಿತ್ರಗಳನ್ನು ಇವರ ವಿಮಿಯೋ ಖಾತೆಯಲ್ಲಿ ಸಹ ವೀಕ್ಷಿಸಬಹುದು. ಭಾರತದಲ್ಲಿ ವಿಚಿತ್ರ ಜನಜೀವನ ಮತ್ತು ನಡವಳಿಕೆಯನ್ನು ಕುರಿತಾದ ನೇರ ಚಿತ್ರಣಗಳ ಅಪಾರ ಸಂಗ್ರಹದ ಮೂಲಕ  ಕ್ಯುಎಎಂಆರ್‌ಎ ಸಂಸ್ಥೆ
+expertbio: "***ನಿರ್ದೇಶಕರು*** | ಟಿ ಜಯಶ್ರೀಯವರು, ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ದೂರದರ್ಶನ, ರೇಡಿಯೋ,
+  ಚಲನಚಿತ್ರಗಳು ಮತ್ತು ಸ್ವತಂತ್ರ ಸಾಕ್ಷ್ಯ ಚಿತ್ರಗಳಿಗಾಗಿ 2 ದಶಕಗಳಿಂದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿ,
+  ನಿರ್ಮಿಸಿ ನಿರ್ದೇಶಿಸಿದ್ದಾರೆ. ಅವರ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಕೃತಿಗಳು ಸ್ತ್ರೀ-ಪುರುಷತ್ವದ ಸಮಾಗಮ,
+  ಲೈಂಗಿಕತೆ, ಕಾನೂನು ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯವನ್ನು ಕೇಂದ್ರ ಬಿಂದುವನ್ನಾಗಿಸಿ ಕೊಂಡಿವೆ.
+  ಅವರ ಚಲನಚಿತ್ರಗಳು, ಪ್ರಪಂಚದಾದ್ಯಂತ ವ್ಯಾಪಕವಾಗಿ ಪ್ರದರ್ಶಿಸಲಾಗಿವೆ. ಈ ಚಲನ ಚಿತ್ರಗಳನ್ನು
+  ಇವರ ವಿಮಿಯೋ ಖಾತೆಯಲ್ಲಿ ಸಹ ವೀಕ್ಷಿಸಬಹುದು. ಭಾರತದಲ್ಲಿ ವಿಚಿತ್ರ ಜನಜೀವನ ಮತ್ತು
+  ನಡವಳಿಕೆಯನ್ನು ಕುರಿತಾದ ನೇರ ಚಿತ್ರಣಗಳ ಅಪಾರ ಸಂಗ್ರಹದ ಮೂಲಕ  ಕ್ಯುಎಎಂಆರ್‌ಎ ಸಂಸ್ಥೆ"
 expertpic: /static/img/m_exhibit_sec_vis_5.jpg
 disname: "Vikram Doctor "
 dispic: /static/img/d_fs_sec_vis_2.png
-disbio: >-
-  ***Discussant***
-
-
-  Vikram Doctor is a Goa based journalist who has worked with publications like the Times of India and Economic Times for over 20 years. He was also involved with the GayBombay community support group and also with helping and documenting the 18 year campaign to decriminalise homosexuality in India. He has written on issues relating to material culture and social change in India, including the effects of epidemics like HIV and Covid.
+disbio: "***Discussant*** |Vikram Doctor is a Goa based journalist who has
+  worked with publications like the Times of India and Economic Times for over
+  20 years. He was also involved with the GayBombay community support group and
+  also with helping and documenting the 18 year campaign to decriminalise
+  homosexuality in India. He has written on issues relating to material culture
+  and social change in India, including the effects of epidemics like HIV and
+  Covid."
 readinglist:
-  - quadreadtxt: This Was the First Major News Article on HIV/AIDS
+  - quadreadtxt: ಎಚ್.‌ ಐ.ವಿ / ಏಡ್ಸ್‌ ರೋಗ ಕುರಿತಂತಹ ಮೊದಲ ಪ್ರಮುಖ ಪತ್ರಕಾ ಲೇಖನ
     quadreadlink: https://www.smithsonianmag.com/smart-news/was-first-major-news-article-hivaids-180963913/
     quadreadvis: /static/img/D_FS_QUA_READVIS_1.jpg
-  - quadreadtxt: How Theatre Can Help Young Nigerians Who Are Living With HIV
+  - quadreadtxt: "ಎಚ್.‌ ಐ.ವಿ ರೋಗ ದೊಂದಿಗೆ ಬದುಕುತ್ತಿರುವ ನೈಜೀರಿಯಾದ ಯುವಕರಿಗೆ ರಂಗಮಂದಿರವು
+      ಹೇಗೆ ನೆರವಾಗ ಬಹುದು? "
     quadreadlink: https://theconversation.com/how-theatre-can-help-young-nigerians-who-are-living-with-hiv-150378
     quadreadvis: /static/img/D_FS_QUA_READVIS_2.jpg
-  - quadreadtxt: " How COVID-19 Threatens Efforts To Contain HIV/AIDS in South Africa"
+  - quadreadtxt: ದಕ್ಷಿಣ ಆಫ್ರಿಕಾದಲ್ಲಿ, ಎಚ್.ಐ.ವಿ / ಏಡ್ಸ್‌ ರೋಗ ನಿವಾರಣೆಯ ಪ್ರಯತ್ನಗಳಿಗೆ
+      ಕೋವಿಡ್-19‌  ಹೇಗೆ ಮಾರಕವಾಗಿದೆ?
     quadreadlink: https://theconversation.com/how-covid-19-threatens-efforts-to-contain-hiv-aids-in-south-africa-142575
     quadreadvis: /static/img/D_FS_QUA_READVIS_3.jpg
 listeninglist:
-  - quadlisttxt: "Fast-Track Cities and the AIDS Response "
+  - quadlisttxt: ವೇಗವಾಗಿ ಬೆಳೆಯುತ್ತಿರುವ ನಗರಗಳು ಮತ್ತು ಏಡ್ಸ್‌ ರೋಗ ಪ್ರತಿಕ್ರಿಯೆ
     quadlistlink: https://podcasts.apple.com/us/podcast/fast-track-cities-and-the-aids-response/id1459288389?i=1000437158557
     quadlistvis: /static/img/D_FS_QUA_LISTVIS_1.jpg
-  - quadlisttxt: " HIV/AIDS: Apathy Will Kill You"
+  - quadlisttxt: "ಎಚ್.‌ ಐ.ವಿ / ಏಡ್ಸ್‌ ರೋಗ: ನಿರಾಸಕ್ತಿಯು ಮಾರಕವಾಗ ಬಹುದು"
     quadlistlink: https://thispodcastwillkillyou.com/2018/02/10/episode-12-hiv-aids-apathy-will-kill-you/
     quadlistvis: /static/img/D_FS_QUA_LISTVIS_2.jpg
 watchinglist:
-  - quadwatchtxt: " Fight HIV Stigma through Access, Mobilization and Equity"
+  - quadwatchtxt: ಚಾಲನೆ, ಲಭ್ಯತೆ ಮತ್ತು ನೀತಿಯ ಮೂಲಕ ಎಚ್.‌ ಐ.ವಿ ಕಳಂಕವನ್ನು ಎದುರಿಸುವ ಬಗೆ
     quadwatchlink: https://www.youtube.com/watch?v=fd2Mz6vBykI
     quadwatchvis: /static/img/D_FS_QUA_WATCHVIS_1.jpg
 eventlist:
-  - quadeventtxt: "ಗುರಿತಿಸಿ, ಪರಿಶೀಲಿಸಿ, ನಿರ್ಣಯಿಸಿ: ಏಡ್ಸ್‌ ಮತ್ತು ಎಬೋಲ ಸಾಂಕ್ರಾಮಿಕ
-      ರೋಗಗಳಲ್ಲಿ ಆರೈಕೆಯ ಪದ್ಧತಿ | ಉಪನ್ಯಾಸ | ಅಡಿಯಾ ಬೇಂಟನ್‌"
+  - quadeventtxt: ಗುರಿತಿಸಿ, ಪರಿಶೀಲಿಸಿ, ನಿರ್ಣಯಿಸಿ | ಉಪನ್ಯಾಸ | ಅಡಿಯಾ ಬೇಂಟನ್‌
     quadeventlink: http://bit.ly/lecture-benton
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: "ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳು ಅಂತ್ಯಗೊಂಡ ನಂತರ: ಶೀತಲ ಸಮರದ ದೃಷ್ಟಿಕೋನ |
