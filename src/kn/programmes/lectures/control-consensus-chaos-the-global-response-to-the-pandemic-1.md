@@ -37,31 +37,32 @@ expertbio: Sheila Jasanoff is Pforzheimer Professor of Science and Technology
 expertpic: /static/img/pl_sheila_portrait.png
 readinglist:
   - quadreadlink: https://www.thenation.com/article/society/sheila-jasanoff-interview-coronavirus/
-    quadreadtxt: Science Will Not Come on a White Horse With a Solution
+    quadreadtxt: ವಿಜ್ಞಾನವು ಉಚ್ಛೈಶ್ರವ ಕುದುರೆಯನ್ನೇರಿ ಪರಿಹಾರವನ್ನು ತರುವುದಿಲ್ಲ
     quadreadvis: /static/img/K_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nature.com/articles/450033a
-    quadreadtxt: Technologies of Humility
+    quadreadtxt: ನಮ್ರತೆಯ ತಂತ್ರಜ್ಞಾನಗಳು
     quadreadvis: /static/img/K_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.hks.harvard.edu/faculty-research/policy-topics/health/fallacies-hard-truths-and-lessons-learned-global-response
-    quadreadtxt: Fallacies, Hard Truths, and Lessons Learned from the Global
-      Response to COVID-19
+    quadreadtxt: "ಕೋವಿಡ್-19‌ ರೋಗದ ಜಾಗತಿಕ ಪ್ರತಿಕ್ರಿಯೆಗಳಿಂದ ದೊರೆತಿರುವ ಕಲಿಕೆ, ಭ್ರಮೆ
+      ಹಾಗೂ ನಗ್ನ ಸತ್ಯ. "
     quadreadvis: /static/img/K_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://upclose.unimelb.edu.au/episode/370-twin-engines-truth-how-science-and-law-interact-construct-our-world
-    quadlisttxt: Twin Engines Of Truth? How Science and Law Interact to Construct Our World
+    quadlisttxt: "ಸತ್ಯದ ಎರಡು ಮುಖಗಳು ? ನಮ್ಮ ಜಗತ್ತನ್ನು ಕಟ್ಟಲು ವಿಜ್ಞಾನ ಮತ್ತು ಕಾನೂನು,
+      ಹೇಗೆ ಒಗ್ಗೂಡಿವೆ? "
     quadlistvis: /static/img/K_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/5l3bDEqrhJhJj3sSUppndY?si=ldL-e0_mRS6xg4gfm92IlQ
-    quadlisttxt: "COVID-19: Can We Compare Different Countries?"
+    quadlisttxt: ಕೋವಿಡ್-19‌  ರೋಗ ಪಿಡುಗಿನ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ವಿಭಿನ್ನ ದೇಶಗಳನ್ನು ಹೋಲಿಸ ಬಹುದೇ?
     quadlistvis: /static/img/K_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=0idthcqapD8
-    quadwatchtxt: " Can Science Make Sense of Life?"
+    quadwatchtxt: ವಿಜ್ಞಾನವು ಜೀವನಕ್ಕೆ  ಅರ್ಥ ನೀಡ ಬಲ್ಲದೇ?
     quadwatchvis: /static/img/K_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=VrzpfnpS4LA
-    quadwatchtxt: What is Uncertainty, and Why Does It Matter?
+    quadwatchtxt: "ಅನಿಶ್ಚಿತತೆ ಎಂದರೇನು , ಮತ್ತು ಅದು ಏಕೆ ಮುಖ್ಯವಾಗುತ್ತದೆ? "
     quadwatchvis: /static/img/K_PL_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=i3uG3JWkTOI
-    quadwatchtxt: " Ignorance Is Bliss: COVID-19 and the Politics of Knowledge"
+    quadwatchtxt: "ಅಜ್ಞಾನ ಒಂದು ವರದಾನ :  ಕೋವಿಡ್-19 ಮತ್ತು ಅರಿವಿನ ರಾಜಕೀಯ "
     quadwatchvis: /static/img/k_pl_qua_watchvis_3.jpg
 eventlist:
   - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
