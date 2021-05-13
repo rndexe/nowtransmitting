@@ -1,5 +1,5 @@
 ---
-title: Visualising Mutations on the Agents of Contagion
+title: Visualising mutations in the spike protein of the contagious agent SARS-CoV-2
 date: 2021-05-12T14:44:18.159Z
 description: “Mutations” has become a buzzword in the pandemic. Mutations are
   one of the factors behind the changing nature of contagions. Often they are
@@ -11,4 +11,16 @@ description: “Mutations” has become a buzzword in the pandemic. Mutations ar
   them on the spike protein 3d structures (available Bioinformatic software).
   Finally, we can explore the effect of some known mutations on the broader
   contagion.
+expertname: Meenakshi Iyer and Saurabh Mahajan
+expertbio: >-
+  Meenakshi is a postdoctoral fellow in the Indo-Africa consortium for dengue
+  sequencing, vaccine development and capacity building with Prof. Sudhir
+  Krishna at NCBS, TIFR in Bangalore. She works on pathogen genomics and
+  metagenomics studies and genome-wide sequence and structural analysis of viral
+  family proteins. She is broadly interested in application of computational
+  biology to translational health science like pathogen surveillance, evolution
+  and vaccine design. 
+
+
+  Saurabh is an Assistant Professor of Basic Sciences at Atria University in Bangalore. He is an evolutionary biologist with a fascination and curiosity for the biological past, which he tries to study using the computational analysis of DNA and protein sequences. He is also passionate about teaching undergrads using interactive pedagogical tools, and likes to involve undergraduates in research.
 ---
