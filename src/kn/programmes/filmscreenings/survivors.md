@@ -17,10 +17,8 @@ description: >-
   ಸರ್ವೈವರ್ಸ್‌  ಚಲನ ಚಿತ್ರದಲ್ಲಿ, ದೇಶದ ಮುಖ್ಯ ಆಪತ್ಕಾಲೀನ ವಾಹನ ಡಿಸ್ಪ್ಯಾಚ್‌ ನ ಹಿರಿಯ ಆಂಬುಲೆಂಸ್‌ ವಾಹನ ಚಾಲಕ ʼಮೊಹಮದ್‌ ಬಂಗುರʼ ಮತ್ತು ಆಪತ್ಕಾಲೀನ ಎಬೋಲ ಚಿಕಿತ್ಸಾ ಕೇಂದ್ರದಲ್ಲಿ ದಾದಿಯಾಗಿ ರೋಗಿಗಳ ಆರೈಕೆಯ ಕೆಲಸ ನಿರ್ವಹಿಸುತ್ತಿರುವ ʼಮಾರ್ಗರೇಟ್‌ ಕಬ್ಬಾ ಸೆಸೇʼ ಅವರ ವೀರ ಗಾಥೆ ಇದಾಗಿದೆ.
 link: http://bit.ly/films-pratt
 expertname: ಆರ್ಥರ್‌ ಪ್ರಾಟ್‌
-expertbio: |-
-  ***ನಿರ್ದೇಶಕರು***
-
-  ಆರ್ಥರ್‌ ಪ್ರಾಟ್‌,  ಸಿಯರ್ರ ಲಿಯೋನ್‌ ನ ಪ್ಯಾಸ್ಟರ್‌ ಮತ್ತು ಚಲನ ಚಿತ್ರಗಾರರು.
+expertbio: "***ನಿರ್ದೇಶಕರು*** | ಆರ್ಥರ್‌ ಪ್ರಾಟ್‌,  ಸಿಯರ್ರ ಲಿಯೋನ್‌ ನ ಪ್ಯಾಸ್ಟರ್‌
+  ಮತ್ತು ಚಲನ ಚಿತ್ರಗಾರರು."
 expertpic: /static/img/C_FS_SEC_VIS_1.jpg
 disname: "David Heymann "
 dispic: /static/img/C_FS_SEC_VIS_2.jpg
@@ -32,28 +30,28 @@ disbio: David Heymann is a medical epidemiologist and Professor of Infectious
   diseases at WHO, and in 2003 headed the WHO global response to SARS in his
   role as executive director of communicable diseases.
 readinglist:
-  - quadreadtxt: "Survivors: Community Engagement and Education"
+  - quadreadtxt: "ಉಳಿದವರು: ಸಾಮೂಹಿಕ ಸಹಭಾಗಿತ್ವ ಮತ್ತು ಶಿಕ್ಷಣ"
     quadreadlink: https://pov-tc.pbs.org/pov/downloads/2018/pov-survivors-discussion-guide.pdf
     quadreadvis: /static/img/C_FS_QUA_READVIS_1.jpg
-  - quadreadtxt: " Ebola and COVID-19 in Sierra Leone: Comparative Lessons Of
-      Epidemics For Society"
+  - quadreadtxt: "ಸಿಯಾರ್ರ ಲಿಯೋನ್‌ ನಲ್ಲಿ , ಇಬೋಲ ಮತ್ತು ಕೋವಿಡ್-19‌: ಸಮಾಜದ ಒಳಿತಿಗಾಗಿ
+      ರೋಗಗಳ ತುಲನಾತ್ಮಕ ಅಧ್ಯಯನ"
     quadreadlink: https://www.cambridge.org/core/journals/journal-of-global-history/article/ebola-and-covid19-in-sierra-leone-comparative-lessons-of-epidemics-for-society/5672DE34C06149CDC142A38C2294EA6E
     quadreadvis: /static/img/C_FS_QUA_READVIS_2.jpg
-  - quadreadtxt: "Ebola Strikes West Africa Again "
+  - quadreadtxt: ಪಶ್ಚಿಮ ಆಫ್ರಿಕಾದ ಮೇಲೆ ಇಬೋಲ ಮತ್ತೆ ಅಪ್ಪಳಿಸಿದೆ
     quadreadlink: https://science.thewire.in/health/ebola-strikes-west-africa-again-key-questions/
     quadreadvis: /static/img/C_FS_QUA_READVIS_3.jpg
 listeninglist:
-  - quadlisttxt: Ebola Voices
+  - quadlisttxt: ಇಬೋಲ ಕೂಗು
     quadlistlink: https://www.bbc.co.uk/sounds/play/p0428qkj
     quadlistvis: /static/img/C_FS_QUA_LISTVIS_1.jpg
-  - quadlisttxt: Doctor Remembered For Dedication To Fighting Deadly Ebola
+  - quadlisttxt: ಮಾರಕ ಇಬೋಲಾ ರೋಗವನ್ನು ಎದುರಿಸಲು ಮುಡಿಪಾದ ವೈದ್ಯರ ನೆನಪು
     quadlistlink: https://www.npr.org/sections/goatsandsoda/2014/08/10/339372354/doctor-remembered-for-dedication-to-fighting-deadly-ebola
     quadlistvis: /static/img/C_FS_QUA_LISTVIS_2.jpg
 watchinglist:
-  - quadwatchtxt: "Sierra Leone: Recovering from An Epidemic"
+  - quadwatchtxt: "ಸಿಯಾರ ಲಿಯೋನ್‌: ರೋಗ ಪಿಡುಗಿನಿಂದ ಚೇತರಿಕೆ"
     quadwatchlink: https://www.youtube.com/watch?v=SjG3m_Gezqw
     quadwatchvis: /static/img/C_FS_QUA_WATCHVIS_1.jpg
-  - quadwatchtxt: Looking Back at the Ebola Crisis in Sierra Leone
+  - quadwatchtxt: ಸಿಯಾರ್ರ ಲಿಯೋನ್‌ ಪ್ರದೇಶದಲ್ಲಿ ಸಂಭವಿಸಿದ ಇಬೋಲ ಬಿಕ್ಕಟ್ಟಿನ ಹಿನ್ನೋಟ
     quadwatchlink: https://www.youtube.com/watch?v=X29qQRDdyAk
     quadwatchvis: /static/img/C_FS_QUA_WATCHVIS_2.jpg
 ---
