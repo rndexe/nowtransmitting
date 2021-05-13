@@ -6,7 +6,7 @@ cata: transmission
 catb: narrating
 thumb: /static/img/pl_michael.png
 cover: /static/img/P_PL_Coverimage.jpg
-date: 2021-05-29T13:00:00.000Z
+date: 2021-06-06T13:00:00.000Z
 description: >-
   ಪ್ರಾಣಿಗಳಿಂದ ಮಾನವರಿಗೆ ಸಂವಹಿಸಿದ ಸಾರ್ಸ್-ಕೋವಿಡ್‌ -2 ವೈರಾಣುವು, ಕೋವಿಡ್-19‌
   ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗಿಗೆ ಕಾರಣವಾಗಿದೆ.  “ಜೂನೋಸಿಸ್”‌, ಪ್ರಾಣಿಗಳಿಂದ ಮಾನವರಿಗೆ
