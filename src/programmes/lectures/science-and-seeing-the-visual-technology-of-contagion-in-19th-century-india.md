@@ -29,39 +29,40 @@ expertbio: "David Arnold is Professor Emeritus in History at the University of
 expertpic: /static/img/pl_arnold_portrait.png
 readinglist:
   - quadreadlink: https://www.ohsu.edu/historical-collections-archives/medicine-move-kits-cases-and-carry-alls-history-healthcare
-    quadreadtxt: "Medicine on the Move: Kits, Cases and Carry-alls from the History
-      of Healthcare"
+    quadreadtxt: ಆರೋಗ್ಯ ಮತ್ತು ಆರೈಕೆಯ ಇತಿಹಾಸದಿಂದ ಕಿಟ್ ಗಳು, ಪೆಟ್ಟಿಗೆಗಳು ಮತ್ತು ಎಲ್ಲ
+      ಬಗೆಯ ಸಾಗಿಸುವ ಸೌಕರ್ಯಗಳ ಮೂಲಕ ಔಷದ ಸಾಗಾಣಿಕೆ.
     quadreadvis: /static/img/a_pl_qua_readvis_1.jpg
   - quadreadlink: http://www.vam.ac.uk/content/articles/h/health-and-medicine-in-the-19th-century/
-    quadreadtxt: Health & Medicine in the 19th Century
+    quadreadtxt: 19ನೇ ಶತಮಾನದಲ್ಲಿ ಆರೋಗ್ಯ ಮತ್ತು ಔಷಧಿ
     quadreadvis: /static/img/a_pl_qua_readvis_2.jpg
   - quadreadlink: https://www.livemint.com/mint-lounge/features/when-the-1897-bubonic-plague-ravaged-india-11587876174403.html
-    quadreadtxt: When the 1897 Bubonic Plague Ravaged India
+    quadreadtxt: "ಭಾರತವನ್ನು  ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್ ರೋಗವು‌ ಅಪ್ಪಳಿಸಿದಾಗ "
     quadreadvis: /static/img/a_pl_qua_readvis_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/7HvqHB69qfIsTtbKIWNzbI
-    quadlisttxt: When Technology Meets Ayurveda
+    quadlisttxt: ತಂತ್ರಜ್ಞಾನವು, ಆಯುರ್ವೇದದ ಜೊತೆಗೂಡಿದಾಗ
     quadlistvis: /static/img/a_pl_qua_listvis_1.jpg
   - quadlistlink: https://soundcloud.com/user-526344395/breaking-history-medicine-in-british-ruled-india-with-nav-athwal
-    quadlisttxt: Medicine in British-ruled India
+    quadlisttxt: "ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಚಿಕಿತ್ಸೆ "
     quadlistvis: /static/img/a_pl_qua_listvis_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Qxx14RCxblg
-    quadwatchtxt: "Getting Better: 200 Years of Medicine"
+    quadwatchtxt: "ಸುಧಾರಿಸುತ್ತಿದೆ: 200 ವರ್ಷಗಳ ಹಿಂದಿನಿಂದ ಬೆಳೆದುಬಂದ ವೈದ್ಯಕೀಯ ಪದ್ಧತಿ"
     quadwatchvis: /static/img/a_pl_qua_watchvis_1.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-lynteris
-    quadeventtxt: Plague and the Emergence of Epidemic Photography | Lecture by
-      Christos Lynteris
+    quadeventtxt: ಪ್ಲೇಗ್‌ ಮತ್ತು ರೋಗ ಪಿಡುಗಿನ ಛಾಯಾಗ್ರಹಣದ ಉದ್ಭವ | ಉಪನ್ಯಾಸ | ಕ್ರಿಸ್ಟೋಸ್‌
+      ಲಿಂಟೆರಿಸ್‌
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
-  - quadeventtxt: "The Age of Pandemics, 1817-1920: How They Shaped India and the World"
+  - quadeventtxt: "ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಯುಗ, 1817-1920: ವಿಶ್ವ ಮತ್ತು ಭಾರತವನ್ನು
+      ರೂಪಿಸಲು ಹೇಗೆ ಕಾರಣವಾಗಿವೆ? | ಉಪನ್ಯಾಸ | ಚಿನ್ಮಯ್‌ ತುಂಬೆ"
     quadeventlink: http://bit.ly/lecture-tumbe
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
-  - quadrelatedtxt: Contagion in the 21st Century by Esther-Maria Antao
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/J_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
-    quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+    quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
