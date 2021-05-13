@@ -5,7 +5,7 @@ cata: spillover
 catb: narrating
 thumb: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
 cover: /static/img/G_PL_Coverimage.jpg
-date: 2021-05-09T13:00:00.000Z
+date: 2021-05-29T13:00:00.000Z
 description: >-
   ಈ ಉಪನ್ಯಾಸದಲ್ಲಿ, ಮೂರನೇ ಬಾರಿ ಹರಡಿದ ಪ್ಲೇಗ್‌ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗಿನ  (1894-1959):
   ‌ಸಂದರ್ಭದಲ್ಲಿ ಉಗಮಿಸಿದ ಹೊಸ ಬಗೆಯ ರೋಗ ಛಾಯಾಚಿತ್ರಣ ವಿಧಾನವನ್ನು ವಿಮರ್ಶಿಸಲಾಗುವುದು. 
