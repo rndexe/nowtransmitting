@@ -25,19 +25,12 @@ expertpic: /static/img/C_FS_SEC_VIS_1.jpg
 disname: "David Heymann "
 dispic: /static/img/C_FS_SEC_VIS_2.jpg
 disbio: David Heymann is a medical epidemiologist and Professor of Infectious
-  Disease Epidemiology at LSHTM, is a distinguished fellow at the Centre on
-  Universal Health at Chatham House (London), and was chairman of the board of
-  Public Health England from 2009 - 2015. From 1989 to 2009 he held various
-  leadership positions in infectious diseases at WHO, and in 2003 headed the WHO
-  global response to SARS in his role as executive director of communicable
-  diseases. In 1976, after spending two years working in India on smallpox
-  eradication, Heymann was a member of the CDC (Atlanta) team to investigate the
-  first Ebola outbreak in DRC and stayed on in sub-Saharan Africa for 13 years
-  in various field research positions on Ebola, monkeypox, Lassa Fever, malaria
-  and other tropical diseases. Heymann has published over 250 peer reviewed
-  articles and book chapters, is editor of the Control of Communicable Diseases
-  Manual, and is an elected member of the UK Academy of Medical Sciences and the
-  US National Academy of Medicine.
+  Disease Epidemiology at London School of Hygiene and Tropical Medicine, is a
+  distinguished fellow at the Centre on Universal Health at Chatham House
+  (London), and was chairman of the board of Public Health England from 2009 -
+  2015. From 1989 to 2009 he held various leadership positions in infectious
+  diseases at WHO, and in 2003 headed the WHO global response to SARS in his
+  role as executive director of communicable diseases.
 readinglist:
   - quadreadtxt: "Survivors: Community Engagement and Education"
     quadreadlink: https://pov-tc.pbs.org/pov/downloads/2018/pov-survivors-discussion-guide.pdf
