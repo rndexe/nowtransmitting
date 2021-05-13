@@ -1,6 +1,10 @@
 ---
 title: Visualising mutations in the spike protein of the contagious agent SARS-CoV-2
-permalink: programmes/workshops/visualising-mutations-in-the-spike-protein-of-SARS-CoV-2/
+permalink: programmes/workshops/visualising-mutations/
+cata: transmission
+catb: mapping
+thumb: /static/img/wk_saurabh_thumbnail.png
+cover: /static/img/wk_saurabh_coverimage.png
 date: 2021-05-29T12:30:00.000Z
 description: “Mutations” has become a buzzword in the pandemic. Mutations are
   one of the factors behind the changing nature of contagions. Often they are
@@ -12,6 +16,7 @@ description: “Mutations” has become a buzzword in the pandemic. Mutations ar
   them on the spike protein 3d structures (available Bioinformatic software).
   Finally, we can explore the effect of some known mutations on the broader
   contagion.
+condition: This workshop is only for 15-28 year olds.
 expertname: Meenakshi Iyer and Saurabh Mahajan
 expertbio: >-
   Meenakshi is a postdoctoral fellow in the Indo-Africa consortium for dengue
