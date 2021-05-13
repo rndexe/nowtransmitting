@@ -3,7 +3,7 @@ title: "An Early Warning: The Story of SARS in 2003"
 permalink: kn/programmes/lectures/an-early-warning-the-story-of-SARS-in-2003/
 cata: hindsight
 catb: narrating
-date: 2021-05-28T13:00:00.000Z
+date: 2021-06-06T13:00:00.000Z
 description: The world was taken by surprise when Covid-19 erupted in early
   2000. But we should have expected something like this. From HIV/AIDS to Ebola,
   nature has given us many warnings in recent times of the damage that
