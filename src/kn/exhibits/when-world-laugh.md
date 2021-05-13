@@ -80,7 +80,7 @@ readinglist:
     quadreadtxt: ನಗುವು ಬಹು ಮುಖ್ಯ
     quadreadvis: /static/img/D_EXHIBIT_READVIS_2.jpg
   - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4779443/
-    quadreadtxt: "ಸಂಧರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಹಾಸ್ಯ ಸೃಷ್ಠಿ : ಎಲ್ಲರೊಡಗೂಡಿ ನಗುವುದು, ಸಂಬಂಧಗಳ
+    quadreadtxt: "ಸಂಧರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಹಾಸ್ಯ ಸೃಷ್ಠಿ: ಎಲ್ಲರೊಡಗೂಡಿ ನಗುವುದು, ಸಂಬಂಧಗಳ
       ಗಾಢತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
     quadreadvis: /static/img/D_EXHIBIT_READ_VIS_3.jpg
 listeninglist:
