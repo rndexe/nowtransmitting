@@ -35,31 +35,33 @@ expertbio: ʼದಿ ಬೆಂಗಳೂರು ಒನ್‌ ಹೆಲ್ಥ್‌ 
 expertpic: /static/img/l_wk_sec_vis_1.png
 readinglist:
   - quadreadlink: https://theconversation.com/the-one-health-concept-must-prevail-to-allow-us-to-prevent-pandemics-148378
-    quadreadtxt: The 'One Health' Concept Must Prevail To Allow Us To Prevent Pandemics
+    quadreadtxt: ರೋಗ ಪಿಡುಗುಗಳನ್ನು ನಿವಾರಿಸಲು, ʼಒನ್‌ ಹೆಲ್ಥ್‌ ʼ ಪರಿಕಲ್ಪನೆಯು ನಮಗೆ ಅವಶ್ಯಕ
     quadreadvis: /static/img/L_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nytimes.com/2012/09/11/science/vets-and-physicians-find-parallels-in-medical-research.html?_r=1&smid=tw-share
-    quadreadtxt: Vets and Physicians Find Parallels in Medical Research
+    quadreadtxt: ಪಶುವೈದ್ಯರು ಮತ್ತು ವೈದ್ಯರು ಚಿಕಿತ್ಸೆಗೆ ಸಂಬಂಧಿಸಿದ ಸಂಶೋಧನೆಯಲ್ಲಿ
+      ಸಮಾನತೆಯನ್ನು ಕಾಣುತ್ತಾರೆ.
     quadreadvis: /static/img/L_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7232973/#:~:text=One%20Health%20(OH)%20is%20a,plants%2C%20and%20their%20shared%20environment
-    quadreadtxt: One Health Approach to Address Zoonotic Diseases
+    quadreadtxt: ಪ್ರಾಣಿಗಳಿಂದ ಸಂವಹನವಾಗುವ ರೋಗಗಳಿಗೆ ʼಒನ್‌ ಹೆಲ್ಥ್‌ ʼ ಪರಿಕಲ್ಪನೆಯ ಮೂಲಕ ಪರಿಹಾರ
     quadreadvis: /static/img/L_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/64l5jYSFXBJZbWsY8N2LOs
-    quadlisttxt: "Cracking One Health: Dr. Eric Fèvre "
+    quadlisttxt: "ʼಒನ್‌ ಹೆಲ್ಥ್‌ ʼ ಪರಿಕಲ್ಪನೆಯನ್ನು ಅರ್ಥೈಸುವುದು: ಡಾ. ಎರಿಕ್‌ ಫೆವ್ರೆ"
     quadlistvis: /static/img/L_WK_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/0WaImGM3jYwXcB6FNm4VGv
-    quadlisttxt: "Cracking One Health: Dr. Steven Osofsky"
+    quadlisttxt: "ʼಒನ್‌ ಹೆಲ್ಥ್‌ ʼ ಪರಿಕಲ್ಪನೆಯನ್ನು ಅರ್ಥೈಸುವುದು : ಡಾ. ಸ್ಟೀವನ್‌ ಒಸೋಫ್ಸ್ಕಿ"
     quadlistvis: /static/img/L_WK_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=cZfzP3J2VxY
-    quadwatchtxt: A New Way To Fight Infectious Diseases And Predict Outbreaks
+    quadwatchtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳನ್ನು ಎದುರಿಸುವುದು ಮತ್ತು  ಭವಿಷ್ಯದ ರೋಗ ಆಸ್ಫೋಟಗಳನ್ನು
+      ಊಹಿಸಲು ಹೊಸ ಮಾರ್ಗ
     quadwatchvis: /static/img/L_WK_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventtxt: One Health | Lecture by Uma Ramakrishnan
     quadeventlink: http://bit.ly/lecture-ramakrishnan
     quadeventvis: /static/img/pl_uma.png
 relatedlist:
-  - quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
+  - quadrelatedtxt: "ವೆಂಡೆಲ್‌ ಸ್ಟಾನ್ಲೇ: ವೈರಾಣು ಇತಿಹಾಸದ ಚಿತ್ರಣ "
     quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
     quadrelatedvis: /static/img/P_Exhibit_Thumbnail.jpg
 ---
