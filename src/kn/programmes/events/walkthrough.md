@@ -25,24 +25,24 @@ readinglist:
   - quadreadtxt: Museums Preserve Clues That Can Help Scientists Predict And Analyze
       Future Pandemics
     quadreadlink: https://theconversation.com/museums-preserve-clues-that-can-help-scientists-predict-and-analyze-future-pandemics-141175
-    quadreadvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadreadvis: /static/img/D_EV_QUA_READVIS_1.jpg
   - quadreadtxt: How Museums Can Help the Public Make Sense of Pandemics
     quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/how-museums-can-help-public-make-sense-pandemics-180974281/
-    quadreadvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadreadvis: /static/img/D_EV_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theartnewspaper.com/review/what-they-do-and-how-they-do-it-why-museums-matter
     quadreadtxt: "What They Do And How They Do It: Why Museums Matter"
-    quadreadvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadreadvis: /static/img/D_EV_QUA_READVIS_3.jpg
 listeninglist:
   - quadlisttxt: " Museums Keep History Alive — Even In The Times Of Coronavirus"
     quadlistlink: https://www.npr.org/2020/06/24/881992594/museums-keep-history-alive-even-in-the-times-of-coronavirus
-    quadlistvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadlistvis: /static/img/D_EV_QUA_LISTVIS_1.jpg
   - quadlisttxt: "In Our Time: Microbiology"
     quadlistlink: https://open.spotify.com/episode/6lnwFHnviiGUuWhMlwTATa
-    quadlistvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadlistvis: /static/img/D_EV_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchtxt: Why Do We Have Museums?
     quadwatchlink: https://www.youtube.com/watch?v=MHo928fd2wE
-    quadwatchvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadwatchvis: /static/img/D_EV_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventtxt: "Working Together For Public Education On Pandemic Risks: The
       Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit | Lecture
@@ -50,6 +50,7 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-sholts
     quadeventvis: /static/img/h_exhibit_qua_atnvis_1.jpg
 relatedlist:
-  - quadrelatedtxt: "A Cluster of 17 Cases "
+  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

@@ -20,7 +20,7 @@ description: >-
 
   ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿಯ ನಿರ್ದೇಶಕರಾದ, ಮ್ಯಾಟ್ಟ್‌ ಆಡಮ್ಸ್ ಅವರು ಮೆಟ್ರೋಪೋಲ್‌ ಹೋಟೇಲ್‌ ಅಲ್ಲಿ ನೆಡೆದ ಘಟನಾವಳಿಗು ಹಾಗೂ ಆ ಪ್ರಕರಣದಿಂದ ಪ್ರೇರಿತರಾಗಿ, ರಚಿಸಿದ ಪರಸ್ಪರ ಸಂವಾದಾತ್ಮಕ ಪ್ರದರ್ಶಿಕೆಯ ಪ್ರತಿ ಹಂತವನ್ನೂ ಈ ತರಗತಿಯ ಮುಖೇಣ ಚರ್ಚಿಸಲಿದ್ದಾರೆ.
 condition: 15-28 ವರ್ಷ ವಯೋಮಿತಿಯೊಳಗಿನ ಯುವಕರಿಗೆ ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು.
-link: http://bit.ly/masterclass-adams
+link: ""
 expertname: "ಮ್ಯಾಟ್ಟ್‌ ಆಡಮ್ಸ್ "
 expertbio: ಮ್ಯಾಟ್‌ ಆಡಮ್ಸ್ , 1991 ರಲ್ಲಿ ಸ್ಥಾಪನೆಗೊಂಡಿರುವ, ʼಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿʼ ಎಂಬ
   ಸಂಸ್ಥೆಯ ಸಹ ಸಂಸ್ಥಾಪಕರು. ಈ ತಂಡದ ಕಲಾವಿದರು, ಪರಸ್ಪರ ಸಂವಾದಾತ್ಮಕ ರೂಪದಲ್ಲಿ ವಿವಿಧ
@@ -37,22 +37,30 @@ expertpic: /static/img/a_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.artworkarchive.com/blog/why-we-need-arts-in-times-of-crisis
     quadreadtxt: Why We Need Arts in Times of Crisis
-    quadreadvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/A_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.theartnewspaper.com/analysis/art-pandemic
     quadreadtxt: "Pandemic Art: How Artists Have Depicted Disease"
-    quadreadvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/A_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.nytimes.com/2020/04/08/t-magazine/art-coronavirus.html
     quadreadtxt: What Can We Learn From the Art of Pandemics Past?
-    quadreadvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadreadvis: /static/img/A_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/1F9qY5up5QSKi3AfyZeskS
     quadlisttxt: Global Pandemics and Art
-    quadlistvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadlistvis: /static/img/A_WK_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/4FI8d8EN504Ud7KoVuKbDM
     quadlisttxt: "Contagion and Viruses "
-    quadlistvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadlistvis: /static/img/A_WK_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://vimeo.com/503796575
     quadwatchtxt: Cosmic Call
-    quadwatchvis: /static/img/h_exhibit_qua_atnvis_2.jpg
+    quadwatchvis: /static/img/A_WK_QUA_WATCHVIS_1.jpg
+eventlist:
+  - quadeventtxt: The Art of Pandemics | Lecture by Girish Sahane
+    quadeventlink: http://bit.ly/lecture-shahane
+    quadeventvis: /static/img/pl_girish.png
+relatedlist:
+  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
+    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedvis: /static/img/H_Exhibit_Thumbnail.jpg
 ---

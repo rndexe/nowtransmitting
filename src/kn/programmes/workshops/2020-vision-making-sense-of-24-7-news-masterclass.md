@@ -33,22 +33,31 @@ expertpic: /static/img/f_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.scientificamerican.com/article/information-overload-helps-fake-news-spread-and-social-media-knows-it/
     quadreadtxt: Information Overload Helps Fake News Spread, and Social Media Knows It
-    quadreadvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadreadvis: /static/img/F_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/how-to-stop-doomscrolling-news-and-social-media/
     quadreadtxt: How to Stop Doomscrolling News and Social Media
-    quadreadvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadreadvis: /static/img/F_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://artguide.com.au/jacinta-giles-transforms-media-information-overload-into-art/
     quadreadtxt: Jacinta Giles Transforms Media Information Overload Into Art
-    quadreadvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadreadvis: /static/img/F_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/0TaIT14zFWeQS1ssy3MCja
     quadlisttxt: Something to do With Art—Ahmed Farooqui
-    quadlistvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadlistvis: /static/img/F_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=Jr1oVIzt-d8
     quadwatchtxt: Artists Experiment | Kenneth Goldsmith
-    quadwatchvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadwatchvis: /static/img/F_WK_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=WcC45LjYF5I
     quadwatchtxt: The Fine Art of Book Collections
-    quadwatchvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadwatchvis: /static/img/F_WK_QUA_WATCHVIS_2.jpg
+eventlist:
+  - quadeventtxt: Information...It's Complicated | Workshop by Muhammad Radwan
+      (Tactical Tech)
+    quadeventlink: http://bit.ly/workshop-radwan
+    quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
+relatedlist:
+  - quadrelatedtxt: 2020 Vision by Robert Good
+    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedvis: /static/img/B_Exhibit_Thumbnail.jpg
 ---

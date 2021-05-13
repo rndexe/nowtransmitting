@@ -35,24 +35,24 @@ expertpic: /static/img/pl_sabrina_portrait.png
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/why-this-pandemic-wont-be-last-180977135/
     quadreadtxt: Why This Pandemic Won't Be the Last
-    quadreadvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadreadvis: /static/img/U_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.weforum.org/agenda/2020/03/science-communication-covid-coronavirus/
     quadreadtxt: "COVID-19: Never Has Clear Science Been More Vital"
-    quadreadvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadreadvis: /static/img/U_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/how-museums-can-help-public-make-sense-pandemics-180974281/
     quadreadtxt: How Museums Can Help the Public Make Sense of Pandemics
-    quadreadvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadreadvis: /static/img/U_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.nature.com/articles/d41586-020-01589-x
     quadlisttxt: "Coronavirus Conversations: Science Communication During A Pandemic"
-    quadlistvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadlistvis: /static/img/U_PL_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=lz2OzA5DcTQ
     quadwatchtxt: Epidemics in a Connected World
-    quadwatchvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadwatchvis: /static/img/U_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=PxOADSjadT0
     quadwatchtxt: "Outbreak Week: Preventing Epidemics"
-    quadwatchvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadwatchvis: /static/img/U_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-ramakrishnan
     quadeventtxt: One Health | ಉಪನ್ಯಾಸ | Uma Ramakrishnan
