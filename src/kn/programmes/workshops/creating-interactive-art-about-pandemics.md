@@ -36,31 +36,31 @@ expertbio: ಮ್ಯಾಟ್‌ ಆಡಮ್ಸ್ , 1991 ರಲ್ಲಿ ಸ�
 expertpic: /static/img/a_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.artworkarchive.com/blog/why-we-need-arts-in-times-of-crisis
-    quadreadtxt: Why We Need Arts in Times of Crisis
+    quadreadtxt: ವಿಪತ್ತಿನ ಸಮಯದಲ್ಲಿ ಕಲೆ ಏಕೆ ಅವಶ್ಯಕ?
     quadreadvis: /static/img/A_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.theartnewspaper.com/analysis/art-pandemic
-    quadreadtxt: "Pandemic Art: How Artists Have Depicted Disease"
+    quadreadtxt: "ರೋಗ ಪಿಡುಗಿನ ಕಲೆ : ರೋಗಗಳನ್ನು ಕಲಾವಿದರು ಹೇಗೆ ಚಿತ್ರಿಸಿದ್ದಾರೆ?"
     quadreadvis: /static/img/A_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.nytimes.com/2020/04/08/t-magazine/art-coronavirus.html
-    quadreadtxt: What Can We Learn From the Art of Pandemics Past?
+    quadreadtxt: ಗತ ಕಾಲದ ರೋಗ ಪಿಡುಗುಗಳ ಕಲೆಯಿಂದ ನಾವು ಏನನ್ನು ಕಲಿಯ ಬಹುದು?
     quadreadvis: /static/img/A_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/1F9qY5up5QSKi3AfyZeskS
-    quadlisttxt: Global Pandemics and Art
+    quadlisttxt: ಜಾಗತಿಕ ರೋಗ ಪಿಡುಗುಗಳು ಮತ್ತು ಕಲೆ
     quadlistvis: /static/img/A_WK_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/4FI8d8EN504Ud7KoVuKbDM
-    quadlisttxt: "Contagion and Viruses "
+    quadlisttxt: ಸಾಂಕ್ರಾಮಿಕಗಳು ಮತ್ತು ವೈರಾಣುಗಳು
     quadlistvis: /static/img/A_WK_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://vimeo.com/503796575
-    quadwatchtxt: Cosmic Call
+    quadwatchtxt: ವಿಶ್ವದ ಕರೆ
     quadwatchvis: /static/img/A_WK_QUA_WATCHVIS_1.jpg
 eventlist:
-  - quadeventtxt: The Art of Pandemics | Lecture by Girish Sahane
+  - quadeventtxt: ಪಿಡುಗುಗಳಲ್ಲಿ ಕಲೆ | ಉಪನ್ಯಾಸ | ಗಿರೀಶ್‌ ಶಹಾನೆ
     quadeventlink: http://bit.ly/lecture-shahane
     quadeventvis: /static/img/pl_girish.png
 relatedlist:
-  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
+  - quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/H_Exhibit_Thumbnail.jpg
 ---
