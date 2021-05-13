@@ -30,26 +30,26 @@ expertbio: >-
 expertpic: /static/img/h_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.scientificamerican.com/article/why-do-we-laugh/
-    quadreadtxt: Why Do We Laugh?
+    quadreadtxt: ನಾವು ಏಕೆ ನಗುತ್ತೇವೆ?
     quadreadvis: /static/img/H_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.bbc.com/future/article/20160829-how-laughter-makes-us-better-people
-    quadreadtxt: How Comedy Makes Us Better People
+    quadreadtxt: ಹಾಸ್ಯದಿಂದ ನಾವು ಉತ್ತಮ ಮನುಜರಾಗಲು ಹೇಗೆ ಸಾಧ್ಯ?
     quadreadvis: /static/img/H_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4445582/
-    quadreadtxt: "Funny Science: Review: Ha! The Science of When We Laugh and Why
-      and The Humor Code: A Global Search for What Makes Things Funny"
+    quadreadtxt: "ವಿಚಿತ್ರ ವಿಜ್ಞಾನ: ಪುನರಾವಲೋಕನೆ : ಹಾ ! ನಾವು ಯಾವಾಗ ಏಕೆ ನಗುತ್ತೇವೆ
+      ಎಂಬುದರ ಹಿಂದಿನ ವಿಜ್ಞಾನ"
     quadreadvis: /static/img/H_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.npr.org/2020/09/25/916997530/laughter-the-best-medicine
-    quadlisttxt: "Laughter: The Best Medicine"
+    quadlisttxt: "ನಗು: ಅತ್ಯುತ್ತಮ ಔಷಧ"
     quadlistvis: /static/img/H_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=UxLRv0FEndM
-    quadwatchtxt: Why We Laugh | Sophie Scott
+    quadwatchtxt: ನಾವು ಏಕೆ ನಗುತ್ತೇವೆ | ಸೋಫೀ ಸ್ಕಾಟ್ಟ್
     quadwatchvis: /static/img/H_WK_QUA_WATCHVIS_1.jpg
 eventlist: []
 relatedlist:
-  - quadrelatedtxt: The Chameleon Project by Tina Gonsalves
+  - quadrelatedtxt: ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ | ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
     quadrelatedvis: /static/img/L_Exhibit_Thumbnail.jpg
 ---
