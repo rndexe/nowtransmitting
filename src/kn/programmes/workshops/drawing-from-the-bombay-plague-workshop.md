@@ -38,36 +38,36 @@ expertbio: >-
 expertpic: /static/img/g_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://www.metmuseum.org/toah/hd/deth/hd_deth.htm
-    quadreadtxt: Art and Death in the Middle Ages
+    quadreadtxt: ಮಧ್ಯ ಯುಗದಲ್ಲಿ ಕಲೆ ಮತ್ತು ಸಾವು
     quadreadvis: /static/img/G_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://scroll.in/article/968584/bombay-plague-of-1896-the-first-bio-political-crisis-to-be-captured-on-camera-in-colonial-india
-    quadreadtxt: "Bombay Plague Of 1896: The First Bio-political Crisis To Be
-      Captured On Camera In Colonial India"
+    quadreadtxt: "1896 ರ ಬಾಂಬೆ ಪ್ಲೇಗ್ ರೋಗ: ವಸಾಹತ್ತು ಭಾರತದಲ್ಲಿ , ಛಾಯಾಗ್ರಹಣದ ಮೂಲಕ ಸೆರೆ
+      ಹಿಡಿಯಲಾದ ಮೊದಲ ಜೀವ-ರಾಜಕೀಯ ಬಿಕ್ಕಟ್ಟು."
     quadreadvis: /static/img/G_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://blog.nationalarchives.gov.uk/bringing-archives-art-drawing-bombay-plague/
-    quadreadtxt: "Bringing Archives Into Art: Drawing the Bombay Plague"
+    quadreadtxt: "ಗತ ಕಾಲದ ಸಂಗ್ರಹದಿಂದ  ಅರಳಿದ ಚಿತ್ರ ಕಲೆ : ಬಾಂಬೆ ಪ್ಲೇಗ್ ರೋಗದ ಚಿತ್ರಣ"
     quadreadvis: /static/img/G_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/2bwSfcci2aWQZYbuE0y9QK
-    quadlisttxt: A Year of Plague, Fire and War Told Through Art ft. Rebecca Rideal
+    quadlisttxt: "ಕಲೆಯ ಮೂಲಕ ಪ್ಲೇಗ್, ಬೆಂಕಿ, ಯುದ್ಧಗಳ ಕಲಾ-ಪ್ರತಿಬಿಂಬ: ರೆಬೆಕಾ ರಿಡೆಲ್"
     quadlistvis: /static/img/G_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=OS7CUd_jiCI&t=6s
-    quadwatchtxt: Drawing the Bombay Plague
+    quadwatchtxt: ಬಾಂಬೆ ಪ್ಲೇಗ್ ರೋಗದ ಚಿತ್ರಣ
     quadwatchvis: /static/img/G_WK_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=DqhocPyA3v4
-    quadwatchtxt: Conversations on Practice with Ranjit Kandalgaonkar
+    quadwatchtxt: ಅಭ್ಯಾಸದ ಬಗೆಗೆ ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ ಅವರೊಡನೆ ಸಂದರ್ಶನ
     quadwatchvis: /static/img/G_WK_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: Plague and the Emergence of Epidemic Photography | Lecture by
-      Christos Lynteris
+  - quadeventtxt: ಪ್ಲೇಗ್‌ ಮತ್ತು ರೋಗ ಪಿಡುಗಿನ ಛಾಯಾಗ್ರಹಣದ ಉದ್ಭವ | ಉಪನ್ಯಾಸ | ಕ್ರಿಸ್ಟೋಸ್‌
+      ಲಿಂಟೆರಿಸ್‌
     quadeventlink: http://bit.ly/lecture-lynteris
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
-  - quadrelatedtxt: Drawing the Bombay Plague by Ranjit Kandalgaonkar
+  - quadrelatedtxt: "ಬಾಂಬೆ ಪ್ಲೇಗ್‌  ಚಿತ್ರಾಕೃತಿ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌ "
     quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
     quadrelatedvis: /static/img/C_Exhibit_Thumbnail.jpg
-  - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
+  - quadrelatedtxt: ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
     quadrelatedvis: /static/img/A_Exhibit_Thumbnail.jpg
 ---
