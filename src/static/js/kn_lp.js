@@ -408,11 +408,12 @@ function getVector(radians, length) {
 
 const infobutton = document.getElementById('infobutton');
 const legendcard = document.getElementById('legendcard');
-
+const languagebutton = document.getElementById('languagebutton')
 infobutton.addEventListener('click',()=>{
     if(legendcard.style.visibility == 'visible'){
         legendcard.style.visibility = 'hidden';
-        
+        languagebutton.style.visibility = "visible"
+
         document.getElementById("networktext").className = "networktext"
         document.getElementById("canvas-1").className = "networkbg"
        document.getElementById("mynetwork").className = "mynetwork"
@@ -422,6 +423,7 @@ infobutton.addEventListener('click',()=>{
     }
     else{
         exhibitcards.innerHTML = "";
+        languagebutton.style.visibility = "hidden"
         legendcard.style.visibility = 'visible';
         document.getElementById("networktext").className = "networktext blur"
         document.getElementById("canvas-1").className = "networkbg blur"
