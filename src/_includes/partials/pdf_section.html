@@ -1,8 +1,13 @@
-<section class="w-auto h-full max-h-full pr-20 flex-none bg-trueGray-750">
-	<div class = "flex flex-row w-auto h-full pt-36">
-		<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-trueGray-750">
-            <iframe class="w-192 h-auto" allowfullscreen="true" style="border:none;" src="{{terpdf}}"></iframe>
-            <p class="self-end text-sm pl-10 w-96 font-normal font-trade text-white">{{terpdftxt}}</p>
+<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full pl-10 pb-16 pr-10 lg:pr-20 lg:pb-0 flex-none bg-trueGray-750">
+	<div class = "flex flex-col
+		      lg:flex-row lg:w-auto lg:h-full lg:pt-36">
+		<div class="flex flex-col flex-none mx-auto bg-trueGray-750
+			    w-full h-auto
+			    lg:flex-row lg:w-auto lg:h-5/6 lg:pl-12 lg:pr-12 lg:p-0 lg:ml-40">
+			<iframe class=" w-full h-96
+					lg:w-192 lg:h-auto"
+					allowfullscreen="true" style="border:none;" src="{{terpdf}}"></iframe>
+			<p class="self-end text-sm lg:pl-10 lg:w-96 font-normal font-trade text-white">{{terpdftxt}}</p>
 		</div>
 	</div>
 </section>
