@@ -63,9 +63,9 @@ eventlist:
     quadeventvis: /static/img/pl_chitra.png
 relatedlist:
   - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/moulding-modern-medicine/
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: "ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ "
-    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/theriak/
     quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---
