@@ -65,9 +65,9 @@ eventlist:
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
   - quadrelatedtxt: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎರಡು ನಗರದ ಕಥೆಗಳು | ಸೋನಿಯಾ ಶಾ"
-    quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/mapping-cholera/
     quadrelatedvis: /static/img/K_Exhibit_Thumbnail.jpg
   - quadrelatedtxt: ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ | ಸಾರಾ ಕ್ರಾಸ್ಕ್
-    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/theriak/
     quadrelatedvis: /static/img/E_Exhibit_Thumbnail.jpg
 ---
