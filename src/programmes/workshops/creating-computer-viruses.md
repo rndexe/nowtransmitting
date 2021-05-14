@@ -15,8 +15,9 @@ description: Computer systems are just as vulnerable in the faces of viruses as
   virus from scratch.
 link: http://bit.ly/workshop-nandenkar
 expertname: Saurabh Nandedkar
-expertbio: Saurabh Nandedkar an undergraduate student in the department of
+expertbio: Saurabh Nandedkar is an undergraduate student in the department of
   Computer Engineering at the National Institute of Technology, Kurukshetra.
   Since the past year, he has been working as a Security Analyst. Saurabh is
   also an Open Source contributor.
+expertpic: /static/img/wk_saurabhn_portrait.png
 ---
