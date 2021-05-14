@@ -17,4 +17,8 @@ expertbio: Saurabh Nandedkar is an undergraduate student in the department of
   Computer Engineering at the National Institute of Technology, Kurukshetra.
   Since the past year, he has been working as a Security Analyst. Saurabh is
   also an Open Source contributor.
+relatedlist:
+  - quadrelatedtxt: ಮಾಲ್‌ವೇರ್‌ ಪ್ರದರ್ಶನಾಲಯ | ಮಿಕ್ಕೋ ಹೈಪೋನೆನ್‌‌
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/malware-museum/
+    quadrelatedvis: /static/img/J_Exhibit_Thumbnail.jpg
 ---
