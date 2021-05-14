@@ -32,28 +32,29 @@ expertbio: "Sir Jeremy Farrar is Director of the Wellcome Trust—a politically
 expertpic: /static/img/pl_jeremy_portrait.png
 readinglist:
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/oct/12/covid-19-treatable-vaccines-treatments
-    quadreadtxt: Soon Covid-19 Will Be Treatable, But It Shouldn't Just Be The Rich
-      Who Benefit
+    quadreadtxt: ಸಧ್ಯದಲ್ಲೇ ‌ಕೋವಿಡ್-19‌  ರೋಗವನ್ನು ಗುಣ ಪಡಿಸಲಯ ಸಾಧ್ಯವಾಗುತ್ತದೆ, ಕೇವಲ
+      ಶ್ರೀಮಂತರಿಗೆ ಮಾತ್ರವೇ ಈ ಲಾಭವು ನಿಲುಕುವಂತಿರಬಾರದು
     quadreadvis: /static/img/W_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.weforum.org/agenda/2019/08/important-tool-in-healthcare-is-trust-vaccines-africa/
-    quadreadtxt: Why The Most Important Tool In Healthcare Is Trust
+    quadreadtxt: ಆರೋಗ್ಯ ಉಪಚಾರದಲ್ಲಿ ನಂಬಿಕೆಯು ಏಕೆ ಅತಿ ಮುಖ್ಯವಾಗುತ್ತದೆ?
     quadreadvis: /static/img/W_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/apr/18/coronavirus-knows-no-international-borders-neither-must-its-eventual-cure
-    quadreadtxt: Coronavirus Knows No International Borders, Neither Must Its Eventual Cure
+    quadreadtxt: ಕರೋನ ವೈರಾಣುವಿಕೆ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಗಡಿಗಳಿಲ್ಲ, ಹಾಗೆಯೇ ಚಿಕಿತ್ಸೆಗೂ ಯಾವುದೇ
+      ಗಡಿ-ತಡೆ ಇರಕೂಡದು
     quadreadvis: /static/img/W_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/0SA3JUaHWsla4tnYJSATJV
-    quadlisttxt: Pandemics Past and Present
+    quadlisttxt: ಗತಕಾಲದ ಮತ್ತು ಪ್ರಸಕ್ತ ರೋಗ ಪಿಡುಗುಗಳು
     quadlistvis: /static/img/W_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/2IoTsZSFVqBwIzCSEM2k4o
-    quadlisttxt: "Coronavirus Crisis Update: Live from Munich"
+    quadlisttxt: "ಕರೋನ ವೈರಾಣುವಿನ ಬಿಕ್ಕಟ್ಟುಗಳ ವಿದ್ಯಮಾನ: ಮುನಿಚ್‌ ಇಂದ ನೇರ ವರದಿ"
     quadlistvis: /static/img/W_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=ef-0Ytnd4Wg
-    quadwatchtxt: How We Can Outsmart Epidemics
+    quadwatchtxt: ರೋಗ ಪಿಡುಗುಗಳನ್ನು ನಾವು ಹೇಗೆ ನೀಗ ಬಹುದು?
     quadwatchvis: /static/img/W_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=W7LOiIHuhTU
-    quadwatchtxt: Strategies to Mitigate the Rippling Impact of COVID-19
+    quadwatchtxt: ಕೋವಿಡ್-19‌ ರೋಗದ ತೆರೆ-ಪರಿಣಾಮಗಳನ್ನು ತಡೆಯಲು ರಣತಂತ್ರ
     quadwatchvis: /static/img/W_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventtxt: Visualising the Virus | Workshop | Gabriela Aquije Zegarra

@@ -5,7 +5,7 @@ cata: spillover
 catb: narrating
 thumb: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
 cover: /static/img/G_PL_Coverimage.jpg
-date: 2021-05-09T13:00:00.000Z
+date: 2021-05-29T13:00:00.000Z
 description: >-
   ಈ ಉಪನ್ಯಾಸದಲ್ಲಿ, ಮೂರನೇ ಬಾರಿ ಹರಡಿದ ಪ್ಲೇಗ್‌ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗಿನ  (1894-1959):
   ‌ಸಂದರ್ಭದಲ್ಲಿ ಉಗಮಿಸಿದ ಹೊಸ ಬಗೆಯ ರೋಗ ಛಾಯಾಚಿತ್ರಣ ವಿಧಾನವನ್ನು ವಿಮರ್ಶಿಸಲಾಗುವುದು. 
@@ -35,32 +35,32 @@ expertbio: "ಡಾ.ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್
 expertpic: /static/img/A_EXHIBIT_SEC_VIS_1.jpg
 readinglist:
   - quadreadlink: https://www.apollo-magazine.com/photography-pandemics/
-    quadreadtxt: " How Photography Has Shaped our Experience of Pandemics"
+    quadreadtxt: ಪಿಡುಗುಗಳ ಬಗೆಗೆ ನಮ್ಮ ಅನುಭವಗಳನ್ನು ಛಾಯಾಗ್ರಹಣವು ಹೇಗೆ ರೂಪಿಸಿದೆ ?
     quadreadvis: /static/img/g_pl_qua_readvis_1.png
   - quadreadlink: https://scroll.in/article/735421/visual-history-how-modern-photography-transformed-public-consciousness-about-plague
-    quadreadtxt: "Visual History: How Modern Photography Transformed Public
-      Consciousness About Plague"
+    quadreadtxt: "ದೃಶ್ಯ ಇತಿಹಾಸ : ಆಧುನಿಕ ಛಾಯಾಗ್ರಹಣವು, ಪ್ಲೇಗ್ ರೋಗದ ಬಗೆಗೆ ಸಾರ್ವಜನಿಕ
+      ತಿಳುವಳಿಕೆಯನ್ನು ಹೇಗೆ ಪರಿವರ್ತಿಸಿದೆ ? "
     quadreadvis: /static/img/g_pl_qua_readvis_2.png
   - quadreadlink: https://journals.sagepub.com/doi/full/10.1177/2393861720976956
-    quadreadtxt: "On 'Pandemic Imaginary': An Interview with Christos Lynteris"
+    quadreadtxt: "ಪಿಡುಗಿನ ಚಿತ್ರಣದ ಬಗೆಗೆ : ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟರಿಸ್‌ ಜೊತೆಗೆ ಸಂದರ್ಶನ "
     quadreadvis: /static/img/g_pl_qua_readvis_3.png
 listeninglist:
   - quadlistlink: https://soundcloud.com/user-37146541-886167096/christos-lynteris-march-2018
-    quadlisttxt: Christos Lynteris CSHM NYU-Shanghai
+    quadlisttxt: ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟರಿಸ್‌  ಸಿ.ಸ್.ಹ್.ಮ್.ನ್ ವೈಉ -ಶ್ಯಾಂಘಯ್
     quadlistvis: /static/img/g_pl_qua_listvis_1.png
   - quadlistlink: https://open.spotify.com/episode/22003guNiyDj1DoSc2Ge3q?si=4mqFJBMjS0CVSGwAFHGrpg
-    quadlisttxt: The Third Pandemic
+    quadlisttxt: ಮೂರನೇ ಮಹಾಮಾರಿ
     quadlistvis: /static/img/g_pl_qua_listvis_2.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=b1oWsXwCwtw
-    quadwatchtxt: "ERC Short: Dr Christos Lynteris"
+    quadwatchtxt: "ಈ.ಆರ್.ಸಿ ಶಾರ್ಟ್‌ : ಡಾ. ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟರಿಸ್‌"
     quadwatchvis: /static/img/g_pl_qua_watchvis_1.png
   - quadwatchlink: https://www.youtube.com/watch?v=fydQ3najnN8
-    quadwatchtxt: COVID Calls Public Health History & COVID-19 with Graham Mooney
-      and Christos Lynteris
+    quadwatchtxt: ಕೋವಿಡ್‌ ಕೂಗು – ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಇತಿಹಾಸ ಮತ್ತು ಕೋವಿಡ್‌ - 19 ರೋಗ
+      ಕುರಿತಂತೆ, ಗ್ರಾಹಮ್‌ ಮೂನಿ ಮತ್ತು ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟರಿಸ್‌‌ ಅವರೊಡನೆ ಚರ್ಚೆ.
     quadwatchvis: /static/img/g_pl_qua_watchvis_2.png
   - quadwatchlink: https://www.youtube.com/watch?v=aPowJrioMAc
-    quadwatchtxt: Politics and Aesthetics of the (Post) Pandemic Condition
+    quadwatchtxt: " ರೋಗ ಪಿಡುಗಿನ ನಂತರದ ಸ್ಥಿತಿಯಲ್ಲಿ ರಾಜನೀತಿ ಮತ್ತು ಕಲೆ"
     quadwatchvis: /static/img/g_pl_qua_watchvis_3.png
 eventlist:
   - quadeventtxt: "ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ: ಹತ್ತೊಂಬತ್ತನೇ ಶತಮಾನದ ಭಾರತದಲ್ಲಿ ವ್ಯಾಪನಗಳ
@@ -71,10 +71,10 @@ eventlist:
     quadeventlink: http://bit.ly/lecture-shahane
     quadeventvis: /static/img/pl_girish.png
 relatedlist:
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/plague-british-india/
     quadrelatedtxt: ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
   - quadrelatedtxt: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಚಿತ್ರಾಕೃತಿ | ರಂಜಿತ್‌ ಖಂಡಾಲ್ಗಾಂವಕರ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/bombay-plague/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/bombay-plague/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_1.jpg
 ---

@@ -35,28 +35,27 @@ expertbio: Dr. Sylvie Briand (MD, MPH, PhD) is the director of the Global
 expertpic: /static/img/pl_sylvie_portrait.png
 readinglist:
   - quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30461-X/fulltext
-    quadreadtxt: How to Fight an Infodemic
+    quadreadtxt: "ಮಾಹಿತಿ ಹೊರೆಯನ್ನು ನಿಭಾಯಿಸುವುದು ಹೇಗೆ? "
     quadreadvis: /static/img/e_pl_qua_readvis_1.png
   - quadreadlink: https://www.nature.com/articles/s41598-020-73510-5
-    quadreadtxt: The COVID-19 Social Media Infodemic
+    quadreadtxt: ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಕೋವಿಡ್-19‌ ಕುರಿತಂತಹ ಮಾಹಿತಿ ಹೊರೆ
     quadreadvis: /static/img/e_pl_qua_readvis_2.png
   - quadreadlink: https://www.thehindu.com/sci-tech/health/infodemic-management-a-serious-challenge-during-covid-19-soumya-swaminathan/article32911994.ece
-    quadreadtxt: "‘Infodemic’ Management A Serious Challenge During COVID-19: Soumya
-      Swaminathan"
+    quadreadtxt: ಕೋವಿಡ್-19‌ ರ ನಡುವೆ ಮಾಹಿತಿ ಹೊರೆಯನ್ನು ನಿಭಾಯಿಸುವುದು ಒಂದು ಗಂಭೀರವಾದ ಸವಾಲಾಗಿದೆ
     quadreadvis: /static/img/e_pl_qua_readvis_3.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/7eS0tyweHYaUOp26mxCVIL?si=urw8qoNwRZyM6udXVvR8DA
-    quadlisttxt: The Misinformation Pandemic
+    quadlisttxt: ತಪ್ಪು ಮಾಹಿತಿ ಪಿಡುಗು
     quadlistvis: /static/img/e_pl_qua_listvis_1.png
   - quadlistlink: https://soundcloud.com/world-economic-forum/seeking-a-cure-for-the
-    quadlisttxt: Seeking a Cure for the Infodemic
+    quadlisttxt: ಮಾಹಿತಿ ಹೊರೆಗೆ ಮದ್ದಿನ ಹುಡುಕಾಟ
     quadlistvis: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=wT2m3kljcSU
-    quadwatchtxt: Coronavirus and the Fake News Pandemic
+    quadwatchtxt: ಕರೋನಾ ವೈರಾಣು ಮತ್ತು ಸುಳ್ಳು ಸುದ್ದಿ ಪಿಡುಗು
     quadwatchvis: /static/img/e_pl_qua_watchvis_1.png
   - quadwatchlink: https://www.youtube.com/watch?v=KY494mSLdeA
-    quadwatchtxt: How to Fight a Pandemic of Misinformation
+    quadwatchtxt: ತಪ್ಪು ಮಾಹಿತಿ ಪಿಡುಗನ್ನು ನಿಭಾಯಿಸುವುದು ಹೇಗೆ?
     quadwatchvis: /static/img/e_pl_qua_watchvis_2.png
 eventlist:
   - quadeventlink: http://bit.ly/workshop-radwan
@@ -67,9 +66,9 @@ eventlist:
     quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/2020-vision/
     quadrelatedvis: /static/img/B_Exhibit_Thumbnail.jpg
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/the-glass-room/
     quadrelatedtxt: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ | ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್"
     quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

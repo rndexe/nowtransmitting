@@ -30,28 +30,28 @@ expertbio: >-
 expertpic: /static/img/pl_jyoti_portrait.png
 readinglist:
   - quadreadlink: https://www.who.int/docs/default-source/documents/no-time-to-wait-securing-the-future-from-drug-resistant-infections-en.pdf?sfvrsn=5b424d7_6
-    quadreadtxt: "No Time to Wait: Securing the Future From Drug-Resistant Infections"
+    quadreadtxt: "ಕಾಯಲು ಸಮಯವಿಲ್ಲ : ಔಷಧ ಪ್ರತಿರೋಧಕ ಸೋಂಕುಗಳಿಂದ ಭವಿಷ್ಯವನ್ನು ಭದ್ರ ಪಡಿಸುವ ಬಗೆ "
     quadreadvis: /static/img/f_pl_qua_readvis_1.png
   - quadreadlink: https://theconversation.com/engineered-viruses-can-fight-the-rise-of-antibiotic-resistant-bacteria-154337
-    quadreadtxt: " Engineered Viruses Can Fight The Rise Of Antibiotic-Resistant Bacteria"
+    quadreadtxt: ಜೀವ ರೋಧ ಪ್ರತಿರೋಧಕ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳ ಉತ್ಪತ್ತಿಯನ್ನು ಕೃತಕ ವೈರಾಣುಗಳು ಎದುರಿಸ ಬಲ್ಲವು
     quadreadvis: /static/img/f_pl_qua_readvis_2.png
   - quadreadlink: https://www.smithsonianmag.com/smart-news/antibiotic-apocalypse-upon-us-five-ways-we-can-turn-things-around-1-180959188/
-    quadreadtxt: ' The "Antibiotic Apocalypse" Is Upon Us: Five Ways We Can Turn
-      Things Around'
+    quadreadtxt: "ಜೀವ ರೋಧ ಪ್ರತಿರೋಧಕ ವಿಪತ್ತು ನಮ್ಮ ಎದುರಿದೆ : ಪರಿಸ್ಥಿತಿಯನ್ನು ಬದಲಿಸಲು
+      ಐದು ಮಾರ್ಗಗಳು"
     quadreadvis: /static/img/f_pl_qua_readvis_3.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/3J7mDz163YhLHiWCW87b9X
-    quadlisttxt: "The Path of Most (Antibiotic) Resistance "
+    quadlisttxt: ಬಹುತೇಕ ಜೀವ ರೋಧ ಪ್ರತಿರೋಧಕಗಳ ಪಥ
     quadlistvis: /static/img/f_pl_qua_listvis_1.png
   - quadlistlink: https://podcasts.ox.ac.uk/fight-resistance
-    quadlisttxt: Fight the Resistance
+    quadlisttxt: ಪ್ರತಿರೋಧವನ್ನು ಎದುರಿಸಿ
     quadlistvis: /static/img/f_pl_qua_listvis_2.png
 watchinglist:
   - quadwatchlink: https://cddep.org/publications/diary-of-a-staph/
-    quadwatchtxt: "Superbug Story: Diary of A Staph"
+    quadwatchtxt: "ಸೂಪರ್‌ ಬಗ್‌ ಕಥೆ : ಸ್ಟಾಫ್‌ ಅವರ ದಿನ ಚರಿತ್ರೆ ಕೈಪಿಡಿ"
     quadwatchvis: /static/img/f_pl_qua_watchvis_1.png
   - quadwatchlink: https://www.youtube.com/watch?v=iWHq2m_Hwhw
-    quadwatchtxt: The Coming Crisis in Antibiotics
+    quadwatchtxt: ಭವಿಷ್ಯದ ಜೀವ ರೋಧ ಪ್ರತಿರೋಧಕದ ವಿಪತ್ತು
     quadwatchvis: /static/img/f_pl_qua_watchvis_2.png
 eventlist:
   - quadeventtxt: Robert Koch Museum Walkthrough | ಕಾರ್ಯಕ್ರಮ | Robert Koch Institute
@@ -63,9 +63,9 @@ eventlist:
     quadeventvis: /static/img/pl_chitra.png
 relatedlist:
   - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/moulding-modern-medicine/
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: "ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ "
-    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/theriak/
     quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---
