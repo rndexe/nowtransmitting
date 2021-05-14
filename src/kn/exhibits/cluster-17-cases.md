@@ -54,10 +54,10 @@ readinglist:
 relatedlist:
   - quadrelatedtxt: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎರಡು ನಗರದ ಕಥೆಗಳು | ಸೋನಿಯಾ ಶಾ"
     quadrelatedvis: /static/img/h_exhibit_qua_expvis_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/mapping-cholera/
   - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/h_exhibit_qua_exptxt_2.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/indoor-safety-guidelines/
 authorimage: /static/img/H_EXHIBIT_SEC_VIS_1.png
 exhibitembed1: https://aco17c.netlify.app/
 watchinglist:
