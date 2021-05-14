@@ -49,6 +49,9 @@ eventlist:
     quadeventvis: /static/img/h_exhibit_qua_atnvis_1.jpg
 relatedlist:
   - quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
+  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/O_Exhibit_Thumbnail.jpg
 ---
