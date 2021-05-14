@@ -75,8 +75,8 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/plague-british-india/
   - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
