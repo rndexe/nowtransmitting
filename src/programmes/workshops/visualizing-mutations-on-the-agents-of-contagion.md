@@ -1,5 +1,5 @@
 ---
-title: Visualising mutations in the spike protein of the contagious agent SARS-CoV-2
+title: Visualising and Interpreting Mutations
 permalink: programmes/workshops/visualising-mutations/
 cata: transmission
 catb: experimenting
@@ -31,6 +31,15 @@ expertbio: >-
 
   Saurabh is an Assistant Professor of Basic Sciences at Atria University in Bangalore. He is an evolutionary biologist with a fascination and curiosity for the biological past, which he tries to study using the computational analysis of DNA and protein sequences. He is also passionate about teaching undergrads using interactive pedagogical tools, and likes to involve undergraduates in research.
 expertpic: /static/img/wk_meenakshi_portrait.png
+eventlist:
+  - quadeventlink: http://bit.ly/lecture-marathe
+    quadeventtxt: "Real-Time Contagion Science in the 21st Century | Lecture by
+      Madhav Marathe "
+    quadeventvis: /static/img/pl_madhav.png
+  - quadeventlink: http://bit.ly/lecture-pattabiraman
+    quadeventtxt: "Identifying Variants of SARS-CoV-2 in India | Lecture by Chitra
+      Pattabiraman "
+    quadeventvis: /static/img/pl_chitra.png
 relatedlist:
   - quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
     quadrelatedtxt: THERIAK | The Disease Map
