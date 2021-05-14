@@ -38,7 +38,7 @@ readinglist:
       ವರ್ತನೆಯ ವಿಜ್ಞಾನವನ್ನು ಬಳಸುವುದು
     quadreadvis: /static/img/V_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://cacm.acm.org/magazines/2013/7/165478-computational-epidemiology/fulltext
-    quadreadtxt: Computational Epidemiology
+    quadreadtxt: ಕಂಪ್ಯೂಟೇಶನಲ್ ಎಪಿಡೆಮಿಯಾಲಜಿ
     quadreadvis: /static/img/V_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/58OnO6V0CJQu9T9k8P6jEK
