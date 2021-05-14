@@ -1,5 +1,5 @@
 ---
-title: "ಗುರಿತಿಸಿ, ಪರಿಶೀಲಿಸಿ, ನಿರ್ಣಯಿಸಿ: ಏಡ್ಸ್‌ ಮತ್ತು ಎಬೋಲ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳಲ್ಲಿ
+title: "ಗುರಿತಿಸಿ, ಪರಿಶೀಲಿಸಿ, ನಿರ್ಣಯಿಸಿ: ಏಡ್ಸ್‌ ಮತ್ತು ಇಬೋಲ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳಲ್ಲಿ
   ಆರೈಕೆಯ ಪದ್ಧತಿ"
 permalink: kn/programmes/lectures/detect-investigate-diagnose/
 cata: spillover
