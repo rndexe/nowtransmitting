@@ -1,6 +1,8 @@
 ---
 title: "Knowledge Transmission: A Quiz on Contagions"
 permalink: programmes/events/knowledge-transmission-a-quiz-on-contagions/
+cata: hindsight
+catb: documenting
 thumb: /static/img/ev_quiz_thumbnail.png
 cover: /static/img/ev_quiz_coverimage.png
 date: 2021-05-23T08:30:00.000Z
