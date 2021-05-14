@@ -127,11 +127,11 @@ eventlist:
     quadeventlink: https://www.eventbrite.com/e/145227026947
     quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/mapping-cholera/
     quadrelatedtxt: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎರಡು ನಗರದ ಕಥೆಗಳು |  ಸೋನಿಯಾ ಶಾ"
     quadrelatedvis: /static/img/e_exhibit_qua_expvis_1.jpg
   - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/e_exhibit_qua_expvis_2.jpg
 authorimage: /static/img/E_EXHIBIT_SEC_VIS_1.jpg
 authorname: Sarah Craske
