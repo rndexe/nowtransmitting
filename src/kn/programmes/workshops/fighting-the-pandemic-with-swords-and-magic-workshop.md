@@ -5,7 +5,7 @@ cata: transmission
 catb: experimenting
 thumb: /static/img/wk_shreya-shreyas.png
 cover: /static/img/E_WK_Coverimage.jpg
-date: 2021-05-16T04:30:00.000Z
+date: 2021-06-12T04:30:00.000Z
 description: >-
   ಇಡೀ ವಿಶ್ವವು ಮಾರಣಾಂತಿಕ ರೋಗ ಪಿಡುಗಿನ ದವಡೆಯಲ್ಲಿ ಸಿಕ್ಕಿ ಬಿದ್ದಿದೆ.  ವೈರಾಣುವಿಗೆ
   ಯಾವುದೇ ಬಗೆಯ ದಯೆ ಇಲ್ಲ.  ಒಂದು ಬಾರಿ ಸೋಂಕು ತಗುಲಿದರೆ, ಎಲ್ಲರೂ ಖಂಡಿತ ನರಳುತ್ತಾರೆ. 
