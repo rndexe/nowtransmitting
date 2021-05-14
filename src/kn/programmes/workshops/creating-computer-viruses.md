@@ -11,6 +11,7 @@ description: Computer systems are just as vulnerable in the faces of viruses as
   this workshop, you’ll obtain the tools you need to protect yourself, and your
   loved ones from cyber attacks. Additionally, you will also create a computer
   virus from scratch.
+link: http://bit.ly/workshop-nandenkar
 expertname: Saurabh Nandedkar
 expertbio: Saurabh Nandedkar is an undergraduate student in the department of
   Computer Engineering at the National Institute of Technology, Kurukshetra.
