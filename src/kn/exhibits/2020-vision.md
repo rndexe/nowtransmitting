@@ -81,9 +81,9 @@ eventlist:
     quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ | ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್"
-    quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/the-glass-room/
     quadrelatedvis: /static/img/B_EXHIBIT_QUA_EXP_VIS_1_.jpg
   - quadrelatedtxt: ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ  | ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್
-    quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/when-world-laugh/
     quadrelatedvis: /static/img/B_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
