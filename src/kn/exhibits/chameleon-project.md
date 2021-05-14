@@ -91,5 +91,5 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ  | ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್
     quadrelatedvis: /static/img/L_EXHIBIT_QUA_EXPTVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/when-world-laugh/
 ---
