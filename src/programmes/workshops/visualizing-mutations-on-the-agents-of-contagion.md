@@ -17,6 +17,7 @@ description: “Mutations” has become a buzzword in the pandemic. Mutations ar
   Finally, we can explore the effect of some known mutations on the broader
   contagion.
 condition: This workshop is only for 15-28 year olds.
+link: http://bit.ly/workshop-iyer-mahajan
 expertname: Meenakshi Iyer and Saurabh Mahajan
 expertbio: >-
   Meenakshi is a postdoctoral fellow in the Indo-Africa consortium for dengue
