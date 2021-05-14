@@ -21,7 +21,13 @@ eventlist:
   - quadeventlink: http://bit.ly/lecture-marathe
     quadeventtxt: "Real-Time Contagion Science in the 21st Century | Lecture by
       Madhav Marathe "
+    quadeventvis: /static/img/pl_madhav.png
   - quadeventlink: http://bit.ly/lecture-pattabiraman
     quadeventtxt: "Identifying Variants of SARS-CoV-2 in India | Lecture by Chitra
       Pattabiraman "
+    quadeventvis: /static/img/pl_chitra.png
+relatedlist:
+  - quadrelatedvis: /static/img/E_Exhibit_Thumbnail.jpg
+    quadrelatedtxt: THERIAK | The Disease Map
+    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
 ---
