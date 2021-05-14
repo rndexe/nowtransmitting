@@ -1,6 +1,6 @@
 ---
 title: Visualising and Interpreting Mutations
-permalink: programmes/workshops/visualising-mutations/
+permalink: programmes/workshops/visualising-and-interpreting-mutations/
 cata: transmission
 catb: experimenting
 thumb: /static/img/wk_saurabh_thumbnail.png
