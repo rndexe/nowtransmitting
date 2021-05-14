@@ -1,7 +1,7 @@
 <section id="home"  class="bg-trueGray-750
-		    	   block w-full h-screen 
+		    	   block w-full h-auto 
 			   lg:w-screen lg:flex-none lg:flex-col lg:flex-nowrap lg:pl-20" >
-	<div class="float-left flex w-screen pl-10
+	<div class="float-left flex w-screen pl-10 my-10 lg:my-0
 		    lg:w-1/3 lg:h-full lg:pl-20 lg:pt-36">
 		<div class="w-full pt-24">
 			<p class="text-6xl w-auto font-trade font-bold text-white">{{title}}</p>
@@ -29,7 +29,7 @@
 	</div>
 	
 	
-	<div class="float-right flex w-screen lg:w-2/3 lg:h-full lg:pt-36">
+	<div class="float-right flex w-screen h-auto lg:w-2/3 lg:h-full pb-12 lg:pb-0 lg:pt-36">
 		<div class="mx-auto lg:mx-0 w-10/12 h-auto">
 		{% if embedwebsite %}
 			{% if privis %}
@@ -94,11 +94,11 @@
 			</div>
 		
 		{% elseif exhibitimages %}
-			<img class="w-auto lg:ml-20 h-2/3 shadow-2xl" src={{exhibitimages[0].privis}}  oncontextmenu="return false" ondragstart="return false">
+			<img class="w-full h-auto lg:w-auto lg:ml-20 lg:h-2/3 shadow-2xl" src={{exhibitimages[0].privis}}  oncontextmenu="return false" ondragstart="return false">
 			<div class="mt-5 lg:ml-20">
 				<h3 class="text-base lg:mt-10 mb-0 font-trade font-bold text-white">ABOUT THE IMAGE</h3>
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
-				<p class="text-sm w-full lg:w-192 font-trade text-trueGray-400">{{exhibitimages[0].pritxt}}
+				<p class="text-sm w-auto lg:w-192 font-trade text-trueGray-400">{{exhibitimages[0].pritxt}}
 				</p>
 			</div>
 		{% endif %}
