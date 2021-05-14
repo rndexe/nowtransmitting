@@ -66,9 +66,9 @@ eventlist:
     quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/2020-vision/
     quadrelatedvis: /static/img/B_Exhibit_Thumbnail.jpg
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/the-glass-room/
     quadrelatedtxt: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ | ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್"
     quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
