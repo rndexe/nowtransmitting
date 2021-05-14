@@ -19,4 +19,5 @@ expertbio: Saurabh Nandedkar is an undergraduate student in the department of
   Computer Engineering at the National Institute of Technology, Kurukshetra.
   Since the past year, he has been working as a Security Analyst. Saurabh is
   also an Open Source contributor.
+expertpic: /static/img/wk_saurabhn_portrait.png
 ---
