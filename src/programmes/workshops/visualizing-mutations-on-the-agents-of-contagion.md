@@ -5,7 +5,7 @@ cata: transmission
 catb: experimenting
 thumb: /static/img/wk_saurabh_thumbnail.png
 cover: /static/img/wk_saurabh_coverimage.png
-date: 2021-05-29T12:30:00.000Z
+date: 2021-06-06T04:30:00.000Z
 description: “Mutations” has become a buzzword in the pandemic. Mutations are
   one of the factors behind the changing nature of contagions. Often they are
   interpreted only in terms of their final (harmful) effects. But what exactly
