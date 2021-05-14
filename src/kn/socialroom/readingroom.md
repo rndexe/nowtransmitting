@@ -7,10 +7,10 @@ icon: /static/img/reading-room-square.svg
 openbooklist:
   - title: ಜರ್ನಲ್‌ ಆಫ್‌ ದಿ ಪ್ಲೇಗ್‌ ಇಯರ್‌
     author: ಡೇನಿಯಲ್‌ ಡೆಫೊ
-    about: "*A Journal of the Plague Year* narrates the account of one man's
-      experiences during 1665 when the bubonic plague struck the city of London.
-      An amalgamation of history, and fiction this narrative represents a
-      gripping report of life during the 'Great Plague.'"
+    about: “ಎ ಜರ್ನಲ್‌ ಆಫ್‌ ದಿ ಪ್ಲೇಗ್‌ ಇಯರ್‌“ ಕೃತಿಯು, ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯು 1665
+      ರಲ್ಲಿ  ಲಂಡನ್‌ ನಗರವನ್ನು ಆವರಿಸಿದ್ದ ಕಾಲದ ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಅನುಭವದ ಕಥನವಾಗಿದೆ.
+      ಐತಿಹಾಸಿಕ ಘಟನೆಗಳನ್ನು ಕಲ್ಪನೆಯೊಂದಿಗೆ ಹೊಸೆದು ‘ಗ್ರೇಟ್‌ ಪ್ಲೇಗ್‌’ ರೋಗ ಪಿಡುಗಿನ
+      ನಡುವೆ ಜೀವನವು ಹೇಗಿತ್ತು ಎಂಬುದನ್ನು ವಿವರಿಸಲಾಗಿದೆ.
     listlink: https://e.issuu.com/embed.html?d=journalofplagu00defo&hideIssuuLogo=true&hideShareButton=true&pageNumber=12&u=sciencegallerybengaluru
   - title: ಲಾಫ್ಟರ್:‌ ಎನ್‌ ಎಸ್ಸೇ ಆನ್‌ ದಿ ಮೀನಿಂಗ್‌ ಆಫ್‌ ದಿ ಕಾಮಿಕ್‌
     author: ಹೆನ್ರಿ ಬರ್ಗ್‌ ಸನ್‌
