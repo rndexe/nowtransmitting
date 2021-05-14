@@ -1,5 +1,6 @@
 ---
-title: Visualising Mutants
+title: Visualising and Interpreting Mutants
+permalink: kn/programmes/workshops/visualising-and-interpreting-mutation/
 cata: transmission
 catb: experimenting
 thumb: /static/img/wk_saurabh_thumbnail.png
