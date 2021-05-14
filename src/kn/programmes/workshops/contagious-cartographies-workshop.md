@@ -38,35 +38,36 @@ expertbio: >-
 expertpic: /static/img/I_WK_SEC_VIS_1.jpg
 readinglist:
   - quadreadlink: https://theconversation.com/coronavirus-outbreak-a-new-mapping-tool-that-lets-you-scroll-through-timeline-131422
-    quadreadtxt: "Coronavirus Outbreak: A New Mapping Tool That Lets You Scroll
-      Through Timeline"
+    quadreadtxt: "ಕರೋನ ಆಸ್ಫೋಟ: ಕಾಲಮಾನದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಣೆ ಮಾಡಿ ಕೊಡುವ ಹೊಸ ಬಗೆಯ
+      ಮಾರ್ಗದರ್ಶಿ ಉಪಕರಣ"
     quadreadvis: /static/img/I_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/pandemic-hot-spots-map/
-    quadreadtxt: Pandemic Hot Spots Map a Path to Prevention
+    quadreadtxt: ರೋಗ ಪಿಡುಗಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸೂಕ್ಷ್ಮ ಬಿಂದುಗಳು, ನಿವಾರಣೆಗೆ ಹಾದಿ
     quadreadvis: /static/img/I_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://link.springer.com/article/10.1007/s41745-020-00196-z
-    quadreadtxt: "Health Heatmap of India: An Open Data Platform"
+    quadreadtxt: "ಭಾರತದ ಆರೋಗ್ಯ ಸಂಬಂದಿತ ಚಿತ್ರಣ : ಅಂಕಿ ಸಂಖ್ಯೆಗಳಿಗೆ ಮುಕ್ತ ವೇದಿಕೆ "
     quadreadvis: /static/img/I_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
-    quadlisttxt: "Disease Detectives: How to Track an Epidemic"
+    quadlisttxt: "ರೋಗ ಪತ್ತೆದಾರರು: ರೋಗ ಪಿಡುಗನ್ನು ಪತ್ತೆ ಮಾಡುವುದು ಹೇಗೆ "
     quadlistvis: /static/img/I_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=S5H1ZOlMTQE
-    quadwatchtxt: "Maps and Epidemiology: Lessons for COVID-19"
+    quadwatchtxt: "ನಕ್ಷೆಗಳು ಮತ್ತು ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಶಾಸ್ತ್ರ : ಕೋವಿಡ್-19‌  ರಿಂದ ಕಲಿಕೆ"
     quadwatchvis: /static/img/I_WK_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=VJ86D_DtyWg&t=53s
-    quadwatchtxt: The 1850s Map That Changed How We Fight Outbreaks
+    quadwatchtxt: ರೋಗ ಆಸ್ಫೋಟಗಳನ್ನು ಎದುರಿಸುವ ಬಗೆಯನ್ನು 1850 ರ ರೋಗ ನಕ್ಷೆಯು ಹೇಗೆ ಬದಲಾಯಿಸಿತು?
     quadwatchvis: /static/img/I_WK_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: https://www.youtube.com/watch?v=j5siL6RGILI&t=2s
-    quadeventtxt: Why and How Should We Model Infectious Diseases? | Lecture by Gautam Menon
+    quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಪ್ರತಿರೂಪಗಳನ್ನು ಏಕೆ ರೂಪಿಸ ಬೇಕು, ಹೇಗೆ ರೂಪಿಸ ಬೇಕು? |
+      ಉಪನ್ಯಾಸ | ಗೌತಮ್‌ ಮೆನನ್‌
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
-  - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
-    quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
+  - quadrelatedtxt: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎರಡು ನಗರದ ಕಥೆಗಳು | ಸೋನಿಯಾ ಶಾ"
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/mapping-cholera/
     quadrelatedvis: /static/img/K_Exhibit_Thumbnail.jpg
-  - quadrelatedtxt: THERIAK | The Disease Map by Sarah Craske
-    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+  - quadrelatedtxt: ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ | ಸಾರಾ ಕ್ರಾಸ್ಕ್
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/theriak/
     quadrelatedvis: /static/img/E_Exhibit_Thumbnail.jpg
 ---

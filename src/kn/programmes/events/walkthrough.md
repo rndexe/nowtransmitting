@@ -22,35 +22,33 @@ expertbio: Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute
   focusing on AMR communication when the pandemic is over.
 expertpic: /static/img/D_EV_SEC_VIS_1.jpg
 readinglist:
-  - quadreadtxt: Museums Preserve Clues That Can Help Scientists Predict And Analyze
-      Future Pandemics
+  - quadreadtxt: ಭವಿಷ್ಯದ ರೋಗ ಪಿಡುಗುಗಳನ್ನು ಊಹಿಸಲು ಮತ್ತು ವಿಮರ್ಶಿಸಲು, ವಿಜ್ಞಾನಿಗಳಿಗೆ
+      ಸಹಕಾರಿಯಾದ ಪ್ರಮುಖ ಸುಳಿವುಗಳು ಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ದೊರಕುತ್ತವೆ.
     quadreadlink: https://theconversation.com/museums-preserve-clues-that-can-help-scientists-predict-and-analyze-future-pandemics-141175
     quadreadvis: /static/img/D_EV_QUA_READVIS_1.jpg
-  - quadreadtxt: How Museums Can Help the Public Make Sense of Pandemics
+  - quadreadtxt: ರೋಗ ಪಿಡುಗುಗಳನ್ನು ಸಾರ್ವಜನಿಕರಿಗೆ ಅರ್ಥೈಸಲು ಸಂಗ್ರಹಾಲಯಗಳು ಹೇಗೆ ಸಹಕಾರಿಯಾಗುತ್ತವೆ?
     quadreadlink: https://www.smithsonianmag.com/smithsonian-institution/how-museums-can-help-public-make-sense-pandemics-180974281/
     quadreadvis: /static/img/D_EV_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theartnewspaper.com/review/what-they-do-and-how-they-do-it-why-museums-matter
-    quadreadtxt: "What They Do And How They Do It: Why Museums Matter"
+    quadreadtxt: "ಅವರು ಏನು ಮಾಡುತ್ತಾರೆ ಮತ್ತು ಹೇಗೆ ಮಾಡುತ್ತಾರೆ: ಸಂಗ್ರಹಾಲಯಗಳು ಏಕೆ ಮುಖ್ಯ?"
     quadreadvis: /static/img/D_EV_QUA_READVIS_3.jpg
 listeninglist:
-  - quadlisttxt: " Museums Keep History Alive — Even In The Times Of Coronavirus"
+  - quadlisttxt: ಸಂಗ್ರಹಾಲಯಗಳು ಇತಿಹಾಸವನ್ನು ಜೀವಂತವಾಗಿರಿಸುತ್ತವೆ – ಕರೋನ ವೈರಾಣುವಿನ ಕಾಲವೂ ಹೊರತಲ್ಲ
     quadlistlink: https://www.npr.org/2020/06/24/881992594/museums-keep-history-alive-even-in-the-times-of-coronavirus
     quadlistvis: /static/img/D_EV_QUA_LISTVIS_1.jpg
-  - quadlisttxt: "In Our Time: Microbiology"
+  - quadlisttxt: "ನಮ್ಮ ಕಾಲದಲ್ಲಿ: ಸೂಕ್ಷ್ಮ ಜೀವ ಶಾಸ್ತ್ರ "
     quadlistlink: https://open.spotify.com/episode/6lnwFHnviiGUuWhMlwTATa
     quadlistvis: /static/img/D_EV_QUA_LISTVIS_2.jpg
 watchinglist:
-  - quadwatchtxt: Why Do We Have Museums?
+  - quadwatchtxt: ನಾವು ಸಂಗ್ರಹಾಲಯಗಳನ್ನು ಏಕೆ ಹೊಂದಿದ್ದೇವೆ?
     quadwatchlink: https://www.youtube.com/watch?v=MHo928fd2wE
     quadwatchvis: /static/img/D_EV_QUA_WATCHVIS_1.jpg
 eventlist:
-  - quadeventtxt: "Working Together For Public Education On Pandemic Risks: The
-      Scientific Collaboration Of The Smithsonian’s Outbreak Exhibit | Lecture
-      by Sabrina Sholts "
+  - quadeventtxt: ವೈಜ್ಞಾನಿಕ | ಉಪನ್ಯಾಸ | ಸಬ್ರೀನಾ ಶಾಲ್ಟ್ಸ್‌
     quadeventlink: http://bit.ly/lecture-sholts
     quadeventvis: /static/img/h_exhibit_qua_atnvis_1.jpg
 relatedlist:
-  - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
+  - quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

@@ -27,34 +27,33 @@ expertbio: ಹೆನಾ ಚ್ಚೊವ-ಹೋವರ್ಡ್, ಪದವೀಧ�
 expertpic: /static/img/j_wk_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://theconversation.com/vaccine-hesitancy-is-not-new-history-tells-us-we-should-listen-not-condemn-150884
-    quadreadtxt: Vaccine Hesitancy Is Not New – History Tells Us We Should Listen,
-      Not Condemn
+    quadreadtxt: ಲಸಿಕೆ ಹಿಂಜರಿಕೆ ಹೊಸತೇನು ಅಲ್ಲ – ನಾವು ಆಲಿಸ ಬೇಕು, ಕಡೆಗಣಿಸ ಬಾರದು ಎಂದು
+      ಇತಿಹಾಸವು ತಿಳಿಸುತ್ತದೆ.
     quadreadvis: /static/img/J_WK_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/how-cia-fake-vaccination-campaign-endangers-us-all/
-    quadreadtxt: How the CIA’s Fake Vaccination Campaign Endangers Us All
+    quadreadtxt: ಸಿ.ಐ.ಏ ನ ಸುಳ್ಳು ಲಸಿಕಾ ಅಭಿಯಾನವು ಎಲ್ಲರಿಗೂ ಏಕೆ ಅಪಾಯಕಾರಿಯಾಗಿದೆ?
     quadreadvis: /static/img/J_WK_QUA_READVIS_2.jpg
   - quadreadlink: https://wellcomecollection.org/articles/WsT4Ex8AAHruGfXd
-    quadreadtxt: The Child Whose Town Rejected Vaccines
+    quadreadtxt: ಲಸಿಕೆಗಳನ್ನು ದೂರತಳ್ಳಿದ ಊರಿನ ಮಗು
     quadreadvis: /static/img/J_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/27cKa1Mve5fwYSyJERPwUP
-    quadlisttxt: "Invisible Impact: How Vaccines Seem to Make Diseases Disappear"
+    quadlisttxt: "ಅಗೋಚರ ಪ್ರಭಾವ: ರೋಗಗಳು ಮರೆಯಾಗುವಂತೆ , ಲಸಿಕೆಗಳು ಹೇಗೆ ಮಾಡುತ್ತವೆ?"
     quadlistvis: /static/img/J_WK_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=O6pL1YpI2x8
-    quadwatchtxt: What Lies Ahead For COVID-19 Vaccines In 2021?
+    quadwatchtxt: 2021 ರಲ್ಲಿ ಕೋವಿಡ್-19‌ ಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಮುಂದೇನು ಕಾದಿದೆ?
     quadwatchvis: /static/img/J_WK_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=H41EukE3fxg
-    quadwatchtxt: "Vaccines in 2021: COVID-19 Vaccine Communication, Misinformation,
-      and Fear"
+    quadwatchtxt: "2021 ರಲ್ಲಿ ಲಸಿಕೆಗಳು: ಕೋವಿಡ್-19‌  ಲಸಿಕೆಯನ್ನು ಕುರಿತಂತಹ ಸಂವಹನ, ತಪ್ಪು
+      ಮಾಹಿತಿ ಮತ್ತು ಭೀತಿ "
     quadwatchvis: /static/img/J_WK_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventtxt: "COVID-19 Vaccines: Present and Future | Lecture by Gagandeep Kang"
     quadeventlink: http://bit.ly/lecture-kang
     quadeventvis: /static/img/pl_gagandeep.png
 relatedlist:
-  - quadrelatedtxt: COVID-19 Indoor Safety Guidelines by Martin Bazant, John Bush,
-      and Kasim Khan
-    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+  - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/indoor-safety-guidelines/
     quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
 ---

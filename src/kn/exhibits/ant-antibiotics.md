@@ -164,9 +164,9 @@ eventlist:
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/moulding-modern-medicine/
     quadrelatedvis: /static/img/f_exhibit_qua_exptvis_1.jpg
   - quadrelatedtxt: ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ | ಸಾರಾ ಕ್ರಾಸ್ಕ್
-    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/theriak/
     quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---

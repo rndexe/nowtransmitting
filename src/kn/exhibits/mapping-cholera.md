@@ -22,18 +22,18 @@ layout: mapping-cholera
 thumb: /static/img/K_Exhibit_Thumbnail.jpg
 title: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎ ಟೇಲ್‌ ಆಫ್‌ ಟೂ ಸಿಟೀಸ್‌ "
 subtitle: "ಖಾಲೆರಾ ಇತಿಹಾಸಗಳ ಅಧ್ಯಯನದ ನಡುವೆ "
-medium: Interactive Maps
+medium: "ಸಂವಾದಾತ್ಮಕ ನಕ್ಷೆಗಳು "
 year: "2014"
 description: >-
   ಅನೇಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಕಾರಕಗಳ ಸತತ ಉಳಿವು, ಪುನರಾವರ್ತನೆ ಮತ್ತು ಅನುವಂಶಿಕ ಬದಲಾವಣೆಯ 
-  ಸ್ವರೂಪ, ಹೀಗೆ, 21 ನೇ ಶತಮಾನದ ʼ ರೋಗ ಪಿಡುಗು ಕಥನ” ವು ಗಂಭೀರ ಸಮಸ್ಯೆಯ ರೂಪ ತಾಳಿದೆ.  21
+  ಸ್ವರೂಪ, ಹೀಗೆ, 21 ನೇ ಶತಮಾನದ ʼ ರೋಗ ಪಿಡುಗು ಕಥನ” ವು ಗಂಭೀರ ಸಮಸ್ಯೆಯ ರೂಪ ತಾಳಿದೆ. 21
   ನೇ ಶತಮಾನದ ಆದಿಯಿಂದ ಹಿಡಿದು, ಇಲ್ಲಿಯವರೆಗೂ ಪರಸ್ಪರ ಘನಿಷ್ಠ ಸಂಬಂಧವಿರುವ ಜಾಗತಿಕ ರೋಗ
   ಪಿಡುಗುಗಳು ಸರಣಿಯಲ್ಲಿ ಸಂಭವಿಸಿರುವುದರಿಂದ, ಆಗಿಂದಾಗ್ಗೆ  ಕಾಡುವ ಈ ರೋಗಗಳ ಪ್ರಾರಂಭಿಕ ಹಂತ,
   ಅತಿ ಅಪಾಯಕಾರಿ ವಿಪತ್ತಿನ ಹಂತ ಮತ್ತು ಅಂತ್ಯ ಸ್ವರೂಪವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುವುದು
   ಕಷ್ಟಕರವಾಗಿದೆ. 
 
 
-  ಯೂರೋಪ್‌ ನ‌ ಪೂರ್ವ ಭಾಗಕ್ಕಿರುವ ದೇಶಗಳ ದೃಷ್ಟಿಕೋನದಿಂದ, ಪೋಲಿಯೋ ಲಸಿಕೆ ಮತ್ತು ಚಿಕಿತ್ಸೆಯ ಇತಿಹಾಸದ ಒಳನೋಟ ಮತ್ತು ವಿಮರ್ಶೆಯು, ರೋಗ ಪಿಡುಗಿನ ಅಂತ್ಯವನ್ನು ನಿರ್ಧರಿಸಲು ಸಹಕಾರಿಯಾಗ ಬಹುದು.  ಯಾವಾಗ, ಹೇಗೆ ಮತ್ತು ಎಂಥವರಿಗೆ ಈ ರೋಗಗಳು  ತಗಲುವುದಿಲ್ಲ, ರೋಗ ಪಿಡುಗಿನ ಅಂತ್ಯ ಹೇಗೆ ಮತ್ತು ತದನಂತರದ ಸ್ಥಿತಿ ಏನು ಎಂಬುದರ ಬಗೆಗೆ ಡಾ.ಡೋರಾ ವರ್ಘ ಉಪನ್ಯಾಸ ನೀಡಲಿದ್ದಾರೆ
+  ಯೂರೋಪ್‌ ನ‌ ಪೂರ್ವ ಭಾಗಕ್ಕಿರುವ ದೇಶಗಳ ದೃಷ್ಟಿಕೋನದಿಂದ, ಪೋಲಿಯೋ ಲಸಿಕೆ ಮತ್ತು ಚಿಕಿತ್ಸೆಯ ಇತಿಹಾಸದ ಒಳನೋಟ ಮತ್ತು ವಿಮರ್ಶೆಯು, ರೋಗ ಪಿಡುಗಿನ ಅಂತ್ಯವನ್ನು ನಿರ್ಧರಿಸಲು ಸಹಕಾರಿಯಾಗ ಬಹುದು. ಯಾವಾಗ, ಹೇಗೆ ಮತ್ತು ಎಂಥವರಿಗೆ ಈ ರೋಗಗಳು  ತಗಲುವುದಿಲ್ಲ, ರೋಗ ಪಿಡುಗಿನ ಅಂತ್ಯ ಹೇಗೆ ಮತ್ತು ತದನಂತರದ ಸ್ಥಿತಿ ಏನು ಎಂಬುದರ ಬಗೆಗೆ ಡಾ.ಡೋರಾ ವರ್ಘ ಉಪನ್ಯಾಸ ನೀಡಲಿದ್ದಾರೆ.
 readinglist:
   - quadreadlink: https://m.dailyhunt.in/news/bangladesh/english/the+federal+english-epaper-thefeden/contact+tracing+hotspots+and+plodding+through+sewers+cholera+in+bangalore+1895-newsid-n179325830
     quadreadtxt: "1895 ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸಂಭವಿಸಿದ ಖಾಲೆರಾ ರೋಗ: ಸೋಂಕನ್ನು ಪತ್ತೆ
@@ -66,9 +66,9 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/plague-british-india/
   - quadrelatedtxt: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ | ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್"
     quadrelatedvis: /static/img/K_EXHIBIT_QUA_EXPVIS_2.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/the-glass-room/
 privis: /static/img/K_EXHIBIT_PRI_VIS_1.mp4
 ---

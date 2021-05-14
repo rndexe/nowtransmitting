@@ -17,50 +17,51 @@ description: >-
   ಸರ್ವೈವರ್ಸ್‌  ಚಲನ ಚಿತ್ರದಲ್ಲಿ, ದೇಶದ ಮುಖ್ಯ ಆಪತ್ಕಾಲೀನ ವಾಹನ ಡಿಸ್ಪ್ಯಾಚ್‌ ನ ಹಿರಿಯ ಆಂಬುಲೆಂಸ್‌ ವಾಹನ ಚಾಲಕ ʼಮೊಹಮದ್‌ ಬಂಗುರʼ ಮತ್ತು ಆಪತ್ಕಾಲೀನ ಎಬೋಲ ಚಿಕಿತ್ಸಾ ಕೇಂದ್ರದಲ್ಲಿ ದಾದಿಯಾಗಿ ರೋಗಿಗಳ ಆರೈಕೆಯ ಕೆಲಸ ನಿರ್ವಹಿಸುತ್ತಿರುವ ʼಮಾರ್ಗರೇಟ್‌ ಕಬ್ಬಾ ಸೆಸೇʼ ಅವರ ವೀರ ಗಾಥೆ ಇದಾಗಿದೆ.
 link: http://bit.ly/films-pratt
 expertname: ಆರ್ಥರ್‌ ಪ್ರಾಟ್‌
-expertbio: |-
-  ***ನಿರ್ದೇಶಕರು***
-
-  ಆರ್ಥರ್‌ ಪ್ರಾಟ್‌,  ಸಿಯರ್ರ ಲಿಯೋನ್‌ ನ ಪ್ಯಾಸ್ಟರ್‌ ಮತ್ತು ಚಲನ ಚಿತ್ರಗಾರರು.
+expertbio: "***ನಿರ್ದೇಶಕರು*** | ಆರ್ಥರ್‌, ಇವರು, ಸಿಯರ ಲಿಯೋನ್ ನಲ್ಲಿ , ಫ್ರೀಟೌನ್‌
+  ಮೀಡಿಯಾ ಸೆಂಟರ್‌ ಸಂಸ್ಥೆಯ ಸಹ ಸಂಸ್ಥಾಪಕರು.  ಪ್ರಾದೇಶಿಕ ನಿರ್ಮಾಣ, ಮಾಧ್ಯಮ ಶಿಕ್ಷಣ ಮತ್ತು
+  ವೃತಿಪರ ವಿಕಸನಕ್ಕೆ ಕೇಂದ್ರವಾಗಿರುವ  ಈ ಸಂಸ್ಥೆಯಲ್ಲಿ, ಶಿಕ್ಷಣ ಮತ್ತು ಸೃಜನಾತ್ಮಕ
+  ಉದ್ಯಮಶೀಲತೆ ವಿಷಯಗಳ ವ್ಯವಸ್ಥಾಪಕರಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ.  ಕ್ರಿಶ್ಚಿಯನ್‌
+  ಇವ್ಯಾಂಜಲಿಸ್ಟ್‌ ಹಾಗೂ ಸಮುದಾಯ ಮುಖಂಡರೂ ಆಗಿದ್ದಾರೆ.  ನಾಟಕ-ಬರಹಗಾರರಾಗಿ ತಮ್ಮ ವೃತ್ತಿ
+  ಜೀವನವನ್ನು ಪ್ರಾಂಭಿಸಿದ ಇವರು, ನಟ ಮತ್ತು ವೇದಿಕೆ ನಿರ್ದೇಶಕರಾಗಿ ಕಾರ್ಯ
+  ನಿರ್ವಹಿಸಿದ್ದಾರೆ.  ವೀ ಓನ್‌ಟಿವಿ ಸಂಸ್ಥೆಯು ನಿರ್ಮಿಸಿದ ʼಚ್ಯಾರಿಟಿ, ಬೆಂಡ್‌ ಡೌನ್‌ ದಿ
+  ಕಾರ್ನರ್‌, ಮತ್ತು ದಿ ಕ್ರಿಪಲ್‌ ಆಂಡ್‌ ದಿ ವಿಚ್‌ ಹಂಟರ್‌ʼ ಎಂಬ ಮೂರು ಕಿರು ಚಲನ
+  ಚಿತ್ರಗಳನ್ನು ರಚಿಸುವುದಕ್ಕೆ ಆರ್ಥರ್, ಸಹಾಯ ಹಸ್ತ ನೀಡಿದ್ದಾರೆ ಹಾಗೂ ಇವುಗಳಲ್ಲಿ
+  ನಟಿಸಿದ್ದಾರೆ. ಈ ಚಲನ ಚಿತ್ರಗಳು, 2009/2010 ರ ಮ್ಯಾಡ್ರಿಡ್‌ ಚಲನ ಚಿತ್ರೋತ್ಸವದಲ್ಲಿ
+  ಪ್ರದರ್ಶಿಸಲಾಗಿದ್ದವು. ನಂತರದಲ್ಲಿ ಆರ್ಥರ್‌ ಅವರ ಪ್ರತಿಭೆಯು ತೆರೆಯ ಮುಂದಿನ ಕಲಾವಿದರಿಂದ
+  ತೆರೆಯ ಹಿಂದಿನ ಕೆಲಸಗಾರರಾಗಿ ಮಾರ್ಪಾಟಾಯಿತು."
 expertpic: /static/img/C_FS_SEC_VIS_1.jpg
 disname: "David Heymann "
 dispic: /static/img/C_FS_SEC_VIS_2.jpg
 disbio: David Heymann is a medical epidemiologist and Professor of Infectious
-  Disease Epidemiology at LSHTM, is a distinguished fellow at the Centre on
-  Universal Health at Chatham House (London), and was chairman of the board of
-  Public Health England from 2009 - 2015. From 1989 to 2009 he held various
-  leadership positions in infectious diseases at WHO, and in 2003 headed the WHO
-  global response to SARS in his role as executive director of communicable
-  diseases. In 1976, after spending two years working in India on smallpox
-  eradication, Heymann was a member of the CDC (Atlanta) team to investigate the
-  first Ebola outbreak in DRC and stayed on in sub-Saharan Africa for 13 years
-  in various field research positions on Ebola, monkeypox, Lassa Fever, malaria
-  and other tropical diseases. Heymann has published over 250 peer reviewed
-  articles and book chapters, is editor of the Control of Communicable Diseases
-  Manual, and is an elected member of the UK Academy of Medical Sciences and the
-  US National Academy of Medicine.
+  Disease Epidemiology at London School of Hygiene and Tropical Medicine, is a
+  distinguished fellow at the Centre on Universal Health at Chatham House
+  (London), and was chairman of the board of Public Health England from 2009 -
+  2015. From 1989 to 2009 he held various leadership positions in infectious
+  diseases at WHO, and in 2003 headed the WHO global response to SARS in his
+  role as executive director of communicable diseases.
 readinglist:
-  - quadreadtxt: "Survivors: Community Engagement and Education"
+  - quadreadtxt: "ಉಳಿದವರು: ಸಾಮೂಹಿಕ ಸಹಭಾಗಿತ್ವ ಮತ್ತು ಶಿಕ್ಷಣ"
     quadreadlink: https://pov-tc.pbs.org/pov/downloads/2018/pov-survivors-discussion-guide.pdf
     quadreadvis: /static/img/C_FS_QUA_READVIS_1.jpg
-  - quadreadtxt: " Ebola and COVID-19 in Sierra Leone: Comparative Lessons Of
-      Epidemics For Society"
+  - quadreadtxt: "ಸಿಯಾರ್ರ ಲಿಯೋನ್‌ ನಲ್ಲಿ , ಇಬೋಲ ಮತ್ತು ಕೋವಿಡ್-19‌: ಸಮಾಜದ ಒಳಿತಿಗಾಗಿ
+      ರೋಗಗಳ ತುಲನಾತ್ಮಕ ಅಧ್ಯಯನ"
     quadreadlink: https://www.cambridge.org/core/journals/journal-of-global-history/article/ebola-and-covid19-in-sierra-leone-comparative-lessons-of-epidemics-for-society/5672DE34C06149CDC142A38C2294EA6E
     quadreadvis: /static/img/C_FS_QUA_READVIS_2.jpg
-  - quadreadtxt: "Ebola Strikes West Africa Again "
+  - quadreadtxt: ಪಶ್ಚಿಮ ಆಫ್ರಿಕಾದ ಮೇಲೆ ಇಬೋಲ ಮತ್ತೆ ಅಪ್ಪಳಿಸಿದೆ
     quadreadlink: https://science.thewire.in/health/ebola-strikes-west-africa-again-key-questions/
     quadreadvis: /static/img/C_FS_QUA_READVIS_3.jpg
 listeninglist:
-  - quadlisttxt: Ebola Voices
+  - quadlisttxt: ಇಬೋಲ ಕೂಗು
     quadlistlink: https://www.bbc.co.uk/sounds/play/p0428qkj
     quadlistvis: /static/img/C_FS_QUA_LISTVIS_1.jpg
-  - quadlisttxt: Doctor Remembered For Dedication To Fighting Deadly Ebola
+  - quadlisttxt: ಮಾರಕ ಇಬೋಲಾ ರೋಗವನ್ನು ಎದುರಿಸಲು ಮುಡಿಪಾದ ವೈದ್ಯರ ನೆನಪು
     quadlistlink: https://www.npr.org/sections/goatsandsoda/2014/08/10/339372354/doctor-remembered-for-dedication-to-fighting-deadly-ebola
     quadlistvis: /static/img/C_FS_QUA_LISTVIS_2.jpg
 watchinglist:
-  - quadwatchtxt: "Sierra Leone: Recovering from An Epidemic"
+  - quadwatchtxt: "ಸಿಯಾರ ಲಿಯೋನ್‌: ರೋಗ ಪಿಡುಗಿನಿಂದ ಚೇತರಿಕೆ"
     quadwatchlink: https://www.youtube.com/watch?v=SjG3m_Gezqw
     quadwatchvis: /static/img/C_FS_QUA_WATCHVIS_1.jpg
-  - quadwatchtxt: Looking Back at the Ebola Crisis in Sierra Leone
+  - quadwatchtxt: ಸಿಯಾರ್ರ ಲಿಯೋನ್‌ ಪ್ರದೇಶದಲ್ಲಿ ಸಂಭವಿಸಿದ ಇಬೋಲ ಬಿಕ್ಕಟ್ಟಿನ ಹಿನ್ನೋಟ
     quadwatchlink: https://www.youtube.com/watch?v=X29qQRDdyAk
     quadwatchvis: /static/img/C_FS_QUA_WATCHVIS_2.jpg
 ---

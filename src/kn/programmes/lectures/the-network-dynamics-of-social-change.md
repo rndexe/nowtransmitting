@@ -38,7 +38,7 @@ expertbio: Damon Centola is a Professor in the Annenberg School for
 expertpic: /static/img/pl_damon_portrait.png
 readinglist:
   - quadreadlink: https://ndg.asc.upenn.edu/wp-content/uploads/2019/05/Virality-Paradox.pdf
-    quadreadtxt: The Viral Paradox
+    quadreadtxt: ವೈರಾಣು ವಿರೋಧಾಭಾಸ
     quadreadvis: /static/img/N_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/kindness-contagion/
     quadreadtxt: Kindness Contagion

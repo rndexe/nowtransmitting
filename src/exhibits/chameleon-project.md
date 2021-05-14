@@ -2,7 +2,7 @@
 layout: chameleon-project
 authortype: Artist
 thumb: /static/img/L_Exhibit_Thumbnail.jpg
-title: "The Chameleon Project"
+title: The Chameleon Project
 subtitle: "(R)emote: Spreading your feelings"
 medium: Text, Images, Videos
 year: "2010"
@@ -25,16 +25,16 @@ exhibitvideos:
     pritxt: Video Documentation of Chameleon Prototype 09 at Fabrica, Brighton, UK.
       Courtesy of Philipp Carr.
 authorimage: /static/img/L_EXHIBIT_SEC_VIS_1.jpg
-authorname: Tina Gonsalves | In collaboration with Chris Frith, Hugo Critchley,
-  Rosalind Picard, Rana El Kaliouby, and Nadia Berthouz
+authorname: "Tina Gonsalves "
 authorbio: >-
-  Tina Gonsalves is an artist whose practice integrates science, art, and
-  technology to create embodied, interactive audiovisual experiences. Tina has
-  been exploring ideas about the emotional body since 1994, first making short
-  films that aimed to translate internal emotional states into an external
-  medium. Finding the basic film format increasingly inadequate, she moved on to
-  installations to look at ways technology could access the emotional signatures
-  of the body. 
+  *In collaboration with Chris Frith, Hugo Critchley, Rosalind Picard, Rana El
+  Kaliouby, and Nadia Berthouz* | Tina Gonsalves is an artist whose practice
+  integrates science, art, and technology to create embodied, interactive
+  audiovisual experiences. Tina has been exploring ideas about the emotional
+  body since 1994, first making short films that aimed to translate internal
+  emotional states into an external medium. Finding the basic film format
+  increasingly inadequate, she moved on to installations to look at ways
+  technology could access the emotional signatures of the body. 
 
 
   Tina has been an Artist-in-Residence in the Department of Neuroimaging at UCL, at the Banff New Media Institute in Canada, the Centre for Contemporary Art in Prague, and many more. Some of the grants she has received include the Arts Queensland Major Grant, the Arts Council England Grant, and the Wellcome Trust Large Art Award.

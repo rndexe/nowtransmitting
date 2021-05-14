@@ -12,7 +12,7 @@ description: Come be a part of a live experiment on collective behaviour and
   then come be a part of this event! Hear Daniel Richardson speak about
   fundamental ideas in social psychology, and learn from examples of the latest
   research on collective behaviour.
-link: https://www.eventbrite.com/e/how-ideas-and-behaviours-spread-through-a-crowd-event-registration-145820000547
+link: http://bit.ly/event-richardson
 expertname: "Daniel Richardson "
 expertbio: Daniel Richardson is a Professor of Experimental Psychology at
   University College London. Prior to that, he was an undergraduate at Magdalen
@@ -28,24 +28,24 @@ expertbio: Daniel Richardson is a Professor of Experimental Psychology at
 expertpic: /static/img/A_EV_SEC_VIS_1.jpg
 readinglist:
   - quadreadlink: https://thepsychologist.bps.org.uk/volume-31/june-2018/synchrony-and-art-signalling
-    quadreadtxt: Synchrony And The Art Of Signalling
+    quadreadtxt: ಸಂಕೇತ ಕಲೆ ಮತ್ತು ಹೊಂದಾಣಿಕೆ
     quadreadvis: /static/img/A_EV_QUA_READVIS_1.jpg
   - quadreadlink: https://theconversation.com/conform-to-the-social-norm-why-people-follow-what-other-people-do-107446
-    quadreadtxt: "Conform to the Social Norm: Why People Follow What Other People Do"
+    quadreadtxt: "ಸಾಮಾಜಿಕ ಮಾನ್ಯತೆಯ ದೃಢೀಕರಣ : ಏಕೆ ಜನರು ಬೇರೆಯವರು ಮಾಡುವುದನ್ನು ಅನುಕರಿಸುತ್ತಾರೆ?"
     quadreadvis: /static/img/A_EV_QUA_READVIS_2.jpg
   - quadreadlink: https://www.smithsonianmag.com/smart-news/desire-conform-starts-toddlers-180954535/
-    quadreadtxt: The Desire to Conform Starts In Toddlers
+    quadreadtxt: ಮಾನ್ಯತೆಯ ಬಯಕೆ ಬಾಲ್ಯದಲ್ಲಿಯೇ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ
     quadreadvis: /static/img/A_EV_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/6OceZQTcJdYGC3dXDHYa9w
-    quadlisttxt: "The Influence You Have "
+    quadlisttxt: ನಿಮಗೆ ದೊರಕಿರುವ ಪ್ರೇರಣೆ
     quadlistvis: /static/img/A_EV_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=0IJCXXTMrv8
-    quadwatchtxt: Question the Herd
+    quadwatchtxt: ಸಮೂಹವನ್ನು ಪ್ರಶ್ನಿಸಿ
     quadwatchvis: /static/img/A_EV_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=9BeqeQ5d8fY
-    quadwatchtxt: Using Neuroscience to Understand Collective Experience
+    quadwatchtxt: ಸಾಮೂಹಿಕ ಅನುಭವವನ್ನು ಅರ್ಥೈಸಲು ನರ ವಿಜ್ಞಾನದ ಬಳಕೆ
     quadwatchvis: /static/img/A_EV_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventtxt: The Network Dynamics of Social Change | Lecture by Damon Centola

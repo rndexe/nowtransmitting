@@ -1,5 +1,7 @@
 ---
-title: "Contagion and Electricity: Two Ways of Talking About Connection in Dance"
+title: "ವ್ಯಾಪನ ಮತ್ತು ವಿದ್ಯುತ್ತು : ನೃತ್ಯ ಮುಖೇಣ ಈ ಎರಡರ ನಡುವಣ ಸಂಬಂಧ ಮತ್ತು
+  ಭಿನ್ನಾಭಿಪ್ರಾಯ (ಕಂಡೆಜನ್‌ ಆಂಡ್‌ ಎಲೆಕ್ಟ್ರಿಸಿಟಿ: ಟೂ ವೇಸ್‌ ಆಫ್‌ ಟಾಕಿಂಗ್‌ ಅಬೌಟ್‌
+  ಕನೆಕ್ಷನ್‌ ಇನ್‌ ಡ್ಯಾಂಸ್‌"
 permalink: kn/programmes/lectures/contagion-and-electricity/
 cata: transmission
 catb: documenting
@@ -29,24 +31,25 @@ expertbio: "ಡಾ.ಅನನ್ಯ ಜಹನಾರಾ ಕಬೀರ್‌,  ಕ�
 expertpic: /static/img/pl_ananya_portrait.png
 readinglist:
   - quadreadlink: https://scroll.in/article/801182/five-exhilarating-dance-moves-that-celebrate-the-traumas-of-modernity
-    quadreadtxt: Five Exhilarating Dance Moves That Celebrate The Traumas Of Modernity
+    quadreadtxt: ಆಧುನಿಕತೆಯ ಮನೋ ಆಘಾತಗಳನ್ನು ಸಂಭ್ರಮಿಸುವ ಐದು ನೃತ್ಯ ಭಂಗಿಗಳು
     quadreadvis: /static/img/M_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://theconversation.com/the-angolan-dancers-who-helped-south-african-anthem-jerusalema-go-global-148782
-    quadreadtxt: The Angolan Dancers Who Helped South African Anthem Jerusalema Go Global
+    quadreadtxt: "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾದ ರಾಷ್ಟ್ರಗೀತೆ ʼಜೆರುಸಲೇಮʼ ಜಾಗತಿಕವಾಗಿ ಖ್ಯಾತಿ ಪಡೆಯಲು
+      ಅಂಗೋಲದ ನೃತ್ಯಗಾರರು ಸಹಕರಿಸಿದುದು ಹೇಗೆ "
     quadreadvis: /static/img/M_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.smithsonianmag.com/smart-news/strange-case-dancing-mania-struck-germany-six-centuries-ago-today-180959549/#:~:text=Called%20Tarantism%20in%20Italy%2C%20it,poisons%20the%20arachnid%20had%20injected.&text=It%20started%20in%20July%20when,Frau%20Troffea%20began%20to%20dance.
-    quadreadtxt: A Strange Case of Dancing Mania Struck Germany Six Centuries Ago Today
+    quadreadtxt: "ಆರು ಶತಮಾನಗಳ ಹಿಂದೆ ಇಂದಿನ ದಿನ ಜರ್ಮನಿಯನ್ನು ಅಪ್ಪಳಿಸಿದ ವಿಚಿತ್ರ ನೃತ್ಯ ಉನ್ಮಾದತೆ "
     quadreadvis: /static/img/M_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://soundcloud.com/ramin-roshandel/mammals-in-captivity
-    quadlisttxt: Mammals in Captivity
+    quadlisttxt: "ಸೆರೆಯಲ್ಲಿರುವ ಸಸ್ತನಿಗಳು "
     quadlistvis: /static/img/M_PL_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=fsF9u-EWnCk
-    quadwatchtxt: I Am A Global Citizen
+    quadwatchtxt: "ನಾನು ಜಾಗತಿಕ ನಾಗರೀಕ "
     quadwatchvis: /static/img/M_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=yHVTgZw7geY&t=81s
-    quadwatchtxt: How Society Can Explain the Deadly Medieval Dancing Plagues
+    quadwatchtxt: ಮಧ್ಯಕಾಲೀನ ನೃತ್ಯ ಪ್ಲೇಗ್ ರೋಗವನ್ನು ಸಮಾಜವು ಹೇಗೆ ವಿವರಿಸುತ್ತದೆ ?
     quadwatchvis: /static/img/M_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-shahane

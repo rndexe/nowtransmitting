@@ -57,9 +57,9 @@ eventlist:
     quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
   - quadrelatedtxt: Fluid Dialogues by Basse Stittgen
-    quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/fluid-dialogues/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_1.jpg
   - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
-    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

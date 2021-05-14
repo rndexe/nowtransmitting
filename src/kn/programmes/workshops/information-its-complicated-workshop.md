@@ -31,32 +31,32 @@ expertbio: >-
 expertpic: /static/img/d_wk_sec_vis_1.png
 readinglist:
   - quadreadlink: https://www.scientificamerican.com/article/most-people-dont-actively-seek-to-share-fake-news/
-    quadreadtxt: Most People Don’t Actively Seek to Share Fake News
+    quadreadtxt: ಬಹಳಷ್ಟು ಜನರು ಸುಳ್ಳು ಸುದ್ಧಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಕ್ರಿಯ ಪಾತ್ರ ವಹಿಸುವುದಿಲ್ಲ.
     quadreadvis: /static/img/d_wk_qua_readvis_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/trolling-for-truth-on-social-media/
-    quadreadtxt: Trolling for Truth on Social Media
+    quadreadtxt: ಸತ್ಯಾನ್ವೇಷಣೆಗಾಗಿ ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ  ಅಲ್ಲೆಗೆಳೆಯುವ ಪ್ರಕ್ರಿಯೆ
     quadreadvis: /static/img/d_wk_qua_readvis_2.jpg
   - quadreadlink: https://www.boell.de/en/2020/10/12/fehlinformationen-verstehen-unsere-gesellschaft-unsere-technologie-wir-selbst
-    quadreadtxt: "Understanding Misinformation: Our Society, Our Technology, Ourselves "
+    quadreadtxt: "ತಪ್ಪು ಮಾಹಿತಿಯನ್ನು ಅರ್ಥೈಸುವುದು : ನಮ್ಮ ಸಮಾಜ, ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ಸ್ವಯಂ ನಾವು"
     quadreadvis: /static/img/D_WK_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://www.npr.org/2019/10/29/774541010/fake-news-is-scary-heres-how-to-spot-misinformation
-    quadlisttxt: "Fake News: How To Spot Misinformation"
+    quadlisttxt: "ಸುಳ್ಳು ಸುದ್ದಿಗಳು: ತಪ್ಪು ಮಾಹಿತಿಯನ್ನು ಗುರುತಿಸುವುದು ಹೇಗೆ?"
     quadlistvis: /static/img/d_wk_qua_listivis_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=hz6GULbowAk&t=103s
-    quadwatchtxt: Why People Fall For Misinformation
+    quadwatchtxt: "ಜನರು ತಪ್ಪು ಮಾಹಿತಿಗೆ ಏಕೆ ಈಡಾಗುತ್ತಾರೆ? "
     quadwatchvis: /static/img/D_WK_QUA_WATCHVIS_1.jpg
 eventlist:
-  - quadeventtxt: "2020 Vision: Making Sense of 24 X 7 Online News | Masterclass by
-      Robert Good"
+  - quadeventtxt: "2020 ದೂರ ದೃಷ್ಟಿ: ಅಹೋರಾತ್ರಿ (24/7) ಆನ್ಲೈನ್‌ ವಾರ್ತೆಗಳ ಅರ್ಥವೇನು? |
+      ಪರಿಣತಿ ತರಗತಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌"
     quadeventlink: http://bit.ly/masterclass-good
     quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
-  - quadrelatedtxt: "The Glassroom: Misinformation Edition by Tactical Tech and DensityDesign"
+  - quadrelatedtxt: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ | ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್"
     quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/
     quadrelatedvis: /static/img/G_Exhibit_Thumbnail.jpg
-  - quadrelatedtxt: 2020 Vision by Robert Good
+  - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
     quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
     quadrelatedvis: /static/img/B_Exhibit_Thumbnail.jpg
 ---
