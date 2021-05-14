@@ -88,5 +88,5 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: "When the World Was A Laugh by Anais Tondeur "
     quadrelatedvis: /static/img/L_EXHIBIT_QUA_EXPTVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/when-world-laugh/
+    quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
 ---
