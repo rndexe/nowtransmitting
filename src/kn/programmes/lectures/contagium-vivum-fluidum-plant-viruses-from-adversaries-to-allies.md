@@ -57,9 +57,9 @@ eventlist:
     quadeventvis: /static/img/pl_uma.png
 relatedlist:
   - quadrelatedtxt: "ವೆಂಡೆಲ್‌ ಸ್ಟಾನ್ಲೇ: ವೈರಾಣು ಇತಿಹಾಸದ ಚಿತ್ರಣ"
-    quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/wendell-stanley/
     quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: ಜೀವರೋಧಕಗಳಲ್ಲಿ ಇರುವೆಗಳು | ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/ant-antibiotics/
     quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
