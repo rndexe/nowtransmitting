@@ -63,9 +63,9 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: "ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಜ್ಹಾನ್‌ ಡಬಲ್ಯೂ ಬುಶ್ಮಾ,
       ರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್, ಕಾಸಿಮ್‌ ಖಾನ್‌ "
-    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/indoor-safety-guidelines/
     quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
   - quadrelatedtxt: "ಮ್ಯಾಪಿಂಗ್‌ ಖಾಲೆರಾ: ಎರಡು ನಗರದ ಕಥೆಗಳು | ಸೋನಿಯಾ ಶಾ"
-    quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/mapping-cholera/
     quadrelatedvis: /static/img/K_Exhibit_Thumbnail.jpg
 ---
