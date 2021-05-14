@@ -67,7 +67,7 @@ eventlist:
     quadeventlink: http://bit.ly/workshop-howard
     quadeventvis: /static/img/wk_hannah.png
 relatedlist:
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/plague-british-india/
     quadrelatedtxt: ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌
     quadrelatedvis: /static/img/A_Exhibit_Thumbnail.jpg
 ---
