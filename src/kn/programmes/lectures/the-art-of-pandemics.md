@@ -57,9 +57,9 @@ eventlist:
     quadeventvis: /static/img/fs_jayashree_thumbnail.png
 relatedlist:
   - quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: ದ್ರವ ಸಂವಾದಗಳು | ಬ್ಯಾಸೆ ಸ್ಟಿಟ್ಜೆನ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/fluid-dialogues/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
