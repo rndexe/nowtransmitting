@@ -1,5 +1,5 @@
 ---
-title: 2020 ರ ಆದಿಯಲ್ಲಿ ಆಸ್ಫೋಟವಾದ ಕೋವಿಡ್-19‌ ವಿಶ್ವವನ್ನು ಚಕಿತಗೊಳಿಸಿದೆ
+title: "ಉಪನ್ಯಾಸ ಶೀರ್ಷಿಕೆ – ಮುಂಚಿತವಾಗಿ ದೊರೆತ ಎಚ್ಚರಿಕೆ: 2003 ರ ಸಾರ್ಸ್‌ ರೋಗ ಪಿಡುಗು ಕಥೆ"
 permalink: kn/programmes/lectures/an-early-warning-the-story-of-SARS-in-2003/
 cata: hindsight
 catb: narrating
