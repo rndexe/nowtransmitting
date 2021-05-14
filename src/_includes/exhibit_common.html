@@ -11,7 +11,8 @@ layout: default
 			<div>
 				{% include "./partials/navbar.html" %}
 				{% include "./partials/menu.html" %}
-				<div id="main" class="flex flex-col lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-gray-700 scroll-snap"> 
+				<div id="main" class=" flex flex-col 
+						       lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-gray-700 scroll-snap"> 
 				{% include "./partials/navbar_top.html" %}
 				{{ content | safe }}
 				{% include "./partials/quat_section.html" %}

@@ -1,4 +1,5 @@
-<section id="authors" class="block w-auto h-screen lg:flex lg:flex-none bg-red-650">
+<section id="authors" class="block w-auto h-auto bg-red-650
+			     lg:h-screen lg:flex lg:flex-none">
 
 	{% if exhibitauthor %}
 		{% for author in exhibitauthor %}
@@ -17,13 +18,18 @@
 		</div>
 		{% endfor %}
 	{% else %}	
-		<div class="w-288 pt-36">
-			<div class="w-3/5 h-2/5 mx-auto">
+		<div class="w-screen pt-20 
+			    lg:w-288 lg:pt-36">
+			<div class="w-3/5 mx-auto
+				    h-auto
+				    lg:h-2/5">
 				{% if authorimage %}
-				<img class="object-scale-down w-auto h-full" src={{authorimage}} oncontextmenu="return false" ondragstart="return false">
+				<img class="object-scale-down w-full h-auto lg:w-auto lg:h-full" src={{authorimage}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 			</div>
-			<div class="w-3/5 mx-auto pt-10">
+			<div class="w-3/5 mx-auto
+				    h-auto py-10
+				    lg:pt-10">
 				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{authorname}}</p>
 				{% if authorbio %}
 				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade">{{authorbio | markdownify | safe }}</pre>
