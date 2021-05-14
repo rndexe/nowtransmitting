@@ -30,7 +30,8 @@ expertbio: >-
 expertpic: /static/img/pl_madhav_portrait.png
 readinglist:
   - quadreadlink: https://www.thehindu.com/sci-tech/health/coronavirus-densely-packed-areas-in-cities-are-vulnerable-says-biocomplexity-expert-madhav-marathe/article31195212.ece
-    quadreadtxt: ಸಂಗಣಕಾತ್ಮಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಶಾಸ್ತ್ರ ಹಾಗೂ ಸಾಮಾಜಿಕ
+    quadreadtxt: Densely-packed Areas In Cities Are Vulnerable, Says Biocomplexity
+      Expert Madhav Marathe 
     quadreadvis: /static/img/V_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.nature.com/articles/s41562-020-0884-z
     quadreadtxt: Using Social and Behavioural Science to Support COVID-19 Pandemic Response
