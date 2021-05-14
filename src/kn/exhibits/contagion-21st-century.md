@@ -46,7 +46,7 @@ exhibitimages2:
       ಸಹಕಾರಿಯಾಗುತ್ತವೆ.  ಛಾಯಾಚಿತ್ರದಲ್ಲಿರುವ ಪಠನ ಸಾಮಗ್ರಿಯನ್ನು , ಸಾರ್ಸ್‌ ಕೋವಿಡ್‌ - 2
       ರೋಗಾಣುವಿನ ಬಗೆಗೆ ಸತತವಾಗಿ ಸಂಶೋಧನೆ ನೆಡೆಯುತ್ತಿರುವ ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯ
       ದಾಖಲೆಗಳಿಂದ ತೆಗೆದುಕೊಳ್ಳಲಾಗಿದೆ
-    privis: /static/img/O_EXHIBIT_PRI_VIS_13.jpg
+    privis: /static/img/o_exhibit_pri_vis_alternative.png
 quadreadvis: ""
 authortype: ತಂಡ
 year: "2019"
