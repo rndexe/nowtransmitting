@@ -2,7 +2,7 @@
 layout: chameleon-project
 authortype: Artist
 thumb: /static/img/L_Exhibit_Thumbnail.jpg
-title: "The Chameleon Project"
+title: The Chameleon Project
 subtitle: "(R)emote: Spreading your feelings"
 medium: Text, Images, Videos
 year: "2010"
@@ -88,5 +88,5 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: "When the World Was A Laugh by Anais Tondeur "
     quadrelatedvis: /static/img/L_EXHIBIT_QUA_EXPTVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/when-world-laugh/
 ---
