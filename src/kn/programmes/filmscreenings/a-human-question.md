@@ -64,10 +64,10 @@ eventlist:
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: "ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳು ಅಂತ್ಯಗೊಂಡ ನಂತರ: ಶೀತಲ ಸಮರದ ದೃಷ್ಟಿಕೋನ |
       ಉಪನ್ಯಾಸ | ಡೋರಾ ವರ್ಘ"
-    quadeventlink: http://bit.ly/lecture-vargha
+    quadeventlink: https://nowtransmitting.com/kn/programmes/lectures/after-end-of-epidemics/
     quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedtxt: ದ್ರವ ಸಂವಾದಗಳು | ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/fluid-dialogues/
     quadrelatedvis: /static/img/M_Exhibit_Thumbnail.jpg
 ---
