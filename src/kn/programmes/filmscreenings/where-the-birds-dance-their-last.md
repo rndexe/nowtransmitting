@@ -73,9 +73,9 @@ eventlist:
     quadeventvis: /static/img/wk_echo.png
 relatedlist:
   - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
