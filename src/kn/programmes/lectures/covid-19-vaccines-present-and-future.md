@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Vaccines: Present and Future"
+title: "ಕೋವಿಡ್-19‌  ಲಸಿಕೆಗಳು: ಗತ ಮತ್ತು ವರ್ತಮಾನ ಕಾಲ"
 permalink: kn/programmes/lectures/covid-19-vaccines-present-and-future/
 cata: spillover
 catb: experimenting
@@ -7,13 +7,12 @@ thumb: /static/img/pl_gagandeep.png
 cover: /static/img/O_PL_Coverimage.jpg
 date: 2021-05-28T13:00:00.000Z
 description: >-
-  The COVID-19 pandemic has reinforced the role of science in society, policy,
-  and public health communication. It is clear that we need accurate and
-  accessible scientific information, especially with regards to vaccines.\
+  ಕೋವಿಡ್-19‌  ರೋಗ ಪಿಡುಗು, ಸಮಾಜ, ನೀತಿಶಾಸ್ತ್ರ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಪ್ರಸಾರದಲ್ಲಿ
+  ವಿಜ್ಞಾನದ ಪಾತ್ರವನ್ನು ದೃಢಗೊಳಿಸಿದೆ.  ಲಸಿಕೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಅತ್ಯಂತ ನಿಖರವಾದ ಹಾಗೂ
+  ಎಲ್ಲರಿಗೂ ಲಭ್ಯವಾಗುವ ವೈಜ್ಞಾನಿಕ ಮಾಹಿತಿ ಯು ಅವಶ್ಯಕ ಎಂಬುದು ಖಚಿತವಾಗಿದೆ.
 
-  \
 
-  Worldwide, several vaccines have been approved for COVID-19; however, questions have been raised about their efficacy and safety and what the future holds because of the emergence of important variants. To combat some of the hesitancy around COVID-19 vaccination, this talk will open up the processes behind COVID-19 vaccine development. In doing so, Dr Kang will also answer critical questions on the mechanisms of vaccination and its limits, for us to better grasp our role in the current global drive for vaccination.
+  ಕೋವಿಡ್-19‌  ರೋಗಕ್ಕೆ ವಿಶ್ವದೆಲ್ಲೆಡೆ ಹಲವು ಲಸಿಕೆಗಳಿಗೆ ಮಾನ್ಯತೆ ದೊರಕಿದೆ.  ಆದಾಗ್ಯೂ, ಅವುಗಳು ಎಷ್ಟು ಸುರಕ್ಷಿತ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ, ಅಲ್ಲದೇ ರೂಪಾಂತರಣಗಳು ಹುಟ್ಟಿಕೊಂಡಿರುವ ಕಾರಣ ಭವಿಷ್ಯತ್ತಿನಲ್ಲಿ ಏನು ಕಾದಿದೆ ಎಂಬುದರ ಬಗೆಗೆ ಪ್ರಶ್ನೆಗಳು ಹುಟ್ಟಿವೆ. ಕೋವಿಡ್-19‌ ಲಸಿಕೆ ಕುರಿತಂತಹ ಹಿಂಜರಿಕೆಯನ್ನು ನಿವಾರಿಸಲು, ಈ ಲಸಿಕೆಯ ತಯಾರಿಕೆಯ ಹಿಂದೆ ಅಡಗಿರುವ ಪ್ರಕ್ರಿಯೆಗಳನ್ನು, ಭಾಷಣದ ಮೂಲಕ ಡಾ.ಕಾಂಗ್‌ ಅವರು ತಿಳಿಸಲಿದ್ದಾರೆ.  ಲಸಿಕೆಯ ಕಾರ್ಯಪ್ರಣಾಲಿಕೆ, ಪರಿಮಿತಿಯ ಬಗ್ಗೆ ಹಾಗೂ ವರ್ತಮಾನದಲ್ಲಿ ನೆಡೆದಿರುವ ಜಾಗತಿಕ ಲಸಿಕಾ ಅಭಿಯಾನದಲ್ಲಿ ನಮ್ಮ ಪಾತ್ರವನ್ನು ವಿವರಿಸುತ್ತಾರೆ.
 link: https://www.eventbrite.com/e/145403685337
 expertname: Gagandeep Kang
 expertbio: >-
