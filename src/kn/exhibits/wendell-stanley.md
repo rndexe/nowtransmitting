@@ -100,8 +100,8 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
     quadrelatedvis: /static/img/P_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/moulding-modern-medicine/
   - quadrelatedtxt: ಥೇರಿಯಾಕ್‌  | ರೋಗ ನಕ್ಷೆ
     quadrelatedvis: /static/img/P_EXHIBIT_QUA_EXPVIS_2.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/theriak/
 ---
