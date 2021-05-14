@@ -62,6 +62,6 @@ eventlist:
     quadeventvis: /static/img/pl_uma.png
 relatedlist:
   - quadrelatedtxt: "ವೆಂಡೆಲ್‌ ಸ್ಟಾನ್ಲೇ: ವೈರಾಣು ಇತಿಹಾಸದ ಚಿತ್ರಣ "
-    quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/wendell-stanley/
     quadrelatedvis: /static/img/P_Exhibit_Thumbnail.jpg
 ---
