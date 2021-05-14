@@ -3,7 +3,7 @@ layout: plague-british-india
 featured: false
 authortype: Scholar
 thumb: /static/img/A_Exhibit_Thumbnail.jpg
-title: "Controlling the Plague in British India"
+title: Controlling the Plague in British India
 subtitle: "A Visual History of the Plague "
 medium: Photographs
 year: 1896 – 1898
@@ -16,10 +16,7 @@ description: >-
   deeply impacted methods of disease control and response across the world.
 
 
-  An essay accompanies this exhibit written by social anthropologist Christos Lynteris that explores the measures taken by colonial authorities in order to control the spread of the third plague pandemic in India. The exhibit also contains photographs courtesy of the research project on “Visual Representations of the Third Plague Pandemic” led by Christos. 
-
-
-  The project was funded by a European Research Council Starting Grant (under the European Union's Seventh Framework Programme/European Research Council grant agreement no 336564) and investigated the visualisation of plague during the third pandemic and the way in which this formed a paradigm of epidemic photography. The project has made a large number of plague photographs available to the public through the University of Cambridge’s repository [Apollo](https://www.repository.cam.ac.uk/handle/1810/280684). 
+  An essay accompanies this exhibit written by social anthropologist Christos Lynteris that explores the measures taken by colonial authorities in order to control the spread of the third plague pandemic in India. The exhibit also contains photographs courtesy of the research project on “Visual Representations of the Third Plague Pandemic” led by Christos.
 essay: >-
   The third plague pandemic lasted from c.1855 to 1959 and was the first time
   that bubonic plague reached all inhabited continents, establishing long-term
