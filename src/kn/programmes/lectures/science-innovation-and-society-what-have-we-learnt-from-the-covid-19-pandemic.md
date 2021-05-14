@@ -62,13 +62,13 @@ eventlist:
     quadeventvis: /static/img/wk_gabriela.png
   - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
       Lecture | Sheila Jasanoff"
-    quadeventlink: https://nowtransmitting.com/programmes/lectures/control-consensus-chaos/
+    quadeventlink: https://nowtransmitting.com/kn/programmes/lectures/control-consensus-chaos/
     quadeventvis: /static/img/pl_sheila.jpg
 relatedlist:
   - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/moulding-modern-medicine/
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
