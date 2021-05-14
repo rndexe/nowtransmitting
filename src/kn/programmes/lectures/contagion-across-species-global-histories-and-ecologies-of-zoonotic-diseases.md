@@ -65,9 +65,9 @@ eventlist:
     quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: ಜೀವರೋಧಕಗಳಲ್ಲಿ ಇರುವೆಗಳು | ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/ant-antibiotics/
     quadrelatedvis: /static/img/F_Exhibit_Thumbnail.jpg
   - quadrelatedtxt: "ವೆಂಡೆಲ್‌ ಸ್ಟಾನ್ಲೇ: ವೈರಾಣು ಇತಿಹಾಸದ ಚಿತ್ರಣ\t"
-    quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/wendell-stanley/
     quadrelatedvis: /static/img/P_Exhibit_Thumbnail.jpg
 ---
