@@ -71,7 +71,7 @@ relatedlist:
   - quadrelatedtxt: "ಫ್ಲೂಯಿಡ್‌ ಡೈಲಾಗ್ಸ್‌ | ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್‌ "
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/kn/exhibits/fluid-dialogues/
-  - quadrelatedtxt: ಎ ಕ್ಲಸ್ಟರ್‌ ಆಫ್‌ 17 ಕೇಸಸ್‌ | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ ಯ ಪರಿಚಯ
+  - quadrelatedtxt: ಎ ಕ್ಲಸ್ಟರ್‌ ಆಫ್‌ 17 ಕೇಸಸ್‌ | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
     quadrelatedlink: https://nowtransmitting.com/kn/exhibits/cluster-17-cases/
 exhibitembed1: https://indoor-covid-safety.herokuapp.com/
