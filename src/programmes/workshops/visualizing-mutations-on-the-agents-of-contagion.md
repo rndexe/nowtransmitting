@@ -31,4 +31,8 @@ expertbio: >-
 
   Saurabh is an Assistant Professor of Basic Sciences at Atria University in Bangalore. He is an evolutionary biologist with a fascination and curiosity for the biological past, which he tries to study using the computational analysis of DNA and protein sequences. He is also passionate about teaching undergrads using interactive pedagogical tools, and likes to involve undergraduates in research.
 expertpic: /static/img/wk_meenakshi_portrait.png
+relatedlist:
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedtxt: THERIAK | The Disease Map
+    quadrelatedvis: /static/img/E_Exhibit_Thumbnail.jpg
 ---
