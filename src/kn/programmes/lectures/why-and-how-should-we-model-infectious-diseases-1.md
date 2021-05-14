@@ -67,9 +67,9 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: "ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಜ್ಹಾನ್‌ ಡಬಲ್ಯೂ ಬುಶ್,
       ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್, ಕಾಸಿಮ್‌ ಖಾನ್‌ "
-    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/indoor-safety-guidelines/
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/cluster-17-cases/
     quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
