@@ -1,5 +1,5 @@
 ---
-title: "ವ್ಯಾಪನ ಮತ್ತು ವಿದ್ಯುತ್ತು : ನೃತ್ಯ ಮುಖೇಣ ಈ ಎರಡರ ನಡುವಣ ಸಂಬಂಧ ಮತ್ತು ಭಿನ್ನಾಭಿಪ್ರಾಯ"
+title: "ವ್ಯಾಪನ ಮತ್ತು ವಿದ್ಯುತ್ತು: ನೃತ್ಯ ಮುಖೇಣ ಈ ಎರಡರ ನಡುವಣ ಸಂಬಂಧ ಮತ್ತು ಭಿನ್ನಾಭಿಪ್ರಾಯ"
 permalink: kn/programmes/lectures/contagion-and-electricity/
 cata: transmission
 catb: documenting
