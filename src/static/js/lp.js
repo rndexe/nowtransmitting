@@ -246,7 +246,7 @@ loadJSON(function(json) {
                 var date = d.getDate()
                 var month = d.getMonth()
                 var year = d.getFullYear()
-                if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
+                if(new Date(`"${year}","${month}","${date}"`) <= new Date('2021','4','2')){
                     if(n==24){
                         var pop = createProgramPopup(
                             "Antimicrobial Resistance: The Pandemic in the Shadows by Jyoti Joshi",
@@ -323,9 +323,9 @@ loadJSON(function(json) {
                         exhibitcards.appendChild(pop)
                     }
                 }
-                else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-3')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-9')) ){
+                else if((new Date(`"${year}","${month}","${date}"`) >= new Date('2021','4','3')) && (new Date(`"${year}","${month}","${date}"`) <= new Date('2021','4','9')) ){
                     var newjs = json.filter((event)=>{
-                        return (new Date(event.date) >= new Date('2021-5-3')) && (new Date(event.date) <= new Date('2021-5-9'))
+                        return (new Date(event.date) >= new Date('2021','5','3')) && (new Date(event.date) <= new Date('2021','5','9'))
                     });
                     var pop = createProgramPopup(
                         newjs[n-24].title,
@@ -343,9 +343,9 @@ loadJSON(function(json) {
                     exhibitcards.appendChild(pop)
                     
                 }
-                else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-10')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-16')) ){
+                else if((new Date(`"${year}","${month}","${date}"`) >= new Date('2021','4','10')) && (new Date(`"${year}","${month}","${date}"`) <= new Date('2021-4-16')) ){
                     var newjs = json.filter((event)=>{
-                        return (new Date(event.date) >= new Date('2021-5-10')) && (new Date(event.date) <= new Date('2021-5-16'))
+                        return (new Date(event.date) >= new Date('2021','5','10')) && (new Date(event.date) <= new Date('2021','5','16'))
                     });
                     var pop = createProgramPopup(
                         newjs[n-24].title,
@@ -362,16 +362,16 @@ loadJSON(function(json) {
                     document.getElementById("mynetwork").className = "mynetwork blur"
                     exhibitcards.appendChild(pop)
                 }
-                else if((d >= new Date('2021-5-17')) && (d <= new Date('2021-5-23')) ){
+                else if((d >= new Date('2021','5','17')) && (d <= new Date('2021','5','23')) ){
 
                 }
-                else if((d >= new Date('2021-5-24')) && (d <= new Date('2021-5-30')) ){
+                else if((d >= new Date('2021','5','24')) && (d <= new Date('2021','5','30')) ){
 
                 }
-                else if((d >= new Date('2021-5-31')) && (d <= new Date('2021-6-6')) ){
+                else if((d >= new Date('2021','5','31')) && (d <= new Date('2021','6','6')) ){
 
                 }
-                else if((d >= new Date('2021-6-7')) && (d <= new Date('2021-6-13')) ){
+                else if((d >= new Date('2021','6','7')) && (d <= new Date('2021','6','13')) ){
 
                 }
             }else{
@@ -591,7 +591,7 @@ var d = new Date()
 var date = d.getDate()
 var month = d.getMonth()
 var year = d.getFullYear()
-if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
+if(new Date(`"${year}","${month}","${date}"`) <= new Date('2021','4','2')){
     nodes.add({ id: 24, opacity:0.9,  shape:"circle", group: 1,x:1960,y:500, borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25, opacity:0.9,  shape:"circle", group: 1,x:1930,y:600,  borderWidth: 0,  font: { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26, opacity:0.9,  shape:"circle", group: 1,x:2000,y:800,  borderWidth: 0,  font: { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -603,7 +603,7 @@ if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
     newEdges.add({from: 26, to: 20, length:500, color:{opacity:opac}})
     newEdges.add({from: 28, to: 17, length:100, color:{opacity:opac}})
 
-}else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-3')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-9')) ){
+}else if((new Date(`"${year}","${month}","${date}"`) >= new Date('2021','4','3')) && (new Date(`"${year}","${month}","${date}"`) <= new Date('2021','4','9')) ){
     nodes.add({ id: 24, opacity:0.9,  shape:"circle", group: 1,x:0,y:300,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25, opacity:0.9,  shape:"circle", group: 1,x:0,y:350,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26, opacity:0.9,  shape:"circle", group: 1,x:0,y:360,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -615,7 +615,7 @@ if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
     
 }
 // new week 1
-else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-10')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-16')) ){
+else if((new Date(`"${year}","${month}","${date}"`) >= new Date('2021','4','10')) && (new Date(`"${year}","${month}","${date}"`) <= new Date('2021','4','16')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:960,y:0, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:1800,y:500,  borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:1900,y:650,  borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -629,7 +629,7 @@ else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-10')) && (new 
     //newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
 }
 //new week 2
-else if((d >= new Date('2021-4-17')) && (d <= new Date('2021-4-23')) ){
+else if((d >= new Date('2021','4','17')) && (d <= new Date('2021','4','23')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -652,7 +652,7 @@ else if((d >= new Date('2021-4-17')) && (d <= new Date('2021-4-23')) ){
     newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
 }
 //new week 3
-else if((d >= new Date('2021-4-24')) && (d <= new Date('2021-4-30')) ){
+else if((d >= new Date('2021','4','24')) && (d <= new Date('2021','4','30')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -677,7 +677,7 @@ else if((d >= new Date('2021-4-24')) && (d <= new Date('2021-4-30')) ){
     newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
 }
 // new week 4
-else if((d >= new Date('2021-4-31')) && (d <= new Date('2021-5-6')) ){
+else if((d >= new Date('2021','4','31')) && (d <= new Date('2021','5','6')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -697,7 +697,7 @@ else if((d >= new Date('2021-4-31')) && (d <= new Date('2021-5-6')) ){
     newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
 }
 //new week 5
-else if((d >= new Date('2021-5-7')) && (d <= new Date('2021-5-13')) ){
+else if((d >= new Date('2021','5','7')) && (d <= new Date('2021','5','13')) ){
     nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
     nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -880,7 +880,7 @@ network.on("hoverNode",function (params){
         var date = d.getDate()
                 var month = d.getMonth()
                 var year = d.getFullYear()
-        if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
+        if(new Date(`"${year}","${month}","${date}"`) <= new Date('2021','4','2')){
             if(id== 25 ){
                 showStuff(1)
             }
@@ -891,7 +891,7 @@ network.on("hoverNode",function (params){
                 showStuff(3)
             }
         }
-        else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-3')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-9'))){
+        else if((new Date(`"${year}","${month}","${date}"`) >= new Date('2021','4','3')) && (new Date(`"${year}","${month}","${date}"`) <= new Date('2021','4','9'))){
             if(id == 24){
                 showStuff(3)
             }
@@ -902,7 +902,7 @@ network.on("hoverNode",function (params){
                 showStuff(2)
             }
         }
-        else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-10')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-16'))){
+        else if((new Date(`"${year}","${month}","${date}"`) >= new Date('2021','4','10')) && (new Date(`"${year}","${month}","${date}"`) <= new Date('2021','4','16'))){
             if(id == 24 || id == 25 || id == 28){
                 showStuff(3)
             }
@@ -937,20 +937,27 @@ if(window.outerWidth < window.outerHeight){
 
 function updater(){
     project.clear()
-    var nodeID = [8,10,14,15,16,17,22,24,26];
+    var nodeID = [8,10,14,15,16,17];
 
     ballPositions = [];
     for(const item in nodeID){
-        const node = network.getPositions([nodeID[item]])[nodeID[item]]
+        console.log(item)
+        const node = network.getPosition(nodeID[item])    
+        console.log("node is ")
+        console.log(node)
         const corner = network.canvasToDOM({
             x: node.x,
             y: node.y
         })
+        console.log(corner.x)
 
         var arr = []
-        arr.push(corner.x+offset)
-        arr.push(corner.y+offset)
+        arr.push(Number(corner.x+offset))
+        arr.push(Number(corner.y+offset))
+        console.log("Arr is")
+        console.log(arr)
         ballPositions.push(arr)
+        
     }
     
     var circlePaths = [];
