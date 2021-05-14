@@ -60,9 +60,9 @@ eventlist:
     quadeventvis: /static/img/f_mariam.png
 relatedlist:
   - quadrelatedtxt: ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ  | ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್
-    quadrelatedlink: https://nowtransmitting.com/exhibits/when-world-laugh/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/when-world-laugh/
     quadrelatedvis: /static/img/B_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/plague-british-india/
     quadrelatedtxt: " ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ | ಕ್ರಿಸ್ಟೋಸ್‌ ಲಿಂಟೆರಿಸ್‌"
     quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
 ---
