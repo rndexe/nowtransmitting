@@ -42,9 +42,10 @@ promptAlist:
       eyes is to draw attention to how we've physically and mentally withdrawn
       ourselves from each other during the pandemic.
     name: "Syona Thomas "
-    bio: Syona is pursuing her Master's in Botany at St. Joseph's College,
-      Bengaluru. Apart from being a full-time student, she loves taking
-      photographs, playing the guitar and watching the stars.
+    bio: "**ಸಿಯೋನಾ ಅವರು, ಬೆಂಗಳೂರಿನ  ಸೇಂಟ್.ಜೋಸೆಫ್‌ʼಸ್‌ ಕಾಲೇಜಿನಲ್ಲಿ, ಸಸ್ಯಶಾಸ್ತ್ರ
+      ವಿಷಯದಲ್ಲಿ ಸ್ನಾತಕೋತ್ತರ ವ್ಯಾಸಂಗ ಮಾಡುತ್ತಿದ್ದಾರೆ.  ಇವರು ಪೂರ್ಣಕಾಲಿಕ
+      ವಿದ್ಯಾರ್ಥಿನಿಯಾಗಿರುವುದರ ಜೊತೆಗೆ, ಛಾಯಾಗ್ರಹಣ, ಗಿಟಾರ್‌ ವಾದನ ಮತ್ತು ನಕ್ಷತ್ರ
+      ವೀಕ್ಷಣೆಯಲ್ಲಿ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ.**"
 promptBlist:
   - coverimage: /static/img/tye_3_aakanksha_bubble_a.jpg
     caption: Like a thin membrane holding a drop of water in a dewdrop, our lives
