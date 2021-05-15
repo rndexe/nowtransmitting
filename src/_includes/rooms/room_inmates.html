@@ -1,14 +1,14 @@
-<section class="w-auto h-full max-h-full pr-20 pt-16 flex-none bg-white">
-	<div class = "flex flex-row w-auto h-full">
+<section class="w-full lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 pt-16 flex-none bg-white">
+	<div class = "flex flex-col lg:flex-row w-full lg:w-auto h-auto lg:h-full mb-32 lg:mb-0">
 	{%- for game in gameslist -%}
-		<div class="flex flex-col flex-none w-auto h-4/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
+		<div class="flex flex-col flex-none w-full lg:h-4/6 pl-12 pr-12 pb-10 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
 			
 			<p class="text-3xl font-display mb-3">{{game.title}}</p>
 			<div class="mb-12 w-20 h-0 border border-solid border-red-650"></div>
-			<div class="flex flex-row h-full">
-				<img class="object-contain w-auto h-full shadow-2xl" src={{game.playimage}} oncontextmenu="return false" ondragstart="return false">	
-				<div class="pl-10">
-					<p class="text-sm mb-10 w-96 font-normal font-trade text-trueGray-750">{{game.about}}</p>
+			<div class="flex flex-col lg:flex-row lg:h-full">
+				<img class="object-contain w-full h-auto lg:w-auto lg:h-full shadow-2xl" src={{game.playimage}} oncontextmenu="return false" ondragstart="return false">	
+				<div class="lg:pl-10">
+					<p class="text-sm my-4 lg:mb-10 w-full lg:w-96 font-normal font-trade text-trueGray-750">{{game.about}}</p>
 					<a href={{game.listlink}}>
 						<button class="text-xs py-3 px-12  font-trade rounded-sm border border-solid border-black">
 						Play
