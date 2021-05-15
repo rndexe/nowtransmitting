@@ -67,7 +67,7 @@ watchinglist:
     quadwatchlink: https://www.adalovelaceinstitute.org/event/history-uses-vaccine-passports-covid-status-apps/
     quadwatchvis: /static/img/I_EXHIBIT_QUA_WATCHVIS_1.jpg
 relatedlist:
-  - quadrelatedtxt: "ಫ್ಲೂಯಿಡ್‌ ಡೈಲಾಗ್ಸ್‌ | ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್‌ "
+  - quadrelatedtxt: ದ್ರವ ಸಂವಾದಗಳು | ಬಾಸ್ಸೆ ಸ್ಟಿಟ್ಜೆನ್‌
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedlink: https://nowtransmitting.com/kn/exhibits/fluid-dialogues/
   - quadrelatedtxt: ಎ ಕ್ಲಸ್ಟರ್‌ ಆಫ್‌ 17 ಕೇಸಸ್‌ | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
