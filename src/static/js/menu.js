@@ -6,7 +6,6 @@ var menuContainer = document.getElementById('menu-container');
 // things to hide when opening menu
 var infoButton = document.getElementById('infobutton');
 var mediator = document.getElementById('mediator');
-//var sidenavbar = document.getElementById('sidenavbar')
 
 menubutton.addEventListener('click',function(){
     // adding the effects
@@ -35,23 +34,3 @@ var rightMenu = document.querySelector('.right-menu');
 //     exhibitMenuList.classList.toggle('hidden');
 // })
 
-// load json 
-fetch('../lp_json/exhibit_thumbnail.json')
-    .then(response => response.json())
-    .then(data => buildExhibitSection(data))
-
-const buildExhibitSection = (exhibits) => {
-    let ulist = exhibitMenuList
-    // console.log(ulist);
-
-    for(exhibit of exhibits) {
-        // console.log(exhibit)
-        let item = document.createElement('li')
-        let itemlink = document.createElement('a')
-        item.appendChild(itemlink)
-        itemlink.innerHTML = exhibit.title;
-        itemlink.href = exhibit.url;
-        
-        ulist.appendChild(item)
-    }
-}
