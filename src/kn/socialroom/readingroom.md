@@ -7,10 +7,10 @@ icon: /static/img/reading-room-square.svg
 openbooklist:
   - title: ಜರ್ನಲ್‌ ಆಫ್‌ ದಿ ಪ್ಲೇಗ್‌ ಇಯರ್‌
     author: ಡೇನಿಯಲ್‌ ಡೆಫೊ
-    about: "*A Journal of the Plague Year* narrates the account of one man's
-      experiences during 1665 when the bubonic plague struck the city of London.
-      An amalgamation of history, and fiction this narrative represents a
-      gripping report of life during the 'Great Plague.'"
+    about: “ಎ ಜರ್ನಲ್‌ ಆಫ್‌ ದಿ ಪ್ಲೇಗ್‌ ಇಯರ್‌“ ಕೃತಿಯು, ಬಬೋನಿಕ್‌ ಪ್ಲೇಗ್‌ ಮಹಾಮಾರಿಯು 1665
+      ರಲ್ಲಿ  ಲಂಡನ್‌ ನಗರವನ್ನು ಆವರಿಸಿದ್ದ ಕಾಲದ ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಅನುಭವದ ಕಥನವಾಗಿದೆ.
+      ಐತಿಹಾಸಿಕ ಘಟನೆಗಳನ್ನು ಕಲ್ಪನೆಯೊಂದಿಗೆ ಹೊಸೆದು ‘ಗ್ರೇಟ್‌ ಪ್ಲೇಗ್‌’ ರೋಗ ಪಿಡುಗಿನ
+      ನಡುವೆ ಜೀವನವು ಹೇಗಿತ್ತು ಎಂಬುದನ್ನು ವಿವರಿಸಲಾಗಿದೆ.
     listlink: https://e.issuu.com/embed.html?d=journalofplagu00defo&hideIssuuLogo=true&hideShareButton=true&pageNumber=12&u=sciencegallerybengaluru
   - title: ಲಾಫ್ಟರ್:‌ ಎನ್‌ ಎಸ್ಸೇ ಆನ್‌ ದಿ ಮೀನಿಂಗ್‌ ಆಫ್‌ ದಿ ಕಾಮಿಕ್‌
     author: ಹೆನ್ರಿ ಬರ್ಗ್‌ ಸನ್‌
@@ -70,10 +70,10 @@ recbooklist:
   - title: "ಬ್ಲೂ ಪಿಲ್ಸ್‌ : ಎ ಪಾಸಿಟಿವ್‌ ಲವ್‌ ಸ್ಟೋರಿ"
     author: ಫ್ರೆಡರಿಕ್‌ ಪೀಟರ್ಸ್‌
     link: https://www.theguardian.com/books/2008/mar/23/culture.features
-    about: In an autobiographical account about love in the time of AIDS, Frederik
-      meets Cati and falls in love. *Blue Pills* reveals the many obstacles the
-      couple faces because Cati is HIV positive, just like her three-year-old
-      son.
+    about: ಏಡ್ಸ್‌ ಮಹಾಮಾರಿಯ ಕಾಲದ ನಡುವಣ ಪ್ರಣಯ ಆತ್ಮಕಥೆಯಲ್ಲಿ, ಕ್ಯಾತಿ ಎಂಬುವವರನ್ನು
+      ಫ್ರೆಡರಿಕ್‌ ಪ್ರೀತಿಸುತ್ತಾರೆ.  ತನ್ನ ಮೂರು ವರ್ಷದ ಮಗನಂತೆಯೇ ಕ್ಯಾತಿಯೂ ಎಚ್.ಐ.ವಿ
+      ಪಾಸಿಟಿವ್‌ ಎಂಬುದು ತಿಳಿದ ನಂತರ, ಈ ಜೋಡಿಯ ಜೀವನದಲ್ಲಿ, ಎದುರಾಗುವ ಹಲವು ತೊಡಕುಗಳನ್ನು
+      ʼಬ್ಲೂ ಪಿಲ್ಸ್‌ʼ ಕೃತಿಯಲ್ಲಿ ಚಿತ್ರಿಸಲಾಗಿದೆ.
     coverimage: /static/img/rr_blue-pills.jpg
   - title: "ಕಂಟೇಜಿಯಸ್‌: ವೈ ಥಿಂಗ್ಸ್‌ ಕ್ಯಾಚ್‌ ಆನ್‌"
     author: ಜೋನಹ ಬರ್ಗರ್
@@ -256,10 +256,10 @@ speakerbooklist:
   - title: ಸೈನ್ಸ್‌, ಟೆಕ್ನಾಲಾಜಿ ಆಂಡ್‌ ಮೆಡಿಸಿನ್‌ ಇನ್‌ ಕಲೋನಿಯಲ್‌ ಇಂಡಿಯಾ
     author: ಡೇವಿಡ್‌  ಆರ್ನಲ್ಡ್
     link: https://www.livemint.com/mint-lounge/features/when-the-1897-bubonic-plague-ravaged-india-11587876174403.html
-    about: Spanning the period from the establishment of East India Company rule
-      through to Independence, David Arnold demonstrates the importance of
-      examining the role of science, technology and medicine alongside the
-      development of the British engagement in India.
+    about: ಈಸ್ಟ್‌ ಇಂಡಿಯಾ ಕಂಪನಿಯ ಸ್ಥಾಪನೆಯಿಂದ ಪ್ರಾರಂಭಿಸಿ ಸ್ವಾತಂತ್ರ್ಯದ ಸಮಯದ ವರೆಗೂ,
+      ಭಾರತದಲ್ಲಿ ಬ್ರಿಟಿಷರ ಆಡಳಿತ ಬೆಳದಂತೆಲ್ಲಾ ವಿಜ್ಞಾನ, ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ವೈದ್ಯಕೀಯ
+      ಕ್ಷೇತ್ರಗಳ ಅಭಿವೃದ್ಧಿ ಹಾಗೂ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು  ಡೇವಿಡ್ ಅರ್ನಾಲ್ಡ್
+      ನಿದರ್ಶಿಸುತ್ತಾರೆ.
     coverimage: /static/img/RR_David_RR_Science, Tech and Medicine.jpg
   - coverimage: /static/img/RR_Adia_RR_HIV Exceptionalism.jpg
     title: "ಎಚ್. ಐ.ವಿ ಎಕ್ಸೆಪ್ಶನಲಿಸಮ್‌: ಡೆವಲಪ್ ಮೆಂಟ್‌ ಥ್ರೂ ಡಿಸೀಸ್‌ ಇನ್‌ ಸಿಯಾರ್ರ ಲಿಯೋನ್"
@@ -275,10 +275,10 @@ speakerbooklist:
       Literature.jpg
     author: ಅನನ್ಯ ಜಹನಾರಾ ಕಬೀರ್‌
     link: https://assets.cambridge.org/97805218/06008/excerpt/9780521806008_excerpt.pdf
-    about: "In Paradise, Death and Doomsday, Ananya Jahanara Kabir presents an
-      investigation into the Anglo-Saxon belief in the 'interim paradise':
-      paradise as a temporary abode for good souls following death and pending
-      the final decisions of Doomsday."
+    about: ʼಪ್ಯಾರಡೈಸ್‌ʼ  ಕೃತಿಯಲ್ಲಿ, ಅನನ್ಯ ಜಹನಾರಾ ಕಬೀರ್‌ ಅವರು ಆಂಗ್ಲೋ ಸ್ಯಾಕ್ಸನ್‌
+      ಜನಾಂಗದವರು ನಂಬುತ್ತಿದ್ದಂತಹ ತ್ರಿಶಂಕು ಸ್ವರ್ಗದ ಅಂಶವನ್ನು ಬಿಂಬಿಸಿದ್ದಾರೆ. ಒಳ್ಳೆಯ
+      ಆತ್ಮಗಳಿಗೆ ಸಾವಿನ ನಂತರ ಕಲ್ಪಾಂತ್ಯದ ಅಂತಿಮ ನಿರ್ಣಯದ ವರೆಗಿನ  ಅಲ್ಪಕಾಲಿಕ ತಾಣವೆಂಬ
+      ನಂಬಿಕೆಯನ್ನು ತೆರೆಗೆ ತಂದಿದ್ದಾರೆ.
   - title: "ಹೌ ಬಿಹೇವಿಯರ್‌ ಸ್ಪ್ರೆಡ್ಸ್‌: ದಿ ಸೈನ್ಸ್‌ ಆಫ್‌ ಕಾಂಪ್ಲೆಕ್ಸ್‌ ಕಂಟೇಜನ್ಸ್ "
     coverimage: /static/img/RR_Damon_RR_How Behavior Spreads.jpg
     author: ಡಾಮನ್‌ ಸೆಂಟೋಲಾ
@@ -301,11 +301,11 @@ speakerbooklist:
     author: ಅಭಿಗೇಲ್‌ ವೂಡ್ಸ್‌ , ಮೈಖೇಲ್‌ ಬ್ರಸೇಲಿಯರ್‌, ಎಂಜೆಲಾ ಕ್ಯಾಸಿಡಿ, ರಾಚೆಲ್‌ ಮೇಸನ್‌
       ಡೆಂಟಿಂಗರ್‌
     link: https://wellcomecollection.org/works/pe6ntmsb
-    about: "*Animals and the Shaping of Modern Medicine* breaks new ground by
-      situating animals and their diseases at the very heart of modern medicine.
-      In demonstrating their historical significance as subjects and shapers of
-      medicine, it reveals that what we think of as human medicine was in fact
-      deeply zoological."
+    about: ಆಧುನಿಕ ವೈದ್ಯಕೀಯ ಪದ್ಧತಿಯ ವಿಕಸನಕ್ಕೆ, ಮುಖ್ಯವಾಗಿ ಪ್ರಾಣಿಗಳು ಮತ್ತು ಅವುಗಳನ್ನು
+      ಕಾಡುವ ರೋಗಗಳೇ ಕಾರಣ ಎಂಬ ಹೊಸ ಚಿಂತನೆಯು ʼಅನಿಮಲ್‌ ಆಂಡ್‌ ದಿ ಶೇಪಿಂಗ್‌ ಆಫ್‌
+      ಮಾಡರ್ನ್‌ ಮೆಡಿಸಿನ್‌ʼ ಕೃತಿಯಲ್ಲಿದೆ. ಔಷಧಿಗಳ ಐತಿಹಾಸಿಕ ಮಹತ್ವವನ್ನು ನಿರೂಪಿಸುವ
+      ನಿಟ್ಟಿನಲ್ಲಿ, ಮಾನವರ ಚಿಕಿತ್ಸೆಯ ವಿಧಾನವೆಂದು ಭಾವಿಸಿರುವ ಔಷಧಗಳನ್ನು, ಮೂಲತಃ ಪ್ರಾಣಿ
+      ಸಂಕುಲಕ್ಕೆ ಬಳಸಲಾಗುತ್ತಿತ್ತು ಎಂಬುದು ಅರಿವಾಗುತ್ತದೆ.
     coverimage: /static/img/RR_Michael Bresalier_RR_Animals and Modern Medicine.jpg
   - title: "ಏಜ್‌ ಆಫ್‌ ಪ್ಯಾಂಡಮಿಕ್ಸ್ (1817-1920): ಹೌ ಧೆ ಶೇಪ್ಡ್‌ ಇಂಡಿಯಾ ಆಂಡ್‌ ದಿ
       ವರ್ಲ್ಡ್‌"
@@ -330,18 +330,20 @@ speakerbooklist:
       ನಿಯಂತ್ರಣ ಮತ್ತು ನಿವಾರಣೆ"
     author: ಸಂಜೊಯ್‌ ಭಟ್ಟಾಚಾರ್ಯ
     link: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)60692-7/fulltext
-    about: "*Expunging Variola* is a wide-ranging study, based on extensive archival
-      research in India, Britain, Switzerland and the United States of America.
-      It assesses the many complexities in the formulation and implementation of
-      the smallpox eradication programme in the subcontinent."
+    about: ಭಾರತ, ಬ್ರಿಟೆನ್‌, ಸ್ವಿಟ್ಸರ್ಲ್ಯಾಂಡ್‌, ಮತ್ತು ಸಂಯುಕ್ತ ಅಮೇರಿಕಾ ರಾಜ್ಯ ಸಮೂಹದಲ್ಲಿ
+      ನೆಡೆದ ಸಂಗ್ರಹಾಲಯಗಳ ವಿಶದವಾದ ಸಂಶೋಧನೆಯನ್ನು ಆಧಾರಿಸಿ, “ಎಕ್ಸ್‌ ಪಂಜಿಂಗ್‌ ವೇರಿಯೋಲಾ”
+      ಕೃತಿಯನ್ನು ರಚಿಸಲಾಗಿದೆ. ಈ ಭೂ ಪ್ರದೇಶದಲ್ಲಿ ಸಿಡುಬು ರೋಗ ನಿರ್ಮೂಲನೆಗೆ ಕೈಗೊಂಡ ಹಲವು
+      ರೀತಿ ನೀತಿಗಳು ಮತ್ತು ಕಾರ್ಯಯೋಜನೆಗಳನ್ನು ವಿಮರ್ಶಿಸಲಾಗಿದೆ.
     coverimage: /static/img/RR_Sanjoy_RR_Expunging Variola.jpg
   - title: "ಸಾಫ್ಟ್‌ ಲಾ ಆಂಡ್‌ ಗ್ಲೋಬಲ್‌ ಹೆಲ್ಥ್‌ ಪ್ರಾಬ್ಲಮ್ಸ್‌: ಲೆಸಂಸ್‌ ಫ್ರಂ ರೆಸ್ಪಾಂಸಸ್‌
       ಟು ಎಚ್. ಐ.ವಿ /ಏಡ್ಸ್‌ , ಮಲೇರಿಯಾ ಆಂಡ್‌ ಟ್ಯೂಬರ್‌ ಕ್ಯುಲಾಸಿಸ್‌"
     author: ಶರೀಫ ಸೆಖಲಾಲ
     coverimage: /static/img/RR_Sharifah_RR_Soft Law and Global Health Problems.jpg
     link: https://rcni.com/nursing-standard/opinion/reviews/book-review-soft-law-and-global-health-problems-126671
-    about: "*Soft Law and Global Health Problems* focuses on the millions of people
-      suffering from AIDS, tuberculosis and malaria. Beginning with the AIDS
-      campaign for antiretroviral (ARV) drugs, Sharifah Sekalala argues that a
-      soft law approach is more effective than hard law."
+    about: “ಸಾಫ್ಟ್‌ ಲಾ ಆಂಡ್‌ ಗ್ಲೋಬಲ್‌ ಹೆಲ್ಥ್‌ ಪ್ರಾಬ್ಲಮ್ಸ್” ಕೃತಿಯಲ್ಲಿ, ಏಡ್ಸ್‌,
+      ಟ್ಯೂಬರ್‌ ಕ್ಯುಲಾಸಿಸ್‌, ಮಲೇರಿಯಾ ಮುಂತಾದ ರೋಗಗಳಿಂದ ಬಳಲುತ್ತಿರುವ ಲಕ್ಷಾಂತರ ಜನರ
+      ಜೀವನವನ್ನು ಉದ್ದೇಶಿಸಲಾಗಿದೆ.  ಏಡ್ಸ್‌ ವಿರುದ್ಧ ಏ.ಆರ್.ವಿ (ಆಂಟಿ ರಿಟ್ರೋವಿಯಲ್‌
+      ಡ್ರಗ್‌) ಔಷಧಗಳ ಅಭಿಯಾನವನ್ನು ಉಲ್ಲೇಖಿಸುತ್ತಾ, ಶರೀಫ ಸೆಖಲಾಲ ಅವರು ಕಠಿನ ಕಾನೂನು
+      ಕ್ರಮಗಳನ್ನು ಅನುಸರಿಸುವುದಕ್ಕಿಂತಲೂ ಒಲುಮೆಯ ಹಾದಿಯ ಕಾನೂನಿನ ಅನುಷ್ಠಾನವು ಹೆಚ್ಚು
+      ಪ್ರಭಾವಕಾರಿ ಎಂದು ವಾದಿಸುತ್ತಾರೆ.
 ---

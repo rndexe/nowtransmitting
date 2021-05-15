@@ -115,8 +115,8 @@ eventlist:
 relatedlist:
   - quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedtxt: ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ | ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/chameleon-project/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/2020-vision/
     quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

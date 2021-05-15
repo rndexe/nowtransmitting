@@ -41,27 +41,26 @@ readinglist:
     quadreadtxt: ವೈರಾಣು ವಿರೋಧಾಭಾಸ
     quadreadvis: /static/img/N_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.scientificamerican.com/article/kindness-contagion/
-    quadreadtxt: ಅನುಕಂಪದ ಸಾಂಕ್ರಮಿಕತೆ
+    quadreadtxt: Kindness Contagion
     quadreadvis: /static/img/N_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.nature.com/articles/s41598-019-41835-5
-    quadreadtxt: ಭಾವನಾತ್ಮಕ ಮತ್ತು ಅನುಕರಣೆಯ ಅನುಕಂಪದ ವ್ಯಾಪನದ ವಿಕಸನಕ್ಕೆ ಮೂಲ ಕಾರಣವನ್ನು
-      ಅರಿಯುವುದು ಸಹ ಅನ್ಯರನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳುವಷ್ಟೇ ಕಷ್ಟಕರ.
+    quadreadtxt: The Complexity Of Understanding Others As The Evolutionary Origin
+      Of Empathy And Emotional Contagion
     quadreadvis: /static/img/N_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/0rIZb72soOjbk3Z4AtSXWK
-    quadlisttxt: ಸ್ನೋಬಾಲ್‌ ಪ್ರಭಾವ
+    quadlisttxt: The Snowball Effect
     quadlistvis: /static/img/N_PL_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=1q8WqZyek3E
-    quadwatchtxt: "ಪಂಗಡಗಳ ವಿಷಯದಲ್ಲಿ, ಒಂದೇ ಸಂಸ್ಕೃತಿಗೆ ಸೇರಿದವರ ಚಿಂತನೆಯಲ್ಲಿ ಸಾಮ್ಯತೆ
-      ಇರುತ್ತದೆ : ಮೆದುಳು ಚಿಂತಿಸುದಿಲ್ಲ."
+    quadwatchtxt: "Why Independent Cultures Think Alike When It Comes to Categories:
+      It's Not in the Brain"
     quadwatchvis: /static/img/N_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=-34lg4wNqt0
-    quadwatchtxt: "ನೆಡವಳಿಕೆಗಳು ಹೇಗೆ ಹರಡುತ್ತವೆ : ಕ್ಲಿಷ್ಟ ಸಾಂಕ್ರಾಮಿಕತೆಯ ವಿಜ್ಞಾನ"
+    quadwatchtxt: "How Behavior Spreads: The Science of Complex Contagions"
     quadwatchvis: /static/img/N_PL_QUA_WATCHVIS_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=XKH5ITx6AAk&t=5s
-    quadwatchtxt: “ಸಮೂಹ ಚಿಂತನೆ” ಯ ನಿರಾಕರಣೆ, ಗುಂಪುಗಳಲ್ಲಿ ವಿವೇಕವಿರುವುದನ್ನು ಸಂಶೋಧನೆಯು
-      ಸಾಬೀತು ಮಾಡಿದೆ.
+    quadwatchtxt: Refuting "Groupthink," Research Proves Wisdom of Crowds Can Prevail
     quadwatchvis: /static/img/N_PL_QUA_WATCHVIS_3.jpg
 eventlist:
   - quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event | Daniel Richardson

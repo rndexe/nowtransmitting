@@ -58,6 +58,6 @@ eventlist:
     quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/2020-vision/
     quadrelatedvis: /static/img/B_Exhibit_Thumbnail.jpg
 ---

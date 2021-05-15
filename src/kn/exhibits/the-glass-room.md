@@ -88,7 +88,7 @@ play:
 relatedlist:
   - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
     quadrelatedvis: /static/img/g_exhibit_qua_expvis_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/2020-vision/
 exhibitembed1: https://deepfakelab.theglassroom.org/
 exhibitembed2: https://doublecheck.theglassroom.org/
 eventlist:

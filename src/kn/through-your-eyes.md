@@ -16,10 +16,10 @@ promptc: Home
 promptAlist:
   - coverimage: /static/img/tye_4_loganathan_mask_a.jpg
     name: Sri Loganathan Velmurugan
-    bio: Sri Loganathan Velmurugan is pursuing his Bachelor's in Journalism at
-      Madras Christian College. He is also a founding member of Photo Meet
-      Chennai, a Tamil Nadu-based photo community that conducts photo walks and
-      various photography-related activities in Tamilnadu.
+    bio: ಶ್ರೀ ಲೋಗನಾಥನ್‌, ಮದ್ರಾಸಿನ ಕ್ರಿಶ್ಚಿಯನ್‌ ಕಾಲೇಜಿನಿಂದ ಪತ್ರಿಕೋದ್ಯಮದಲ್ಲಿ ಪದವಿ
+      ಪಡೆದಿದ್ದಾರೆ.  ಇವರು ತಮ್ಮ 14 ನೇ ವರ್ಷದಿಂದಲೂ, ಪತ್ರಿಕಾ ಛಾಯಾಗ್ರಹಣದಲ್ಲಿ ಆಸಕ್ತಿ
+      ಹೊಂದಿದ್ದಾರೆ.  ಸ್ವ-ಪರಿಚಯ ನೀಡುವಂತಹ, ವಿಶೇಷ ರೀತಿಯ  ಛಾಯಾಚಿತ್ರಗಳನ್ನು ತೆಗೆಯುವಲ್ಲಿ
+      ನಿರತರಾಗಿದ್ದು, ಪತ್ರಿಕಾ ಛಾಯಾಗ್ರಾಹಕರಾಗುವ ಅಭಿಲಾಷೆ ಹೊಂದಿದ್ದಾರೆ.
     caption: An old man is seen showing his token to collect wine bottles from Tamil
       Nadu State Marketing Corporation (TASMAC) during lockdown.
   - coverimage: /static/img/tye_4_loganathan_mask_c.jpg
