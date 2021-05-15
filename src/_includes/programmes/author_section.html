@@ -1,11 +1,13 @@
-<section id="authors" class="block w-auto h-screen lg:flex lg:flex-none bg-blue-pg">
-		<div class="w-192 pt-36">
-			<div class="w-full px-32 h-2/5 mx-auto">
+<section id="authors" class="block w-auto h-auto bg-blue-pg pb-20
+			     lg:h-screen lg:flex lg:flex-none lg:pb-0">
+		<div class="w-screen pt-20 px-10 
+			    lg:w-192 lg:pt-36 lg:px-0">
+			<div class="w-3/5 lg:w-full lg:px-32 lg:h-2/5 mx-auto">
 				{% if expertpic %}
-				<img class="object-scale-down w-auto h-full rounded-lg shadow-lg" src={{expertpic}} oncontextmenu="return false" ondragstart="return false">
+				<img class="object-scale-down w-full h-auto lg:w-auto lg:h-full rounded-lg shadow-lg" src={{expertpic}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 			</div>
-			<div class="w-full px-32 mx-auto pt-10">
+			<div class="w-full lg:px-32 mx-auto pt-10">
 				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{expertname}}</p>
 				
 				{% if expertbio %}
@@ -14,13 +16,14 @@
 			</div>
 		</div>
 		{% if disname %}
-		<div class="w-192 pt-36">
-			<div class="w-full px-32 h-2/5">
+		<div class="w-screen pt-20 px-10 
+			    lg:w-192 lg:pt-36 lg:px-0">
+			<div class="w-3/5 lg:w-full lg:px-32 lg:h-2/5 mx-auto">
 				{% if dispic %}
-				<img class="object-scale-down w-auto h-full rounded-lg shadow-lg" src={{dispic}} oncontextmenu="return false" ondragstart="return false">
+				<img class="object-scale-down w-full h-auto lg:w-auto lg:h-full rounded-lg shadow-lg" src={{dispic}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 			</div>
-			<div class="w-full px-32 pt-10">
+			<div class="w-full lg:px-32 mx-auto pt-10">
 				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{disname}}</p>
 				
 				{% if disbio %}
