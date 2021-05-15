@@ -116,12 +116,12 @@ exhibitauthor:
   - authorimage: /static/img/F_EXHIBIT_SEC_VIS_1.jpg
     authorbio: ಎಡ್ರಿಯನ್ ಗ್ಯಾಲ್ವಿನ್, ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರದಲ್ಲಿ ಸಂಪರ್ಕ ಮತ್ತು ಮಾಧ್ಯಮ
       ವ್ಯವಸ್ಥಾಪಕರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.  ‌ ಇವರು ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ
-      ಮತ್ತು ಸೇಂಸ್‌ ಬರ್ರಿ ಪ್ರಯೋಗಾಲಯದ  ಸಂಪರ್ಕ ಮಾಧ್ಯಮ ಕಾರ್ಯಯೋಜನೆ, ಮಾಧ್ಯಮ ಪ್ರದರ್ಶನಗಳ
+      ಮತ್ತು ಸೇಂಸ್‌ ಬರ್ರಿ ಪ್ರಯೋಗಾಲಯದ ಸಂಪರ್ಕ ಮಾಧ್ಯಮ ಕಾರ್ಯಯೋಜನೆ, ಮಾಧ್ಯಮ ಪ್ರದರ್ಶನಗಳ
       ಹೊಣೆಗಾರಿಗೆ ವಹಿಸಿಕೊಂಡಿದ್ದಾರೆ. ಸ್ಥಳೀಯ, ರಾಷ್ಟ್ರೀಯ ಹಾಗೂ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಮಾಧ್ಯಮ
       ಸಂಸ್ಥೆಗಳೊಡನೆ ಸಂಪರ್ಕ ಕಲ್ಪಿಸಿ ಸಾರ್ವಜನಿಕ ವ್ಯವಹಾರಗಳನ್ನು ನಿಭಾಯಿಸುತ್ತಾರೆ.
     authorname: "ಎಡ್ರಿಯನ್ ಗ್ಯಾಲ್ವಿನ್‌ "
 tervis: /static/img/F_EXHIBIT_TER_VIS_1.jpg
-tertxt: "ಆಕರ್ಷಕ ಗೊದ್ದಗಳ ವಸಾಹತು (ಕ್ಯಾಪ್ಟೀವ್‌ ಆಂಟ್‌ ಕಾಲನಿ): ಮ್ಯಾಟ್‌  ಹಚಿಂಗ್ಸ್‌ ಕೊಡುಗೆ"
+tertxt: "ಆಕರ್ಷಕ ಗೊದ್ದಗಳ ವಸಾಹತು (ಕ್ಯಾಪ್ಟೀವ್‌ ಆಂಟ್‌ ಕಾಲನಿ): ಮ್ಯಾಟ್‌ ಹಚಿಂಗ್ಸ್‌ ಕೊಡುಗೆ"
 readinglist:
   - quadreadlink: https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines-152647
     quadreadtxt: ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಉತ್ಪತಿಯಾಗುತ್ತವೆ,
@@ -153,15 +153,14 @@ watchinglist:
     quadwatchlink: https://www.youtube.com/watch?v=vG-QZOTc5_Q
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_2.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=UONwJTYZqwc
-    quadwatchtxt: "ಜೀವ ರೋಧ ಪ್ರತಿರೋಧಕ ಆಪತ್ತು : ಮೂಲ ವಿಜ್ಞಾನದ ನೆರವಿಗೆ ಮೊರೆ"
+    quadwatchtxt: "ಜೀವ ರೋಧ ಪ್ರತಿರೋಧಕ ಆಪತ್ತು: ಮೂಲ ವಿಜ್ಞಾನದ ನೆರವಿಗೆ ಮೊರೆ"
     quadwatchvis: /static/img/f_exhibit_qua_watchvis_3.jpg
 eventlist:
   - quadeventtxt: ಸೂಕ್ಷ್ಮಾಣು ರೋಧಕ ಪ್ರತಿರೋಧ (ಏ.ಎಂ.ಆರ್):‌ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ
       ನೆರಳಿನಲ್ಲಿ | ಉಪನ್ಯಾಸ | ಜ್ಯೋತಿ ಜೋಶಿ
     quadeventlink: https://www.eventbrite.com/e/145225482327
     quadeventvis: /static/img/f_exhibit_qua_atnvis_1.jpg
-  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
-      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
+  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
     quadeventlink: https://www.eventbrite.com/e/148321145539
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
