@@ -1,5 +1,5 @@
 {
-    "layout" : "programmes/layout_filmscreening",
+    "layout" : "programmes/layout_programme",
     "path" : "kn-filmscreenings",
     "tags": [
         "kn-film screening", "kn-programme"

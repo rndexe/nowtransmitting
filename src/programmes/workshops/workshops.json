@@ -1,5 +1,5 @@
 {
-    "layout" : "programmes/layout_workshops",
+    "layout" : "programmes/layout_programme",
     "path" : "workshops",
     "tags": [
         "workshop", "programme"
