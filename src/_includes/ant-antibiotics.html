@@ -5,19 +5,26 @@ layout: exhibit_common
 	{% include "./partials/coverpage.html" %}
 	{% set quote="Ants have been using antibiotics in their fight against pathogens for a much longer time." %}	
 	{% include "./partials/about.html" %}
-	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class="flex flex-row w-auto h-full pt-36">
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-white">
-				<img class="object-contain w-auto h-full" src="{{exhibitimages[1].privis}}" oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-black">{{exhibitimages[1].pritxt}}</p>
+	<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 flex-none bg-white">
+		<div class = "flex flex-col lg:flex-row w-full lg:w-auto lg:h-full lg:pt-36">
+			<div class="flex flex-col lg:flex-row flex-none w-full lg:w-auto h-auto lg:h-5/6 pl-10 lg:pl-12 pr-10 lg:pr-12 py-10 lg:py-0 mx-auto lg:p-0 lg:ml-40 bg-white">
+				<img class="object-contain w-full lg:w-auto h-auto lg:h-full" src={{exhibitimages[1].privis}} oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm lg:pl-10 w-full lg:w-96 font-normal font-trade text-trueGray-750">{{exhibitimages[1].pritxt}}</p>
 			</div>
 		</div>
 	</section>
 
-	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class = "flex flex-row w-auto h-full pt-36">
-			<div class="h-full flex-initial w-240">
-				<p class="text-base h-5/6 xl:text-md ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">
+	<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 flex-none bg-white">
+		<div class = "w-screen h-auto flex flex-col
+			      lg:flex-row lg:w-auto lg:h-full lg:pt-36">
+			<div class="h-auto flex-initial 
+				    w-screen
+				    lg:h-full lg:w-240">
+				<p class="text-base pl-10 pr-10 py-10
+					  xl:text-md lg:ml-32 lg:pl-0 lg:pr-16 lg:py-0
+					  font-normal whitespace-pre-wrap
+					  font-trade
+					  "> 
 					Researchers at the John Innes Centre and University of East Anglia (UEA) have
 					investigated the chemical arsenal employed by species such as South American
 					leafcutter ants in defending colonies against rivals and pathogens.
@@ -37,8 +44,14 @@ layout: exhibit_common
 				</p>
 			</div>	
 
-			<div class="h-full flex-initial w-240">
-				<p class="text-base xl:text-md ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">
+			<div class="h-auto flex-initial 
+				    w-screen
+				    lg:h-full lg:w-240">
+				<p class="text-base pl-10 pr-10 py-10
+					  xl:text-md lg:ml-32 lg:pl-0 lg:pr-16 lg:py-0
+					  font-normal whitespace-pre-wrap
+					  font-trade
+					  "> 
 
 					Interest in exploiting plant ant chemistry led to an increasing fascination with the phenomenon of colony collapse, where the normally meticulous leafcutter ants down tools and desert their nest. The secret, according to a study published in 2018, lies in a behaviour-modifying chemical weapon produced by Escovopsis, a fungal parasite that has co-evolved with the leafcutter ants over the past 50 million years. At times of stress, compounds produced by the parasite overpower the colony by manipulating the behaviour of ants, ultimately resulting in nest abandonment.
 					<br><br>
@@ -54,8 +67,14 @@ layout: exhibit_common
 				</p>
 			</div>	
 
-			<div class="h-full flex-initial w-240">
-				<p class="text-base xl:text-md ml-32 pr-16 font-trade font-normal whitespace-pre-wrap">
+			<div class="h-auto flex-initial 
+				    w-screen
+				    lg:h-full lg:w-240">
+				<p class="text-base pl-10 pr-10 py-10
+					  xl:text-md lg:ml-32 lg:pl-0 lg:pr-16 lg:py-0
+					  font-normal whitespace-pre-wrap
+					  font-trade
+					  "> 
 
 					The backdrop to this is a global crisis caused by antimicrobial resistance (AMR), the emergence of so-called superbugs that are resistant to antibiotics. The discovery of penicillin by Alexander Fleming in 1928 heralded a new era of drug discovery with research particularly successful in harnessing molecules from soil bacteria. By the 1960s, bacterial infections which had been the leading global killer in 1900 could be treated swiftly and inexpensively.
 					<br><br>
@@ -75,38 +94,40 @@ layout: exhibit_common
 		</div>
 	</section>
 
-	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class = "flex flex-row w-auto h-full pt-36">
+	<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 flex-none bg-white">
+		<div class = "flex flex-col lg:flex-row w-full lg:w-auto lg:h-full lg:pt-36">
 		{%- for images in exhibitimages.slice(2) -%}
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
-				<img class="object-contain w-auto h-full" src={{images.privis}} oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-trueGray-750">{{images.pritxt}}</p>
+			<div class="flex flex-col lg:flex-row flex-none w-full lg:w-auto h-auto lg:h-5/6 pl-10 lg:pl-12 pr-10 lg:pr-12 py-10 lg:py-0 mx-auto lg:p-0 lg:ml-40 bg-white">
+				<img class="object-contain w-full lg:w-auto h-auto lg:h-full" src={{images.privis}} oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm lg:pl-10 w-full lg:w-96 font-normal font-trade text-trueGray-750">{{images.pritxt}}</p>
 			</div>
 		{%- endfor -%}	
 		</div>
 	
 	</section>
 
-	<section class="w-auto h-full max-h-full pl-20 flex-none bg-white">
-		<div class = "flex flex-row w-auto h-full pt-36">
-				<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto bg-white">
-					<iframe id="iframe2020" class="w-192 h-full bg-black" src="{{exhibitstream}}"
+
+	<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 flex-none bg-white">
+		<div class = "flex flex-col lg:flex-row w-full lg:w-auto lg:h-full lg:pt-36">
+				<div class="flex flex-col lg:flex-row flex-none w-full lg:w-auto h-auto lg:h-5/6 pl-10 lg:pl-12 pr-10 lg:pr-12 py-10 lg:py-0 mx-auto lg:p-0 lg:ml-40 bg-white">
+				<div class="flex flex-col flex-none w-full h-auto px-10 py-10
+					    lg:flex-row lg:w-auto lg:h-5/6 lg:pl-12 lg:pr-12 lg:mx-auto lg:p-0 lg:ml-40 bg-white">
+					<iframe class="w-full h-48 lg:w-192 lg:h-full bg-black" src="{{exhibitstream}}"
 					frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>	
-					<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-black">Ant Live Stream</p>
+					<p class="self-end text-sm pt-6 lg:pl-10 w-full lg:w-96 font-normal font-trade text-black">Ant Live Stream</p>
 				</div>
 		</div>
 	
 	</section>
 	
 	{% include "./partials/author_section.html" %}
-
-	<section id="process" class="w-auto h-full max-h-full pr-20 flex-none bg-trueGray-750">
-		<div class = "flex flex-row w-auto h-full pt-36">
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-trueGray-750">
-				<img class="object-contain w-auto h-full" src={{tervis}} oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-white">{{tertxt}}</p>
+	<section id="process" class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full pr-20 flex-none bg-trueGray-750">
+		<div class = "flex flex-col w-screen h-auto pt-10 lg:flex-row lg:w-auto lg:h-full lg:pt-36">
+			<div class="flex flex-col flex-none w-full h-auto px-10 py-10
+				    lg:flex-row lg:w-auto lg:h-5/6 lg:pl-12 lg:pr-12 lg:mx-auto lg:p-0 lg:ml-40 bg-trueGray-750">
+				<img class="object-contain w-full lg:w-auto h-auto lg:h-full" src={{tervis}} oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm pt-6 lg:pl-10 w-full lg:w-96 font-normal font-trade text-white">{{tertxt}}</p>
 			</div>
 		</div>
-	</section>
-	
 
+	</section>
