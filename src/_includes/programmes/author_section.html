@@ -7,14 +7,14 @@
 			</div>
 			<div class="w-full px-32 mx-auto pt-10">
 				<p class="text-xl mx-auto text-left font-bold text-black
-				   {{ "font-tunga" if kannada else "font-trade" }}
+				   {{ "font-baloo" if kannada else "font-trade" }}
 				">
 					{{expertname}}
 				</p>
 				
 				{% if expertbio %}
 				<pre class="text-sm whitespace-pre-wrap text-white font-normal 
-				     {{ "font-tunga" if kannada else "font-trade" }}
+				     {{ "font-baloo" if kannada else "font-trade" }}
 				">
 					{{expertbio | markdownify | safe}}
 				</pre>
@@ -30,14 +30,14 @@
 			</div>
 			<div class="w-full px-32 pt-10">
 				<p class="text-xl mx-auto text-left font-bold font-trade text-black
-				   {{ "font-tunga" if kannada else "font-trade" }}
+				   {{ "font-baloo" if kannada else "font-trade" }}
 				">
 					{{disname}}
 				</p>
 				
 				{% if disbio %}
 				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade
-				     {{ "font-tunga" if kannada else "font-trade" }}
+				     {{ "font-baloo" if kannada else "font-trade" }}
 				">
 					{{disbio | markdownify | safe}}
 				</pre>

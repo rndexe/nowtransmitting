@@ -5,7 +5,7 @@ cata: transmission
 catb: narrating
 thumb: /static/img/pl_michael.png
 cover: /static/img/P_PL_Coverimage.jpg
-date: 2021-05-29T13:00:00.000Z
+date: 2021-06-06T08:00:00.000Z
 description: >-
   COVID-19 is a pandemic caused by a virus, SARS-CoV-2, that crossed from
   animals to humans. It has cast a sharp spotlight on the enormous challenges

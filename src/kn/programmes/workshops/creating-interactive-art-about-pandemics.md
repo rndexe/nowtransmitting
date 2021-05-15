@@ -61,6 +61,6 @@ eventlist:
     quadeventvis: /static/img/pl_girish.png
 relatedlist:
   - quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/H_Exhibit_Thumbnail.jpg
 ---

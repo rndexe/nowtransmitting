@@ -1,5 +1,5 @@
 ---
-title: ರೋಗ ಪಿಡುಗಿನ ವಿರುದ್ಧ, ಆಯುಧ ಮತ್ತು ಮಂತ್ರದಿಂದ ಹೋರಾಟ
+title: ರೋಗ ಪಿಡುಗಿನ ವಿರುದ್ಧ, ತಂತ್ರ ಮಂತ್ರಗಳ ಬಳಕೆ
 permalink: kn/programmes/workshops/fighting-the-pandemic-with-swords-and-magic/
 cata: transmission
 catb: experimenting

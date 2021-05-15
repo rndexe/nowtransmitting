@@ -65,9 +65,7 @@ watchinglist:
     quadwatchvis: /static/img/B_FS_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-bresalier
-    quadeventtxt: "ಪ್ರಭೇದಗಳ ನಡುವೆ ವ್ಯಾಪನಗಳು: ಪ್ರಾಣಿ-ಪಕ್ಷಿ ಮೂಲದಿಂದ ಹರಡುವ ರೋಗಗಳ
-      ಪರಿಸರಗಳು ಮತ್ತು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಜಾಗತಿಕ ಇತಿಹಾಸ | ಉಪನ್ಯಾಸ | ಮೈಖೇಲ್‌
-      ಬ್ರಸೇಲಿಯರ್‌"
+    quadeventtxt: ಪ್ರಭೇದಗಳ ನಡುವೆ ವ್ಯಾಪನಗಳು | ಉಪನ್ಯಾಸ | ಮೈಖೇಲ್‌ ಬ್ರಸೇಲಿಯರ್‌
     quadeventvis: /static/img/pl_michael.png
   - quadeventtxt: "Decoding One Health | Workshop by Bengaluru One Health City
       Consortium and the echo network "
