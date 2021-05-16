@@ -1,6 +1,6 @@
 ---
 title: "ಜ್ಞಾನ ಪ್ರಸಾರಣ: ಸಾಂಕ್ರಾಮಿಕಗಳನ್ನು ಕುರಿತಂತಹ ರಸ ಪ್ರಶ್ನೆ"
-permalink: kn/programmes/events/knowledge-transmission-quiz
+permalink: kn/programmes/events/knowledge-transmission-quiz/
 cata: transmission
 catb: documenting
 thumb: /static/img/ev_quiz_thumbnail.png
