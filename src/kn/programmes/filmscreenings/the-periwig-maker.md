@@ -51,8 +51,7 @@ eventlist:
       ಲಿಂಟೆರಿಸ್‌
     quadeventlink: http://bit.ly/lecture-lynteris
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
-  - quadeventtxt: "ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಯುಗ, 1817-1920: ವಿಶ್ವ ಮತ್ತು ಭಾರತವನ್ನು
-      ರೂಪಿಸಲು ಹೇಗೆ ಕಾರಣವಾಗಿವೆ? | ಉಪನ್ಯಾಸ | ಚಿನ್ಮಯ್‌ ತುಂಬೆ"
+  - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಯುಗ, 1817-1920 | ಉಪನ್ಯಾಸ | ಚಿನ್ಮಯ್‌ ತುಂಬೆ
     quadeventlink: http://bit.ly/lecture-tumbe
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
