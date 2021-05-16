@@ -30,9 +30,7 @@ readinglist:
       Bhutan and the Worldwide Smallpox Eradication Programme"
     quadreadvis: /static/img/D_CO_QUA_READVIS_2.jpg
   - quadreadlink: https://www.nature.com/articles/s41599-020-0491-7
-    quadreadtxt: "Humanities, Criticality and Transparency: Global Health Histories
-      and the Foundations of Inter-Sectoral Partnerships for the Democratisation
-      of Knowledge"
+    quadreadtxt: "Humanities, Criticality and Transparency: Global Health Histories"
     quadreadvis: /static/img/D_CO_QUA_READVIS_1.jpg
   - quadreadlink: https://www.cambridge.org/core/journals/medical-history/article/reassessing-the-foundations-worldwide-smallpox-eradication-195767/A95275198E1EC0668D7B15B240EBF1F0
     quadreadtxt: "Re-assessing the Foundations: Worldwide Smallpox Eradication, 1957–67 "
