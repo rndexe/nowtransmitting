@@ -1,6 +1,6 @@
 ---
-title: "Science, Innovation and Society: What Have We Learnt From the Covid-19
-  Pandemic?"
+title: "ಉಪನ್ಯಾಸ ಶೀರ್ಷಿಕೆ: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ
+  ಪಿಡುಗಿನಿಂದ ನಾವು ಕಲಿತಿದ್ದೇನು?"
 permalink: kn/programmes/lectures/science-innovation-and-society/
 cata: hindsight
 catb: documenting
@@ -17,18 +17,20 @@ description: >-
   of the necessity for scholars and experts in dealing with the pandemic. 
 
 
-  Sir Jeremy Farrar will talk about the lessons we have learnt  from the Covid-19 pandemic, and the ways in which the role of medicine and healthcare are conceptualized anew in society. 
+  Sir Jeremy Farrar will talk about the lessons we have learnt  from the Covid-19 pandemic, and the ways in which the role of medicine and healthcare are conceptualized anew in society.
 link: https://bit.ly/lecture-farrar
-expertname: Jeremy Farrar
-expertbio: "Sir Jeremy Farrar is Director of the Wellcome Trust—a politically
-  and financially independent global charitable foundation that exists to fund
-  science to solve the urgent health challenges facing everyone. Jeremy is a
-  clinician scientist who, before joining Wellcome, was the Director of the
-  Oxford University Clinical Research Unit in Viet Nam for eighteen years. He is
-  a Fellow of the Academy of Medical Sciences UK, the National Academies USA,
-  the European Molecular Biology Organisation and a Fellow of The Royal Society.
-  Farrar was knighted in the Queen’s 2018 New Year Honours for services to
-  Global Health. "
+expertname: ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
+expertbio: ರಾಜಕೀಯವಾಗಿ ಹಾಗೂ ಹಣಕಾಸಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸ್ವತಂತ್ರವಾಗಿ, ಜಾಗತಿಕ ಮಟ್ಟದಲ್ಲಿ
+  ಅನುದಾನ ನೀಡುವ ಪ್ರತಿಷ್ಠಾನವಾಗಿ ಸೇವೆಸಲ್ಲಿಸುತ್ತಾ, ಆಪತ್ಕಾಲಿಕ ಆರೋಗ್ಯ ಸವಾಲುಗಳಿಗೆ ಸೂಕ್ತ
+  ಪರಿಹಾರ ಹುಡುಕಲು, ವಿಜ್ಞಾನದ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅನುದಾನ ನೀಡಿ ನೆರವಾಗುತ್ತಿರುವ ವೆಲ್‌ಕಮ್‌
+  ಟ್ರಸ್ಟ್‌ ಪ್ರತಿಷ್ಠಾನದ ನಿರ್ದೇಶಕರಾಗಿ ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌, ಕಾರ್ಯ
+  ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.‌ ಸರ್‌ ಜರೆಮಿ ಚಿಕಿತ್ಸಾ ಸಂಶೋಧನಾ ವಿಜ್ಞಾನಿ. ಇವರು, ವಿಯಟ್ನಾಂ ನ
+  ಆಕ್ಸಫರ್ಡ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಚಿಕಿತ್ಸಾ ಸಂಶೋಧನಾ ಘಟಕದಲ್ಲಿ ನಿರ್ದೇಶಕರಾಗಿ ಹದಿನೆಂಟು ವರ್ಷ
+  ಕಾಲ ಸೇವೆಸಲ್ಲಿಸಿದ್ದಾರೆ. ಇವರು, ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರದ ಅಕಾಡೆಮಿ ಆಫ್‌ ಮೆಡಿಕಲ್‌
+  ಸೈನ್ಸ್, ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ರಾಜ್ಯಗಳ ರಾಷ್ಟ್ರೀಯ ಅಕಾಡೆಮಿ, ಯೂರೋಪ್‌ ನ ಸೂಕ್ಷ್ಮ
+  ಜೀವಶಾಸ್ತ್ರ ಸಂಸ್ಥೆ ಮತ್ತು ರಾಯಲ್‌ ಸೊಸೈಟಿ ಸಂಸ್ಥೆಗಳ ಸಹವರ್ತಿಗಳು (ಫೆಲೋ)
+  ಆಗಿದ್ದಾರೆ. ಜಾಗತಿಕ ಆರೋಗ್ಯ ಸೇವೆಗಳಿಗಾಗಿ, ಸರ್‌ ಜರೆಮಿ  ಅವರಿಗೆ ಕ್ವೀನ್ಸ್‌, 2018 ನ್ಯೂ
+  ಇಯರ್‌ ಹಾನರ್ಸ್‌ ಬಿರುದು, ಪುರಸ್ಕಾರ ನೀಡಿ ಗೌರವಿಸಲಾಗಿದೆ.
 expertpic: /static/img/pl_jeremy_portrait.png
 readinglist:
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/oct/12/covid-19-treatable-vaccines-treatments
