@@ -18,18 +18,14 @@ description: >-
   Survivors interweaves the heroic stories of Mohamed Bangura, the senior ambulance driver at the country’s main emergency vehicle dispatch; and Margaret Kabba Sesay, a nurse who works at the Emergency Ebola Treatment Center, caring for some of the sickest patients. As Sierra Leone moves towards containment of the outbreak, we see international organizations draw down their support and begin to understand how the future of the region will be profoundly shaped by the complex decisions made and actions taken by individuals like Margaret, Mohammed, and Arthur. In this way, Survivors explores what it means to be Sierra Leonean at this critical juncture in the country’s history. The film was broadcast on PBS's award winning series POV and was nominated for Peabody and Emmy awards in 2019.
 link: http://bit.ly/films-pratt
 expertname: "Arthur Pratt "
-expertbio: >-
-  ***Filmmaker*** | Arthur is a co-founder of the Freetown Media Centre in
-  Sierra Leone, which serves as a hub for local production, media education and
-  professional development where he serves as Manager in charge of Education and
-  Creative Initiative; he is also a Christian Evangelist and community leader.
-  Starting as a playwright, stage director and actor. Arthur helped develop and
-  acted in three of WeOwnTV-produced short films, CHARITY, BEND DOWN THE CORNER,
-  AND THE CRIPPLE AND THE WITCH HUNTER, which were shown in the Madrid Film
-  Festival in 2009/2010. 
-
-
-  Arthur’s interest then grew from a man displaying his talents in front of the camera to man working behind it. In 2010, he shot, and produced his first short film, BLACK SUGAR. Later in the same year, he wrote, directed and produced the widely acclaimed short film on the Trans- Atlantic slave trade, THEY RESISTED, which was screened in Clap Ivoir (Ivory Coast film festival). Arthur has also played the role of cinematographer and editor in films such as M’PORA, CRY OF THE COUNTRY VIRGIN, WHY ME?, WINTER IN FREETOWN, HUSTLER, LAND GRAB, SOCIAL INJUSTICES  and several documentaries which were aired on the Sierra Leone Broadcasting Corporation Television (SLBC).
+expertbio: "***Filmmaker*** | Arthur is a co-founder of the Freetown Media
+  Centre in Sierra Leone, which serves as a hub for local production, media
+  education and professional development where he serves as Manager in charge of
+  Education and Creative Initiative; he is also a Christian Evangelist and
+  community leader. Starting as a playwright, stage director and actor. Arthur
+  helped develop and acted in three of WeOwnTV-produced short films, CHARITY,
+  BEND DOWN THE CORNER, AND THE CRIPPLE AND THE WITCH HUNTER, which were shown
+  in the Madrid Film Festival in 2009/2010."
 expertpic: /static/img/C_FS_SEC_VIS_1.jpg
 disname: "David Heymann "
 dispic: /static/img/C_FS_SEC_VIS_2.jpg
