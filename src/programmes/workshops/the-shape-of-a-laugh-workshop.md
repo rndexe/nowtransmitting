@@ -47,7 +47,6 @@ watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=UxLRv0FEndM
     quadwatchtxt: Why We Laugh | Sophie Scott
     quadwatchvis: /static/img/H_WK_QUA_WATCHVIS_1.jpg
-eventlist: []
 relatedlist:
   - quadrelatedtxt: The Chameleon Project by Tina Gonsalves
     quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
