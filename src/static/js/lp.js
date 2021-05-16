@@ -662,8 +662,8 @@ function updater(){
         })
 
         var arr = []
-        arr.push(Number(corner.x+offset))
-        arr.push(Number(corner.y+offset))
+        arr.push(corner.x+offset)
+        arr.push(corner.y+offset)
         
         ballPositions.push(arr)
         
