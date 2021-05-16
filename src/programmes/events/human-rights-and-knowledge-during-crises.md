@@ -1,6 +1,8 @@
 ---
 title: "Human Rights and Knowledge During Crises "
 permalink: programmes/events/human-rights-and-knowledge-during-crises/
+cata: spillover
+catb: narrating
 thumb: /static/img/ev_humanrights_thumbnail.png
 cover: /static/img/ev_humanrights_coverimage.png
 date: 2021-05-23T08:30:00.000Z
