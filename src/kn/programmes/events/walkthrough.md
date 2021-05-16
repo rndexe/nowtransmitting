@@ -1,25 +1,26 @@
 ---
-title: "Walkthrough of the Museum at the Robert Koch Institute "
+title: ರಾಬರ್ಟ್‌ ಕೋಕ್‌ ಸಂಸ್ಥೆಯ ಸಂಗ್ರಹಾಲಯ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಸಂದರ್ಶನ ಕೇಂದ್ರದ ವಿಹಾರ
 permalink: kn/programmes/events/robert-koch-institute-museum-walkthrough/
 cata: trigger
 catb: narrating
 thumb: /static/img/e_esther.png
 cover: /static/img/D_EV_Coverimage.jpg
 date: 2021-06-12T10:30:00.000Z
-description: Join Esther, the Head of the Museum at the Robert Koch Institute as
-  she walks you through the permanent exhibitions displaying the history and
-  current work of the national public health institute in Germany.
+description: ಜರ್ಮನಿಯ ರಾಷ್ಟ್ರೀಯ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯ ಮುಖೇಣ ರಾಬರ್ಟ್‌ ಕೋಕ್‌
+  ಸಂಸ್ಥೆಯಲ್ಲಿರುವ ಸಂಗ್ರಹಾಲಯದಲ್ಲಿ, ಶಾಶ್ವತವಾಗಿ ಸಂರಕ್ಷಿಸಲಾದ ಐತಿಹಾಸಿಕ ಮತ್ತು ಪ್ರಸಕ್ತ
+  ಪ್ರದರ್ಶಿಕೆಗಳನ್ನು ವೀಕ್ಷಿಸಲು, ಇಲ್ಲಿನ ಮುಖ್ಯಸ್ಥರಾದ ಡಾ.ಎಸ್ತರ್, ಅವರೊಂದಿಗೆ ಭಾಗಿಯಾಗಿ.
 link: https://www.eventbrite.com/e/walkthrough-of-the-museum-at-robert-koch-institute-event-registration-148309895891
-expertname: "Esther Maria Antao "
-expertbio: Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute
-  and is in charge of the advancement of the Museum in accordance with ongoing
-  developments of the Institute. She communicates with the general and expert
-  public through guided museum tours offered to visitor groups. As part of the
-  project group, Science Communication, she is responsible for visual
-  communication and social media. She has a doctorate in microbiology and has
-  focused strongly on antimicrobial resistance (AMR) communication in the recent
-  past. She currently focusses on COVID-19 communication and will go back to
-  focusing on AMR communication when the pandemic is over.
+expertname: ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
+expertbio: ಡಾ.ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ, ರಾಬರ್ಟ್‌ ಕೋಕ್‌ ಸಂಸ್ಥೆಯಲ್ಲಿರುವ ಸಂಗ್ರಹಾಲಯದ
+  ಮುಖ್ಯಸ್ಥೆಯಾಗಿದ್ದಾರೆ. ಸಂಸ್ಥೆಯ ಬೆಳವಣಿಗೆಯ ಜೊತೆಯಲ್ಲಿಯೇ, ಸಂಗ್ರಹಾಲಯದ ವಿಕಸನ
+  ಕಾರ್ಯದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ. ಸಂದರ್ಶಕರಿಗೆ, ಮಾರ್ಗದರ್ಶನ ಸಹಿತ ಸಂಗ್ರಹಾಲಯದ ಪ್ರವಾಸವನ್ನು
+  ಒದಗಿಸುತ್ತಾರೆ. ಈ ಮೂಲಕ ಸಾಮಾನ್ಯ ಜನರು ಹಾಗೂ ತಜ್ಞರೊಂದಿಗೆ ಬೆರೆಯುತ್ತಾರೆ. ಸೈನ್ಸ್‌
+  ಕಮ್ಯುನಿಕೇಶನ್‌, ಶೈಕ್ಷಣಿಕ ಪರಿಯೋಜನೆಯ ಅಂಗವಾಗಿ, ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಮತ್ತು ದೃಶ್ಯ- ಸಂವಾಹನದ
+  ನಿರ್ವಹಣೆಯ ಹೊಣೆಗಾರಿಕೆ ಹೊತ್ತಿದ್ದಾರೆ. ಸೂಕ್ಷ್ಮಜೀವ ಶಾಸ್ತ್ರದಲ್ಲಿ ಡಾಕ್ಟರೇಟ್‌ ಪದವಿ
+  ಹೊಂದಿದ್ದು, ಜೀವ-ರೋಧ ಪ್ರತಿರೋಧಕ ಸಂವಾಹನೆಯ ವಿಷಯವನ್ನು ಕುರಿತಂತೆ ಆಳವಾದ ಅಧ್ಯಯನ
+  ನೆಡೆಸಿದ್ದಾರೆ. ಪ್ರಸಕ್ತ ಕೋವಿಡ್-19‌ ಸಂವಾಹನವನ್ನು ಕುರಿತಂತೆ ಅಧ್ಯಯನವನ್ನು
+  ಕೇಂದ್ರೀಕರಿಸಿದ್ದಾರೆ ಮತ್ತು ಈ ರೋಗ ಪಿಡುಗು ಕೊನೆಯಾದ ನಂತರ ಜೀವ-ರೋಧ ಪ್ರತಿರೋಧಕ ಸಂವಾಹನೆಯ
+  ವಿಷಯದ ಸಂಶೋಧನೆಯಲ್ಲಿ ಪುನಃ ತೊಡಗಲಿದ್ದಾರೆ.
 expertpic: /static/img/D_EV_SEC_VIS_1.jpg
 readinglist:
   - quadreadtxt: ಭವಿಷ್ಯದ ರೋಗ ಪಿಡುಗುಗಳನ್ನು ಊಹಿಸಲು ಮತ್ತು ವಿಮರ್ಶಿಸಲು, ವಿಜ್ಞಾನಿಗಳಿಗೆ
