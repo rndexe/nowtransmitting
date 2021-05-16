@@ -24,16 +24,19 @@ expertbio: "***ಚಲನ ಚಿತ್ರ ನಿರ್ಮಾಪಕರ*** | ಮಾ
 expertpic: /static/img/E_FS_SEC_VIS_1.jpg
 disname: "Rashmi Sawhney "
 dispic: /static/img/E_FS_SEC_VIS_2.jpg
-disbio: "***Discussant*** | Rashmi Sawhney is a Bangalore-based cultural
-  theorist and associate professor in Film and Cultural Studies at Christ
-  University. She writes on cinema and the visual arts and is co-founder with
-  Lucia Imaz King, of VisionMix (www.visionmix.info), an international network
-  of artists, filmmakers and researchers. Curatorial projects include: Future
-  Orbits and Video Vortex XI, both as collaterals of the 2017 Kochi Muziris
-  Biennial; Set.Reset on ‘Cinema and Labour’ at The House of Inquiry, Goa, 2018;
-  and Loss and Transience, Hong-Gah Museum, Taipei, March-May 2021. Recent
-  edited volumes include: Women at Work: the Cultural and Creative Industries
-  (2020) & The Moving Image: South Asian Trajectories (2018)."
+disbio: "***Discussant*** | ರಶ್ಮಿ ಸಾಹ್ನೆ ಯವರು, ಬೆಂಗಳೂರಿನ ನಿವಾಸಿ. ಬೆಂಗಳೂರಿನ
+  ಕ್ರೈಸ್ಟ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಸಾಂಸ್ಕೃತಿಕ ತತ್ವಜ್ಞರಾಗಿ, ಚಲನ ಚಿತ್ರ  ಮತ್ತು
+  ಸಾಂಸ್ಕೃತಿಕ ಅಧ್ಯಯನಗಳ ಸಹ ಪ್ರೊಫೆಸರ್,‌ ಆಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ. ಇವರು ಚಲನ ಚಿತ್ರ
+  ಮತ್ತು ದೃಶ್ಯಾತ್ಮಕ ಕಲೆಯ ಬಗೆಗೆ ಲೇಖನಗಳನ್ನು ಬರೆದಿದ್ದಾರೆ. ಕಲಾವಿದರು, ಚಲನಚಿತ್ರಗಾರರು
+  ಮತ್ತು ಸಂಶೋಧಕರುಗಳ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಜಾಲತಾಣವಾದ ವಿಶನ್ ಮಿಕ್ಸ್‌
+  ([www.visionmix.info](http://www.visionmix.info/)) ಜಾಲತಾಣವನ್ನು ಲೂಸಿಯಾ ಇಮೇಜ್‌
+  ಕಿಂಗ್‌ ಅವರೊಡಗೂಡಿ ಸ್ಥಾಪಿಸಿದ್ದಾರೆ. 2017 ಕೋಚಿ ಮುಜಿರಿಸ್‌ ಬಿನಾಲೆ‌ ಗೆ ಪೂರಕವಾದ,
+  ಫ್ಯೂಚರ್‌ ಆರ್ಬಿಟ್ಸ್‌ ಆಂಡ್‌ ವೀಡಿಯೋ ವರ್ಟೆಕ್ಸ್‌ XI, ಪರಿಯೋಜನೆ, ಸಿನೆಮಾ ಆಂಡ್‌ ಲೇಬರ್‌
+  ಹೌಸ್‌ ಆಫ್‌ ಇಂಕ್ವೈರಿ, ಗೋವ 2018; ಲಾಸ್‌ ಆಂಡ್‌ ಟ್ರಾಂಸಿಯಂಸ್‌, ಹಾಂಗ್-ಗಹ್‌ ಸಂಗ್ರಹಾಲಯ,
+  ತೈಪೈ, ಮಾರ್ಚ್‌ – ಮೇ 2021 ಮುಂತಾದ ಪರಿಯೋಜನೆಗಳಲ್ಲಿ ವ್ಯವಸ್ಥಾಪಕರಾಗಿ ಕಾರ್ಯ
+  ನಿರ್ವಹಿಸಿದ್ದಾರೆ. ಇತ್ತೀಚೆಗೆ, ವುಮನ್‌ ಅಟ್‌ ವರ್ಕ್‌: ದಿ ಕಲ್ಚರಲ್‌ ಆಂಡ್‌ ಕ್ರಿಯೇಟಿವ್‌
+  ಇಂಡಸ್ಟ್ರೀಸ್‌ (2020) ಮತ್ತು ʼದಿ ಮೂವಿಂಗ್‌ ಇಮೇಜ್‌: ಸೌಥ್‌ ಏಷಿಯನ್‌ ಟ್ರ್ಯಾಜೆಕ್ಟರೀಸ್‌
+  (2018) ಮುಂತಾದ ಕೃತಿಗಳ ಸಂಪಾದನೆ ಮಾಡಿದ್ದಾರೆ."
 readinglist:
   - quadreadlink: https://www.theatlantic.com/health/archive/2014/08/the-trouble-with-medicines-metaphors/374982/
     quadreadtxt: ವೈದ್ಯಕೀಯ ರೂಪಕಗಳಲ್ಲಿರುವ ಬಿಕ್ಕಟ್ಟು
@@ -50,9 +53,9 @@ listeninglist:
     quadlistvis: /static/img/E_FS_QUA_LISTVIS_1.jpg
 watchinglist:
   - quadwatchlink: https://www.geisteswissenschaften.fu-berlin.de/en/v/interweaving-performance-cultures/online-projects/Theater-and-the-Coronavirus/Episode-4/index.html
-    quadwatchtxt: "ʼರಂಗ ಮಂದಿರಗಳು ಮತ್ತು ಪ್ಲೇಗ್ ರೋಗʼ: ಕರೋನ ವೈರಾಣು ಯುಗದಲ್ಲಿ ಕಲಾ- ಪುನರ್ವೀಕ್ಷಣೆ"
+    quadwatchtxt: "ರಂಗ ಮಂದಿರಗಳು ಮತ್ತು ಪ್ಲೇಗ್ ರೋಗ: ಕರೋನ ವೈರಾಣು ಯುಗದಲ್ಲಿ ಕಲಾ- ಪುನರ್ವೀಕ್ಷಣೆ"
     quadwatchvis: /static/img/E_FS_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=A0edKgL9EgM
-    quadwatchtxt: ʼರೂಪಕಗಳʼ ಮೂಲಕ ಕಲೆ
+    quadwatchtxt: "'ರೂಪಕಗಳ' ಮೂಲಕ ಕಲೆ"
     quadwatchvis: /static/img/E_FS_QUA_WATCHVIS_2.jpg
 ---
