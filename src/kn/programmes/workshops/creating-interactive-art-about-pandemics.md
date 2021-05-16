@@ -1,5 +1,5 @@
 ---
-title: ರೋಗ ಪಿಡುಗುಗಳ ಬಗೆಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲೆಯ ಸೃಷ್ಟಿ
+title: "ರೋಗ ಪಿಡುಗುಗಳ ಬಗೆಗೆ: ಸಂವಾದಾತ್ಮಕ ಕಲೆಯ ಸೃಷ್ಟಿ"
 permalink: kn/programmes/workshops/creating-interactive-art-about-pandemics/
 cata: transmission
 catb: documenting
