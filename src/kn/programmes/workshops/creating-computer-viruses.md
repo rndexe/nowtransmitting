@@ -1,5 +1,5 @@
 ---
-title: Creating Computer Viruses
+title: ಕಂಪ್ಯೂಟರ್‌ ವೈರಾಣುಗಳ ಸೃಷ್ಠಿ
 permalink: kn/programmes/workshops/creating-computer-viruses/
 cata: trigger
 catb: mapping
