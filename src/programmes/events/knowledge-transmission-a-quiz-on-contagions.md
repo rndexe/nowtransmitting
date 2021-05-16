@@ -21,6 +21,7 @@ expertbio: >-
   of The Hindu Group. He has been a quizzer and quizmaster for over two decades, and is actively
 
   involved with the Karnataka Quiz Association.
+expertpic: /static/img/ev_tejaswi_portrait.png
 readinglist:
   - quadreadlink: https://theconversation.com/social-distancing-works-just-ask-lobsters-ants-and-vampire-bats-135383
     quadreadtxt: Social Distancing Works – Just Ask Lobsters, Ants And Vampire Bats
