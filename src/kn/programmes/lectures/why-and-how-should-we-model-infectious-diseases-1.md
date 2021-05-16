@@ -4,7 +4,7 @@ permalink: kn/programmes/lectures/model-infectious-diseases/
 cata: transmission
 catb: mapping
 thumb: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
-cover: /static/img/B_PL_Coverimage.jpg
+cover: /static/img/sn_gautam.png
 date: 2021-05-01T13:00:00.000Z
 description: >-
   ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳು, ಎಂದೊಡನೆಯೇ, ಜನ ನಿಭಿಡ ಆಸ್ಪತ್ರೆಗಳು, ಸುರಕ್ಷಾ ಕವಚ ಮತ್ತು
