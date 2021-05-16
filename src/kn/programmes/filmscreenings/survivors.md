@@ -32,13 +32,15 @@ expertbio: "***ನಿರ್ದೇಶಕರು*** | ಆರ್ಥರ್‌, ಇವ
 expertpic: /static/img/C_FS_SEC_VIS_1.jpg
 disname: "David Heymann "
 dispic: /static/img/C_FS_SEC_VIS_2.jpg
-disbio: David Heymann is a medical epidemiologist and Professor of Infectious
-  Disease Epidemiology at London School of Hygiene and Tropical Medicine, is a
-  distinguished fellow at the Centre on Universal Health at Chatham House
-  (London), and was chairman of the board of Public Health England from 2009 -
-  2015. From 1989 to 2009 he held various leadership positions in infectious
-  diseases at WHO, and in 2003 headed the WHO global response to SARS in his
-  role as executive director of communicable diseases.
+disbio: "**ಪರಿಣತರ** | ಡೇವಿಡ್‌ ಹ್ಯೇಮನ್‌, ಇವರು ಲಂಡನ್‌ ಸ್ಕೂಲ್‌ ಆಫ್‌ ಹೈಜೀನ್‌ ಮತ್ತು
+  ಟ್ರಾಪಿಕಲ್‌ ಮೆಡಿಸಿನ್‌ ಸಂಸ್ಥೆಯಲ್ಲಿ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಶಾಸ್ತ್ರದ ಪ್ರೊಫೆಸರ್‌ ಹಾಗೂ
+  ವೈದ್ಯಕೀಯ ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಶಾಸ್ತ್ರಜ್ಞರಾಗಿ, ಲಂಡನ್‌ ನ ಛಾಥಮ್‌ ಹೌಸ್‌ ನ ವೈಶ್ವಿಕ ಆರೋಗ್ಯ
+  ಕೇಂದ್ರದ ಪ್ರತಿಷ್ಠಿತ ಫೆಲೋ ಆಗಿದ್ದಾರೆ. 2009 – 2015 ರ ನಡುವೆ ಇಂಗ್ಲೈಂಡ್‌ ನ ಸಾರ್ವಜನಿಕ
+  ಆರೋಗ್ಯ ಮಂಡಳಿಯ ಅಧ್ಯಕ್ಷರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸಿದ್ದಾರೆ. 1989 ರಿಂದ 2009 ರವರೆಗೆ ವಿಶ್ವ
+  ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಹಲವು ಮಂಚೂಣಿಯ ಸ್ಥಾನಗಳನ್ನು
+  ಅಲಂಕರಿಸಿದ್ದಾರೆ. 2003 ರಲ್ಲಿ ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯಲ್ಲಿ, ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳನ್ನು
+  ಕುರಿತಂತಹ ಕಾರ್ಯಕಾರಿ ನಿರ್ದೇಶಕರಾಗಿ, ಸಾರ್ಸ್‌ ರೋಗದ ವೈಶ್ವಿಕ ಪ್ರತಿಕ್ರಿಯೆ ಯೋಜನೆಗೆ
+  ಮುಖ್ಯಸ್ಥರಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ."
 readinglist:
   - quadreadtxt: "ಉಳಿದವರು: ಸಾಮೂಹಿಕ ಸಹಭಾಗಿತ್ವ ಮತ್ತು ಶಿಕ್ಷಣ"
     quadreadlink: https://pov-tc.pbs.org/pov/downloads/2018/pov-survivors-discussion-guide.pdf
