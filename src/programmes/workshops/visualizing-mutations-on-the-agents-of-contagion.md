@@ -3,8 +3,8 @@ title: Visualising and Interpreting Mutations
 permalink: programmes/workshops/visualising-and-interpreting-mutations/
 cata: transmission
 catb: experimenting
-thumb: /static/img/wk_saurabh_thumbnail.png
-cover: /static/img/wk_saurabh_coverimage.png
+thumb: /static/img/wk_mutation_thumbnail.png
+cover: /static/img/wk_mutation_coverimage.png
 date: 2021-06-06T04:30:00.000Z
 description: “Mutations” has become a buzzword in the pandemic. Mutations are
   one of the factors behind the changing nature of contagions. Often they are
@@ -31,6 +31,24 @@ expertbio: >-
 
   Saurabh is an Assistant Professor of Basic Sciences at Atria University in Bangalore. He is an evolutionary biologist with a fascination and curiosity for the biological past, which he tries to study using the computational analysis of DNA and protein sequences. He is also passionate about teaching undergrads using interactive pedagogical tools, and likes to involve undergraduates in research.
 expertpic: /static/img/wk_meenakshi_portrait.png
+readinglist:
+  - quadreadlink: https://www.scientificamerican.com/article/the-price-of-silent-mutations/
+    quadreadtxt: How Trivial DNA Changes Can Hurt Health
+    quadreadvis: /static/img/q_wk_qua_readvis_1.jpg
+  - quadreadlink: https://www.smithsonianmag.com/smart-news/what-are-coronavirus-variants-180976827/
+    quadreadtxt: What Experts Know About the Current Coronavirus Variants
+    quadreadvis: /static/img/q_wk_qua_readvis_2.jpg
+  - quadreadlink: https://www.theatlantic.com/science/archive/2018/05/your-body-acquires-trillions-of-new-mutations-every-day/559472/
+    quadreadtxt: Your Body Acquires Trillions of New Mutations Every Day
+    quadreadvis: /static/img/q_wk_qua_readvis_3.jpg
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/6Fuv49soIMpsporukbrcil
+    quadlisttxt: Variants – What You Need to Know
+    quadlistvis: /static/img/q_wk_qua_listvis_1.jpg
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=vP8-5Bhd2ag
+    quadwatchtxt: What Happens When Your DNA is Damaged?
+    quadwatchvis: /static/img/q_wk_qua_watchvis_1.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-marathe
     quadeventtxt: "Real-Time Contagion Science in the 21st Century | Lecture by

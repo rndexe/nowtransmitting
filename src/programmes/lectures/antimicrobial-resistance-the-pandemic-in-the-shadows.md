@@ -4,7 +4,7 @@ permalink: programmes/lectures/antimicrobial-resistance/
 cata: spillover
 catb: experimenting
 thumb: /static/img/N_EXHIBIT_QUA_ATNVIS_1.jpg
-cover: /static/img/F_PL_Coverimage.jpg
+cover: /static/img/sn_jyoti.png
 date: 2021-05-07T13:00:00.000Z
 description: >-
   Ever since their discovery, antibiotics have dramatically changed the

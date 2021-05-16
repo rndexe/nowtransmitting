@@ -1,39 +1,30 @@
 ---
-title: "Control, Consensus, Chaos: The Global Response to the Pandemic"
+title: "ಹತೋಟಿ, ಹೊಂದಾಣಿಕೆ, ಗೊಂದಲ: ರೋಗ ಪಿಡುಗಿಗೆ ಜಾಗತಿಕ ಪ್ರತಿಕ್ರಿಯೆ"
 permalink: kn/programmes/lectures/control-consensus-chaos/
 cata: hindsight
 catb: documenting
 thumb: /static/img/pl_sheila.jpg
 cover: /static/img/sketchnote_sheila-jasanoff.png
 date: 2021-04-30T13:00:00.000Z
-description: >
-  Though COVID-19 has affected numerous countries across the globe, some nations
-  have managed to contain the virus while others are still struggling to do so.
-  The wide-ranging responses—as well as impacts—of this pandemic have spurred
-  research that spans multiple countries in order to gain deeper insights into
-  the causes of variance and the future of pandemic preparedness.
+description: >-
+  ಕೋವಿಡ್-19‌, ರೋಗ ಪಿಡುಗು ವಿಶ್ವದೆಲ್ಲೆಡೆ ಆವರಿಸಿದೆ. ಕೆಲವು ರಾಷ್ಟ್ರಗಳು ಸಮರ್ಪಕವಾಗಿ
+  ವೈರಾಣುವನ್ನು ತಡೆಯುವುದರಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಿದ್ದಾರೆ, ಹಲವರು ಇನ್ನೂ
+  ಸೆಣೆಸಾಡುತ್ತಿದ್ದಾರೆ. ವಿವಿಧ ದೇಶಗಳಲ್ಲಿ, ಈ ಪಿಡುಗಿನ ವ್ಯಾಪಕ ಪ್ರತಿಕ್ರಿಯೆಗಳು ಮತ್ತು
+  ಪರಿಣಾಮಗಳನ್ನು ಗಮನಿಸಿ, ವೈರಾಣು ರೂಪಾಂತರಣಗಳನ್ನು ಎದುರಿಸಲು ಮತ್ತು ಮುಂದೆ ಸಂಭವಿಸ ಬಹುದಾದ
+  ರೋಗ ಪಿಡುಗಿಗೆ ಸನ್ನದ್ದತೆ ನೆಡೆದಿದೆ, ಹಾಗೆಯೇ ಹಲವು ಅನ್ವೇಷಣೆಗಳಿಗೆ ಚಾಲನೆ ದೊರಕಿದೆ.
 
 
-  In this talk, Professor Sheila Jasanoff will present a study that compared pandemic responses in eighteen countries. Research teams in each country have closely followed the crisis in three interlocking sectors—health, economy, politics—providing vital information on how and why Covid-19 has produced such different outcomes and what policy-makers can do moving forward. Jasanoff, who co-directed the study, will talk about the most surprising findings from this massive undertaking and discuss how they can inform our understanding of the human impacts of the pandemic.
+  ರೋಗ ಪಿಡುಗಿಗೆ, ಹದಿನೆಂಟು ರಾಷ್ಟ್ರಗಳಲ್ಲಿ ದೊರೆತಿರುವ ವಿಭಿನ್ನ ಪ್ರಕಾರದ ಪ್ರತಿಕ್ರಿಯೆಗಳ ವಿಶ್ಲೇಷಣೆಯನ್ನು, ಭಾಷಣ ಮುಖೇಣ ಪ್ರೊಫೆಸರ್‌ ಶೀಲಾ ಜೆಸ್ನ್ನಾಫ್‌ ಪ್ರಸ್ತುತ ಪಡಿಸಲಿದ್ದಾರೆ. ಪ್ರತಿಯೊಂದು ದೇಶದ ಹಲವು ಅಧ್ಯಯನ ತಂಡಗಳು, ಪ್ರಮುಖವಾಗಿ, ಆರೋಗ್ಯ, ಅರ್ಥ ವ್ಯವಸ್ಥೆ ಮತ್ತು ರಾಜನೀತಿಯ ದೃಷ್ಟಿಯಿಂದ ಈ ಬಿಕ್ಕಟ್ಟನ್ನು ಪರಿಶೀಲಿಸಿವೆ. ಕೋವಿಡ್-19‌, ವಿಭಿನ್ನ ಪರಿಣಾಮಗಳನ್ನು ಏಕೆ ಉಂಟು ಮಾಡಿದೆ, ನೀತಿ ನಿರೂಪಕರು ಹೇಗೆ ಮುಂದುವರಿಯ ಬೇಕು ಎಂಬುದರ ಬಗ್ಗೆ ಈ ಅಧ್ಯಯನ ತಂಡಗಳು ಅತಿ ಮುಖ್ಯ ಅಂಶಗಳನ್ನು ಒದಗಿಸಿವೆ.
 link: ""
 reclink: https://www.youtube.com/embed/qANosY0F2rs
-expertname: Sheila Jasanoff
-expertbio: Sheila Jasanoff is Pforzheimer Professor of Science and Technology
-  Studies at the Harvard Kennedy School. A pioneer in her field, she has
-  authored more than 120 articles and chapters and is author or editor of more
-  than 15 books, including The Fifth Branch, Science at the Bar, Designs on
-  Nature, and The Ethics of Invention. Her work explores the role of science and
-  technology in the law, politics, and policy of modern democracies.   She
-  founded and directs the STS Program at Harvard; previously, she was founding
-  chair of the STS Department at Cornell. She has held distinguished visiting
-  appointments at leading universities in Europe, Asia, Australia, and the US.
-  Jasanoff served on the AAAS Board of Directors and as President of the Society
-  for Social Studies of Science. She is a member of the Council on Foreign
-  Relations. Her honors include the SSRC’s Hirschman prize, the Humboldt
-  Foundation’s Reimar-Lüst award, a Guggenheim Fellowship, an Ehrenkreuz from
-  the Government of Austria, and membership in the Royal Danish Academy. She
-  holds AB, JD, and PhD degrees from Harvard, and honorary doctorates from the
-  Universities of Twente and Liège.
+expertname: ಶೀಲಾ ಜೆಸ್ನ್ನಾಫ್‌
+expertbio: ಶೀಲಾ ಜೆಸ್ನ್ನಾಫ್‌, ಹಾರ್ವರ್ಡ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ʼಕೆನಡಿ ಸ್ಕೂಲ್‌ʼ
+  ಸಂಸ್ಥೆಯಲ್ಲಿ ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನದ ಫೋರ್ಸೈಮರ್‌ ಪ್ರೊಫೆಸರ್‌ ರೂಪದಲ್ಲಿ ಸೇವೆ
+  ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ. ತಮ್ಮ ಕ್ಷೇತ್ರದಲ್ಲಿ ಮೊದಲಿಗರಾದ ಇವರು, 120 ಲೇಖನಗಳನ್ನು ಹಾಗೂ
+  ಅಂಕಣಗಳನ್ನು ಬರೆದಿದ್ದಾರೆ. ಇವರು ಫಿಫ್ಥ್‌ ಬ್ರಾಂಚ್‌, ಸೈನ್ಸ್‌ ಅಟ್‌ ದಿ ಬಾರ್, ಡಿಸೈನ್ಸ್‌
+  ಆನ್‌ ನೇಚರ್‌, ದಿ ಎಥಿಕ್ಸ್‌ ಆಫ್‌ ಇನ್ವೆಂಷನ್ ಮುಂತಾದ 15 ಕ್ಕೂ ಹೆಚ್ಚು ಕೃತಿಗಳನ್ನು ರಚಿಸಿ
+  ಮತ್ತು ಸಂಪಾದಿಸಿದ್ದಾರೆ. ಆಧುನಿಕ ಪ್ರಜಾತಂತ್ರ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಕಾನೂನು, ರಾಜನೀತಿ ಮತ್ತು
+  ನೀತಿ ನಿರ್ವಹಣೆಯಲ್ಲಿ ವಿಜ್ಞಾನದ ಪಾತ್ರದ ಅಧ್ಯಯನವನ್ನು ನೆಡೆಸಿದ್ದಾರೆ.
 expertpic: /static/img/pl_sheila_portrait.png
 readinglist:
   - quadreadlink: https://www.thenation.com/article/society/sheila-jasanoff-interview-coronavirus/

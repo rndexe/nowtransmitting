@@ -52,7 +52,7 @@ listeninglist:
     quadlistlink: https://axaxl.com/fast-fast-forward/articles/lets-talk-podcast-dr-keck-discusses-the-origins-and-implications-of-the-covid-19-pandemic
     quadlistvis: /static/img/B_FS_QUA_LISTVIS_1.jpg
   - quadlisttxt: "Cracking One Health: Dr. Elena Sassu"
-    quadlistlink: https://axaxl.com/fast-fast-forward/articles/lets-talk-podcast-dr-keck-discusses-the-origins-and-implications-of-the-covid-19-pandemic
+    quadlistlink: https://open.spotify.com/episode/6XT78zvjIczpCIBntu8M4Q
     quadlistvis: /static/img/B_FS_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchtxt: " A Genealogy of Animal Diseases and Social Anthropology"
