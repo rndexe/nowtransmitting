@@ -1,6 +1,5 @@
 ---
-title: "ಉಪನ್ಯಾಸ ಶೀರ್ಷಿಕೆ: ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಯುಗ, 1817-1920: ವಿಶ್ವ ಮತ್ತು
-  ಭಾರತವನ್ನು ರೂಪಿಸಲು ಹೇಗೆ ಕಾರಣವಾಗಿವೆ? "
+title: "ಉಪನ್ಯಾಸ ಶೀರ್ಷಿಕೆ: ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಯುಗ, 1817-1920"
 permalink: kn/programmes/lectures/age-of-pandemics/
 cata: hindsight
 catb: narrating
