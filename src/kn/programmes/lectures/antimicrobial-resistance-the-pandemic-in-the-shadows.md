@@ -54,7 +54,7 @@ watchinglist:
     quadwatchtxt: ಭವಿಷ್ಯದ ಜೀವ ರೋಧ ಪ್ರತಿರೋಧಕದ ವಿಪತ್ತು
     quadwatchvis: /static/img/f_pl_qua_watchvis_2.png
 eventlist:
-  - quadeventtxt: "ಡಾ.ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ | ಸಂಗ್ರಹಾಲಯ ಮುಖ್ಯಸ್ಥರು | ಕಾರ್ಯಕ್ರಮ | "
+  - quadeventtxt: "ಸಂಗ್ರಹಾಲಯ ಮುಖ್ಯಸ್ಥರು | ಕಾರ್ಯಕ್ರಮ | ಡಾ.ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ "
     quadeventlink: http://bit.ly/event-rki
     quadeventvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: ಭಾರತದಲ್ಲಿ ಸಾರ್ಸ್‌ ಕೋವಿಡ್‌ -2 ರೋಗಾಣುಗಳ ಸಂಸ್ಕರಿತ ರೂಪಗಳ ಅನ್ವೇಷಣೆ |
