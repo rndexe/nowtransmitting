@@ -32,6 +32,7 @@ expertbio: >-
 
 
   **Sharifah Sekalala** is an Associate Professor of Global Health Law at the University of Warwick. She is an interdisciplinary researcher whose work is at the intersection of international law, public policy, and global health. She is particularly focused on the role of human rights frameworks in addressing global health inequalities. Her work has been published in leading legal, international relations and public health journals. Sharifah is currently leading a Wellcome Funded project on the migration of digital health data in Sub Saharan Africa.
+expertpic: /static/img/triple-frames.png
 readinglist:
   - quadreadtxt: On The Meaning Of Global Health And The Role Of Global Health Journals
     quadreadlink: https://academic.oup.com/inthealth/article/10/2/63/4924746?login=true
