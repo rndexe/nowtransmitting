@@ -48,7 +48,7 @@ watchinglist:
       ಮಾಹಿತಿ ಮತ್ತು ಭೀತಿ "
     quadwatchvis: /static/img/J_WK_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: "ಕೋವಿಡ್-19‌  ಲಸಿಕೆಗಳು: ಗತ ಮತ್ತು ವರ್ತಮಾನ ಕಾಲ | ಉಪನ್ಯಾಸ | ಗಗನದೀಪ್‌ ಕಾಂಗ್"
+  - quadeventtxt: "ಕೋವಿಡ್-19‌ ಲಸಿಕೆಗಳು: ಗತ ಮತ್ತು ವರ್ತಮಾನ ಕಾಲ | ಉಪನ್ಯಾಸ | ಗಗನದೀಪ್‌ ಕಾಂಗ್"
     quadeventlink: http://bit.ly/lecture-kang
     quadeventvis: /static/img/pl_gagandeep.png
 relatedlist:
