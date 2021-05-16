@@ -8,21 +8,18 @@ desc: "Viruses are fascinating things: they aren’t exactly alive by most
   Shahid Jameel is one of India’s mostly highly regarded virologists. He shares
   his thoughts on why it's important to look beyond SARS-CoV-2 as the singular
   cause of the pandemic."
-permalink: covids/viruses-variants-vaccines/
 speakername: Shahid Jameel
 speakerimage: /static/img/I_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/I_CO_THUMBNAIL.png
 speakerfield: Virologist
-speakerbio: >-
-  Shahid Jameel studied Chemistry at Aligarh Muslim University and Indian
-  Institute of Technology-Kanpur, India and obtained a PhD in Biochemistry at
-  Washington State University, USA. His postdoctoral work in Virology was at the
-  University of Colorado Health Sciences Center, Denver, USA. In 1988 he set up
-  the Virology Group at ICGEB, New Delhi, led it for 25 years and researched
-  human viruses.
-
-
-  He was CEO of the DBT/Wellcome Trust India Alliance from 2013 to 2020 and is now Director, Trivedi School of Biosciences at Ashoka University. Jameel received the Shanti Swarup Bhatnagar Prize and is an elected Fellow of India’s science academies.
+speakerbio: Shahid Jameel studied Chemistry at Aligarh Muslim University and
+  Indian Institute of Technology-Kanpur, India and obtained a PhD in
+  Biochemistry at Washington State University, USA. His postdoctoral work in
+  Virology was at the University of Colorado Health Sciences Center, Denver,
+  USA. In 1988 he set up the Virology Group at ICGEB, New Delhi, led it for 25
+  years and researched human viruses. He was CEO of the DBT/Wellcome Trust India
+  Alliance from 2013 to 2020 and is now Director, Trivedi School of Biosciences
+  at Ashoka University.
 videosrc: https://player.vimeo.com/video/533115377
 readinglist:
   - quadreadlink: https://www.smithsonianmag.com/science-nature/compare-flu-pandemic-1918-and-covid-19-caution-180975040/
@@ -34,6 +31,7 @@ readinglist:
   - quadreadlink: https://www.theatlantic.com/science/archive/2017/10/pandemic-prediction-challenge/543954/
     quadreadtxt: Is It Possible to Predict the next Pandemic?
     quadreadvis: /static/img/I_CO_QUA_READVIS_3.jpg
+permalink: covids/viruses-variants-vaccines/
 listeninglist:
   - quadlistlink: https://www.bbc.co.uk/sounds/play/w3csywyw
     quadlisttxt: "The ‘Spanish’ Flu  "
