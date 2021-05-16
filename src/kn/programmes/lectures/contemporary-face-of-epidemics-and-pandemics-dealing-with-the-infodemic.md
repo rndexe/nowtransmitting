@@ -4,7 +4,7 @@ permalink: kn/programmes/lectures/dealing-with-the-infodemic/
 cata: transmission
 catb: documenting
 thumb: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
-cover: /static/img/E_PL_Coverimage.jpg
+cover: /static/img/sn_sylvie.png
 date: 2021-05-02T13:00:00.000Z
 description: >-
   2020 ರ ಆದಿಯಿಂದಲೂ ಕರೋನ ವೈರಾಣು (ಕೋವಿಡ್-19‌) ರೋಗವು ಜಾಗತಿಕವಾಗಿ ಹರಡುತ್ತಿದೆ, ಹಲವು
