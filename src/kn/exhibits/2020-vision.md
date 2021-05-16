@@ -73,7 +73,7 @@ play:
     quadplaylink: https://www.goviralgame.com/en/
     quadplayvis: /static/img/B_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
-  - quadeventtxt: Infodemics | ಉಪನ್ಯಾಸ | Sylvie Briand
+  - quadeventtxt: ಮಾಹಿತಿ ಹೊರೆಯನ್ನು ನಿಭಾಯಿಸುವ | ಉಪನ್ಯಾಸ | ಸಿಲ್ವಿ ಬ್ರಿಯಾಂಡ್‌
     quadeventlink: https://nowtransmitting.com/programmes/lectures/dealing-with-the-infodemic/
     quadeventvis: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: ಮಾಹಿತಿ… ಇದು ಕ್ಲಿಷ್ಟಕರ ವಿಷಯ | ಕಾರ್ಯಾಗಾರ | ಮುಹಮ್ಮದ್‌ ರದವಾನ್‌
