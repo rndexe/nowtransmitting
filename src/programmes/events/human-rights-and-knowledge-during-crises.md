@@ -1,5 +1,6 @@
 ---
 title: "Human Rights and Knowledge During Crises "
+permalink: programmes/events/human-rights-and-knowledge-during-crises/
 date: 2021-05-15T06:47:37.117Z
 description: As countries around the world impose emergency measures to combat
   the spread of COVID-19, it becomes important to interrogate the impact of
