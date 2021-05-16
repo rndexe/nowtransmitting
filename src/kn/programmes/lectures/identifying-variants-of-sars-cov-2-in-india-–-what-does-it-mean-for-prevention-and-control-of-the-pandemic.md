@@ -1,6 +1,5 @@
 ---
-title: "ಭಾರತದಲ್ಲಿ ಸಾರ್ಸ್‌ ಕೋವಿಡ್‌ -2 ರೋಗಾಣುಗಳ ಸಂಸ್ಕರಿತ ರೂಪಗಳ ಅನ್ವೇಷಣೆ: ರೋಗ
-  ಪಿಡುಗಿನ ನಿಯಂತ್ರಣ ಮತ್ತು ನಿವಾರಣೆಗೆ ಹೇಗೆ ಸಹಾಯಕವಾಗುವುದು?"
+title: ಭಾರತದಲ್ಲಿ ಸಾರ್ಸ್‌ ಕೋವಿಡ್‌ -2 ರೋಗಾಣುಗಳ ಸಂಸ್ಕರಿತ ರೂಪಗಳ ಅನ್ವೇಷಣೆ
 permalink: kn/programmes/lectures/identifying-variants-of-SARS-CoV-2-in-India/
 cata: trigger
 catb: documenting
