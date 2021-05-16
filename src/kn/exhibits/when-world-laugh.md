@@ -105,8 +105,8 @@ play:
     quadplayvis: /static/img/d_exhibit_qua_playvis_1.jpg
     quadplaytxt: ಕೆಮ್ಮು ಎಂದು ಹೆಸರಿಸಿ
 eventlist:
-  - quadeventtxt: How Ideas and Behaviours Spread through a Crowd | ಕಾರ್ಯಕ್ರಮ |
-      Daniel Richardson
+  - quadeventtxt: ಸಮೂಹದ ಮೂಲಕ ಚಿಂತನೆಗಳು ಮತ್ತು ನೆಡವಳಿಕೆಗಳು ಹೇಗೆ ಹರಡುತ್ತವೆ | ಕಾರ್ಯಕ್ರಮ
+      | ಡೇನಿಯಲ್‌ ರಿಚರ್ಡ್‌ಸನ್
     quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/how-ideas-and-behaviours-spread-through-a-crowd-event-registration-145820000547
   - quadeventtxt: ನಗುವಿನ ರೂಪ | ಕಾರ್ಯಾಗಾರ | ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್
