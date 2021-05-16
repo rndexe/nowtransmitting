@@ -55,7 +55,8 @@ watchinglist:
     quadwatchtxt: Refuting "Groupthink," Research Proves Wisdom of Crowds Can Prevail
     quadwatchvis: /static/img/N_PL_QUA_WATCHVIS_3.jpg
 eventlist:
-  - quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event | Daniel Richardson
+  - quadeventtxt: ಸಮೂಹದ ಮೂಲಕ ಚಿಂತನೆಗಳು ಮತ್ತು ನೆಡವಳಿಕೆಗಳು ಹೇಗೆ ಹರಡುತ್ತವೆ | ಕಾರ್ಯಕ್ರಮ
+      | ಡೇನಿಯಲ್‌ ರಿಚರ್ಡ್‌ಸನ್
     quadeventlink: http://bit.ly/event-richardson
     quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: ತಾಳ್ಮೆಯಿಂದ ವಿನ್ಯಾಸದ ತಂತ್ರಗಳನ್ನು ಪತ್ತೆ ಮಾಡಿ | ಕಾರ್ಯಾಗಾರ | ಲುಯಿಸ್ ಹಿಸಾಯಸು

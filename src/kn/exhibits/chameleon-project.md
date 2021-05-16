@@ -85,8 +85,8 @@ eventlist:
     quadeventlink: https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533
     quadeventtxt: ನಗುವಿನ ರೂಪ | ಕಾರ್ಯಾಗಾರ | ಆನೈಸ್‌ ಟಾಂಡೆರ್‌
   - quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
-    quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event by Prof.
-      Daniel Richardson
+    quadeventtxt: ಸಮೂಹದ ಮೂಲಕ ಚಿಂತನೆಗಳು ಮತ್ತು ನೆಡವಳಿಕೆಗಳು ಹೇಗೆ ಹರಡುತ್ತವೆ | ಕಾರ್ಯಕ್ರಮ
+      | ಡೇನಿಯಲ್‌ ರಿಚರ್ಡ್‌ಸನ್
     quadeventlink: https://www.eventbrite.com/e/how-ideas-and-behaviours-spread-through-a-crowd-event-registration-145820000547
 relatedlist:
   - quadrelatedtxt: ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ | ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್

@@ -56,7 +56,8 @@ eventlist:
   - quadeventlink: http://bit.ly/workshop-radwan
     quadeventtxt: ಮಾಹಿತಿ… ಇದು ಕ್ಲಿಷ್ಟಕರ ವಿಷಯ | ಕಾರ್ಯಾಗಾರ | ಮುಹಮ್ಮದ್‌ ರದವಾನ್‌
     quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
-  - quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event
+  - quadeventtxt: ಸಮೂಹದ ಮೂಲಕ ಚಿಂತನೆಗಳು ಮತ್ತು ನೆಡವಳಿಕೆಗಳು ಹೇಗೆ ಹರಡುತ್ತವೆ | ಕಾರ್ಯಕ್ರಮ
+      | ಡೇನಿಯಲ್‌ ರಿಚರ್ಡ್‌ಸನ್
     quadeventlink: http://bit.ly/event-richardson
     quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
