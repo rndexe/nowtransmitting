@@ -62,21 +62,14 @@ body, html{
 }
 
 .info{
-    position: absolute;
-    top:0;
-    right:0;
-    margin:20px;
+
     z-index:10000;
 }
 
-/* .languagebutton{
-    position: absolute;
-    top:0;
-    right:3%;
-    padding:0.5rem 0.5rem 0.4rem 0.5rem;
-    margin:1rem 1rem 1rem 1rem;
-    z-index:10000;
-} */
+.languagebutton{
+ 
+    z-index:9999;
+}
 
 .legend{
     visibility: hidden;
