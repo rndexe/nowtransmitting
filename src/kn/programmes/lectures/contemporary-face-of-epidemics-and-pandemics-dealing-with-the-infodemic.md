@@ -18,20 +18,15 @@ description: >-
 
   ಮಾಹಿತಿ ಹೊರೆಗೆ ಕಾರಣವೇನು? ಇದರಿಂದ ಎದುರಾಗುವ ಸವಾಲುಗಳು ಯಾವುವು? ಇವುಗಳನ್ನು ನಿಭಾಯಿಸ ಬಹುದೇ, ನಿವಾರಿಸ ಬಹುದೇ? ಮಾಹಿತಿ ಹರಿವು ಪಿಡುಗನ್ನು ನಿರ್ವಹಿಸಲು ಹೊಸ ತಂತ್ರಜ್ಞಾನವನ್ನು ಹೇಗೆ ಬಳಸಬೇಕು? ಈ ಭಾಷಣದಲ್ಲಿ, ಇಂತಹ ಹಲವಾರು ಪ್ರಶ್ನೆಗಳನ್ನು ಚರ್ಚಿಸಲಾಗುವುದು.
 link: ""
-reclink: https://www.youtube.com/embed/qjewb5cAqZc
+reclink: https://youtu.be/qjewb5cAqZc
 expertname: ಸಿಲ್ವಿ ಬ್ರಿಯಾಂಡ್‌
-expertbio: Dr. Sylvie Briand (MD, MPH, PhD) is the director of the Global
-  Infectious Hazard Preparedness (GIH), at the World Health Organization
-  (WHO/WHE), in Geneva. The Department of Global Infectious Hazard Preparedness
-  (GIH) advances global efforts to prevent and control existing and emerging
-  infectious diseases by increasing access to evidence-based interventions;
-  fostering impactful innovation; and leveraging technical, operational and
-  strategic partnerships. Since 2001, Briand has been actively involved in the
-  detection, preparedness and response to global threats, leading the scientific
-  and strategic component of the WHO response (COVID 19, avian and  pandemic
-  influenza, Ebola, Zika, Plague, yellow fever, cholera, MERS). Before joining
-  WHO, Briand worked as public health project director for different global
-  health agencies in various geographic regions (South America, Africa).
+expertbio: >-
+  ಡಾ.ಸಿಲ್ವಿ ಬ್ರಿಯಾಂಡ್‌ (ಎಂ.ಡಿ, ಎಂ.ಪಿ.ಎಚ್‌, ಪಿ.ಎಚ್.ಡಿ), ಜಿನೇವಾದಲ್ಲಿರುವ ವಿಶ್ವ
+  ಆರೋಗ್ಯ ಸಂಸ್ಥೆಯ (ಡಬಲ್ಯೂ.ಎಚ್.ಓ/ ಡಬಲ್ಯೂ.ಎಚ್.ಈ) ಜಾಗತಿಕ ಸಾಂಕ್ರಾಮಿಕ ವಿಪತ್ತು ಸನ್ನಧತೆ
+  ವಿಭಾಗದ (ಜಿ.ಐ.ಎಚ್)‌ ನಿರ್ದೇಶಕರಾಗಿದ್ದಾರೆ.
+
+
+  ಜಾಗತಿಕ ಸಾಂಕ್ರಾಮಿಕ ವಿಪತ್ತು ಸನ್ನಧತೆ ವಿಭಾಗವು (ಜಿ.ಐ.ಎಚ್)‌, ಪ್ರಭಾವಿ ಆವಿಷ್ಕಾರಗಳನ್ನು, ತಾಂತ್ರಿಕ, ಪ್ರಚಾಲಕ ಮತ್ತು ಕ್ರಮಬದ್ಧ ಸಹಭಾಗಿತ್ವವನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ, ಸಾಕ್ಷಿ ಆಧಾರಿತ ಚಟುವಟಿಕೆಗಳನ್ನು ಅಳವಡಿಸಿಕೊಂಡು, ಪ್ರಸಕ್ತ ಇರುವಂತಹ ಹಾಗೂ ಮುಂದೆ ಸಂಭವಿಸ ಬಹುದಾದ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ನಿವಾರಣೆಗೆ ಜಾಗತಿಕ ಪ್ರಯತ್ನಗಳನ್ನು ರೂಪಿಸುವಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿದೆ.
 expertpic: /static/img/pl_sylvie_portrait.png
 readinglist:
   - quadreadlink: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30461-X/fulltext
