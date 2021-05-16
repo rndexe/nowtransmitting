@@ -53,7 +53,7 @@ eventlist:
   - quadeventlink: http://bit.ly/lecture-shahane
     quadeventtxt: ಪಿಡುಗುಗಳಲ್ಲಿ ಕಲೆ | ಉಪನ್ಯಾಸ | ಗಿರೀಶ್‌ ಶಹಾನೆ
     quadeventvis: /static/img/pl_girish.png
-  - quadeventtxt: Dis-Ease | ಚಲನ ಚಿತ್ರ ಚರ್ಚೆ
+  - quadeventtxt: ಡಿಸ್‌–ಈಸ್ | ಚಲನ ಚಿತ್ರ ಚರ್ಚೆ
     quadeventlink: http://bit.ly/films-ghani
     quadeventvis: /static/img/f_mariam.png
 relatedlist:
