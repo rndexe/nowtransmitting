@@ -18,6 +18,14 @@ description: “Mutations” has become a buzzword in the pandemic. Mutations ar
   contagion.
 link: http://bit.ly/workshop-iyer-mahajan
 expertpic: /static/img/wk_meenakshi_portrait.png
+readinglist:
+  - quadreadvis: /static/img/q_wk_qua_readvis_1.jpg
+  - quadreadvis: /static/img/q_wk_qua_readvis_2.jpg
+  - quadreadvis: /static/img/q_wk_qua_readvis_3.jpg
+listeninglist:
+  - quadlistvis: /static/img/q_wk_qua_listvis_1.jpg
+watchinglist:
+  - quadwatchvis: /static/img/q_wk_qua_watchvis_1.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-marathe
     quadeventtxt: "Real-Time Contagion Science in the 21st Century | Lecture by
