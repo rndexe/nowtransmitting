@@ -5,7 +5,7 @@ cata: transmission
 catb: documenting
 thumb: /static/img/ev_quiz_thumbnail.png
 cover: /static/img/ev_quiz_coverimage.png
-date: 2021-05-14T15:23:31.786Z
+date: 2021-05-23T08:30:00.000Z
 description: ಪಿಡುಗುಗಳ ಬಗ್ಗೆ, ಗತ-ವರ್ತಮಾನ-ಭವಿಷ್ಯತ್ತಿನ ಎಲ್ಲಾ ವಿಷಯಗಳೂ ತಿಳಿದಿವೆ ಎಂದು
   ಭಾವಿಸುವಿರಾ? ಹಾಗಾದರೆ, ಸಾಂಕ್ರಾಮಿಕಗಳನ್ನು ಮತ್ತು ರೋಗ ಪಿಡುಗುಗಳನ್ನು ಕುರಿತಂತಹ ಹಲವು
   ಕುತೂಹಲಕಾರಿ ವಿಷಯಗಳು ಮತ್ತು ಕಥೆಗಳ ಸುತ್ತ ಹೆಣೆದಿರುವ ಪ್ರಶ್ನೆಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ರಸ
