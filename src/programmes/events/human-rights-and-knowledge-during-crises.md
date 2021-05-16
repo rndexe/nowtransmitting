@@ -5,7 +5,7 @@ cata: spillover
 catb: narrating
 thumb: /static/img/ev_humanrights_thumbnail.png
 cover: /static/img/ev_humanrights_coverimage.png
-date: 2021-05-23T08:30:00.000Z
+date: 2021-06-11T08:30:00.000Z
 description: As countries around the world impose emergency measures to combat
   the spread of COVID-19, it becomes important to interrogate the impact of
   these measures on vulnerable communities. In this context, human rights offer
