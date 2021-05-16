@@ -17,9 +17,9 @@ promptlist:
           ಸೂಕ್ಷ್ಮಾಣು ಜೀವ ಶಾಸ್ತ್ರ ಮತ್ತು ವಿಕಸನ ಜೀವ ಶಾಸ್ತ್ರದಲ್ಲಿ ಆಸಕ್ತಿ
           ಹೊಂದಿದ್ದಾರೆ.  ಕಾವ್ಯ ರಚನೆ, ಬರಹಗಳು, ಚೆಸ್‌ ಆಟ, ಅಡುಗೆ, ಕೋಡಿಂಗ್‌, ಚಿತ್ರ ಕಲೆ
           ಮುಂತಾದವು ಇವರ ಹವ್ಯಾಸಗಳು.
-    prompt: Last night, your dreams were interrupted by an advertisement. You log
-      into your social media account the next morning and find everyone posting
-      about the same experience.
+    prompt: ನೆನ್ನೆ ರಾತ್ರಿ, ಒಂದು ಜಾಹಿರಾತಿನ ಕಾರಣ ನೀವು ಕನಸಿನಿಂದ ಎಚ್ಚರಗೊಂಡಿರಿ. ನೀವು
+      ನಿಮ್ಮ ಸೋಶಲ್‌ ಮೀಡಿಯಾ ಅಕೌಂಟ್‌ (ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದ ತಾಣವನ್ನು) ತೆರೆದಾಗ, ಅಲ್ಲಿ
+      ಪ್ರತಿಯೊಬ್ಬರೂ, ನಿಮ್ಮಂತೆಯೇ ಅವರಿಗೂ ಆದ ಅನುಭವವನ್ನು ಹಂಚಿಕೊಳ್ಳತ್ತಿದ್ದಾರೆ.
   - wplist:
       - bio: ಇತ್ತೀಚೆಗೆ, ಏಲನ್‌ ಶಿ, ಅವರು, ಯೂ ಸಿ ಬರ್ಕ್ಲೇ ಇಂದ ಹೊರ ಬಂದಿದ್ದಾರೆ. ತಮ್ಮ ಜೀವನವನ್ನು
           ಸವಿಯಲು ಒಂದು ವರ್ಷದ ರಜೆ ಪಡೆದಿದ್ದಾರೆ.  ಇವರ ಕೃತಿಯನ್ನು ರಾಷ್ಟ್ರೀಯ ಮಟ್ಟದಲ್ಲಿ,
@@ -30,7 +30,7 @@ promptlist:
         name: ಏಲನ್‌ ಶಿ
         link: https://e.issuu.com/embed.html?d=writing_prompt_1&u=sciencegallerybengaluru
         title: ಮೌನ ನೃತ್ಯ
-    prompt: While attending a music festival, you walk into a venue where the crowd
-      is moving synchronously to something even though the artist onstage
-      doesn’t have any instruments.
+    prompt: ನೀವು ಒಂದು ಸಂಗೀತ ಉತ್ಸವದಲ್ಲಿ ಭಾಗಿಯಾಗಿದ್ದೀರಿ, ವೇದಿಕೆಯ ಮೇಲಿರುವ ಕಲಾವಿದರು
+      ಯಾವುದೇ ವಾದ್ಯವನ್ನೂ ಹೊಂದಿಲ್ಲ. ಆದರೂ, ಎಲ್ಲರೂ ಒಟ್ಟಿಗೇ ಒಂದೇ ರೀತಿ
+      ಸಾಗುತ್ತಿರುವುದನ್ನು ಗಮನಿಸುತ್ತೀರ.
 ---
