@@ -59,11 +59,12 @@ watchinglist:
     quadwatchtxt: ಕೋವಿಡ್-19‌ ರೋಗದ ತೆರೆ-ಪರಿಣಾಮಗಳನ್ನು ತಡೆಯಲು ರಣತಂತ್ರ
     quadwatchvis: /static/img/W_PL_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: Visualising the Virus | Workshop | Gabriela Aquije Zegarra
+  - quadeventtxt: "ವೈರಾಣುವಿನ ಕಲ್ಪನೆ: ಸಾಮೂಹಿಕ ತುರ್ತು ಆರೈಕೆಯ ಮಾಧ್ಯಮವಾಗಿ ವಿನ್ಯಾಸ ಕಲೆ |
+      ಕಾರ್ಯಾಗಾರ | ಗೇಬ್ರಿಲಾ ಆಕ್ವಿಜಿ ಜೆಗಾರ್ರ"
     quadeventlink: http://bit.ly/workshop-aquije
     quadeventvis: /static/img/wk_gabriela.png
-  - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
-      Lecture | Sheila Jasanoff"
+  - quadeventtxt: "ಹತೋಟಿ, ಹೊಂದಾಣಿಕೆ, ಗೊಂದಲ : ರೋಗ ಪಿಡುಗಿಗೆ ಜಾಗತಿಕ ಪ್ರತಿಕ್ರಿಯೆ |
+      ಉಪನ್ಯಾಸ | ಶೀಲಾ ಜೆಸ್ನ್ನಾಫ್‌"
     quadeventlink: https://nowtransmitting.com/kn/programmes/lectures/control-consensus-chaos/
     quadeventvis: /static/img/pl_sheila.jpg
 relatedlist:
