@@ -61,8 +61,8 @@ eventlist:
     quadeventtxt: "ರೋಗ ಪಿಡುಗುಗಳ ಬಗೆಗೆ ಸಂವಾದಾತ್ಮಕ ಕಲೆಯ ಸೃಷ್ಟಿ | ಕಾರ್ಯಾಗಾರ | ಮ್ಯಾಟ್ಟ್‌ ಆಡಮ್ಸ್ "
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
   - quadeventlink: http://bit.ly/lecture-marathe
-    quadeventtxt: "21 ನೇ ಶತಮಾನದಲ್ಲಿ ಪ್ರಸಕ್ತ ವ್ಯಾಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಜ್ಞಾನ:
-      ಅಂಕಿ-ಸಂಖ್ಯೆ ವಿವರಣೆಗಳು ಮತ್ತು ಗಣಕ ಶಾಸ್ತ್ರ | ಉಪನ್ಯಾಸ | ಮಾಧವ್ ಮರಾಠೆ "
+    quadeventtxt: "21 ನೇ ಶತಮಾನದಲ್ಲಿ ಪ್ರಸಕ್ತ ವ್ಯಾಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಜ್ಞಾನ | ಉಪನ್ಯಾಸ |
+      ಮಾಧವ್ ಮರಾಠೆ "
     quadeventvis: /static/img/pl_madhav.png
 relatedlist:
   - quadrelatedtxt: "ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಜ್ಹಾನ್‌ ಡಬಲ್ಯೂ ಬುಶ್,
