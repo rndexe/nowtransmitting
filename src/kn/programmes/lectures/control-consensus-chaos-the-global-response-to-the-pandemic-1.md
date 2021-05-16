@@ -1,5 +1,5 @@
 ---
-title: "Control, Consensus, Chaos: The Global Response to the Pandemic"
+title: "ಹತೋಟಿ, ಹೊಂದಾಣಿಕೆ, ಗೊಂದಲ: ರೋಗ ಪಿಡುಗಿಗೆ ಜಾಗತಿಕ ಪ್ರತಿಕ್ರಿಯೆ"
 permalink: kn/programmes/lectures/control-consensus-chaos/
 cata: hindsight
 catb: documenting
