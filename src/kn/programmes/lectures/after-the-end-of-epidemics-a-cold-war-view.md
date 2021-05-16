@@ -4,7 +4,7 @@ permalink: kn/programmes/lectures/after-end-of-epidemics/
 cata: spillover
 catb: narrating
 thumb: /static/img/e_exhibit_qua_atnvis_2.jpg
-cover: /static/img/H_PL_Coverimage.jpg
+cover: /static/img/sn_dora.png
 date: 2021-05-08T13:00:00.000Z
 description: >-
   ಅನೇಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಕಾರಕಗಳ ಸತತ ಉಳಿವು, ಪುನರಾವರ್ತನೆ ಮತ್ತು ಅನುವಂಶಿಕ
