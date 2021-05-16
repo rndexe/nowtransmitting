@@ -28,10 +28,10 @@ expertbio: >-
   world.
 
 
-  **Seye Abimbola** is a health systems researcher and a global health scholar. He has worked as a health system practitioner and/or researcher in Nigeria where he completed his medical training at Obafemi Awolowo University, Ile-Ife; in Australia where completed an MPhil in Public Health and PhD in health systems research at the University of Sydney, and in the United Kingdom where he was a Sidney Sax Overseas Early Career Fellow at the University of Oxford. Dr Abimbola studies community engagement in governance, decentralised governance, and the role of governance in the adoption and scale up of health system innovations. He is currently (2020-22) the Prince Claus Chair in Development and Equity at Utrecht University in the Netherlands, a senior lecturer in global health at the University of Sydney in Australia, and the editor in chief of BMJ Global Health.
+  **Seye Abimbola** is a health systems researcher and a global health scholar. Dr Abimbola studies community engagement in governance, decentralised governance, and the role of governance in the adoption and scale up of health system innovations. He is currently (2020-22) the Prince Claus Chair in Development and Equity at Utrecht University in the Netherlands, a senior lecturer in global health at the University of Sydney in Australia, and the editor in chief of BMJ Global Health.
 
 
-  **Sharifah Sekalala** is an Associate Professor of Global Health Law at the University of Warwick. She is an interdisciplinary researcher whose work is at the intersection of international law, public policy, and global health. She is particularly focused on the role of human rights frameworks in addressing global health inequalities. Her work has been published in leading legal, international relations and public health journals. Sharifah is currently leading a Wellcome Funded project on the migration of digital health data in Sub Saharan Africa.
+  **Sharifah Sekalala** is an Associate Professor of Global Health Law at the University of Warwick. She is an interdisciplinary researcher whose work is at the intersection of international law, public policy, and global health. She is particularly focused on the role of human rights frameworks in addressing global health inequalities. Sharifah is currently leading a Wellcome Funded project on the migration of digital health data in Sub Saharan Africa.
 expertpic: /static/img/triple-frames.png
 readinglist:
   - quadreadtxt: On The Meaning Of Global Health And The Role Of Global Health Journals
