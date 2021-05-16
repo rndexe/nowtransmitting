@@ -175,7 +175,8 @@ relatedlist:
 quadreadtxt: Fearing a Fear of Germs
 quadreadlink: https://www.historians.org/publications-and-directories/perspectives-on-history/october-2020/fearing-a-fear-of-germs-how-did-the-surgical-mask-transform-from-a-sign-of-bigotry-to-a-sign-of-care
 eventlist:
-  - quadeventtxt: Robert Koch Institute Museum Walkthrough | Event
+  - quadeventtxt: ರಾಬರ್ಟ್‌ ಕೋಕ್‌ ಸಂಸ್ಥೆಯ ಸಂಗ್ರಹಾಲಯ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಸಂದರ್ಶನ
+      ಕೇಂದ್ರದ ವಿಹಾರ
     quadeventvis: /static/img/O_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/walkthrough-of-the-museum-at-robert-koch-institute-event-registration-148309895891
   - quadeventtxt: ವಿಜ್ಞಾನ ಮತ್ತು ವೀಕ್ಞಣೆ | ಉಪನ್ಯಾಸ | ಡೇವಿಡ್‌ ಜ್ಹಾನ್‌ ಆರ್ನಾಲ್ಡ್‌
