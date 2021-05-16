@@ -1,40 +1,32 @@
 ---
-title: "No kand- The Network Dynamics of Social Change "
+title: ಸಾಮಾಜಿಕ ಬದಲಾವಣೆಯ ಜಾಲತಾಣ ರೂಪಾಂತರಣಗಳು
 permalink: kn/programmes/lectures/the-network-dynamics-of-social-change/
 cata: transmission
 catb: experimenting
 thumb: /static/img/PL_damon_thumbnail.jpg
 cover: /static/img/PL_damon_coverimage.jpg
 date: 2021-05-26T13:00:00.000Z
-description: New social movements, technologies and public-health initiatives
-  often struggle to succeed, yet many diseases disperse rapidly. Can viral
-  diffusion be a model to improve spread of beneficial behaviors and
-  innovations? Professor Damon Centola will discuss breakthroughs in the science
-  of network diffusion, and how these have improved understanding of how changes
-  in societal behavior—in voting, health, technology, finance, vaccination, and
-  disease prevention - occur, and how social networks can influence how they
-  propagate. Many accepted ideas about viral spreading have in fact been
-  responsible for causing past diffusion efforts to fail. Centola presents new
-  findings to enable social change efforts to succeed much more effectively.
+description: ಹೊಸ ಸಾಮಾಜಿಕ ಚಳುವಳಿಗಳಿಗೆ, ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ
+  ಅಭಿಯಾನಗಳಿಗೆ ಚಾಲನೆ ನೀಡುವುದು ಬಹಳ ಕಷ್ಟಸಾಧ್ಯ.  ಆದರೆ, ಹಲವು ರೋಗಗಳು ವೇಗ ಗತಿಯಲ್ಲಿ
+  ಆವರಿಸಿ ಬಿಡುತ್ತವೆ.  ಈ ವೈರಾಣು ವ್ಯಾಪನವನ್ನು ಮಾದರಿಯಾಗಿರಿಸಿಕೊಂಡು, ಒಳ್ಳೆಯ
+  ನೆಡವಳಿಕೆಗಳನ್ನು ಬೆಳೆಸಲು ಮತ್ತು ಹೊಸ ಆವಿಷ್ಕಾರಗಳನ್ನು ಸಹ ಅಭಿವೃದ್ಧಿ ಪಡಿಸಲು ಬಳಸ ಬಹುದೇ?
+  ಮತದಾನ, ಆರೋಗ್ಯ, ತಂತ್ರಜ್ಞಾನ, ಹಣಕಾಸು, ಲಸಿಕೆ, ರೋಗ ನಿವಾರಣೆ ಮುಂತಾದ ಕ್ಷೇತ್ರಗಳಿಗೆ
+  ಅನ್ವಯಿಸುವಂತೆ ಸಾಮಾಜಿಕ ನೆಡವಳಿಕೆಗಳಲ್ಲಿ ಸಂಭವಿಸುವ ಬದಲಾವಣೆಗಳನ್ನು ಅರ್ಥೈಸಲು, ಜಾಲತಾಣ
+  ಮುಖೇಣ ಪ್ರಸಾರಣದಲ್ಲಿ ನೆಡೆದಿರುವ ಸಂಶೋಧನೆಗಳ ಬಗೆಗೆ ಪ್ರೊಫೆಸರ್ ಸೆಂಟೋಲಾ ಚರ್ಚಿಸಲಿದ್ದಾರೆ.
+  ಸಾಂಕ್ರಾಮಿಕಗಳನ್ನು ಕುರಿತಂತೆ, ಪ್ರಸಕ್ತೆ ಒಪ್ಪಿಗೆ ಪಡೆದಿರುವ ಹಲವು ಚಿಂತನೆಗಳು ಸರಿಯೇ?
+  ಸಾಮಾಜಿಕ ಪರಿವರ್ತನೆಯ ನಿಟ್ಟಿನಲ್ಲಿ ಹೆಚ್ಚು ಪ್ರಭಾವಕಾರಿಯಾದ ಹೊಸ ಸಂಶೋಧನೆಗಳನ್ನು
+  ಪ್ರೊಫೆಸರ್ ಸೆಂಟೋಲಾ ಪ್ರಸ್ತುತ ಪಡಿಸಲಿದ್ದಾರೆ.
 link: http://bit.ly/lecture-centola
-expertname: Damon Centola
-expertbio: Damon Centola is a Professor in the Annenberg School for
-  Communication, the School of Engineering and Applied Sciences, and the School
-  of Arts and Sciences at the University of Pennsylvania, where he is Director
-  of the Network Dynamics Group and a Senior Fellow at the Leonard Davis
-  Institute of Health Economics.   His research centers on social networks and
-  behavior change.  His work has been published across several disciplines in
-  journals such as Science, Nature Communications, PNAS, American Journal of
-  Sociology, Circulation and Journal of Statistical Physics. Damon received the
-  American Sociological Association’s Award for Outstanding Research in
-  Mathematical Sociology in 2006, 2009, and 2011; the Goodman Prize for
-  Outstanding Contribution to Sociological Methodology in 2011; the James
-  Coleman Award for Outstanding Research in Rationality and Society in 2017; and
-  the Harrison White Award for Outstanding Scholarly Book in 2019.  He was a
-  developer of the NetLogo agent based modeling environment, and was awarded a
-  U.S. Patent for inventing a method to promote diffusion in online
-  networks.  He is a member of the Sci Foo community and Fellow of the Center
-  for Advanced Study in the Behavioral Sciences at Stanford University.
+expertname: ಡಾಮನ್‌ ಸೆಂಟೋಲಾ
+expertbio: >-
+  ಡಾಮನ್‌ ಸೆಂಟೋಲಾ, ಇಂಜನೀಯರಿಂಗ್‌ ಮತ್ತು ಕ್ರಿಯಾತ್ಮಕ ವಿಜ್ಞಾನಗಳ ಸಂಸ್ಥೆಯಾದ ಅನ್ನೆನ್‌
+  ಬರ್ಗ್‌ ಸ್ಕೂಲ್‌ ಫಾರ್‌ ಕಮ್ಯುನಿಕೇಶನ್‌ ಸಂಸ್ಥೆಯಲ್ಲಿ ಪ್ರೊಫೆಸರ್‌ ಆಗಿ ಹಾಗೂ
+  ಪೆಂಸಿಲ್ವೇನಿಯಾ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಸ್ಕೂಲ್‌ ಆಫ್‌ ಆರ್ಟ್ಸ್‌ ಆಂಡ್‌ ಸೈನ್ಸಸ್‌ ಸಂಸ್ಥೆಯಲ್ಲಿ
+  ನೆಟ್ವರ್ಕ್‌ ಡೈನಮಿಕ್ಸ್‌ ಗ್ರೂಪ್‌ ನಿರ್ದೇಶಕರಾಗಿ ಹಾಗೂ ಲಿಯೊನಾರ್ಡ್‌ ಡೇವಿಸ್‌ ಆರೋಗ್ಯ
+  ಅರ್ಥಶಾಸ್ತ್ರ ಸಂಸ್ಥೆಯ ಹಿರಿಯ ಫೆಲೋ ಆಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.
+
+
+   ಸಾಮಾಜಿಕ ಜಾಲತಾಣ ಮತ್ತು ಸ್ವಭಾವ ಪರಿವರ್ತನೆಯ ಮೇಲೆ ಇವರು ಸಂಶೋಧನೆ ನೆಡೆಸಿದ್ದಾರೆ. ಇವರ ಕೃತಿಗಳನ್ನು, ಸೈಸ್ಸ್‌, ನೇಚರ್‌ ಕಮ್ಯುನಿಕೇಷನ್ಸ್‌, ಪಿ.ಎನ್.ಏ.ಎಸ್, ಅಮೇರಿಕನ್‌ ಜರ್ನಲ್‌ ಆಫ್‌ ಸೋಶಿಯಾಲಜಿ, ಸರ್ಕ್ಯುಲೇಶನ್‌ ಮತ್ತು ಜರ್ನಲ್‌ ಆಫ್‌ ಸ್ಟ್ಯಾಟಿಸ್ಟಿಕಲ್‌ ಫಿಸಿಕ್ಸ್‌ ಪತ್ರಿಗೆಗಳ ಹಲವು ವಿಭಾಗಗಳಲ್ಲಿ ಪ್ರಕಟಿಸಲಾಗಿದೆ.
 expertpic: /static/img/pl_damon_portrait.png
 readinglist:
   - quadreadlink: https://ndg.asc.upenn.edu/wp-content/uploads/2019/05/Virality-Paradox.pdf
@@ -71,9 +63,9 @@ eventlist:
     quadeventvis: /static/img/g_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedtxt: ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ | ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/chameleon-project/
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
   - quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/2020-vision/
     quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
