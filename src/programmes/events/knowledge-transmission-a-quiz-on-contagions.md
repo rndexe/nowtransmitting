@@ -21,4 +21,23 @@ expertbio: >-
   of The Hindu Group. He has been a quizzer and quizmaster for over two decades, and is actively
 
   involved with the Karnataka Quiz Association.
+readinglist:
+  - quadreadlink: https://theconversation.com/social-distancing-works-just-ask-lobsters-ants-and-vampire-bats-135383
+    quadreadtxt: Social Distancing Works – Just Ask Lobsters, Ants And Vampire Bats
+    quadreadvis: /static/img/e_ev_qua_readvis_1.jpg
+  - quadreadlink: https://theconversation.com/memes-like-bernie-sanders-mittens-spread-through-networks-the-same-way-viruses-spread-through-populations-153418
+    quadreadtxt: Memes Like Bernie Sanders' Mittens Spread Through Networks The Same
+      Way Viruses Spread Through Populations
+    quadreadvis: /static/img/e_ev_qua_readvis_2.jpg
+  - quadreadlink: https://theconversation.com/how-infectious-diseases-have-shaped-our-culture-habits-and-language-75061
+    quadreadtxt: How Infectious Diseases Have Shaped Our Culture, Habits And Language
+    quadreadvis: /static/img/e_ev_qua_readvis_3.jpg
+listeninglist:
+  - quadlistlink: https://open.spotify.com/episode/51nFG4GdRvqAPThz6kWUZZ
+    quadlisttxt: Germ Theory and Popular Culture with Nancy Tomes
+    quadlistvis: /static/img/e_ev_qua_listvis_1.jpg
+watchinglist:
+  - quadwatchlink: https://www.youtube.com/watch?v=ZKh6z0X6KRw
+    quadwatchtxt: Can You Solve The Virus Riddle?
+    quadwatchvis: /static/img/e_ev_qua_watchvis_1.jpg
 ---
