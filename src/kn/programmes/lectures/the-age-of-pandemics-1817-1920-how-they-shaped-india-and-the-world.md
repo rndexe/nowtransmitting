@@ -1,5 +1,6 @@
 ---
-title: "The Age of Pandemics, 1817-1920: How They Shaped India and the World"
+title: "ಉಪನ್ಯಾಸ ಶೀರ್ಷಿಕೆ: ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಯುಗ, 1817-1920: ವಿಶ್ವ ಮತ್ತು
+  ಭಾರತವನ್ನು ರೂಪಿಸಲು ಹೇಗೆ ಕಾರಣವಾಗಿವೆ? "
 permalink: kn/programmes/lectures/age-of-pandemics/
 cata: hindsight
 catb: narrating
@@ -7,22 +8,22 @@ thumb: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
 cover: /static/img/R_PL_Coverimage.jpg
 date: 2021-06-05T13:00:00.000Z
 description: >-
-  Between 1817 and 1920, over 70 million people died in the cholera, plague and
-  influenza pandemics. Over half of these deaths were in the Indian subcontinent
-  alone. Despite the magnitude of lives lost to these devastating diseases, they
-  have largely been forgotten in our collective memory. Looking back at these
-  pandemics is not only an exercise that helps gain insight into humanity’s
-  encounters with infectious diseases, but is also crucial in light of COVID-19
-  and the looming possibility of future outbreaks. 
+  1817 ಮತ್ತು 1920 ರ  ನಡುವೆ 70 ದಶ ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು ಜನರು, ಖಾಲೆರಾ, ಪ್ಲೇಗ್‌ ಮತ್ತು
+  ಇಂಫ್ಲುಯೆಂಸಾ ಮುಂತಾದ ರೋಗ ಪಿಡುಗುಗಳಿಂದ ಸಾವನ್ನಪ್ಪಿದರು. ಇವುಗಳಲ್ಲಿ ಅರ್ಧದಷ್ಟು ಸಾವುಗಳು
+  ಭಾರದ ಭೂಖಂಡದಲ್ಲೇ ಸಂಭವಿಸಿದ್ದವು. ಆದರೆ ಈ ಬಗೆಯ ರೋಗಗಳಿಗೆ ತುತ್ತಾಗಿ ಸಂಭವಿಸಿದ ವ್ಯಾಪಕ
+  ಸಾವುಗಳು ನಮ್ಮ ಸ್ಮರಣೆಯಿಂದ ಅಳಿಸಿ ಹೋಗಿವೆ. ಈ ರೋಗ ಪಿಡುಗುಗಳಲ್ಲಿ ಅಡಗಿರುವ ಅಂಶಗಳನ್ನು
+  ಪರಿಶೀಲಿಸುವುದರಿಂದ, ಕೋವಿಡ್-‌ 19 ರೋಗ ನಿದಾನದ ಅವಿಶ್ಕಾರ ಹಾಗೂ ಮಾನವ ಸಮುದಾಯವು,
+  ಭವಿಷ್ಯದಲ್ಲಿ ಸಂಭವಿಸ ಬಹುದಾದ ಇಂತಹ ರೋಗ ಪಿಡುಗುಗಳನ್ನು ಹೇಗೆ ಎದರಿಸಬೇಕು, ಎಂಬುದರ ಅರಿವು
+  ದೊರೆಯುತ್ತದೆ.                   
 
 
-  Based on Professor Chinmay Tumbe’s recent book, this talk points out the significance of past pandemics and how they can be seen in the time of COVID-19.
+  ಡಾ.ತುಂಬೆ ಅವರ ಕೃತಿಯನ್ನು ಆಧರಿಸಿ, ಗತಕಾಲದ ರೋಗ ಪಿಡುಗುಗಳು ಮತ್ತು ಕೋವಿಡ್=19‌ ರ ಸಮಯದಲ್ಲಿ ಅವುಗಳ ಅರಿವಿನ ಮಹತ್ವವನ್ನು ಕುರಿತಂತೆ ಈ ಉಪನ್ಯಾಸವಿರುತ್ತದೆ.
 link: http://bit.ly/lecture-tumbe
-expertname: Chinmay Tumbe
-expertbio: "Professor Chinmay Tumbe is a faculty member in the Economics Area of
-  the Indian Institute of Management Ahmedabad. He is the author of India
-  Moving: A History of Migration (2018) and The Age of Pandemics, 1817-1920: How
-  they Shaped India and the World (2020). "
+expertname: "ಚಿನ್ಮಯ್‌ ತುಂಬೆ "
+expertbio: "ಡಾ.ಚಿನ್ಮಯ್‌ ತುಂಬೆ, ಅಹಮದಾಬಾದ್‌ ಅಲ್ಲಿರುವ ಭಾರತೀಯ ಪ್ರಬಂಧ ಸಂಸ್ಥಾನದ
+  ಅರ್ಥಶಾಸ್ತ್ರ ವಿಭಾಗದಲ್ಲಿ ಉಪನ್ಯಾಸಕರಾಗಿದ್ದಾರೆ.  ಇಂಡಿಯಾ ಮೂವಿಂಗ್‌: ಎ ಹಿಸ್ಟರಿ ಆಫ್‌
+  ಮೈಗ್ರೇಷನ್‌ (2018)  ಮತ್ತು ದಿ ಏಜ್‌ ಆಫ್‌ ಪ್ಯಾಂಡಮಿಕ್ಸ್ 1817-1920: ಹೌ ಧೆ ಶೇಪ್ಡ್‌
+  ಇಂಡಿಯಾ ಆಂಡ್‌ ದಿ ವರ್ಲಡ್‌ (2020)   ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ."
 expertpic: /static/img/pl_chinmay_portrait.png
 readinglist:
   - quadreadlink: https://visualplague.wordpress.com/the-project/
