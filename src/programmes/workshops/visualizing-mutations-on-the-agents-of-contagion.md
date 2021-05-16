@@ -3,8 +3,8 @@ title: Visualising and Interpreting Mutations
 permalink: programmes/workshops/visualising-and-interpreting-mutations/
 cata: transmission
 catb: experimenting
-thumb: /static/img/wk_saurabh_thumbnail.png
-cover: /static/img/wk_saurabh_coverimage.png
+thumb: /static/img/wk_mutation_thumbnail.png
+cover: /static/img/wk_mutation_coverimage.png
 date: 2021-06-06T04:30:00.000Z
 description: “Mutations” has become a buzzword in the pandemic. Mutations are
   one of the factors behind the changing nature of contagions. Often they are
