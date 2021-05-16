@@ -7,12 +7,12 @@ thumb: /static/img/pl_gagandeep.png
 cover: /static/img/O_PL_Coverimage.jpg
 date: 2021-05-28T13:00:00.000Z
 description: >-
-  ಕೋವಿಡ್-19‌  ರೋಗ ಪಿಡುಗು, ಸಮಾಜ, ನೀತಿಶಾಸ್ತ್ರ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಪ್ರಸಾರದಲ್ಲಿ
-  ವಿಜ್ಞಾನದ ಪಾತ್ರವನ್ನು ದೃಢಗೊಳಿಸಿದೆ.  ಲಸಿಕೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಅತ್ಯಂತ ನಿಖರವಾದ ಹಾಗೂ
+  ಕೋವಿಡ್-19‌ ರೋಗ ಪಿಡುಗು, ಸಮಾಜ, ನೀತಿಶಾಸ್ತ್ರ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಪ್ರಸಾರದಲ್ಲಿ
+  ವಿಜ್ಞಾನದ ಪಾತ್ರವನ್ನು ದೃಢಗೊಳಿಸಿದೆ. ಲಸಿಕೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಅತ್ಯಂತ ನಿಖರವಾದ ಹಾಗೂ
   ಎಲ್ಲರಿಗೂ ಲಭ್ಯವಾಗುವ ವೈಜ್ಞಾನಿಕ ಮಾಹಿತಿ ಯು ಅವಶ್ಯಕ ಎಂಬುದು ಖಚಿತವಾಗಿದೆ.
 
 
-  ಕೋವಿಡ್-19‌  ರೋಗಕ್ಕೆ ವಿಶ್ವದೆಲ್ಲೆಡೆ ಹಲವು ಲಸಿಕೆಗಳಿಗೆ ಮಾನ್ಯತೆ ದೊರಕಿದೆ.  ಆದಾಗ್ಯೂ, ಅವುಗಳು ಎಷ್ಟು ಸುರಕ್ಷಿತ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ, ಅಲ್ಲದೇ ರೂಪಾಂತರಣಗಳು ಹುಟ್ಟಿಕೊಂಡಿರುವ ಕಾರಣ ಭವಿಷ್ಯತ್ತಿನಲ್ಲಿ ಏನು ಕಾದಿದೆ ಎಂಬುದರ ಬಗೆಗೆ ಪ್ರಶ್ನೆಗಳು ಹುಟ್ಟಿವೆ. ಕೋವಿಡ್-19‌ ಲಸಿಕೆ ಕುರಿತಂತಹ ಹಿಂಜರಿಕೆಯನ್ನು ನಿವಾರಿಸಲು, ಈ ಲಸಿಕೆಯ ತಯಾರಿಕೆಯ ಹಿಂದೆ ಅಡಗಿರುವ ಪ್ರಕ್ರಿಯೆಗಳನ್ನು, ಭಾಷಣದ ಮೂಲಕ ಡಾ.ಕಾಂಗ್‌ ಅವರು ತಿಳಿಸಲಿದ್ದಾರೆ.  ಲಸಿಕೆಯ ಕಾರ್ಯಪ್ರಣಾಲಿಕೆ, ಪರಿಮಿತಿಯ ಬಗ್ಗೆ ಹಾಗೂ ವರ್ತಮಾನದಲ್ಲಿ ನೆಡೆದಿರುವ ಜಾಗತಿಕ ಲಸಿಕಾ ಅಭಿಯಾನದಲ್ಲಿ ನಮ್ಮ ಪಾತ್ರವನ್ನು ವಿವರಿಸುತ್ತಾರೆ.
+  ಕೋವಿಡ್-19‌ ರೋಗಕ್ಕೆ ವಿಶ್ವದೆಲ್ಲೆಡೆ ಹಲವು ಲಸಿಕೆಗಳಿಗೆ ಮಾನ್ಯತೆ ದೊರಕಿದೆ. ಆದಾಗ್ಯೂ, ಅವುಗಳು ಎಷ್ಟು ಸುರಕ್ಷಿತ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ, ಅಲ್ಲದೇ ರೂಪಾಂತರಣಗಳು ಹುಟ್ಟಿಕೊಂಡಿರುವ ಕಾರಣ ಭವಿಷ್ಯತ್ತಿನಲ್ಲಿ ಏನು ಕಾದಿದೆ ಎಂಬುದರ ಬಗೆಗೆ ಪ್ರಶ್ನೆಗಳು ಹುಟ್ಟಿವೆ. ಕೋವಿಡ್-19‌ ಲಸಿಕೆ ಕುರಿತಂತಹ ಹಿಂಜರಿಕೆಯನ್ನು ನಿವಾರಿಸಲು, ಈ ಲಸಿಕೆಯ ತಯಾರಿಕೆಯ ಹಿಂದೆ ಅಡಗಿರುವ ಪ್ರಕ್ರಿಯೆಗಳನ್ನು, ಭಾಷಣದ ಮೂಲಕ ಡಾ.ಕಾಂಗ್‌ ಅವರು ತಿಳಿಸಲಿದ್ದಾರೆ. ಲಸಿಕೆಯ ಕಾರ್ಯಪ್ರಣಾಲಿಕೆ, ಪರಿಮಿತಿಯ ಬಗ್ಗೆ ಹಾಗೂ ವರ್ತಮಾನದಲ್ಲಿ ನೆಡೆದಿರುವ ಜಾಗತಿಕ ಲಸಿಕಾ ಅಭಿಯಾನದಲ್ಲಿ ನಮ್ಮ ಪಾತ್ರವನ್ನು ವಿವರಿಸುತ್ತಾರೆ.
 link: https://www.eventbrite.com/e/145403685337
 expertname: ಗಗನದೀಪ್‌ ಕಾಂಗ್
 expertbio: ಗಗನದೀಪ್‌ ಕಾಂಗ್, ವೆಲ್ಲೋರ್‌ ಅಲ್ಲಿರುವ ಕ್ರಿಶ್ಚಿಯನ್‌ ವೈದ್ಯಕೀಯ ಕಾಲೇಜಿನ
@@ -29,22 +29,22 @@ expertbio: ಗಗನದೀಪ್‌ ಕಾಂಗ್, ವೆಲ್ಲೋರ್‌
 expertpic: /static/img/pl_gagandeep_portrait.png
 readinglist:
   - quadreadvis: /static/img/O_PL_QUA_READVIS_1.jpg
-    quadreadtxt: "Vaccination in India: A Historical Enquiry through Comics"
+    quadreadtxt: "ಭಾರತದಲ್ಲಿ ಲಸಿಕೆ ಅಭಿಯಾನ: ಹಾಸ್ಯದ ಮೂಲಕ ಐತಿಹಾಸಿಕ ವಿಮರ್ಶೆ"
     quadreadlink: https://drawinghistoryofscience.wordpress.com/2021/04/01/vaccination-in-india-a-historical-inquiry-through-comics/
   - quadreadvis: /static/img/O_PPL_QUA_READVIS_2.jpg
-    quadreadtxt: COVID-19 Vaccination Charts, Maps And Eligibility By Country
+    quadreadtxt: "ಕೋವಿಡ್-19‌ ಲಸಿಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ದೇಶದೆಲ್ಲೆಡೆಯ ಪಟ್ಟಿ, ನಕ್ಷೆ ಮತ್ತು ಅರ್ಹತೆ "
     quadreadlink: https://graphics.reuters.com/world-coronavirus-tracker-and-maps/vaccination-rollout-and-access/
   - quadreadvis: /static/img/O_PL_QUA_READVIS_3.jpg
     quadreadlink: https://openthemagazine.com/essay/vaccine-vexations/
-    quadreadtxt: "Vaccine Vexations "
+    quadreadtxt: ಲಸಿಕೆ ಸಂಕಟಗಳು
 listeninglist:
   - quadlistvis: /static/img/O_PL_QUA_LISTVIS_1.jpg
-    quadlisttxt: Getting A Coronavirus Reality Check
+    quadlisttxt: "ಕರೋನಾ ವೈರಾಣುವಿನ ನೈಜತೆಯ ಪರೀಕ್ಷೆ "
     quadlistlink: https://open.spotify.com/episode/7aKaGqjoLxjJpLQP5zpFD4
 watchinglist:
   - quadwatchvis: /static/img/O_PL_QUA_WATCHVIS_1.jpg
     quadwatchlink: https://www.youtube.com/watch?v=0sXjcKcBJc8
-    quadwatchtxt: Prof. Gagandeep Kang Talks About The Rotavirus Vaccine Story
+    quadwatchtxt: ಪ್ರೊಫೆಸರ್‌ ಗಗನ್‌ ದೀಪ್‌ ಕಾಂಗ್‌ ಅವರು ರೋಟಾ ವೈರಸ್‌ ಕಥನದ ಬಗೆಗೆ ಚರ್ಚಿಸುತ್ತಾರೆ
 eventlist:
   - quadeventtxt: ಪೂರ್ವ ದೇಶಗಳಲ್ಲಿ ಉತ್ಪಾದಿತ ಕೋವಿಡ್‌ ಲಸಿಕೆಗಳ ಬಗೆಗೆ ಹಿಂಜರಿಕೆ, ನೀವು
       ಅರಿಯಲು ಬಯಸಿದ್ದ ಎಲ್ಲಾ ಪ್ರಶ್ನೆಗಳಿಗೂ ಸೂಕ್ತ ಸಮಾಧಾನ | ಉಪನ್ಯಾಸ | ಅಚಲ ಪ್ರಭಾಲ
@@ -53,5 +53,5 @@ eventlist:
 relatedlist:
   - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/I_Exhibit_Thumbnail.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/indoor-safety-guidelines/
 ---
