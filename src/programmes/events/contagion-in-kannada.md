@@ -13,4 +13,5 @@ expertbio: Vishu Guttal is an Associate Professor at the Centre for Ecological
   Sciences, Indian Institute of Science, Bengaluru, India. Vishu is broadly
   interested in understanding the fundamental principles of self-organisation
   and stability in ecological systems.
+expertpic: /static/img/vg_kannada_portrait.png
 ---
