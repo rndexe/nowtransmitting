@@ -69,14 +69,14 @@ body, html{
     z-index:10000;
 }
 
-.languagebutton{
+/* .languagebutton{
     position: absolute;
     top:0;
     right:3%;
     padding:0.5rem 0.5rem 0.4rem 0.5rem;
     margin:1rem 1rem 1rem 1rem;
     z-index:10000;
-}
+} */
 
 .legend{
     visibility: hidden;
