@@ -53,4 +53,7 @@ relatedlist:
   - quadrelatedtxt: A Cluster of 17 Cases by Blast Theory
     quadrelatedlink: https://nowtransmitting.com/exhibits/cluster-17-cases/
     quadrelatedvis: /static/img/I_EXHIBIT_QUA_EXPVIS_2.jpg
+  - quadrelatedtxt: Contagion in the 21st Century by Esther-Maria Antao
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/O_Exhibit_Thumbnail.jpg
 ---

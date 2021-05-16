@@ -55,11 +55,11 @@ function createPopup(title,subtitle,thumbnail,url){
     text.appendChild(click);
 
     titleText.style = "color:#2d2d2d; z-index:100; overflow-wrap: break-word; font-size:20px; font-weight:bold;"
-    titleText.className = "w-full font-tunga"
+    titleText.className = "w-full font-baloo"
     titleText.innerText = title;
 
     subtitleText.style = "color:#2d2d2d; z-index:101; overflow-wrap: break-word;  font-size:15px;"
-    subtitleText.className = "w-full font-tunga"
+    subtitleText.className = "w-full font-baloo"
     subtitleText.innerText = subtitle;
 
     click.style = "color:#2d2d2d; font-size:30px; width:min-content; margin-left:auto; position:absolute; bottom:5px;; right:10px;"

@@ -2,13 +2,13 @@
 	<div class="float-left flex w-screen lg:w-5/12 lg:h-full pl-10 lg:pl-20 lg:pt-36">
 		<div class="flex flex-col h-2/3 w-full py-4">
 			<p class="w-auto font-bold text-white drop-shadow-md
-			  {{ "font-tunga text-4xl leading-normal" if kannada else "font-trade text-5xl" }}
+			  {{ "font-baloo text-4xl leading-normal" if kannada else "font-trade text-5xl" }}
 			">{{title}}</p>
 			<p class="w-auto text-white
-			  {{ "font-tunga text-xl" if kannada else "font-trade text-base" }}
+			  {{ "font-baloo text-xl" if kannada else "font-trade text-base" }}
 			">- {{expertname}}</p>
 			<p class="mb-2 mt-auto text-base w-auto text-white
-			  {{ "font-tunga" if kannada else "font-trade" }}
+			  {{ "font-baloo" if kannada else "font-trade" }}
 			">
 				<span class="font-bold">
 					{{ "ದಿನಾಂಕ :" if kannada else "Date :" }}
@@ -20,7 +20,7 @@
 					{% endif %}
 			</p>
 			<p class="mb-4 text-base w-auto font-trade text-white
-			  {{ "font-tunga" if kannada else "font-trade" }}
+			  {{ "font-baloo" if kannada else "font-trade" }}
 			">
 				<span class="font-bold">
 					{{ "ಸಮಯ :" if kannada else "Time :"}}
@@ -35,17 +35,17 @@
 			{% if link %}
 			<a href="{{link}}" target="_blank">
 				<button class="text-base py-2 px-12  text-white rounded-sm border border-solid border-white
-				  {{ "font-tunga" if kannada else "font-trade" }}
+				  {{ "font-baloo" if kannada else "font-trade" }}
 				">
-				ನೋಂದಾಯಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+				{{"ನೋಂದಾಯಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ" if kannada else "Click to Register"}}
 				</button>
 			</a>
 			{% elseif reclink %}
 				<a href="{{reclink}}" target="_blank">
 				<button class="text-base py-2 px-12 text-white rounded-sm border border-solid border-white
-				  {{ "font-tunga" if kannada else "font-trade" }}
+				  {{ "font-baloo" if kannada else "font-trade" }}
 				">
-				ಉಪನ್ಯಾಸ ತಪ್ಪಿದೆಯೇ? ಇಲ್ಲಿ ವೀಕ್ಷಿಸಿ
+				{{"ಉಪನ್ಯಾಸ ತಪ್ಪಿಸಿದ್ದೀರಾ? ಇಲ್ಲಿ ವೀಕ್ಷಿಸಿ" if kannada else "Missed the Lecture? Watch here"}}
 				</button>
 			</a>
 
@@ -54,9 +54,9 @@
 	</div>
 	<div id="scroll-arrow" class="hidden lg:flex lg:flex-none fixed top-10 right-10">
 		<span class="text-white m-1
-		{{ "font-tunga" if kannada else "font-trade"}}
+		{{ "font-baloo" if kannada else "font-trade"}}
 		" >
-			{{ "ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಸ್ಕ್ರಾಲ್‌ ಮಾಡಿ" if kannada else "Scroll to know more" }}
+			{{ "ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಟ್ರ್ಯಾಕ್ ಪ್ಯಾಡ್ ನ ಮೇಲೆ ಸ್ಕ್ರಾಲ್‌ ಮಾಡಿ (ಮೇಲೆ, ಕೆಳಗೆ)" if kannada else "Scroll to know more" }}
 		</span>
 		<!-- <svg  class="w-6 transform rotate-180" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path	d="M1.02698 11.9929L5.26242 16.2426L6.67902 14.8308L4.85766 13.0033L22.9731 13.0012L22.9728 11.0012L4.85309 11.0033L6.6886 9.17398L5.27677 7.75739L1.02698 11.9929Z" 

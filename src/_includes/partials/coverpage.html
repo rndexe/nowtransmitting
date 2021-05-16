@@ -2,23 +2,23 @@
 	<div class="float-left flex w-screen lg:w-1/3 lg:h-full pl-10 lg:pl-20 lg:pt-36">
 		<div class="w-full pt-24">
 			<p class="text-6xl w-auto font-bold text-white
-				  {{ "font-tunga" if kannada else "font-trade"}}
+				  {{ "font-baloo leading-tight" if kannada else "font-trade"}}
 			">
 				{{title}}
 			</p>
 			<p class="text-xl  w-auto lg:mt-5 font-normal text-trueGray-400
-				  {{ "font-tunga" if kannada else "font-trade"}}
+				  {{ "font-baloo" if kannada else "font-trade"}}
 			">
 				{{subtitle}}
 			</p>
 			<div class="w-3/5">
 				<p class="text-base  w-auto lg:mt-5 font-normal text-white
-				  {{ "font-tunga" if kannada else "font-trade"}}
+				  {{ "font-baloo" if kannada else "font-trade"}}
 				">
 				{{"ಮಾಧ್ಯಮ :" if kannada else "Medium"}}: {{medium}}
 				</p>
 				<p class="text-base  w-auto lg:mt-1.5 font-normal text-white
-				  {{ "font-tunga" if kannada else "font-tade"}}
+				  {{ "font-baloo" if kannada else "font-tade"}}
 				">
 				{{ "ವರ್ಷ" if kannada else "Year"}}: {{year}}
 				</p>
@@ -30,9 +30,9 @@
 	<div id="scroll-arrow" class="hidden lg:flex lg:flex-none fixed top-10 right-10">
 		
 		<span class="text-white m-1
-		{{ "font-tunga" if kannada else "font-trade"}}
+		{{ "font-baloo" if kannada else "font-trade"}}
 		" >
-			{{ "ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಸ್ಕ್ರಾಲ್‌ ಮಾಡಿ" if kannada else "Scroll to know more" }}
+			{{ "ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ಟ್ರ್ಯಾಕ್ ಪ್ಯಾಡ್ ನ ಮೇಲೆ ಸ್ಕ್ರಾಲ್‌ ಮಾಡಿ (ಮೇಲೆ, ಕೆಳಗೆ)" if kannada else "Scroll to know more" }}
 		</span>
 
 		<!-- <svg  class="w-6 transform rotate-180" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -58,7 +58,7 @@
 			</div>
 			<div class="mt-5">
 				<h3 class="text-base lg:mt-10 mb-0 font-bold text-white
-				{{ "font-tunga" if kannada else "font-trade"}}
+				{{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    <a target="_blank" href={{pritxt}}>
 				        {{ "ಪ್ರದರ್ಶಿಕೆಯನ್ನು ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್‌ ಮಾಡಿ" if kannada else "CLICK HERE TO EXPLORE THE EXHIBIT" }}
@@ -74,7 +74,7 @@
 				</div>
 				<div class="mt-5">
 					<h3 class="text-base lg:mt-10 mb-0 font-bold text-white
-					{{ "font-tunga" if kannada else "font-trade"}}
+					{{ "font-baloo" if kannada else "font-trade"}}
 					">
 					    <a href="{{exhibitvideos[0].privis}}" target="_blank"> 
 					        {{ "ಪ್ರದರ್ಶಿಕೆಯನ್ನು ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್‌ ಮಾಡಿ" if kannada else "CLICK HERE TO EXPLORE THE EXHIBIT" }}
@@ -82,7 +82,7 @@
 					</h3>
 					<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
 					<p class="text-sm w-auto text-trueGray-400
-					{{ "font-tunga" if kannada else "font-trade"}}
+					{{ "font-baloo" if kannada else "font-trade"}}
 					">
 					    {{exhibitvideos[0].pritxt}}
 					</p>
@@ -96,13 +96,13 @@
 			</div>
 			<div class="mt-5">
 				<h3 class="text-base lg:mt-10 mb-0 font-bold text-white
-				{{ "font-tunga" if kannada else "font-trade"}}
+				{{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    {{ "ವೀಡಿಯೋ ಪರಿಚಯ" if kannada else "ABOUT THE VIDEO" }}
 				</h3>
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
 				<p class="text-sm w-auto lg:w-192 text-trueGray-400
-				{{ "font-tunga" if kannada else "font-trade"}}
+				{{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    {{pritxt}}
 				</p>
@@ -112,13 +112,13 @@
 			<iframe class="w-full h-96" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121064086&color=%23363636&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 			<div class="mt-5">
 				<h3 class="text-base lg:mt-10 mb-0 font-bold text-white
-				{{ "font-tunga" if kannada else "font-trade"}}
+				{{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    {{ "" if kannada else "ABOUT THE AUDIO" }}
 				</h3>
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
 				<p class="text-sm w-auto lg:w-192 text-trueGray-400
-				{{ "font-tunga" if kannada else "font-trade"}}
+				{{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    {{priaudtxt}}
 				</p>
@@ -128,7 +128,7 @@
 			<video class="w-full shadow-2xl ml-20" controls autoplay><source src={{exhibitembed[0].privis}} type="video/mp4"></video>
 			<div class="mt-5 ml-20">
 				<h3 class="text-base lg:mt-10 mb-0 font-bold text-white
-				{{ "font-tunga" if kannada else "font-trade"}}
+				{{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    <a href={{exhibitembed[0].pritxt}} target="_blank">
 				        {{ "ಪ್ರದರ್ಶಿಕೆಯನ್ನು ನೋಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್‌ ಮಾಡಿ" if kannada else "CLICK HERE TO EXPLORE THE EXHIBIT" }}
@@ -144,13 +144,13 @@
 			</div>
 			<div class="mt-5">
 				<h3 class="text-base lg:mt-10 mb-0 font-bold text-white
-				  {{ "font-tunga" if kannada else "font-trade"}}
+				  {{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    {{ "ವೀಡಿಯೋ ಪರಿಚಯ" if kannada else "ABOUT THE VIDEO"}}
 				</h3>
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
 				<p class="text-sm w-auto text-trueGray-400
-				  {{ "font-tunga" if kannada else "font-trade"}}
+				  {{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    {{exhibitvideos[0].pritxt}}
 				</p>
@@ -160,13 +160,13 @@
 			<img class="w-auto lg:ml-20 h-2/3 shadow-2xl" src={{exhibitimages[0].privis}}  oncontextmenu="return false" ondragstart="return false">
 			<div class="mt-5 lg:ml-20">
 				<h3 class="text-base lg:mt-10 mb-0 font-bold text-white
-				  {{ "font-tunga" if kannada else "font-trade"}}
+				  {{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    {{ "" if kannada else "ABOUT THE IMAGE" }}
 				</h3>
 				<div class="mb-3 w-10 h-0 border border-solid border-red-650"></div>
 				<p class="text-sm w-full lg:w-192 text-trueGray-400
-				  {{ "font-tunga" if kannada else "font-trade"}}
+				  {{ "font-baloo" if kannada else "font-trade"}}
 				">
 				    {{exhibitimages[0].pritxt}}
 				</p>

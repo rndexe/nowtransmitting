@@ -40,4 +40,7 @@ watchinglist:
   - quadwatchvis: /static/img/s_pl_qua_watchvis_1.jpg
     quadwatchlink: https://www.youtube.com/watch?v=KAuwReLSRQg&t=17s
     quadwatchtxt: ಸಾರ್ಸ್‌ ಮತ್ತು ಮೆರ್ಸ್‌ ರೋಗಗಳು ಏಕೆ ಬಹು ಬೇಗ ಮರೆಯಾದವು ?
+relatedlist:
+  - quadrelatedtxt: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು | ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/cluster-17-cases/
 ---

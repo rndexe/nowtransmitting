@@ -119,7 +119,7 @@ permalink: kn/programmes/
                                 <div class="flex py-2 ">
     
                                     <div class="flex flex-grow items-end">
-                                        <p class="text-sm pl-36 font-tunga text-center w-full" style="color: #b9b9b9;">ದಿನದ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಆ ದಿನದ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ</p>
+                                        <p class="text-sm pl-36 font-baloo text-center w-full text-trueGray-750">ದಿನದ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಆ ದಿನದ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ</p>
                                     </div>
                                     <div class="flex flex-none w-42" style="padding-top: 2px;">
                                       <button 
@@ -156,7 +156,7 @@ permalink: kn/programmes/
                                             <div style="width: 14.26%" class="px-2 py-2">
                                                 <div
                                                     x-text="day" 
-                                                    class="text-black font-tunga text-sm uppercase font-bold text-center"></div>
+                                                    class="text-black font-baloo text-sm uppercase font-bold text-center"></div>
                                             </div>
                                         </template>
                                     </div>
@@ -174,10 +174,10 @@ permalink: kn/programmes/
                                             >
                                                 <div
                                                     x-text="date"
-                                                    class="flex w-6 mx-auto h-6 items-center hover-target font-tunga justify-center text-center leading-none rounded-full"
+                                                    class="flex w-6 mx-auto h-6 items-center hover-target font-baloo justify-center text-center leading-none rounded-full"
                                                 ></div>
                                                 <template x-if="shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() ).length != 0">
-                                                  <p class="hover-target-show font-tunga w-full text-center">ಎಲ್ಲ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ವೀಕ್ಷಿಸಿ</p>
+                                                  <p class="hover-target-show font-baloo w-full text-center">ಎಲ್ಲ  ಕಾರ್ಯಕ್ರಮಗಳು</p>
                                                 </template> 
                                                 <div class="h-10 overflow-y-hidden mt-px hover-target-hide">
                                                   <template x-for="event in shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() )">	
@@ -185,7 +185,7 @@ permalink: kn/programmes/
                                                             <p class="text-xs align-top"
                                                             :class="{'text-green-650': event.type.split(',')[0] == 'kn_event', 'text-red-650': event.type.split(',')[0] == 'kn_lecture', 'text-blue-pg': event.type.split(',')[0] == 'kn_workshop', 'text-yellow-650': event.type.split(',')[0] == 'kn_film screening'}"
                                                             style="width:10px; margin-right:5px;">&#9679;</p>
-                                                            <p x-html="event.time.substring(0,5) + ' ' +event.title" class="text-sm truncate font-tunga " style="vertical-align: text-bottom;"></p>
+                                                            <p x-html="event.time.substring(0,5) + ' ' +event.title" class="text-sm truncate font-baloo " style="vertical-align: text-bottom;"></p>
                                                       </div>
                                                     </template>
                                                 </div>
@@ -197,38 +197,38 @@ permalink: kn/programmes/
                         </div>
 
                         <div class="flex-grow items-center justify-content w-1/5 h-11/12 pl-10 pt-20 relative">
-                          <p class="font-baloo text-md">Select Event Type</p>
-                            
+                          <p class="font-baloo text-md">ಕಾರ್ಯಕ್ರಮವನ್ನು ಆಯ್ಕೆಮಾಡಿ
+                          </p>
                           <br>
                           <div class="radio-item-full">
                             <input x-on:change="tester()" type="radio" id="all" name="event" value="all" style="width:20px; height:20px;">
-                            <label for="all" class="font-tunga m-5 text-sm" >ಸಂಪೂರ್ಣ ವೇಳಾ ಪಟ್ಟಿ</label><br>
+                            <label for="all" class="font-baloo m-5 text-sm" >ಸಂಪೂರ್ಣ ವೇಳಾ ಪಟ್ಟಿ</label><br>
                           </div>
                           <div class="radio-item-lectures">
                             <input x-on:change="tester()" type="radio" id="lectures" name="event" value="Lectures" style="width:20px; height:20px; ">
-                            <label for="lectures" class="font-tunga m-5 text-sm">ಉಪನ್ಯಾಸಗಳು</label><br>
+                            <label for="lectures" class="font-baloo m-5 text-sm">ಉಪನ್ಯಾಸಗಳು</label><br>
                           </div>
                           <div class="radio-item-workshops">
                             <input x-on:change="tester()" type="radio" id="workshops" name="event" value="Workshops"  style="width:20px; height:20px;">
-                            <label for="workshops" class="font-tunga m-5 text-sm">ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು</label><br>
+                            <label for="workshops" class="font-baloo m-5 text-sm">ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು</label><br>
                           </div>
                           <div class="radio-item-events">
                             <input x-on:change="tester()" type="radio" id="events" name="event" value="Events"  style="width:20px; height:20px; ">
-                            <label for="events" class="font-tunga m-5 text-sm">ಕಾರ್ಯಕ್ರಮಗಳು</label><br>
+                            <label for="events" class="font-baloo m-5 text-sm">ಕಾರ್ಯಕ್ರಮಗಳು</label><br>
                           </div>
                           <div class="radio-item-filmscreening">
                             <input x-on:change="tester()" type="radio" id="filmscreening" name="event" value="Film Screening"  style="width:20px; height:20px; ">
-                            <label for="filmscreening" class="font-tunga m-5 text-sm">ಚಲನ ಚಿತ್ರ ಪ್ರದರ್ಶನ</label><br><br>
+                            <label for="filmscreening" class="font-baloo m-5 text-sm">ಚಲನ ಚಿತ್ರ ಪ್ರದರ್ಶನ</label><br><br>
                           </div>
                           
-                          <a class="h-10 text-xs font-tunga underline" target="_blank" href="https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile">ನಿರೂಪಕರೊಡಗೂಡಿದ ಸಂಚಿಕೆಗಳು</a><br>
-                          <a class="h-10 text-xs font-tunga  underline" target="_blank" href="https://vimeo.com/showcase/contagionfilmseries">ಚಲನಚಿತ್ರಗಳನ್ನು ವೀಕ್ಷಿಸಿ</a><br>
-                          <a class="h-10 text-xs font-tunga underline" target="_blank" href="https://www.youtube.com/channel/UC9uOydQRYCKArJVi0Kj6ALw">ಉಪನ್ಯಾಸ ತಪ್ಪಿದೆಯೇ? ಇಲ್ಲಿ ವೀಕ್ಷಿಸಿ</a>
+                          <a class="h-10 text-md font-baloo underline" target="_blank" href="https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile">ನಿರೂಪಕರೊಡಗೂಡಿದ ಸಂಚಿಕೆಗಳು</a><br>
+                          <a class="h-10 text-md font-baloo  underline" target="_blank" href="https://vimeo.com/showcase/contagionfilmseries">ಚಲನಚಿತ್ರಗಳನ್ನು ವೀಕ್ಷಿಸಿ</a><br>
+                          <a class="h-10 text-md font-baloo underline" target="_blank" href="https://www.youtube.com/channel/UC9uOydQRYCKArJVi0Kj6ALw">ಉಪನ್ಯಾಸ ತಪ್ಪಿದೆಯೇ? ಇಲ್ಲಿ ವೀಕ್ಷಿಸಿ</a>
 
                           <br><br>
                           <div class="fixed bottom-20 flex flex-col w-full h-auto pr-20 mr-48">
-                            <p class="text-sm font-bold font-tunga mb-1">ಕಾರ್ಯಕ್ರಮ ಸಹಭಾಗಿಗಳು</p>
-                            <p class="w-1/5 text-xs font-tunga break-words">ಡಿ.ಬಿ.ಟಿ / ವೆಲ್‌ಕಮ್‌ ಟ್ರಸ್ಟ್‌ ಇಂಡಿಯಾ ಅಲಯಂಸ್‌ | ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ವಿಜ್ಞಾನ ಅಕಾಡಮಿ | ʼಚೆನ್ನೈ ಫೋಟೋ ಬಿನಾಲೆ (ಸಿ.ಪಿ.ಬಿ) ಪ್ರತಿಷ್ಠಾನ | ಸಂಯುಕ್ತ ರಾಜ್ಯಗಳ ಕಂಸಲೇಟ್‌ ಜೆನರಲ್‌, ಚೆನ್ನೈ | ಡಾ. ಜೆನ್ನರ್'ಸ್ ಹೌಸ್</p>
+                            <p class="text-base font-bold font-baloo mb-1">ಕಾರ್ಯಕ್ರಮ ಸಹಭಾಗಿಗಳು</p>
+                            <p class="w-1/5 text-sm font-baloo break-words">ಡಿ.ಬಿ.ಟಿ / ವೆಲ್‌ಕಮ್‌ ಟ್ರಸ್ಟ್‌ ಇಂಡಿಯಾ ಅಲಯಂಸ್‌ | ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ವಿಜ್ಞಾನ ಅಕಾಡಮಿ | ಚೆನ್ನೈ ಫೋಟೋ ಬಿನಾಲೆ (ಸಿ.ಪಿ.ಬಿ) ಪ್ರತಿಷ್ಠಾನ | ಸಂಯುಕ್ತ ರಾಜ್ಯಗಳ ಕಂಸಲೇಟ್‌ ಜೆನರಲ್‌, ಚೆನ್ನೈ | ಡಾ. ಜೆನ್ನರ್'ಸ್ ಹೌಸ್</p>
                           </div>
                         </div>
                 
@@ -261,7 +261,7 @@ permalink: kn/programmes/
                 
                     <script>
                         const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-                        const DAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+                        const DAYS = ['ಭಾನು', 'ಸೋಮ', 'ಮಂಗಳ', 'ಬುಧ', 'ಗುರು', 'ಶುಕ್ರ', 'ಶನಿ'];
                         document.getElementById("all").checked = 'true';                        
 
                         function app(json) {
@@ -385,7 +385,7 @@ permalink: kn/programmes/
                                       ul.innerHTML = ""
                                       for(const i in arr){
                                         const li = document.createElement("li")
-                                        li.className = "font-tunga text-md"
+                                        li.className = "font-baloo text-md"
                                         //<p class="text-xs"
                                         //:class="{'text-green-600': event.type.split(',')[0] == 'event', 'text-red-600': event.type.split(',')[0] == 'lecture', 'text-blue-600': event.type.split(',')[0] == 'workshop', 'text-yellow-600': event.type.split(',')[0] == 'filmscreening'}"
                                         //style="width:10px; margin-right:5px;">&#9679;</p>
