@@ -1,6 +1,5 @@
 ---
-title: "ಪ್ರಭೇದಗಳ ನಡುವೆ ವ್ಯಾಪನಗಳು: ಪ್ರಾಣಿ-ಪಕ್ಷಿ ಮೂಲದಿಂದ ಹರಡುವ ರೋಗಗಳ ಪರಿಸರಗಳು
-  ಮತ್ತು ಅವುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಜಾಗತಿಕ ಇತಿಹಾಸ"
+title: ಪ್ರಭೇದಗಳ ನಡುವೆ ವ್ಯಾಪನಗಳು
 permalink: kn/programmes/lectures/contagion-across-species/
 cata: transmission
 catb: narrating
