@@ -1,5 +1,6 @@
 ---
 title: "CONTAGION in Kannada "
+permalink: programmes/events/kannada-website-launch/
 thumb: /static/img/ev_contagion-in-kannada_thumbnail.png
 cover: /static/img/ev_contagion-in-kannada_coverimage.png
 date: 2021-05-17T10:30:00.000Z
