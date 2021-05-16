@@ -57,8 +57,7 @@ eventlist:
     quadeventtxt: ಪ್ಲೇಗ್‌ ಮತ್ತು ರೋಗ ಪಿಡುಗಿನ ಛಾಯಾಗ್ರಹಣದ ಉದ್ಭವ | ಉಪನ್ಯಾಸ | ಕ್ರಿಸ್ಟೋಸ್‌
       ಲಿಂಟೆರಿಸ್‌
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
-  - quadeventtxt: "ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಯುಗ, 1817-1920: ವಿಶ್ವ ಮತ್ತು ಭಾರತವನ್ನು
-      ರೂಪಿಸಲು ಹೇಗೆ ಕಾರಣವಾಗಿವೆ? | ಉಪನ್ಯಾಸ | ಚಿನ್ಮಯ್‌ ತುಂಬೆ"
+  - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪಿಡುಗುಗಳ ಯುಗ, 1817-1920 | ಉಪನ್ಯಾಸ | ಚಿನ್ಮಯ್‌ ತುಂಬೆ
     quadeventlink: http://bit.ly/lecture-tumbe
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
