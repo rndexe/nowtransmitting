@@ -1,5 +1,5 @@
 ---
-promptd: Isolation
+promptd: ಬಂಧನ
 kannada: true
 layout: rooms/throughyoureyes
 title: ನಿಮ್ಮ ದೃಷ್ಟಿಯಲ್ಲಿ
@@ -10,140 +10,143 @@ description: >-
 
   ನಮ್ಮೊಂದಿಗೆ ಹಂಚಿಕೊಂಡಿರುವ ಈ ಛಾಯಾ ಚಿತ್ರಗಳನ್ನು ನೋಡಿ, ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವನ್ನು ತಿಳಿಸಿ.
 icon: /static/img/through-your-eyes.svg
-prompta: Behind the Mask
-promptb: Bubble
-promptc: Home
+prompta: ಗೌಸಿನ ಹಿಂದೆ
+promptb: ಬುದ್ಬುದ
+promptc: ಗೃಹ
 promptAlist:
   - coverimage: /static/img/tye_4_loganathan_mask_a.jpg
-    name: Sri Loganathan Velmurugan
+    name: ಶ್ರೀ ಲೋಗನಾಥನ್‌ ವೇಲು ಮುರುಗನ್‌
     bio: ಶ್ರೀ ಲೋಗನಾಥನ್‌, ಮದ್ರಾಸಿನ ಕ್ರಿಶ್ಚಿಯನ್‌ ಕಾಲೇಜಿನಿಂದ ಪತ್ರಿಕೋದ್ಯಮದಲ್ಲಿ ಪದವಿ
-      ಪಡೆದಿದ್ದಾರೆ.  ಇವರು ತಮ್ಮ 14 ನೇ ವರ್ಷದಿಂದಲೂ, ಪತ್ರಿಕಾ ಛಾಯಾಗ್ರಹಣದಲ್ಲಿ ಆಸಕ್ತಿ
-      ಹೊಂದಿದ್ದಾರೆ.  ಸ್ವ-ಪರಿಚಯ ನೀಡುವಂತಹ, ವಿಶೇಷ ರೀತಿಯ  ಛಾಯಾಚಿತ್ರಗಳನ್ನು ತೆಗೆಯುವಲ್ಲಿ
+      ಪಡೆದಿದ್ದಾರೆ. ಇವರು ತಮ್ಮ 14 ನೇ ವರ್ಷದಿಂದಲೂ, ಪತ್ರಿಕಾ ಛಾಯಾಗ್ರಹಣದಲ್ಲಿ ಆಸಕ್ತಿ
+      ಹೊಂದಿದ್ದಾರೆ. ಸ್ವ-ಪರಿಚಯ ನೀಡುವಂತಹ, ವಿಶೇಷ ರೀತಿಯ  ಛಾಯಾಚಿತ್ರಗಳನ್ನು ತೆಗೆಯುವಲ್ಲಿ
       ನಿರತರಾಗಿದ್ದು, ಪತ್ರಿಕಾ ಛಾಯಾಗ್ರಾಹಕರಾಗುವ ಅಭಿಲಾಷೆ ಹೊಂದಿದ್ದಾರೆ.
-    caption: An old man is seen showing his token to collect wine bottles from Tamil
-      Nadu State Marketing Corporation (TASMAC) during lockdown.
+    caption: "ಲಾಕ್‌ ಡೌನ್‌ ಸಮಯದಲ್ಲಿ, ತಮಿಳು ನಾಡು ರಾಜ್ಯ ವ್ಯಾಪಾರ ನಿಗಮದಿಂದ
+      (ಟಿ.ಎ.ಎಸ್.ಎಂ.ಏ.ಸಿ), ಸಾರಾಯಿ ಬಾಟಲಿಗಳನ್ನು ಕೊಂಡುಕೊಳ್ಳಲು ಟೋಕನ್‌ ತೋರಿಸುತ್ತಿರುವ
+      ವಯಸ್ಕರು. "
   - coverimage: /static/img/tye_4_loganathan_mask_c.jpg
-    caption: Masks have become one of the most important things in our lives. A lot
-      of people still hesitate to wear masks, as shown in this photograph of a
-      fisherman removing his mask.
+    caption: ಮುಖ ಗೌಸುಗಳು ನಮ್ಮ ಜೀವನದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿವೆ. ಬಹಳಷ್ಟು ಮಂದಿ ಇನ್ನೂ ಮಾಸ್ಕ್‌
+      ಧರಿಸಲು ಹಿಂಜರಿಯುತ್ತಾರೆ. ಮುಖ ಗೌಸನ್ನು ತೆಗೆಯುತ್ತಿರುವ ಬೆಸ್ತರ ಛಾಯಾಚಿತ್ರ ಇಲ್ಲಿದೆ.
   - coverimage: /static/img/tye_8_achyut_mask_a.jpg
-    name: Achyut Rokkam
-    bio: Achyut Rokkam is pursuing his Bachelor’s in Computer Science at Ashoka
-      University, Sonipat.
-    caption: Seems like childhood is no longer the same. I can’t imagine a childhood
-      with no school, no summer vacations; having to stay indoors and attend
-      classes online all the time. This photograph seemed to capture all the
-      frustrations and irritation I would feel if I were a young kid during this
-      time.
+    name: ಅಚ್ಯುತ್‌ ರೊಕ್ಕಮ್‌
+    bio: ಅಚ್ಯುತ್‌ ರೊಕ್ಕಮ್‌ ಸೊನಿಪಥ್‌ ನ ಅಶೋಕ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಕಂಪ್ಯೂಟರ್‌ ವಿಜ್ಞಾನದ
+      ಸ್ನಾತಕ ವ್ಯಾಸಂಗ ನೆಡೆಸಿದ್ದಾರೆ.
+    caption: ಬಾಲ್ಯವು ಮೊದಲಿನಂತೆ ಉಳಿದಿಲ್ಲ, ಶಾಲೆಗಳು ತೆರೆದಿಲ್ಲ, ಬೇಸಿಗೆ ರಜೆ ಇಲ್ಲ,
+      ಮನೆಯೊಳಗೇ ಇರಬೇಕು, ಯಾವಾಗಲೂ ಆನ್ಲೈನ್‌ ಕ್ಲಾಸ್‌ಗಳಲ್ಲಿ ಮುಳುಗಿರ ಬೇಕು ಇಂತಹ ಬಾಲ್ಯದ
+      ಕಲ್ಪನೆಯೂ ಇರಲಿಲ್ಲ. ಬಹುಶಃ ಈ ಸಮಯದಲ್ಲಿ ನಾನು ನನ್ನ ಬಾಲ್ಯದಲ್ಲಿ ಇದ್ದಿದ್ದರೆ, ನನ್ನ
+      ಮನಸ್ಸಿನ ಹತಾಶೆ, ಚಿಟ್ಟು ಎಲ್ಲವೂ ಈ ಛಾಯಾಚಿತ್ರದಲ್ಲಿ ಕಾಣ ಬರುತ್ತಿದೆ ಎಂಬುದು ನನ್ನ
+      ಭಾವನೆ.
   - coverimage: /static/img/tye_14_syona_mask_a.jpg
-    caption: I took this photograph at home using the self timer, a tripod and a
-      study lamp as the light source. I used newspapers as a backdrop to
-      represent the headlines we're being bombarded with lately. The mask on the
-      eyes is to draw attention to how we've physically and mentally withdrawn
-      ourselves from each other during the pandemic.
-    name: "Syona Thomas "
-    bio: Syona is pursuing her Master's in Botany at St. Joseph's College,
-      Bengaluru. Apart from being a full-time student, she loves taking
-      photographs, playing the guitar and watching the stars.
+    caption: ನಾನು ಸೆಲ್ಫ್‌ ಟೈಮರ್‌, ಟ್ರೈಪಾಡ್‌ ಮತ್ತು ಸ್ಟಡಿ ಲ್ಯಾಂಪ್‌ ಬಳಸಿ ಈ
+      ಛಾಯಾಚಿತ್ರವನ್ನು ತೆಗೆದಿದ್ದೇನೆ. ದಿನವೂ ದಾಳಿ ಮಾಡುತ್ತಿರುವ ಹಲವು ವಾರ್ತಾ
+      ಶೀರ್ಷಿಕೆಗಳನ್ನು ಬಿಂಬಿಸಲು ಹಲವು ಪತ್ರಿಕೆಗಳನ್ನು ಹಿಂಬದಿಯಲ್ಲಿ ಜೋಡಿಸಿದ್ದೇನೆ.
+      ಕಣ್ಣನ್ನು ಮುಚ್ಚಿರುವ ಗೌಸು, ಪ್ರಸಕ್ತ ಪಿಡುಗಿನ ವೇಳೆಯಲ್ಲಿ ಭೌತಿಕವಾಗಿ ಮಾನಸಿಕವಾಗಿ
+      ಹೇಗೆ ಒಬ್ಬರಿಂದ ಒಬ್ಬರು ದೂರ ಸರಿದಿದ್ದೇವೆ ಎಂಬುದರ ಸಂಕೇತವಾಗಿದೆ.
+    name: ಸ್ಯೋನಾ ಥಾಮಸ್‌
+    bio: ಸ್ಯೋನಾ ಅವರು, ಬೆಂಗಳೂರಿನ ಸೇಂಟ್. ಜೋಸೆಫ್‌ʼಸ್‌ ಕಾಲೇಜಿನಲ್ಲಿ, ಸಸ್ಯಶಾಸ್ತ್ರ
+      ವಿಷಯದಲ್ಲಿ ಸ್ನಾತಕೋತ್ತರ ವ್ಯಾಸಂಗ ಮಾಡುತ್ತಿದ್ದಾರೆ. ಇವರು ಪೂರ್ಣಕಾಲಿಕ
+      ವಿದ್ಯಾರ್ಥಿನಿಯಾಗಿರುವುದರ ಜೊತೆಗೆ, ಛಾಯಾಗ್ರಹಣ, ಗಿಟಾರ್‌ ವಾದನ ಮತ್ತು ನಕ್ಷತ್ರ
+      ವೀಕ್ಷಣೆಯಲ್ಲಿ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ. ಈ ಜಗತ್ತಿನ ಹುಟ್ಟು ಮತ್ತು ಉದ್ದೇಶ್ಯವೂ ಇವರನ್ನು
+      ಕಾಡುತ್ತದೆ.
 promptBlist:
   - coverimage: /static/img/tye_3_aakanksha_bubble_a.jpg
-    caption: Like a thin membrane holding a drop of water in a dewdrop, our lives
-      are nothing but a bubble. We all have our set of issues, but the beauty
-      lies in how we play with the bubble; how we face the turbulence. Through
-      every walk of life, we learn a lesson of maturity and discipline. It all
-      depends on us, whether we choose to place a bubble of happiness in one’s
-      life or be the pin that bursts another being’s bubble!
-    name: Aakanksha Sunil
-    bio: Aakanksha Sunil is a sophomore who believes that the little things matter
-      the most.
+    caption: ನೀರ್ಗುಳ್ಳೆಯಲ್ಲಿ ಹಿಡಿದಿಟ್ಟಿರುವ ನೀರಿನ ಹನಿಯಂತೆ, ನಮ್ಮ ಜೀವನವೂ ಕಾಣುತ್ತಿದೆ.
+      ಎಲ್ಲರಿಗೂ ತಮ್ಮದೇ ರೀತಿ ನೀತಿಗಳು ಇರುತ್ತವೆ. ನಾವು ಈ ಬುದ್ಬುದವನ್ನು ಹೇಗೆ
+      ನೆಡೆಸಿಕೊಳ್ಳುತ್ತೇವೆ, ಹೊರಗಿನ ಕೋಲಾಹಲವನ್ನು ಹೇಗೆ ನಿಭಾಯಿಸುತ್ತೇವೆ ಎಂಬುದು ಮುಖ್ಯ.
+      ಜೀವನದ ಪ್ರತಿಯೊಂದು ಹಂತದಲ್ಲೂ ಶಿಸ್ತು ಸಂಯಮದ ಪಾಠ ಕಲಿಯುತ್ತೇವೆ. ಎಲ್ಲರ ಬಾಳಿನಲ್ಲಿ
+      ನಗುವನ್ನು ತರುವೆವೂ ಅಥವಾ ಮತ್ತೊಬ್ಬರ ಜೀವನದ ನೀರ್ಗುಳ್ಳೆಯನ್ನು ಚುಚ್ಚಿ ಹಾನಿ
+      ಮಾಡುವೆವೋ, ನಮ್ಮಗೆ ಬಿಟ್ಟಿರುವ ಆಯ್ಕೆ.
+    name: ಆಕಾಂಕ್ಷ ಸುನಿಲ್‌
+    bio: ಆಕಾಂಕ್ಷ ಸುನಿಲ್‌ ಕಾಲೇಜು ವಿದ್ಯಾಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದಾರೆ. ʼಚಿಕ್ಕ ವಿಷಯಗಳೂ ಬಹಳ
+      ಮುಖ್ಯʼ ಎಂದು ನಂಬಿದ್ದಾರೆ.
   - coverimage: /static/img/tye_4_kiranmayi.jpg
-    bio: Kiranmayi V is a freelance photographer based in Tamil Nadu. For Kiranmayi,
-      photography is all about people, places and perspectives.
-    name: Kiranmayi V
-    caption: This is a photograph from a maternity photoshoot that I did for my
-      sister. When I read the prompt ‘Bubble’, this photograph suddenly came to
-      my mind. This was the bubble where she kept my nephew safe and sound
-      through a deadly pandemic.
+    bio: ಕಿರಣ್ಮಯಿ ವಿ ತಮಿಳುನಾಡಿನಲ್ಲಿ ನೆಲೆಸಿರುವ ಸ್ವತಂತ್ರ ಛಾಯಾಗ್ರಾಹಕರು. ಜನರು, ಜಾಗಗಳು
+      ಮತ್ತು ಕೋನಗಳ ಹೊಂದಾಣಿಕೆಯೇ ಇವರ ಛಾಯಾಗ್ರಹಣದ ಮುಖ್ಯ ವಿಷಯ-ವಸ್ತು.
+    name: ಕಿರಣ್ಮಯಿ ವಿ
+    caption: ನನ್ನ ಸೋದರಿಗಾಗಿ ನಾನು ತೆಗೆದ ಪ್ರಸವ-ಪೂರ್ವ ಛಾಯಾಗ್ರಹಣದ ಒಂದು
+      ಛಾಯಾಚಿತ್ರ.ಇಲ್ಲಿದೆ. ‘ಬಬಲ್‌’ ಎಂಬ ಸುಳುಹನ್ನು ಓದಿದಾಗ ನನ್ನ ಮನಸ್ಸಿಗೆ ಹೊಳೆದದ್ದು
+      ಇದು. ನನ್ನ ಸೋದರಿಯು, ತನ್ನ ಕೂಸನ್ನು ಮಾರಕ ರೋಗ ಪಿಡುಗಿನಿಂದ ಸುರಕ್ಷಿತವಾಗಿ ಇರಿಸಿರುವ
+      ಗರ್ಭ ರೂಪದ ‘ಬಬಲ್‌’.
 promptClist:
   - coverimage: /static/img/9_kamesh_home_a.jpg
-    bio: Kamesh Bharadwaj is a documentary photographer and film-maker based in
-      Bangalore. His interests lie primarily in stories related to the
-      environment, culture, and its various intersections in Indian society.
-      Through his photographs, he hopes to engage in conversations around
-      climate change, action, and justice; and document its immediate and
-      indirect effects in the Global South.
-    name: Kamesh Bharadwaj
-    caption: "Like many of us in 2020 I, too, was fascinated by the concept of home.
-      What is it about these boxes we build and shut ourselves in that are so
-      dear to us? For this series, I photograph my apartment, other apartments,
-      and their extended spaces. Objects, characters, and ideas ooze into these
-      shared spaces and take a life of their own. Through these photographs, I
-      hope to ask: can we take better care of ourselves, our surroundings and
-      even our planet, if we rethink the meaning of home?"
+    bio: ಕಾಮೇಶ್‌ ಭರದ್ವಾಜ್‌ ಬೆಂಗಳೂರಿನಲ್ಲಿ ನೆಲೆಸಿರುವ ಸಾಕ್ಷ್ಯಚಿತ್ರ ಛಾಯಾಗ್ರಾಹಕರು ಮತ್ತು
+      ಚಲನಚಿತ್ರಗಾರರು. ಪರಿಸರ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಭಾರತೀಯ ಸಮಾಜದೊಂದಿಗೆ ಬೆಸೆದು ಕೊಂಡಿರುವ
+      ಕಥೆಗಳಲ್ಲಿ ಇವರಿಗೆ ವಿಶೇಷ ಆಸಕ್ತಿ ಇದೆ. ಇವರು ತಮ್ಮ ಛಾಯಾಗ್ರಹಣದ ಮೂಲಕ, ಹವಾಮಾನ
+      ಬದಲಾವಣೆಗಳು, ಕಾರ್ಯಯೋಜನೆಗಳು ಮತ್ತು ನ್ಯಾಯ ಸಂಬಂಧಿತ ಚರ್ಚೆಗಳಲ್ಲಿ ಆಸಕ್ತಿ
+      ವಹಿಸುತ್ತಾರೆ. ಜಾಗತಿಕ ದಕ್ಷಿಣದ ಮೇಲೆ ಇವುಗಳ ಪ್ರತ್ಯಕ್ಷ ಹಾಗೂ ಪರೋಕ್ಷ ಪರಿಣಾಮಗಳನ್ನು
+      ದಾಖಲಿಸುವ ಕಾರ್ಯದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ.
+    name: ಕಾಮೇಶ್‌ ಭರದ್ವಾಜ್‌
+    caption: "2020 ರಲ್ಲಿ, ಬಹಳಷ್ಟು ಜನರಂತೆ, ಮನೆಯ ಕಲ್ಪನೆಯು ನನಗೆ ಇಷ್ಟವಾದ ವಿಷಯ. ನಮಗೆಂದು
+      ಕಟ್ಟಿಕೊಳ್ಳುವ ಮನೆಗಳೆಂಬ ಈ ಡಬ್ಬಿಗಳು ನಮಗೆ ಎಷ್ಟು ಪ್ರಿಯ? ಈ ಸಂಚಿಕೆಗಾಗಿ, ನಾನು ನನ್ನ
+      ಅಪಾರ್ಟ್ಮೆಂಟ್‌ ಮನೆ, ಅಕ್ಕ-ಪಕ್ಕದ ಮನೆಗಳು, ಸುತ್ತಲಿನ ಜಾಗ ಎಲ್ಲದರ ಫೋಟೋ
+      ತೆಗೆದಿದ್ದೇನೆ. ಇಲ್ಲಿರುವ ಪ್ರತಿಯೊಂದು ವಸ್ತು ಮತ್ತು ಚಿಂತನೆಯು, ತನ್ನದೇ ರೂಪದಲ್ಲಿ
+      ಜೀವ ತಾಳುತ್ತದೆ. ಈ ಛಾಯಾಚತ್ರಗಳ ಮೂಖೇಣ ಪ್ರಶ್ನಿಸ ಬೇಕು ಅನಿಸುತ್ತದೆ: ಮನೆಯನ್ನು
+      ಕಲ್ಪಿಸಿಕೊಂಡರೆ, ನಮ್ಮನ್ನು, ನಮ್ಮ ಸುತ್ತಲಿನ ಪರಿಸರವನ್ನು ಹಾಗೂ ನಮ್ಮ ಭೂಮಂಡಲವನ್ನು
+      ಹೆಚ್ಚಿನ ಒಲವಿನಿಂದ ನೋಡಿಕೊಳ್ಳುವುದು ಸಾಧ್ಯವೇ? "
   - coverimage: /static/img/9_kamesh_home_b.jpg
   - coverimage: /static/img/9_kamesh_home_c.jpg
   - coverimage: /static/img/tye_1_agroneel_home_d.jpg
-    bio: Agroneel Mandal is pursuing his Bachelor’s in History at the University
-      Rajasthan College Jaipur, Rajasthan. He believes that photography is the
-      best way of documenting events as they occur.
-    name: Agroneel Mandal
-    caption: The home is like the womb of our mothers, where we find peace and
-      safety. As the children look into the darkness, they immerse themselves
-      into finding that unknown while the mother awaits her lap to be occupied
-      by her children, as her children find the home. This photograph was taken
-      in Burdwan, West Bengal. It depicts the ruins of an ancient terracotta
-      temple. The children in the photograph are looking at the ruins out of
-      curiosity.
+    bio: ಅಗ್ರೋನೀಲ್‌ ಮಂಡಲ್‌, ರಾಜಸ್ಥಾನದ ಜೈಪುರದಲ್ಲಿರುವ ಯೂನಿವರ್ಸಿಟಿ ರಾಜಸ್ಥಾನ್‌
+      ಕಾಲೇಜಿನಲ್ಲಿ ಇತಿಹಾಸದ ಸ್ನಾತಕ ವ್ಯಾಸಂಗ ಮಾಡುತ್ತಿದ್ದಾರೆ. ʼಘಟನೆಗಳು
+      ಸಂಭವಿಸಿದಂತೆಲ್ಲಾ ಅವುಗಳನ್ನು ದಾಖಲಿಸುವ ಅತ್ಯುತ್ತಮ ವಿಧಾನ ಛಾಯಾಗ್ರಹಣʼ ಎಂಬುದು ಇವರ
+      ಭಾವನೆ.
+    name: ಅಗ್ರೋನೀಲ್‌ ಮಂಡಲ್‌
+    caption: ಮನೆಯು ತಾಯಿಯ ಗರ್ಭದಂತೆ, ಸುಭದ್ರವಾದ ಸಮಾಧಾನದ ತಾಣ. ಮಕ್ಕಳು ಕತ್ತಲನ್ನು ನೋಡುತ್ತ,
+      ತಮಗೆ ಅರಿವಿಲ್ಲದ ವಿಶ್ವದಲ್ಲಿ ಲೀನರಾಗುತ್ತಾರೆ, ಆದರೆ ತಾಯಿಯು ತನ್ನ ಮಡಿಲನ್ನು ಒಡ್ಡಿ
+      ಮಕ್ಕಳು ಮನೆಗೆ ಹಿಂದಿರುಗುವುದನ್ನೇ ಕಾಯುತ್ತಿರುತ್ತಾಳೆ. ಪಶ್ಚಿಮ ಬಂಗಾಳದ
+      ಬುರ್ದ್ವಾನ್‌ನಲ್ಲಿ ಇರುವ ಪುರಾತನ ಮಣ್ಣಿನ ಗುಡಿಯ ಪಳೆಯುಳಿಕೆಯನ್ನು ಮಕ್ಕಳು ಕುತೂಹಲದಿಂದ
+      ನೋಡುತ್ತಿರುವ ದೃಶವನ್ನು, ಈ ಛಾಯಾಚಿತ್ರದಲ್ಲಿ ಸೆರೆ ಹಿಡಿಯಲಾಗಿದೆ.
   - coverimage: /static/img/tye_2_jolly_home_b.jpg
-    caption: 2020 instilled new habits and changed concepts of isolation and self
-      reliance. With one parent submerged in healthcare duties, the other parent
-      joined them for complete support and both lived away for most of the year.
-      This left me to take care of a younger sibling and a house with four cats!
-      We’d only meet each other on weekends and rest of the time, it was
-      appreciating forgotten habits like waking up to birds, sunrises, and sun
-      bathing with the cats.
-    name: "Jolly Saikia "
-    bio: Jolly Saikia is a storyteller by energy and a queer feminist by identity.
+    caption: ವರ್ಷ 2020 ರಲ್ಲಿ, ಪ್ರತ್ಯೇಕತೆ ಮತ್ತು ಸ್ವಾವಲಂಬನೆಯ ಹೊಸ ಅಭ್ಯಾಸಗಳು ರೂಢಿಯಾಯಿತು.
+      ಪೋಷಕರಲ್ಲಿ ಒಬ್ಬರು ಆರೋಗ್ಯ ಕ್ಷೇತ್ರದ ಸೇವೆಯಲ್ಲಿರುವುದರಿಂದ, ಅವರ ಆರೈಕೆ ಮತ್ತು
+      ಸಹಾಯಕ್ಕೆ ಮತ್ತೊಬ್ಬ ಪೋಷಕರೂ ಜೊತೆ ಸೇರಬೇಕಾಯಿತು, ಒಟ್ಟಾರೆ ತಂದೆ ತಾಯಿ ಇಬ್ಬರೂ ವರ್ಷದ
+      ಬಹುಕಾಲ ಮನೆಯಿಂದ ಹೊರಗೇ ಇರಬೇಕಾದ ಪರಿಸ್ಥಿತಿ ಒದಗಿತು, ಹಾಗಾಗಿ ನನಗಿಂತ ಚಿಕ್ಕವನಾದ
+      ಸೋದರ ಮತ್ತು ನಾಲ್ಕು ಬೆಕ್ಕುಗಳನ್ನು ಸಾಕುವ ಹೊಣೆಗಾರಿಕೆ ನನ್ನ ಪಾಲಿಗೆ ಬಿದ್ದಿತು. ವಾರದ
+      ಅಂತ್ಯದಲ್ಲಿ ಮಾತ್ರ ಎಲ್ಲರೂ ಒಗ್ಗೂಡುವಂತಾಗಿದೆ. ಅಭ್ಯಾಸ ತಪ್ಪಿ ಹೋಗಿದ್ದ ಹಲವು
+      ಹವ್ಯಾಸಗಳು, ಮುಂಜಾವಿನ ಹಕ್ಕಿಗಳ ಕಲರವಕ್ಕೆ ಕಣ್ತೆರೆಯುವುದು, ಸೂರ್ಯೋದಯವನ್ನು
+      ಆಸ್ವಾದಿಸುವುದು, ಬಿಸಿಲಿನಲ್ಲಿ ಬೆಕ್ಕುಗಳೊಡನೆ ಒಡನಾಡುವುದು, ಎಲ್ಲವೂ ಈಗ ಖುಷಿ
+      ನೀಡುತ್ತಿವೆ
+    name: ಜೋಲಿ ಸೈಕಿಯಾ
+    bio: ಜೋಲಿ ಸೈಕಿಯಾ ಕಥೆಗಾರರು ಮತ್ತು ಸ್ತ್ರೀ ಸ್ವಾತಂತ್ರ್ಯ ವಾದಿಗಳು
 promptDlist:
   - coverimage: /static/img/tye_4_loganathan_iso_b.jpg
-    caption: People are seen standing in a queue to collect their tokens to buy
-      liquor from Tamil Nadu State Marketing Corporation (TASMAC) during
-      lockdown.
-    name: Sri Loganathan Velmurugan
-    bio: Sri Loganathan Velmurugan is pursuing his Bachelor's in Journalism at
-      Madras Christian College. He is also a founding member of Photo Meet
-      Chennai, a Tamil Nadu-based photo community that conducts photo walks and
-      various photography-related activities in Tamilnadu.
+    caption: "ಲಾಕ್‌ ಡೌನ್‌ ಸಮಯದಲ್ಲಿ, ತಮಿಳು ನಾಡು ರಾಜ್ಯ ವ್ಯಾಪಾರ ನಿಗಮದಿಂದ
+      (ಟಿ.ಎ.ಎಸ್.ಎಂ.ಏ.ಸಿ), ಸಾರಾಯಿ ಬಾಟಲಿಗಳನ್ನು ಕೊಂಡುಕೊಳ್ಳಲು ಟೋಕನ್‌ಗಾಗಿ ಸರತಿ
+      ಸಾಲಿನಲ್ಲಿ ನಿಂತಿರುವ ಜನರು. "
+    name: ಶ್ರೀ ಲೋಗನಾಥನ್‌ ವೇಲು ಮುರುಗನ್‌
+    bio: ಶ್ರೀ ಲೋಗನಾಥನ್‌, ಮದ್ರಾಸಿನ ಕ್ರಿಶ್ಚಿಯನ್‌ ಕಾಲೇಜಿನಿಂದ ಪತ್ರಿಕೋದ್ಯಮದಲ್ಲಿ ಪದವಿ
+      ಪಡೆದಿದ್ದಾರೆ. ಇವರು ತಮ್ಮ 14 ನೇ ವರ್ಷದಿಂದಲೂ, ಪತ್ರಿಕಾ ಛಾಯಾಗ್ರಹಣದಲ್ಲಿ ಆಸಕ್ತಿ
+      ಹೊಂದಿದ್ದಾರೆ. ಸ್ವ-ಪರಿಚಯ ನೀಡುವಂತಹ, ವಿಶೇಷ ರೀತಿಯ  ಛಾಯಾಚಿತ್ರಗಳನ್ನು ತೆಗೆಯುವಲ್ಲಿ
+      ನಿರತರಾಗಿದ್ದು, ಪತ್ರಿಕಾ ಛಾಯಾಗ್ರಾಹಕರಾಗುವ ಅಭಿಲಾಷೆ ಹೊಂದಿದ್ದಾರೆ.
   - coverimage: /static/img/tye_13_ananya_iso_a.jpg
-    bio: Ananya Rao Kedige is pursuing her Master's in Bioinformatics at Manipal
-      School of Life Sciences, MAHE, Manipal. She is currently working on
-      improving her photography skills and her journey so far has been
-      documented on Instagram under the username - @w.i.a.m.o.ss
-      ([www.instagram.com/w.i.a.m.o.ss/](http://www.instagram.com/w.i.a.m.o.ss/))
-    name: Ananya Rao Kedige
-    caption: “It knows that it is destiny to get caged, even if it is springtime.”-
-      translated excerpt from the Last
-      Mughal  Emperor,  Bahadur  Shah  Zafar’s  ghazal  about  ‘Destiny’,  written  in  the  last  days  of  his
-      captivity.   The photograph shows the
-      Eclectus  parrot,  a  native  of  the  Solomon  Islands, which is
-      held  captive for conservation. It is a popular tourist attraction at
-      Jurong Bird Park, Singapore.
+    bio: ಅನನ್ಯ ರಾವ್‌ ಕೆಡಿಗೆ, ಮಣಿಪಾಲಿನ ಮಾಹೆ ಯಲ್ಲಿರುವ ಮಣಿಪಾಲ್‌ ಲೈಫ್‌ ಸೈನ್ಸಸ್‌
+      ಸಂಸ್ಥೆಯಲ್ಲಿ ಜೀವ ಮಾಹಿತಿ ಜ್ಞಾನದ ವಿಷಯದಲ್ಲಿ ಸ್ನಾತಕೋತ್ತರ ವ್ಯಾಸಂಗ
+      ಮಾಡುತ್ತಿದ್ದಾರೆ. ಇವರು ಪ್ರಸಕ್ತ ಛಾಯಾಗ್ರಹಣದಲ್ಲಿ ಕುಶಲತೆ ಪಡೆಯುತ್ತಿದ್ದಾರೆ. ಇವರು
+      ಇಲ್ಲಿಯವರೆಗೂ ದಾಖಲಿಸಿರುವ ಛಾಯಾಚಿತ್ರಗಳು ಇಂಸ್ಟಾಗ್ರಾಂನ ಈ ವಿಳಾಸದಲ್ಲಿ -
+      @w.i.a.m.o.ss
+      ([www.instagram.com/w.i.a.m.o.ss/](http://www.instagram.com/w.i.a.m.o.ss/)) 
+      ಇವೆ.
+    name: ಅನನ್ಯ ರಾವ್‌ ಕೆಡಿಗೆ
+    caption: “ವಸಂತ ಮಾಸದಲ್ಲೂ ಬಂಧಿಯಾಗಿರುವುದು ವಿಧಿಯಾಟವೇ ಸರಿ.” - ವಿಧಿಯನ್ನು ಕುರಿತಂತೆ
+      ಮೊಗಲರ ಕಡೆಯ ಬಾದ್‌-ಶಾ ಬಹದೂರ್‌ ಶಾ ಜಾಫರ್,‌ ತನ್ನ ಬಂಧನದ ಕೊನೆಯ ದಿನಗಳಲ್ಲಿ ಬರೆದಿರುವ
+      ಗಜಲ್‌ ನ ಸಾಲಿನ ಅನುವಾದ. ಈ ಛಾಯಾಚಿತ್ರದಲ್ಲಿ, ಸೊಲೋಮನ್‌ ದ್ವೀಪಗಳ ಮೂಲದ ಇಲೆಕ್ಟಸ್‌
+      ಗಿಣಿಯನ್ನು ಸಂರಕ್ಷಣೆಯ ದೃಷ್ಟಿಯಿಂದ ಹಿಡಿದಿಡಲಾಗಿದೆ. ಜೂರೊಂಗ್‌ ಬರ್ಡ್‌ ಪಾರ್ಕ್,
+      ಸಿಂಗಾಪುರದ ಪ್ರಖ್ಯಾತ ಪ್ರವಾಸಿಗ ಆಕರ್ಷಣೆ.
   - coverimage: /static/img/tye_5_purabi_iso_c.jpg
-    caption: This photograph was taken in Norway in December, the darkest part of
-      the year in the Arctic. It was possible to walk many kilometers in the
-      wilderness without meeting another person.
-    name: "Purabi Deshpande "
-    bio: Purabi Deshpande is a PhD student studying birds and plants in cities.
-  - bio: Shyamli Singbal is an artist currently based in Goa. Her works traverse a
-      range of mediums including sculpture, installation, video and gifs.
-    name: Shyamli Singbal
-    caption: It has been 56 days since my body found itself in the presence of other
-      bodies. No bumping into someone; No running into someone, No, not even
-      brushing past someone. My hands rummage through a drawer of albums.
-      Shhhhhh. . . I am listening to a photograph in an attempt to relive the
-      past. Squinting as I bring it closer, I try hard to listen, to feel and in
-      some ways relive it. The transmission of sound and energy is very real and
-      in my isolated condition this act offers much solace. I may look stupid to
-      anyone looking at me right now, but there’s no one around to judge me.
+    caption: ಈ ಛಾಯಾಚಿತ್ರವನ್ನು, ಡಿಸಂಬರ್‌ ತಿಂಗಳಿನಲ್ಲಿ, ನಾರ್ವೇನಲ್ಲಿ ತೆಗೆಯಲಾಯಿತು.
+      ವರ್ಷದಲ್ಲಿ ಆರ್ಟಿಕ್ ಪ್ರದೇಶದ ಅತಿ ಕತ್ತಲು ಭಾಗ ಇದು. ಈ ಪ್ರದೇಶದಲ್ಲಿ ಬಹು ದೂರ ಹಲವು
+      ಕಿಲೋಮೀಟರ್‌ ಗಳು ನೆಡೆದರೂ ಮತ್ತೊಬ್ಬ ವ್ಯಕ್ತಿಯನ್ನು ಸಂಧಿಸುವುದೂ ಕಷ್ಟ ಸಾಧ್ಯ.
+    name: ಪುರಬಿ ದೇಶ್‌ಪಾಂಡೆ
+    bio: ಪುರಬಿ ದೇಶ್‌ ಪಾಂಡೆ ಪಿಎಚ್.ಡಿ ವಿದ್ಯಾರ್ಥಿನಿ. ನಗರದಲ್ಲಿ ಸಸ್ಯಗಳು ಮತ್ತು ಪಕ್ಷಿಗಳ
+      ಕುರಿತಂತೆ ವ್ಯಾಸಂಗ ನೆಡೆಸಿದ್ದಾರೆ.
+  - bio: ಶ್ಯಾಮಲಿ ಸಿಂಗ್ಬಾಲ್‌, ಗೋವಾದ ನಿವಾಸಿ. ಶಿಲ್ಪಕಲೆ, ಪ್ರತಿಷ್ಠಾಪನೆ, ವೀಡಿಯೋ ಮತ್ತು
+      ಜಿಫ್‌ ಮುಂತಾದ ಹಲವು ರಂಗಗಳಲ್ಲಿ ಕೆಲಸ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.
+    name: ಶ್ಯಾಮಲಿ ಸಿಂಗ್ಬಾಲ್‌
+    caption: ನಾನು ಅನ್ಯರೊಂದಿಗೆ ಬೆರೆತು ಈಗಾಗಲೇ 56 ದಿನಗಳು ಕಳಿದಿವೆ. ಯಾರೂ ಎದುರಾಗುವುದಿಲ್ಲ;
+      ಯಾರೂ ತಳ್ಳುವುದಿಲ್ಲ,  ಇಲ್ಲ, ಈಗಂತೂ ಯಾರೂ ಹತ್ತಿರವೂ ಸುಳಿಯುವುದಿಲ್ಲ ಹಳೆಯ ಆಲ್ಬಮ್ ಗಳ
+      ಮೇಲೆ ಕೈ ಯಾಡಿಸುತ್ತಿದ್ದೇನೆ ಶ್……….‌, ಗತ ವೈಭವದ ಜೀವನವನ್ನು ಫೋಟೋ ಮೂಲಕ ಆಸ್ವಾದಿಸಿ,
+      ಮತ್ತೊಮ್ಮೆ ಜೀವಿಸುತ್ತಿದ್ದೇನೆ. ಕಣ್ಣ ಮುಚ್ಚಿ, ಫೋಟೋವನ್ನು ಅಪ್ಪಿಕೊಂಡು ಆಲಿಸಲು ಕಿವಿ
+      ಒಡ್ಡುತ್ತೇನೆ, ಅಂದೊಂದಿದ್ದ ಕಾಲದ ಸವಿ ನೆನಪು. ಈ ದನಿ, ಹುರುಪು ಎರಡೂ ನಿಜವಾಗಿಯೇ
+      ಹರಿದಿವೆ, ಈ ಮೂಲಕ ನೆಮ್ಮದಿ ದೊರಕಿದೆ,  ಯಾರಾದರೋ ನೋಡಿದರೆ ನಗೆಪಾಟಲಾಗುತ್ತೇನೆ, ಆದರೆ
+      ನನ್ನನ್ನು ನೋಡಲು ಇಲ್ಲಿ ಯಾರೂ ಇಲ್ಲವೇ ಇಲ್ಲ.
     coverimage: /static/img/10_shyamli_iso_a.gif
 ---
