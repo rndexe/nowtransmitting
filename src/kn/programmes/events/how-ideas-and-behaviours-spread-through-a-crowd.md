@@ -47,7 +47,7 @@ watchinglist:
     quadwatchtxt: ಸಾಮೂಹಿಕ ಅನುಭವವನ್ನು ಅರ್ಥೈಸಲು ನರ ವಿಜ್ಞಾನದ ಬಳಕೆ
     quadwatchvis: /static/img/A_EV_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: The Network Dynamics of Social Change | Lecture by Damon Centola
+  - quadeventtxt: ಸಾಮಾಜಿಕ ಬದಲಾವಣೆಯ ಜಾಲತಾಣ ರೂಪಾಂತರಣಗಳು | ಉಪನ್ಯಾಸ | ಡಾಮನ್‌ ಸೆಂಟೋಲಾ
     quadeventlink: http://bit.ly/lecture-centola
     quadeventvis: /static/img/PL_damon_thumbnail.jpg
 relatedlist: []
