@@ -1,26 +1,35 @@
 ---
-layout: default
+layout: overview_common
 title: Social Room 
 ---
-<body class="overflow-hidden">
-    <div class="menu-container" id="menu-container">
-
-        <main class="block lg:flex lg:flex-col">
-
-            <div class="w-screen fixed">
-                <div>
-                    {% include "partials/navbar.html" %}
-                    {% include "partials/menu.html" %}
-                    <div id="main" class=" flex flex-col 
-                                  lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-gray-700 scroll-snap"> 
-
-
-                    {% include "rooms/socialroom_ovw.html" %}
-                    </div>
-                </div>
-            </div>
-        </main>
+<div class="block flex flex-col lg:flex-row lg:ml-20 bg-white pb-32 lg:pb-0">
+    <div class="lg:float-left w-full lg:w-1/2 lg:mt-20 p-20">
+        <h1 class="font-display text-center lg:text-left text-3xl lg:text-5xl">SOCIAL ROOMS</h1>
+        <br>
+        <p class="font-trade text-base lg:text-2xl w-full lg:w-4/5 mt-5">
+        We have put together hidden gems from across the internet and the library for you: check out the open-source games, books, and playlists.
+        <br><br>
+        Do you want to add your favourites to the collection? Share with us <span ><a class="underline" target="_blank" href="https://forms.gle/LkiyEX2fD2s3v3pL9">here</a></span>.
+        </p>
     </div>
-</body>
-
-<script src="/static/js/menu.js"></script>
+    <div class="flex flex-col lg:block lg:float-right w-full lg:h-screen lg:w-1/2 lg:pb-20 lg:mb-0 lg:my-auto p-1 lg:p-16">
+        <a href="../socialroom/arcade">
+            <div class="lg:flex w-full items-center pb-10 lg:pb-0">
+                <img src="../static/img/calendar_logos/Arcade-square.svg" class="w-32 h-32 mx-auto lg:mx-0 lg:w-52 lg:h-52"  alt="">
+                <p class="align-middle font-trade text-3xl h-5 text-center  underline lg:text-left lg:p-20 my-auto">Play</p>
+            </div>
+        </a>
+        <a href="../socialroom/listeningroom">
+            <div class="lg:flex w-full pb-10 lg:pb-0">
+                <img src="../static/img/calendar_logos/Listening-room-square.svg" class="w-32 h-32 mx-auto lg:mx-0 lg:w-52 lg:h-52" alt="">
+                <p class="align-middle font-trade text-3xl h-5 text-center underline lg:text-left lg:p-20 my-auto">Listen</p>
+            </div>
+        </a>
+        <a href="../socialroom/readingroom">
+            <div class="lg:flex w-full pb-10 lg:pb-0">
+                <img src="../static/img/calendar_logos/reading-room-square.svg" class="w-32 h-32 mx-auto lg:mx-0 lg:w-52 lg:h-52" alt="">
+                <p class="align-middle font-trade text-3xl h-5 text-center underline lg:text-left lg:p-20 my-auto">Read</p>
+            </div>
+        </a>
+    </div>
+</div>
