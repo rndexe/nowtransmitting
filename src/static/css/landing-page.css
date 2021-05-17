@@ -220,14 +220,9 @@ body, html{
 	box-sizing: border-box;
 }
 
-.menu-container,
-.st-content {
-	height: 100%;
-    background-color: #d62b2b;
-}
-
 .menu-container {
     height: 100%;
+    background-color: #d62b2b;
 }
 .menu-container {
     position: relative;
@@ -261,7 +256,7 @@ body, html{
 .inner-menu {
     height: 100%;
     display: grid;
-    grid-template-rows: 10% auto 4%;
+    grid-template-rows: 10% 10% auto 4%;
     grid-gap: 2rem;
   
     color: white;
