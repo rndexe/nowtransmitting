@@ -7,6 +7,7 @@
 			<p class="w-auto text-white
 			  {{ "font-baloo text-xl" if kannada else "font-trade text-base" }}
 			">- {{expertname}}</p>
+            {% if date %}
 			<p class="mb-2 mt-auto text-base w-auto text-white
 			  {{ "font-baloo" if kannada else "font-trade" }}
 			">
@@ -32,6 +33,7 @@
 					{% endif %}
 
 			</p>
+			{% endif %}
 			{% if link %}
 			<a href="{{link}}" target="_blank">
 				<button class="text-base py-2 px-12  text-white rounded-sm border border-solid border-white

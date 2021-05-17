@@ -45,7 +45,7 @@ watchinglist:
 eventlist:
   - quadeventtxt: ಸಾಮಾಜಿಕ ಬದಲಾವಣೆಯ ಜಾಲತಾಣ ರೂಪಾಂತರಣಗಳು | ಉಪನ್ಯಾಸ | ಡಾಮನ್‌ ಸೆಂಟೋಲಾ
     quadeventlink: http://bit.ly/lecture-centola
-    quadeventvis: /static/img/C_WK_Coverimage.jpg
+    quadeventvis: /static/img/PL_damon_thumbnail.jpg
 relatedlist:
   - quadrelatedtxt: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ | ಟ್ಯಾಕ್ಟಿಕಲ್‌ ಟೆಕ್"
     quadrelatedlink: https://nowtransmitting.com/exhibits/the-glass-room/

@@ -6,8 +6,10 @@ permalink: lp_json/programme_data.json
     {% set data = post.data %}
     {
       "title": "{{ data.title }}",
+      {% if data.date %}
       "date": "{{ data.date.toDateString() }}",
       "time": "{{ data.date.toTimeString() }}",
+      {% endif %}
       "type":"{{data.tags}}",
       "link":"{{data.link}}",
       "url": "{{ post.url }}",
