@@ -1,4 +1,3 @@
-
 var mobilemenu = document.getElementById("mobile-menu");
 var menubutton = document.getElementById("menu-button");
 var menuclosebutton = document.getElementById("menu-close-button");
@@ -25,12 +24,3 @@ menuclosebutton.addEventListener('click',function(){
     infoButton.classList.toggle('hidden');
     mediator.classList.toggle('hidden');
 });
-
-// showing exhibit links
-var exhibitMenu = document.querySelector('.exhibit-menu');
-var exhibitMenuList = exhibitMenu.children.item(1);
-var rightMenu = document.querySelector('.right-menu');
-// exhibitMenu.addEventListener('click', () => {
-//     exhibitMenuList.classList.toggle('hidden');
-// })
-
