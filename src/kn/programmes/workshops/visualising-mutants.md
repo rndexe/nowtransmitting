@@ -28,9 +28,8 @@ watchinglist:
   - quadwatchvis: /static/img/q_wk_qua_watchvis_1.jpg
 eventlist:
   - quadeventlink: http://bit.ly/lecture-marathe
-    quadeventtxt: "Real-Time Contagion Science in the 21st Century | Lecture by
-      Madhav Marathe 21 ನೇ ಶತಮಾನದಲ್ಲಿ ಪ್ರಸಕ್ತ ವ್ಯಾಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಜ್ಞಾನ |
-      ಉಪನ್ಯಾಸ | ಮಾಧವ್ ಮರಾಠೆ "
+    quadeventtxt: "21 ನೇ ಶತಮಾನದಲ್ಲಿ ಪ್ರಸಕ್ತ ವ್ಯಾಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಜ್ಞಾನ | ಉಪನ್ಯಾಸ |
+      ಮಾಧವ್ ಮರಾಠೆ "
     quadeventvis: /static/img/pl_madhav.png
   - quadeventlink: http://bit.ly/lecture-pattabiraman
     quadeventtxt: "Identifying Variants of SARS-CoV-2 in India | Lecture by Chitra

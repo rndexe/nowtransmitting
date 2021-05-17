@@ -1,11 +1,11 @@
 ---
 title: "Human Rights and Knowledge During Crises "
 permalink: programmes/events/human-rights-and-knowledge-during-crises/
-cata: spillover
+cata: hindsight
 catb: narrating
 thumb: /static/img/ev_humanrights_thumbnail.png
 cover: /static/img/ev_humanrights_coverimage.png
-date: 2021-05-23T08:30:00.000Z
+date: 2021-06-11T08:30:00.000Z
 description: As countries around the world impose emergency measures to combat
   the spread of COVID-19, it becomes important to interrogate the impact of
   these measures on vulnerable communities. In this context, human rights offer
@@ -23,15 +23,13 @@ expertbio: >-
   Trust Senior Investigator and the Head of the WHO Collaborating Centre for
   Global Health Histories at the University of York. Sanjoy specialises in the
   health, medical, political and social history of nineteenth and twentieth
-  century South Asia, as well as the history and contemporary workings of
-  international and global health organisations, and their programmes around the
-  world.
+  century South Asia.
 
 
-  **Seye Abimbola** is a health systems researcher and a global health scholar. Dr Abimbola studies community engagement in governance, decentralised governance, and the role of governance in the adoption and scale up of health system innovations. He is currently (2020-22) the Prince Claus Chair in Development and Equity at Utrecht University in the Netherlands, a senior lecturer in global health at the University of Sydney in Australia, and the editor in chief of BMJ Global Health.
+  **Seye Abimbola** is a health systems researcher and a global health scholar. He is currently (2020-22) the Prince Claus Chair in Development and Equity at Utrecht University in the Netherlands, a senior lecturer in global health at the University of Sydney in Australia, and the editor in chief of BMJ Global Health.
 
 
-  **Sharifah Sekalala** is an Associate Professor of Global Health Law at the University of Warwick. She is an interdisciplinary researcher whose work is at the intersection of international law, public policy, and global health. She is particularly focused on the role of human rights frameworks in addressing global health inequalities. Sharifah is currently leading a Wellcome Funded project on the migration of digital health data in Sub Saharan Africa.
+  **Sharifah Sekalala** is an Associate Professor of Global Health Law at the University of Warwick. She is an interdisciplinary researcher whose work is at the intersection of international law, public policy, and global health. Sharifah is currently leading a Wellcome Funded project on the migration of digital health data in Sub Saharan Africa.
 expertpic: /static/img/triple-frames.png
 readinglist:
   - quadreadtxt: On The Meaning Of Global Health And The Role Of Global Health Journals
