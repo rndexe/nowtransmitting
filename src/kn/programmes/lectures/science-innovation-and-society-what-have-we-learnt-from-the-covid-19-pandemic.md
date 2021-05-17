@@ -1,6 +1,6 @@
 ---
-title: "Science, Innovation and Society: What Have We Learnt From the Covid-19
-  Pandemic?"
+title: "ಉಪನ್ಯಾಸ ಶೀರ್ಷಿಕೆ: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ
+  ಪಿಡುಗಿನಿಂದ ನಾವು ಕಲಿತಿದ್ದೇನು?"
 permalink: kn/programmes/lectures/science-innovation-and-society/
 cata: hindsight
 catb: documenting
@@ -17,57 +17,61 @@ description: >-
   of the necessity for scholars and experts in dealing with the pandemic. 
 
 
-  Sir Jeremy Farrar will talk about the lessons we have learnt  from the Covid-19 pandemic, and the ways in which the role of medicine and healthcare are conceptualized anew in society. 
+  Sir Jeremy Farrar will talk about the lessons we have learnt  from the Covid-19 pandemic, and the ways in which the role of medicine and healthcare are conceptualized anew in society.
 link: https://bit.ly/lecture-farrar
-expertname: Jeremy Farrar
-expertbio: "Sir Jeremy Farrar is Director of the Wellcome Trust—a politically
-  and financially independent global charitable foundation that exists to fund
-  science to solve the urgent health challenges facing everyone. Jeremy is a
-  clinician scientist who, before joining Wellcome, was the Director of the
-  Oxford University Clinical Research Unit in Viet Nam for eighteen years. He is
-  a Fellow of the Academy of Medical Sciences UK, the National Academies USA,
-  the European Molecular Biology Organisation and a Fellow of The Royal Society.
-  Farrar was knighted in the Queen’s 2018 New Year Honours for services to
-  Global Health. "
+expertname: ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
+expertbio: ರಾಜಕೀಯವಾಗಿ ಹಾಗೂ ಹಣಕಾಸಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಸ್ವತಂತ್ರವಾಗಿ, ಜಾಗತಿಕ ಮಟ್ಟದಲ್ಲಿ
+  ಅನುದಾನ ನೀಡುವ ಪ್ರತಿಷ್ಠಾನವಾಗಿ ಸೇವೆಸಲ್ಲಿಸುತ್ತಾ, ಆಪತ್ಕಾಲಿಕ ಆರೋಗ್ಯ ಸವಾಲುಗಳಿಗೆ ಸೂಕ್ತ
+  ಪರಿಹಾರ ಹುಡುಕಲು, ವಿಜ್ಞಾನದ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅನುದಾನ ನೀಡಿ ನೆರವಾಗುತ್ತಿರುವ ವೆಲ್‌ಕಮ್‌
+  ಟ್ರಸ್ಟ್‌ ಪ್ರತಿಷ್ಠಾನದ ನಿರ್ದೇಶಕರಾಗಿ ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌, ಕಾರ್ಯ
+  ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ.‌ ಸರ್‌ ಜರೆಮಿ ಚಿಕಿತ್ಸಾ ಸಂಶೋಧನಾ ವಿಜ್ಞಾನಿ. ಇವರು, ವಿಯಟ್ನಾಂ ನ
+  ಆಕ್ಸಫರ್ಡ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಚಿಕಿತ್ಸಾ ಸಂಶೋಧನಾ ಘಟಕದಲ್ಲಿ ನಿರ್ದೇಶಕರಾಗಿ ಹದಿನೆಂಟು ವರ್ಷ
+  ಕಾಲ ಸೇವೆಸಲ್ಲಿಸಿದ್ದಾರೆ. ಇವರು, ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರದ ಅಕಾಡೆಮಿ ಆಫ್‌ ಮೆಡಿಕಲ್‌
+  ಸೈನ್ಸ್, ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ರಾಜ್ಯಗಳ ರಾಷ್ಟ್ರೀಯ ಅಕಾಡೆಮಿ, ಯೂರೋಪ್‌ ನ ಸೂಕ್ಷ್ಮ
+  ಜೀವಶಾಸ್ತ್ರ ಸಂಸ್ಥೆ ಮತ್ತು ರಾಯಲ್‌ ಸೊಸೈಟಿ ಸಂಸ್ಥೆಗಳ ಸಹವರ್ತಿಗಳು (ಫೆಲೋ)
+  ಆಗಿದ್ದಾರೆ. ಜಾಗತಿಕ ಆರೋಗ್ಯ ಸೇವೆಗಳಿಗಾಗಿ, ಸರ್‌ ಜರೆಮಿ  ಅವರಿಗೆ ಕ್ವೀನ್ಸ್‌, 2018 ನ್ಯೂ
+  ಇಯರ್‌ ಹಾನರ್ಸ್‌ ಬಿರುದು, ಪುರಸ್ಕಾರ ನೀಡಿ ಗೌರವಿಸಲಾಗಿದೆ.
 expertpic: /static/img/pl_jeremy_portrait.png
 readinglist:
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/oct/12/covid-19-treatable-vaccines-treatments
-    quadreadtxt: Soon Covid-19 Will Be Treatable, But It Shouldn't Just Be The Rich
-      Who Benefit
+    quadreadtxt: ಸಧ್ಯದಲ್ಲೇ ‌ಕೋವಿಡ್-19‌  ರೋಗವನ್ನು ಗುಣ ಪಡಿಸಲಯ ಸಾಧ್ಯವಾಗುತ್ತದೆ, ಕೇವಲ
+      ಶ್ರೀಮಂತರಿಗೆ ಮಾತ್ರವೇ ಈ ಲಾಭವು ನಿಲುಕುವಂತಿರಬಾರದು
     quadreadvis: /static/img/W_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.weforum.org/agenda/2019/08/important-tool-in-healthcare-is-trust-vaccines-africa/
-    quadreadtxt: Why The Most Important Tool In Healthcare Is Trust
+    quadreadtxt: ಆರೋಗ್ಯ ಉಪಚಾರದಲ್ಲಿ ನಂಬಿಕೆಯು ಏಕೆ ಅತಿ ಮುಖ್ಯವಾಗುತ್ತದೆ?
     quadreadvis: /static/img/W_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/apr/18/coronavirus-knows-no-international-borders-neither-must-its-eventual-cure
-    quadreadtxt: Coronavirus Knows No International Borders, Neither Must Its Eventual Cure
+    quadreadtxt: ಕರೋನ ವೈರಾಣುವಿಕೆ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಗಡಿಗಳಿಲ್ಲ, ಹಾಗೆಯೇ ಚಿಕಿತ್ಸೆಗೂ ಯಾವುದೇ
+      ಗಡಿ-ತಡೆ ಇರಕೂಡದು
     quadreadvis: /static/img/W_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/0SA3JUaHWsla4tnYJSATJV
-    quadlisttxt: Pandemics Past and Present
+    quadlisttxt: ಗತಕಾಲದ ಮತ್ತು ಪ್ರಸಕ್ತ ರೋಗ ಪಿಡುಗುಗಳು
     quadlistvis: /static/img/W_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/2IoTsZSFVqBwIzCSEM2k4o
-    quadlisttxt: "Coronavirus Crisis Update: Live from Munich"
+    quadlisttxt: "ಕರೋನ ವೈರಾಣುವಿನ ಬಿಕ್ಕಟ್ಟುಗಳ ವಿದ್ಯಮಾನ: ಮುನಿಚ್‌ ಇಂದ ನೇರ ವರದಿ"
     quadlistvis: /static/img/W_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=ef-0Ytnd4Wg
-    quadwatchtxt: How We Can Outsmart Epidemics
+    quadwatchtxt: ರೋಗ ಪಿಡುಗುಗಳನ್ನು ನಾವು ಹೇಗೆ ನೀಗ ಬಹುದು?
     quadwatchvis: /static/img/W_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=W7LOiIHuhTU
-    quadwatchtxt: Strategies to Mitigate the Rippling Impact of COVID-19
+    quadwatchtxt: ಕೋವಿಡ್-19‌ ರೋಗದ ತೆರೆ-ಪರಿಣಾಮಗಳನ್ನು ತಡೆಯಲು ರಣತಂತ್ರ
     quadwatchvis: /static/img/W_PL_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventtxt: Visualising the Virus | Workshop | Gabriela Aquije Zegarra
+  - quadeventtxt: "ವೈರಾಣುವಿನ ಕಲ್ಪನೆ: ಸಾಮೂಹಿಕ ತುರ್ತು ಆರೈಕೆಯ ಮಾಧ್ಯಮವಾಗಿ ವಿನ್ಯಾಸ ಕಲೆ |
+      ಕಾರ್ಯಾಗಾರ | ಗೇಬ್ರಿಲಾ ಆಕ್ವಿಜಿ ಜೆಗಾರ್ರ"
     quadeventlink: http://bit.ly/workshop-aquije
     quadeventvis: /static/img/wk_gabriela.png
-  - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
-      Lecture | Sheila Jasanoff"
-    quadeventlink: https://nowtransmitting.com/programmes/lectures/control-consensus-chaos/
+  - quadeventtxt: "ಹತೋಟಿ, ಹೊಂದಾಣಿಕೆ, ಗೊಂದಲ : ರೋಗ ಪಿಡುಗಿಗೆ ಜಾಗತಿಕ ಪ್ರತಿಕ್ರಿಯೆ |
+      ಉಪನ್ಯಾಸ | ಶೀಲಾ ಜೆಸ್ನ್ನಾಫ್‌"
+    quadeventlink: https://nowtransmitting.com/kn/programmes/lectures/control-consensus-chaos/
     quadeventvis: /static/img/pl_sheila.jpg
 relatedlist:
   - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/moulding-modern-medicine/
     quadrelatedvis: /static/img/O_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

@@ -1,6 +1,5 @@
 ---
-title: "ಭಾರತದಲ್ಲಿ ಸಾರ್ಸ್‌ ಕೋವಿಡ್‌ -2 ರೋಗಾಣುಗಳ ಸಂಸ್ಕರಿತ ರೂಪಗಳ ಅನ್ವೇಷಣೆ: ರೋಗ
-  ಪಿಡುಗಿನ ನಿಯಂತ್ರಣ ಮತ್ತು ನಿವಾರಣೆಗೆ ಹೇಗೆ ಸಹಾಯಕವಾಗುವುದು?"
+title: ಭಾರತದಲ್ಲಿ ಸಾರ್ಸ್‌ ಕೋವಿಡ್‌ -2 ರೋಗಾಣುಗಳ ಸಂಸ್ಕರಿತ ರೂಪಗಳ ಅನ್ವೇಷಣೆ
 permalink: kn/programmes/lectures/identifying-variants-of-SARS-CoV-2-in-India/
 cata: trigger
 catb: documenting
@@ -54,7 +53,8 @@ watchinglist:
     quadwatchvis: /static/img/I_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/workshop-aquije
-    quadeventtxt: Visualising the Virus | ಕಾರ್ಯಾಗಾರ | Gabriela Aquije Zegarra
+    quadeventtxt: "ವೈರಾಣುವಿನ ಕಲ್ಪನೆ: ಸಾಮೂಹಿಕ ತುರ್ತು ಆರೈಕೆಯ ಮಾಧ್ಯಮವಾಗಿ ವಿನ್ಯಾಸ ಕಲೆ |
+      ಕಾರ್ಯಾಗಾರ | ಗೇಬ್ರಿಲಾ ಆಕ್ವಿಜಿ ಜೆಗಾರ್ರ"
     quadeventvis: /static/img/wk_gabriela.png
   - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
       ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
@@ -62,10 +62,10 @@ eventlist:
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
-    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
   - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಜ್ಹಾನ್‌ ಡಬಲ್ಯೂ, ಬುಶ್
       ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್, ಕಾಸಿಮ್‌ ಖಾನ್‌
-    quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+    quadrelatedlink: https://nowtransmitting.com/exhibits/kn/indoor-safety-guidelines/
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
