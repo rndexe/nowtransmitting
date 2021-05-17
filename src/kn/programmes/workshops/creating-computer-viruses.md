@@ -2,7 +2,7 @@
 title: ಕಂಪ್ಯೂಟರ್‌ ವೈರಾಣುಗಳ ಸೃಷ್ಠಿ
 permalink: kn/programmes/workshops/creating-computer-viruses/
 cata: trigger
-catb: mapping
+catb: experimenting
 thumb: /static/img/wk_saurabh_thumbnail.png
 cover: /static/img/wk_saurabh_coverimage.png
 date: 2021-05-22T04:30:00.000Z
