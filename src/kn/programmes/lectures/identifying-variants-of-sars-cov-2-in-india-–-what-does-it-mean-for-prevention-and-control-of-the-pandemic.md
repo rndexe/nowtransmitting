@@ -29,35 +29,36 @@ expertbio: Chitra Pattabiraman is an Early Career Fellow at the Department of
 expertpic: /static/img/pl_chitra_portrait.png
 readinglist:
   - quadreadlink: https://covariants.org/
-    quadreadtxt: CoVariants
+    quadreadtxt: ಸಹ ರೂಪಾಂತರಗಳು
     quadreadvis: /static/img/I_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.theatlantic.com/science/archive/2021/03/massive-global-hunt-variants-under-way/618230/
-    quadreadtxt: We Now Can See a Virus Mutate Like Never Before
+    quadreadtxt: ಮೊದಲೆಂದೂ ಕಂಡು–ಕೇಳರಿಯದ ವೈರಾಣು ರೂಪಾಂತರಗಳನ್ನು ಪ್ರಸಕ್ತ ನೋಡುತ್ತಿದ್ದೇವೆ
     quadreadvis: /static/img/I_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theatlantic.com/health/archive/2021/01/coronavirus-mutations-variants/617694/
-    quadreadtxt: The Coronavirus is Evolving Before Our Eyes
+    quadreadtxt: ನಮ್ಮ ಕಣ್ಣ ಎದುರೇ ಕರೋನ ವೈರಾಣುವು ರೂಪಾಂತರವಾಗಿ ವಿಕಸನಗೊಳ್ಳುತ್ತಿದೆ
     quadreadvis: /static/img/I_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/6Fuv49soIMpsporukbrcil
-    quadlisttxt: "Coronapod: Variants"
+    quadlisttxt: "ಕರೋನ ಪೋಡ್‌: ರೂಪಾಂತರಗಳು"
     quadlistvis: /static/img/I_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/4ZXiGZ5wWxxJ4sKSo34sV0?si=4KcKfEEbTgWl8uW-ipXVvw
-    quadlisttxt: Rhapsody in T with Alessandro Sette
+    quadlisttxt: ಆಲೆಸ್ಸಾಂಡ್ರೋ ಸೆಟ್ಟೆ ಅವರೊಂದಿಗೆ 'ರಾಪ್ಸೋಡಿ ಇನ್‌ ಟಿʼ
     quadlistvis: /static/img/I_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=ISSEjJITmhk
-    quadwatchtxt: "Preempting Pandemics: Building a Robust Public Health System"
+    quadwatchtxt: " ರೋಗ ಪಿಡುಗಿನ ಹತೋಟಿ: ಸದೃಢ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ವ್ಯವಸ್ಥೆಯ ನಿರ್ಮಾಣ"
     quadwatchvis: /static/img/I_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=GGXdG75jdpU
-    quadwatchtxt: Prof. Chitra Pattabiraman's Talk at Combating COVID19 Symposium
+    quadwatchtxt: ಕೋವಿಡ್-19‌ ರ ಹೋರಾಟವನ್ನು ಕುರಿತಂತೆ ಫ್ರೊಫೆಸರ್‌ ಚಿತ್ರ ಪಟ್ಟಾಭಿರಾಮನ್‌
+      ಅವರೊಂದಿಗೆ ವಿಚಾರಗೋಷ್ಠಿ
     quadwatchvis: /static/img/I_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/workshop-aquije
     quadeventtxt: "ವೈರಾಣುವಿನ ಕಲ್ಪನೆ: ಸಾಮೂಹಿಕ ತುರ್ತು ಆರೈಕೆಯ ಮಾಧ್ಯಮವಾಗಿ ವಿನ್ಯಾಸ ಕಲೆ |
       ಕಾರ್ಯಾಗಾರ | ಗೇಬ್ರಿಲಾ ಆಕ್ವಿಜಿ ಜೆಗಾರ್ರ"
     quadeventvis: /static/img/wk_gabriela.png
-  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
-      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
+  - quadeventtxt: "ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ: ಕೋವಿಡ್‌–19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
+      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌"
     quadeventlink: https://bit.ly/lecture-farrar
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
