@@ -9,16 +9,17 @@ title: Mediator Sessions
 	<main class="block lg:flex lg:flex-col">
 
 		<div class="w-screen fixed">
-			<div class="bg-gray-500">
+			<div>
                 <!-- top navbar for about page  -->
                 <!-- lg:flex -->
 
                 {% include "partials/navbar.html" %}
                 {% include "partials/menu.html" %}
 
-                <div class="ml-20 h-screen bg-trueGray-750" > 
+                <div class="lg:ml-20 h-screen bg-trueGray-750" > 
                    
-                    <div id="main" class="flex flex-col lg:flex-row overflow-y-hidden overflow-x-hidden w-auto h-screen bg-white scroll-snap"> 
+                    <div id="main" class="flex flex-col overflow-x-hidden w-auto h-screen max-h-screen bg-trueGray-750 scroll-snap
+                                          lg:flex-row "> 
                         {{ content | safe }}
                         {% include "partials/mediator-sessions.html" %}
                     </div>
