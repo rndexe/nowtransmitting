@@ -4,7 +4,7 @@ permalink: programmes/lectures/science-and-seeing/
 cata: spillover
 catb: narrating
 thumb: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
-cover: /static/img/A_PL_Coverimage.jpg
+cover: /static/img/sn_davidarnold.png
 date: 2021-05-15T13:00:00.000Z
 description: >-
   The technology that we use today allows us to explore the microscopic world in
