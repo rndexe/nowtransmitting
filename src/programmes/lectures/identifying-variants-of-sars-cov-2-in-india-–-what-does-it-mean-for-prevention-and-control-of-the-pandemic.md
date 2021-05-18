@@ -15,7 +15,8 @@ description: >-
 
 
   To illustrate these points, Pattabiraman will share her work on SARS-CoV-2 variants that were imported and found circulating in Bengaluru between Nov 2020 – Jan 2021.
-link: http://bit.ly/lecture-pattabiraman
+link: ""
+reclink: https://youtu.be/gLiCFrQEGoM
 expertname: Chitra Pattabiraman
 expertbio: Chitra Pattabiraman is an Early Career Fellow at the Department of
   Neurovirology, NIMHANS, Bangalore. She is interested in viruses that are
