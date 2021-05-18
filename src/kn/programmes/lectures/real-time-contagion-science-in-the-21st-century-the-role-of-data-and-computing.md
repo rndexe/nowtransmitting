@@ -55,7 +55,7 @@ watchinglist:
     quadwatchvis: /static/img/V_PL_QUA_WATCHVIS_1.jpg
 eventlist:
   - quadeventtxt: ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಪ್ರತಿರೂಪಗಳನ್ನು (ಮಾಡಲ್‌) ಏಕೆ ರೂಪಿಸ ಬೇಕು, ಹೇಗೆ
-      ರೂಪಿಸ ಬೇಕು?  | ಉಪನ್ಯಾಸ | ಗೌತಮ್‌ ಮೆನನ್‌
+      ರೂಪಿಸ ಬೇಕು? | ಉಪನ್ಯಾಸ | ಗೌತಮ್‌ ಮೆನನ್‌
     quadeventlink: http://bit.ly/lecture-menon
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: ಕಾವಲು ಸಾಧನವಾಗಿ ಗೂಗಲ್‌ ಶೋಧನೆಯ ಬಳಕೆ | ಕಾರ್ಯಾಗಾರ | ಶ್ರೇಯ ಚಕ್ರಬೊರ್ತಿ
