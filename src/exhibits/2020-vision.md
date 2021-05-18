@@ -71,8 +71,8 @@ play:
     quadplaylink: https://www.goviralgame.com/en/
     quadplayvis: /static/img/B_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
-  - quadeventtxt: https://nowtransmitting.com/programmes/lectures/dealing-with-the-infodemic/
-    quadeventlink: https://www.eventbrite.com/e/148308301121
+  - quadeventtxt: Dealing with the Infodemic | Lecture by Sylvie Briand
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/dealing-with-the-infodemic/
     quadeventvis: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: Information...It’s Complicated | Workshop by Muhammad Radwan
     quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
