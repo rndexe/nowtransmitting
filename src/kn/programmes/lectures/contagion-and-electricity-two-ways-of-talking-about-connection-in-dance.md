@@ -32,7 +32,7 @@ readinglist:
     quadreadtxt: ಆಧುನಿಕತೆಯ ಮನೋ ಆಘಾತಗಳನ್ನು ಸಂಭ್ರಮಿಸುವ ಐದು ನೃತ್ಯ ಭಂಗಿಗಳು
     quadreadvis: /static/img/M_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://theconversation.com/the-angolan-dancers-who-helped-south-african-anthem-jerusalema-go-global-148782
-    quadreadtxt: "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾದ ರಾಷ್ಟ್ರಗೀತೆ ʼಜೆರುಸಲೇಮʼ ಜಾಗತಿಕವಾಗಿ ಖ್ಯಾತಿ ಪಡೆಯಲು
+    quadreadtxt: "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾದ ರಾಷ್ಟ್ರಗೀತೆ 'ಜೆರುಸಲೇಮ' ಜಾಗತಿಕವಾಗಿ ಖ್ಯಾತಿ ಪಡೆಯಲು
       ಅಂಗೋಲದ ನೃತ್ಯಗಾರರು ಸಹಕರಿಸಿದುದು ಹೇಗೆ "
     quadreadvis: /static/img/M_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.smithsonianmag.com/smart-news/strange-case-dancing-mania-struck-germany-six-centuries-ago-today-180959549/#:~:text=Called%20Tarantism%20in%20Italy%2C%20it,poisons%20the%20arachnid%20had%20injected.&text=It%20started%20in%20July%20when,Frau%20Troffea%20began%20to%20dance.
