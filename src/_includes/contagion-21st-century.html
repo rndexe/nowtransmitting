@@ -3,9 +3,13 @@ layout: exhibit_common
 ---
 
 	{% include "./partials/coverpage.html" %}
-	{% set quote ="This exhibit contains photographs and simulations courtesy of the Museum at the Robert Koch Institute." %}
+	{% if kannada == 'true' %}
+		{% set quote="ಈ ಪ್ರದರ್ಶಿಕೆಯಲ್ಲಿ, ರಾಬರ್ಟ್‌ ಕೋಕ್ ಸಂಸ್ಥೆಯಲ್ಲಿರುವ ಸಂಗ್ರಹಾಲಯದ ಕೊಡುಗೆಯಾದ ಹಲವು ಛಾಯಾಚಿತ್ರಗಳು, ಪ್ರತಿರೂಪಗಳು, ಅನುಕರಣಾತ್ಮಕ ಕೃತಿಗಳು ಪ್ರದರ್ಶಿತ ಗೊಂಡಿವೆ." %}	
+	{% else %}
+		{% set quote ="This exhibit contains photographs and simulations courtesy of the Museum at the Robert Koch Institute." %}
+	{% endif %}
 
-	{% include "./partials/about.html" %}
+	{% include "./partials/about_section.html" %}
 	{% include "./partials/primary_contagion.html" %}
 	{% include "./partials/author_section.html" %}
 	

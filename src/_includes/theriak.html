@@ -4,9 +4,13 @@ layout: exhibit_common
 
 	
 	{% include "./partials/coverpage.html" %}
-	{% set quote="Disease maps are a long-standing scientific tool used to understand the spread of disease across populations." %}	
+	{% if kannada == 'true' %}
+		{% set quote="ಹಲವು ಸಮುದಾಯಗಳ ನಡುವೆ, ರೋಗ ಹರಡುವಿಕೆಯನ್ನು ಅರಿಯಲು , ರೋಗ ನಕ್ಷೆಯ ರೇಖಾಚಿತ್ರವನ್ನು ಬಹು ಕಾಲದಿಂದಲೂ ಬಳಸಲಾಗುತ್ತಿದೆ." %}	
+	{% else %}
+		{% set quote="Disease maps are a long-standing scientific tool used to understand the spread of disease across populations." %}	
+	{% endif %}
 
-	{% include "./partials/about.html" %}
+	{% include "./partials/about_section.html" %}
 	{% include "./partials/author_section.html" %}
 	{% include "./partials/process_section.html" %}
 	{% include "./partials/pdf_section.html" %}

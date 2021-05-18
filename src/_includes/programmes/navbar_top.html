@@ -6,10 +6,38 @@
 		</svg>
 	</button>
 	<ul id="nav-items" class="list-style-none h-30 text-3xl flex flex-none">
-		<li id="nav-item-about" class="inline lg:m-5 lg:my-5 lg:text-md font-display"><a style="color:#a3a3a3; font-weight:700; letter-spacing:1px; " href="#about">About</a><div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div></li>
-		<li id="nav-item-scholar" class="inline lg:m-5 lg:my-5 lg:text-md font-display"><a style="color:#a3a3a3; font-weight:700; letter-spacing:1px;" href="#authors">Expert</a><div class=" mb-3" style=" width: 60px; border: 1px solid #fff; height:0;"></div></li>
-		<li id="nav-item-process" class="inline lg:m-5 lg:my-5 lg:text-md font-display"><a style="color:#a3a3a3; font-weight:700; letter-spacing:1px;" href="#process">Process</a><div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div></li>
-		<li id="nav-item-further" class="inline lg:m-5 lg:my-5 lg:text-md font-display"><a style="color:#a3a3a3; font-weight:700; letter-spacing:1px;" href="#takeitfurther">Take it further</a><div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div></li>
+		<li id="nav-item-about" class="inline lg:m-5 lg:my-5 lg:text-md 
+			{{ "font-baloo" if kannada else "font-display" }}
+		">
+			<a style="color:#a3a3a3; font-weight:700; letter-spacing:1px; " href="#about">
+				{{ "ಪ್ರದರ್ಶನ" if kannada else "About" }}
+			</a>
+			<div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
+		</li>
+		<li id="nav-item-scholar" class="inline lg:m-5 lg:my-5 lg:text-md 
+			{{ "font-baloo" if kannada else "font-display" }}
+		">
+			<a style="color:#a3a3a3; font-weight:700; letter-spacing:1px;" href="#authors">
+				{{ "ವಿದ್ವಾಂಸರು" if kannada else "Expert" }}
+			</a>
+			<div class=" mb-3" style=" width: 60px; border: 1px solid #fff; height:0;"></div>
+		</li>
+		<li id="nav-item-process" class="inline lg:m-5 lg:my-5 lg:text-md 
+			{{ "font-baloo" if kannada else "font-display" }}
+		">
+			<a style="color:#a3a3a3; font-weight:700; letter-spacing:1px;" href="#process">
+				{{ "ಪ್ರಕ್ರಿಯೆ" if kannada else "Process" }}
+			</a>
+			<div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
+		</li>
+		<li id="nav-item-further" class="inline lg:m-5 lg:my-5 lg:text-md 
+			{{ "font-baloo" if kannada else "font-display" }}
+			">
+			<a style="color:#a3a3a3; font-weight:700; letter-spacing:1px;" href="#takeitfurther">
+				{{ "ಮುನ್ನೆಡೆಸಿ" if kannada else "Take it further" }}
+			</a>
+			<div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
+		</li>
 	</ul>
 </div>
 

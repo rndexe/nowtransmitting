@@ -1,0 +1,464 @@
+---
+layout: default
+kannada: true
+permalink: kn/programmes/
+---
+
+<body class="overflow-hidden bg-white" >
+<div class="menu-container" id="menu-container">
+    {% include "../_includes/partials/navbar.html" %}
+    {% include "../_includes/partials/menu.html" %}
+    <div class="block w-full lg:w-screen lg:h-screen lg:pl-20 bg-white overflow-hidden">
+        <div class="text-3xl lg:ml-24">
+            <p class="text-black font-baloo lg:pt-12" style="font-weight:700; letter-spacing:1px;">
+                        ಕಾರ್ಯಕ್ರಮಗಳು
+            </p>
+          
+            <div class="mt-3 align-bottom" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
+            <p class="text-base mt-3 font-baloo">
+                … ವಿವಿಧ ಶೈಕ್ಷಣಿಕ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ, ಪರಸ್ಪರ ಸಂವಾದಗಳನ್ನು ಹಾಗೂ ಪ್ರಮುಖ ಪ್ರಶ್ನೆಗಳನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುವ ಮೂಲಕ ಸಾಂಕ್ರಾಮಿಕಗಳನ್ನು ಅರಿಯುವುದು.
+            </p>
+
+          </div>
+        
+        <!-- calendar div starts here -->
+            <div class="w-screen h-full block lg:flex-none lg:flex-col lg:pl-20">
+                <div class="flex flex-row">
+    
+                    <link rel="dns-prefetch" href="//unpkg.com" />
+                    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+                    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css">
+                    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+                
+                    <style>
+                        [x-cloak] {
+                            display: none;
+                        }
+                        input[type="radio"] {
+                          display: none;
+                        }
+                        
+                        /* simulate radiobutton appearance using pseudoselector */
+                        input[type="radio"] + label:before {
+                          content: "";
+                          /* create custom radiobutton appearance */
+                          display: inline-block;
+                          width: 20px;
+                          height: 20px;
+                          padding: 3px;
+                          margin-right: 15px;
+                          /* background-color only for content */
+                          background-clip: content-box;
+                          border: 1px solid #bbbbbb;
+                          background-color: #e7e6e7;
+                          border-radius: 50%;
+                          vertical-align: middle;
+                        }
+                        
+                        /* appearance of checked radiobutton */
+                        .radio-item-full input[type="radio"]:checked + label:before {
+                          background-color: #2d2d2d;
+                          
+                        }
+
+                        .radio-item-lectures input[type="radio"]:checked + label:before {
+                          background-color: #d62b2b;
+                        }
+
+                        .radio-item-workshops input[type="radio"]:checked + label:before {
+                          background-color: #3E6CDA;
+                        }
+
+                        .radio-item-events input[type="radio"]:checked + label:before {
+                          background-color: #00ff00;
+                        }
+
+                        .radio-item-filmscreening input[type="radio"]:checked + label:before {
+                          background-color: #ffed4a;
+                        }
+                        
+                        /* resetting default box-sizing */
+                        *,
+                        *:before,
+                        *:after {
+                          box-sizing: border-box;
+                        }
+                        
+                        /* optional styles for centering radiobuttons */
+                        .sound-signal label {
+                          display: inline-flex;
+                          align-items: center;
+                        }
+
+                        .hover-target-show{
+                          display:none;
+                        }
+                        .hover-trigger:hover .hover-target-show {
+                          display:block;
+                          color:white;
+                        }
+                        .hover-trigger:hover .hover-target-hide {
+                          display: none;
+                        }
+                        .hover-trigger:hover .hover-target {
+                          color:white;
+                        }
+                        
+                    </style>
+                
+                <div class="antialiased w-screen sans-serif bg-white h-screen">
+                    <div x-data="app()" x-init="[initDate(), getNoOfDays()]" x-cloak class="ndat flex lg:flex-row">
+                        <div class="container ml-px py-2 md:py-2 w-2/3 h-11/12" >
+                              
+                            <!-- <div class="font-bold text-gray-800 text-xl mb-4">
+                                Schedule Tasks
+                            </div> -->
+                
+                            <div class="bg-white overflow-hidden">
+                
+                                <div class="flex py-2 ">
+    
+                                    <div class="flex flex-grow items-end">
+                                        <p class="text-sm pl-36 font-baloo text-center w-full text-trueGray-750">ದಿನದ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಆ ದಿನದ ಮೇಲೆ ಕ್ಲಿಕ್‌ ಮಾಡಿ</p>
+                                    </div>
+                                    <div class="flex flex-none w-42" style="padding-top: 2px;">
+                                      <button 
+                                            type="button"
+                                            class="leading-none border-black border p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex cursor-pointer hover:bg-gray-200 p-1 items-center" 
+                                            :class="{' opacity-100': month == 3 }"
+                                            :disabled="month == 3 ? true : false"
+                                            @click="month=3; getNoOfDays()">
+                                                                                ಏಪ್ರಿಲ್‌  
+                                        </button>
+                                        <button 
+                                            type="button"
+                                            class="leading-none border-black border p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex cursor-pointer hover:bg-gray-200 p-1 items-center" 
+                                            :class="{' opacity-100': month == 4 }"
+                                            :disabled="month == 4 ? true : false"
+                                            @click="month=4; getNoOfDays()">
+                                                                                ಮೇ  
+                                        </button>
+                                       
+                                        <button 
+                                            type="button"
+                                            class="leading-none border-black border p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex items-center cursor-pointer hover:bg-gray-200 p-1" 
+                                            :class="{' opacity-100': month == 5 }"
+                                            :disabled="month == 5 ? true : false"
+                                            @click="month=5; getNoOfDays()">
+                                                                                ಜೂನ್								  
+                                        </button>
+                                    </div>
+                                </div>	
+                
+                                <div class="-mx-1 -mb-1" >
+                                    <div class="flex flex-wrap" style="margin-bottom: 0px;">
+                                        <template x-for="(day, index) in DAYS" :key="index">	
+                                            <div style="width: 14.26%" class="px-2 py-2">
+                                                <div
+                                                    x-text="day" 
+                                                    class="text-black font-baloo text-sm uppercase font-bold text-center"></div>
+                                            </div>
+                                        </template>
+                                    </div>
+                
+                                    <div class="flex flex-wrap px-2 pb-2" >
+                                        <template x-for="blankday in blankdays">
+                                            <div 
+                                                style="width: 14.28%;"
+                                                class="text-center border px-1 pt-1 h-20"	
+                                            ></div>
+                                        </template>	
+                                        <template x-for="(date, dateIndex) in no_of_days" :key="dateIndex" >	
+                                            <div style="width: 14.28%;" class="h-20 px-1 pt-1 items-center border relative cursor-pointer hover-trigger hover:bg-gray-800 hover:opacity-80 transition ease-in ease-out duration-100" 
+                                            @click="showEventModal(date)"
+                                            >
+                                                <div
+                                                    x-text="date"
+                                                    class="flex w-6 mx-auto h-6 items-center hover-target font-baloo justify-center text-center leading-none rounded-full"
+                                                ></div>
+                                                <template x-if="shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() ).length != 0">
+                                                  <p class="hover-target-show font-baloo w-full text-center">ಎಲ್ಲ  ಕಾರ್ಯಕ್ರಮಗಳು</p>
+                                                </template> 
+                                                <div class="h-10 overflow-y-hidden mt-px hover-target-hide">
+                                                  <template x-for="event in shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() )">	
+                                                      <div class="py-1 overflow-hidden flex">  
+                                                            <p class="text-xs align-top"
+                                                            :class="{'text-green-650': event.type.split(',')[0] == 'kn_event', 'text-red-650': event.type.split(',')[0] == 'kn_lecture', 'text-blue-pg': event.type.split(',')[0] == 'kn_workshop', 'text-yellow-650': event.type.split(',')[0] == 'kn_film screening'}"
+                                                            style="width:10px; margin-right:5px;">&#9679;</p>
+                                                            <p x-html="event.time.substring(0,5) + ' ' +event.title" class="text-sm truncate font-baloo " style="vertical-align: text-bottom;"></p>
+                                                      </div>
+                                                    </template>
+                                                </div>
+                                            </div>
+                                        </template>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="flex-grow items-center justify-content w-1/5 h-11/12 pl-10 pt-20 relative">
+                          <p class="font-baloo text-md">ಕಾರ್ಯಕ್ರಮವನ್ನು ಆಯ್ಕೆಮಾಡಿ
+                          </p>
+                          <br>
+                          <div class="radio-item-full">
+                            <input x-on:change="tester()" type="radio" id="all" name="event" value="all" style="width:20px; height:20px;">
+                            <label for="all" class="font-baloo m-5 text-sm" >ಸಂಪೂರ್ಣ ವೇಳಾ ಪಟ್ಟಿ</label><br>
+                          </div>
+                          <div class="radio-item-lectures">
+                            <input x-on:change="tester()" type="radio" id="lectures" name="event" value="Lectures" style="width:20px; height:20px; ">
+                            <label for="lectures" class="font-baloo m-5 text-sm">ಉಪನ್ಯಾಸಗಳು</label><br>
+                          </div>
+                          <div class="radio-item-workshops">
+                            <input x-on:change="tester()" type="radio" id="workshops" name="event" value="Workshops"  style="width:20px; height:20px;">
+                            <label for="workshops" class="font-baloo m-5 text-sm">ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು</label><br>
+                          </div>
+                          <div class="radio-item-events">
+                            <input x-on:change="tester()" type="radio" id="events" name="event" value="Events"  style="width:20px; height:20px; ">
+                            <label for="events" class="font-baloo m-5 text-sm">ಕಾರ್ಯಕ್ರಮಗಳು</label><br>
+                          </div>
+                          <div class="radio-item-filmscreening">
+                            <input x-on:change="tester()" type="radio" id="filmscreening" name="event" value="Film Screening"  style="width:20px; height:20px; ">
+                            <label for="filmscreening" class="font-baloo m-5 text-sm">ಚಲನ ಚಿತ್ರ ಪ್ರದರ್ಶನ</label><br><br>
+                          </div>
+                          
+                          <a class="h-10 text-md font-baloo underline" target="_blank" href="https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile">ನಿರೂಪಕರೊಡಗೂಡಿದ ಸಂಚಿಕೆಗಳು</a><br>
+                          <a class="h-10 text-md font-baloo  underline" target="_blank" href="https://vimeo.com/showcase/contagionfilmseries">ಚಲನಚಿತ್ರಗಳನ್ನು ವೀಕ್ಷಿಸಿ</a><br>
+                          <a class="h-10 text-md font-baloo underline" target="_blank" href="https://www.youtube.com/channel/UC9uOydQRYCKArJVi0Kj6ALw">ಉಪನ್ಯಾಸ ತಪ್ಪಿದೆಯೇ? ಇಲ್ಲಿ ವೀಕ್ಷಿಸಿ</a>
+
+                          <br><br>
+                          <div class="fixed bottom-20 flex flex-col w-full h-auto pr-20 mr-48">
+                            <p class="text-base font-bold font-baloo mb-1">ಕಾರ್ಯಕ್ರಮ ಸಹಭಾಗಿಗಳು</p>
+                            <p class="w-1/5 text-sm font-baloo break-words">ಡಿ.ಬಿ.ಟಿ / ವೆಲ್‌ಕಮ್‌ ಟ್ರಸ್ಟ್‌ ಇಂಡಿಯಾ ಅಲಯಂಸ್‌ | ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ವಿಜ್ಞಾನ ಅಕಾಡಮಿ | ಚೆನ್ನೈ ಫೋಟೋ ಬಿನಾಲೆ (ಸಿ.ಪಿ.ಬಿ) ಪ್ರತಿಷ್ಠಾನ | ಸಂಯುಕ್ತ ರಾಜ್ಯಗಳ ಕಂಸಲೇಟ್‌ ಜೆನರಲ್‌, ಚೆನ್ನೈ | ಡಾ. ಜೆನ್ನರ್'ಸ್ ಹೌಸ್</p>
+                          </div>
+                        </div>
+                
+                        <!-- Modal -->
+                        <div style=" background-color: rgba(0, 0, 0, 0.8)" class="fixed z-40 top-0 right-0 left-0 bottom-0 h-full w-full" x-show.transition.opacity="openEventModal">
+                            <div class="p-4 max-w-xl mx-auto relative absolute left-0 right-0 overflow-hidden mt-24">
+                                <div class="shadow absolute right-0 top-0 w-10 h-10 rounded-full bg-white text-gray-500 hover:text-gray-800 inline-flex items-center justify-center cursor-pointer"
+                                    x-on:click="openEventModal = !openEventModal">
+                                    <svg class="fill-current w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                                        <path
+                                            d="M16.192 6.344L11.949 10.586 7.707 6.344 6.293 7.758 10.535 12 6.293 16.242 7.707 17.656 11.949 13.414 16.192 17.656 17.606 16.242 13.364 12 17.606 7.758z" />
+                                    </svg>
+                                </div>
+                
+                                <div class="shadow w-full rounded-lg bg-white overflow-hidden w-full block p-8">
+                                    
+                                    <h2 id="cardtitle" class="font-bold text-2xl mb-3 text-gray-800"></h2>
+                                    <h2 class="font-baloo text-xl mb-5">ಕಾರ್ಯಕ್ರಮಗಳು</h2>
+                                    <hr>
+                                    <div class="mb-4 mt-3">
+                                      <ul id="eventlist">
+                                        <li>ಈ ದಿನ ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮ ಇಲ್ಲ</li>
+                                      </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /Modal -->
+                    </div>
+                
+                    <script>
+                        const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+                        const DAYS = ['ಭಾನು', 'ಸೋಮ', 'ಮಂಗಳ', 'ಬುಧ', 'ಗುರು', 'ಶುಕ್ರ', 'ಶನಿ'];
+                        document.getElementById("all").checked = 'true';                        
+
+                        function app(json) {
+                            return {
+                                month: '',
+                                year: '',
+                                no_of_days: [],
+                                blankdays: [],
+                                days: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+                
+                                shownEvents:[],
+                                events:[],
+                                event_title: '',
+                                event_date: '',
+                                event_theme: 'blue',
+                
+                                themes: [
+                                    {
+                                        value: "blue",
+                                        label: "Blue Theme"
+                                    },
+                                    {
+                                        value: "red",
+                                        label: "Red Theme"
+                                    },
+                                    {
+                                        value: "yellow",
+                                        label: "Yellow Theme"
+                                    },
+                                    {
+                                        value: "green",
+                                        label: "Green Theme"
+                                    },
+                                    {
+                                        value: "purple",
+                                        label: "Purple Theme"
+                                    }
+                                ],
+                
+                                openEventModal: false,
+                
+                                initDate() {
+                                    let today = new Date();
+                                    this.month = today.getMonth();
+                                    this.year = today.getFullYear();
+                                    this.datepickerValue = new Date(this.year, this.month, today.getDate()).toDateString();
+                                    // Uncomment this once programme pages are live
+                                    fetch('../../lp_json/kn_programme_data.json')
+                                        .then(response => response.json())
+                                        .then(response => {
+                                          console.log('fetched',response);                                         
+                                        
+                                          this.events = response;
+                                          this.shownEvents = response;
+                                          
+                                      });
+
+                                },
+
+                                
+                
+                                isToday(date) {
+                                    const today = new Date();
+                                    const d = new Date(this.year, this.month, date);
+                
+                                    return today.toDateString() === d.toDateString() ? true : false;
+                                },
+                
+                                tester(){
+                                  console.log("Checkbox changed")
+                                  const all = document.getElementById('all')
+                                  const lectures = document.getElementById("lectures")
+                                  const workshops = document.getElementById("workshops")
+                                  const events = document.getElementById("events")
+                                  const films = document.getElementById("filmscreening")
+                                  console.log(lectures.checked)
+                                  console.log(workshops.checked)
+                                  console.log(events.checked)
+                                  console.log(films.checked)
+                                 
+                                  this.shownEvents = this.events;
+                                  
+                                  if(lectures.checked){
+                                    this.shownEvents = this.shownEvents.filter((event)=>{
+                                      return event.type.split(",")[0] == 'kn_lecture'
+                                    })
+                                  }
+                                  if(events.checked){
+                                    this.shownEvents =  this.shownEvents.filter((event)=>{
+                                      return event.type.split(",")[0] == 'kn_event'
+                                    })
+                                  }
+                                  if(workshops.checked){
+                                    this.shownEvents = this.shownEvents.filter((event)=>{
+                                      return event.type.split(",")[0] == 'kn_workshop'
+                                    })
+                                  }
+                                  if(films.checked){
+                                    this.shownEvents = this.shownEvents.filter((event)=>{
+                                      return event.type.split(",")[0] == 'kn_film screening'
+                                    })
+                                  }
+                                  console.log(this.shownEvents)
+                                },
+                                showEventModal(date) {
+                                    // open the modal
+                                    var finaldate = date;
+                                    if(date <10){
+                                        finaldate = `0${date}`
+                                    }
+                                    const today = new Date();
+                                    //const d = new Date(this.year, this.month, date);
+                                    var d = `${MONTH_NAMES[this.month].substring(0,3)} ${finaldate} ${this.year}`
+                                    var arr = this.shownEvents.filter(function(event) {
+                                        return d == event.date.substring(4);
+                                    });
+                                    document.getElementById('cardtitle').innerText = `${date} ${MONTH_NAMES[this.month]}, ${this.year}`
+                                    
+                                    const ul = document.getElementById("eventlist")
+                                    if(arr.length != 0){
+                                      ul.innerHTML = ""
+                                      for(const i in arr){
+                                        const li = document.createElement("li")
+                                        li.className = "font-baloo text-md"
+                                        //<p class="text-xs"
+                                        //:class="{'text-green-600': event.type.split(',')[0] == 'event', 'text-red-600': event.type.split(',')[0] == 'lecture', 'text-blue-600': event.type.split(',')[0] == 'workshop', 'text-yellow-600': event.type.split(',')[0] == 'filmscreening'}"
+                                        //style="width:10px; margin-right:5px;">&#9679;</p>
+                                        li.innerHTML = 
+                                        `<div class="flex">
+                                          <p class="text-sm"
+                                          style="width:10px; margin-right:15px;"
+                                          :class="{'text-green-650': '${arr[i].type.split(',')[0]}' == 'kn_event', 'text-red-650': '${arr[i].type.split(',')[0]}' == 'kn_lecture', 'text-blue-pg': '${arr[i].type.split(',')[0]}' == 'kn_workshop', 'text-yellow-650': '${arr[i].type.split(',')[0]}' == 'kn_film screening'}">
+                                            &#9679;
+                                          </p> 
+                                          <a href='${arr[i].url}'>
+                                          <span class="font-bold">${arr[i].time.substring(0,5)}</span> : <span class="underline"> ${arr[i].title} </span>
+                                          </a>
+                                        </div>`
+                                        ul.appendChild(li);
+                                      }
+                                    }
+
+
+
+                                    this.openEventModal = true;
+                                    this.event_date = new Date(this.year, this.month, date).toDateString();
+                                },
+                
+                                addEvent() {
+                                    if (this.event_title == '') {
+                                        return;
+                                    }
+                
+                                    this.events.push({
+                                        event_date: this.event_date,
+                                        event_title: this.event_title,
+                                        event_theme: this.event_theme
+                                    });
+                
+                                    console.log(this.events);
+                
+                                    // clear the form data
+                                    this.event_title = '';
+                                    this.event_date = '';
+                                    this.event_theme = 'blue';
+                
+                                    //close the modal
+                                    this.openEventModal = false;
+                                },
+                
+                                getNoOfDays() {
+                                    let daysInMonth = new Date(this.year, this.month + 1, 0).getDate();
+                
+                                    // find where to start calendar day of week
+                                    let dayOfWeek = new Date(this.year, this.month).getDay();
+                                    let blankdaysArray = [];
+                                    for ( var i=1; i <= dayOfWeek; i++) {
+                                        blankdaysArray.push(i);
+                                    }
+                
+                                    let daysArray = [];
+                                    for ( var i=1; i <= daysInMonth; i++) {
+                                        daysArray.push(i);
+                                    }
+                                    
+                                    this.blankdays = blankdaysArray;
+                                    this.no_of_days = daysArray;
+                                }
+                            }
+                        }
+                    </script>
+                </div>
+                
+            </div>
+        
+    </div>
+</div>
+</body>
+
+<script src="/static/js/menu.js"></script>

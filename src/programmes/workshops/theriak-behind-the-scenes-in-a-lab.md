@@ -54,7 +54,6 @@ watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=IS_5WJteCC8
     quadwatchtxt: What If Art Could Truly Create Biological Life?
     quadwatchvis: /static/img/M_WK_QUA_WATCHVIS_1.jpg
-eventlist: []
 relatedlist:
   - quadrelatedtxt: "Mapping Cholera: A Tale of Two Cities by Sonia Shah"
     quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/

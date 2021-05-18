@@ -2,7 +2,11 @@
 	<div class = "flex flex-row h-full">
 		<div class="w-768 h-full">
 			<div class="h-auto">
-				<p class="mx-6 text-4xl font-display mb-3">Read Now</p>
+				<p class="mx-6 text-4xl mb-3
+				   {{ "font-baloo" if kannada else "font-display" }}
+				">
+					{{ "ಪ್ರಸಕ್ತ ಅಧ್ಯಯನ" if kannada else "Read Now" }}
+				</p>
 				<div class="mx-6 w-20 h-0 border border-solid border-red-650"></div>
 			</div>
 			<div class = "w-192 mx-6 h-5/6 flex flex-col flex-wrap">	
@@ -10,10 +14,22 @@
 				<div class="h-1/2 flex flex-row py-6 pr-6">
 					<iframe class= "w-1/3" src="{{book.listlink}}" allowfullscreen="true" ></iframe>
 					<div class="w-2/3 px-6">
-						<p class= "text-base font-bold font-trade">{{book.title}}</p>
-						<p class= "text-base font-trade"><i>{{book.author}}</i></p>
+						<p class= "text-base font-bold 
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						">
+							{{book.title}}
+						</p>
+						<p class= "text-base 
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						">
+							<i>{{book.author}}</i>
+						</p>
 						</br>
-						<div class= "text-sm font-trade">{{book.about | markdownify | safe}}</div>
+						<div class= "text-sm 
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						">
+							{{book.about | markdownify | safe}}
+						</div>
 					</div>
 				</div>
 				{% endfor %}
@@ -21,7 +37,11 @@
 		</div>
 		<div class="w-2112 ml-32 h-full">
 			<div class="h-auto">
-				<p class="mx-6 text-4xl font-display mb-3">Recommended Reading</p>
+				<p class="mx-6 text-4xl mb-3
+				   {{ "font-baloo" if kannada else "font-display" }}
+				">
+					{{ "ಪುಸ್ತಕಗಳ ಶಿಫಾರಸ್ಸು" if kannada else "Recommended Reading" }}
+				</p>
 				<div class="mx-6 w-20 h-0 border border-solid border-red-650"></div>
 			</div>
 			<div class = "w-192 mx-6 h-5/6 flex flex-col flex-wrap">	
@@ -29,13 +49,21 @@
 				<div class="h-1/2 flex flex-row py-6 pr-6">
 					<img class= "w-1/3" src="{{book.coverimage}}" allowfullscreen="true" ></iframe>
 					<div class="w-2/3 px-6">
-						<p class= "text-base font-bold font-trade">{{book.title}}</p>
-						<p class= "text-base font-trade"><i>{{book.author}}</i></p>
+						<p class= "text-base font-bold 
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						">{{book.title}}</p>
+						<p class= "text-base 
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						"><i>{{book.author}}</i></p>
 						</br>
-						<div class= "text-sm font-trade mb-3">{{book.about | markdownify | safe}}</div>
+						<div class= "text-sm mb-3
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						">{{book.about | markdownify | safe}}</div>
 						<a href="{{book.link}}">
-						<button class="text-xs py-2 px-12  font-trade rounded-sm border border-solid border-black">
-						Know More
+						<button class="text-xs py-2 px-12 rounded-sm border border-solid border-black
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						">
+							{{ "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ" if kannada else "Know More" }}
 						</button>
 						</a>
 					</div>
@@ -45,7 +73,11 @@
 		</div>
 		<div class="w-1152 ml-16 h-full">
 			<div class="h-auto">
-				<p class="mx-6 text-4xl font-display mb-3">By Our Speakers</p>
+				<p class="mx-6 text-4xl mb-3
+				   {{ "font-baloo" if kannada else "font-display" }}
+				">
+					{{ "ನಮ್ಮ ಭಾಷಣಕಾರರಿಂದ" if kannada else "By Our Speakers" }}
+				</p>
 				<div class="mx-6 w-20 h-0 border border-solid border-red-650"></div>
 			</div>
 			<div class = "w-192 mx-6 h-5/6 flex flex-col flex-wrap">	
@@ -53,13 +85,21 @@
 				<div class="h-1/2 flex flex-row py-6 pr-6">
 					<img class= "w-1/3" src="{{book.coverimage}}" allowfullscreen="true" ></iframe>
 					<div class="w-2/3 px-6">
-						<p class= "text-base font-bold font-trade">{{book.title}}</p>
-						<p class= "text-base font-trade"><i>{{book.author}}</i></p>
+						<p class= "text-base font-bold 
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						">{{book.title}}</p>
+						<p class= "text-base 
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						"><i>{{book.author}}</i></p>
 						</br>
-						<div class= "text-sm font-trade mb-3">{{book.about | markdownify | safe}}</div>
+						<div class= "text-sm mb-3
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						">{{book.about | markdownify | safe}}</div>
 						<a href="{{book.link}}">
-						<button class="text-xs py-2 px-12  font-trade rounded-sm border border-solid border-black">
-						Know More
+						<button class="text-xs py-2 px-12 rounded-sm border border-solid border-black
+						   {{ "font-baloo" if kannada else "font-trade" }}
+						">
+							{{ "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ" if kannada else "Know More" }}
 						</button>
 						</a>
 

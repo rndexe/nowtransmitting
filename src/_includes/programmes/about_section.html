@@ -2,7 +2,11 @@
 		<div class="h-full flex flex-row pt-36">
 			<div class="h-full flex-initial w-240">
 				{% if description %}
-				<pre class="text-base xl:text-lg ml-32 pr-32 font-trade font-normal whitespace-pre-wrap">{{description | markdownify | safe }}</pre>
+				<pre class="text-base xl:text-lg ml-32 pr-32 font-normal whitespace-pre-wrap
+				     {{ "font-baloo" if kannada else "font-trade" }}
+				">
+					{{description | markdownify | safe }}
+				</pre>
 				{% endif %}
 			</div>
 

@@ -1,0 +1,51 @@
+---
+layout: default
+title: Contagion
+path: home
+kannada: true
+---
+<div class="menu-container" id="menu-container">
+    {% include "../_includes/partials/navbar.html" %}
+    {% include "../_includes/partials/menu.html" %}
+
+    <div class="content lg:ml-20">
+
+    <div class="main-content"> 
+        <div class="networktext" id="networktext"></div>
+        <canvas class="networkbg" id="canvas-1"></canvas>
+        <div class="mynetwork" id="mynetwork"></div>
+        <div class="overlay" id="overlay"></div>
+        
+        <button id="infobutton" class="info absolute right-10 top-10">
+            <svg  xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="white">
+                <path id="buttonpath" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+        </button>
+        <button id="languagebutton" class="languagebutton absolute h-10 right-20 top-8 px-4 py-2 text-trueGray-750 bg-white text-base rounded-sm font-trade">
+            <a href="/home">English</a>
+        </button>
+        <img id="legendcard" class="legend" src="/static/img/lp_assets/kn-legend.svg" alt="">
+        <!-- <img id="mediator" class="mediator" src="/static/img/lp_assets/mediator-link.svg" alt=""> -->
+        <div id="mediator" class="mediator p-3 rounded-full bg-white w-36 h-36 absolute bottom-20 right-20 place-items-center">
+            <p class="font-baloo text-align-center py-6 text-xs place-items-center">ಸಂಯೋಜಕರೊಂದಿಗೆ ಸಂದರ್ಶನದ ಮೂಲಕ ಪ್ರದರ್ಶನದ ಉತ್ತಮ ಅನುಭೂತಿಯನ್ನು ಪಡೆಯಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ
+            </p>
+        </div>
+        <div  id="instruct" style="z-index: 9000;" class="animate-pulse font-trade text-base text-trueGray-400 place-items-center fixed top-1/2 left-1/2 -ml-28">
+            <p>ಪ್ರದರ್ಶಿಕೆಯನ್ನು ನೋಡಲು ಇಲ್ಲಿ  ಕ್ಲಿಕ್‌ ಮಾಡಿ.</p>
+        </div>
+        <div id="exhibit-card" style="z-index:10000;"></div>
+        
+
+    </div>
+    </div>
+</div>
+<script src="/static/js/bundle.js"></script>
+<script type="text/paperscript" canvas="canvas-1" src="/static/js/kn_lp.js"></script>
+<script src="/static/js/menu.js"></script>
+
+<script>
+    let ele = document.getElementById("mynetwork");
+    ele.addEventListener("mouseenter", ()=>{
+        document.getElementById("instruct").style.display = "none";
+    })
+</script>

@@ -5,9 +5,13 @@ layout: exhibit_common
 
 	{% set embedwebsite="true" %}
 	{% include "./partials/coverpage.html" %}
-	{% set quote="How do we ensure safety in our homes, schools, and other indoor public spaces?" %}	
+	{% if kannada == 'true' %}
+		{% set quote="ಮುಚ್ಚಿದ ಕೊಠಡಿಯಂತಹ ಒಳಾಂಗಣ ಪರಿಸರದಲ್ಲಿ ನಾವು ರೋಗ ಸೋಂಕಿನಿಂದ ಹೇಗೆ ನಮ್ಮನ್ನು ರಕ್ಷಿಸಿಕೊಳ್ಳ ಬಹುದು?" %}	
+	{% else %}
+		{% set quote="How do we ensure safety in our homes, schools, and other indoor public spaces?" %}	
+	{% endif %}
 
-	{% include "./partials/about.html" %}
+	{% include "./partials/about_section.html" %}
 	{% include "./partials/author_section.html" %}
 	
 	<section id="#further">

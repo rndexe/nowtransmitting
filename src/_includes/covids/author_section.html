@@ -5,12 +5,18 @@
 				<img class="object-scale-down w-auto h-full rounded-lg shadow-lg" src={{speakerimage}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 			</div>
-			<div class="w-3/5 mx-auto pt-10">
-				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{speakername}}</p>
-				<p class="text-base mx-auto text-left font-bold font-trade text-black">{{speakerfield}}</p>
+			<div class="w-3/5 mx-auto pt-10
+			     {{ "font-baloo" if kannada else "font-trade" }}
+			">
+				<p class="text-xl mx-auto text-left font-bold text-black">{{speakername}}</p>
+				<p class="text-base mx-auto text-left font-bold text-black">{{speakerfield}}</p>
 				
 				{% if speakerbio %}
-				<pre class="text-sm whitespace-pre-wrap text-white font-normal font-trade">{{speakerbio | markdownify | safe}}</pre>
+				<pre class="text-sm whitespace-pre-wrap text-white font-normal 
+				     {{ "font-baloo" if kannada else "font-trade" }}
+				">
+					{{speakerbio | markdownify | safe}}
+				</pre>
 				{% endif %}
 			</div>
 		</div>

@@ -3,8 +3,12 @@ layout: exhibit_common
 ---
 
 	{% include "./partials/coverpage.html" %}
-	{% set quote="How can we make sense of the digital world as information multiplies exponentially?" %}	
-	{% include "./partials/about.html" %}
+	{% if kannada == 'true' %}
+		{% set quote="ಡಿಜಿಟಲ್‌ ಪ್ರಪಂಚದಲ್ಲಿ , ಬಿಡುವಿಲ್ಲದೆ ಪ್ರಸಾರವಾಗುತ್ತಿರುವ ಮಾಹಿತಿ ಸುರಿಮಳೆಯನ್ನು ಅರ್ಥೈಸುವುದು ಹೇಗೆ ?" %}	
+	{% else %}
+		{% set quote="How can we make sense of the digital world as information multiplies exponentially?" %}	
+	{% endif %}
+	{% include "./partials/about_section.html" %}
 	
 	
 	{% include "./partials/author_section.html" %}

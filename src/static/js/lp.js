@@ -1,7 +1,7 @@
 function loadJSON(callback) {   
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
-    xobj.open('GET', '../lp_json/programme_data.json', true);
+    xobj.open('GET', '../../lp_json/programme_data.json', true);
     xobj.onreadystatechange = function () {
       if (xobj.readyState == 4 && xobj.status == "200") {
         callback(JSON.parse(xobj.responseText));
@@ -9,17 +9,6 @@ function loadJSON(callback) {
     };
     xobj.send(null);  
   }
-
-
-//<div class="max-w-full flex flex-none h-32 border border-black-500 lg:mx-0 mb-3 rounded-lg">
-//    <img src="/static/img/SGLogo_Black_Transparent.png" alt="" class="w-1/3 h-auto">
-//    <div class="m-3 w-auto flex flex-row">
-//        <a class="w-11/12" href={{links.quadreadlink}}><span>{{links.quadreadtxt}}</span></a>
-//        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-1/12 mt-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-//            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-//        </svg>
-//    </div>
-//</div>
 
 document.getElementById('mediator').addEventListener("click",()=>{
     window.open("https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile")
@@ -130,7 +119,6 @@ function createProgramPopup(title,type,thumbnail,dateText,timeText,url){
 var exhibitcards = document.getElementById('exhibit-card')
 
 loadJSON(function(json) {
-   console.log(json)
     var newjson = [
         {
             "title": "Mapping Cholera: A Tale of Two Cities",
@@ -222,11 +210,6 @@ loadJSON(function(json) {
             "url": "/exhibits/indoor-safety-guidelines/",
             "thumbnail": "/static/img/I_Exhibit_Thumbnail.jpg"
           },
-          
-
-          
-
-          
 
         {
           "title": "When the World Was A Laugh",
@@ -244,152 +227,30 @@ loadJSON(function(json) {
        document.getElementById("buttonpath").setAttribute('d','M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z');
 
        var n = this.getNodeAt(params.pointer.DOM)
-       console.log(`Node is ${n}`)
        //window.location = json[n-8].url;
        //Once programmes are added, check for 8 < n < 23 here and check for n > 23 again for programmes
        if(n!=undefined){
             if(n>23){
-                console.log("Node is event node!")
-                var d = new Date()
-                var date = d.getDate()
-                var month = d.getMonth()
-                var year = d.getFullYear()
-                console.log(d)
-                if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
-                    console.log("Weeek 1")
-                    if(n==24){
-                        var pop = createProgramPopup(
-                            "Antimicrobial Resistance: The Pandemic in the Shadows by Jyoti Joshi",
-                            "Lecture",
-                            "../static/img/N_EXHIBIT_QUA_ATNVIS_1",
-                            "May 7, 2021",
-                            "6:30 pm",
-                            "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
-                            );
-                        pop.href = "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
-                        document.getElementById("networktext").className = "networktext blur"
-                        document.getElementById("canvas-1").className = "networkbg blur"
-                        document.getElementById("mynetwork").className = "mynetwork blur"
-                        exhibitcards.appendChild(pop)
-                    }else if(n==25){
-                        var pop = createProgramPopup(
-                            "Why and How Should We Model Infectious Diseases? by Gautam Menon",
-                            "Lecture",
-                            "../static/img/lp_assets/programme4.jpg",
-                            "May 1,2021",
-                            "6:30 pm",
-                            "https://www.eventbrite.com/e/why-and-how-should-we-model-infectious-diseases-lecture-tutorial-registration-145213889653?aff=ebdsoporgprofile"
-                            );
-
-                        pop.href = "https://www.eventbrite.com/e/why-and-how-should-we-model-infectious-diseases-lecture-tutorial-registration-145213889653?aff=ebdsoporgprofile"
-                        document.getElementById("networktext").className = "networktext blur"
-                        document.getElementById("canvas-1").className = "networkbg blur"
-                        document.getElementById("mynetwork").className = "mynetwork blur"
-                        exhibitcards.appendChild(pop)
-                    }else if(n==26){
-                        var pop = createProgramPopup(
-                            "Where Birds Dance Their Last | Discussion by Lena Bui and Fredric Keck",
-                            "Film Screenings and Discussions",
-                            "../static/img/lp_assets/programme5.jpg",
-                            "May 2, 2021",
-                            "5:00 pm",
-                            "https://www.eventbrite.com/e/where-birds-dance-their-last-film-screening-discussion-registration-145820558215?aff=ebdsoporgprofile"
-                            );
-
-                        pop.href = "https://www.eventbrite.com/e/where-birds-dance-their-last-film-screening-discussion-registration-145820558215?aff=ebdsoporgprofile"
-                        document.getElementById("networktext").className = "networktext blur"
-                        document.getElementById("canvas-1").className = "networkbg blur"
-                        document.getElementById("mynetwork").className = "mynetwork blur"
-                        exhibitcards.appendChild(pop)
-                    }else if(n==27){
-                        var pop = createProgramPopup(
-                            "Control, Consensus, Chaos: The Global Response to the Pandemic by Sheila Jasanoff",
-                            "Lecture",
-                            "../static/img/lp_assets/programme2.jpg",
-                            "April 30, 2021",
-                            "6:30 pm",
-                            "https://www.eventbrite.com/e/contagion-opening-event-lecture-by-sheila-jasanoff-registration-148321719255"
-                            );
-
-                        pop.href = "https://www.eventbrite.com/e/contagion-opening-event-lecture-by-sheila-jasanoff-registration-148321719255"
-                        document.getElementById("networktext").className = "networktext blur"
-                        document.getElementById("canvas-1").className = "networkbg blur"
-                        document.getElementById("mynetwork").className = "mynetwork blur"
-                        exhibitcards.appendChild(pop)
-                    }else if(n==28){
-                        var pop = createProgramPopup(
-                            "Antimicrobial Resistance: The Pandemic in the Shadows by Jyoti Joshi",
-                            "Lecture",
-                            "../static/img/lp_assets/programme1.jpg",
-                            "May 7, 2021",
-                            "6:30 pm",
-                            "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
-                            );
-
-                        pop.href = "https://www.eventbrite.com/e/antimicrobial-resistance-the-pandemic-in-the-shadows-lecture-tutorial-registration-145225482327?aff=ebdsoporgprofile"
-                        document.getElementById("networktext").className = "networktext blur"
-                        document.getElementById("canvas-1").className = "networkbg blur"
-                        document.getElementById("mynetwork").className = "mynetwork blur"
-                        exhibitcards.appendChild(pop)
-                    }
-                }
-                else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-3')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-9')) ){
-                    console.log("Week 2")
-                    var newjs = json.filter((event)=>{
-                        return (new Date(event.date) >= new Date('2021-5-3')) && (new Date(event.date) <= new Date('2021-5-9'))
-                    });
-                    console.log("JSON IS ")
-                    console.log(newjs)
-                    var pop = createProgramPopup(
-                        newjs[n-24].title,
-                        newjs[n-24].type.split(",")[0],
-                        newjs[n-24].thumbnail,
-                        newjs[n-24].date,
-                        newjs[n-24].time,
-                        newjs[n-24].url
-                        );
-
-                    pop.href = newjs[n-24].url;
-                    document.getElementById("networktext").className = "networktext blur"
-                    document.getElementById("canvas-1").className = "networkbg blur"
-                    document.getElementById("mynetwork").className = "mynetwork blur"
-                    exhibitcards.appendChild(pop)
-                    
-                }
-                else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-10')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-16')) ){
-                    console.log("New week 1")
-                    var newjs = json.filter((event)=>{
-                        return (new Date(event.date) >= new Date('2021-5-10')) && (new Date(event.date) <= new Date('2021-5-16'))
-                    });
-                    console.log("JSON IS ")
-                    console.log(newjs)
-                    var pop = createProgramPopup(
-                        newjs[n-24].title,
-                        newjs[n-24].type.split(",")[0].toUpperCase(),
-                        newjs[n-24].thumbnail,
-                        newjs[n-24].date,
-                        newjs[n-24].time,
-                        newjs[n-24].url
-                        );
-
-                    pop.href = newjs[n-24].url;
-                    document.getElementById("networktext").className = "networktext blur"
-                    document.getElementById("canvas-1").className = "networkbg blur"
-                    document.getElementById("mynetwork").className = "mynetwork blur"
-                    exhibitcards.appendChild(pop)
-                }
-                else if((d >= new Date('2021-5-17')) && (d <= new Date('2021-5-23')) ){
-
-                }
-                else if((d >= new Date('2021-5-24')) && (d <= new Date('2021-5-30')) ){
-
-                }
-                else if((d >= new Date('2021-5-31')) && (d <= new Date('2021-6-6')) ){
-
-                }
-                else if((d >= new Date('2021-6-7')) && (d <= new Date('2021-6-13')) ){
-
-                }
+                var newjs = json.filter((event)=>{
+                    //TODO 1
+                    //change date here to change each weeks programmes
+                    return (new Date(event.date) >= new Date('2021','4','17')) && (new Date(event.date) <= new Date('2021','4','23'))
+                });
+                var pop = createProgramPopup(
+                    newjs[n-24].title,
+                    newjs[n-24].type.split(",")[0].toUpperCase(),
+                    newjs[n-24].thumbnail,
+                    newjs[n-24].date,
+                    newjs[n-24].time,
+                    newjs[n-24].url
+                    );
+                pop.href = newjs[n-24].url;
+                document.getElementById("networktext").className = "networktext blur"
+                document.getElementById("canvas-1").className = "networkbg blur"
+                document.getElementById("mynetwork").className = "mynetwork blur"
+                exhibitcards.appendChild(pop)
+                
+               
             }else{
                 var pop = createPopup(newjson[n-8].title,newjson[n-8].subtitle,newjson[n-8].thumbnail,newjson[n-8].url);
                 pop.href = newjson[n-8].url
@@ -419,11 +280,13 @@ function getVector(radians, length) {
 
 const infobutton = document.getElementById('infobutton');
 const legendcard = document.getElementById('legendcard');
+const languagebutton = document.getElementById('languagebutton')
 
 infobutton.addEventListener('click',()=>{
     if(legendcard.style.visibility == 'visible'){
         legendcard.style.visibility = 'hidden';
-        
+        languagebutton.style.visibility = "visible"
+
         document.getElementById("networktext").className = "networktext"
         document.getElementById("canvas-1").className = "networkbg"
        document.getElementById("mynetwork").className = "mynetwork"
@@ -433,6 +296,7 @@ infobutton.addEventListener('click',()=>{
     }
     else{
         exhibitcards.innerHTML = "";
+        languagebutton.style.visibility = "hidden"
         legendcard.style.visibility = 'visible';
         document.getElementById("networktext").className = "networktext blur"
         document.getElementById("canvas-1").className = "networkbg blur"
@@ -527,12 +391,7 @@ function generateConnections(paths) {
     }
 }
 
-
-
-
-
 var DIR = "/static/img/lp_assets/";
-
 
 var nodes = new vis.DataSet([
     { id: 8,  shape:"circle", opacity:0.9, group: 1,x:680,y:0, borderWidth: 0,  font:  { size: 145, color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/2.png", */ label: "  " /*label: "2020 Vision"*/},
@@ -554,10 +413,10 @@ var nodes = new vis.DataSet([
     { id: 22, shape:"circle", opacity:0.9, group: 1, x:1900,y:700, borderWidth: 0,  font:  { size: 145,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/3.png", */ label: "  " /*label: "Drawing the Bombay Plague"*/},
     { id: 23, shape:"circle", opacity:0.9, group: 2, x:2390,y:750, borderWidth: 0,  font: { size: 145,  color:"#fff" }, color: {border: "#d62b2b", background: "#d62b2b", hover: { background: "#d62b2b",}, highlight: { background: "#d62b2b", }}, hidden:false, size:100, padding:20, /*image: "assets/6.png", */ label: "  " /*label: "Ants and Antimicrobial Resistance"*/},
 
-    { id: 1, x:850,y:400, fixed:true, shape:"image", image: DIR + 'mapping.svg',       size:80, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Mapping" */},
-    { id: 2, x:850,y:400, fixed:true, shape:"image", image: DIR + 'documenting.svg',   size:80, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Documenting"*/},
-    { id: 3, x:850,y:400, fixed:true, shape:"image", image: DIR + 'experimenting.svg', size:80, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Experimenting"*/},
-    { id: 4, x:850,y:400, fixed:true, shape:"image", image: DIR + 'narrating.svg',     size:80, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Narrating"*/},
+    { id: 1, x:850,y:800, fixed:true, shape:"image", image: DIR + 'mapping.svg',       size:80, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Mapping" */},
+    { id: 2, x:850,y:800, fixed:true, shape:"image", image: DIR + 'documenting.svg',   size:80, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Documenting"*/},
+    { id: 3, x:850,y:800, fixed:true, shape:"image", image: DIR + 'experimenting.svg', size:80, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Experimenting"*/},
+    { id: 4, x:850,y:800, fixed:true, shape:"image", image: DIR + 'narrating.svg',     size:80, margin:60, group: 0, font: { size: 36, color:"#fff", strokeWidth:0, strokeColor:"#000" }, hidden:true,  /*label: "Narrating"*/},
 ]);
 
 var opac = 0;
@@ -601,142 +460,24 @@ var newEdges = new vis.DataSet([
 
 //add stuff to check for date here
 var d = new Date()
-console.log(d)
 var date = d.getDate()
 var month = d.getMonth()
-console.log(d.getUTCMonth())
 var year = d.getFullYear()
-console.log(`${year}-${month}-${date}`)
-if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
-    nodes.add({ id: 24, opacity:0.9,  shape:"circle", group: 1,x:1960,y:500, borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 25, opacity:0.9,  shape:"circle", group: 1,x:1930,y:600,  borderWidth: 0,  font: { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 26, opacity:0.9,  shape:"circle", group: 1,x:2000,y:800,  borderWidth: 0,  font: { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 27, opacity:0.9,  shape:"circle", group: 1,x:1000,y:1600, borderWidth: 0,  font: { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 28, opacity:0.9,  shape:"circle", group: 1,x:0,y:300,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    
-    newEdges.add({from: 24, to: 19, length:500, color:{opacity:opac}})
-    newEdges.add({from: 25, to: 23, length:500, color:{opacity:opac}})
-    newEdges.add({from: 26, to: 20, length:500, color:{opacity:opac}})
-    newEdges.add({from: 28, to: 17, length:100, color:{opacity:opac}})
-    console.log("Week 1")
 
-}else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-3')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-9')) ){
-    console.log("Week 2")
-    nodes.add({ id: 24, opacity:0.9,  shape:"circle", group: 1,x:0,y:300,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 25, opacity:0.9,  shape:"circle", group: 1,x:0,y:350,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 26, opacity:0.9,  shape:"circle", group: 1,x:0,y:360,  borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 27, opacity:0.9,  shape:"circle", group: 1,x:1960,y:500, borderWidth: 0,  font:  { size: 120, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+//TODO 2
+// add more nodes here to change the number of programmes for wach week
+nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 25,  shape:"circle", group: 1,x:-300,y:500,  borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 26,  shape:"circle", group: 1,x:900,y:0,  borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 27,  shape:"circle", group: 1,x:1800,y:650, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 28,  shape:"circle", group: 1,x:-250,y:600,  borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 29,  shape:"circle", group: 1,x:-200,y:800, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 30,  shape:"circle", group: 1,x:800,y:1600, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 31,  shape:"circle", group: 1,x:850,y:1700, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 32,  shape:"circle", group: 1,x:850,y:1600, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 33,  shape:"circle", group: 1,x:1800,y:850, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
 
-    newEdges.add({from: 24, to: 25, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 26, length:200, color:{opacity:0}})
-    newEdges.add({from: 26, to: 24, length:200, color:{opacity:0}})
-    
-}
-// new week 1
-else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-10')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-16')) ){
-    nodes.add({ id: 24,  shape:"circle", group: 1,x:960,y:0, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 25,  shape:"circle", group: 1,x:1800,y:500,  borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 26,  shape:"circle", group: 1,x:1900,y:650,  borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 27,  shape:"circle", group: 1,x:-150,y:650, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 28,  shape:"circle", group: 1,x:2000,y:600,  borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 29,  shape:"circle", group: 1,x:700,y:1, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 30,  shape:"circle", group: 1,x:-100,y:500, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 31,  shape:"circle", group: 1,x:850,y:1, borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    
 
-    //newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
-}
-//new week 2
-else if((d >= new Date('2021-4-17')) && (d <= new Date('2021-4-23')) ){
-    nodes.add({ id: 24,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 25,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 26,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 27,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 28,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 29,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 30,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 31,  shape:"circle", group: 1,x:700,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-
-    newEdges.add({from: 24, to: 25, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 26, length:200, color:{opacity:0}})
-    newEdges.add({from: 26, to: 27, length:200, color:{opacity:0}})
-    newEdges.add({from: 27, to: 28, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 29, length:200, color:{opacity:0}})
-    newEdges.add({from: 29, to: 30, length:200, color:{opacity:0}})
-    newEdges.add({from: 30, to: 31, length:200, color:{opacity:0}})
-
-    newEdges.add({from: 30, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
-}
-//new week 3
-else if((d >= new Date('2021-4-24')) && (d <= new Date('2021-4-30')) ){
-    nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 27,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 28,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 29,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 30,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 31,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 32,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-
-    newEdges.add({from: 24, to: 25, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 26, length:200, color:{opacity:0}})
-    newEdges.add({from: 26, to: 27, length:200, color:{opacity:0}})
-    newEdges.add({from: 27, to: 28, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 29, length:200, color:{opacity:0}})
-    newEdges.add({from: 29, to: 30, length:200, color:{opacity:0}})
-    newEdges.add({from: 30, to: 31, length:200, color:{opacity:0}})
-    newEdges.add({from: 31, to: 32, length:200, color:{opacity:0}})
-
-    newEdges.add({from: 30, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
-}
-// new week 4
-else if((d >= new Date('2021-4-31')) && (d <= new Date('2021-5-6')) ){
-    nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 27,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 28,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 29,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 30,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-
-    newEdges.add({from: 24, to: 25, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 26, length:200, color:{opacity:0}})
-    newEdges.add({from: 26, to: 27, length:200, color:{opacity:0}})
-    newEdges.add({from: 27, to: 28, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 29, length:200, color:{opacity:0}})
-    newEdges.add({from: 29, to: 30, length:200, color:{opacity:0}})
-    newEdges.add({from: 30, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
-}
-//new week 5
-else if((d >= new Date('2021-5-7')) && (d <= new Date('2021-5-13')) ){
-    nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 26,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 27,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 28,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 29,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 30,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-    nodes.add({ id: 31,  shape:"circle", group: 1,x:800,y:1600, title:"Event 1", borderWidth: 0,  font:  { size: 100, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-
-    newEdges.add({from: 24, to: 25, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 26, length:200, color:{opacity:0}})
-    newEdges.add({from: 26, to: 27, length:200, color:{opacity:0}})
-    newEdges.add({from: 27, to: 28, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 29, length:200, color:{opacity:0}})
-    newEdges.add({from: 29, to: 30, length:200, color:{opacity:0}})
-    newEdges.add({from: 30, to: 31, length:200, color:{opacity:0}})
-
-    newEdges.add({from: 30, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 28, to: 24, length:200, color:{opacity:0}})
-    newEdges.add({from: 25, to: 27, length:200, color:{opacity:0}})
-}
 
 
 var bgnodes = new vis.DataSet([
@@ -779,19 +520,7 @@ var options = {
         zoomView: false,
         dragView:false,
     },
-    // physics: {
-    //     "repulsion": {
-    //     centralGravity: 0.001,
-    //     springLength: 195,
-    //     springConstant: 0.075,
-    //     nodeDistance: 100,
-    //     damping: 0.01,
-    //     },
-    //     maxVelocity: 0.1,
-    //     minVelocity: 0.001,
-    //     solver: "repulsion"
-    // }
-
+    
     physics: {
         "repulsion": {
         centralGravity: 0.001,
@@ -895,47 +624,22 @@ network.on("hoverNode",function (params){
         showStuff(4)
     }
     if(id>23){
-        console.log("Hovered on programme")
-        console.log(id)
-        var date = d.getDate()
-                var month = d.getMonth()
-                var year = d.getFullYear()
-        if(new Date(`${year}-${month}-${date}`) <= new Date('2021-4-2')){
-            if(id== 25 ){
-                showStuff(1)
-            }
-            else if(id== 27 || id==24 || id==26){
-                showStuff(2)
-            }
-            else if(id == 28){
-                showStuff(3)
-            }
+        //TODO 3
+        //change programme node ids here to change subtheme
+        if(id == 24 || id == 25 || id == 28 || id == 31 || id == 32 || id == 33){
+            showStuff(2)
         }
-        else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-3')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-9'))){
-            if(id == 24){
-                showStuff(3)
-            }
-            else if(id == 25 || id == 26){
-                showStuff(4)
-            }
-            else if(id == 27){
-                showStuff(2)
-            }
+        else if(id == 26){
+            showStuff(3)
         }
-        else if((new Date(`${year}-${month}-${date}`) >= new Date('2021-4-10')) && (new Date(`${year}-${month}-${date}`) <= new Date('2021-4-16'))){
-            if(id == 24 || id == 25 || id == 28){
-                console.log(3)
-                showStuff(3)
-            }
-            else if(id == 26 || id == 29 || id == 30 || id == 31){
-                showStuff(2)
-            }
-            else if(id == 27){
-                showStuff(4)
-            }
+        else if(id == 29 || id == 30){
+            showStuff(4)
         }
+        else if(id == 27){
+            showStuff(1)
+        }
+        
     }
-//    network.interactionHandler._checkShowPopup(params.pointer.DOM);
 });
 
 network.on("blurNode", function (params) {
@@ -943,10 +647,6 @@ network.on("blurNode", function (params) {
     hideNodes()
 });
 
-// network.on("click", function (params) {
-//     n = this.getNodeAt(params.pointer.DOM);
-//     window.location = json[n-8].url
-// });
 
 
 var blobRadius = 45;
@@ -958,11 +658,11 @@ if(window.outerWidth < window.outerHeight){
 
 function updater(){
     project.clear()
-    var nodeID = [8,10,14,15,16,17,22,24,26];
+    var nodeID = [8,10,14,15,16,17,25,30,33];
 
     ballPositions = [];
     for(const item in nodeID){
-        const node = network.getPositions([nodeID[item]])[nodeID[item]]
+        const node = network.getPosition(nodeID[item])    
         const corner = network.canvasToDOM({
             x: node.x,
             y: node.y
@@ -971,7 +671,9 @@ function updater(){
         var arr = []
         arr.push(corner.x+offset)
         arr.push(corner.y+offset)
+        
         ballPositions.push(arr)
+        
     }
     
     var circlePaths = [];

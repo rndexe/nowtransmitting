@@ -3,8 +3,12 @@ layout: exhibit_common
 ---
 
 	{% include "./partials/coverpage.html" %}
-	{% set quote="Contagious diseases have shaped human history and they continue to remain with us today." %}	
-	{% include "./partials/about.html" %}
+	{% if kannada == 'true' %}
+		{% set quote="ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳು ಮಾನವರ ಆರೋಗ್ಯಕ್ಕೆ ಅಪಾಯಕಾರಿ, ಜೊತೆಗೆ ಕಳಂಕದ ರುವಾರಿಗಳೂ ಹೌದು." %}	
+	{% else %}
+		{% set quote="Contagious diseases have shaped human history and they continue to remain with us today." %}	
+	{% endif %}
+	{% include "./partials/about_section.html" %}
 	{% include "./partials/author_section.html" %}
 	{% include "./partials/process_section.html" %}
 

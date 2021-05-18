@@ -62,11 +62,13 @@ body, html{
 }
 
 .info{
-    position: absolute;
-    top:0;
-    right:0;
-    margin:20px;
+
     z-index:10000;
+}
+
+.languagebutton{
+ 
+    z-index:9999;
 }
 
 .legend{

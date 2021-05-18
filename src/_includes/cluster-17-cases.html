@@ -4,8 +4,12 @@ layout: exhibit_common
 
 	{% set embedwebsite="true" %}
 	{% include "./partials/coverpage.html" %}
-	{% set quote="This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences." %}
-	{% include "./partials/about.html" %}
+	{% if kannada == 'true' %}
+		{% set quote="ಅವರೆಲ್ಲರೂ ಹೊಟೆಲ್ ನಿಂದ  ಹೊರ ಹೋದಾಗ ‌, ಅವರೊಂದಿಗೆ ಸಾರ್ಸ್‌ ರೋಗವೂ  ವಿಶ್ವದೆಲ್ಲೆಡೆ  ಪ್ರಸರಿಸಿತು.‌" %}	
+	{% else %}
+		{% set quote="This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences." %}
+	{% endif %}
+	{% include "./partials/about_section.html" %}
 	{% include "./partials/author_section.html" %}
 
 	{% include "./partials/process_section.html" %}

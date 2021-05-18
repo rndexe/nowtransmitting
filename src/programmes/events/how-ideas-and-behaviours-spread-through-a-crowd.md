@@ -51,5 +51,4 @@ eventlist:
   - quadeventtxt: The Network Dynamics of Social Change | Lecture by Damon Centola
     quadeventlink: http://bit.ly/lecture-centola
     quadeventvis: /static/img/PL_damon_thumbnail.jpg
-relatedlist: []
 ---

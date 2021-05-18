@@ -1,6 +1,7 @@
 {
-    "path" : "kn-exhibits",
+    "path" : "kn_exhibits",
+    "kannada" : "true",
     "tags": [
-        "kn-exhibit"
+        "kn_exhibit"
     ]
 }
