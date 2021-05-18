@@ -1,6 +1,6 @@
-<section class="w-auto h-full max-h-full pl-32 pr-32 pt-16 flex-none bg-white">
-	<div class = "flex flex-row h-full">
-		<div class="mr-16 w-auto h-full">
+<section class="w-full lg:w-auto h-auto lg:h-full lg:max-h-full pl-10 pr-10 lg:pl-32 lg:pr-32 lg:pr-20 pt-16 flex-none bg-white">
+	<div class = "flex flex-col lg:flex-row h-full mb-32 lg:mb-0">
+		<div class="lg:mr-16 w-full lg:w-auto h-auto lg:h-full">
 			<div class="h-auto">
 				<p class="text-4xl mb-3
 					  {{ "font-baloo" if kannada else "font-display"}} 
@@ -9,30 +9,30 @@
 				</p>
 				<div class="w-20 h-0 border border-solid border-red-650"></div>
 			</div>
-			<div class="flex flex-row mt-6 h-4/6">
+			<div class="flex flex-col lg:flex-row mt-6 lg:h-4/6">
 				{%- for entry in promptAlist -%}
-				<div class="flex flex-row mr-16 h-full ">
+				<div class="flex flex-col lg:flex-row lg:mr-16 lg:h-full">
 					{% if entry.name %}
-					<div class="ml-16 mr-10 mt-48 
+					<div class="lg:ml-16 lg:mr-10 mt-16 lg:mt-48
 						    {{ "font-baloo" if kannada else "font-trade" }}
-					">
-						<p class="text-sm mb-2 w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
-						<p class="text-sm mb-10 w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
+                        ">
+						<p class="text-sm mb-2 w-full lg:w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-full lg:w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
 					</div>
 					{% endif %}
-					<div class= "flex flex-col w-auto h-full">
+					<div class= "flex flex-col pb-10 lg:pb-0 w-auto h-full">
 						<img class="object-contain h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
-						<div class="w-96 pt-6">
+						<div class="w-full lg:w-96 pt-6">
 							<p class="text-xs font-normal text-trueGray-400
 							    {{ "font-baloo" if kannada else "font-trade" }}
-							">{{entry.caption}}</p>
+                            ">{{entry.caption}}</p>
 						</div>
 					</div>
 				</div>
 				{%- endfor -%}
 			</div>
 		</div>
-		<div class="mr-16 w-auto h-full">
+		<div class="lg:mr-16 w-full lg:w-auto h-auto lg:h-full">
 			<div class="h-auto">
 				<p class="text-4xl mb-3
 					  {{ "font-baloo" if kannada else "font-display"}} 
@@ -41,30 +41,30 @@
 				</p>
 				<div class="w-20 h-0 border border-solid border-red-650"></div>
 			</div>
-			<div class="flex flex-row mt-6 h-4/6">
+			<div class="flex flex-col lg:flex-row mt-6 lg:h-4/6">
 				{%- for entry in promptBlist -%}
-				<div class="flex flex-row mr-16 h-full ">
+				<div class="flex flex-col lg:flex-row lg:mr-16 lg:h-full">
 					{% if entry.name %}
-					<div class="ml-16 mr-10 mt-48
+					<div class="lg:ml-16 lg:mr-10 mt-16 lg:mt-48
 					     {{ "font-baloo" if kannada else "font-trade" }}
-					">
-						<p class="text-sm mb-2 w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
-						<p class="text-sm mb-10 w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
+                        ">
+						<p class="text-sm mb-2 w-full lg:w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-full lg:w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
 					</div>
 					{% endif %}
-					<div class= "flex flex-col w-auto h-full">
+					<div class= "flex flex-col pb-10 lg:pb-0 w-auto h-full">
 						<img class="object-contain h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
-						<div class="w-96 pt-6">
-							<p class="text-xs font-normal text-trueGray-400
+						<div class="w-full lg:w-96 pt-6">
+							<p class="text-xs font-normal font-trade text-trueGray-400
 							   {{ "font-baloo" if kannada else "font-trade" }}
-							">{{entry.caption}}</p>
+                            ">{{entry.caption}}</p>
 						</div>
 					</div>
 				</div>
 				{%- endfor -%}
 			</div>
 		</div>
-		<div class="mr-16 w-auto h-full">
+		<div class="lg:mr-16 w-full lg:w-auto h-auto lg:h-full">
 			<div class="h-auto">
 
 				<p class="text-4xl mb-3
@@ -74,23 +74,23 @@
 				</p>
 				<div class="w-20 h-0 border border-solid border-red-650"></div>
 			</div>
-			<div class="flex flex-row mt-6 h-4/6">
+			<div class="flex flex-col lg:flex-row mt-6 lg:h-4/6">
 				{%- for entry in promptClist -%}
-				<div class="flex flex-row mr-16 h-full ">
+				<div class="flex flex-col lg:flex-row lg:mr-16 lg:h-full">
 					{% if entry.name %}
-					<div class="ml-16 mr-10 mt-48
+					<div class="lg:ml-16 lg:mr-10 mt-16 lg:mt-48
 					     {{ "font-baloo" if kannada else "font-trade" }}
-					">
-						<p class="text-sm mb-2 w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
-						<p class="text-sm mb-10 w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
+                        ">
+						<p class="text-sm mb-2 w-full lg:w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-full lg:w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
 					</div>
 					{% endif %}
-					<div class= "flex flex-col w-auto h-full">
+					<div class= "flex flex-col pb-10 lg:pb-0 w-auto h-full">
 						<img class="object-contain h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
-						<div class="w-144 pt-6">
-							<p class="text-xs font-normal text-trueGray-400
+						<div class="w-full lg:w-96 pt-6">
+							<p class="text-xs font-normal font-trade text-trueGray-400
 							   {{ "font-baloo" if kannada else "font-trade" }}
-							">{{entry.caption}}</p>
+                            ">{{entry.caption}}</p>
 						</div>
 					</div>
 				</div>
@@ -98,7 +98,7 @@
 			</div>
 		</div>
 
-		<div class="mr-16 w-auto h-full">
+		<div class="lg:mr-16 w-full lg:w-auto h-auto lg:h-full">
 			<div class="h-auto">
 				<p class="text-4xl mb-3
 					  {{ "font-baloo" if kannada else "font-display" }} 
@@ -107,23 +107,23 @@
 				</p>
 				<div class="w-20 h-0 border border-solid border-red-650"></div>
 			</div>
-			<div class="flex flex-row mt-6 h-4/6">
+			<div class="flex flex-col lg:flex-row mt-6 lg:h-4/6">
 				{%- for entry in promptDlist -%}
-				<div class="flex flex-row mr-16 h-full ">
+				<div class="flex flex-col lg:flex-row lg:mr-16 lg:h-full">
 					{% if entry.name %}
-					<div class="ml-16 mr-10 mt-48
+					<div class="lg:ml-16 lg:mr-10 mt-16 lg:mt-48
 					     {{ "font-baloo" if kannada else "font-trade" }}
-					">
-						<p class="text-sm mb-2 w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
-						<p class="text-sm mb-10 w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
+                        ">
+						<p class="text-sm mb-2 w-full lg:w-96 font-bold text-trueGray-750"> Photographer: {{entry.name}}</p>
+						<p class="text-sm mb-10 w-full lg:w-96 font-normal text-trueGray-750">{{entry.bio}}</p>
 					</div>
 					{% endif %}
-					<div class= "flex flex-col w-auto h-full">
+					<div class= "flex flex-col pb-10 lg:pb-0 w-auto h-full">
 						<img class="object-contain h-full" src={{entry.coverimage}} oncontextmenu="return false" ondragstart="return false">	
-						<div class="w-144 pt-6">
-							<p class="text-xs font-normal text-trueGray-400
+						<div class="w-full lg:w-192 pt-6">
+							<p class="text-xs font-normal font-trade text-trueGray-400
 							   {{ "font-baloo" if kannada else "font-trade" }}
-							">{{entry.caption}}</p>
+                            ">{{entry.caption}}</p>
 						</div>
 					</div>
 				</div>

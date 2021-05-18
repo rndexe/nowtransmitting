@@ -499,6 +499,17 @@ var bgedges = new vis.DataSet([
 ]);
 
 
+var blobRadius = 45;
+var offset = 10;
+var drag = false;
+var zoom = false;
+if(window.outerWidth < window.outerHeight){
+    blobRadius = 15;
+    offset = 5;
+    drag = true;
+    zoom=true;
+   
+}
 
 var container = document.getElementById("mynetwork");
 var data = {
@@ -517,8 +528,8 @@ var options = {
     },
     interaction: { 
         hover: true,
-        zoomView: false,
-        dragView:false,
+        zoomView: zoom,
+        dragView:drag,
     },
     
     physics: {
@@ -605,6 +616,23 @@ function showStuff(x){
     
 }
 
+
+
+network.on("zoom",function(){
+    var scaleOption = { scale : network.getScale()*1.2};
+    newnetwork.moveTo(scaleOption);
+})
+
+//Adding movement of bg nodes on drag
+
+// network.on("dragStart",function(){
+//     console.log("hahaha")
+//     newnetwork.moveNode(1,network.getPosition(10).x,network.getViewPosition(10).y)
+//     newnetwork.moveNode(2,network.getPosition(15).x,network.getViewPosition(15).y)
+//     newnetwork.moveNode(3,network.getPosition(23).x,network.getViewPosition(23).y)
+
+// })
+
 var moving = false;
 
 network.on("hoverNode",function (params){
@@ -649,12 +677,6 @@ network.on("blurNode", function (params) {
 
 
 
-var blobRadius = 45;
-var offset = 10;
-if(window.outerWidth < window.outerHeight){
-    blobRadius = 15;
-    offset = 5;
-}
 
 function updater(){
     project.clear()

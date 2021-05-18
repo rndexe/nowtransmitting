@@ -1,5 +1,5 @@
 {
-    "layout" : "programmes/layout_lecture",
+    "layout" : "programmes/layout_programme",
     "kannada" : "true",
     "path" : "events",
     "tags": [

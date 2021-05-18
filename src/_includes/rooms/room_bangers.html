@@ -1,7 +1,7 @@
-<section class="w-auto h-full max-h-full pr-20 pt-16 flex-none bg-white">
-	<div class = "flex flex-row w-auto h-full">
+<section class="w-full lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 pt-16 flex-none bg-white">
+	<div class = "flex flex-col lg:flex-row w-full lg:w-auto h-auto lg:h-full mb-32 lg:mb-0">
 	{%- for pod in podcastlist -%}
-		<div class="flex flex-col flex-none w-auto h-4/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
+		<div class="flex flex-col flex-none w-full lg:h-4/6 pl-12 pr-12 pb-10 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
 			
 			<p class="text-3xl mb-3
 			   {{ "font-baloo" if kannada else "font-display" }}
@@ -14,12 +14,14 @@
 			">
 				{{pod.subtitle}}
 			</p>
-			<div class="flex flex-row h-full">
+			<div class="flex flex-col lg:flex-row lg:h-full">
 				{% if pod.podcastimage %}
-				<img class="object-contain w-auto h-full shadow-2xl" src={{pod.podcastimage}} oncontextmenu="return false" ondragstart="return false">
+				<img class="object-contain w-full h-auto lg:w-auto lg:h-full shadow-2xl" src={{pod.podcastimage}} oncontextmenu="return false" ondragstart="return false">	
 				{% endif %}
-				<div class="pl-10">
+<<<<<<< HEAD
+				<div class="lg:pl-10">
 					<p class="text-sm mb-10 w-96 font-normal text-trueGray-750
+					<p class="text-sm my-4 lg:mb-10 w-full lg:w-96 font-normal text-trueGray-750
 					   {{ "font-baloo" if kannada else "font-trade" }}
 
 					">

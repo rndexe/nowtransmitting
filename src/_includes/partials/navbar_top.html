@@ -1,42 +1,42 @@
-<div id="nav-items-container" class="hidden lg:flex lg:fixed lg:mt-10 lg:ml-32" style="visibility: hidden;">
-	<button id="backbutton">
+<div id="nav-items-container" class="block w-full lg:w-auto lg:invisible lg:flex fixed lg:mt-10 lg:ml-32 bg-white bg-opacity-90 lg:bg-transparent">
+	<button id="backbutton" class="hidden lg:block mt-auto">
 		<svg class="w-6" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path	d="M1.02698 11.9929L5.26242 16.2426L6.67902 14.8308L4.85766 13.0033L22.9731 13.0012L22.9728 11.0012L4.85309 11.0033L6.6886 9.17398L5.27677 7.75739L1.02698 11.9929Z" 
 			fill="#a3a3a3" />
 		</svg>
 	</button>
-	<ul id="nav-items" class="list-style-none h-30 text-3xl flex flex-none">
-		<li id="nav-item-about" class="inline lg:m-5 lg:my-5 lg:text-md 
+	<ul id="nav-items" class="list-style-none h-12 lg:h-30 text-xl lg:text-3xl flex flex-auto lg:flex-none ">
+		<li id="nav-item-about" class="inline mx-auto my-auto lg:m-5 lg:my-5 lg:text-md 
 			{{ "font-baloo" if kannada else "font-display" }}
 		">
 			<a style="color:#a3a3a3; font-weight:700; letter-spacing:1px; " href="#about">
 				{{ "ಪ್ರದರ್ಶನ" if kannada else "About" }}
 			</a>
-			<div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
+			<div class="hidden lg:block mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
 		</li>
-		<li id="nav-item-scholar" class="inline lg:m-5 lg:my-5 lg:text-md 
+		<li id="nav-item-scholar" class="inline mx-auto my-auto lg:m-5 lg:my-5 lg:text-md 
 			{{ "font-baloo" if kannada else "font-display" }}
 		">
 			<a style="color:#a3a3a3; font-weight:700; letter-spacing:1px;" href="#authors">
 				{{authortype}}
 			</a>
-			<div class=" mb-3" style=" width: 60px; border: 1px solid #fff; height:0;"></div>
+			<div class="hidden lg:block mb-3" style=" width: 60px; border: 1px solid #fff; height:0;"></div>
 		</li>
-		<li id="nav-item-process" class="inline lg:m-5 lg:my-5 lg:text-md 
+		<li id="nav-item-process" class="inline mx-auto my-auto lg:m-5 lg:my-5 lg:text-md 
 			{{ "font-baloo" if kannada else "font-display" }}
 		">
 			<a style="color:#a3a3a3; font-weight:700; letter-spacing:1px;" href="#process">
 				{{ "ಪ್ರಕ್ರಿಯೆ" if kannada else "Process" }}
 			</a>
-			<div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
+			<div class="hidden lg:block mb-3" style=" width: 60px; border: 1px solid #fff; height:0;"></div>
 		</li>
-		<li id="nav-item-further" class="inline lg:m-5 lg:my-5 lg:text-md 
+		<li id="nav-item-further" class="inline mx-auto my-auto lg:m-5 lg:my-5 lg:text-md 
 			{{ "font-baloo" if kannada else "font-display" }}
 			">
 			<a style="color:#a3a3a3; font-weight:700; letter-spacing:1px;" href="#takeitfurther">
 				{{ "ಮುನ್ನೆಡೆಸಿ" if kannada else "Take it further" }}
 			</a>
-			<div class="mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
+			<div class="hidden lg:block mb-3" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
 		</li>
 	</ul>
 </div>
