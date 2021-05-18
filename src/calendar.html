@@ -375,7 +375,6 @@ permalink: /programmes/
                                     //const d = new Date(this.year, this.month, date);
                                     var d = `${MONTH_NAMES[this.month].substring(0,3)} ${finaldate} ${this.year}`
                                     var arr = this.shownEvents.filter(function(event) {
-                                      console.log(event.date)
                                         return d == event.date.substring(4);
                                     });
                                     document.getElementById('cardtitle').innerText = `${date} ${MONTH_NAMES[this.month]}, ${this.year}`
