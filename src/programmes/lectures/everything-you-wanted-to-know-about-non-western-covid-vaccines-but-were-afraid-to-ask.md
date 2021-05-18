@@ -24,15 +24,17 @@ description: >-
   This talk asks whether, and how, we can move the centre of pharmaceutical innovation beyond a handful of western countries in order to achieve better outcomes for the entire world, including the west itself. 
 link: http://bit.ly/lecture-prabhala
 expertname: Achal Prabhala
-expertbio: Achal Prabhala is a public health activist, the coordinator of the
-  AccessIBSA Project (www.accessibsa.org) and a fellow of the Shuttleworth
-  Foundation. He is a writer, researcher, and thoughtful and strategic advocate
-  for intellectual property reform and access to medicines. His fellowship idea
-  was AccessIBSA, a tri-continental project set up to expand access and speed up
-  the discovery of new drugs in the developing world, specifically India, Brazil
-  and South Africa. He has worked to drive change in the legal and policy
-  frameworks that have underpinned the development and manufacture of medicines
-  for decades.
+expertbio: >-
+  Achal Prabhala is a public health activist, the coordinator of the AccessIBSA
+  Project ([www.accessibsa.org](http://www.accessibsa.org/)) and a fellow of the
+  Shuttleworth Foundation. The AccessIBSA project is a tri-continental project
+  set up to expand access to life-saving drugs in the developing world,
+  specifically India, Brazil and South Africa. He has worked to drive change in
+  the legal and policy frameworks that have underpinned the development and
+  manufacture of medicines for decades.
+
+
+  Over the course of the pandemic, he has worked on increasing access to coronavirus vaccines in India and other low-income countries in the world, by advocating for intellectual property waivers and transfers of technology, by critically evaluating the vaccine regulatory system and by examining problems in the vaccine manufacturing supply chain.
 expertpic: /static/img/pl_achal_portrait.png
 readinglist:
   - quadreadlink: https://www.nytimes.com/2020/12/07/opinion/covid-vaccines-patents.html
