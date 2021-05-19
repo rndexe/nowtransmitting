@@ -19,13 +19,14 @@ description: >-
   To illustrate these points, Pattabiraman will share her work on SARS-CoV-2 variants that were imported and found circulating in Bengaluru between Nov 2020 – Jan 2021. She will also highlight India’s ongoing, countrywide sequencing effort to rapidly identify VoCs. Genomic information and early identification of variants is crucial since it can inform public health measures, suggest revisions to vaccines, and prepare the health care system for a surge in cases.
 link: http://bit.ly/lecture-pattabiraman
 expertname: ಚಿತ್ರ ಪಟ್ಟಾಭಿರಾಮನ್‌
-expertbio: Chitra Pattabiraman is an Early Career Fellow at the Department of
-  Neurovirology, NIMHANS, Bangalore. She is interested in viruses that are
-  novel, emerging and/or cause human disease. She obtained her BSc in
-  Microbiology from Calcutta University, an Integrated MSc-PhD in Life Science
-  from the National Centre for Biological Sciences, TIFR, Bangalore, and was
-  awarded a SERB-Royal Society Newton International Fellowship for postdoctoral
-  work at the University of Liverpool.
+expertbio: ಡಾ. ಚಿತ್ರ ಪಟ್ಟಾಭಿರಾಮನ್‌, ಬೆಂಗಳೂರಿನ ನಿಮ್ಹಾನ್ಸ್‌ ಸಂಸ್ಥೆಯಲ್ಲಿ, ನರತಂತು
+  ವೈರಾಣು ಶಾಸ್ತ್ರ ವಿಭಾಗದಲ್ಲಿ ಸಹವರ್ತಿಗಳು (ಫೆಲೋ) ಆಗಿ ಕಾರ್ಯ
+  ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ. ಮಾನವರಲ್ಲಿ ರೋಗ ಕಾರಕವಾದ ವೈರಾಣುಗಳು, ಇವುಗಳಲ್ಲಿ ಉಂಟಾಗುವ
+  ಅನವಂಶಿಕ ಬದಲಾವಣೆಯಿಂದ ಉಗಮಿಸುವ ಹೊಸ ವೈರಾಣುಗಳ ಬಗೆಗೆ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ. ಇವರು
+  ಕೊಲ್ಕತ್ತ ವಿಶ್ವವಿದ್ಯಾಲಯದಿಂದ ಸೂಕ್ಷ್ಮ ಜೀವ ಶಾಸ್ತ್ರದಲ್ಲಿ ಬಿ.ಎಸ್.ಸಿ ಪದವಿ, ಬೆಂಗಳೂರಿನ
+  ರಾಷ್ಟ್ರೀಯ ಜೀವ ವಿಜ್ಞಾನ ಕೇಂದ್ರ, ಟಿ.ಐ.ಎಫ್. ಆರ್‌ ಸಂಸ್ಥೆಯಿಂದ ಸಂಯೋಜಿತ ಎಂ.ಎಸ್ಸಿ ಪದವಿ
+  ಪಡೆದಿದ್ದಾರೆ.  ಲಿವರ್ ಪೂಲ್ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಡಾಕ್ಟರಲ್‌ ನಂತರದ ಸಂಶೋಧನೆಗಾಗಿ,
+  ಇವರಿಗೆ ಎಸ್.ಈ.ಆರ್.ಬಿ-ರಾಯಲ್‌ ಸೊಸೈಟಿ ಇಂಟರ್‌ ನ್ಯಾಶನಲ್‌ ಫೆಲೋಶಿಪ್‌ ಲಭಿಸಿದೆ.
 expertpic: /static/img/pl_chitra_portrait.png
 readinglist:
   - quadreadlink: https://covariants.org/
