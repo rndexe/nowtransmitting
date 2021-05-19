@@ -17,7 +17,8 @@ description: >-
 
 
   To illustrate these points, Pattabiraman will share her work on SARS-CoV-2 variants that were imported and found circulating in Bengaluru between Nov 2020 – Jan 2021. She will also highlight India’s ongoing, countrywide sequencing effort to rapidly identify VoCs. Genomic information and early identification of variants is crucial since it can inform public health measures, suggest revisions to vaccines, and prepare the health care system for a surge in cases.
-link: http://bit.ly/lecture-pattabiraman
+link: ""
+reclink: https://www.youtube.com/embed/gLiCFrQEGoM
 expertname: ಚಿತ್ರ ಪಟ್ಟಾಭಿರಾಮನ್‌
 expertbio: ಡಾ. ಚಿತ್ರ ಪಟ್ಟಾಭಿರಾಮನ್‌, ಬೆಂಗಳೂರಿನ ನಿಮ್ಹಾನ್ಸ್‌ ಸಂಸ್ಥೆಯಲ್ಲಿ, ನರತಂತು
   ವೈರಾಣು ಶಾಸ್ತ್ರ ವಿಭಾಗದಲ್ಲಿ ಸಹವರ್ತಿಗಳು (ಫೆಲೋ) ಆಗಿ ಕಾರ್ಯ
