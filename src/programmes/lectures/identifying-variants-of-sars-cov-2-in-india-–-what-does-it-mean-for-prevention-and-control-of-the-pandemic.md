@@ -4,7 +4,7 @@ permalink: programmes/lectures/identifying-variants-of-SARS-CoV-2-in-India/
 cata: trigger
 catb: documenting
 thumb: /static/img/pl_chitra.png
-cover: /static/img/I_PL_Coverimage.jpg
+cover: /static/img/sn_chitra.png
 date: 2021-05-14T13:00:00.000Z
 description: >-
   The coronavirus (SARS-CoV-2) that causes COVID-19 is changing, with about one
