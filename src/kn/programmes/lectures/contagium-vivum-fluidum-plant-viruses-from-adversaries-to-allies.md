@@ -4,7 +4,7 @@ permalink: kn/programmes/lectures/contagium-vivum-fluidum/
 cata: trigger
 catb: documenting
 thumb: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
-cover: /static/img/C_PL_Coverimage.jpg
+cover: /static/img/sn_george.png
 date: 2021-05-16T13:00:00.000Z
 description: >-
   ಶತಮಾನಗಳಿಂದಲೂ ಸಸ್ಯಗಳು ಹಾಗೂ ಪ್ರಾಣಿಗಳ ಮೇಲೆ ವೈರಾಣುಗಳ ಪ್ರಭಾವವು ಸತತವಾಗಿ ಕಂಡು ಬಂದಿದೆ.
