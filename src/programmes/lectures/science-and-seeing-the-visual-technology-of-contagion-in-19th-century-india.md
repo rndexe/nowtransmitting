@@ -16,7 +16,8 @@ description: >-
 
 
   Using the examples of microscopy and photography, this talk by Professor David Arnold explores the microcosm and macrocosm of contagion, the changing role of instruments and imagery in medical science, and the rise of the laboratory in India from the first cholera epidemics to bubonic plague in the 1890s.
-link: http://bit.ly/lecture-arnold
+link: ""
+reclink: https://youtu.be/88DlRDAONe8
 expertname: David Arnold
 expertbio: "David Arnold is Professor Emeritus in History at the University of
   Warwick, UK, and a Fellow of the British Academy. He has published widely on
