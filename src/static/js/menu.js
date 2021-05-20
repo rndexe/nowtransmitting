@@ -1,4 +1,3 @@
-var mobilemenu = document.getElementById("mobile-menu");
 var menubutton = document.getElementById("menu-button");
 var menuclosebutton = document.getElementById("menu-close-button");
 var menuContainer = document.getElementById('menu-container');
@@ -17,7 +16,7 @@ menubutton.addEventListener('click',function(){
 });
 
 menuclosebutton.addEventListener('click',function(){
-	// adding the effects
+    // adding the effects
     menuContainer.classList.toggle('effect');
     menuContainer.classList.toggle('menu-open');
     // menubutton.classList.toggle('hidden');
