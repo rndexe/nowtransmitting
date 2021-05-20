@@ -108,7 +108,6 @@ aboutnav.children[0].style.color = 'black'
 		}
 
 	});
-}
 document.addEventListener('DOMContentLoaded', function() {
 	const ele = document.getElementById('main');
 
@@ -161,4 +160,5 @@ function resetNavbar(){
 	processnav.children[1].style.visibility = 'hidden'
 	scholarnav.children[1].style.visibility = 'hidden'
 	furthernav.children[1].style.visibility = 'hidden'
+}
 }
