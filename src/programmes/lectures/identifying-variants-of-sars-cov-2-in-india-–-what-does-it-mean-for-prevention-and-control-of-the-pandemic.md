@@ -28,28 +28,27 @@ expertbio: Chitra Pattabiraman is an Early Career Fellow at the Department of
 expertpic: /static/img/pl_chitra_portrait.png
 readinglist:
   - quadreadlink: https://covariants.org/
-    quadreadtxt: ಸಹ ರೂಪಾಂತರಗಳು
+    quadreadtxt: CoVariants
     quadreadvis: /static/img/I_PL_QUA_READVIS_1.jpg
   - quadreadlink: https://www.theatlantic.com/science/archive/2021/03/massive-global-hunt-variants-under-way/618230/
-    quadreadtxt: ಮೊದಲೆಂದೂ ಕಂಡು – ಕೇಳರಿಯದ ವೈರಾಣು ರೂಪಾಂತರಗಳನ್ನು ಪ್ರಸಕ್ತ ನೋಡುತ್ತಿದ್ದೇವೆ
+    quadreadtxt: We Now Can See a Virus Mutate Like Never Before
     quadreadvis: /static/img/I_PL_QUA_READVIS_2.jpg
   - quadreadlink: https://www.theatlantic.com/health/archive/2021/01/coronavirus-mutations-variants/617694/
-    quadreadtxt: ನಮ್ಮ ಕಣ್ಣ ಎದುರೇ ಕರೋನ ವೈರಾಣುವು ರೂಪಾಂತರವಾಗಿ ವಿಕಸನಗೊಳ್ಳುತ್ತಿದೆ
+    quadreadtxt: The Coronavirus is Evolving Before Our Eyes
     quadreadvis: /static/img/I_PL_QUA_READVIS_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/6Fuv49soIMpsporukbrcil
-    quadlisttxt: "ಕರೋನ ಪೋಡ್‌: ರೂಪಾಂತರಗಳು"
+    quadlisttxt: "Coronapod: Variants"
     quadlistvis: /static/img/I_PL_QUA_LISTVIS_1.jpg
   - quadlistlink: https://open.spotify.com/episode/4ZXiGZ5wWxxJ4sKSo34sV0?si=4KcKfEEbTgWl8uW-ipXVvw
-    quadlisttxt: ಆಲೆಸ್ಸಾಂಡ್ರೋ ಸೆಟ್ಟೆ ಅವರೊಂದಿಗೆ ʼರಾಪ್ಸೋಡಿ ಇನ್‌ ಟಿʼ
+    quadlisttxt: Rhapsody in T with Alessandro Sette
     quadlistvis: /static/img/I_PL_QUA_LISTVIS_2.jpg
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=ISSEjJITmhk
-    quadwatchtxt: "ರೋಗ ಪಿಡುಗಿನ ಹತೋಟಿ: ಸದೃಢ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ವ್ಯವಸ್ಥೆಯ ನಿರ್ಮಾಣ"
+    quadwatchtxt: "Preempting Pandemics: Building a Robust Public Health System"
     quadwatchvis: /static/img/I_PL_QUA_WATCHVIS_1.jpg
   - quadwatchlink: https://www.youtube.com/watch?v=GGXdG75jdpU
-    quadwatchtxt: ಕೋವಿಡ್-19‌ ರ ಹೋರಾಟವನ್ನು ಕುರಿತಂತೆ ಫ್ರೊಫೆಸರ್‌ ಚಿತ್ರ ಪಟ್ಟಾಭಿರಾಮನ್‌
-      ಅವರೊಂದಿಗೆ ವಿಚಾರಗೋಷ್ಠಿ
+    quadwatchtxt: Prof. Chitra Pattabiraman's Talk @ Combating COVID19 Symposium
     quadwatchvis: /static/img/I_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventlink: http://bit.ly/workshop-aquije
