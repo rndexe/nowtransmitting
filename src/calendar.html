@@ -178,7 +178,7 @@ permalink: /programmes/
                                                   <template x-for="event in shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() )">	
                                                       <div class="py-1 overflow-hidden flex">  
                                                             <p class="text-xs lg:text-sm align-top"
-                                                            :class="{'text-green-650': event.type.split(',')[0] == 'event', 'text-red-650': event.type.split(',')[0] == 'lecture', 'text-blue-pg': event.type.split(',')[0] == 'workshop', 'text-yellow-650': event.type.split(',')[0] == 'filmscreening'}"
+                                                            :class="{'text-green-650': event.type.split(',')[0] == 'event', 'text-red-650': event.type.split(',')[0] == 'lecture', 'text-blue-pg': event.type.split(',')[0] == 'workshop', 'text-yellow-650': event.type.split(',')[0] == 'film screening'}"
                                                             style="width:10px; margin-right:5px;">&#8226;</p>
                                                             <p x-html="event.time.substring(0,5) + ' ' +event.title" class="text-xs lg:text-sm truncate font-trade " style="vertical-align: text-bottom;"></p>
                                                       </div>
@@ -195,29 +195,32 @@ permalink: /programmes/
                             <p class="font-display text-sm lg:text-md">Select Event Type</p>
                               
                             <br class="hidden lg:block">
-                            <div class="radio-item-full">
-                              <input x-on:change="tester()" type="radio" id="all" name="event" value="all" style="width:20px; height:20px;">
-                              <label for="all" class="font-trade lg:m-5 text-xs lg:text-sm" >Full Calendar</label><br>
-                            </div>
-                            <div class="radio-item-lectures">
-                              <input x-on:change="tester()" type="radio" id="lectures" name="event" value="Lectures" style="width:20px; height:20px; ">
-                              <label for="lectures" class="font-trade lg:m-5 text-xs lg:text-sm">Lectures</label><br>
-                            </div>
-                            <div class="radio-item-workshops">
-                              <input x-on:change="tester()" type="radio" id="workshops" name="event" value="Workshops"  style="width:20px; height:20px;">
-                              <label for="workshops" class="font-trade lg:m-5 text-xs lg:text-sm">Workshops and Masterclasses</label><br>
-                            </div>
-                            <div class="radio-item-events">
-                              <input x-on:change="tester()" type="radio" id="events" name="event" value="Events"  style="width:20px; height:20px; ">
-                              <label for="events" class="font-trade lg:m-5 text-xs lg:text-sm">Events</label><br>
-                            </div>
-                            <div class="radio-item-filmscreening">
-                              <input x-on:change="tester()" type="radio" id="filmscreening" name="event" value="Film Screening"  style="width:20px; height:10px; ">
-                              <label for="filmscreening" class="font-trade lg:m-5 text-xs lg:text-sm">Film Screenings</label>
-                               <br class="hidden lg:block">
-                               <br class="hidden lg:block">
-                            </div>
-                          
+                            <div class="flex flex-wrap lg:block">
+                                <div class="radio-item-full mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="all" name="event" value="all" style="width:20px; height:20px;">
+                                  <label for="all" class="font-trade lg:m-5 text-xs lg:text-sm" >Full Calendar</label><br>
+                                </div>
+                                <div class="radio-item-lectures mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="lectures" name="event" value="Lectures" style="width:20px; height:20px; ">
+                                  <label for="lectures" class="font-trade lg:m-5 text-xs lg:text-sm">Lectures</label><br>
+                                </div>
+                                
+                                <div class="radio-item-events mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="events" name="event" value="Events"  style="width:20px; height:20px; ">
+                                  <label for="events" class="font-trade lg:m-5 text-xs lg:text-sm">Events</label><br>
+                                </div>
+                                <div class="radio-item-filmscreening mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="filmscreening" name="event" value="Film Screening"  style="width:20px; height:10px; ">
+                                  <label for="filmscreening" class="font-trade lg:m-5 text-xs lg:text-sm">Film Screenings</label>
+                                  
+                                </div>
+                                <div class="radio-item-workshops mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="workshops" name="event" value="Workshops"  style="width:20px; height:20px;">
+                                  <label for="workshops" class="font-trade lg:m-5 text-xs lg:text-sm">Workshops and Masterclasses</label><br>
+                                  <br class="hidden lg:block">
+                                  <br class="hidden lg:block">
+                                </div>
+                           </div>
                             <a class="lg:h-10 text-xs font-trade  underline" target="_blank" href="https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile">Mediator-led Sessions</a><br>
                             <a class="lg:h-10 text-xs font-trade  underline" target="_blank" href="https://vimeo.com/showcase/contagionfilmseries">Watch all films</a><br>
                             <a class="lg:h-10 text-xs font-trade  underline" target="_blank" href="https://www.youtube.com/channel/UC9uOydQRYCKArJVi0Kj6ALw">Missed a Lecture? Watch here</a>
@@ -249,7 +252,7 @@ permalink: /programmes/
                                     <hr>
                                     <div class="mb-4 mt-3">
                                       <ul id="eventlist">
-                                        <li>There are no events on this day</li>
+                                       
                                       </ul>
                                     </div>
                                 </div>
@@ -311,7 +314,6 @@ permalink: /programmes/
                                     fetch('../lp_json/programme_data.json')
                                         .then(response => response.json())
                                         .then(response => {
-                                          console.log('fetched',response);                                         
                                         
                                           this.events = response;
                                           this.shownEvents = response;
@@ -330,16 +332,12 @@ permalink: /programmes/
                                 },
                 
                                 tester(){
-                                  console.log("Checkbox changed")
                                   const all = document.getElementById('all')
                                   const lectures = document.getElementById("lectures")
                                   const workshops = document.getElementById("workshops")
                                   const events = document.getElementById("events")
                                   const films = document.getElementById("filmscreening")
-                                  console.log(lectures.checked)
-                                  console.log(workshops.checked)
-                                  console.log(events.checked)
-                                  console.log(films.checked)
+                                 
                                  
                                   this.shownEvents = this.events;
                                   
@@ -363,9 +361,9 @@ permalink: /programmes/
                                       return event.type.split(",")[0] == 'film screening'
                                     })
                                   }
-                                  console.log(this.shownEvents)
                                 },
                                 showEventModal(date) {
+                                    
                                     // open the modal
                                     var finaldate = date;
                                     if(date <10){
@@ -392,7 +390,7 @@ permalink: /programmes/
                                         `<div class="flex">
                                           <p class="text-sm"
                                           style="width:10px; margin-right:15px;"
-                                          :class="{'text-green-650': '${arr[i].type.split(',')[0]}' == 'event', 'text-red-650': '${arr[i].type.split(',')[0]}' == 'lecture', 'text-blue-pg': '${arr[i].type.split(',')[0]}' == 'workshop', 'text-yellow-650': '${arr[i].type.split(',')[0]}' == 'filmscreening'}">
+                                          :class="{'text-green-650': '${arr[i].type.split(',')[0]}' == 'event', 'text-red-650': '${arr[i].type.split(',')[0]}' == 'lecture', 'text-blue-pg': '${arr[i].type.split(',')[0]}' == 'workshop', 'text-yellow-650': '${arr[i].type.split(',')[0]}' == 'film screening'}">
                                             &#9679;
                                           </p> 
                                           <a href='${arr[i].url}'>
@@ -402,7 +400,13 @@ permalink: /programmes/
                                         ul.appendChild(li);
                                       }
                                     }
-
+                                    else{
+                                      ul.innerHTML = "";
+                                      const li = document.createElement("li")
+                                      li.className = "font-trade text-md"
+                                      li.innerText = "There are no events on this day"
+                                      ul.appendChild(li)
+                                    }
 
 
                                     this.openEventModal = true;
@@ -420,7 +424,6 @@ permalink: /programmes/
                                         event_theme: this.event_theme
                                     });
                 
-                                    console.log(this.events);
                 
                                     // clear the form data
                                     this.event_title = '';
