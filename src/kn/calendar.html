@@ -200,29 +200,32 @@ permalink: kn/programmes/
                           <p class="font-baloo text-sm lg:text-md">ಕಾರ್ಯಕ್ರಮವನ್ನು ಆಯ್ಕೆಮಾಡಿ
                           </p>
                           <br class="hidden lg:block">
-                          <div class="radio-item-full">
-                            <input x-on:change="tester()" type="radio" id="all" name="event" value="all" style="width:20px; height:20px;">
-                            <label for="all" class="font-baloo lg:m-5 text-xs lg:text-sm" >ಸಂಪೂರ್ಣ ವೇಳಾ ಪಟ್ಟಿ</label><br>
-                          </div>
-                          <div class="radio-item-lectures">
-                            <input x-on:change="tester()" type="radio" id="lectures" name="event" value="Lectures" style="width:20px; height:20px; ">
-                            <label for="lectures" class="font-baloo lg:m-5 text-xs lg:text-sm">ಉಪನ್ಯಾಸಗಳು</label><br>
-                          </div>
-                          <div class="radio-item-workshops">
-                            <input x-on:change="tester()" type="radio" id="workshops" name="event" value="Workshops"  style="width:20px; height:20px;">
-                            <label for="workshops" class="font-baloo lg:m-5 text-xs lg:text-sm">ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು</label><br>
-                          </div>
-                          <div class="radio-item-events">
-                            <input x-on:change="tester()" type="radio" id="events" name="event" value="Events"  style="width:20px; height:20px; ">
-                            <label for="events" class="font-baloo lg:m-5 text-xs lg:text-sm">ಕಾರ್ಯಕ್ರಮಗಳು</label><br>
-                          </div>
-                          <div class="radio-item-filmscreening">
-                            <input x-on:change="tester()" type="radio" id="filmscreening" name="event" value="Film Screening"  style="width:20px; height:10px; ">
-                            <label for="filmscreening" class="font-baloo lg:m-5 text-xs lg:text-sm">ಚಲನ ಚಿತ್ರ ಪ್ರದರ್ಶನ</label>
-                            <br class="hidden lg:block">	
-                            <br class="hidden lg:block">	
-                          </div>
-                          
+                          <div class="flex flex-wrap lg:block">
+                              <div class="radio-item-full mx-3 lg:mx-0">
+                                <input x-on:change="tester()" type="radio" id="all" name="event" value="all" style="width:20px; height:20px;">
+                                <label for="all" class="font-baloo lg:m-5 text-xs lg:text-sm" >ಸಂಪೂರ್ಣ ವೇಳಾ ಪಟ್ಟಿ</label><br>
+                              </div>
+                              <div class="radio-item-lectures mx-3 lg:mx-0">
+                                <input x-on:change="tester()" type="radio" id="lectures" name="event" value="Lectures" style="width:20px; height:20px; ">
+                                <label for="lectures" class="font-baloo lg:m-5 text-xs lg:text-sm">ಉಪನ್ಯಾಸಗಳು</label><br>
+                              </div>
+                              
+                              <div class="radio-item-events mx-3 lg:mx-0">
+                                <input x-on:change="tester()" type="radio" id="events" name="event" value="Events"  style="width:20px; height:20px; ">
+                                <label for="events" class="font-baloo lg:m-5 text-xs lg:text-sm">ಕಾರ್ಯಕ್ರಮಗಳು</label><br>
+                              </div>
+                              <div class="radio-item-filmscreening mx-3 lg:mx-0">
+                                <input x-on:change="tester()" type="radio" id="filmscreening" name="event" value="Film Screening"  style="width:20px; height:10px; ">
+                                <label for="filmscreening" class="font-baloo lg:m-5 text-xs lg:text-sm">ಚಲನ ಚಿತ್ರ ಪ್ರದರ್ಶನ</label>
+                                	
+                              </div>
+                              <div class="radio-item-workshops mx-3 lg:mx-0">
+                                <input x-on:change="tester()" type="radio" id="workshops" name="event" value="Workshops"  style="width:20px; height:20px;">
+                                <label for="workshops" class="font-baloo lg:m-5 text-xs lg:text-sm">ಕಾರ್ಯಾಗಾರಗಳು ಮತ್ತು ಪರಿಣತಿ ತರಗತಿಗಳು</label><br>
+                                <br class="hidden lg:block">	
+                                <br class="hidden lg:block">
+                              </div>
+                        </div>
 
                           <a class="lg:h-10 text-xs font-baloo underline" target="_blank" href="https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile">ನಿರೂಪಕರೊಡಗೂಡಿದ ಸಂಚಿಕೆಗಳು</a><br>
                           <a class="lg:h-10 text-xs h-10 text-md font-baloo  underline" target="_blank" href="https://vimeo.com/showcase/contagionfilmseries">ಚಲನಚಿತ್ರಗಳನ್ನು ವೀಕ್ಷಿಸಿ</a><br>
@@ -253,7 +256,7 @@ permalink: kn/programmes/
                                     <hr>
                                     <div class="mb-4 mt-3">
                                       <ul id="eventlist">
-                                        <li>ಈ ದಿನ ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮ ಇಲ್ಲ</li>
+                                        
                                       </ul>
                                     </div>
                                 </div>
@@ -315,7 +318,6 @@ permalink: kn/programmes/
                                     fetch('../../lp_json/kn_programme_data.json')
                                         .then(response => response.json())
                                         .then(response => {
-                                          console.log('fetched',response);                                         
                                         
                                           this.events = response;
                                           this.shownEvents = response;
@@ -334,16 +336,12 @@ permalink: kn/programmes/
                                 },
                 
                                 tester(){
-                                  console.log("Checkbox changed")
                                   const all = document.getElementById('all')
                                   const lectures = document.getElementById("lectures")
                                   const workshops = document.getElementById("workshops")
                                   const events = document.getElementById("events")
                                   const films = document.getElementById("filmscreening")
-                                  console.log(lectures.checked)
-                                  console.log(workshops.checked)
-                                  console.log(events.checked)
-                                  console.log(films.checked)
+                                 
                                  
                                   this.shownEvents = this.events;
                                   
@@ -367,7 +365,6 @@ permalink: kn/programmes/
                                       return event.type.split(",")[0] == 'kn_film screening'
                                     })
                                   }
-                                  console.log(this.shownEvents)
                                 },
                                 showEventModal(date) {
                                     // open the modal
@@ -405,6 +402,12 @@ permalink: kn/programmes/
                                         </div>`
                                         ul.appendChild(li);
                                       }
+                                    }else{
+                                      ul.innerHTML = "";
+                                      const li = document.createElement("li")
+                                      li.className = "font-tunga text-md"
+                                      li.innerText = "ಈ ದಿನ ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮ ಇಲ್ಲ"
+                                      ul.appendChild(li)
                                     }
 
 
@@ -424,7 +427,6 @@ permalink: kn/programmes/
                                         event_theme: this.event_theme
                                     });
                 
-                                    console.log(this.events);
                 
                                     // clear the form data
                                     this.event_title = '';
