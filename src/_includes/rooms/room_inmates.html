@@ -1,7 +1,7 @@
 <section class="w-full lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 pt-16 flex-none bg-white">
     <div class = "flex flex-col lg:flex-row w-full lg:w-auto h-auto lg:h-full mb-32 lg:mb-0">
         {%- for game in gameslist -%}
-        <div class="flex flex-col flex-none w-full lg:h-4/6 pl-12 pr-12 pb-10 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-white">
+        <div class="flex flex-col flex-none w-full lg:h-4/6 pl-12 pr-12 pb-20 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-white">
 
             <p class="text-3xl mb-3
                       {{ "font-baloo" if kannada else "font-display" }}
@@ -14,10 +14,10 @@
                               {{ "font-baloo" if kannada else "font-trade" }}
                                   ">{{game.about}}</p>
                     <a href={{game.listlink}}>
-                        <button class="text-xs py-3 px-12 rounded-sm border border-solid border-black
+                        <button class="text-base lg:text-xs py-3 px-12 rounded-sm border border-solid border-black
                                        {{ "font-baloo" if kannada else "font-trade" }}
                                            ">
-                            Play
+                            {{ "ಆಡಿ" if kannada else "Play" }}
                         </button>
                     </a>
                 </div>
