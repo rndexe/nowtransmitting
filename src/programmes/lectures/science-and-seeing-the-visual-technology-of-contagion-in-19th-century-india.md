@@ -4,7 +4,7 @@ permalink: programmes/lectures/science-and-seeing/
 cata: spillover
 catb: narrating
 thumb: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
-cover: /static/img/A_PL_Coverimage.jpg
+cover: /static/img/sn_davidarnold.png
 date: 2021-05-15T13:00:00.000Z
 description: >-
   The technology that we use today allows us to explore the microscopic world in
@@ -16,7 +16,8 @@ description: >-
 
 
   Using the examples of microscopy and photography, this talk by Professor David Arnold explores the microcosm and macrocosm of contagion, the changing role of instruments and imagery in medical science, and the rise of the laboratory in India from the first cholera epidemics to bubonic plague in the 1890s.
-link: http://bit.ly/lecture-arnold
+link: ""
+reclink: https://youtu.be/88DlRDAONe8
 expertname: David Arnold
 expertbio: "David Arnold is Professor Emeritus in History at the University of
   Warwick, UK, and a Fellow of the British Academy. He has published widely on

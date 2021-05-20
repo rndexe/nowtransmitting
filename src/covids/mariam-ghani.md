@@ -11,7 +11,6 @@ desc: From “immunogenicity” to “RT-PCR”, COVID-19 has made many once-obs
   pathogens? Mariam Ghani, an artist, writer, and filmmaker, who has been
   observing the language and metaphors of illness in her latest project,
   Dis-Ease, contemplates these questions.
-permalink: covids/language-of-pandemics/
 speakername: Mariam Ghani
 speakerimage: /static/img/O_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/O_CO_THUMBNAIL.png
@@ -29,6 +28,7 @@ speakerbio: >-
 
 
   Some of her recent texts have been published in e-Flux, Frieze, Foreign Policy, Triple Canopy, and the readers Assuming Boycott: Resistance, Agency and Cultural Production, and Critical Writing Ensembles, among others. Ms Ghani has received a number of fellowships, awards, grants, and residencies, most recently from Creative Capital, the New York State Council on the Arts, the New York Public Library, and the 18th Street Arts Center in Los Angeles, among others.
+videosrc: https://player.vimeo.com/video/551320057
 readinglist:
   - quadreadlink: https://www.cabinetmagazine.org/kiosk/scherlis_lily_30_april_2020.php
     quadreadtxt: Distanciated Communities
@@ -39,6 +39,7 @@ readinglist:
   - quadreadlink: https://www.thenation.com/article/society/pandemic-definition-covid/
     quadreadtxt: It’s Time to Tell a New Story About the Coronavirus—Our Lives Depend on It
     quadreadvis: /static/img/O_CO_QUA_READVIS_2.jpg
+permalink: covids/language-of-pandemics/
 listeninglist:
   - quadlistlink: https://soundcloud.com/newmodels/ep23-tentacular-disease
     quadlisttxt: DIS-EASE Podcast

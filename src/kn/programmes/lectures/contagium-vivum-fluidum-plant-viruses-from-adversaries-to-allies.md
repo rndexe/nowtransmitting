@@ -4,7 +4,7 @@ permalink: kn/programmes/lectures/contagium-vivum-fluidum/
 cata: trigger
 catb: documenting
 thumb: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
-cover: /static/img/C_PL_Coverimage.jpg
+cover: /static/img/sn_george.png
 date: 2021-05-16T13:00:00.000Z
 description: >-
   ಶತಮಾನಗಳಿಂದಲೂ ಸಸ್ಯಗಳು ಹಾಗೂ ಪ್ರಾಣಿಗಳ ಮೇಲೆ ವೈರಾಣುಗಳ ಪ್ರಭಾವವು ಸತತವಾಗಿ ಕಂಡು ಬಂದಿದೆ.
@@ -15,7 +15,8 @@ description: >-
 
 
   ಸಸ್ಯ ವೈರಾಣುಗಳು, ರೋಗಕಾರಕವಾಗಿ ಅವುಗಳ ಪ್ರಾರಂಭಿಕ ಅವಸ್ಥೆ, ವೈರಾಣು ರೂಪಾಂತರಗಳ ಮತ್ತು ಅನುವಂಶಿಕತೆಯ ಬಗೆಗೆ ನಮ್ಮ ಅರಿವು, ಪ್ರಾಣಿಗಳಲ್ಲಿ ಕಂಡು ಬರುವ ರೋಗಗಳ ನಿವಾರಣೆಗೆ ಹೊಸ ಬಗೆಯ ಲಸಿಕೆಗಳ ಅವಿಶ್ಕಾರ, ರೋಗ ಅಧ್ಯಯನ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಕ್ಯಾನ್ಸರ್‌ ರೋಧಕ ಚಿಕಿತ್ಸೆಗಳಲ್ಲಿ ವೈರಾಣುಗಳ ಪಾತ್ರ ಇವೆಲ್ಲವೂ ಪ್ರಸ್ತುತ ಉಪನ್ಯಾಸದ ವಿಷಯ ವಸ್ತು.
-link: http://bit.ly/lecture-lomonossoff
+link: ""
+reclink: https://youtu.be/JHPSMgE4H9w
 expertname: ಜಾರ್ಜ್‌ ಲೊಮೊನೋಸೊಫ್
 expertbio: ಡಾ.ಜಾರ್ಜ್‌ ಪೀಟರ್‌ ಲೊಮೊನೋಸೊಫ್ಫ್‌, ಕೆಂಬ್ರಿಡ್ಜ್‌ ವಿಶ್ವವಿದ್ಯಾಲಯದಿಂದ ಬಿ.ಏ.
   ಮತ್ತು ಪಿ.ಎಚ್.ಡಿ ಪದವಿಯನ್ನು ಪಡೆದು, 1980 ರಲ್ಲಿ ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ, ನಾರ್ವಿಚ್‌

@@ -14,7 +14,8 @@ description: Lena Bui, provides a crucial perspective on the threat of bird flu
   touches upon various questions surrounding our consumption of animals and
   animal produce, changes in a rural landscape and how disease affects people
   beyond the aspect of health.
-link: https://www.eventbrite.com/e/where-birds-dance-their-last-film-screening-discussion-registration-145820558215
+link: ""
+reclink: https://youtu.be/uLmw_GtV5wo
 expertname: Lena Bui
 expertbio: "***Filmmaker*** | Lêna Bùi lives and works in Saigon, Vietnam. Her
   works are sometimes amusing anecdotes and other times in-depth articulations

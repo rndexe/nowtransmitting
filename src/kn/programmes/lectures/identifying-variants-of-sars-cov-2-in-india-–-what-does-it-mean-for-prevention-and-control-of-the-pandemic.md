@@ -4,28 +4,32 @@ permalink: kn/programmes/lectures/identifying-variants-of-SARS-CoV-2-in-India/
 cata: trigger
 catb: documenting
 thumb: /static/img/pl_chitra.png
-cover: /static/img/I_PL_Coverimage.jpg
+cover: /static/img/sn_chitra.png
 date: 2021-05-14T13:00:00.000Z
 description: >-
-  The coronavirus (SARS-CoV-2) that causes COVID-19 is changing, with about one
-  change to its genome (mutation) every two weeks. The resulting virus can be
-  considered a variant of the virus that caused the initial outbreak in Wuhan,
-  China, in 2019.
+  ಸಾರ್ಸ್‌ ಕೋವಿಡ್‌ -2 ಕರೋನಾ ವೈರಾಣುಗಳು, ಸತತವಾಗಿ ಸಂಸ್ಕರಿತಗೊಂಡು ಹೊಸ ರೂಪಗಳನ್ನು
+  ತಾಳುತ್ತಿವೆ, ಪ್ರತಿ ಎರಡು ವಾರಗಳಲ್ಲಿ ಒಂದು ವಂಶವಾಹಕ ಬದಲಾವಣೆಯನ್ನು ಕಾಣುತ್ತಿವೆ. ಈ
+  ವಂಶವಾಹಕ ಬದಲಾವಣೆಗಳಿಂದ, ವೈರಾಣುಗಳ ಮೂಲ ಸ್ವಭಾವದಲ್ಲಿ, ಅಂದರೆ ಅವುಗಳ ಸಾಂಕ್ರಾಮಿಕತೆ,
+  ಸಂವಹನ ಮತ್ತು ಪ್ರತಿರೋಧಕ ಶಕ್ತಿಯಲ್ಲಿ  ಹೆಚ್ಚಿನ ಪರಿವರ್ತನೆ ಕಂಡು ಬಂದಿಲ್ಲವಾದರೂ, 2020 ರ
+  ಅಂತ್ಯದ ಹೊತ್ತಿಗೆ, ಯೂ.ಕೆ, ಬ್ರಸಿಲ್‌ ಮತ್ತು ದಕ್ಷಿಣ ಆಫ್ರಿಕ ಪ್ರದೇಶಗಳನ್ನು ಒಳಗೊಂಡಂತೆ,
+  ವಿಶ್ವದ ಹಲವು ಭಾಗಗಳಲ್ಲಿ ವೈರಾಣುವಿನ ಸಂಸ್ಕರಿತ ರೂಪವು ಬೆಳಕಿಗೆ ಬಂದಿವೆ, ಇವು, ಅಧಿಕ
+  ಪ್ರತಿರೋಧಕ  ಶಕ್ತಿ ಮತ್ತು ರೋಗ ಸಂವಹನ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿವೆ. ಇವುಗಳನ್ನು ವಿ.ಓ.ಸಿ ,
+  ವೇರಿಯಂಟ್ಸ್ ಆಫ್‌ ಕಂಸರ್ನ್ ‌(ಚಿಂತನೆಗೆ ಕಾರಣವಾದ ರೂಪ ಪರಿವರ್ತಿತ  ವೈರಾಣುಗಳು) ಎಂದೇ
+  ಪರಿಗಣಿಸಲಾಗಿದೆ.  
 
 
-  These mutations or chahttps://nowtransmitting.com/admin/#/collections/lecturesnges do not always result in drastic changes to the properties of the virus – such as infectivity, transmission, and immune escape. However, since late 2020, variants that transmit better and/or escape the immune response have been reported from many parts of the world including the UK, Brazil, and South Africa, and have broadly been called Variants of Concern. Local and host-specific factors, such as a large number of infected people, long transmission chains, and persistent infection may have a role in the emergence of VoCs. International travel remains an important means of spread.
-
-
-  To illustrate these points, Pattabiraman will share her work on SARS-CoV-2 variants that were imported and found circulating in Bengaluru between Nov 2020 – Jan 2021. She will also highlight India’s ongoing, countrywide sequencing effort to rapidly identify VoCs. Genomic information and early identification of variants is crucial since it can inform public health measures, suggest revisions to vaccines, and prepare the health care system for a surge in cases.
-link: http://bit.ly/lecture-pattabiraman
+  ನವಂಬರ್‌ 2020 ರಿಂದ ಜನವರಿ 2021  ನಡುವಣ ಕಾಲದಲ್ಲಿ, ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸುಳಿದಾಡುತ್ತಿರುವ ಸಾರ್ಸ್‌ ಕೋವಿಡ್‌ -2 ಕರೋನಾ ವೈರಾಣುಗಳ ಸಂಸ್ಕರಿತ ರೂಪಗಳ ಬಗೆಗೆ ತಮ್ಮ ಅಧ್ಯಯನದ ಅನುಭವವನ್ನು ಈ ಮೂಲಕ ತಮ್ಮಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಲಿದ್ದಾರೆ.
+link: ""
+reclink: https://youtu.be/gLiCFrQEGoM
 expertname: ಚಿತ್ರ ಪಟ್ಟಾಭಿರಾಮನ್‌
-expertbio: Chitra Pattabiraman is an Early Career Fellow at the Department of
-  Neurovirology, NIMHANS, Bangalore. She is interested in viruses that are
-  novel, emerging and/or cause human disease. She obtained her BSc in
-  Microbiology from Calcutta University, an Integrated MSc-PhD in Life Science
-  from the National Centre for Biological Sciences, TIFR, Bangalore, and was
-  awarded a SERB-Royal Society Newton International Fellowship for postdoctoral
-  work at the University of Liverpool.
+expertbio: ಡಾ. ಚಿತ್ರ ಪಟ್ಟಾಭಿರಾಮನ್‌, ಬೆಂಗಳೂರಿನ ನಿಮ್ಹಾನ್ಸ್‌ ಸಂಸ್ಥೆಯಲ್ಲಿ, ನರತಂತು
+  ವೈರಾಣು ಶಾಸ್ತ್ರ ವಿಭಾಗದಲ್ಲಿ ಸಹವರ್ತಿಗಳು (ಫೆಲೋ) ಆಗಿ ಕಾರ್ಯ
+  ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ. ಮಾನವರಲ್ಲಿ ರೋಗ ಕಾರಕವಾದ ವೈರಾಣುಗಳು, ಇವುಗಳಲ್ಲಿ ಉಂಟಾಗುವ
+  ಅನವಂಶಿಕ ಬದಲಾವಣೆಯಿಂದ ಉಗಮಿಸುವ ಹೊಸ ವೈರಾಣುಗಳ ಬಗೆಗೆ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದಾರೆ. ಇವರು
+  ಕೊಲ್ಕತ್ತ ವಿಶ್ವವಿದ್ಯಾಲಯದಿಂದ ಸೂಕ್ಷ್ಮ ಜೀವ ಶಾಸ್ತ್ರದಲ್ಲಿ ಬಿ.ಎಸ್.ಸಿ ಪದವಿ, ಬೆಂಗಳೂರಿನ
+  ರಾಷ್ಟ್ರೀಯ ಜೀವ ವಿಜ್ಞಾನ ಕೇಂದ್ರ, ಟಿ.ಐ.ಎಫ್. ಆರ್‌ ಸಂಸ್ಥೆಯಿಂದ ಸಂಯೋಜಿತ ಎಂ.ಎಸ್ಸಿ ಪದವಿ
+  ಪಡೆದಿದ್ದಾರೆ.  ಲಿವರ್ ಪೂಲ್ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಡಾಕ್ಟರಲ್‌ ನಂತರದ ಸಂಶೋಧನೆಗಾಗಿ,
+  ಇವರಿಗೆ ಎಸ್.ಈ.ಆರ್.ಬಿ-ರಾಯಲ್‌ ಸೊಸೈಟಿ ಇಂಟರ್‌ ನ್ಯಾಶನಲ್‌ ಫೆಲೋಶಿಪ್‌ ಲಭಿಸಿದೆ.
 expertpic: /static/img/pl_chitra_portrait.png
 readinglist:
   - quadreadlink: https://covariants.org/

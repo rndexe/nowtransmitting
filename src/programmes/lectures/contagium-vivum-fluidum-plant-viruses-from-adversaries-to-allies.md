@@ -4,7 +4,7 @@ permalink: programmes/lectures/contagium-vivum-fluidum/
 cata: trigger
 catb: documenting
 thumb: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
-cover: /static/img/C_PL_Coverimage.jpg
+cover: /static/img/sn_george.png
 date: 2021-05-16T13:00:00.000Z
 description: >-
   The effects of viral infections on animals and plants have been known for
@@ -23,7 +23,8 @@ description: >-
 
 
   This talk will discuss the study of plant viruses from their initial characterisation as disease-causing organisms, through their role in our understanding of virus structures and genetics, to their current deployment for combatting animal diseases through the creation of novel vaccines, diagnostic reagents and anti-cancer therapies. We’ve come a long way since viruses were first recognised approximately 120 years ago!
-link: http://bit.ly/lecture-lomonossoff
+link: ""
+reclink: https://youtu.be/JHPSMgE4H9w
 expertname: George Lomonssoff
 expertbio: George Lomonossoff obtained both his B.A. and Ph.D. from the
   University of Cambridge and joined the John Innes Centre, Norwich in 1980. His
