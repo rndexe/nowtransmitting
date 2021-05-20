@@ -1,15 +1,15 @@
 <section id="authors" class="block w-full lg:w-auto h-auto lg:h-screen lg:flex lg:flex-none bg-red-650">
-		<div class="w-full lg:w-240 pt-16 lg:pt-36">
-			<div class="w-3/5 h-2/5 mx-auto">
+		<div class="w-screen lg:w-240 pt-16 lg:pt-36 px-10 lg:px-0">
+			<div class="w-3/5 h-2/5">
 				{% if speakerimage %}
 				<img class="object-scale-down w-full lg:w-auto h-auto lg:h-full shadow-lg" src={{speakerimage}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 			</div>
-			<div class="w-10/12 lg:w-3/5 mx-auto py-10 lg:pt-10
+			<div class="w-full lg:w-3/5 py-10 lg:pt-10 
 			     {{ "font-baloo" if kannada else "font-trade" }}
 			">
-				<p class="text-xl mx-auto text-left font-bold font-trade text-black">{{speakername}}</p>
-				<p class="text-base mx-auto text-left font-bold font-trade text-black">{{speakerfield}}</p>
+				<p class="text-xl text-left font-bold font-trade text-black">{{speakername}}</p>
+				<p class="text-base text-left font-bold font-trade text-black">{{speakerfield}}</p>
 				
 				{% if speakerbio %}
 				<pre class="text-sm whitespace-pre-wrap text-white font-normal 
