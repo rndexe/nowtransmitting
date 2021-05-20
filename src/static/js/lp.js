@@ -506,8 +506,8 @@ var zoom = false;
 if(window.outerWidth < window.outerHeight){
     blobRadius = 15;
     offset = 5;
-    drag = true;
-    zoom=true;
+    // drag = false;
+    // zoom=false;
    
 }
 
@@ -618,20 +618,11 @@ function showStuff(x){
 
 
 
-network.on("zoom",function(){
-    var scaleOption = { scale : network.getScale()*1.2};
-    newnetwork.moveTo(scaleOption);
-})
-
-//Adding movement of bg nodes on drag
-
-// network.on("dragStart",function(){
-//     console.log("hahaha")
-//     newnetwork.moveNode(1,network.getPosition(10).x,network.getViewPosition(10).y)
-//     newnetwork.moveNode(2,network.getPosition(15).x,network.getViewPosition(15).y)
-//     newnetwork.moveNode(3,network.getPosition(23).x,network.getViewPosition(23).y)
-
+// network.on("zoom",function(){
+//     var scaleOption = { scale : network.getScale()*1.9};
+//     newnetwork.moveTo(scaleOption);
 // })
+
 
 var moving = false;
 
@@ -640,6 +631,7 @@ network.on("hoverNode",function (params){
     hideNodes()
     //showStuff(this.getNodeAt(params.pointer.DOM));
     var id = this.getNodeAt(params.pointer.DOM)
+    console.log(id)
     if(id == 8 || id==19 || id==22 || id==13){
         showStuff(1)
     }else if(id==20 || id==21 || id==16 || id==9 || id==11 || id==23){
@@ -734,6 +726,34 @@ function onMouseMove(event) {
 
 network.on("afterDrawing",function(params){
     updater()
+    // const node1 = network.getPosition(26)    
+    // const node2 = network.getPosition(28)    
+    // const node3 = network.getPosition(21)    
+    // const node4 = network.getPosition(31)    
+
+    // const corner1 = network.canvasToDOM({
+    //     x: node1.x,
+    //     y: node1.y,
+    // })
+    // const corner2 = network.canvasToDOM({
+    //     x: node2.x,
+    //     y: node2.y,
+    // })
+    // const corner3 = network.canvasToDOM({
+    //     x: node3.x,
+    //     y: node3.y,
+    // })
+    // const corner4 = network.canvasToDOM({
+    //     x: node4.x,
+    //     y: node4.y,
+    // })
+    
+    // newnetwork.moveNode(1,corner1.x,corner1.y-50)
+    // newnetwork.moveNode(2,corner2.x,corner2.y)
+    // newnetwork.moveNode(3,corner3.x,corner3.y)
+    // newnetwork.moveNode(4,corner4.x,corner4.y)
+
+
 })
 
 
