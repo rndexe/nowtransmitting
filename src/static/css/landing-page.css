@@ -231,7 +231,7 @@ body, html{
 .inner-menu {
     height: 100%;
     display: grid;
-    grid-template-rows: 10% 10% auto 4%;
+    grid-template-rows: 10% 10% auto 4% auto;
     grid-gap: 2rem;
   
     color: white;
