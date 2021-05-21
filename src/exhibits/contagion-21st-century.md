@@ -144,15 +144,15 @@ exhibitvideos:
     privis: https://player.vimeo.com/video/537596118
 authorimage: /static/img/O_EXHIBIT_SEC_VIS_1.jpg
 authorname: Dr. Esther-Maria Antao
-authorbio: >-
-  Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute and is in
-  charge of the advancement of the Museum in accordance with ongoing
+authorbio: Dr. Esther-Maria Antao heads the Museum at the Robert Koch Institute
+  and is in charge of the advancement of the Museum in accordance with ongoing
   developments of the Institute. She communicates with the general and expert
   public through guided museum tours offered to visitor groups. As part of the
   project group, Science Communication, she is responsible for visual
-  communication and social media. She has a doctorate in
-
-  microbiology and has focused strongly on antimicrobial resistance (AMR) communication in the recent past. She currently focuses on COVID-19 communication and will go back to focusing on AMR communication when the pandemic is over.
+  communication and social media. She has a doctorate in microbiology and has
+  focused strongly on antimicrobial resistance (AMR) communication in the recent
+  past. She currently focuses on COVID-19 communication and will go back to
+  focusing on AMR communication when the pandemic is over.
 readinglist:
   - quadreadlink: https://www.historians.org/publications-and-directories/perspectives-on-history/october-2020/fearing-a-fear-of-germs-how-did-the-surgical-mask-transform-from-a-sign-of-bigotry-to-a-sign-of-care
     quadreadtxt: Fearing a Fear of Germs
