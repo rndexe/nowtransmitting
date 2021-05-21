@@ -13,8 +13,8 @@ kannada: true
                 <!-- top navbar for about page  -->
                 <!-- lg:flex -->
 
-                {% include "../_includes/partials/navbar.html" %}
-                {% include "../_includes/partials/menu.html" %}
+                {% include "partials/navbar.html" %}
+                {% include "partials/menu.html" %}
 
                     <div id="about-content" class="bg-white">
                         <h2 class="font-bold text-trueGray-750 font-baloo text-4xl">
@@ -58,8 +58,7 @@ kannada: true
                         </div>
 
                         <div id="main" class="flex flex-col lg:flex-row overflow-y-hidden overflow-x-hidden w-auto bg-white scroll-snap">
-                            {{ content | safe }}
-                            {% include "../_includes/partials/kn_about1.html" %}
+                            {% include "partials/kn_about_page.html" %}
                         </div>
                     </div>
 
@@ -68,11 +67,6 @@ kannada: true
         </main>
     </div>
 </body>
-{% if path == "home" %}
-<!-- Netlify Identity Widget -->
-<!-- Needed only if you are using Netlify Identity feature -->
-<script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-{% endif %}
 <script src="/static/js/menu.js"></script>
 
 <link rel="stylesheet" href="/static/css/about.css">
