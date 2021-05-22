@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<body class="overflow-hidden">
+    <div class="menu-container" id="menu-container">
+
+        <main class="block lg:flex lg:flex-col">
+
+            <div class="w-screen fixed">
+                <div>
+                    {% include "partials/navbar.html" %}
+                    {% include "partials/menu.html" %}
+                    <div id="main" class=" flex flex-col 
+                                  lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-white scroll-snap"> 
+                        {{ content | safe }}
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+
+<script src="/static/js/menu.js"></script>

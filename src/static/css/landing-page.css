@@ -62,24 +62,11 @@ body, html{
 }
 
 .info{
-
     z-index:10000;
 }
 
 .languagebutton{
  
-    z-index:9999;
-}
-
-.legend{
-    visibility: hidden;
-    position: absolute;
-    top:0;
-    right:0;
-    margin-right:30px;
-    height:95%;
-    margin-top:30px;
-    text-align:center;
     z-index:9999;
 }
 
@@ -108,10 +95,21 @@ body, html{
 }
 
 @media screen and (max-width: 1024px){
-    .opening-frame{
+    .opening-frame-mobile{
+        height:auto;
         width:100%;
-        height:auto; 
-        margin-top:20%;  
+        margin-top:-10%;
+    }
+    .legend{
+        visibility: hidden;
+        position: absolute;
+        top:0;
+        right:0;
+        margin-right:30px;
+        height:80%;
+        margin-top:30px;
+        text-align:center;
+        z-index:9999;
     }
     .popup-exhibit{
         width:95%;
@@ -139,23 +137,23 @@ body, html{
         display:flex;
         flex-direction:row;
     }
-    .mediator{
-        position: absolute;
-        right:0;
-        bottom:0;
-        width:100px;
-        height:100px;
-        margin-right:30px;
-        margin-bottom:20%;
-        text-align:center;
-        z-index:9997;
-    }
 }
 @media screen and (min-width: 1024px){
     
     .opening-frame{
         width:auto;
-        height:100%;  
+        height:100%;
+    }
+    .legend{
+        visibility: hidden;
+        position: absolute;
+        top:0;
+        right:0;
+        margin-right:30px;
+        height:95%;
+        margin-top:30px;
+        text-align:center;
+        z-index:9999;
     }
     .popup-exhibit{
         width:500px;
@@ -181,15 +179,6 @@ body, html{
         display:flex; 
         flex-direction:row;
     }
-    .mediator{
-        position: absolute;
-        right:0;
-        bottom:0;
-        margin-right:30px;
-        margin-bottom:30px;
-        text-align:center;
-        z-index:9997;
-    }
 }
 
 .openframe-animate{
@@ -206,48 +195,13 @@ body, html{
 	box-sizing: border-box;
 }
 
-.menu-container,
-.st-pusher,
-.st-content {
-	height: 100%;
-    background-color: #d62b2b;
-}
-
-.pusher, .menu-container {
+.menu-container {
     height: 100%;
+    background-color: #d62b2b;
 }
 .menu-container {
     position: relative;
     overflow: hidden;
-}
-
-.pusher {
-	position: relative;
-	left: 0;
-	z-index: 99;
-	-webkit-transition: -webkit-transform 0.5s;
-	transition: transform 0.5s;
-}
-
-.pusher::after {
-	position: absolute;
-	top: 0;
-	right: 0;
-	width: 0;
-	height: 0;
-	background: rgba(0,0,0,0.2);
-	content: '';
-	opacity: 0;
-	-webkit-transition: opacity 0.5s, width 0.1s 0.5s, height 0.1s 0.5s;
-	transition: opacity 0.5s, width 0.1s 0.5s, height 0.1s 0.5s;
-}
-
-.menu-open .pusher::after {
-	width: 100%;
-	height: 100%;
-	opacity: 1;
-	-webkit-transition: opacity 0.5s;
-	transition: opacity 0.5s;
 }
 
 .menu {
@@ -261,6 +215,7 @@ body, html{
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
     color: white;
+    z-index:10001;
 }
 .menu::after {
     position: absolute;
@@ -276,12 +231,12 @@ body, html{
 .inner-menu {
     height: 100%;
     display: grid;
-    grid-template-rows: 10% auto 4%;
+    grid-template-rows: 10% 10% auto 4% auto;
     grid-gap: 2rem;
   
     color: white;
     background-color: #d62b2b;
-    padding: 3rem 6rem 3rem 12rem;
+    /* padding: 3rem 6rem 3rem 12rem; */
 }
 
 .inner-menu .content {
@@ -301,10 +256,6 @@ body, html{
 
 .inner-menu a:hover {
     color:#2d2d2d;
-}
-.exhibit-menu-list {
-    padding: 1rem 0 0 0;
-    gap: 0.3rem;
 }
   
 .menu-open .menu::after {
@@ -331,3 +282,45 @@ body, html{
 .effect.menu::after {
     display: none;
 }
+
+.menu1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 10000;
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    color: white;
+    z-index:10001;
+}
+.menu1::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    opacity: 1;
+    -webkit-transition: opacity 0.5s;
+    transition: opacity 0.5s;
+}
+.effect.menu1 {
+    visibility: visible;
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+}
+
+.effect.menu-open .effect.menu1 {
+    visibility: visible;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.effect.menu1::after {
+    display: none;
+}
+
+

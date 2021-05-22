@@ -1,14 +1,18 @@
-<section id="authors" class="block w-auto h-screen lg:flex lg:flex-none bg-red-650">
+<section id="authors" class="block w-auto h-auto bg-red-650 pb-20
+			     lg:h-screen lg:flex lg:flex-none lg:pb-0">
 
 	{% if exhibitauthor %}
 		{% for author in exhibitauthor %}
-		<div class="w-192 pl-20 pt-36">
-			<div class="w-3/5 h-2/5">
+		<div class="w-screen pt-20 px-10 lg:px-0
+			    lg:w-192 lg:pl-20 lg:pt-36">
+			<div class="w-3/5 h-auto lg:h-2/5">
 				{% if author.authorimage %}
-				<img class="object-scale-down ml-10 mr-auto w-auto h-full" src={{author.authorimage}} oncontextmenu="return false" ondragstart="return false">
+				<img class="object-scale-down w-full h-auto lg:ml-10 lg:mr-auto lg:w-auto lg:h-full" src={{author.authorimage}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 			</div>
-			<div class="w-10/12 ml-10 mr-auto pt-10">
+			<div class="w-full lg:w-10/12 
+				    h-auto pt-10
+				    lg:ml-10 lg:mr-auto">
 				<p class="text-xl mx-auto text-left font-bold text-black
 				{{"font-baloo leading-relaxed" if kannada else "font-trade"}}
 				">{{author.authorname}}</p>
@@ -21,14 +25,16 @@
 		</div>
 		{% endfor %}
 	{% else %}	
-		<div class="w-288 pt-36">
-			<div class="w-3/5 h-2/5 mx-auto">
+		<div class="w-screen pt-20 px-10 lg:px-0
+			    lg:w-288 lg:pt-36">
+			<div class="h-auto w-3/5 lg:h-2/5 lg:mx-auto">
 				{% if authorimage %}
-				<img class="object-scale-down w-auto h-full" src={{authorimage}} oncontextmenu="return false" ondragstart="return false">
+				<img class="object-scale-down w-full h-auto lg:w-auto lg:h-full" src={{authorimage}} oncontextmenu="return false" ondragstart="return false">
 				{% endif %}
 			</div>
-			<div class="w-3/5 mx-auto pt-10">
-				<p class="text-xl mx-auto text-left font-bold text-black
+			<div class="w-full mx-auto h-auto pb-10 lg:pb-0
+				    lg:w-3/5 pt-10">
+				<p class="text-xl mx-auto text-left font-bold font-trade text-black
 				{{"font-baloo leading-relaxed" if kannada else "font-trade"}}
 				">{{authorname}}</p>
 				{% if authorbio %}

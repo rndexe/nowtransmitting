@@ -9,22 +9,29 @@ layout: exhibit_common
 		{% set quote="Ants have been using antibiotics in their fight against pathogens for a much longer time." %}	
 	{% endif %}
 	{% include "./partials/about_section.html" %}
-	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class="flex flex-row w-auto h-full pt-36">
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-white">
-				<img class="object-contain w-auto h-full" src="{{exhibitimages[1].privis}}" oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-black">{{exhibitimages[1].pritxt}}</p>
+	<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 flex-none bg-white">
+		<div class = "flex flex-col lg:flex-row w-full lg:w-auto lg:h-full lg:pt-36">
+			<div class="flex flex-col lg:flex-row flex-none w-full lg:w-auto h-auto lg:h-5/6 pl-10 lg:pl-12 pr-10 lg:pr-12 py-10 lg:py-0 mx-auto lg:p-0 lg:ml-40 bg-white">
+				<img class="object-contain w-full lg:w-auto h-auto lg:h-full" src={{exhibitimages[1].privis}} oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm pt-6 lg:pl-10 w-full lg:w-96 font-normal text-trueGray-750
+                {{ "font-baloo" if kannada else "font-trade"}}
+                ">{{exhibitimages[1].pritxt}}</p>
 			</div>
 		</div>
 	</section>
 
-	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class = "flex flex-row w-auto h-full pt-36">
-			<div class="h-full flex-initial w-240">
-				<p class="text-base h-5/6 xl:text-md ml-32 pr-16 font-normal whitespace-pre-wrap
-				{{"font-baloo" if kannada else "font-trade"}}
-				">
-				{{
+	<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 flex-none bg-white">
+		<div class = "w-screen h-auto flex flex-col
+			      lg:flex-row lg:w-auto lg:h-full lg:pt-36">
+			<div class="h-auto flex-initial 
+				    w-screen
+				    lg:h-full lg:w-240">
+				<p class="text-base pl-10 pr-10 py-10
+					  xl:text-md lg:ml-32 lg:pl-0 lg:pr-16 lg:py-0
+					  font-normal whitespace-pre-wrap
+                    {{"font-baloo" if kannada else "font-trade"}}
+					  "> 
+                {{
 					
 					"
 					ದಕ್ಷಿಣ ಅಮೇರಿಕಾದ ಎಲೆ ಕಟುಕ ಇರುವೆಗಳು / ಗೊದ್ದಗಳು ತಮ್ಮ ನಿವಾಸ ಗೂಡನ್ನು, ಕ್ರಿಮಿಗಳು
@@ -68,11 +75,15 @@ layout: exhibit_common
 				</p>
 			</div>	
 
-			<div class="h-full flex-initial w-240">
-				<p class="text-base xl:text-md ml-32 pr-16 font-normal whitespace-pre-wrap
+			<div class="h-auto flex-initial 
+				    w-screen
+				    lg:h-full lg:w-240">
+				<p class="text-base pl-10 pr-10 py-10
+					  xl:text-md lg:ml-32 lg:pl-0 lg:pr-16 lg:py-0
+					  font-normal whitespace-pre-wrap
 				{{"font-baloo" if kannada else "font-trade"}}
-				">
-				{{
+					  "> 
+                {{
 					"ಸಸ್ಯ –ಕೆಂಜಿಗೆಗಳ ನಡುವಣ ರಾಸಾಯನಿಕ ಸಂಬಂಧದ ಅನ್ವೇಷಣೆಯಿಂದಾಗಿ,  ಸಹಜವಾಗಿಯೇ ಕ್ರಮಬದ್ಧ ಜೀವನ ಚರ್ಯೆ ಉಳ್ಳ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು ತಮ್ಮ ವಸಾಹತು ತಾಣಗಳನ್ನು ತೊರೆಯುವ ಪ್ರಕ್ರಿಯೆಯು ಬೆಳಕಿಗೆ ಬಂದಿದೆ.  2018ರಲ್ಲಿ ಪ್ರಕಾಶಿತಗೊಂಡಿರುವ ಸಂಶೋಧನಾ ಪತ್ರದ ಪ್ರಕಾರ, ಎಲೆ ಕಟುಕ ಕೆಂಜಿಗೆಗಳ ಜೊತೆಗೆ ಸುಮಾರು 50 ದಶ ಲಕ್ಷ ವರ್ಷಗಳಿಂದ  ʼಎಸ್ಕೋವೋಪ್ಸಿಸ್‌ʼಎಂಬ ಸಹಚರ ಫಂಗಸ್(ಶಿಲೀಂದ್ರ)‌, ವಿಕಸನಗೊಂಡಿವೆ.  ಈ  ಪರಜೀವಿಗಳು, ವತ್ತಡದ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿ, ಕೆಂಜಿಗೆಗಳ ನೆಡವಳಿಕೆಯನ್ನು ಹೋಲುವ ಸ್ವಭಾವ ಪರಿವರ್ತಕ ರಾಸಾಯನಿಕಗಳನ್ನು ಸ್ರವಿಸಿ ಇಡೀ ಕೆಂಜಿಗೆಗಳ ವಸಾಹತ್ತಿನ ಮೇಲೆ ಅಸ್ಥಿತ್ವ ಸಾಧಿಸುತ್ತವೆ.  ಪರಿಣಾಮ ಸ್ವರೂಪವಾಗಿ, ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳು ತಮ್ಮ ಗೂಡನ್ನು ಬರಿದು ಮಾಡಿ ತೊರೆಯುತ್ತವೆ.    
 					<br><br>
 					“ಕುತೂಹಲ ಸಹಿತವಾದ ವೈಜ್ಞಾನಿಕ ಸಂಶೋಧನೆಯು ಎಣಿಸಲಾಗದ ಹೊಸ ಅನ್ವೇಷಣೆಗಳಿಗೆ ಹೇಗೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತವೆ ಎಂಬುದಕ್ಕೆ ಇದು ಒಳ್ಳೆಯ ಉದಾಹರಣೆ” ಎಂದು ಪ್ರೊಫೆಸರ್‌ ವಿಲ್ಕಿಂಸನ್‌ ಅಭಿಪ್ರಾಯ ಪಟ್ಟಿದ್ದಾರೆ.  “ನಾವು ರಾಸಾಯನಿಕ ಪರಿಸರ ವಿಜ್ಞಾನವನ್ನು ಅರಿಯುವ ಸಲುವಾಗಿ , ಈ ಇಡೀ ಕೆಂಜಿಗೆ ಗೂಡಿನ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಆಸಕ್ತಿ ತೋರಿದ್ದೆವು, ಜೀವರೋಧಕಗಳ ಅಧ್ಯನ ಮಾಡಲು ಹೋಗಿರಲಿಲ್ಲ.  ಈಗಲೂ ನಾವು ಕಂಡುಹಿಡಿದಿರುವ ರಾಸಾಯನಿಕಗಳ ವಾಣಿಜ್ಯ ಮೂಲ್ಯ ಎಷ್ಟು ಎಂಬ ಅರಿವು ನಮಗೆ ಇಲ್ಲ.  ಆದರೆ ಈ ರಾಸಾಯನಿಕಗಳ ಸಹಾಯದಿಂದ ಕೆಂಜಿಗೆ ಗೊದ್ದಗಳನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸ ಬಹುದು ಎಂಬ ಮಾಹಿತಿ ದೊರಕ ಬಹುದು .  ನಾವು ಗೊದ್ದ / ಇರುವೆಗಳ ಸೂಕ್ಷ್ಮ ಜೀವ ಪರಿಸರದ ಸಂಶೋಧನೆಯನ್ನು ಮುಂದುವರೆಸುತ್ತೇವೆ, ಹಾಗೆಯೇ ಸಸ್ಯಗಳ ಬೇರುಗಳು ಮತ್ತು ಸಸ್ಯ ಅಂತರ್ಜೀವಿಗಳ ಅಧ್ಯಯನವನ್ನು ಸಹ ಮಾಡುವೆವು” ಎಂದು ಹೇಳುತ್ತಾರೆ. 
@@ -85,6 +96,7 @@ layout: exhibit_common
 					| safe
 
 					if kannada else
+
 
 					"Interest in exploiting plant ant chemistry led to an increasing fascination with the phenomenon of colony collapse, where the normally meticulous leafcutter ants down tools and desert their nest. The secret, according to a study published in 2018, lies in a behaviour-modifying chemical weapon produced by Escovopsis, a fungal parasite that has co-evolved with the leafcutter ants over the past 50 million years. At times of stress, compounds produced by the parasite overpower the colony by manipulating the behaviour of ants, ultimately resulting in nest abandonment.
 					<br><br>
@@ -101,11 +113,15 @@ layout: exhibit_common
 				</p>
 			</div>	
 
-			<div class="h-full flex-initial w-240">
-				<p class="text-base xl:text-md ml-32 pr-16 font-normal whitespace-pre-wrap
+			<div class="h-auto flex-initial 
+				    w-screen
+				    lg:h-full lg:w-240">
+				<p class="text-base pl-10 pr-10 py-10
+					  xl:text-md lg:ml-32 lg:pl-0 lg:pr-16 lg:py-0
+					  font-normal whitespace-pre-wrap
 				{{"font-baloo" if kannada else "font-trade"}}
-				">
-					{{
+					  "> 
+{{
 						"(ಏ.ಎಂ.ಆರ್)‌ ಸೂಕ್ಷ್ಮಾಣುರೋಧಕದ ಪ್ರತಿರೋಧವು ಜಾಗತಿಕ ವಿಪತ್ತಾಗಿ ಪರಿಣಮಿಸಿದೆ.  ಜೀವರೋಧಕಗಳನ್ನು ವಿರೋಧಿಸುವ ಸೂಪರ್ಬಗ್‌ ಗಳು ಅಸ್ಥಿತ್ವಕ್ಕೆ ಬಂದಿವೆ. 
 						<br><br>
 
@@ -122,6 +138,7 @@ layout: exhibit_common
 						| safe
 						if kannada else 
 					"The backdrop to this is a global crisis caused by antimicrobial resistance (AMR), the emergence of so-called superbugs that are resistant to antibiotics. The discovery of penicillin by Alexander Fleming in 1928 heralded a new era of drug discovery with research particularly successful in harnessing molecules from soil bacteria. By the 1960s, bacterial infections which had been the leading global killer in 1900 could be treated swiftly and inexpensively.
+
 					<br><br>
 				  
 					With the emergence of bacteria resistant to antibiotics, partly due to overuse and misuse, it is estimated that bacterial infections could move ahead of cancer as a cause of death by 2050. So where does the fundamental work carried out by the John Innes Centre and the UEA figure in this global health race?
@@ -136,48 +153,51 @@ layout: exhibit_common
 				</p>
 			</div>	
 
-			
-
 		</div>
 	</section>
 
-	<section class="w-auto h-full max-h-full pr-20 flex-none bg-white">
-		<div class = "flex flex-row w-auto h-full pt-36">
+	<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 flex-none bg-white">
+		<div class = "flex flex-col lg:flex-row w-full lg:w-auto lg:h-full lg:pt-36">
 		{%- for images in exhibitimages.slice(2) -%}
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
-				<img class="object-contain w-auto h-full" src={{images.privis}} oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-trueGray-750">{{images.pritxt}}</p>
+			<div class="flex flex-col lg:flex-row flex-none w-full lg:w-auto h-auto lg:h-5/6 pl-10 lg:pl-12 pr-10 lg:pr-12 py-10 lg:py-0 mx-auto lg:p-0 lg:ml-40 bg-white">
+				<img class="object-contain w-full lg:w-auto h-auto lg:h-full" src={{images.privis}} oncontextmenu="return false" ondragstart="return false">	
+                <p class="self-end text-sm pt-6 lg:pl-10 w-full lg:w-96 font-normal text-trueGray-750
+					{{"font-baloo" if kannada else "font-trade"}}
+                ">{{images.pritxt}}</p>
 			</div>
 		{%- endfor -%}	
 		</div>
 	
 	</section>
 
-	<section class="w-auto h-full max-h-full pl-20 flex-none bg-white">
-		<div class = "flex flex-row w-auto h-full pt-36">
-				<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto bg-white">
-					<iframe id="iframe2020" class="w-192 h-full bg-black" src="{{exhibitstream}}"
+
+	<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 flex-none bg-white">
+		<div class = "flex flex-col lg:flex-row w-full lg:w-auto lg:h-full lg:pt-36">
+				<div class="flex flex-col lg:flex-row flex-none w-full lg:w-auto h-auto lg:h-5/6 pl-10 lg:pl-12 pr-10 lg:pr-12 py-10 lg:py-0 mx-auto lg:p-0 lg:ml-40 bg-white">
+				<div class="flex flex-col flex-none w-full h-auto px-10 py-10
+					    lg:flex-row lg:w-auto lg:h-5/6 lg:pl-12 lg:pr-12 lg:mx-auto lg:p-0 lg:ml-40 bg-white">
+					<iframe class="w-full h-48 lg:w-192 lg:h-full bg-black" src="{{exhibitstream}}"
 					frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>	
-					<p class="self-end text-sm pl-10 w-96 font-normal text-black
+					<p class="self-end text-sm pt-6 lg:pl-10 w-full lg:w-96 font-normal text-black
 					{{"font-baloo" if kannada else "font-trade"}}
-					">
+                    ">
 					{{"ಇರುವೆ ಲೈವ್ ಸ್ಟ್ರೀಮ್" if kannada else "Ant Live Stream"}}
-				</p>
-					
+                    </p>
 				</div>
 		</div>
 	
 	</section>
 	
 	{% include "./partials/author_section.html" %}
-
-	<section id="process" class="w-auto h-full max-h-full pr-20 flex-none bg-trueGray-750">
-		<div class = "flex flex-row w-auto h-full pt-36">
-			<div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-trueGray-750">
-				<img class="object-contain w-auto h-full" src={{tervis}} oncontextmenu="return false" ondragstart="return false">	
-				<p class="self-end text-sm pl-10 w-96 font-normal font-trade text-white">{{tertxt}}</p>
+	<section id="process" class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full pr-20 flex-none bg-trueGray-750">
+		<div class = "flex flex-col w-screen h-auto pt-10 lg:flex-row lg:w-auto lg:h-full lg:pt-36">
+			<div class="flex flex-col flex-none w-full h-auto px-10 py-10
+				    lg:flex-row lg:w-auto lg:h-5/6 lg:pl-12 lg:pr-12 lg:mx-auto lg:p-0 lg:ml-40 bg-trueGray-750">
+				<img class="object-contain w-full lg:w-auto h-auto lg:h-full" src={{tervis}} oncontextmenu="return false" ondragstart="return false">	
+				<p class="self-end text-sm pt-6 lg:pl-10 w-full lg:w-96 font-normal text-white
+					{{"font-baloo" if kannada else "font-trade"}}
+                ">{{tertxt}}</p>
 			</div>
 		</div>
-	</section>
-	
 
+	</section>

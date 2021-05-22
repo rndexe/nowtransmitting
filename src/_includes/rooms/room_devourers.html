@@ -1,6 +1,6 @@
-<section class="w-auto h-full max-h-full pl-32 pr-32 pt-16 flex-none bg-white">
-	<div class = "flex flex-row h-full">
-		<div class="w-768 h-full">
+<section class="w-full lg:w-auto h-auto lg:h-full lg:max-h-full lg:pl-32 lg:pr-32 lg:pr-20 pt-16 flex-none bg-white mb-32 lg:mb-0">
+	<div class = "flex flex-col lg:flex-row h-full">
+		<div class="w-full h-auto lg:w-768 lg:h-full">
 			<div class="h-auto">
 				<p class="mx-6 text-4xl mb-3
 				   {{ "font-baloo" if kannada else "font-display" }}
@@ -9,11 +9,11 @@
 				</p>
 				<div class="mx-6 w-20 h-0 border border-solid border-red-650"></div>
 			</div>
-			<div class = "w-192 mx-6 h-5/6 flex flex-col flex-wrap">	
+			<div class = "w-full lg:w-192 mx-6 h-auto lg:h-5/6 flex flex-col lg:flex-wrap">	
 				{% for book in openbooklist %}
-				<div class="h-1/2 flex flex-row py-6 pr-6">
-					<iframe class= "w-1/3" src="{{book.listlink}}" allowfullscreen="true" ></iframe>
-					<div class="w-2/3 px-6">
+				<div class="h-1/2 flex flex-col lg:flex-row py-6 lg:pl-0 pr-10 lg:pr-6">
+					<iframe class= "w-full h-48 lg:h-auto lg:w-1/3" src="{{book.listlink}}" allowfullscreen="true" ></iframe>
+					<div class="w-full lg:w-2/3 pt-6 lg:pt-0 lg:px-6">
 						<p class= "text-base font-bold 
 						   {{ "font-baloo" if kannada else "font-trade" }}
 						">
@@ -35,7 +35,7 @@
 				{% endfor %}
 			</div>
 		</div>
-		<div class="w-2112 ml-32 h-full">
+		<div class="w-full h-auto lg:w-2112 lg:ml-32 lg:h-full">
 			<div class="h-auto">
 				<p class="mx-6 text-4xl mb-3
 				   {{ "font-baloo" if kannada else "font-display" }}
@@ -44,11 +44,11 @@
 				</p>
 				<div class="mx-6 w-20 h-0 border border-solid border-red-650"></div>
 			</div>
-			<div class = "w-192 mx-6 h-5/6 flex flex-col flex-wrap">	
+			<div class = "w-full lg:w-192 mx-6 h-auto lg:h-5/6 flex flex-col lg:flex-wrap">	
 				{% for book in recbooklist %}
-				<div class="h-1/2 flex flex-row py-6 pr-6">
-					<img class= "w-1/3" src="{{book.coverimage}}" allowfullscreen="true" ></iframe>
-					<div class="w-2/3 px-6">
+				<div class="h-1/2 flex flex-col lg:flex-row py-6 lg:pl-0 pr-10 lg:pr-6">
+					<img class= "w-full h-auto lg:h-auto lg:w-1/3 shadow-lg" src="{{book.coverimage}}">
+					<div class="w-full lg:w-2/3 pt-6 lg:pt-0 lg:px-6">
 						<p class= "text-base font-bold 
 						   {{ "font-baloo" if kannada else "font-trade" }}
 						">{{book.title}}</p>
@@ -71,7 +71,7 @@
 				{% endfor %}
 			</div>
 		</div>
-		<div class="w-1152 ml-16 h-full">
+		<div class="w-full h-auto lg:w-1152 lg:ml-32 lg:h-full">
 			<div class="h-auto">
 				<p class="mx-6 text-4xl mb-3
 				   {{ "font-baloo" if kannada else "font-display" }}
@@ -80,11 +80,11 @@
 				</p>
 				<div class="mx-6 w-20 h-0 border border-solid border-red-650"></div>
 			</div>
-			<div class = "w-192 mx-6 h-5/6 flex flex-col flex-wrap">	
+			<div class = "w-full lg:w-192 mx-6 h-auto lg:h-5/6 flex flex-col lg:flex-wrap">	
 				{% for book in speakerbooklist %}
-				<div class="h-1/2 flex flex-row py-6 pr-6">
-					<img class= "w-1/3" src="{{book.coverimage}}" allowfullscreen="true" ></iframe>
-					<div class="w-2/3 px-6">
+				<div class="h-1/2 flex flex-col lg:flex-row py-6 lg:pl-0 pr-10 lg:pr-6">
+					<img class= "w-full h-auto lg:h-auto lg:w-1/3 shadow-lg" src="{{book.coverimage}}">
+					<div class="w-full lg:w-2/3 pt-6 lg:pt-0 lg:px-6">
 						<p class= "text-base font-bold 
 						   {{ "font-baloo" if kannada else "font-trade" }}
 						">{{book.title}}</p>

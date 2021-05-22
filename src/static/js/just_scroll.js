@@ -1,5 +1,7 @@
+var widerScreenWidth = window.matchMedia("(max-width: 1024px)");
 //For converting mousewheel scroll into horizontal scroll
 var scrollicon = document.getElementById("scroll-arrow")
+if (!widerScreenWidth.matches) {
 main.addEventListener('wheel', (e) => {
 	main.scrollLeft += e.deltaY;
 
@@ -49,7 +51,7 @@ main.addEventListener('wheel', (e) => {
 	}
 		
 });
-
+}
 document.addEventListener('DOMContentLoaded', function() {
 				const ele = document.getElementById('main');
 

@@ -11,7 +11,8 @@ layout: default
 			<div>
 				{% include "./partials/navbar.html" %}
 				{% include "./partials/menu.html" %}
-				<div id="main" class="flex flex-col lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-gray-700 scroll-snap"> 
+				<div id="main" class=" flex flex-col 
+						       lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-white scroll-snap"> 
 				{% include "./partials/navbar_top.html" %}
 				{{ content | safe }}
 				{% include "./partials/quat_section.html" %}
@@ -21,11 +22,6 @@ layout: default
 	</main>
 	</div>
 </body>
-{% if path == "home" %}
-<!-- Netlify Identity Widget -->
-<!-- Needed only if you are using Netlify Identity feature -->
-<script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-{% endif %}
 
 <script type="text/javascript" src="/static/js/exhibit_scroll.js"></script>
-<script src="/static/js/menu_exhibit.js"></script>
+<script src="/static/js/menu.js"></script>

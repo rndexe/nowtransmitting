@@ -1,0 +1,86 @@
+<div id="sidenavbar" class="w-full h-16 lg:w-20 inline lg:fixed lg:h-full lg:flex bg-white">
+	<nav class="w-full flex my-5 lg:my-0 px-3 lg:px-0 lg:my-px flex-row-reverse lg:flex-col">
+		<div id="menu-button1" class="lg:p-2 lg:mt-10 w-20 lg:p-1 lg:fixed">
+			<div style="  width: 30px; height: 2px; background-color: #2d2d2d; margin: 6px auto;"></div>
+			<div style="  width: 30px; height: 2px; background-color: #2d2d2d; margin: 6px auto;"></div>
+			<div style="  width: 30px; height: 2px; background-color: #2d2d2d; margin: 6px auto;"></div>
+		</div>
+		{% if path == 'home' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+				<a href="/home">
+					{{ "ಸೋಂಕು" if kannada else "Contagion" }}
+				</a>
+			</p>
+		{% elseif path == 'about' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+			    <a href="/home">
+			    	{{ "ಸೋಂಕು" if kannada else "Contagion" }}
+			    </a>
+			</p>
+		{% elseif path == 'lectures' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+				<a href=
+				    "{{ "/kn/programmes" if kannada else "/programmes"}}">
+				    {{ "ಕಾರ್ಯಕ್ರಮ" if kannada else "Programme" }}
+				</a>
+			</p>
+		{% elseif path == 'events' %}
+		    <p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+				<a href=
+				    "{{ "/kn/programmes" if kannada else "/programmes"}}">
+				    {{ "ಕಾರ್ಯಕ್ರಮ" if kannada else "Programme" }}
+				</a>
+			</p>
+			
+		{% elseif path == 'workshops' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+				<a href=
+				    "{{ "/kn/programmes" if kannada else "/programmes"}}">
+				    {{ "ಕಾರ್ಯಕ್ರಮ" if kannada else "Programme" }}
+				</a>
+			</p>
+		{% elseif path == 'filmscreenings' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+			<a href=
+			    "{{ "/kn/programmes" if kannada else "/programmes"}}">
+			    {{ "ಕಾರ್ಯಕ್ರಮ" if kannada else "Programme" }}
+			</a>
+			</p>
+		{% elseif path == 'rooms' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-sm font-display">
+			<a href=
+			    "{{ "/kn/socialroom" if kannada else "/socialroom"}} ">
+			    {{ "ಸಾಮೂಹಿಕ ಒಕ್ಕೂಟ" if kannada else "Social Room" }}
+			</a>
+			</p>
+		{% elseif path == 'exhibits' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+			<a href=
+			    "{{ "/kn/exhibits" if kannada else "/exhibits"}} ">
+			    {{ "ಪ್ರದರ್ಶನ" if kannada else "Exhibition"}}
+			</a>
+			</p>
+		{% elseif path == 'covids' %}
+			<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-base font-display">
+			<a href=
+			    "{{ "/kn/covids" if kannada else "/covids"}} ">
+			    {{ "ಕೋ-ವಿಡ್ಸ್‌ " if kannada else "CO-VIDS"}}
+			</a>
+			</p>
+		{% else %}
+		<p class="lg:transform lg:-rotate-90 w-full text-center lg:my-auto text-xl font-display">
+			<a href=
+			    "{{ "/kn/home" if kannada else "/home"}} ">
+				{{ "ಸೋಂಕು" if kannada else "Contagion" }}
+			</a>
+		</p>
+		{% endif %}
+
+		<div class="h-auto w-20 lg:bottom-0 lg:fixed lg:p-1">
+			<a href=
+			    "{{ "/kn/home" if kannada else "/home"}} ">
+                <img class="w-20" src={{"/static/img/Logo_Kannada-03.png" if kannada else "/static/img/SGLogo_Black_Transparent.png"}}></img>
+			</a>
+		</div>
+	</nav>
+</div>

@@ -1,5 +1,5 @@
 {
-    "layout" : "programmes/layout_lecture",
+    "layout" : "programmes/layout_programme",
     "path" : "events",
     "tags": [
         "event", "programme"

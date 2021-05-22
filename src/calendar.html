@@ -7,17 +7,17 @@ permalink: /programmes/
 <div class="menu-container" id="menu-container">
     {% include "./_includes/partials/navbar.html" %}
     {% include "./_includes/partials/menu.html" %}
-    <div class="block w-full lg:w-screen lg:h-screen lg:pl-20 bg-white overflow-hidden">
+    <div class="block w-full lg:w-screen lg:h-screen lg:pl-20 bg-white overflow-y-scroll lg:overflow-hidden">
         <div class="text-3xl lg:ml-24">
-            <p class="text-black font-display lg:pt-12" style="font-weight:700; letter-spacing:1px;">Programmes</p>
+            <p class="text-black font-display pt-3 pl-5 lg:pt-12 lg:pl-0" style="font-weight:700; letter-spacing:1px;">Programmes</p>
           
-            <div class="mt-3 align-bottom" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
-            <p class="text-base mt-3 font-display">... understanding contagion across disciplines to enable conversations and encourage critical questions.</p>
+            <div class="mt-3 align-bottom ml-5 lg:ml-0" style=" width: 60px; border: 1px solid #d62b2b; height:0;"></div>
+            <p class="hidden lg:block pl-0 text-base mt-3 font-display">... understanding contagion across disciplines to enable conversations and encourage critical questions.</p>
 
           </div>
         
         <!-- calendar div starts here -->
-            <div class="w-screen h-full block lg:flex-none lg:flex-col lg:pl-20">
+            <div class="w-screen h-full lg:flex-none lg:flex-col lg:pl-20">
                 <div class="flex flex-row">
     
                     <link rel="dns-prefetch" href="//unpkg.com" />
@@ -41,7 +41,7 @@ permalink: /programmes/
                           width: 20px;
                           height: 20px;
                           padding: 3px;
-                          margin-right: 15px;
+                          margin-right: 5px;
                           /* background-color only for content */
                           background-clip: content-box;
                           border: 1px solid #bbbbbb;
@@ -102,24 +102,24 @@ permalink: /programmes/
                     </style>
                 
                 <div class="antialiased w-screen sans-serif bg-white h-screen">
-                    <div x-data="app()" x-init="[initDate(), getNoOfDays()]" x-cloak class="ndat flex lg:flex-row">
-                        <div class="container ml-px py-2 md:py-2 w-2/3 h-11/12" >
+                    <div x-data="app()" x-init="[initDate(), getNoOfDays()]" x-cloak class="ndat block lg:flex lg:flex-row">
+                        <div class="container ml-px py-2 md:py-2 w-full lg:w-2/3 h-11/12" >
                               
                             <!-- <div class="font-bold text-gray-800 text-xl mb-4">
                                 Schedule Tasks
                             </div> -->
                 
-                            <div class="bg-white overflow-hidden">
+                            <div class="bg-white overflow-hidden h-15">
                 
-                                <div class="flex py-2 ">
+                                <div class="flex flex-col lg:flex-row lg:py-2 ">
     
                                     <div class="flex flex-grow items-end">
-                                        <p class="text-sm pl-36 font-trade text-center w-full" style="color: #b9b9b9;"> Click on a day to view events</p>
+                                        <p class="text-xs lg:text-sm lg:pl-36 font-trade text-center w-full" style="color: #b9b9b9;"> Click on a day to view events</p>
                                     </div>
-                                    <div class="flex flex-none w-42" style="padding-top: 2px;">
+                                    <div class="flex flex-none mx-auto w-42" style="padding-top: 2px;">
                                       <button 
                                             type="button"
-                                            class="leading-none border-black border p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex cursor-pointer hover:bg-gray-200 p-1 items-center" 
+                                            class="leading-none text-xs lg:text-sm border-black border p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex cursor-pointer hover:bg-gray-200 items-center" 
                                             :class="{' opacity-100': month == 3 }"
                                             :disabled="month == 3 ? true : false"
                                             @click="month=3; getNoOfDays()">
@@ -127,7 +127,7 @@ permalink: /programmes/
                                         </button>
                                         <button 
                                             type="button"
-                                            class="leading-none border-black border p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex cursor-pointer hover:bg-gray-200 p-1 items-center" 
+                                            class="leading-none text-xs lg:text-sm border-black border p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex cursor-pointer hover:bg-gray-200 items-center" 
                                             :class="{' opacity-100': month == 4 }"
                                             :disabled="month == 4 ? true : false"
                                             @click="month=4; getNoOfDays()">
@@ -136,7 +136,7 @@ permalink: /programmes/
                                        
                                         <button 
                                             type="button"
-                                            class="leading-none border-black border p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex items-center cursor-pointer hover:bg-gray-200 p-1" 
+                                            class="leading-none text-xs lg:text-sm border-black border p-2 opacity-25 ml-1 rounded-lg transition ease-in-out duration-100 inline-flex items-center cursor-pointer hover:bg-gray-200" 
                                             :class="{' opacity-100': month == 5 }"
                                             :disabled="month == 5 ? true : false"
                                             @click="month=5; getNoOfDays()">
@@ -151,7 +151,7 @@ permalink: /programmes/
                                             <div style="width: 14.26%" class="px-2 py-2">
                                                 <div
                                                     x-text="day" 
-                                                    class="text-black font-trade text-sm uppercase font-bold text-center"></div>
+                                                    class="text-black font-trade text-xs lg:text-sm uppercase font-bold text-center"></div>
                                             </div>
                                         </template>
                                     </div>
@@ -160,27 +160,27 @@ permalink: /programmes/
                                         <template x-for="blankday in blankdays">
                                             <div 
                                                 style="width: 14.28%;"
-                                                class="text-center border px-1 pt-1 h-20"	
+                                                class="text-center border px-1 pt-1 h-10 lg:h-20"	
                                             ></div>
                                         </template>	
                                         <template x-for="(date, dateIndex) in no_of_days" :key="dateIndex" >	
-                                            <div style="width: 14.28%;" class="h-20 px-1 pt-1 items-center border relative cursor-pointer hover-trigger hover:bg-gray-800 hover:opacity-80 transition ease-in ease-out duration-100" 
+                                            <div style="width: 14.28%;" class="h-10 lg:h-20 px-1 pt-1 items-center border relative cursor-pointer hover-trigger hover:bg-gray-800 hover:opacity-80 transition ease-in ease-out duration-100" 
                                             @click="showEventModal(date)"
                                             >
                                                 <div
                                                     x-text="date"
-                                                    class="flex w-6 mx-auto h-6 items-center hover-target font-trade justify-center text-center leading-none rounded-full"
+                                                    class="flex w-6 tex mx-auto h-auto lg:h-6 text-xs lg:text-sm items-center hover-target font-trade justify-center text-center leading-none rounded-full"
                                                 ></div>
                                                 <template x-if="shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() ).length != 0">
                                                   <p class="hover-target-show font-trade w-full text-center">View all events</p>
                                                 </template> 
-                                                <div class="h-10 overflow-y-hidden mt-px hover-target-hide">
+                                                <div class="h-5 lg:h-10 overflow-y-hidden mt-px hover-target-hide">
                                                   <template x-for="event in shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() )">	
                                                       <div class="py-1 overflow-hidden flex">  
-                                                            <p class="text-xs align-top"
-                                                            :class="{'text-green-650': event.type.split(',')[0] == 'event', 'text-red-650': event.type.split(',')[0] == 'lecture', 'text-blue-pg': event.type.split(',')[0] == 'workshop', 'text-yellow-650': event.type.split(',')[0] == 'filmscreening'}"
-                                                            style="width:10px; margin-right:5px;">&#9679;</p>
-                                                            <p x-html="event.time.substring(0,5) + ' ' +event.title" class="text-sm truncate font-trade " style="vertical-align: text-bottom;"></p>
+                                                            <p class="text-xs lg:text-sm align-top"
+                                                            :class="{'text-green-650': event.type.split(',')[0] == 'event', 'text-red-650': event.type.split(',')[0] == 'lecture', 'text-blue-pg': event.type.split(',')[0] == 'workshop', 'text-yellow-650': event.type.split(',')[0] == 'film screening'}"
+                                                            style="width:10px; margin-right:5px;">&#8226;</p>
+                                                            <p x-html="event.time.substring(0,5) + ' ' +event.title" class="text-xs lg:text-sm truncate font-trade " style="vertical-align: text-bottom;"></p>
                                                       </div>
                                                     </template>
                                                 </div>
@@ -188,45 +188,51 @@ permalink: /programmes/
                                         </template>
                                     </div>
                                 </div>
+                            </div> 
+                        </div>
+
+                        <div class="lg:flex-col lg:flex-grow items-left justify-content w-full lg:w-1/5 lg:h-11/12 pb-20 pl-5 lg:pl-10 lg:pt-20 relative">
+                            <p class="font-display text-sm lg:text-md">Select Event Type</p>
+                              
+                            <br class="hidden lg:block">
+                            <div class="flex flex-wrap lg:block">
+                                <div class="radio-item-full mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="all" name="event" value="all" style="width:20px; height:20px;">
+                                  <label for="all" class="font-trade lg:m-5 text-xs lg:text-sm" >Full Calendar</label><br>
+                                </div>
+                                <div class="radio-item-lectures mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="lectures" name="event" value="Lectures" style="width:20px; height:20px; ">
+                                  <label for="lectures" class="font-trade lg:m-5 text-xs lg:text-sm">Lectures</label><br>
+                                </div>
+                                
+                                <div class="radio-item-events mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="events" name="event" value="Events"  style="width:20px; height:20px; ">
+                                  <label for="events" class="font-trade lg:m-5 text-xs lg:text-sm">Events</label><br>
+                                </div>
+                                <div class="radio-item-filmscreening mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="filmscreening" name="event" value="Film Screening"  style="width:20px; height:10px; ">
+                                  <label for="filmscreening" class="font-trade lg:m-5 text-xs lg:text-sm">Film Screenings</label>
+                                  
+                                </div>
+                                <div class="radio-item-workshops mx-3 lg:mx-0">
+                                  <input x-on:change="tester()" type="radio" id="workshops" name="event" value="Workshops"  style="width:20px; height:20px;">
+                                  <label for="workshops" class="font-trade lg:m-5 text-xs lg:text-sm">Workshops and Masterclasses</label><br>
+                                  <br class="hidden lg:block">
+                                  <br class="hidden lg:block">
+                                </div>
+                           </div>
+                            <a class="lg:h-10 text-xs font-trade  underline" target="_blank" href="https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile">Mediator-led Sessions</a><br>
+                            <a class="lg:h-10 text-xs font-trade  underline" target="_blank" href="https://vimeo.com/showcase/contagionfilmseries">Watch all films</a><br>
+                            <a class="lg:h-10 text-xs font-trade  underline" target="_blank" href="https://www.youtube.com/channel/UC9uOydQRYCKArJVi0Kj6ALw">Missed a Lecture? Watch here</a>
+                          
+
+                            <br class="hidden lg:block"><br>
+                            <div class="lg:fixed lg:bottom-20 flex flex-col w-full h-auto lg:pr-20 lg:mr-48">
+                              <p class="text-sm font-bold font-trade mb-1 mt-1">Programme Partners</p>
+                              <p class="mr-10 lg:mr-0 lg:w-1/5 text-xs font-trade break-words">DBT/Wellcome Trust India Alliance, Indian National Science Academy, Chennai Photo Biennale (CPB) Foundation, U.S. Consulate General Chennai, Dr. Jenner’s House</p>
                             </div>
                         </div>
-
-                        <div class="flex-grow items-center justify-content w-1/5 h-11/12 pl-10 pt-20 relative">
-                          <p class="font-display text-md">Select Event Type</p>
-                            
-                          <br>
-                          <div class="radio-item-full">
-                            <input x-on:change="tester()" type="radio" id="all" name="event" value="all" style="width:20px; height:20px;">
-                            <label for="all" class="font-trade m-5 text-sm" >Full Calendar</label><br>
-                          </div>
-                          <div class="radio-item-lectures">
-                            <input x-on:change="tester()" type="radio" id="lectures" name="event" value="Lectures" style="width:20px; height:20px; ">
-                            <label for="lectures" class="font-trade m-5 text-sm">Lectures</label><br>
-                          </div>
-                          <div class="radio-item-workshops">
-                            <input x-on:change="tester()" type="radio" id="workshops" name="event" value="Workshops"  style="width:20px; height:20px;">
-                            <label for="workshops" class="font-trade m-5 text-sm">Workshops and Masterclasses</label><br>
-                          </div>
-                          <div class="radio-item-events">
-                            <input x-on:change="tester()" type="radio" id="events" name="event" value="Events"  style="width:20px; height:20px; ">
-                            <label for="events" class="font-trade m-5 text-sm">Events</label><br>
-                          </div>
-                          <div class="radio-item-filmscreening">
-                            <input x-on:change="tester()" type="radio" id="filmscreening" name="event" value="Film Screening"  style="width:20px; height:20px; ">
-                            <label for="filmscreening" class="font-trade m-5 text-sm">Film Screenings</label><br><br>
-                          </div>
-                          
-                          <a class="h-10 text-xs font-trade  underline" target="_blank" href="https://www.eventbrite.com/e/contagion-mediator-led-sessions-registration-145186343261?aff=ebdsoporgprofile">Mediator-led Sessions</a><br>
-                          <a class="h-10 text-xs font-trade  underline" target="_blank" href="https://vimeo.com/showcase/contagionfilmseries">Watch all films</a><br>
-                          <a class="h-10 text-xs font-trade  underline" target="_blank" href="https://www.youtube.com/channel/UC9uOydQRYCKArJVi0Kj6ALw">Missed a Lecture? Watch here</a>
-
-
-                          <br><br>
-                          <div class="fixed bottom-20 flex flex-col w-full h-auto pr-20 mr-48">
-                            <p class="text-sm font-bold font-trade mb-1">Programme Partners</p>
-                            <p class="w-1/5 text-xs font-trade break-words">DBT/Wellcome Trust India Alliance, Indian National Science Academy, Chennai Photo Biennale (CPB) Foundation, U.S. Consulate General Chennai, Dr. Jenner’s House</p>
-                          </div>
-                        </div>
+                        
                 
                         <!-- Modal -->
                         <div style=" background-color: rgba(0, 0, 0, 0.8)" class="fixed z-40 top-0 right-0 left-0 bottom-0 h-full w-full" x-show.transition.opacity="openEventModal">
@@ -246,7 +252,7 @@ permalink: /programmes/
                                     <hr>
                                     <div class="mb-4 mt-3">
                                       <ul id="eventlist">
-                                        <li>There are no events on this day</li>
+                                       
                                       </ul>
                                     </div>
                                 </div>
@@ -308,7 +314,6 @@ permalink: /programmes/
                                     fetch('../lp_json/programme_data.json')
                                         .then(response => response.json())
                                         .then(response => {
-                                          console.log('fetched',response);                                         
                                         
                                           this.events = response;
                                           this.shownEvents = response;
@@ -327,16 +332,12 @@ permalink: /programmes/
                                 },
                 
                                 tester(){
-                                  console.log("Checkbox changed")
                                   const all = document.getElementById('all')
                                   const lectures = document.getElementById("lectures")
                                   const workshops = document.getElementById("workshops")
                                   const events = document.getElementById("events")
                                   const films = document.getElementById("filmscreening")
-                                  console.log(lectures.checked)
-                                  console.log(workshops.checked)
-                                  console.log(events.checked)
-                                  console.log(films.checked)
+                                 
                                  
                                   this.shownEvents = this.events;
                                   
@@ -360,9 +361,9 @@ permalink: /programmes/
                                       return event.type.split(",")[0] == 'film screening'
                                     })
                                   }
-                                  console.log(this.shownEvents)
                                 },
                                 showEventModal(date) {
+                                    
                                     // open the modal
                                     var finaldate = date;
                                     if(date <10){
@@ -389,7 +390,7 @@ permalink: /programmes/
                                         `<div class="flex">
                                           <p class="text-sm"
                                           style="width:10px; margin-right:15px;"
-                                          :class="{'text-green-650': '${arr[i].type.split(',')[0]}' == 'event', 'text-red-650': '${arr[i].type.split(',')[0]}' == 'lecture', 'text-blue-pg': '${arr[i].type.split(',')[0]}' == 'workshop', 'text-yellow-650': '${arr[i].type.split(',')[0]}' == 'filmscreening'}">
+                                          :class="{'text-green-650': '${arr[i].type.split(',')[0]}' == 'event', 'text-red-650': '${arr[i].type.split(',')[0]}' == 'lecture', 'text-blue-pg': '${arr[i].type.split(',')[0]}' == 'workshop', 'text-yellow-650': '${arr[i].type.split(',')[0]}' == 'film screening'}">
                                             &#9679;
                                           </p> 
                                           <a href='${arr[i].url}'>
@@ -399,7 +400,13 @@ permalink: /programmes/
                                         ul.appendChild(li);
                                       }
                                     }
-
+                                    else{
+                                      ul.innerHTML = "";
+                                      const li = document.createElement("li")
+                                      li.className = "font-trade text-md"
+                                      li.innerText = "There are no events on this day"
+                                      ul.appendChild(li)
+                                    }
 
 
                                     this.openEventModal = true;
@@ -417,7 +424,6 @@ permalink: /programmes/
                                         event_theme: this.event_theme
                                     });
                 
-                                    console.log(this.events);
                 
                                     // clear the form data
                                     this.event_title = '';

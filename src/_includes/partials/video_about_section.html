@@ -1,14 +1,17 @@
-<section class="w-auto h-full max-h-full pl-20 flex-none bg-white">
-	<div class = "flex flex-row w-auto h-full pt-36">
+<section class="w-screen lg:w-auto h-auto lg:h-full lg:max-h-full pl-10 pr-10 pb-16 lg:pl-20 lg:pr-0 lg:pb-0 flex-none bg-white">
+    <div class =   "flex flex-col 
+                    lg:flex-row lg:w-auto lg:h-full lg:pt-36">
         {%- for video in exhibitvideos.slice(1) -%}
-            <div class="flex flex-row flex-none w-auto h-5/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto bg-white">
-                <iframe id="iframe2020" class="w-192 h-full bg-black" src={{video.privis}}
-                frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>	
-                <p class="self-end text-sm pl-10 w-96 font-normal text-black
-		  {{ "font-baloo" if kannada else "font-trade" }}
-		">{{video.pritxt}}</p>
-            </div>
-	    {%- endfor -%}	
-	</div>
+        <div class="flex flex-col flex-none w-full lg:w-auto h-auto lg:h-5/6 lg:pl-12 lg:pr-12 mx-auto bg-white
+                    lg:flex-row lg:p-0 lg:w-auto ">
+            <iframe class="w-full h-48
+                           lg:w-192 lg:h-full bg-black" src={{video.privis}}
+                    frameborder="0" allow="autoplay; fullscreen; picture-in-picture;" allowfullscreen></iframe>	
+            <p class="self-end text-sm pt-6 lg:pl-10 lg:w-96 font-normal text-black
+                      {{ "font-baloo" if kannada else "font-trade" }}
+                          ">{{video.pritxt}}</p>
+        </div>
+        {%- endfor -%}	
+    </div>
 
 </section>

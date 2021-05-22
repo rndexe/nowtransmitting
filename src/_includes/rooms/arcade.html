@@ -3,25 +3,25 @@ layout: default
 ---
 
 <body class="overflow-hidden">
-	<div class="menu-container" id="menu-container">
+    <div class="menu-container" id="menu-container">
 
-	<main class="block lg:flex lg:flex-col">
+        <main class="block lg:flex lg:flex-col">
 
-		<div class="w-screen fixed">
-			<div>
-				{% include "../partials/navbar.html" %}
-				{% include "../partials/menu.html" %}
-				<div id="main" class="flex flex-col lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-gray-700 scroll-snap"> 
+            <div class="w-screen fixed">
+                <div>
+                    {% include "../partials/navbar.html" %}
+                    {% include "../partials/menu.html" %}
+                    <div id="main" class="flex flex-col lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-white scroll-snap"> 
 
-				{% include "./room_title.html" %}
-				
-				{% include "./room_inmates.html" %}
-				</div>
-			</div>
-		</div>
-	</main>
-	</div>
+                        {% include "./room_title.html" %}
+
+                        {% include "./room_inmates.html" %}
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
 </body>
 
 <script type="text/javascript" src="/static/js/just_scroll.js"></script>
-<script src="/static/js/menu_exhibit.js"></script>
+<script src="/static/js/menu.js"></script>

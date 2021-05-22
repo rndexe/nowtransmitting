@@ -1,16 +1,20 @@
-<section id="about" class="w-auto max-w-screen h-full flex-none bg-white">
-		<div class="h-full flex flex-row pt-36">
-			<div class="h-full flex-initial w-240">
-				{% if description %}
-				<pre class="text-base xl:text-lg ml-32 pr-32 font-normal whitespace-pre-wrap
+<section id="about" class="w-auto max-w-screen h-auto lg:h-full flex-none bg-white">
+	<div class="h-auto flex flex-row 
+		    lg:h-full lg:pt-36">
+		<div class="h-auto flex-initial w-screen    
+			    lg:h-full lg:w-240">
+			{% if description %}
+			<pre class="font-normal whitespace-pre-wrap
+				    text-base my-auto pl-10 pr-10 py-10
+				    xl:text-lg lg:ml-32 lg:pl-0 lg:pr-16 lg:py-0 
 				     {{ "font-baloo" if kannada else "font-trade" }}
-				">
-					{{description | markdownify | safe }}
-				</pre>
-				{% endif %}
-			</div>
-
+				    ">
+						{{description | markdownify | safe }}
+			</pre>
+			{% endif %}
 		</div>
+
+	</div>
 </section>
 
 

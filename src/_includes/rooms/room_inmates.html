@@ -1,34 +1,30 @@
-<section class="w-auto h-full max-h-full pr-20 pt-16 flex-none bg-white">
-	<div class = "flex flex-row w-auto h-full">
-	{%- for game in gameslist -%}
-		<div class="flex flex-col flex-none w-auto h-4/6 pl-12 pr-12 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-gray-750">
-			
-			<p class="text-3xl mb-3
-			   {{ "font-baloo" if kannada else "font-display" }}
-			">
-				{{game.title}}
-			</p>
-			<div class="mb-12 w-20 h-0 border border-solid border-red-650"></div>
-			<div class="flex flex-row h-full">
-				<img class="object-contain w-auto h-full shadow-2xl" src={{game.playimage}} oncontextmenu="return false" ondragstart="return false">	
-				<div class="pl-10">
-					<p class="text-sm mb-10 w-96 font-normal text-trueGray-750
-					   {{ "font-baloo" if kannada else "font-trade" }}
-					">
-						{{game.about}}
-					</p>
-					<a href={{game.listlink}}>
-						<button class="text-xs py-3 px-12 rounded-sm border border-solid border-black
-						   {{ "font-baloo" if kannada else "font-trade" }}
-						">
-                            {{ "ಆಡಿ" if kannada else "Play" }}
-						</button>
-					</a>
-				</div>
-			</div>
+<section class="w-full lg:w-auto h-auto lg:h-full lg:max-h-full lg:pr-20 pt-16 flex-none bg-white">
+    <div class = "flex flex-col lg:flex-row w-full lg:w-auto h-auto lg:h-full mb-32 lg:mb-0">
+        {%- for game in gameslist -%}
+        <div class="flex flex-col flex-none w-full lg:h-4/6 pl-12 pr-12 pb-20 mx-auto lg:p-0 lg:w-auto lg:ml-40 bg-white">
 
-		</div>
-	{%- endfor -%}	
-	</div>
+            <p class="text-3xl mb-3
+                      {{ "font-baloo" if kannada else "font-display" }}
+                          ">{{game.title}}</p>
+            <div class="mb-12 w-20 h-0 border border-solid border-red-650"></div>
+            <div class="flex flex-col lg:flex-row lg:h-full">
+                <img class="object-contain w-full h-auto lg:w-auto lg:h-full shadow-2xl" src={{game.playimage}} oncontextmenu="return false" ondragstart="return false">	
+                <div class="lg:pl-10">
+                    <p class="text-sm my-4 lg:mb-10 w-full lg:w-96 font-normal text-trueGray-750
+                              {{ "font-baloo" if kannada else "font-trade" }}
+                                  ">{{game.about}}</p>
+                    <a href={{game.listlink}}>
+                        <button class="text-base lg:text-xs py-3 px-12 rounded-sm border border-solid border-black
+                                       {{ "font-baloo" if kannada else "font-trade" }}
+                                           ">
+                            {{ "ಆಡಿ" if kannada else "Play" }}
+                        </button>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+        {%- endfor -%}	
+    </div>
 
 </section>
