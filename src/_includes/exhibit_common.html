@@ -11,17 +11,24 @@ layout: default
 			<div>
 				{% include "./partials/navbar.html" %}
 				{% include "./partials/menu.html" %}
+				{% include "./partials/commentlink.html" %}
+                
 				<div id="main" class=" flex flex-col 
 						       lg:flex-row overflow-x-hidden h-screen max-h-screen w-auto bg-white scroll-snap"> 
 				{% include "./partials/navbar_top.html" %}
 				{{ content | safe }}
 				{% include "./partials/quat_section.html" %}
+                {% include "./partials/commentbox.html" %}
 				</div>
 			</div>
 		</div>
 	</main>
 	</div>
+<!-- begin wwww.htmlcommentbox.com -->
+<!-- end www.htmlcommentbox.com -->
 </body>
 
+ <link rel="stylesheet" type="text/css" href="/static/css/commentbox.css" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24ZmXsOQvawN9cUrvOjPJZX0"+"&opts=16862&num=10&ts=1621670106193");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <script type="text/javascript" src="/static/js/exhibit_scroll.js"></script>
 <script src="/static/js/menu.js"></script>

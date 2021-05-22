@@ -48,6 +48,7 @@ module.exports = function (eleventyConfig) {
     "./node_modules/alpinejs/dist/alpine.js": "./static/js/alpine.js",
     "./src/static/css/about.css": "./static/css/about.css",
     "./src/static/css/landing-page.css": "./static/css/landing-page.css",
+    "./src/static/css/commentbox.css": "./static/css/commentbox.css",
   });
 
   // Copy Image Folder to /_site
