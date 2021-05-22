@@ -5,7 +5,7 @@
 		<div class="w-full pt-24">
 			{% if kannada == 'true' %}
 				<p class="my-2 w-auto text-white
-					{{ "font-baloo text-xl" if kannada else "font-trade text-base" }}">
+					{{ "font-baloo text-base" if kannada else "font-trade text-base" }}">
 						{% if cata == 'trigger' %}
 							ಟ್ರಿಗ್ಗರ್‌
 						{% elseif cata == 'spillover' %}
@@ -49,7 +49,7 @@
 				{{"ಮಾಧ್ಯಮ" if kannada else "Medium"}}: {{medium}}
 				</p>
 				<p class="text-base  w-auto mt-1 lg:mt-1.5 font-normal text-white
-				  {{ "font-baloo" if kannada else "font-tade"}}
+				  {{ "font-baloo" if kannada else "font-trade"}}
 				">
 				{{ "ವರ್ಷ" if kannada else "Year"}}: {{year}}
 				</p>
