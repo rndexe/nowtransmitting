@@ -1,6 +1,8 @@
 ---
 layout: when-world-laugh
 authortype: ತಂಡ
+cata: transmission
+catb: documenting
 thumb: /static/img/D_Exhibit_Thumbnail.jpg
 title: ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ
 subtitle: ಜಾಗತಿಕ ಅನುಭವದ ಪ್ರಣಾಲಿಕೆಯನ್ನು ಪತ್ತೆ ಮಾಡುವ ಹಾದಿ

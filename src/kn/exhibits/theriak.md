@@ -1,6 +1,8 @@
 ---
 layout: theriak
 authortype: ತಂಡ
+cata: trigger
+catb: mapping
 thumb: /static/img/E_Exhibit_Thumbnail.jpg
 title: ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ
 subtitle: ರೋಗಗಳ ಏರಿಳಿತ ಮತ್ತು ಹರಿವನ್ನು ಅಂಕಿತ ಗೊಳಿಸುವ ನಕ್ಷೆ

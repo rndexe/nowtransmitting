@@ -1,6 +1,8 @@
 ---
 layout: plague-british-india
 featured: false
+cata: spillover
+catb: narrating
 authortype: ವಿದ್ವಾಂಸರು
 thumb: /static/img/A_Exhibit_Thumbnail.jpg
 title: ಬ್ರಿಟಿಷ್‌ ಆಡಳಿತದ ಭಾರತದಲ್ಲಿ ಪ್ಲೇಗ್‌ ನಿಯಂತ್ರಣ

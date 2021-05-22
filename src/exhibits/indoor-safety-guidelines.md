@@ -1,6 +1,8 @@
 ---
 layout: indoor-safety-guidelines
 authortype: Team
+cata: transmission
+catb: mapping
 thumb: /static/img/I_Exhibit_Thumbnail.jpg
 title: "COVID-19 Indoor Safety Guidelines"
 subtitle: The inner life of a virus

@@ -1,6 +1,8 @@
 ---
 layout: fluid-dialogues
 authortype: ತಂಡ
+cata: spillover
+catb: documenting
 thumb: /static/img/M_Exhibit_Thumbnail.jpg
 title: ದ್ರವ ಸಂವಾದಗಳು
 subtitle: ಕಳಂಕದ ಹೊರೆ

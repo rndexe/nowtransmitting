@@ -1,6 +1,8 @@
 ---
 layout: 2020-vision
 featured: false
+cata: transmission
+catb: mapping
 authortype: ಕಲಾವಿದರು
 thumb: /static/img/B_Exhibit_Thumbnail.jpg
 title: 2020 ದೂರ ದೃಷ್ಟಿ

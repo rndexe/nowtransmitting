@@ -1,6 +1,8 @@
 ---
 layout: theriak
 authortype: Team
+cata: trigger
+catb: mapping
 thumb: /static/img/E_Exhibit_Thumbnail.jpg
 title: "THERIAK | The Disease Map"
 subtitle: Mapping the ebb and flow of diseases

@@ -1,6 +1,8 @@
 ---
 layout: bombay-plague
 authortype: Artist
+cata: spillover
+catb: narrating
 thumb: /static/img/C_Exhibit_Thumbnail.jpg
 title: Drawing the Bombay Plague
 subtitle: An alternate imagination of the Bombay Plague

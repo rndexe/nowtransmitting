@@ -1,6 +1,8 @@
 ---
 layout: cluster-17-cases
 authortype: ತಂಡ
+cata: transmission
+catb: documenting
 thumb: /static/img/H_Exhibit_Thumbnail.jpg
 title: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು
 subtitle: ಅನಿಶ್ಚಿತತೆಯ ನಡುವೆ

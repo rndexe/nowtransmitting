@@ -1,5 +1,7 @@
 ---
 authortype: Team
+cata: trigger
+catb: mapping
 embedvis: https://player.vimeo.com/video/545539085
 exhibitauthor:
   - authorbio: Sonia Shah is a science journalist and prize-winning author of

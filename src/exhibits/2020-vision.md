@@ -1,6 +1,8 @@
 ---
 layout: 2020-vision
 featured: true
+cata: transmission
+catb: mapping
 authortype: Artist
 thumb: /static/img/B_Exhibit_Thumbnail.jpg
 title: 2020 Vision

@@ -1,6 +1,8 @@
 ---
 layout: fluid-dialogues
 authortype: Team
+cata: spillover
+catb: documenting
 thumb: /static/img/M_Exhibit_Thumbnail.jpg
 title: "Fluid Dialogues"
 subtitle: The burden of stigma

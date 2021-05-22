@@ -1,6 +1,8 @@
 ---
 layout: bombay-plague
 featured: true
+cata: spillover
+catb: narrating
 authortype: ಕಲಾವಿದರು
 thumb: /static/img/C_Exhibit_Thumbnail.jpg
 title: ಬಾಂಬೆ ಪ್ಲೇಗ್‌ ಚಿತ್ರಾಕೃತಿ

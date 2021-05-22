@@ -1,6 +1,8 @@
 ---
 layout: the-glass-room
 featured: false
+cata: trigger
+catb: documenting
 authortype: ತಂಡ
 thumb: /static/img/G_Exhibit_Thumbnail.jpg
 title: "ಗಾಜಿನ ಕೊಠಡಿ: ತಪ್ಪು ಮಾಹಿತಿ ಸಂಚಿಕೆ"

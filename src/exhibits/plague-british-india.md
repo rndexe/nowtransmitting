@@ -1,6 +1,8 @@
 ---
 layout: plague-british-india
 featured: false
+cata: spillover
+catb: narrating
 authortype: Scholar
 thumb: /static/img/A_Exhibit_Thumbnail.jpg
 title: Controlling the Plague in British India

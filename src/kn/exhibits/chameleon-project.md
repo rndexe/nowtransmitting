@@ -1,6 +1,8 @@
 ---
 layout: chameleon-project
 authortype: ಕಲಾವಿದರು
+cata: transmission
+catb: documenting
 thumb: /static/img/L_Exhibit_Thumbnail.jpg
 title: "ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ "
 subtitle: "ದೂರ ನಿಯಂತ್ರಣ: ಭಾವನೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ವ್ಯಾಪನಗಳು  "

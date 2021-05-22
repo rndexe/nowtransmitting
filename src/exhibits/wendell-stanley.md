@@ -2,6 +2,8 @@
 exhibitvideo: ""
 layout: wendell-stanley
 authortype: Sources
+cata: trigger
+catb: narrating
 thumb: /static/img/P_Exhibit_Thumbnail.jpg
 title: "Wendell Stanley: Crystallizing Viral History"
 subtitle: Between the living and dead--The curious nature of viruses

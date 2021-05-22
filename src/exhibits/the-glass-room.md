@@ -1,6 +1,8 @@
 ---
 layout: the-glass-room
 featured: false
+cata: trigger
+catb: documenting
 authortype: Team
 thumb: /static/img/G_Exhibit_Thumbnail.jpg
 title: "The Glass Room: Misinformation Edition "

@@ -1,4 +1,6 @@
 ---
+cata: trigger
+catb: narrating
 exhibitimages1:
   - pritxt: "The Koch family house in Wolsztyn, 1930. Koch’s practice and the living
       quarters were on the first floor. Since 1996, there has been a Robert Koch

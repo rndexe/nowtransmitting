@@ -2,6 +2,8 @@
 exhibitvideo: ""
 layout: wendell-stanley
 authortype: ಮೂಲಗಳು
+cata: trigger
+catb: narrating
 thumb: /static/img/P_Exhibit_Thumbnail.jpg
 title: "ವೆಂಡೆಲ್‌ ಸ್ಟಾನ್ಲೇ: ವೈರಾಣು ಇತಿಹಾಸದ ಚಿತ್ರಣ"
 subtitle: "ಸಾವು ಬದುಕಿನ ನಡುವಣ ವಿಚಿತ್ರ ಸ್ವಭಾವದ ಕುತೂಹಲಕಾರಿ ವೈರಾಣುಗಳು "

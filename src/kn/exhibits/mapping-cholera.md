@@ -1,5 +1,7 @@
 ---
 authortype: ತಂಡ
+cata: trigger
+catb: mapping
 embedvis: https://player.vimeo.com/video/545539085
 exhibitauthor:
   - authorbio: ಸೋನಿಯಾ ಶಾ ಅನ್ವೇಷಕ ಪತ್ರಕರ್ತರಾಗಿ, ವೈಜ್ಞಾನಿಕ ಇತಿಹಾಸಕಾರರಾಗಿ ಮತ್ತು

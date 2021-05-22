@@ -1,6 +1,8 @@
 ---
 layout: when-world-laugh
 authortype: Team
+cata: transmission
+catb: documenting
 thumb: /static/img/D_Exhibit_Thumbnail.jpg
 title: "When the World Was A Laugh"
 subtitle: Decoding the mechanics of a universal experience

@@ -1,6 +1,8 @@
 ---
 layout: ant-antibiotics
 featured: true
+cata: spillover
+catb: experimenting
 authortype: ತಂಡ
 thumb: /static/img/F_Exhibit_Thumbnail.jpg
 title: ಜೀವರೋಧಕಗಳಲ್ಲಿ ಇರುವೆಗಳು

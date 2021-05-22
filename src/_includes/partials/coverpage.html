@@ -3,6 +3,35 @@
 	<div class="float-left flex w-screen pl-10 pr-10 lg:pr-0 my-10 lg:my-0
 		    lg:w-1/3 lg:h-full lg:pl-20 lg:pt-36">
 		<div class="w-full pt-24">
+			{% if kannada == 'true' %}
+				<p class="my-2 w-auto text-white
+					{{ "font-baloo text-xl" if kannada else "font-trade text-base" }}">
+						{% if cata == 'trigger' %}
+							ಟ್ರಿಗ್ಗರ್‌
+						{% elseif cata == 'spillover' %}
+							ಸ್ಪಿಲ್‌ ಓವರ್‌
+						{% elseif cata == 'transmission' %}
+							ಸಂವಹನ
+						{% elseif cata == 'hindsight' %}
+							ನೇಪಥ್ಯ
+						{% endif %}
+						, 
+						{% if catb == 'mapping' %}
+							ನಕ್ಷೆ
+						{% elseif catb == 'documenting' %}
+							ಗುರುತಿಸಿ
+						{% elseif catb == 'experimenting' %}
+							ಪ್ರಯೋಗ
+						{% elseif catb == 'narrating' %}
+							ನಿರೂಪಣೆ
+						{% endif %}
+				</p>
+			{% else %}
+				<p class="my-2 w-auto text-white
+				{{ "font-baloo text-xl" if kannada else "font-trade text-base" }}">
+					{{cata.charAt(0).toUpperCase() + cata.slice(1)}}, {{catb.charAt(0).toUpperCase() + catb.slice(1)}}
+				</p>
+			{% endif %}
 			<p class="text-4xl lg:text-6xl w-auto font-bold text-white
 				  {{ "font-baloo leading-tight" if kannada else "font-trade"}}
 			">

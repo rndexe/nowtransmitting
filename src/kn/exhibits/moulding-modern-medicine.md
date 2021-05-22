@@ -1,6 +1,8 @@
 ---
 layout: moulding-modern-medicine
 authortype: ಮೂಲಗಳು
+cata: spillover
+catb: narrating
 thumb: /static/img/N_Exhibit_Thumbnail.jpg
 title: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
 subtitle: "ಸೂಕ್ಷ್ಮಾಣು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಥೆಗಳು – ಪ್ರತಿರೋಧಕಗಳ ಅರಿವು ಇಲ್ಲಿದೆ  "
