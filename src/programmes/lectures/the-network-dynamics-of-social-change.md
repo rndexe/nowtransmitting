@@ -22,19 +22,15 @@ expertbio: Damon Centola is a Professor in the Annenberg School for
   Communication, the School of Engineering and Applied Sciences, and the School
   of Arts and Sciences at the University of Pennsylvania, where he is Director
   of the Network Dynamics Group and a Senior Fellow at the Leonard Davis
-  Institute of Health Economics.   His research centers on social networks and
-  behavior change.  His work has been published across several disciplines in
+  Institute of Health Economics. His research centers on social networks and
+  behavior change. His work has been published across several disciplines in
   journals such as Science, Nature Communications, PNAS, American Journal of
   Sociology, Circulation and Journal of Statistical Physics. Damon received the
   American Sociological Association’s Award for Outstanding Research in
   Mathematical Sociology in 2006, 2009, and 2011; the Goodman Prize for
   Outstanding Contribution to Sociological Methodology in 2011; the James
   Coleman Award for Outstanding Research in Rationality and Society in 2017; and
-  the Harrison White Award for Outstanding Scholarly Book in 2019.  He was a
-  developer of the NetLogo agent based modeling environment, and was awarded a
-  U.S. Patent for inventing a method to promote diffusion in online
-  networks.  He is a member of the Sci Foo community and Fellow of the Center
-  for Advanced Study in the Behavioral Sciences at Stanford University.
+  the Harrison White Award for Outstanding Scholarly Book in 2019.
 expertpic: /static/img/pl_damon_portrait.png
 readinglist:
   - quadreadlink: https://ndg.asc.upenn.edu/wp-content/uploads/2019/05/Virality-Paradox.pdf
