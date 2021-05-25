@@ -6,7 +6,7 @@ var backbutton = document.getElementById("backbutton")
 var navitems = document.getElementById("nav-items-container")
 
 var about = document.querySelector('#about');
-var process = document.querySelector('#process');
+var process_section = document.querySelector('#_process');
 var scholar = document.querySelector('#authors');
 var further = document.querySelector('#takeitfurther')
 var aboutnav = document.querySelector('#nav-item-about');
@@ -16,7 +16,7 @@ var furthernav = document.querySelector('#nav-item-further')
 
 var scrollicon = document.getElementById("scroll-arrow")
 
-if(process == null){
+if(process_section == null){
 	navitems.children[1].removeChild(navitems.children[1].children[2])
 }
 
@@ -95,8 +95,8 @@ aboutnav.children[0].style.color = 'black'
 			furthernav.children[0].style.color = 'black'
 			furthernav.children[1].style.visibility = 'visible'
 		}
-		else if((window.scrollX>=scholar.getBoundingClientRect().right) && process!= null ){
-			if((window.scrollX >= process.getBoundingClientRect().left-80) && (window.scrollX <= further.getBoundingClientRect().left))
+		else if((window.scrollX>=scholar.getBoundingClientRect().right) && process_section!= null ){
+			if((window.scrollX >= process_section.getBoundingClientRect().left-80) && (window.scrollX <= further.getBoundingClientRect().left))
 			{	
 				resetNavbar()
 				processnav.children[0].style.color = 'red'
