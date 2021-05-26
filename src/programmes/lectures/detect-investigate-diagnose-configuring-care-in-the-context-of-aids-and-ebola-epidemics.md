@@ -5,7 +5,7 @@ permalink: programmes/lectures/detect-investigate-diagnose/
 cata: spillover
 catb: documenting
 thumb: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
-cover: /static/img/L_PL_Coverimage.jpg
+cover: /static/img/sn_adiabenton.png
 date: 2021-05-22T13:00:00.000Z
 description: >-
   COVID-19 has transformed the ways in which social, cultural, political, and
