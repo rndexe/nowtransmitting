@@ -5,7 +5,7 @@ permalink: kn/programmes/lectures/about-non-western-covid-vacciners/
 cata: spillover
 catb: documenting
 thumb: /static/img/pl_achal.png
-cover: /static/img/J_PL_Coverimage.jpg
+cover: /static/img/sn_achalprabhala.png
 date: 2021-05-21T13:00:00.000Z
 description: >-
   ಇಡೀ ವಿಶ್ವವು ಕರೋನ ವೈರಾಣು ಲಸಿಕೆಗಳ ಕೊರತೆಯನ್ನು ಎದುರಿಸುತ್ತಿದೆ, ಇದು ವಿವಿಧ
@@ -19,7 +19,8 @@ description: >-
 
 
   ಕೆಲವೇ ಪಾಶ್ಚಿಮಾತ್ಯ ದೇಶಗಳ ಹಿಡಿತದಲ್ಲಿರುವ ಔಷಧೀಯ ಅನ್ವೇಷಣೆಗಳನ್ನು ಮೀರಿ, ಇಡೀ ಜಗತ್ತಿಗೆ ಉತ್ತಮ ಫಲಿತಾಂಶವನ್ನು ನೀಡಲು, ನವೀನ ಬಗೆಯ ಔಷಧಿಗಳನ್ನು ತಯಾರಿಸುವ ಅವಶ್ಯಕತೆ ಇದೆ, ಈ ಕಾರ್ಯಕ್ಕೆ ಚಾಲನೆ ನೀಡಬೇಕಾಗಿದೆ. ಇದು ಸಾಧ್ಯವಾಗುವ ಬಗೆ ಹೇಗೆ ಎಂಬುದು ಉಪನ್ಯಾಸದ ಮುಖ್ಯ ವಿಚಾರವಾಗಿದೆ.
-link: http://bit.ly/lecture-prabhala
+link: ""
+reclink: https://youtu.be/BeQ1sbM-GEg
 expertname: ಅಚಲ್ ಪ್ರಭಾಲ
 expertbio: >-
   ಅಚಲ ಪ್ರಭಾಲ ಅವರು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಕಾರ್ಯಕರ್ತರು, ಆಕ್ಸೆಸ್‌ ಐ.ಬಿ.ಎಸ್.ಎ ಯೋಜನೆಯ
