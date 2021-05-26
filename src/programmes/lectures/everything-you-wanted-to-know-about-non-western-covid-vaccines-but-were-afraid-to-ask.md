@@ -5,7 +5,7 @@ permalink: programmes/lectures/about-non-western-covid-vacciners/
 cata: spillover
 catb: documenting
 thumb: /static/img/pl_achal.png
-cover: /static/img/J_PL_Coverimage.jpg
+cover: /static/img/sn_achalprabhala.png
 date: 2021-05-21T13:00:00.000Z
 description: >-
   The entire world faces a shortage of coronavirus vaccines, even though it is
@@ -22,7 +22,8 @@ description: >-
 
 
   This talk asks whether, and how, we can move the centre of pharmaceutical innovation beyond a handful of western countries in order to achieve better outcomes for the entire world, including the west itself. 
-link: http://bit.ly/lecture-prabhala
+link: ""
+reclink: https://youtu.be/BeQ1sbM-GEg
 expertname: Achal Prabhala
 expertbio: >-
   Achal Prabhala is a public health activist, the coordinator of the AccessIBSA
