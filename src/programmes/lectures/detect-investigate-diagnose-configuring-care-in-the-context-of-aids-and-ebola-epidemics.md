@@ -5,7 +5,7 @@ permalink: programmes/lectures/detect-investigate-diagnose/
 cata: spillover
 catb: documenting
 thumb: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
-cover: /static/img/L_PL_Coverimage.jpg
+cover: /static/img/sn_adiabenton.png
 date: 2021-05-22T13:00:00.000Z
 description: >-
   COVID-19 has transformed the ways in which social, cultural, political, and
@@ -17,7 +17,8 @@ description: >-
 
 
   Drawing on ethnographic and historical research on HIV/AIDS care and support and the 2014-16 epidemic of Ebola in Sierra Leone, Benton will address some political-economic factors underpinning epidemic response, as well as the means by which state and non-state actors configure care during an epidemic.
-link: http://bit.ly/lecture-benton
+link: ""
+reclink: https://youtu.be/FfsvbzWi0Qk
 expertname: Adia Benton
 expertbio: "Adia Benton is an associate professor of Anthropology and African
   Studies at Northwestern University, where she is affiliated with the Science
