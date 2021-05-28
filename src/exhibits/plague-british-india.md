@@ -163,7 +163,7 @@ eventlist:
   - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
       Christos Lynteris "
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
-    quadeventlink: https://www.eventbrite.com/e/145228050007
+    quadeventlink: http://bit.ly/lecture-c-lynteris
   - quadeventtxt: Age of Pandemics | Lecture by Chinmay Tumbe
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/148314096455
