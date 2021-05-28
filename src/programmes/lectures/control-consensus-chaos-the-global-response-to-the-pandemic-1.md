@@ -23,17 +23,14 @@ expertbio: Sheila Jasanoff is Pforzheimer Professor of Science and Technology
   authored more than 120 articles and chapters and is author or editor of more
   than 15 books, including The Fifth Branch, Science at the Bar, Designs on
   Nature, and The Ethics of Invention. Her work explores the role of science and
-  technology in the law, politics, and policy of modern democracies.   She
-  founded and directs the STS Program at Harvard; previously, she was founding
-  chair of the STS Department at Cornell. She has held distinguished visiting
-  appointments at leading universities in Europe, Asia, Australia, and the US.
-  Jasanoff served on the AAAS Board of Directors and as President of the Society
-  for Social Studies of Science. She is a member of the Council on Foreign
-  Relations. Her honors include the SSRC’s Hirschman prize, the Humboldt
-  Foundation’s Reimar-Lüst award, a Guggenheim Fellowship, an Ehrenkreuz from
-  the Government of Austria, and membership in the Royal Danish Academy. She
-  holds AB, JD, and PhD degrees from Harvard, and honorary doctorates from the
-  Universities of Twente and Liège.
+  technology in the law, politics, and policy of modern democracies. She founded
+  and directs the STS Program at Harvard; previously, she was founding chair of
+  the STS Department at Cornell. Jasanoff served on the AAAS Board of Directors
+  and as President of the Society for Social Studies of Science. She is a member
+  of the Council on Foreign Relations. Her honors include the SSRC’s Hirschman
+  prize, the Humboldt Foundation’s Reimar-Lüst award, a Guggenheim Fellowship,
+  an Ehrenkreuz from the Government of Austria, and membership in the Royal
+  Danish Academy.
 expertpic: /static/img/pl_sheila_portrait.png
 readinglist:
   - quadreadlink: https://www.thenation.com/article/society/sheila-jasanoff-interview-coronavirus/
