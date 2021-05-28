@@ -45,8 +45,10 @@ eventlist:
   - quadeventtxt: "The Age of Pandemics, 1817-1920: How They Shaped India and the
       World | Lecture by Chinmay Tumbe "
     quadeventlink: http://bit.ly/lecture-tumbe
+    quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_2.jpg
   - quadeventtxt: "COVID-19 Vaccines: Present and Future"
     quadeventlink: http://bit.ly/lecture-kang
+    quadeventvis: /static/img/pl_gagandeep.png
 relatedlist:
   - quadrelatedtxt: "Moulding Modern Medicine "
     quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
