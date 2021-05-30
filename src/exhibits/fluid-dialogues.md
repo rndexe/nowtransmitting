@@ -2,7 +2,7 @@
 layout: fluid-dialogues
 authortype: Team
 thumb: /static/img/M_Exhibit_Thumbnail.jpg
-title: "Fluid Dialogues"
+title: Fluid Dialogues
 subtitle: The burden of stigma
 medium: Film
 year: "2021"
@@ -58,9 +58,10 @@ exhibitauthor:
       television, radio, feature films and independent documentaries for over
       two decades. Her award winning work focuses on the intersection between
       Gender, Sexuality, Law and Public health. Her films are widely screened
-      around the globe and can be viewed at her [Vimeo Account](https://vimeo.com/jayashree). Queer Archive for
-      Memory, Reflection and Activism (QAMRA) is an initiative grown out of her
-      vast collection of raw footage on queer life and movement in India. "
+      around the globe and can be viewed at her [Vimeo
+      Account](https://vimeo.com/jayashree). Queer Archive for Memory,
+      Reflection and Activism (QAMRA) is an initiative grown out of her vast
+      collection of raw footage on queer life and movement in India. "
 processimages:
   - tertxt: "Red blood cells under DIC microscope, 400 x magnification. Courtesy of
       Basse Sttitgen. "
@@ -103,10 +104,10 @@ authorname: Basse Stittgen
 eventlist:
   - quadeventtxt: Detect, Investigate, Diagnose | Lecture by Adia Benton
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_1.jpg
-    quadeventlink: https://www.eventbrite.com/e/145400778643
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/about-non-western-covid-vacciners/
   - quadeventtxt: "A Human Question | Film Screening and Discussion with T. Jayashree "
     quadeventvis: /static/img/M_EXHIBIT_QUA_ATNVIS_2.jpg
-    quadeventlink: https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147
+    quadeventlink: https://nowtransmitting.com/programmes/films/a-human-question/
 authorbio: The work of Basse Stittgen is positioned at the intersection of
   design, art and material research. It stems from a fascination for matter, how
   it can be created, applied, used, reused and questioned. This approach might
