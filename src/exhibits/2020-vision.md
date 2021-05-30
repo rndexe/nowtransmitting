@@ -75,7 +75,7 @@ eventlist:
     quadeventlink: https://nowtransmitting.com/programmes/lectures/dealing-with-the-infodemic/
     quadeventvis: /static/img/J_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: Information...It’s Complicated | Workshop by Muhammad Radwan
-    quadeventlink: https://www.eventbrite.com/e/informationits-complicated-workshop-registration-145818873175
+    quadeventlink: https://nowtransmitting.com/programmes/workshops/information-its-complicated/
     quadeventvis: /static/img/B_EXHIBIT_QUA_ATNVIS_2.jpg
 relatedlist:
   - quadrelatedtxt: "The Glass Room: Misinformation Edition | Exhibit by Tactical Tech "
