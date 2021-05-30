@@ -85,7 +85,7 @@ eventlist:
     quadeventlink: https://www.eventbrite.com/e/148315625027
     quadeventvis: /static/img/h_exhibit_qua_atnvis_1.jpg
   - quadeventtxt: Creating Interactive Art About Pandemics | Masterclass by Matt Adams
-    quadeventlink: https://www.eventbrite.com/e/creating-interactive-art-about-pandemics-masterclass-registration-148923657669
+    quadeventlink: https://nowtransmitting.com/programmes/workshops/creating-interactive-art-about-pandemics/
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
 authorbio: >-
   Known internationally as one of the most adventurous artists’ group using
