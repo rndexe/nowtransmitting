@@ -1,6 +1,6 @@
 ---
 title: Digital Epidemiology
-permalink: /programmes/workshops/digital-epidemiology/
+permalink: programmes/workshops/digital-epidemiology/
 cata: trigger
 catb: documenting
 date: 2021-05-29T05:30:00.000Z
