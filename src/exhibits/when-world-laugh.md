@@ -2,7 +2,7 @@
 layout: when-world-laugh
 authortype: Team
 thumb: /static/img/D_Exhibit_Thumbnail.jpg
-title: "When the World Was A Laugh"
+title: When the World Was A Laugh
 subtitle: Decoding the mechanics of a universal experience
 medium: Speculative fiction, participative collection, video installation
 year: "2021"
@@ -17,9 +17,7 @@ description: >-
   In an attempt to track down the origins of the most contagious of laughs, Anaïs began documenting the sounds of laughter from across the world through an international Call for Laughs. As she and her collaborator tracked the most contagious ones, they set them into echoes and followed their modes of propagation, creating a speculative fiction. 
 
 
-  This investigation is presented as an evolutive video of laughs, which keeps growing as we contribute our laughter to this work. This video is complemented by the Collection of Laughs gathered during the investigation and presented as a typology of associated emotions
-
-  and colours. Inspired by the role of laughter in myths around the origin of the universe, this exhibit invites us to share a laugh at a time when the global pandemic has disrupted our ways of connecting and being together. 
+  This investigation is presented as an evolutive video of laughs, which keeps growing as we contribute our laughter to this work. This video is complemented by the Collection of Laughs gathered during the investigation and presented as a typology of associated emotions and colours. Inspired by the role of laughter in myths around the origin of the universe, this exhibit invites us to share a laugh at a time when the global pandemic has disrupted our ways of connecting and being together.
 privis: https://player.vimeo.com/video/545376715
 pritxt: This video draws us into a dark chamber. In this installation space, the
   vibrations of laughs recorded around the world are giving birth to miniature
@@ -119,9 +117,9 @@ eventlist:
       Richardson
     quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_1.jpg
     quadeventlink: https://www.eventbrite.com/e/how-ideas-and-behaviours-spread-through-a-crowd-event-registration-145820000547
-  - quadeventtxt: "The Shape of A Laugh| Workshop by Anais Tondeur "
+  - quadeventtxt: "The Shape of A Laugh | Workshop by Anais Tondeur "
     quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
-    quadeventlink: https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533
+    quadeventlink: https://nowtransmitting.com/programmes/workshops/the-shape-of-a-laugh/
 relatedlist:
   - quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
     quadrelatedtxt: The Chameleon Project by Tina Gonsalves
