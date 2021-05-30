@@ -1,6 +1,6 @@
 ---
-title: ದೃಶ್ಯಗಳ ಮೂಲಕ ರೂಪಾಂತರಣಗಳನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳುವ ಬಗೆ | ಕಾರ್ಯಾಗಾರ
-permalink: https://nowtransmitting.com/kn/programmes/workshops/visualising-interpreting-mutations/
+title: ದೃಶ್ಯಗಳ ಮೂಲಕ ರೂಪಾಂತರಣಗಳನ್ನು ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳುವ ಬಗೆ
+permalink: kn/programmes/workshops/visualising-interpreting-mutations/
 cata: transmission
 catb: experimenting
 thumb: /static/img/wk_mutation_thumbnail.png
