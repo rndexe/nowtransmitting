@@ -57,13 +57,13 @@ watchinglist:
     quadwatchtxt: "Perspectives on the Pandemic: An Anthropologists View"
     quadwatchvis: /static/img/L_PL_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventlink: https://www.eventbrite.com/e/a-human-question-film-screening-discussion-registration-145821204147?aff=ebdsoporgprofile
+  - quadeventlink: https://nowtransmitting.com/programmes/films/a-human-question/
     quadeventtxt: A Human Question | Film Discussion
     quadeventvis: /static/img/fs_jayashree_thumbnail.png
   - quadeventtxt: "Control, Consensus, Chaos: The Global Response to the Pandemic |
       Lecture by Sheila Jasanoff"
     quadeventvis: /static/img/pl_sheila.jpg
-    quadeventlink: https://bit.ly/lecture-jasanoff
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/control-consensus-chaos/
 relatedlist:
   - quadrelatedtxt: Controlling the Plague in British India by Christos Lynteris
     quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
