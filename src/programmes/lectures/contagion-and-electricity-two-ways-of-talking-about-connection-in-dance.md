@@ -51,11 +51,11 @@ watchinglist:
     quadwatchtxt: How Society Can Explain the Deadly Medieval Dancing Plagues
     quadwatchvis: /static/img/M_PL_QUA_WATCHVIS_2.jpg
 eventlist:
-  - quadeventlink: http://bit.ly/lecture-shahane
-    quadeventtxt: The Art of Pandemics | Lecture | Girish Shahane
+  - quadeventlink: https://nowtransmitting.com/programmes/lectures/art-of-pandemics/
+    quadeventtxt: The Art of Pandemics | Lecture by Girish Shahane
     quadeventvis: /static/img/pl_girish.png
   - quadeventtxt: Dis-Ease | Film Discussion
-    quadeventlink: http://bit.ly/films-ghani
+    quadeventlink: https://nowtransmitting.com/programmes/films/dis-ease/
     quadeventvis: /static/img/f_mariam.png
 relatedlist:
   - quadrelatedtxt: When the World Was A Laugh by Anais Tondeur
