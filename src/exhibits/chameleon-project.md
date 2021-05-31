@@ -81,7 +81,7 @@ play:
     quadplayvis: /static/img/L_EXHIBIT_QUA_PLAYVIS_1.jpg
 eventlist:
   - quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_1.jpg
-    quadeventlink: https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533
+    quadeventlink: https://nowtransmitting.com/programmes/workshops/the-shape-of-a-laugh/
     quadeventtxt: "The Shape of A Laugh | Workshop by Anais Tondeur "
   - quadeventvis: /static/img/L_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventtxt: How Ideas and Behaviours Spread Through a Crowd | Event by Prof.

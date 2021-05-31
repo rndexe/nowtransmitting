@@ -181,5 +181,5 @@ eventlist:
     quadeventlink: https://www.eventbrite.com/e/walkthrough-of-the-museum-at-robert-koch-institute-event-registration-148309895891
   - quadeventtxt: Science and Seeing | Lecture by Dr. David Arnold
     quadeventvis: /static/img/O_EXHIBIT_QUA_ATNVIS_2.jpg
-    quadeventlink: https://www.eventbrite.com/e/145397629223
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/science-and-seeing/
 ---

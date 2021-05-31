@@ -4,7 +4,7 @@ permalink: programmes/lectures/contagion-and-electricity/
 cata: transmission
 catb: documenting
 thumb: /static/img/pl_ananya.png
-cover: /static/img/M_PL_Coverimage.jpg
+cover: /static/img/sn_ananyakabir.png
 date: 2021-05-23T13:00:00.000Z
 description: >-
   Es como electricidad/ el mambo tiene la chispa’ (Mambo is like electricity; it
@@ -17,7 +17,8 @@ description: >-
 
 
   How does the competition between these metaphors relate to the formation of modernity’s social dances and how can we use them to understand the way we must dance during the pandemic?
-link: http://bit.ly/lecture-kabir
+link: ""
+reclink: https://youtu.be/YuzGsXJ5SZk
 expertname: Ananya Kabir
 expertbio: "Ananya Jahanara Kabir is Professor of English Literature at King’s
   College London. For her innovative work in the Humanities, she was awarded the

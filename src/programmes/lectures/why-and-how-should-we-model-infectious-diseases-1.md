@@ -53,8 +53,8 @@ watchinglist:
     quadwatchtxt: What Do We Know About COVID-19?
     quadwatchvis: /static/img/b_pl_qua_watchvis_2.jpg
 eventlist:
-  - quadeventlink: "http://bit.ly/masterclass-adams  "
-    quadeventtxt: Creating Interactive Art About Pandemics
+  - quadeventlink: https://nowtransmitting.com/programmes/workshops/creating-interactive-art-about-pandemics/
+    quadeventtxt: Creating Interactive Art About Pandemics | Masterclass by Matt Adams
     quadeventvis: /static/img/h_exhibit_qua_atnvis_2.jpg
   - quadeventlink: http://bit.ly/lecture-marathe
     quadeventtxt: "Real-Time Contagion Science in the 21st Century: The Role of Data

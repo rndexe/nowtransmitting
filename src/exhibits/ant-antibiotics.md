@@ -5,7 +5,7 @@ cata: spillover
 catb: experimenting
 authortype: Team
 thumb: /static/img/F_Exhibit_Thumbnail.jpg
-title: "Putting the Ant into Antibiotics"
+title: Putting the Ant into Antibiotics
 subtitle: Microbes to the rescue
 medium: Photographs and video
 year: "2019"
@@ -152,7 +152,7 @@ watchinglist:
 eventlist:
   - quadeventtxt: "Antimicrobial Resistance: the Pandemic in the Shadows | Lecture
       by Dr. Jyoti Joshi"
-    quadeventlink: https://www.eventbrite.com/e/145225482327
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/antimicrobial-resistance/
     quadeventvis: /static/img/f_exhibit_qua_atnvis_1.jpg
   - quadeventtxt: "Science, Innovation and Society: What have we learnt from the
       Covid-19 pandemic? | Lecture by Dr. Jeremy Farrar "

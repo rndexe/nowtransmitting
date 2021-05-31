@@ -4,7 +4,7 @@ authortype: Team
 cata: transmission
 catb: mapping
 thumb: /static/img/I_Exhibit_Thumbnail.jpg
-title: "COVID-19 Indoor Safety Guidelines"
+title: COVID-19 Indoor Safety Guidelines
 subtitle: The inner life of a virus
 medium: Interactive
 year: "2020"
@@ -79,4 +79,5 @@ eventlist:
     quadeventlink: https://www.eventbrite.com/e/145213889653
   - quadeventtxt: Digital Epidemiology | Masterclass by Dr. Vijay Chandru
     quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_2.jpg
+    quadeventlink: http://bit.ly/masterclass-chandru
 ---

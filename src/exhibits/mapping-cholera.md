@@ -63,7 +63,7 @@ watchinglist:
 eventlist:
   - quadeventtxt: Drawing the Bombay Plague | Workshop by Ranjit Kandalgaonkar
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_1.jpg
-    quadeventlink: https://www.eventbrite.com/e/drawing-from-the-bombay-plague-workshop-registration-148222681029
+    quadeventlink: https://nowtransmitting.com/programmes/workshops/drawing-from-the-bombay-plague/
   - quadeventtxt: Outbreak | Lecture by Sabrina Sholts
     quadeventvis: /static/img/K_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/148315625027

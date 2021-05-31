@@ -54,14 +54,16 @@ eventlist:
   - quadeventlink: http://bit.ly/workshop-aquije
     quadeventtxt: Visualising the Virus | Workshop by Gabriela Aquije Zegarra
     quadeventvis: /static/img/wk_gabriela.png
-  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
+  - quadeventtxt: "Science, Innovation & Society: What Have We Learnt From The
+      Covid-19 Pandemic? | Lecture by Sir Jeremy Farrar"
     quadeventlink: https://bit.ly/lecture-farrar
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 relatedlist:
-  - quadrelatedtxt: 21ನೇ ಶತಮಾನದಲ್ಲಿ ವ್ಯಾಪನಗಳು | ಎಸ್ತರ್‌ ಮಾರಿಯಾ ಆಂಟಿಯೋ
+  - quadrelatedtxt: Contagion in the 21st Century | Exhibit by Robert Koch Museum
     quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
     quadrelatedvis: /static/img/A_EXHIBIT_QUA_EXPVIS_2.jpg
-  - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
+  - quadrelatedtxt: COVID-19 Indoor Safety Guidelines | Exhibit by John W. Bush,
+      Martin Basant and Kasim Khan
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
     quadrelatedvis: /static/img/M_EXHIBIT_QUA_EXPVIS_2.jpg
 ---

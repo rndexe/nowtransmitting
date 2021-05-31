@@ -100,11 +100,11 @@ eventlist:
   - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
       Century India | Lecture by David Arnold"
     quadeventvis: /static/img/P_EXHIBIT_QUA_ATNVIS_1.jpg
-    quadeventlink: https://www.eventbrite.com/e/145397629223
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/science-and-seeing/
   - quadeventtxt: "Contagium Vivum Fluidum: Plant Viruses From Adversaries To Allies
       | Lecture by Dr. George Peter Lomonossoff"
     quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
-    quadeventlink: https://www.eventbrite.com/e/145398876955
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/contagium-vivum-fluidum/
 relatedlist:
   - quadrelatedtxt: Moulding Modern Medicine
     quadrelatedvis: /static/img/P_EXHIBIT_QUA_EXPVIS_1.jpg

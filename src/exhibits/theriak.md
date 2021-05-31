@@ -4,7 +4,7 @@ authortype: Team
 cata: trigger
 catb: mapping
 thumb: /static/img/E_Exhibit_Thumbnail.jpg
-title: "THERIAK | The Disease Map"
+title: THERIAK | The Disease Map
 subtitle: Mapping the ebb and flow of diseases
 medium: Time-lapse film of Vibrio cholerae interacting with synthetic peptides
   across a map of Basel by engraver Matthäus Merian (1593-1650). 5 min. 3 sec.
@@ -123,7 +123,7 @@ eventlist:
     quadeventvis: /static/img/e_exhibit_qua_atnvis_1.jpg
     quadeventlink: https://www.eventbrite.com/e/theriak-behind-the-scenes-in-a-lab-workshop-registration-145820165039
   - quadeventtxt: After the End of Epidemics | Lecture by Dora Vargha
-    quadeventlink: https://www.eventbrite.com/e/145227026947
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/antimicrobial-resistance/
     quadeventvis: /static/img/e_exhibit_qua_atnvis_2.jpg
 relatedlist:
   - quadrelatedlink: https://nowtransmitting.com/exhibits/mapping-cholera/
