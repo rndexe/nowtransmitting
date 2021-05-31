@@ -50,7 +50,7 @@ watchinglist:
     quadwatchvis: /static/img/H_PL_QUA_WATCHVIS_2.jpg
 eventlist:
   - quadeventtxt: Vaccines | Lecture by Gagandeep Kang
-    quadeventlink: http://bit.ly/lecture-kang
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/covid-19-vaccines-present-and-future/
     quadeventvis: /static/img/pl_gagandeep.png
   - quadeventtxt: Drawing (from) the Bombay Plague | Workshop by Ranjit Kandalgaonkar
     quadeventlink: http://bit.ly/workshop-kandalgaonkar
