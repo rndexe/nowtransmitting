@@ -14,6 +14,10 @@ var firebaseConfig = {
  };
   // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
+const appCheck = firebase.appCheck();
+// Pass your reCAPTCHA v3 site key (public key) to activate(). Make sure this
+// key is the counterpart to the secret key you set in the Firebase console.
+appCheck.activate('6LdQmfAaAAAAAJw467BRrKNG8W-4q-RAgokTXScP');
 if (liked){
         likeButton.classList.add("bg-red-650");
 } else {
