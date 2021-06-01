@@ -30,6 +30,7 @@ expertbio: "Avichal Mahajan supports the WHO Information Network for Epidemics
   doctoral studies, Avichal worked at the Africa Education Unit and the
   Development Research Group: Finance and Private Sector Development (DECFP) at
   the World Bank, Washington DC."
+expertpic: /static/img/wk_avichal_portrait.png
 readinglist:
   - quadreadvis: /static/img/o_wk_qua_readvis_1.jpg
     quadreadtxt: Deep Learning Applications for COVID-19
