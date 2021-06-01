@@ -33,4 +33,23 @@ expertbio: >-
 
 
   **About the moderator**: Sarah Iqbal trained as a researcher in Life Sciences and is currently a Communications and Public Engagement practitioner in India.
+readinglist:
+  - quadreadtxt: COVID-19 and Indian Exceptionalism
+    quadreadlink: https://science.thewire.in/health/covid-19-and-indian-exceptionalism/
+    quadreadvis: /static/img/f_ev_qua_readvis_1.jpg
+  - quadreadtxt: Shortage Of Doctors In Rural India Will Hamper Effective Response
+      To COVID-19 Pandemic
+    quadreadlink: https://scroll.in/article/970941/interview-shortage-of-doctors-in-rural-india-will-hamper-effective-response-to-covid-19-pandemic
+    quadreadvis: /static/img/f_ev_qua_readvis_2.jpg
+  - quadreadtxt: India's Massive COVID Surge Puzzles Scientists
+    quadreadlink: https://www.scientificamerican.com/article/indias-massive-covid-surge-puzzles-scientists/
+    quadreadvis: /static/img/f_ev_qua_readvis_3.jpg
+listeninglist:
+  - quadlisttxt: "Coronavirus: India"
+    quadlistlink: https://open.spotify.com/episode/5A6YXFGI20ELuMKFO547Tb
+    quadlistvis: /static/img/f_ev_qua_listvis_1.jpg
+watchinglist:
+  - quadwatchtxt: ‘We Took Our Eyes Off The Ball’
+    quadwatchlink: https://www.youtube.com/watch?v=S_unWphPqIw
+    quadwatchvis: /static/img/f_ev_qua_watchvis_1.jpg
 ---
