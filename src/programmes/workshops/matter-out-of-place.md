@@ -34,6 +34,10 @@ listeninglist:
 watchinglist:
   - quadwatchtxt: Our Treatment Of HIV Has Advanced. Why Hasn't The Stigma Changed?
     quadwatchlink: https://www.youtube.com/watch?v=O13KwsyDqeE
+eventlist:
+  - quadeventlink: https://youtu.be/gok5vSTC6Ms
+    quadeventtxt: A Human Question | Film Discussion
+    quadeventvis: /static/img/fs_jayashree_thumbnail.png
 relatedlist:
   - quadrelatedtxt: Fluid Dialogues | Exhibit by Basse Stittgen
     quadrelatedlink: https://nowtransmitting.com/exhibits/fluid-dialogues/
