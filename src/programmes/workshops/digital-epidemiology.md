@@ -12,7 +12,7 @@ description: Derived from a course developed for students at the Indian
   others can be employed to study disease trends and models in populations. The
   participants would become familiar with the concepts and methods of
   epidemiology in the context of today’s digital era.
-link: ""
+link: http://bit.ly/masterclass-chandru
 expertname: Vijay Chandru
 expertbio: Vijay Chandru is an academic and an entrepreneur. He has taught and
   conducted research in the computational mathematics of optimization, geometry,
