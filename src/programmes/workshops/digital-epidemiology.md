@@ -22,4 +22,23 @@ expertbio: Vijay Chandru is an academic and an entrepreneur. He has taught and
   led Enterprises (ABLE) and continues to serve in these in executive and
   advisory capacities.
 expertpic: /static/img/Vijay_WK_SEC_VIS_1.jpg
+readinglist:
+  - quadreadlink: https://www.scientificamerican.com/article/google-flu-trends-on-par-with-cdc-data/
+    quadreadtxt: '"Google Flu Trends" Found to Be Nearly on Par with CDC Surveillance Data'
+    quadreadvis: /static/img/N_WK_QUA_READVIS_1.jpg
+  - quadreadlink: https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-014-0690-1
+    quadreadtxt: "Using Internet Search Queries For Infectious Disease Surveillance:
+      Screening Diseases For Suitability"
+    quadreadvis: /static/img/N_WK_QUA_READVIS_2.jpg
+  - quadreadlink: https://theconversation.com/digital-epidemiology-tracking-diseases-in-the-mobile-age-37741
+    quadreadtxt: "Digital Epidemiology: Tracking Diseases In The Mobile Age"
+    quadreadvis: /static/img/N_WK_QUA_READVIS_3.jpg
+listeninglist:
+  - quadlistvis: /static/img/N_WK_QUA_LISTVIS_1.jpg
+    quadlisttxt: Is Social Media the Future of Epidemiology?
+    quadlistlink: https://www.wnycstudios.org/podcasts/takeaway/segments/social-media-future-epidemiology
+watchinglist:
+  - quadwatchvis: /static/img/N_WK_QUA_WATCHVIS_1.jpg
+    quadwatchtxt: Data Science in Healthcare
+    quadwatchlink: https://www.youtube.com/watch?v=eHQ4k5_AecE
 ---
