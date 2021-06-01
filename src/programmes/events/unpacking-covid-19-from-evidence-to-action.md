@@ -52,4 +52,11 @@ watchinglist:
   - quadwatchtxt: ‘We Took Our Eyes Off The Ball’
     quadwatchlink: https://www.youtube.com/watch?v=S_unWphPqIw
     quadwatchvis: /static/img/f_ev_qua_watchvis_1.jpg
+eventlist:
+  - quadeventtxt: Control, Consensus and Chaos | Lecture by Sheila Jasanoff
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/control-consensus-chaos/
+    quadeventvis: /static/img/pl_sheila.jpg
+  - quadeventtxt: Science, Innovation and Society | Lecture by Sir Jeremy Farrar
+    quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
+    quadeventlink: https://bit.ly/lecture-farrar
 ---
