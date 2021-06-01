@@ -24,16 +24,21 @@ expertpic: /static/img/m_exhibit_sec_vis_1.jpg
 readinglist:
   - quadreadlink: https://link.springer.com/article/10.1186/s12913-019-4606-z
     quadreadtxt: Stigma Among Healthcare Workers Towards Hepatitis B Infection in Bangalore
+    quadreadvis: /static/img/r_wk_qua_readvis_1.jpg
   - quadreadlink: https://link.springer.com/chapter/10.1007/978-981-15-0614-7_57
     quadreadtxt: "Painting Blood: Visualizing Menstrual Blood in Art"
+    quadreadvis: /static/img/r_wk_qua_readvis_2.jpg
   - quadreadtxt: AIDS Activist John James Sets His Sights on COVID-19
     quadreadlink: https://www.theatlantic.com/health/archive/2021/04/john-james-aids-treatments-covid-pandemic/618679/
+    quadreadvis: /static/img/r_wk_qua_readvis_3.jpg
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/6mdTkl41mXDHdmnd1BTzlZ
     quadlisttxt: "Dr. Julia Marcus: COVID-19 Stigma and the Importance of Humanizing People"
+    quadlistvis: /static/img/r_wk_qua_listvis_1.jpg
 watchinglist:
   - quadwatchtxt: Our Treatment Of HIV Has Advanced. Why Hasn't The Stigma Changed?
     quadwatchlink: https://www.youtube.com/watch?v=O13KwsyDqeE
+    quadwatchvis: /static/img/r_wk_qua_watchvis_1.jpg
 eventlist:
   - quadeventlink: https://youtu.be/gok5vSTC6Ms
     quadeventtxt: A Human Question | Film Discussion
