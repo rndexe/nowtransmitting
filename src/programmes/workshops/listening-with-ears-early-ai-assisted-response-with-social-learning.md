@@ -1,6 +1,6 @@
 ---
 title: Listening with EARS (Early AI-assisted Response with Social Learning)
-permalink: programmes/workshops/listening-with-ears
+permalink: programmes/workshops/listening-with-ears/
 cata: spillover
 catb: mapping
 thumb: /static/img/wk_avichal_thumbnail.png
