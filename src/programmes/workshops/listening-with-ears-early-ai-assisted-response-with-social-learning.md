@@ -1,9 +1,10 @@
 ---
 title: Listening with EARS (Early AI-assisted Response with Social Learning)
-permalink: programmes/workshops/listening-with-ears
+permalink: programmes/workshops/listening-with-ears/
 cata: spillover
 catb: mapping
 thumb: /static/img/wk_avichal_thumbnail.png
+cover: /static/img/wk_avichal_coverimage.png
 date: 2021-06-13T07:00:00.000Z
 description: >-
   Since the beginning of the COVID-19 pandemic, digital communications and
@@ -29,6 +30,7 @@ expertbio: "Avichal Mahajan supports the WHO Information Network for Epidemics
   doctoral studies, Avichal worked at the Africa Education Unit and the
   Development Research Group: Finance and Private Sector Development (DECFP) at
   the World Bank, Washington DC."
+expertpic: /static/img/wk_avichal_portrait.png
 readinglist:
   - quadreadvis: /static/img/o_wk_qua_readvis_1.jpg
     quadreadtxt: Deep Learning Applications for COVID-19
