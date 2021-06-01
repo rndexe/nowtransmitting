@@ -3,6 +3,8 @@ title: "Unpacking COVID-19: From Evidence to Action"
 permalink: programmes/events/unpacking-covid-19-from-evidence-to-action/
 cata: hindsight
 catb: narrating
+thumb: /static/img/ev_ajit_thumbnail.png
+cover: /static/img/ev_ajit_coverimage.png
 date: 2021-06-04T10:30:34.726Z
 description: >-
   The COVID-19 pandemic has shown that a public health emergency is not a
