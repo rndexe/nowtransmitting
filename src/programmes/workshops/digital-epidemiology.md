@@ -57,5 +57,10 @@ eventlist:
     quadeventlink: https://nowtransmitting.com/programmes/workshops/google-search-trends-as-a-surveillance-tool/
     quadeventvis: /static/img/wk_shreya.png
 relatedlist:
-  - {}
+  - quadrelatedtxt: Malware Museum | Exhibit by Mikko Hipponen
+    quadrelatedlink: https://nowtransmitting.com/exhibits/malware-museum/
+    quadrelatedvis: /static/img/J_Exhibit_Thumbnail.jpg
+  - quadrelatedtxt: Contagion in the 21st Century
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/O_Exhibit_Thumbnail.jpg
 ---
