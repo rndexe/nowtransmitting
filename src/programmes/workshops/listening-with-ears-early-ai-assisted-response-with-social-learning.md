@@ -4,6 +4,7 @@ permalink: programmes/workshops/listening-with-ears
 cata: spillover
 catb: mapping
 thumb: /static/img/wk_avichal_thumbnail.png
+cover: /static/img/wk_avichal_coverimage.png
 date: 2021-06-13T07:00:00.000Z
 description: >-
   Since the beginning of the COVID-19 pandemic, digital communications and
