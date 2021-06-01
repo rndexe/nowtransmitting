@@ -69,7 +69,7 @@ watchinglist:
     quadwatchvis: /static/img/J_PL_QUA_WATCHVIS_3.jpg
 eventlist:
   - quadeventtxt: Vaccines | Lecture by Gagandeep Kang
-    quadeventlink: http://bit.ly/lecture-kang
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/covid-19-vaccines-present-and-future/
     quadeventvis: /static/img/pl_gagandeep.png
   - quadeventtxt: "Covid-19 Vaccines: Telling the Story | Workshop by Hannah Chhoa Howard"
     quadeventlink: http://bit.ly/workshop-howard
