@@ -63,6 +63,9 @@ watchinglist:
   - quadwatchtxt: Plague 101
     quadwatchlink: https://www.youtube.com/watch?v=MYnMXEcHI7U&pbjreload=101
     quadwatchvis: /static/img/C_EXHIBIT_QUA_WATCH_VIS_1.jpg
+  - quadwatchtxt: The Contagion Cabaret
+    quadwatchlink: https://www.youtube.com/watch?v=wjddFe_Gaxk
+    quadwatchvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
 eventlist:
   - quadeventtxt: "Drawing (from) the Bombay Plague | Workshop by Ranjit Kandalgaonkar "
     quadeventlink: https://nowtransmitting.com/programmes/workshops/drawing-from-the-bombay-plague/
