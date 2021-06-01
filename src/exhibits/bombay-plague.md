@@ -1,8 +1,6 @@
 ---
 layout: bombay-plague
 authortype: Artist
-cata: spillover
-catb: narrating
 thumb: /static/img/C_Exhibit_Thumbnail.jpg
 title: Drawing the Bombay Plague
 subtitle: An alternate imagination of the Bombay Plague
@@ -65,17 +63,20 @@ watchinglist:
   - quadwatchtxt: Plague 101
     quadwatchlink: https://www.youtube.com/watch?v=MYnMXEcHI7U&pbjreload=101
     quadwatchvis: /static/img/C_EXHIBIT_QUA_WATCH_VIS_1.jpg
+  - quadwatchtxt: The Contagion Cabaret
+    quadwatchlink: https://www.youtube.com/watch?v=wjddFe_Gaxk
+    quadwatchvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
 eventlist:
-  - quadeventtxt: "Workshop by Ranjit Kandalgaonkar "
-    quadeventlink: https://www.eventbrite.com/e/drawing-from-the-bombay-plague-workshop-registration-148222681029
+  - quadeventtxt: "Drawing (from) the Bombay Plague | Workshop by Ranjit Kandalgaonkar "
+    quadeventlink: https://nowtransmitting.com/programmes/workshops/drawing-from-the-bombay-plague/
     quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
   - quadeventtxt: "Science and Seeing: The Visual Technology of Contagion in 19th
       Century India | Lecture by David Arnold"
-    quadeventlink: https://www.eventbrite.com/e/145397629223
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/science-and-seeing/
     quadeventvis: /static/img/C_EXHIBIT_QUA_ATNVIS_2.jpg
   - quadeventtxt: "Plague and the Emergence of Epidemic Photography | Lecture by
       Christos Lynteris "
-    quadeventlink: https://www.eventbrite.com/e/145228050007
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/epidemic-photography/
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
   - quadrelatedtxt: "Controlling the Plague in British India | Christos Lynteris "
