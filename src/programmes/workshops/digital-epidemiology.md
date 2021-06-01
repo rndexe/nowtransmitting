@@ -3,6 +3,8 @@ title: Digital Epidemiology
 permalink: programmes/workshops/digital-epidemiology/
 cata: trigger
 catb: documenting
+thumb: /static/img/wk_vijay_thumbnail.png
+cover: /static/img/wk_vijay_coverimage.png
 date: 2021-05-29T05:30:00.000Z
 description: Derived from a course developed for students at the Indian
   Institute of Science, this masterclass by Vijay Chandru explores how
@@ -41,4 +43,19 @@ watchinglist:
   - quadwatchvis: /static/img/N_WK_QUA_WATCHVIS_1.jpg
     quadwatchtxt: Data Science in Healthcare
     quadwatchlink: https://www.youtube.com/watch?v=eHQ4k5_AecE
+eventlist:
+  - quadeventtxt: Real-Time Contagion Science in the 21st Century | Lecture by
+      Madhav Marathe (upcoming)
+    quadeventlink: https://www.eventbrite.com/e/148316583895
+    quadeventvis: /static/img/pl_madhav.png
+  - quadeventtxt: Fighting the Pandemic with Swords and Magic | Workshop by Shreya
+      Chowdhury and Shreyas Joshi (upcoming)
+    quadeventlink: http://bit.ly/workshop-joshi-chowdhury
+    quadeventvis: /static/img/wk_shreya-shreyas.png
+  - quadeventtxt: Google Search Trends As A Tool for Surveillance | Workshop
+      by  Shreya Chakroborty
+    quadeventlink: https://nowtransmitting.com/programmes/workshops/google-search-trends-as-a-surveillance-tool/
+    quadeventvis: /static/img/wk_shreya.png
+relatedlist:
+  - {}
 ---
