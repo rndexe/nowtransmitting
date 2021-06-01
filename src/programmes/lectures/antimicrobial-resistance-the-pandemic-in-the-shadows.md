@@ -60,7 +60,7 @@ eventlist:
   - quadeventtxt: "Identifying Variants of SARS-CoV-2 in India: What Does It Mean
       for Prevention and Control of the Pandemic? | Lecture by Chitra
       Pattabiraman"
-    quadeventlink: http://bit.ly/lecture-pattabiraman
+    quadeventlink: https://nowtransmitting.com/programmes/lectures/identifying-variants-of-SARS-CoV-2-in-India/
     quadeventvis: /static/img/pl_chitra.png
 relatedlist:
   - quadrelatedtxt: Moulding Modern Medicine
