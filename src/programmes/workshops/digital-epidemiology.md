@@ -52,10 +52,13 @@ eventlist:
       Chowdhury and Shreyas Joshi (upcoming)
     quadeventlink: http://bit.ly/workshop-joshi-chowdhury
     quadeventvis: /static/img/wk_shreya-shreyas.png
-  - quadeventtxt: Google Search Trends As A Tool for Surveillance | Workshop
-      by  Shreya Chakroborty
+  - quadeventtxt: Google Search Trends As A Tool for Surveillance | Workshop by
+      Shreya Chakroborty
     quadeventlink: https://nowtransmitting.com/programmes/workshops/google-search-trends-as-a-surveillance-tool/
     quadeventvis: /static/img/wk_shreya.png
+  - quadeventlink: https://nowtransmitting.com/programmes/lectures/model-infectious-diseases/
+    quadeventtxt: Model Infectious Diseases | Lecture by Gautam Menon
+    quadeventvis: /static/img/I_EXHIBIT_QUA_ATNVIS_1.jpg
 relatedlist:
   - quadrelatedtxt: Malware Museum | Exhibit by Mikko Hipponen
     quadrelatedlink: https://nowtransmitting.com/exhibits/malware-museum/
