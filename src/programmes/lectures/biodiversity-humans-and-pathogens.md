@@ -5,7 +5,7 @@ cata: hindsight
 catb: documenting
 thumb: /static/img/pl_uma.png
 cover: /static/img/Q_PL_Coverimage.jpg
-date: 2021-05-31T09:01:52.947Z
+date: 2021-06-04T13:00:52.947Z
 description: Biodiversity is all around us, and so are pathogens. In fact 70% of
   the infectious diseases that affect humans spillover from animals. What do we
   understand about why spillover happens? In this lecture, Uma Ramakrishnan
