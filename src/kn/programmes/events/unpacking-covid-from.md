@@ -1,6 +1,11 @@
 ---
-title: "Unpacking COVID: From "
-date: 2021-06-01T14:51:58.000Z
+title: "(kn) Unpacking COVID: From Evidence to Action"
+permalink: kn/programmes/events/unpacking-covid-19-from-evidence-to-action/
+cata: hindsight
+catb: narrating
+thumb: /static/img/ev_ajit_thumbnail.png
+cover: /static/img/ev_ajit_coverimage.png
+date: 2021-06-04T10:30:58.000Z
 expertbio: >-
   **ಜನಸಾಮಾನ್ಯರನ್ನು ಕಾಡುವ ಫ್ಲೂ, ಕ್ಷಯರೋಗ ಮತ್ತು ಕೋವಿಡ್-19‌ ಮುಂತಾದ ಶ್ವಾಸಕೋಶಕ್ಕೆ
   ಸಂಬಂಧಿಸಿದ ಅತ್ಯಂತ ಗಂಭೀರ ಸೋಂಕು ರೋಗಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡಲು, ಹಲವು ವಿಭಾಗಗಳನ್ನು ಒಳಗೊಂಡ
