@@ -3,7 +3,7 @@ title: Behind the Scenes of CONTAGION
 permalink: programmes/events/behind-the-scenes/
 cata: hindsight
 catb: narrating
-date: 2021-05-29T11:20:51.029Z
+date: 2021-05-29T11:30:51.029Z
 description: >-
   Curious how an online exhibition-season with 16 interactive exhibits and
   public programmes led by more than 45 artists and scholars, was made during
