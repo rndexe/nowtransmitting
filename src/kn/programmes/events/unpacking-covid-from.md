@@ -49,4 +49,13 @@ watchinglist:
   - quadwatchtxt: "'ಈ ಮಹತ್ತರವಾದ ವಿಷಯದಿಂದ ನಮ್ಮ ಗಮನವನ್ನು ಸರಿಸಿದ್ದೆವು'"
     quadwatchlink: https://www.youtube.com/watch?v=S_unWphPqIw
     quadwatchvis: /static/img/f_ev_qua_watchvis_1.jpg
+eventlist:
+  - quadeventtxt: "ಹತೋಟಿ, ಹೊಂದಾಣಿಕೆ, ಗೊಂದಲ: ರೋಗ ಪಿಡುಗಿಗೆ ಜಾಗತಿಕ ಪ್ರತಿಕ್ರಿಯೆ |
+      ಉಪನ್ಯಾಸ | ಶೀಲಾ ಜೆಸ್ನ್ನಾಫ್‌"
+    quadeventlink: https://nowtransmitting.com/kn/programmes/lectures/control-consensus-chaos/
+    quadeventvis: /static/img/pl_sheila.jpg
+  - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ:ಕೋವಿಡ್‌ – 19 ರೋಗ ಪಿಡುಗಿನಿಂದ ನಾವು
+      ಕಲಿತಿದ್ದೇನು? | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
+    quadeventlink: https://bit.ly/lecture-farrar
+    quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
 ---
