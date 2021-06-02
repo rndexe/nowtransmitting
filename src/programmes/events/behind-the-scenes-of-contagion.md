@@ -20,7 +20,7 @@ description: >-
 
 
   Whether you are in the museums or cultural sector, or just interested in how all this happened, join us for an interactive session with the Science Gallery Bengaluru team. We will share our insights and learnings from this exhibition and (if asked nicely) our plans for the next.
-link: https://zoom.us/webinar/register/WN_T7nc7KkuQ_SJ1Kqw8axTzw
+link: https://youtu.be/ukO7ocu_i38
 expertname: Participants
 expertbio: |-
   Gayatri Manu, programmes associate
