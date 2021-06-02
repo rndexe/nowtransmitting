@@ -3,7 +3,7 @@ title: Behind the Scenes of CONTAGION
 permalink: programmes/events/behind-the-scenes/
 cata: hindsight
 catb: narrating
-date: 2021-05-29T11:20:51.029Z
+date: 2021-05-29T11:30:51.029Z
 description: >-
   Curious how an online exhibition-season with 16 interactive exhibits and
   public programmes led by more than 45 artists and scholars, was made during
@@ -20,7 +20,7 @@ description: >-
 
 
   Whether you are in the museums or cultural sector, or just interested in how all this happened, join us for an interactive session with the Science Gallery Bengaluru team. We will share our insights and learnings from this exhibition and (if asked nicely) our plans for the next.
-link: https://zoom.us/webinar/register/WN_T7nc7KkuQ_SJ1Kqw8axTzw
+link: https://youtu.be/ukO7ocu_i38
 expertname: Participants
 expertbio: |-
   Gayatri Manu, programmes associate
