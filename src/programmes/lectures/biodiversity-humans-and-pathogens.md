@@ -16,12 +16,11 @@ description: Biodiversity is all around us, and so are pathogens. In fact 70% of
   may play in this process. Finally, she will discuss how a One Health approach
   is crucial to reducing the outbreak of zoonotic diseases.
 link: http://bit.ly/lecture-ramakrishnan
-expertname: ಉಮಾ ರಾಮಕೃಷ್ಣನ್
-expertbio: ಉಮಾ ರಾಮಕೃಷ್ಣನ್, ಕಳೆದ ಹದಿನೈದು ವರ್ಷಗಳಿಂದ ಜೀವ ವೈವಿಧ್ಯತೆ ಹಾಗೂ ಮಾನವರ ಮೇಲೆ
-  ವೈವಿಧ್ಯತೆಯ ಪರಿಣಾಮಗಳನ್ನು ಕುರಿತಂತೆ ಅಧ್ಯಯನ ನೆಡೆಸಿದ್ದಾರೆ.  ಇವರು ತಮ್ಮ ತಂಡದ
-  ಸದಸ್ಯರೊಂದಿಗೆ ಭಾರತದ ವಿವಿಧ ಭೂ-ಭಾಗಗಳಲ್ಲಿ ಮತ್ತು ಜೀವ ತಾಣಗಳಲ್ಲಿ, ಜೀವ-ಭೂಗೋಳಶಾಸ್ತ್ರ,
-  ಅನುವಂಶಿಕತೆ ಮತ್ತು ಹೊಸದಾಗಿ ಹೊರಹೊಮ್ಮುತ್ತಿರುವ ಸಾಂಕ್ರಾಮಿಕ ರೋಗಗಳ ಬಗ್ಗೆ ಸಂಶೋಧನೆಯಲ್ಲಿ
-  ತೊಡಗಿದ್ದಾರೆ.
+expertname: Uma Ramakrishnan
+expertbio: Uma Ramakrishnan has spent the last fifteen years studying
+  biodiversity, and how humans are affecting it. She and her team work across
+  habitats and landscapes in India to investigate biogeography, conservation
+  genetics and emerging infectious disease.
 expertpic: /static/img/pl_uma_portrait.png
 readinglist:
   - quadreadtxt: Envisioning A Biodiversity Science For Sustaining Human Well-being
