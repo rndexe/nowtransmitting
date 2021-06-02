@@ -6,20 +6,30 @@ catb: narrating
 thumb: /static/img/ev_ajit_thumbnail.png
 cover: /static/img/ev_ajit_coverimage.png
 date: 2021-06-04T10:30:58.000Z
+description: >-
+  The COVID-19 pandemic has shown that a public health emergency is not a
+  medical problem alone—it affects all spheres of society, and requires
+  scientific cooperation and communication. Collaboration across disciplines and
+  sectors is vital for a comprehensive and inclusive response to the pandemic
+  crisis. How can we use cutting-edge research and people-centred public health
+  strategies to help mitigate the devastating consequences of COVID-19?
+
+
+  Join the discussion with a virologist, an infectious disease expert, an epidemiologist, a physician and a professor of community medicine— to explore how cross-disciplinary research combined with sensitive on-the-ground response are crucial to addressing the current public health and socio-economic crises.
+link: http://bit.ly/contagion-panel-discussion
 expertbio: >-
-  **ಜನಸಾಮಾನ್ಯರನ್ನು ಕಾಡುವ ಫ್ಲೂ, ಕ್ಷಯರೋಗ ಮತ್ತು ಕೋವಿಡ್-19‌ ಮುಂತಾದ ಶ್ವಾಸಕೋಶಕ್ಕೆ
+  ಜನಸಾಮಾನ್ಯರನ್ನು ಕಾಡುವ ಫ್ಲೂ, ಕ್ಷಯರೋಗ ಮತ್ತು ಕೋವಿಡ್-19‌ ಮುಂತಾದ ಶ್ವಾಸಕೋಶಕ್ಕೆ
   ಸಂಬಂಧಿಸಿದ ಅತ್ಯಂತ ಗಂಭೀರ ಸೋಂಕು ರೋಗಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನೀಡಲು, ಹಲವು ವಿಭಾಗಗಳನ್ನು ಒಳಗೊಂಡ
-  ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಸಂಶೋಧನೆ ಕಾರ್ಯಕ್ರಮವನ್ನು ಅಜಿತ್‌ ಲಾಲ್ವಾನಿ
-  ಮುನ್ನೆಡೆಸುತ್ತಿದ್ದಾರೆ.**
+  ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಸಂಶೋಧನೆ ಕಾರ್ಯಕ್ರಮವನ್ನು ಅಜಿತ್‌ ಲಾಲ್ವಾನಿ ಮುನ್ನೆಡೆಸುತ್ತಿದ್ದಾರೆ.
 
 
-  **ಸರಾಹ್‌ ಇಕಬಾಲ್‌, ಜೀವನ ವಿಜ್ಞಾನದ ವಿಷಯದಲ್ಲಿ ಸಂಶೋಧಕರಾಗಿ ಪರಿಣತಿ ಪಡೆದಿದ್ದಾರೆ.**
+  ಸರಾಹ್‌ ಇಕಬಾಲ್‌, ಜೀವನ ವಿಜ್ಞಾನದ ವಿಷಯದಲ್ಲಿ ಸಂಶೋಧಕರಾಗಿ ಪರಿಣತಿ ಪಡೆದಿದ್ದಾರೆ.
 
 
-  **ಡಾ.ಆಕ್ಸಾ ಶ್ಯೇಖ್, ಸಮುದಾಯ ಚಿಕಿತ್ಸೆಯ ವಿಷಯದಲ್ಲಿ ಎಂ.ಬಿ.ಬಿ.ಎಸ್.‌ ಎಂ.ಡಿ ಪದವಿ ಹೊಂದಿದ್ದಾರೆ**
+  ಡಾ.ಆಕ್ಸಾ ಶ್ಯೇಖ್, ಸಮುದಾಯ ಚಿಕಿತ್ಸೆಯ ವಿಷಯದಲ್ಲಿ ಎಂ.ಬಿ.ಬಿ.ಎಸ್.‌ ಎಂ.ಡಿ ಪದವಿ ಹೊಂದಿದ್ದಾರೆ
 
 
-  **ಗಿರಿಧರ ಆರ್‌ ಬಾಬು, ʼಪಬ್ಲಿಕ್‌ ಹೆಲ್ಥ್‌ ಫೌಂಡೇಷನ್‌ ಆಫ್‌ ಇಂಡಿಯಾʼ ಸಂಸ್ಥೆಯಲ್ಲಿ, ಜೀವನ ಕ್ರಮವನ್ನು ಒಳಗೊಂಡ ರೋಗ ಲಕ್ಷಣ ಶಾಸ್ತ್ರದ ವಿಭಾಗದ ಮುಖ್ಯಸ್ಥರಾಗಿ ಹಾಗೂ ಪ್ರೊಫೆಸರ್‌ ಆಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ.**
+  ಗಿರಿಧರ ಆರ್‌ ಬಾಬು, ʼಪಬ್ಲಿಕ್‌ ಹೆಲ್ಥ್‌ ಫೌಂಡೇಷನ್‌ ಆಫ್‌ ಇಂಡಿಯಾʼ ಸಂಸ್ಥೆಯಲ್ಲಿ, ಜೀವನ ಕ್ರಮವನ್ನು ಒಳಗೊಂಡ ರೋಗ ಲಕ್ಷಣ ಶಾಸ್ತ್ರದ ವಿಭಾಗದ ಮುಖ್ಯಸ್ಥರಾಗಿ ಹಾಗೂ ಪ್ರೊಫೆಸರ್‌ ಆಗಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾರೆ.
 readinglist:
   - quadreadtxt: ಕೋವಿಡ್‌ – 19 ಮತ್ತು ಭಾರತದಲ್ಲಿ ಅಸಾಧಾರಣ ಪ್ರತಿಕ್ರಿಯೆ
     quadreadlink: https://science.thewire.in/health/covid-19-and-indian-exceptionalism/
