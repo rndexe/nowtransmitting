@@ -16,7 +16,8 @@ description: New social movements, technologies and public-health initiatives
   propagate. Many accepted ideas about viral spreading have in fact been
   responsible for causing past diffusion efforts to fail. Centola presents new
   findings to enable social change efforts to succeed much more effectively.
-link: http://bit.ly/lecture-d-centola
+link: ""
+reclink: https://youtu.be/Uf80l6znLVs
 expertname: Damon Centola
 expertbio: Damon Centola is a Professor in the Annenberg School for
   Communication, the School of Engineering and Applied Sciences, and the School
