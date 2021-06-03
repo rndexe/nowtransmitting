@@ -4,7 +4,7 @@ permalink: programmes/lectures/the-network-dynamics-of-social-change/
 cata: transmission
 catb: experimenting
 thumb: /static/img/PL_damon_thumbnail.jpg
-cover: /static/img/PL_damon_coverimage.jpg
+cover: /static/img/sn_damon.png
 date: 2021-05-26T13:00:00.000Z
 description: New social movements, technologies and public-health initiatives
   often struggle to succeed, yet many diseases disperse rapidly. Can viral
