@@ -238,7 +238,7 @@ loadJSON(function(json) {
                 var newjs = json.filter((event)=>{
                     //TODO 1
                     //change date here to change each weeks programmes
-                    return (new Date(event.date) >= new Date('2021','4','31')) && (new Date(event.date) <= new Date('2021','5','6'))
+                    return (new Date(event.date) >= new Date('2021','5','7')) && (new Date(event.date) <= new Date('2021','5','13'))
                 });
                // console.log(newjs)
 
@@ -488,13 +488,18 @@ var year = d.getFullYear()
 
 //TODO 2 
 // add more nodes here to change the number of programmes for wach week
-nodes.add({ id: 24,  shape:"circle", group: 1,x:1800,y:650, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-nodes.add({ id: 25,  shape:"circle", group: 1,x:800,y:1600,  borderWidth: 0,  font: { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1800, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 25,  shape:"circle", group: 1,x:-100,y:700,  borderWidth: 0,  font: { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
 nodes.add({ id: 26,  shape:"circle", group: 1,x:700,y:1550,  borderWidth: 0,  font:    { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
 nodes.add({ id: 27,  shape:"circle", group: 1,x:1800,y:700, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-nodes.add({ id: 28,  shape:"circle", group: 1,x:1850,y:750,  borderWidth: 0,  font: { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 28,  shape:"circle", group: 1,x:800,y:0,  borderWidth: 0,  font: { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
 nodes.add({ id: 29,  shape:"circle", group: 1,x:1900,y:600, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
-nodes.add({ id: 30,  shape:"circle", group: 1,x:800,y:1800, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 30,  shape:"circle", group: 1,x:-200,y:750, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 31,  shape:"circle", group: 1,x:600,y:0, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 32,  shape:"circle", group: 1,x:800,y:1800, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+nodes.add({ id: 33,  shape:"circle", group: 1,x:800,y:1800, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
+
+
 
 var bgnodes = new vis.DataSet([
     { id: 1, shape:"image", image: DIR + "kn-trigger.svg", size:200, x:800,y:0,group: 0, font: { size: 100, face:'font-trade', color:"rgba(256,256,256,0.3)", multi:true, strokeWidth:0, strokeColor:"rgba(256,256,256,0.2)", }, color:{opacity:0.2, }, /*label:"<b>TRIGGER</b>"*/},
@@ -643,20 +648,19 @@ network.on("hoverNode",function (params){
     if(id>23){
         //TODO 3 
         //change programme node ids here to change subtheme
-        //if(id == 28){
-        //    showStuff(1)
-        //}
-        if(id == 24 || id == 25){
+        if(id == 30){
+            showStuff(1)
+        }
+        if(id == 25 || id == 26 || id == 33){
             showStuff(2)
         }
-        else if(id == 27 || id == 29){
+        else if(id == 27 || id == 29 || id == 31 || id == 32){
             showStuff(3)
         }
-        else if(id == 26 || id == 28 || id == 30){
+        else if(id == 24 || id == 28){
             showStuff(4)
         }
-        
-        
+
     }
 });
 
@@ -676,8 +680,8 @@ if(window.outerWidth < window.outerHeight){
 
 function updater(){
     project.clear()
-    var nodeID = [8,10,14,17,19,25,27,29,30];
-
+    var nodeID = [8,10,14,17,19,24,25,27,29,31,33];
+    
     ballPositions = [];
     for(const item in nodeID){
         const node = network.getPositions([nodeID[item]])[nodeID[item]]
