@@ -1,8 +1,6 @@
 ---
 layout: when-world-laugh
 authortype: ತಂಡ
-cata: transmission
-catb: documenting
 thumb: /static/img/D_Exhibit_Thumbnail.jpg
 title: ಜಗತ್ತು ನಕ್ಕು- ನಲಿಯುವ ತಾಣವಾಗಿದ್ದಾಗ
 subtitle: ಜಾಗತಿಕ ಅನುಭವದ ಪ್ರಣಾಲಿಕೆಯನ್ನು ಪತ್ತೆ ಮಾಡುವ ಹಾದಿ
@@ -85,6 +83,19 @@ readinglist:
     quadreadtxt: "ಸಂಧರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಹಾಸ್ಯ ಸೃಷ್ಠಿ: ಎಲ್ಲರೊಡಗೂಡಿ ನಗುವುದು, ಸಂಬಂಧಗಳ
       ಗಾಢತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
     quadreadvis: /static/img/D_EXHIBIT_READ_VIS_3.jpg
+  - quadreadlink: https://www.smithsonianmag.com/smart-news/study-finds-65-animals-laugh-180977755/
+    quadreadtxt: ನಾಯಿಗಳು, ಹಕ್ಕಿಗಳು ಮತ್ತು ಡಾಲ್ಫಿನ್‌ ಗಳು ಸಹ ಈ ಶಕ್ತಿ ಹೊಂದಿವೆ. ವಿಜ್ಞಾನಾದ
+      ಪ್ರಕಾರ, 65 ಪ್ರಾಣಿ ಪ್ರಕಾರಗಳು ನಗುತ್ತವೆ.
+    quadreadvis: /static/img/65-animals-that-laugh.png
+relatedlist:
+  - quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedtxt: ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ | ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/chameleon-project/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/2020-vision/
+    quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
+    quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
+cata: transmission
+catb: documenting
 listeninglist:
   - quadlistlink: https://www.wnycstudios.org/podcasts/radiolab/segments/91593-how-does-laughing-affect-us
     quadlisttxt: "ನಗುವಿನಿಂದಾಗಿ ನಮ್ಮ ಮೇಲೆ ಆಗುವ ಪರಿಣಾಮಗಳು "
@@ -114,11 +125,4 @@ eventlist:
   - quadeventtxt: ನಗುವಿನ ರೂಪ | ಕಾರ್ಯಾಗಾರ | ಆನೈಸ್‌ ಥೋನ್ಧಯೋರ್
     quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/the-shape-of-a-laugh-workshop-registration-148223852533
-relatedlist:
-  - quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedtxt: ದಿ ಕೆಮೇಲಿಯನ್‌ ಪ್ರಾಜೆಕ್ಟ್‌ | ಟಿನಾ ಗೊಂಸಾಲ್ವೆಸ್‌
-    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/chameleon-project/
-  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/2020-vision/
-    quadrelatedtxt: 2020 ದೂರ ದೃಷ್ಟಿ | ರಾಬರ್ಟ್‌ ಗೂಡ್‌
-    quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
