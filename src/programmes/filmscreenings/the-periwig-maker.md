@@ -31,6 +31,9 @@ readinglist:
   - quadreadlink: https://themaskarrayed.net/2020/06/19/making-the-senses/
     quadreadtxt: "Masking The Senses: Our Sensorial World Through The Layers Of The Mask"
     quadreadvis: /static/img/A_FS_QUA_READVIS_3.jpg
+  - quadreadlink: https://www.newyorker.com/books/page-turner/how-do-plague-stories-end
+    quadreadtxt: How Do Plague Stories End?
+    quadreadvis: /static/img/how-do-plague-stories-end.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5wlAoqA3nc7Twkuj9tGpoS
     quadlisttxt: "Surviving the Great Plague  "
