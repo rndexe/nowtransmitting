@@ -5,7 +5,6 @@ desc: The spread of COVID-19 around the world has been accompanied by a deluge
   for public health, fake news, misinformation, and rumours seem to be spreading
   faster than facts. Researchers like Tim Nguyen of the WHO Health Emergencies
   Programme have been working around the clock to counter this infodemic.
-permalink: covids/managing-infodemics/
 speakername: Tim Nguyen
 speakerimage: /static/img/L_CO_SEC_VIS.jpg
 thumbnailimage: /static/img/L_CO_THUMBNAIL.png
@@ -29,6 +28,11 @@ readinglist:
   - quadreadlink: https://www.theguardian.com/commentisfree/2020/mar/03/coronavirus-conspiracy-theories-virus-social-media
     quadreadtxt: Why Conspiracy Theories Spread Faster than the Virus
     quadreadvis: /static/img/L_CO_QUA_READVIS_2.jpg
+  - quadreadlink: https://www.npr.org/2021/05/13/996570855/disinformation-dozen-test-facebooks-twitters-ability-to-curb-vaccine-hoaxes
+    quadreadtxt: Just 12 People Are Behind Most Vaccine Hoaxes On Social Media,
+      Research Shows
+    quadreadvis: /static/img/12-people-behind-vaccine-hoax.png
+permalink: covids/managing-infodemics/
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/2YooSretkFTX53wdUaqepa
     quadlisttxt: A Misinformation Pandemic
