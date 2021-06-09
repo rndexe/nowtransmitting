@@ -1,21 +1,22 @@
 ---
-title: "(kn) Unpacking COVID: From Evidence to Action"
+title: "ಕೋವಿಡ್-19‌ ರೋಗ ತಿಳುವಳಿಕೆ: ಸಾಕ್ಷಿಗಳ ಸಹಾಯದಿಂದ ಕಾರ್ಯಯೋಜನೆ"
 permalink: kn/programmes/events/unpacking-covid-19-from-evidence-to-action/
 cata: hindsight
 catb: narrating
 thumb: /static/img/ev_ajit_thumbnail.png
 cover: /static/img/ev_ajit_coverimage.png
 date: 2021-06-04T10:30:58.000Z
-description: >-
-  The COVID-19 pandemic has shown that a public health emergency is not a
-  medical problem alone—it affects all spheres of society, and requires
-  scientific cooperation and communication. Collaboration across disciplines and
-  sectors is vital for a comprehensive and inclusive response to the pandemic
-  crisis. How can we use cutting-edge research and people-centred public health
-  strategies to help mitigate the devastating consequences of COVID-19?
-
-
-  Join the discussion with a virologist, an infectious disease expert, an epidemiologist, a physician and a professor of community medicine— to explore how cross-disciplinary research combined with sensitive on-the-ground response are crucial to addressing the current public health and socio-economic crises.
+description: ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ವಿಪ್ಪತ್ತು, ಕೇವಲ ವೈದ್ಯಕೀಯ ಸಮಸ್ಯೆಯಲ್ಲ, ಸಮಾಜದ ಎಲ್ಲ
+  ಕ್ಷೇತ್ರಗಳಿಗೂ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ ಎಂದು ಕೋವಿಡ್-19‌ ರೋಗ ಪಿಡುಗಿನಿಂದ ತಿಳಿದು ಬಂದಿದೆ.
+  ಇಂತಹ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ, ವೈಜ್ಞಾನಿಕ ಸಂಪರ್ಕ ಮತ್ತು ಸಹಕಾರದ ಅವಶ್ಯಕತೆ ಇರುತ್ತದೆ. ರೋಗ
+  ಪಿಡುಗಿನ ಬಿಕ್ಕಟ್ಟನ್ನು ಎದುರಿಸಲು, ಹಲವು ಪ್ರಮುಖ ಕ್ಷೇತ್ರಗಳ ಭಿನ್ನ-ಭಿನ್ನ ವಿಭಾಗಗಳು,
+  ಒಟ್ಟಾಗಿ ಸೇರಿ, ಸಹಕರಿಸಿ, ಪರಿಹಾರವನ್ನು ರೂಪಿಸ ಬೇಕಾಗುತ್ತದೆ. ಜನ- ಸಮೂಹ ಕೇಂದ್ರಿತ
+  ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ತಂತ್ರಗಳು ಮತ್ತು ಅತ್ಯಾಧುನಿಕ ಸಂಶೋಧನೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು, ಕೋವಿಡ್-19‌
+  ರೋಗ ಪಿಡುಗಿನ ವಿನಾಶಕಾರಿ ಪರಿಣಾಮಗಳನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ? ವೈರಾಣು ತಜ್ಞರು,
+  ಸಾಂಕ್ರಾಮಿಕ ರೋಗ ಪರಿಣತರು, ರೋಗಪಿಡುಗು ವಿಜ್ಞಾನಿಗಳು, ವೈದ್ಯರು ಮತ್ತು ಸಮುದಾಯ ಚಿಕಿತ್ಸೆಯ
+  ವಿಷಯದಲ್ಲಿ ಪ್ರೊಫೆಸರ್‌ ಮುಂತಾದವರೊಂದಿಗೆ ಸಂವಾದದಲ್ಲಿ ಭಾಗಿಯಾಗಿ – ಪ್ರಸಕ್ತ ಸಾರ್ವಜನಿಕ
+  ಆರೋಗ್ಯ ಹಾಗೂ ಸಾಮಾಜಿಕ-ಅರ್ಥ ವ್ಯವಸ್ಥೆಯ ಬಿಕ್ಕಟ್ಟನ್ನು ಎದುರಿಸಲು ವಿಭಿನ್ನ ಶೈಕ್ಷಣಿಕ
+  ಸಂಶೋಧನೆಯೊಡನೆ ಕೂಡಿದ ವಾಸ್ತವಿಕ ಪರಿಹಾರವನ್ನು ಹುಡುಕುವ ಪ್ರಯತ್ನ ಮಾಡೋಣ.
 link: http://bit.ly/contagion-panel-discussion
 expertbio: >-
   ಜನಸಾಮಾನ್ಯರನ್ನು ಕಾಡುವ ಫ್ಲೂ, ಕ್ಷಯರೋಗ ಮತ್ತು ಕೋವಿಡ್-19‌ ಮುಂತಾದ ಶ್ವಾಸಕೋಶಕ್ಕೆ
