@@ -50,6 +50,9 @@ listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5l3bDEqrhJhJj3sSUppndY?si=ldL-e0_mRS6xg4gfm92IlQ
     quadlisttxt: "COVID-19: Can We Compare Different Countries?"
     quadlistvis: /static/img/K_PL_QUA_LISTVIS_2.jpg
+  - quadlistlink: https://www.npr.org/programs/ted-radio-hour/947666071/making-sense-of-2020
+    quadlisttxt: Making Sense Of 2020
+    quadlistvis: /static/img/making-sense-of-2020.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=0idthcqapD8
     quadwatchtxt: " Can Science Make Sense of Life?"
