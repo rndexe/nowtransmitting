@@ -42,6 +42,9 @@ readinglist:
   - quadreadtxt: " ಭಾರತದಲ್ಲಿ ಭಾರೀ ಪ್ರಮಾಣದ ಕೋವಿಡ್‌ ಹರಡುವಿಕೆಯು ವಿಜ್ಞಾನಿಗಳಿಗೆ ಒಗಟಾಗಿದೆ"
     quadreadlink: https://www.scientificamerican.com/article/indias-massive-covid-surge-puzzles-scientists/
     quadreadvis: /static/img/f_ev_qua_readvis_3.jpg
+  - quadreadtxt: ಲಸಿಕೆ ಕಿರಿಕಿರಿಗಳು
+    quadreadlink: https://openthemagazine.com/essay/vaccine-vexations/
+    quadreadvis: /static/img/vaccine-vexations.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5A6YXFGI20ELuMKFO547Tb
     quadlisttxt: "ಕರೋನಾ ವೈರಾಣು: ಭಾರತ"
