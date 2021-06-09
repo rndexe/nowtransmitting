@@ -1,8 +1,6 @@
 ---
 layout: bombay-plague
 authortype: Artist
-cata: spillover
-catb: narrating
 thumb: /static/img/C_Exhibit_Thumbnail.jpg
 title: Drawing the Bombay Plague
 subtitle: An alternate imagination of the Bombay Plague
@@ -28,6 +26,27 @@ privis: https://player.vimeo.com/video/545825411
 pritxt: https://bombayplague.nowtransmitting.com/
 authorimage: /static/img/C_EXHIBIT_SEC_VIS_1.jpg
 authorname: Ranjit Kandalgaonkar
+tertxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar. Courtesy of the
+  Wellcome Collection. "
+readinglist:
+  - quadreadlink: https://www.atlasobscura.com/articles/how-bombay-plague-changed-mumbai
+    quadreadtxt: "How the Bombay Plague Changed Mumbai Forever "
+    quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_1.jpg
+  - quadreadtxt: "Waldemar Haffkine: The Vaccine Pioneer the World Forgot "
+    quadreadlink: https://www.bbc.com/news/world-asia-india-55050012
+    quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_2.jpg
+  - quadreadtxt: How Humans Have Reacted To Pandemics Through History – A Visual Guide
+    quadreadlink: https://www.theguardian.com/society/ng-interactive/2020/apr/29/how-humans-have-reacted-to-pandemics-through-history-a-visual-guide
+    quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_3.jpg
+relatedlist:
+  - quadrelatedtxt: "Controlling the Plague in British India | Christos Lynteris "
+    quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
+  - quadrelatedtxt: Contagion in the 21st Century | RKI
+    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
+    quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_2.jpg
+cata: spillover
+catb: narrating
 authorbio: >-
   Ranjit Kandalgaonkar lives and works in Mumbai,and his art practice primarily
   comprises a lens directed at the urban context of cities. Projects such as
@@ -42,18 +61,6 @@ authorbio: >-
 
   Ranjit’s awards and grants include the Majlis Visual Arts Fellowship, the U.D.R.I Architectural Fellowship, the Leverhulme Artist Residency, the SAI Harvard University Artist Residency, the Wellcome Trust Seed Funding Award and the Gasworks Artist Residency.
 tervis: https://www.youtube.com/embed/OS7CUd_jiCI
-tertxt: "Drawing the Bombay Plague by Ranjit Kandalgaonkar. Courtesy of the
-  Wellcome Collection. "
-readinglist:
-  - quadreadlink: https://www.atlasobscura.com/articles/how-bombay-plague-changed-mumbai
-    quadreadtxt: "How the Bombay Plague Changed Mumbai Forever "
-    quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_1.jpg
-  - quadreadtxt: "Waldemar Haffkine: The Vaccine Pioneer the World Forgot "
-    quadreadlink: https://www.bbc.com/news/world-asia-india-55050012
-    quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_2.jpg
-  - quadreadtxt: How Humans Have Reacted To Pandemics Through History – A Visual Guide
-    quadreadlink: https://www.theguardian.com/society/ng-interactive/2020/apr/29/how-humans-have-reacted-to-pandemics-through-history-a-visual-guide
-    quadreadvis: /static/img/C_EXHIBIT_QUA_READVIS_3.jpg
 listeninglist:
   - quadlisttxt: "When Plague Hit Bombay "
     quadlistlink: https://open.spotify.com/episode/5HjxQ9PO2RzMvUaIKrcq9A
@@ -67,7 +74,7 @@ watchinglist:
     quadwatchvis: /static/img/C_EXHIBIT_QUA_WATCH_VIS_1.jpg
   - quadwatchtxt: The Contagion Cabaret
     quadwatchlink: https://www.youtube.com/watch?v=wjddFe_Gaxk
-    quadwatchvis: /static/img/C_EXHIBIT_QUA_ATNVIS_1.jpg
+    quadwatchvis: /static/img/c_exhibit_qua_watchvis_4.jpg
 eventlist:
   - quadeventtxt: "Drawing (from) the Bombay Plague | Workshop by Ranjit Kandalgaonkar "
     quadeventlink: https://nowtransmitting.com/programmes/workshops/drawing-from-the-bombay-plague/
@@ -80,11 +87,4 @@ eventlist:
       Christos Lynteris "
     quadeventlink: https://nowtransmitting.com/programmes/lectures/epidemic-photography/
     quadeventvis: /static/img/A_EXHIBIT_QUA_ATNVIS_1.jpg
-relatedlist:
-  - quadrelatedtxt: "Controlling the Plague in British India | Christos Lynteris "
-    quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/plague-british-india/
-  - quadrelatedtxt: Contagion in the 21st Century | RKI
-    quadrelatedlink: https://nowtransmitting.com/exhibits/contagion-21st-century/
-    quadrelatedvis: /static/img/C_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
