@@ -1,8 +1,6 @@
 ---
 layout: when-world-laugh
 authortype: Team
-cata: transmission
-catb: documenting
 thumb: /static/img/D_Exhibit_Thumbnail.jpg
 title: When the World Was A Laugh
 subtitle: Decoding the mechanics of a universal experience
@@ -93,6 +91,19 @@ readinglist:
     quadreadtxt: "Putting Laughter in Context: Shared Laughter as Behavioral
       Indicator of Relationship Well-Being"
     quadreadvis: /static/img/D_EXHIBIT_READ_VIS_3.jpg
+  - quadreadlink: https://www.smithsonianmag.com/smart-news/study-finds-65-animals-laugh-180977755/
+    quadreadtxt: Dogs Do It, Birds Do It, and Dolphins Do It, Too. Here Are 65
+      Animals That Laugh
+    quadreadvis: /static/img/65-animals-that-laugh.png
+relatedlist:
+  - quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedtxt: The Chameleon Project by Tina Gonsalves
+    quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
+    quadrelatedtxt: 2020 Vision by Robert Good
+    quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
+cata: transmission
+catb: documenting
 listeninglist:
   - quadlistlink: https://www.wnycstudios.org/podcasts/radiolab/segments/91593-how-does-laughing-affect-us
     quadlisttxt: How does Laughing Affect Us?
@@ -122,11 +133,4 @@ eventlist:
   - quadeventtxt: "The Shape of A Laugh | Workshop by Anais Tondeur "
     quadeventvis: /static/img/D_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://nowtransmitting.com/programmes/workshops/the-shape-of-a-laugh/
-relatedlist:
-  - quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedtxt: The Chameleon Project by Tina Gonsalves
-    quadrelatedlink: https://nowtransmitting.com/exhibits/chameleon-project/
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/2020-vision/
-    quadrelatedtxt: 2020 Vision by Robert Good
-    quadrelatedvis: /static/img/D_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
