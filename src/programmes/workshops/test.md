@@ -13,7 +13,7 @@ description: "What can Google Search Trends tell us about the spread of
   data. You too can help track, trace and predict outbreaks -- all you need are
   the right tools. "
 condition: "This workshop is exclusively for 15 to 28 year olds. "
-link: http://bit.ly/workshop-chakraborty
+link: ""
 expertname: "Shreya Chakraborty "
 expertbio: Shreya Chakraborty is a PhD student at the Indian Institute of
   Science, Bangalore. She’s a joint student in both the Institute Mathematics
