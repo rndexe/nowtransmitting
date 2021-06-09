@@ -44,6 +44,9 @@ readinglist:
   - quadreadtxt: India's Massive COVID Surge Puzzles Scientists
     quadreadlink: https://www.scientificamerican.com/article/indias-massive-covid-surge-puzzles-scientists/
     quadreadvis: /static/img/f_ev_qua_readvis_3.jpg
+  - quadreadlink: https://openthemagazine.com/essay/vaccine-vexations/
+    quadreadtxt: Vaccine Vexations
+    quadreadvis: /static/img/vaccine-vexations.png
 listeninglist:
   - quadlisttxt: "Coronavirus: India"
     quadlistlink: https://open.spotify.com/episode/5A6YXFGI20ELuMKFO547Tb
