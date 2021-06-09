@@ -1,8 +1,6 @@
 ---
 layout: ant-antibiotics
 featured: true
-cata: spillover
-catb: experimenting
 authortype: ತಂಡ
 thumb: /static/img/F_Exhibit_Thumbnail.jpg
 title: ಜೀವರೋಧಕಗಳಲ್ಲಿ ಇರುವೆಗಳು
@@ -122,7 +120,6 @@ exhibitauthor:
       ಹೊಣೆಗಾರಿಗೆ ವಹಿಸಿಕೊಂಡಿದ್ದಾರೆ. ಸ್ಥಳೀಯ, ರಾಷ್ಟ್ರೀಯ ಹಾಗೂ ಅಂತರ್ರಾಷ್ಟ್ರೀಯ ಮಾಧ್ಯಮ
       ಸಂಸ್ಥೆಗಳೊಡನೆ ಸಂಪರ್ಕ ಕಲ್ಪಿಸಿ ಸಾರ್ವಜನಿಕ ವ್ಯವಹಾರಗಳನ್ನು ನಿಭಾಯಿಸುತ್ತಾರೆ.
     authorname: "ಎಡ್ರಿಯನ್ ಗ್ಯಾಲ್ವಿನ್‌ "
-tervis: /static/img/F_EXHIBIT_TER_VIS_1.jpg
 tertxt: "ಆಕರ್ಷಕ ಗೊದ್ದಗಳ ವಸಾಹತು (ಕ್ಯಾಪ್ಟೀವ್‌ ಆಂಟ್‌ ಕಾಲನಿ): ಮ್ಯಾಟ್‌ ಹಚಿಂಗ್ಸ್‌ ಕೊಡುಗೆ"
 readinglist:
   - quadreadlink: https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines-152647
@@ -136,6 +133,16 @@ readinglist:
   - quadreadlink: https://science.thewire.in/health/antimicrobial-resistance-is-a-serious-threat-to-public-health-in-india/
     quadreadtxt: ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕಗಳು, ಭಾರತಕ್ಕೆ ಗಂಭೀರ ವಿಪತ್ತು.
     quadreadvis: /static/img/f_exhibit_qua_readvis_3.jpg
+relatedlist:
+  - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/moulding-modern-medicine/
+    quadrelatedvis: /static/img/f_exhibit_qua_exptvis_1.jpg
+  - quadrelatedtxt: ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ | ಸಾರಾ ಕ್ರಾಸ್ಕ್
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/theriak/
+    quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
+cata: spillover
+catb: experimenting
+tervis: /static/img/F_EXHIBIT_TER_VIS_1.jpg
 listeninglist:
   - quadlisttxt: "ಇರುವೆ ಗೊದ್ದಗಳ ಮೇಲೆ ನೆಡೆದಿರುವ ಸಂಶೋಧನೆಯಿಂದ, ನಾವು ನಮ್ಮ ಬಗ್ಗೆ ಏನನ್ನು
       ಅರಿತಿದ್ದೇವೆ? "
@@ -147,6 +154,9 @@ listeninglist:
   - quadlisttxt: ಆಂಟ್‌ ಮ್ಯಾನ್:‌ ಇರುವೆ / ಗೊದ್ದಗಳ ಜೀವಶಾಸ್ತ್ರ
     quadlistlink: https://open.spotify.com/episode/1GsYvPa98REzDaK1CYJP55
     quadlistvis: /static/img/f_exhibit_qua_listvis_3.jpg
+  - quadlistlink: https://science.thewire.in/the-sciences/kannada-podcast-how-do-insect-societies-deal-with-infectious-diseases/
+    quadlisttxt: ಕೀಟ ಸಮೂಹಗಳು ಸೋಂಕು ರೋಗಗಳನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸುತ್ತವೆ?
+    quadlistvis: /static/img/inseats-deal-with-infections-kannada-.png
 watchinglist:
   - quadwatchtxt: ಕೋವಿಡ್‌ ಪರಿಸ್ಥಿತಿಯನ್ನೂ ಮೀರಿ ಸೂಕ್ಷ್ಮ ಜೀವಿ ರೋಧಕಗಳಿಗೆ ಎದುರಾಗುವ ಪ್ರತಿರೋಧಕಗಳು
     quadwatchlink: https://lshtm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9b68d250-2c98-43f0-a642-ac3f0136480d
@@ -165,11 +175,4 @@ eventlist:
   - quadeventtxt: ವಿಜ್ಞಾನ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಮಾಜ | ಉಪನ್ಯಾಸ | ಸರ್‌ ಜರೆಮಿ ಫರಾರ್‌
     quadeventlink: https://www.eventbrite.com/e/148321145539
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
-relatedlist:
-  - quadrelatedtxt: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
-    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/moulding-modern-medicine/
-    quadrelatedvis: /static/img/f_exhibit_qua_exptvis_1.jpg
-  - quadrelatedtxt: ಥೇರಿಯಾಕ್‌ | ರೋಗ ನಕ್ಷೆ | ಸಾರಾ ಕ್ರಾಸ್ಕ್
-    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/theriak/
-    quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---
