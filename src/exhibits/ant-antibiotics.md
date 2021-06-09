@@ -1,8 +1,6 @@
 ---
 layout: ant-antibiotics
 featured: true
-cata: spillover
-catb: experimenting
 authortype: Team
 thumb: /static/img/F_Exhibit_Thumbnail.jpg
 title: Putting the Ant into Antibiotics
@@ -117,7 +115,6 @@ exhibitauthor:
       time dealing with public affairs and building relationships with local,
       national and international media organisations.
     authorname: Adrian Galvin
-tervis: /static/img/F_EXHIBIT_TER_VIS_1.jpg
 tertxt: "Captive ant colony. Courtesy of Matt Hutchings. "
 readinglist:
   - quadreadlink: https://theconversation.com/why-resistance-is-common-in-antibiotics-but-rare-in-vaccines-152647
@@ -129,6 +126,19 @@ readinglist:
   - quadreadlink: https://science.thewire.in/health/antimicrobial-resistance-is-a-serious-threat-to-public-health-in-india/
     quadreadtxt: Antimicrobial Resistance is a Serious Threat to India
     quadreadvis: /static/img/f_exhibit_qua_readvis_3.jpg
+  - quadreadlink: https://science.thewire.in/the-sciences/insect-societies-infectious-diseases-raghavendra-gadagkar/
+    quadreadtxt: How Do Insect Societies Deal With Infectious Diseases?
+    quadreadvis: /static/img/how-insects-deal-with-infections.png
+relatedlist:
+  - quadrelatedtxt: Moulding Modern Medicine
+    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
+    quadrelatedvis: /static/img/f_exhibit_qua_exptvis_1.jpg
+  - quadrelatedtxt: "THERIAK | The Disease Map by Sarah Craske "
+    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
+    quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
+cata: spillover
+catb: experimenting
+tervis: /static/img/F_EXHIBIT_TER_VIS_1.jpg
 listeninglist:
   - quadlisttxt: "What Research on Ants Can Teach Us About Ourselves "
     quadlistlink: https://www.findinggeniuspodcast.com/podcasts/ants-ants-and-more-ants-what-research-on-ants-can-teach-us-about-ourselves-and-our-future-as-a-species/
@@ -158,11 +168,4 @@ eventlist:
       Covid-19 pandemic? | Lecture by Dr. Jeremy Farrar "
     quadeventlink: https://www.eventbrite.com/e/148321145539
     quadeventvis: /static/img/f_exhibit_qua_atnvis_2.jpg
-relatedlist:
-  - quadrelatedtxt: Moulding Modern Medicine
-    quadrelatedlink: https://nowtransmitting.com/exhibits/moulding-modern-medicine/
-    quadrelatedvis: /static/img/f_exhibit_qua_exptvis_1.jpg
-  - quadrelatedtxt: "THERIAK | The Disease Map by Sarah Craske "
-    quadrelatedlink: https://nowtransmitting.com/exhibits/theriak/
-    quadrelatedvis: /static/img/f_exhibit_qua_expvis_2.jpg
 ---
