@@ -33,6 +33,9 @@ readinglist:
   - quadreadlink: https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation
     quadreadtxt: The Fight Against Vaccine Misinformation
     quadreadvis: /static/img/K_CO_QUA_READVIS_3.jpg
+  - quadreadlink: https://undark.org/2021/05/21/heidi-larson-interview/
+    quadreadtxt: Heidi J. Larson on Vaccine Hesitancy
+    quadreadvis: /static/img/undark-heidi-interview.png
 permalink: covids/trust-fear-in-pandemic/
 listeninglist:
   - quadlistlink: https://www.vaccineconfidence.org/podcasts/heidi-j-larson-on-the-root-causes-of-vaccine-hesitancy
