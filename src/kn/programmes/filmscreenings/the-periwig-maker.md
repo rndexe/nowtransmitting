@@ -35,6 +35,9 @@ readinglist:
   - quadreadlink: https://themaskarrayed.net/2020/06/19/making-the-senses/
     quadreadtxt: "ಇಂದ್ರಿಯಗಳಿಗೆ ಗೌಸು: ಗೌಸಿನ ಪದರಗಳನ್ನು ದಾಟಿ ನಮ್ಮ ಸಂವೇದನಶೀಲತೆ."
     quadreadvis: /static/img/A_FS_QUA_READVIS_3.jpg
+  - quadreadlink: https://www.newyorker.com/books/page-turner/how-do-plague-stories-end
+    quadreadtxt: ಪ್ಲೇಗ್‌ ಕಥೆಗಳು ಹೇಗೆ ಕೊನೆಯಾಗುತ್ತವೆ?
+    quadreadvis: /static/img/how-do-plague-stories-end.png
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5wlAoqA3nc7Twkuj9tGpoS
     quadlisttxt: ಬೃಹತ್‌ ಪ್ಲೇಗ್ ರೋಗದಿಂದ ಉಳಿವು
