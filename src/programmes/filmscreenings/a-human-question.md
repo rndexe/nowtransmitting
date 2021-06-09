@@ -43,7 +43,7 @@ readinglist:
   - quadreadlink: https://scroll.in/article/995839/40-years-after-aids-remembering-dominic-dsouza-the-first-indian-diagnosed-with-hiv-infection?fbclid=IwAR1yazoHGZhwEHTu60DGBrhjZuE0mMRFx8oliafBRQon2EfhQe3TAwzCQmY
     quadreadtxt: "40 Years After Aids, Remembering Dominic D’souza, The First Indian
       Diagnosed With Hiv Infection "
-    quadreadvis: /static/img/12-people-behind-vaccine-hoax.png
+    quadreadvis: /static/img/remembering-dominic-d_souza.png
 listeninglist:
   - quadlisttxt: "Fast-Track Cities and the AIDS Response "
     quadlistlink: https://podcasts.apple.com/us/podcast/fast-track-cities-and-the-aids-response/id1459288389?i=1000437158557
