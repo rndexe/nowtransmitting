@@ -45,6 +45,9 @@ listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5l3bDEqrhJhJj3sSUppndY?si=ldL-e0_mRS6xg4gfm92IlQ
     quadlisttxt: ಕೋವಿಡ್-19‌  ರೋಗ ಪಿಡುಗಿನ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ವಿಭಿನ್ನ ದೇಶಗಳನ್ನು ಹೋಲಿಸ ಬಹುದೇ?
     quadlistvis: /static/img/K_PL_QUA_LISTVIS_2.jpg
+  - quadlistlink: https://www.npr.org/programs/ted-radio-hour/947666071/making-sense-of-2020
+    quadlisttxt: 2020 ಅನ್ನು ಅರ್ಥೈಸುವ ಬಗೆ
+    quadlistvis: /static/img/making-sense-of-2020.png
 watchinglist:
   - quadwatchlink: https://www.youtube.com/watch?v=0idthcqapD8
     quadwatchtxt: ವಿಜ್ಞಾನವು ಜೀವನಕ್ಕೆ  ಅರ್ಥ ನೀಡ ಬಲ್ಲದೇ?
