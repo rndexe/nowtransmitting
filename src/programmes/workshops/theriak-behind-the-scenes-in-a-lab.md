@@ -5,7 +5,7 @@ cata: trigger
 catb: experimenting
 thumb: /static/img/e_exhibit_qua_atnvis_1.jpg
 cover: /static/img/M_WK_Coverimage.jpg
-date: 2021-06-13T08:30:00.000Z
+date: 2021-07-30T08:30:00.000Z
 description: >-
   Disease maps are a long-standing scientific tool used to understand the spread
   of disease across populations. Craske’s The Disease Map takes an engraving of
