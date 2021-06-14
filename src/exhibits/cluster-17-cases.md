@@ -1,6 +1,8 @@
 ---
 layout: cluster-17-cases
 authortype: Team
+cata: transmission
+catb: documenting
 thumb: /static/img/H_Exhibit_Thumbnail.jpg
 title: A Cluster of 17 Cases
 subtitle: The corridor of uncertainty
