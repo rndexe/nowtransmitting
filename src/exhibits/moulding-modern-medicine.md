@@ -1,13 +1,11 @@
 ---
 layout: moulding-modern-medicine
 authortype: Sources
-cata: spillover
-catb: narrating
 thumb: /static/img/N_Exhibit_Thumbnail.jpg
 title: Moulding Modern Medicine
 subtitle: Bacterial Stories--The Resistance is Here
 medium: Sound, Images
-year: --
+year: "1945"
 description: >-
   Alexander Fleming (1881–1955) was a Scottish medical bacteriologist at St.
   Mary’s Hospital Medical School in London. He is most popularly known for his
@@ -87,6 +85,15 @@ readinglist:
   - quadreadlink: http://labiotech.eu/more-news/anna-dumitriu-crispr-antibiotic-resistance/
     quadreadtxt: Art Made with CRISPR Aims to Raise Awareness of Antibiotic Resistance
     quadreadvis: /static/img/N_EXHIBIT_QUA_READVIS_3.jpg
+relatedlist:
+  - quadrelatedtxt: Putting the Ant in Antibiotics by John Innes Centre
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
+  - quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
+    quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
+cata: spillover
+catb: narrating
 listeninglist:
   - quadlistlink: https://podcasts.ox.ac.uk/fight-resistance
     quadlisttxt: Fight the Resistance
@@ -116,11 +123,4 @@ eventlist:
       | Lecture by Dr. George Peter Lomonossoff"
     quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://nowtransmitting.com/programmes/lectures/contagium-vivum-fluidum/
-relatedlist:
-  - quadrelatedtxt: Putting the Ant in Antibiotics by John Innes Centre
-    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/exhibits/ant-antibiotics/
-  - quadrelatedlink: https://nowtransmitting.com/exhibits/wendell-stanley/
-    quadrelatedtxt: "Wendell Stanley: Crystallizing Viral History"
-    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
