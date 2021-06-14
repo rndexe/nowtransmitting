@@ -1,8 +1,6 @@
 ---
 layout: cluster-17-cases
 authortype: ತಂಡ
-cata: transmission
-catb: documenting
 thumb: /static/img/H_Exhibit_Thumbnail.jpg
 title: 17 ಪ್ರಕರಣಗಳ ಹೊನಲು
 subtitle: ಅನಿಶ್ಚಿತತೆಯ ನಡುವೆ
@@ -18,7 +16,7 @@ description: >-
 
   ಈ ಅನುಕರಣಾತ್ಮಕ ಪ್ರದರ್ಶಿಕೆಯಲ್ಲಿ, ನಾವು ಮೆಟ್ರೊಪೋಲ್‌ ಹೋಟೇಲನ್ನು ರೋಗ ಹರಡಿದ ರಾತ್ರಿಯೆಂದು ಭಾವಿಸಿ, 17 ಸಾರ್ಸ್‌ ಪ್ರಕರಣಗಳು ಪತ್ತೆಯಾದ ಎಲ್ಲ ಕೊಠಡಿಗಳಲ್ಲಿ ಜರುಗಿದ ಪ್ರತಿಯೊಂದು ಘಟನೆಯನ್ನೂ ದಾಖಲಿಸುತ್ತೇವೆ.
 privis: https://player.vimeo.com/video/545592333
-pritxt: https://www.17cases.com/
+pritxt: ""
 exhibitauthor:
   - authorimage: /static/img/h_exhibit_sec_vvis_1.png
     authorname: ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
@@ -42,7 +40,6 @@ processimages:
     tertxt: ಕಿರು ಕ್ಯಾಮರಾ ಮೂಲಕ ಅಲ್ಯೂಮಿನಿಯಮ್‌ ಪ್ರತಿಕೃತಿಯನ್ನು ವಿ.ಎಫ್‌. ಎಕ್ಸ್‌ ಬಳಸಿ
       ವಿಕಸನ ಗೊಳಿಸಿರುವ ಚಿತ್ರಸಂಚಲನ
 terpdf: //e.issuu.com/embed.html?d=a_cluster_info_pack&hideIssuuLogo=true&u=sciencegallerybengaluru
-terpdftxt: 17 ಪ್ರಕರಣಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಮಾಹಿತಿ ಹೊನಲು.
 readinglist:
   - quadreadlink: https://wellcomecollection.org/articles/Xl0YSxIAACEAQiBn
     quadreadtxt: ವಿಷಯಗಳು ಹಬ್ಬುವುದರ ಬಗೆಗಿನ ವಿಜ್ಞಾನ
@@ -60,6 +57,8 @@ relatedlist:
   - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/h_exhibit_qua_exptxt_2.jpg
     quadrelatedlink: https://nowtransmitting.com/kn/exhibits/indoor-safety-guidelines/
+cata: transmission
+catb: documenting
 authorimage: /static/img/H_EXHIBIT_SEC_VIS_1.png
 exhibitembed1: https://aco17c.netlify.app/
 watchinglist:
@@ -77,6 +76,7 @@ watchinglist:
       ಹೇಗೆ ಎದುರಿಸುತ್ತಿದೆ?"
     quadwatchvis: /static/img/h_exhbit_qua_watchvis_4.jpg
 authorname: Blast Theory
+terpdftxt: 17 ಪ್ರಕರಣಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಮಾಹಿತಿ ಹೊನಲು.
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
     quadlisttxt: "ರೋಗ ಪತ್ತೆದಾರರು: ರೋಗ ಪಿಡುಗನ್ನು ಪತ್ತೆ ಮಾಡುವುದು ಹೇಗೆ"
