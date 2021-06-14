@@ -109,6 +109,7 @@ permalink: /programmes/
                                 Schedule Tasks
                             </div> -->
                 
+                            <!-- Calendar div -->
                             <div class="bg-white overflow-hidden h-15">
                 
                                 <div class="flex flex-col lg:flex-row lg:py-2 ">
@@ -116,6 +117,7 @@ permalink: /programmes/
                                     <div class="flex flex-grow items-end">
                                         <p class="text-xs lg:text-sm lg:pl-36 font-trade text-center w-full" style="color: #b9b9b9;"> Click on a day to view events</p>
                                     </div>
+                                    <!-- Selecting month -->
                                     <div class="flex flex-none mx-auto w-42" style="padding-top: 2px;">
                                       <button 
                                             type="button"
@@ -145,6 +147,7 @@ permalink: /programmes/
                                     </div>
                                 </div>	
                 
+                                <!-- Creating days in the calendar -->
                                 <div class="-mx-1 -mb-1" >
                                     <div class="flex flex-wrap" style="margin-bottom: 0px;">
                                         <template x-for="(day, index) in DAYS" :key="index">	
@@ -157,12 +160,14 @@ permalink: /programmes/
                                     </div>
                 
                                     <div class="flex flex-wrap px-2 pb-2" >
+                                        <!-- Creating empty days -->
                                         <template x-for="blankday in blankdays">
                                             <div 
                                                 style="width: 14.28%;"
                                                 class="text-center border px-1 pt-1 h-10 lg:h-20"	
                                             ></div>
                                         </template>	
+                                        <!-- Creating non-empty days -->
                                         <template x-for="(date, dateIndex) in no_of_days" :key="dateIndex" >	
                                             <div style="width: 14.28%;" class="h-10 lg:h-20 px-1 pt-1 items-center border relative cursor-pointer hover-trigger hover:bg-gray-800 hover:opacity-80 transition ease-in ease-out duration-100" 
                                             @click="showEventModal(date)"
@@ -175,6 +180,7 @@ permalink: /programmes/
                                                   <p class="hover-target-show font-trade w-full text-center">View all events</p>
                                                 </template> 
                                                 <div class="h-5 lg:h-10 overflow-y-hidden mt-px hover-target-hide">
+                                                  <!-- Adding the events in the respective days to the calendar -->
                                                   <template x-for="event in shownEvents.filter(e => new Date(e.date).toDateString() ===  new Date(year, month, date).toDateString() )">	
                                                       <div class="py-1 overflow-hidden flex">  
                                                             <p class="text-xs lg:text-sm align-top"
@@ -191,6 +197,7 @@ permalink: /programmes/
                             </div> 
                         </div>
 
+                        <!-- All the stuff on the right side - menu, links, partners -->
                         <div class="lg:flex-col lg:flex-grow items-left justify-content w-full lg:w-1/5 lg:h-11/12 pb-20 pl-5 lg:pl-10 lg:pt-20 relative">
                             <p class="font-display text-sm lg:text-md">Select Event Type</p>
                               
@@ -234,7 +241,7 @@ permalink: /programmes/
                         </div>
                         
                 
-                        <!-- Modal -->
+                        <!-- Modal which opens when we click on a certain date -->
                         <div style=" background-color: rgba(0, 0, 0, 0.8)" class="fixed z-40 top-0 right-0 left-0 bottom-0 h-full w-full" x-show.transition.opacity="openEventModal">
                             <div class="p-4 max-w-xl mx-auto relative absolute left-0 right-0 overflow-hidden mt-24">
                                 <div class="shadow absolute right-0 top-0 w-10 h-10 rounded-full bg-white text-gray-500 hover:text-gray-800 inline-flex items-center justify-center cursor-pointer"
@@ -262,6 +269,7 @@ permalink: /programmes/
                     </div>
                 
                     <script>
+                        //First we have all the list of months and days
                         const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
                         const DAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
                         document.getElementById("all").checked = 'true';                        
@@ -305,6 +313,7 @@ permalink: /programmes/
                 
                                 openEventModal: false,
                 
+                                //Initialising the calendar with the current date 
                                 initDate() {
                                     let today = new Date();
                                     this.month = today.getMonth();
@@ -323,7 +332,7 @@ permalink: /programmes/
                                 },
 
                                 
-                
+                                //This function is used to check which day in the calendar is today
                                 isToday(date) {
                                     const today = new Date();
                                     const d = new Date(this.year, this.month, date);
@@ -331,6 +340,9 @@ permalink: /programmes/
                                     return today.toDateString() === d.toDateString() ? true : false;
                                 },
                 
+                                //This is the function which does the selecting of a certain type of event from the radio buttons
+                                //on the right side. Basically we filter the entire list of programmes to show only lectures or
+                                //only workshops and so on.
                                 tester(){
                                   const all = document.getElementById('all')
                                   const lectures = document.getElementById("lectures")
@@ -362,6 +374,8 @@ permalink: /programmes/
                                     })
                                   }
                                 },
+                                //This is the function to show the popup card with all the events of a certain date, when you click on the 
+                                //respective date on the calendar
                                 showEventModal(date) {
                                     
                                     // open the modal
@@ -434,6 +448,7 @@ permalink: /programmes/
                                     this.openEventModal = false;
                                 },
                 
+                                //Used to get the total number of days
                                 getNoOfDays() {
                                     let daysInMonth = new Date(this.year, this.month + 1, 0).getDate();
                 
