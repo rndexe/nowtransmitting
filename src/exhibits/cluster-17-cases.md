@@ -18,7 +18,7 @@ description: >
 
   In this interactive exhibit, we virtually enter the Metropole Hotel on that fateful night, and explore the events that took place in the 17 rooms where the first cluster of SARS cases were detected. We go on a journey with epidemiologists to understand how they studied the movements of the guests between each room. This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences. In the end, we come away with a renewed appreciation for how public health experts grapple with fear and uncertainty in the face of an unknown disease. 
 privis: https://player.vimeo.com/video/545592333
-pritxt: ""
+pritxt: "#"
 exhibitauthor:
   - authorimage: /static/img/h_exhibit_sec_vvis_1.png
     authorbio: >-
@@ -58,8 +58,6 @@ relatedlist:
   - quadrelatedtxt: "COVID-19 Indoor Safety Guidelines by Martin Bazant "
     quadrelatedvis: /static/img/h_exhibit_qua_exptxt_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
-cata: transmission
-catb: documenting
 authorimage: /static/img/H_EXHIBIT_SEC_VIS_1.png
 exhibitembed1: https://aco17c.netlify.app/
 watchinglist:

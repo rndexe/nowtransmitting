@@ -18,7 +18,7 @@ description: >-
 
   ಈ ಅನುಕರಣಾತ್ಮಕ ಪ್ರದರ್ಶಿಕೆಯಲ್ಲಿ, ನಾವು ಮೆಟ್ರೊಪೋಲ್‌ ಹೋಟೇಲನ್ನು ರೋಗ ಹರಡಿದ ರಾತ್ರಿಯೆಂದು ಭಾವಿಸಿ, 17 ಸಾರ್ಸ್‌ ಪ್ರಕರಣಗಳು ಪತ್ತೆಯಾದ ಎಲ್ಲ ಕೊಠಡಿಗಳಲ್ಲಿ ಜರುಗಿದ ಪ್ರತಿಯೊಂದು ಘಟನೆಯನ್ನೂ ದಾಖಲಿಸುತ್ತೇವೆ.
 privis: https://player.vimeo.com/video/545592333
-pritxt: ""
+pritxt: "#"
 exhibitauthor:
   - authorimage: /static/img/h_exhibit_sec_vvis_1.png
     authorname: ಬ್ಲಾಸ್ಟ್‌ ಥಿಯರಿ
@@ -59,8 +59,6 @@ relatedlist:
   - quadrelatedtxt: ಕೋವಿಡ್-19 ‌ಒಳಾಂಗಣ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ | ಮಾರ್ಟಿನ್‌ ಬ್ಯಸೆಂಟ್
     quadrelatedvis: /static/img/h_exhibit_qua_exptxt_2.jpg
     quadrelatedlink: https://nowtransmitting.com/kn/exhibits/indoor-safety-guidelines/
-cata: transmission
-catb: documenting
 authorimage: /static/img/H_EXHIBIT_SEC_VIS_1.png
 exhibitembed1: https://aco17c.netlify.app/
 watchinglist:
