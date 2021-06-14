@@ -1,8 +1,6 @@
 ---
 layout: cluster-17-cases
 authortype: Team
-cata: transmission
-catb: documenting
 thumb: /static/img/H_Exhibit_Thumbnail.jpg
 title: A Cluster of 17 Cases
 subtitle: The corridor of uncertainty
@@ -18,7 +16,7 @@ description: >
 
   In this interactive exhibit, we virtually enter the Metropole Hotel on that fateful night, and explore the events that took place in the 17 rooms where the first cluster of SARS cases were detected. We go on a journey with epidemiologists to understand how they studied the movements of the guests between each room. This experience reveals how even the most banal action, like touching a handrail, can have unforeseen consequences. In the end, we come away with a renewed appreciation for how public health experts grapple with fear and uncertainty in the face of an unknown disease. 
 privis: https://player.vimeo.com/video/545592333
-pritxt: https://www.17cases.com/
+pritxt: ""
 exhibitauthor:
   - authorimage: /static/img/h_exhibit_sec_vvis_1.png
     authorbio: >-
@@ -41,7 +39,6 @@ processimages:
     tertxt: A test shot from the VFX studio as they film the aluminium model with a
       miniature camera.
 terpdf: //e.issuu.com/embed.html?d=a_cluster_info_pack&hideIssuuLogo=true&u=sciencegallerybengaluru
-terpdftxt: "Info pack about A Cluster of 17 Cases. "
 readinglist:
   - quadreadlink: https://wellcomecollection.org/articles/Xl0YSxIAACEAQiBn
     quadreadtxt: The Science of Why Things Spread
@@ -59,6 +56,8 @@ relatedlist:
   - quadrelatedtxt: "COVID-19 Indoor Safety Guidelines by Martin Bazant "
     quadrelatedvis: /static/img/h_exhibit_qua_exptxt_2.jpg
     quadrelatedlink: https://nowtransmitting.com/exhibits/indoor-safety-guidelines/
+cata: transmission
+catb: documenting
 authorimage: /static/img/H_EXHIBIT_SEC_VIS_1.png
 exhibitembed1: https://aco17c.netlify.app/
 watchinglist:
@@ -75,6 +74,7 @@ watchinglist:
     quadwatchtxt: "COVID-19 and SARS: How the World Battled a Deadly Respiratory Illness"
     quadwatchvis: /static/img/h_exhbit_qua_watchvis_4.jpg
 authorname: Blast Theory
+terpdftxt: "Info pack about A Cluster of 17 Cases. "
 listeninglist:
   - quadlistlink: https://open.spotify.com/episode/5iemanucOhh5iX5Y2hChAH
     quadlisttxt: "Disease Detectives: How to Track Epidemics"
