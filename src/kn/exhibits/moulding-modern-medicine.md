@@ -1,13 +1,11 @@
 ---
 layout: moulding-modern-medicine
 authortype: ಮೂಲಗಳು
-cata: spillover
-catb: narrating
 thumb: /static/img/N_Exhibit_Thumbnail.jpg
 title: ಆಧುನಿಕ ಔಷಧಗಳ ರೂಪು ರೇಖೆ
 subtitle: "ಸೂಕ್ಷ್ಮಾಣು ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಥೆಗಳು – ಪ್ರತಿರೋಧಕಗಳ ಅರಿವು ಇಲ್ಲಿದೆ  "
 medium: ಶಬ್ದ, ಪ್ರತಿ-ಆಕೃತಿಗಳು
-year: --
+year: "1945"
 description: >-
   ಅಲೆಕ್ಸಾಂಡರ್‌ ಫ್ಲೆಮಿಂಗ್‌ (1881–1955), ಲಂಡನ್‌ ನ ಸೇಂಟ್‌ ಮೇರೀಸ್‌ ಹಾಸ್ಪಿಟಲ್‌
   ಮೆಡಿಕಲ್‌ ಸ್ಕೂಲ್‌ ಅಲ್ಲಿ ಕಾರ್ಯನಿರತರಾಗಿದ್ದಂತಹ ಸ್ಕಾಟಿಶ್‌ ಬ್ಯಾಕ್ಟೀರಿಯಾ
@@ -100,6 +98,15 @@ readinglist:
     quadreadtxt: "ಸೂಕ್ಷ್ಮ ಜೀವ ರೋಧಕಗಳಿಗೆ ಪ್ರತಿರೋಧಕ ಶಕ್ತಿ ಉತ್ಪನ್ನದ ಬಗ್ಗೆ ಅರಿವನ್ನು
       ಮೂಡಿಸುವ ಕ್ರಿಸ್ಪರ್‌ ಕಲೆ "
     quadreadvis: /static/img/N_EXHIBIT_QUA_READVIS_3.jpg
+relatedlist:
+  - quadrelatedtxt: "ಜೀವರೋಧಕಗಳಲ್ಲಿ ಇರುವೆಗಳು | ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ "
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
+    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/ant-antibiotics/
+  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/wendell-stanley/
+    quadrelatedtxt: "ವೆಂಡೆಲ್‌ ಸ್ಟಾನ್ಲೇ: ವೈರಾಣು ಇತಿಹಾಸದ ಚಿತ್ರಣ "
+    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
+cata: spillover
+catb: narrating
 listeninglist:
   - quadlistlink: https://podcasts.ox.ac.uk/fight-resistance
     quadlisttxt: "ಪ್ರತಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಎದುರಿಸಿ "
@@ -130,11 +137,4 @@ eventlist:
       ಸ್ನೇಹಿತರು | ಉಪನ್ಯಾಸ | ಜಾರ್ಜ್‌ ಲೊಮೊನೋಸೊಫ್ಫ್‌"
     quadeventvis: /static/img/N_EXHIBIT_QUA_ATNVIS_2.jpg
     quadeventlink: https://www.eventbrite.com/e/145398876955
-relatedlist:
-  - quadrelatedtxt: "ಜೀವರೋಧಕಗಳಲ್ಲಿ ಇರುವೆಗಳು | ಜ್ಹಾನ್‌ ಇನ್ಸ್ ಕೇಂದ್ರ "
-    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_1.jpg
-    quadrelatedlink: https://nowtransmitting.com/kn/exhibits/ant-antibiotics/
-  - quadrelatedlink: https://nowtransmitting.com/kn/exhibits/wendell-stanley/
-    quadrelatedtxt: "ವೆಂಡೆಲ್‌ ಸ್ಟಾನ್ಲೇ: ವೈರಾಣು ಇತಿಹಾಸದ ಚಿತ್ರಣ "
-    quadrelatedvis: /static/img/N_EXHIBIT_QUA_EXPVIS_2.jpg
 ---
