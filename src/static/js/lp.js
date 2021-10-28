@@ -512,6 +512,8 @@ var year = d.getFullYear()
 
 //TODO 2
 // add more nodes here to change the number of programmes for wach week
+
+//REMOVE LINES 517 to 526 TO REMOVE THE BLUE BUBBLES ALLTOGETHER
 nodes.add({ id: 24,  shape:"circle", group: 1,x:800,y:1800, borderWidth: 0,  font:  { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
 nodes.add({ id: 25,  shape:"circle", group: 1,x:-100,y:700,  borderWidth: 0,  font: { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
 nodes.add({ id: 26,  shape:"circle", group: 1,x:700,y:1550,  borderWidth: 0,  font:    { size: blobSizeBlue, color:"#fff" }, color: {border: "#3e6cda", background: "#3e6cda", hover: { background: "#3e6cda",}, highlight: { background: "#3e6cda", }}, hidden:false, padding:20,label: "  "});
@@ -735,6 +737,8 @@ network.on("blurNode", function (params) {
 function updater(){
     project.clear()
     //This is the lis of node ids which will have the white background
+    //REMOVE IDs GREATER THAN 23 WHEN REMOVING ALL THE BLUE BUBBLES.
+    //IF YOU DONT DO THIS, YOU'LL GET AN ERROR
     var nodeID = [8,10,14,17,19,24,25,27,29,31,33];
 
     ballPositions = [];
