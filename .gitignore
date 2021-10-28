@@ -2,6 +2,7 @@ _site/
 _tmp/
 .DS_Store
 node_modules/
+nowtransmitting_fresh/
 .vscode/
 _site/
 *git/
